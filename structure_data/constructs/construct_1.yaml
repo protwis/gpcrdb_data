@@ -1,0 +1,11 @@
+name: construct_1
+protein: adrb2_human
+truncations:
+    - [1,28]
+    - [231,262]
+mutations:
+    - N187E
+    - C54T
+    - C97A
+fusion_proteins:
+    - [1002,1161]
