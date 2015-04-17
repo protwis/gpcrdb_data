@@ -5,16 +5,14 @@ publication_date: 2007-10-30
 pubmed_id: 17962520
 
 # Structure annotations
-ligand: Carazolol
-ligand_inchi:
-ligand_function: Inverse agonist
+ligand: [{name: Carazolol, role: Inverse agonist}]
 state: Inactive
 preferred_chain: A
 g_protein: None
-fusion_protein: T4-Lysozyme
+fusion_protein: [T4-Lysozyme]
 
 # Other data
-construct: construct_id
+construct: 2RH1
 segments:
     TM1: [29,60]
     ICL1: [61,66]
