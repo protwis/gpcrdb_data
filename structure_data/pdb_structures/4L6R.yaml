@@ -1,0 +1,41 @@
+# PDB data
+
+pdb: 4L6R
+publication_date: '2013-07-24'
+pubmed_id: '23863937'
+resolution: '3.30'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: '', role: N/A}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 4L6R
+segments:
+  C-term: ['418,477']
+  ECL1: ['199,216']
+  ECL2: ['290,303']
+  ECL3: ['368,375']
+  H8: ['401,417']
+  ICL1: ['165,171']
+  ICL2: ['255,263']
+  ICL3: ['335,341']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,125']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['126,164']
+  TM2: ['172,198']
+  TM3: ['217,254']
+  TM4: ['264,289']
+  TM5: ['304,334']
+  TM6: ['342,367']
+  TM7: ['376,400']

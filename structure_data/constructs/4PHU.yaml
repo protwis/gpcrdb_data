@@ -1,0 +1,8 @@
+fusion_proteins:
+-   name: T4-Lysozyme
+    positions: [1, 2]
+    sequence: ''
+mutations: ''
+name: 4PHU
+protein: ffar1_human
+truncations: ''

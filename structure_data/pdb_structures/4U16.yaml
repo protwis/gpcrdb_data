@@ -1,0 +1,41 @@
+# PDB data
+
+pdb: 4U16
+publication_date: '2014-11-26'
+pubmed_id: '25450769'
+resolution: '3.70'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: N-methylscopolamine, role: Antagonist}
+preferred_chain: B
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 4U16
+segments:
+  C-term: ['556,589']
+  ECL1: ['131,136']
+  ECL2: ['204,229']
+  ECL3: ['516,522']
+  H8: ['547,555']
+  ICL1: ['95,100']
+  ICL2: ['171,180']
+  ICL3: ['257,491']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,64']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['65,94']
+  TM2: ['101,130']
+  TM3: ['137,170']
+  TM4: ['181,203']
+  TM5: ['230,256']
+  TM6: ['492,515']
+  TM7: ['523,546']

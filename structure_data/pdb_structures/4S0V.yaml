@@ -1,0 +1,41 @@
+# PDB data
+
+pdb: 4S0V
+publication_date: '2015-01-26'
+pubmed_id: '25533960'
+resolution: '2.50'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: Suvorexant, role: Antagonist}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 4S0V
+segments:
+  C-term: ['380,444']
+  ECL1: ['118,123']
+  ECL2: ['190,220']
+  ECL3: ['330,343']
+  H8: ['364,379']
+  ICL1: ['82,87']
+  ICL2: ['158,165']
+  ICL3: ['253,291']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,46']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['47,81']
+  TM2: ['88,117']
+  TM3: ['124,157']
+  TM4: ['166,189']
+  TM5: ['221,252']
+  TM6: ['292,329']
+  TM7: ['344,363']

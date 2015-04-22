@@ -1,0 +1,41 @@
+# PDB data
+
+pdb: 3OE6
+publication_date: '2010-10-27'
+pubmed_id: '20929726'
+resolution: '3.20'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: IT1t, role: Antagonist}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 3OE6
+segments:
+  C-term: ['-,-']
+  ECL1: ['100,104']
+  ECL2: ['173,192']
+  ECL3: ['267,273']
+  H8: ['302,352']
+  ICL1: ['63,71']
+  ICL2: ['140,144']
+  ICL3: ['226,231']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,36']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['37,62']
+  TM2: ['72,99']
+  TM3: ['105,139']
+  TM4: ['145,172']
+  TM5: ['193,225']
+  TM6: ['232,266']
+  TM7: ['274,301']

@@ -1,0 +1,8 @@
+fusion_proteins:
+-   name: Rubredoxin
+    positions: [1, 2]
+    sequence: ''
+mutations: ''
+name: 4MBS
+protein: ccr5_human
+truncations: ''

@@ -1,0 +1,8 @@
+fusion_proteins:
+-   name: T4-Lysozyme
+    positions: [1, 2]
+    sequence: ''
+mutations: ''
+name: 3NY8
+protein: adrb2_human
+truncations: ''

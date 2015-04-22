@@ -1,0 +1,41 @@
+# PDB data
+
+pdb: 4EA3
+publication_date: '2012-04-25'
+pubmed_id: '22596163'
+resolution: '3.01'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: Compound 24, role: Antagonist}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 4EA3
+segments:
+  C-term: ['334,370']
+  ECL1: ['114,118']
+  ECL2: ['187,210']
+  ECL3: ['288,294']
+  H8: ['323,333']
+  ICL1: ['78,84']
+  ICL2: ['154,163']
+  ICL3: ['243,251']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,48']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['49,77']
+  TM2: ['85,113']
+  TM3: ['119,153']
+  TM4: ['164,186']
+  TM5: ['211,242']
+  TM6: ['252,287']
+  TM7: ['295,322']

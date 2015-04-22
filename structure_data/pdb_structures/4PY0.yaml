@@ -1,0 +1,41 @@
+# PDB data
+
+pdb: 4PY0
+publication_date: '2014-04-30'
+pubmed_id: '24784220'
+resolution: '3.10'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: 2MeSATP, role: Agonist (partial)}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 4PY0
+segments:
+  C-term: ['312,342']
+  ECL1: ['85,92']
+  ECL2: ['161,180']
+  ECL3: ['257,269']
+  H8: ['302,311']
+  ICL1: ['51,57']
+  ICL2: ['128,137']
+  ICL3: ['223,234']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,20']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['21,50']
+  TM2: ['58,84']
+  TM3: ['93,127']
+  TM4: ['138,160']
+  TM5: ['181,222']
+  TM6: ['235,256']
+  TM7: ['270,301']

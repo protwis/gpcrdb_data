@@ -1,0 +1,8 @@
+fusion_proteins:
+-   name: T4-Lysozyme
+    positions: [1, 2]
+    sequence: ''
+mutations: ''
+name: 3EML
+protein: aa2ar_human
+truncations: ''

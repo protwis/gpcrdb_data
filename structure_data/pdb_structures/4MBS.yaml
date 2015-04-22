@@ -1,0 +1,41 @@
+# PDB data
+
+pdb: 4MBS
+publication_date: '2013-09-11'
+pubmed_id: '24030490'
+resolution: '2.71'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: Maraviroc, role: Antagonist}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 4MBS
+segments:
+  C-term: ['313,352']
+  ECL1: ['92,97']
+  ECL2: ['165,186']
+  ECL3: ['265,268']
+  H8: ['301,312']
+  ICL1: ['58,63']
+  ICL2: ['132,141']
+  ICL3: ['223,228']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,25']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['26,57']
+  TM2: ['64,91']
+  TM3: ['98,131']
+  TM4: ['142,164']
+  TM5: ['187,222']
+  TM6: ['229,264']
+  TM7: ['269,300']

@@ -1,0 +1,8 @@
+fusion_proteins:
+-   name: BRIL
+    positions: [1, 2]
+    sequence: ''
+mutations: ''
+name: 4NC3
+protein: 5ht2b_human
+truncations: ''

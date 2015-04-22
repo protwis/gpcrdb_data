@@ -1,0 +1,41 @@
+# PDB data
+
+pdb: 3V2Y
+publication_date: '2012-02-15'
+pubmed_id: '22344443'
+resolution: '2.80'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: Spingolipid mimic, role: Antagonist}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 3V2Y
+segments:
+  C-term: ['324,382']
+  ECL1: ['105,114']
+  ECL2: ['177,199']
+  ECL3: ['281,293']
+  H8: ['315,323']
+  ICL1: ['73,80']
+  ICL2: ['147,157']
+  ICL3: ['231,250']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,41']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['42,72']
+  TM2: ['81,104']
+  TM3: ['115,146']
+  TM4: ['158,176']
+  TM5: ['200,230']
+  TM6: ['251,280']
+  TM7: ['294,314']

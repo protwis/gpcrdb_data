@@ -1,0 +1,41 @@
+# PDB data
+
+pdb: 4PHU
+publication_date: '2014-07-16'
+pubmed_id: '25043059'
+resolution: '2.33'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: TAK-875, role: Agonist}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 4PHU
+segments:
+  C-term: ['-,-']
+  ECL1: ['68,75']
+  ECL2: ['143,176']
+  ECL3: ['250,251']
+  H8: ['279,300']
+  ICL1: ['34,41']
+  ICL2: ['110,119']
+  ICL3: ['210,215']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,1']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['2,33']
+  TM2: ['42,67']
+  TM3: ['76,109']
+  TM4: ['120,142']
+  TM5: ['177,209']
+  TM6: ['216,249']
+  TM7: ['252,278']

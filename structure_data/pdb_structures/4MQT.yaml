@@ -1,0 +1,42 @@
+# PDB data
+
+pdb: 4MQT
+publication_date: '2013-11-27'
+pubmed_id: '24256733'
+resolution: '3.70'
+
+# Structure annotations
+
+g_protein: Nanobody
+ligand:
+- {name: 'Iperoxo', role: Agonist}
+- {name: 'LY2119620', role: PAM}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 4MQT
+segments:
+  C-term: ['455,466']
+  ECL1: ['86,94']
+  ECL2: ['160,183']
+  ECL3: ['413,419']
+  H8: ['444,454']
+  ICL1: ['51,56']
+  ICL2: ['127,136']
+  ICL3: ['214,383']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,22']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['23,50']
+  TM2: ['57,85']
+  TM3: ['95,126']
+  TM4: ['137,159']
+  TM5: ['184,213']
+  TM6: ['384,412']
+  TM7: ['420,443']

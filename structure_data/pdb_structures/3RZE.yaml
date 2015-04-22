@@ -1,0 +1,41 @@
+# PDB data
+
+pdb: 3RZE
+publication_date: '2011-06-15'
+pubmed_id: '21697825'
+resolution: '3.10'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: 'Doxepin (E,Z)', role: Antagonist}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+bulges: ''
+constrictions: ''
+construct: 3RZE
+segments:
+  C-term: ['484,487']
+  ECL1: ['90,95']
+  ECL2: ['164,187']
+  ECL3: ['442,449']
+  H8: ['472,483']
+  ICL1: ['55,63']
+  ICL2: ['131,140']
+  ICL3: ['217,407']
+  ICL3_1: ['-,-']
+  ICL3_2: ['-,-']
+  N-term: ['1,32']
+  N-term_1: ['-,-']
+  N-term_2: ['-,-']
+  TM1: ['33,54']
+  TM2: ['64,89']
+  TM3: ['96,130']
+  TM4: ['141,163']
+  TM5: ['188,216']
+  TM6: ['408,441']
+  TM7: ['450,471']
