@@ -108,7 +108,7 @@ ID	Protein ID	Class	PDB	Endogenous Ligand	Res (Å)	X-ray Ligand	Ligand function	
 107	p2y12_human	A	4PY0	ADP	3.10	2MeSATP	Agonist (partial)	A	24784220	2014-04-30 00:00:00	None	BRIL	Partial	Full	Partial	Partial	Full	Full	Partial	Full	Partial
 108	grm5_human	C	4OO9	Glutamate	2.60	Mavoglurant	NAM	A	25042998	2014-07-02 00:00:00	None	T4-Lysozyme	Partial	Full	Full	None	Partial	Partial	Full	Full	Partial
 109	smo_human	F	4QIN	N/A	2.60	SAG1.5	Agonist	A	25008467	2014-07-14 00:00:00	None	BRIL	Partial	Full	Full	Full	Full	Full	Partial	Partial	Partial
-110	smo_human	F	4QIM	N/A	2.61	ANTA XV	Antagonist	A	25008468	2014-07-14 00:00:00	None	BRIL	Partial	Full	Full	Partial	Full	Full	Partial	Full	Partial
+110	smo_human	F	4QIM	N/A	2.61	ANTA XV	Antagonist	A	25008467	2014-07-14 00:00:00	None	BRIL	Partial	Full	Full	Partial	Full	Full	Partial	Full	Partial
 111	ffar1_human	A	4PHU	Fatty acids	2.33	TAK-875	Agonist	A	25043059	2014-07-16 00:00:00	None	T4-Lysozyme	Partial	Full	Full	Partial	Full	Full	Partial	Full	Partial
 112	adrb2_human	A	4QKX	(nor)Adrenaline	3.30	Compound 2	Agonist	A	25006259	2014-07-23 00:00:00	Nanobody	None	Partial	Full	Full	Full	Full	Full	Partial	Full	Partial
 113	opsd_bovin	A	4PXF	Retinal	2.75		N/A	A	25205354	2014-09-17 00:00:00	Arrestin	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
