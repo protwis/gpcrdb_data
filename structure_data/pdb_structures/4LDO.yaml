@@ -11,7 +11,7 @@ g_protein: Nanobody
 ligand:
 - {name: Adrenaline, role: Agonist}
 preferred_chain: A
-state: Inactive
+state: Active
 
 # Structure annotations
 
@@ -27,8 +27,6 @@ segments:
   ICL1: ['61,66']
   ICL2: ['137,146']
   ICL3: ['230,266']
-  ICL3_1: ['-,-']
-  ICL3_2: ['-,-']
   N-term: ['1,30']
   N-term_1: ['-,-']
   N-term_2: ['-,-']

@@ -9,10 +9,9 @@ resolution: '3.70'
 
 g_protein: Nanobody
 ligand:
-- {name: 'Iperoxo', role: Agonist}
-- {name: 'LY2119620', role: PAM}
+- {name: 'Iperoxo, LY2119620', role: Agonist}
 preferred_chain: A
-state: Inactive
+state: Active
 
 # Structure annotations
 
@@ -28,8 +27,6 @@ segments:
   ICL1: ['51,56']
   ICL2: ['127,136']
   ICL3: ['214,383']
-  ICL3_1: ['-,-']
-  ICL3_2: ['-,-']
   N-term: ['1,22']
   N-term_1: ['-,-']
   N-term_2: ['-,-']
