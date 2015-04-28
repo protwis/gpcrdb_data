@@ -11,7 +11,7 @@ preferred_chain: A
 g_protein: None
 
 # Other data
-construct: 2RH1
+construct: b2ar-t4l
 segments:
     TM1: [29,60]
     ICL1: [61,66]
