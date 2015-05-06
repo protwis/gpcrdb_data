@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 2YDO
+name: 2ydo
 protein: aa2ar_human
 truncations: ''

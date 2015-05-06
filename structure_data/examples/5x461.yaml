@@ -1,0 +1,7 @@
+anomaly_type: bulge
+rule_sets:
+    - 
+        -
+            generic_number: 5x50
+            amino_acid: P
+            negative: true

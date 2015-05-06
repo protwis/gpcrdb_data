@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 3PBL
+name: 3pbl
 protein: drd3_human
 truncations: ''

@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4GRV
+name: 4grv
 protein: ntr1_rat
 truncations: ''

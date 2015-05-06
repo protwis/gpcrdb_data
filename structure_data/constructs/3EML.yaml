@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 3EML
+name: 3eml
 protein: aa2ar_human
 truncations: ''

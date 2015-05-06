@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4GBR
+name: 4gbr
 protein: adrb2_human
 truncations: ''

@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 3RFM
+name: 3rfm
 protein: aa2ar_human
 truncations: ''

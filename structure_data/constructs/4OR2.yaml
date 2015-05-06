@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4OR2
+name: 4or2
 protein: grm1_human
 truncations: ''

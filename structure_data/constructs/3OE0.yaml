@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 3OE0
+name: 3oe0
 protein: cxcr4_human
 truncations: ''

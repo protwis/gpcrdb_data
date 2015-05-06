@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4S0V
+name: 4s0v
 protein: ox2r_human
 truncations: ''

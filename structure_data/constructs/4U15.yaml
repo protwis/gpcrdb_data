@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4U15
+name: 4u15
 protein: acm3_rat
 truncations: ''

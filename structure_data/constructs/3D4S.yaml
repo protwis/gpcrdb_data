@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 3D4S
+name: 3d4s
 protein: adrb2_human
 truncations: ''

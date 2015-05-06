@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4BWB
+name: 4bwb
 protein: ntr1_rat
 truncations: ''

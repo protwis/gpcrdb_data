@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4L6R
+name: 4l6r
 protein: glr_human
 truncations: ''

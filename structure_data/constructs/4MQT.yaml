@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4MQT
+name: 4mqt
 protein: acm2_human
 truncations: ''

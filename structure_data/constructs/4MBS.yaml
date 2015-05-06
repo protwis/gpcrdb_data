@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4MBS
+name: 4mbs
 protein: ccr5_human
 truncations: ''

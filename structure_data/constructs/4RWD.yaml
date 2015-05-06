@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4RWD
+name: 4rwd
 protein: oprd_human
 truncations: ''

@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4LDL
+name: 4ldl
 protein: adrb2_human
 truncations: ''

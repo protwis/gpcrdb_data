@@ -3,6 +3,6 @@ fusion_proteins:
     positions: [1, 2]
     sequence: ''
 mutations: ''
-name: 4RWS
+name: 4rws
 protein: cxcr4_human
 truncations: ''

@@ -1,0 +1,42 @@
+anomaly_type: bulge
+rule_sets:
+    - 
+        exclusive: false
+        rules:
+            -
+                generic_number: 2x50
+                amino_acid: D
+                negative: false
+            -
+                generic_number: 2x59
+                amino_acid: P
+                negative: false
+    -
+        exclusive: true
+        rules:
+            -
+                generic_number: 2x50
+                amino_acid: D
+                negative: false
+            -
+                generic_number: 2x60
+                amino_acid: P
+                negative: false
+    -
+        exclusive: true
+        rules:
+            -
+                generic_number: 2x50
+                amino_acid: D
+                negative: false
+            -
+                generic_number: 2x61
+                amino_acid: P
+                negative: false
+    -
+        exclusive: true
+        rules:
+            -
+                generic_number: 2x58
+                amino_acid: P
+                negative: true
