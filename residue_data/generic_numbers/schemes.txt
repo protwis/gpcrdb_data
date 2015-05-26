@@ -1,11 +1,11 @@
 gpcrdb  GPCRdb  "GPCRdb"
-gpcrdba GPCRdb(A) "GPCRdb (Class A)"
-gpcrdbb GPCRdb(B) "GPCRdb (Class B)"
-gpcrdbc GPCRdb(C) "GPCRdb (Class C)"
-gpcrdbf GPCRdb(F) "GPCRdb (Class F)"
 bw  BW  "Ballesteros-Weinstein (Class A)"
 woot    Wootten "Wootten (Class B)"
 pin Pin "Pin (Class C)"
 wang    Wang    "Wang (Class F)"
+gpcrdba GPCRdb(A) "GPCRdb (Class A)"    bw
+gpcrdbb GPCRdb(B) "GPCRdb (Class B)"    woot
+gpcrdbc GPCRdb(C) "GPCRdb (Class C)"    pin
+gpcrdbf GPCRdb(F) "GPCRdb (Class F)"    wang
 oli Oliveira    "Oliveira"
 bs  BS  "Baldwin-Schwartz"

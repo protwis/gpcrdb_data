@@ -1,0 +1,24 @@
+TM1:
+    before: 20
+    after: 10
+TM2:
+    before: 12
+    after: 16
+TM3:
+    before: 28
+    after: 5
+TM4:
+    before: 11
+    after: 11
+TM5:
+    before: 14
+    after: 15
+TM6:
+    before: 21
+    after: 10
+TM7:
+    before: 17
+    after: 6
+H8:
+    before: 2
+    after: 6
