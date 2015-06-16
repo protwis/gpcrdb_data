@@ -15,8 +15,6 @@ state: Inactive
 
 # Structure annotations
 
-bulges: ''
-constrictions: ''
 construct: 3odu
 segments:
   ECL1: [100, 104]
@@ -34,3 +32,8 @@ segments:
   TM5: [193, 225]
   TM6: [232, 266]
   TM7: [274, 301]
+bulges:
+    TM5: [5x461]
+constrictions:
+    TM4: [4x57]
+    TM7: [7x44]

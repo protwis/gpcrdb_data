@@ -15,8 +15,6 @@ state: Inactive
 
 # Structure annotations
 
-bulges: ''
-constrictions: ''
 construct: 4u15
 segments:
   C-term: [556, 589]
@@ -35,3 +33,8 @@ segments:
   TM5: [230, 256]
   TM6: [492, 515]
   TM7: [523, 546]
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]

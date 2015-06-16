@@ -15,8 +15,6 @@ state: Inactive
 
 # Structure annotations
 
-bulges: ''
-constrictions: ''
 construct: 3uon
 segments:
   C-term: [455, 466]
@@ -35,3 +33,8 @@ segments:
   TM5: [184, 213]
   TM6: [384, 412]
   TM7: [420, 443]
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]

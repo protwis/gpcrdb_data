@@ -15,8 +15,6 @@ state: Inactive
 
 # Structure annotations
 
-bulges: ''
-constrictions: ''
 construct: 3pbl
 segments:
   C-term: [399, 400]
@@ -35,3 +33,8 @@ segments:
   TM5: [188, 216]
   TM6: [323, 355]
   TM7: [364, 386]
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]

@@ -15,8 +15,6 @@ state: Inactive
 
 # Structure annotations
 
-bulges: ''
-constrictions: ''
 construct: 4or2
 segments:
   ECL1: [650, 652]
@@ -34,3 +32,6 @@ segments:
   TM5: [750, 774]
   TM6: [784, 807]
   TM7: [811, 839]
+bulges:
+    TM7: [7x471]
+constrictions: ''

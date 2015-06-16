@@ -35,3 +35,7 @@ segments:
   TM5: [219, 259]
   TM6: [267, 299]
   TM7: [309, 333]
+bulges:
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]

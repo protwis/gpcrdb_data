@@ -15,8 +15,6 @@ state: Inactive
 
 # Structure annotations
 
-bulges: ''
-constrictions: ''
 construct: 3rze
 segments:
   C-term: [484, 487]
@@ -35,3 +33,9 @@ segments:
   TM5: [188, 216]
   TM6: [408, 441]
   TM7: [450, 471]
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
+constrictions:
+    TM4: [4x56]
+    TM7: [7x44]

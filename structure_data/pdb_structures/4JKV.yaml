@@ -15,8 +15,6 @@ state: Inactive
 
 # Structure annotations
 
-bulges: ''
-constrictions: ''
 construct: 4jkv
 segments:
   ECL1: [283, 312]
@@ -34,3 +32,6 @@ segments:
   TM5: [397, 432]
   TM6: [443, 475]
   TM7: [515, 536]
+bulges:
+    TM5: [5x461]
+constrictions: ''

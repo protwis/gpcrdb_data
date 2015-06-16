@@ -15,8 +15,6 @@ state: Inactive
 
 # Structure annotations
 
-bulges: ''
-constrictions: ''
 construct: 4phu
 segments:
   ECL1: [68, 75]
@@ -34,3 +32,8 @@ segments:
   TM5: [177, 209]
   TM6: [216, 249]
   TM7: [252, 278]
+bulges:
+    TM5: [5x461]
+    TM6: [6x451]
+constrictions:
+    TM7: [7x44]

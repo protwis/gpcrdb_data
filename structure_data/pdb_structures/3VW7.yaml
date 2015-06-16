@@ -15,8 +15,6 @@ state: Inactive
 
 # Structure annotations
 
-bulges: ''
-constrictions: ''
 construct: 3vw7
 segments:
   ECL1: [164, 171]
@@ -34,3 +32,7 @@ segments:
   TM5: [265, 297]
   TM6: [305, 338]
   TM7: [347, 373]
+bulges:
+    TM6: [6x451]
+constrictions:
+    TM7: [7x44]
