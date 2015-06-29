@@ -265,7 +265,9 @@ Class A | gpcrdba
             "gpcr","447","Oxoglutarate receptor","162","oxoglutarate receptor","","","","LOC239283|MGC119206|MGC119207|MGC119208|P2RY15|GPR80|GPR99|P2Y15|G-protein coupled receptor 99|OXGR1|P2Y-like GPCR|P2Y-like nucleotide receptor|2-oxoglutarate receptor 1|Alpha-ketoglutarate receptor 1|G protein-coupled receptor 99|P2Y purinoceptor 15|G protein-coupled receptor 80|Gm299|G-protein coupled receptor 80|oxoglutarate (alpha-ketoglutarate) receptor 1","4531","OXGR1","oxoglutarate (alpha-ketoglutarate) receptor 1","13q32.2","NM_080818","NP_543008","Q96P68","27199","1303155","Oxgr1","oxoglutarate (alpha-ketoglutarate) receptor 1","15q24","NM_207588","NP_997471","Q6Y1R5","290493","MGI:2685145","Oxgr1","oxoglutarate (alpha-ketoglutarate) receptor 1","14 E4","NM_001001490","NP_001001490","Q6IYF8","239283"
         Succinate receptors
             "gpcr","446","Succinate receptor","166","succinate receptor","","","","succinate receptor 1|GPR91|G-protein coupled receptor 91|P2Y purinoceptor 1-like|P2Y purinoceptor 1|SUCNR1|G protein-coupled receptor 91|G-protein-coupled receptor 91","4542","SUCNR1","succinate receptor 1","3q24-3q25.1","NM_033050","NP_149039","Q9BXA5","56670","1303193","Sucnr1","succinate receptor 1","2q31","NM_001001518","NP_001001518","Q6IYF9","408199","MGI:1934135","Sucnr1","succinate receptor 1","3 D","NM_032400","NP_115776","Q99MT6","84112"
-    Taste 2 receptors
+    Sensory receptors
+        Rhodopsin
+            "gpcr","","Rhodopsin","","Rhodopsin","","","","","","","","","","","P08100","","","","","","","","","","","","","","","","",""
         Taste 2
             "gpcr","117","Taste 2 receptors","659","<i>TAS2R1</i>","","","","T2R1|TRB7","14909","TAS2R1","taste receptor, type 2, member 1","","NM_019599","","Q9NYW7","50834","","","","","","","","","","","","","","","",""
             "gpcr","117","Taste 2 receptors","660","<i>TAS2R3</i>","","","","T2R3","14910","TAS2R3","taste receptor, type 2, member 3","","NM_016943","","Q9NYW6","50831","","","","","","","","","","","","","","","",""
