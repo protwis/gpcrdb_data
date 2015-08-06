@@ -8,7 +8,7 @@ ID	Protein ID	Class	PDB	Endogenous Ligand	Res (Å)	X-ray Ligand	Ligand function	
 7	opsd_bovin	A	2G87	Retinal	2.80	All-trans-retinal	Agonist	A,B	16586416	2006-09-02 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Full	Full	Full
 8	opsd_bovin	A	2I35	Retinal	3.80	11-cis-retinal	Inverse agonist	A	17060607	2006-10-17 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
 9	opsd_bovin	A	2I36	Retinal	4.10	11-cis-retinal	Inverse agonist	A,B,C	17060607	2006-10-17 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
-10	opsd_bovin	A	2I37	Retinal	4.15		N/A	A	17060607	2006-10-17 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Partial	Full	Partial
+10	opsd_bovin	A	2I37	Retinal	4.15	None	N/A	A	17060607	2006-10-17 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Partial	Full	Partial
 11	opsd_bovin	A	2J4Y	Retinal	3.40	11-cis-retinal	Inverse agonist	A,B	17825322	2007-09-25 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
 12	opsd_bovin	A	2PED	Retinal	2.95	9-cis-retinal	Inverse agonist	A,B	17449675	2007-10-30 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Full	Full	Full
 13	adrb2_human	A	2RH1	(nor)Adrenaline	2.40	Carazolol	Inverse agonist	A	17962520	2007-10-30 00:00:00	None	T4-Lysozyme	Partial	Full	Full	Full	Full	Full	None	Full	Partial
@@ -18,10 +18,10 @@ ID	Protein ID	Class	PDB	Endogenous Ligand	Res (Å)	X-ray Ligand	Ligand function	
 17	opsd_todpa	A	2Z73	Retinal	2.50	11-cis-retinal	Inverse agonist	A	18480818	2008-05-13 00:00:00	None	None	Partial	Full	Full	Full	Full	Full	Full	Full	Partial
 18	adrb2_human	A	3D4S	(nor)Adrenaline	2.80	Timolol	Inverse agonist	A	18547522	2008-06-17 00:00:00	None	T4-Lysozyme	None	Full	Full	Full	Full	Full	Partial	Full	Partial
 19	adrb1_melga	A	2VT4	(nor)Adrenaline	2.70	Cyanopindolol	Antagonist	B	18594507	2008-06-24 00:00:00	None	None	None	Full	Full	Full	Full	Full	None	Full	Partial
-20	opsd_bovin	A	3CAP	Retinal	2.90		N/A	A	18563085	2008-06-24 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
+20	opsd_bovin	A	3CAP	Retinal	2.90	None	N/A	A	18563085	2008-06-24 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
 21	opsd_bovin	A	3C9L	Retinal	2.65	11-cis-retinal	Inverse agonist	A	18645239	2008-08-05 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
 22	opsd_bovin	A	3C9M	Retinal	3.40	11-cis-retinal	Inverse agonist	A	18645239	2008-08-05 00:00:00	None	None	Partial	Full	Full	Full	Full	Full	Full	Full	Partial
-23	opsd_bovin	A	3DQB	Retinal	3.20		N/A	A	18818650	2008-09-23 00:00:00	Gt	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
+23	opsd_bovin	A	3DQB	Retinal	3.20	None	N/A	A	18818650	2008-09-23 00:00:00	Gt	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
 24	aa2ar_human	A	3EML	Adenosine	2.60	ZM241385	Antagonist	A	18832607	2008-10-14 00:00:00	None	T4-Lysozyme	Partial	Full	Full	Full	Partial	Full	None	Full	Partial
 25	adrb2_human	A	3KJ6	(nor)Adrenaline	3.40	None	N/A	A	20054398	2010-02-16 00:00:00	None	Antibody	None	Partial	None	Full	Partial	Partial	Partial	None	Partial
 26	adrb2_human	A	3NY8	(nor)Adrenaline	2.84	ICI 118,551	Inverse agonist	A	20669948	2010-08-11 00:00:00	None	T4-Lysozyme	None	Full	Full	Full	Full	Full	None	Full	Partial
@@ -77,22 +77,22 @@ ID	Protein ID	Class	PDB	Endogenous Ligand	Res (Å)	X-ray Ligand	Ligand function	
 76	ntr1_rat	A	4GRV	Neurotensin	2.80	NTS(8-13)	Agonist	A	23051748	2012-10-17 00:00:00	None	T4-Lysozyme	Partial	Partial	Full	Full	Full	Full	None	Full	Partial
 77	adrb2_human	A	4GBR	(nor)Adrenaline	3.99	Carazolol	Inverse agonist (partial)	A	23056231	2012-10-24 00:00:00	None	T4-Lysozyme	Partial	Full	Full	Full	Full	Full	None	Full	Partial
 78	par1_human	A	3VW7	Trombin	2.20	Vorapaxar	Antagonist	A	23222541	2012-12-27 00:00:00	None	T4-Lysozyme	Partial	Full	Full	Full	Full	Full	None	Full	Partial
-79	adrb1_melga	A	4GPO	(nor)Adrenaline	3.50		N/A	A,B	23435379	2013-02-27 00:00:00	None	None	None	Full	Full	Full	Full	Full	Partial	Full	Partial
+79	adrb1_melga	A	4GPO	(nor)Adrenaline	3.50	None	N/A	A,B	23435379	2013-02-27 00:00:00	None	None	None	Full	Full	Full	Full	Full	Partial	Full	Partial
 80	5ht1b_human	A	4IAQ	Serotonin	2.80	Dihydroergotamine	Agonist	A	23519210	2013-03-13 00:00:00	None	BRIL	Partial	Full	Full	Full	Partial	Full	None	Partial	Partial
 81	5ht1b_human	A	4IAR	Serotonin	2.70	Ergotamine	Agonist	A	23519210	2013-03-13 00:00:00	None	BRIL	Partial	Full	Full	Full	Partial	Full	None	Partial	Partial
 82	5ht2b_human	A	4IB4	Serotonin	2.70	Ergotamine	Agonist	A	23519210	2013-03-13 00:00:00	None	BRIL	Partial	Full	Full	Full	Partial	Full	None	Full	Partial
 83	adrb1_melga	A	3ZPQ	(nor)Adrenaline	2.70	20	Antagonist	B	23517028	2013-04-03 00:00:00	None	None	Partial	Full	Full	Full	Full	Full	None	Full	Partial
 84	adrb1_melga	A	3ZPR	(nor)Adrenaline	2.80	19	Antagonist	B	23517028	2013-04-03 00:00:00	None	None	Partial	Full	Full	Full	Full	Full	None	Full	Partial
-85	opsd_bovin	A	4BEY	Retinal	2.90		N/A	A	23579341	2013-04-24 00:00:00	Gt	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
-86	opsd_bovin	A	4BEZ	Retinal	3.30		N/A	A	23579341	2013-04-24 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
+85	opsd_bovin	A	4BEY	Retinal	2.90	None	N/A	A	23579341	2013-04-24 00:00:00	Gt	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
+86	opsd_bovin	A	4BEZ	Retinal	3.30	None	N/A	A	23579341	2013-04-24 00:00:00	None	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
 87	smo_human	F	4JKV	N/A	2.45	LY2940680	Antagonist	A	23636324	2013-04-24 00:00:00	None	BRIL	Partial	Full	Full	Partial	Full	Full	Full	Partial	Partial
 88	crfr1_human	B	4K5Y	Corticotropin-releasing hormone	2.98	CP-376395	Antagonist	C	23863939	2013-07-17 00:00:00	None	T4-Lysozyme	Partial	Full	Full	Partial	Full	Full	Full	None	None
-89	glr_human	B	4L6R	Glucagon	3.30		N/A	A	23863937	2013-07-24 00:00:00	None	BRIL	Partial	Full	Partial	Full	Full	Full	Full	Full	Partial
+89	glr_human	B	4L6R	Glucagon	3.30	None	N/A	A	23863937	2013-07-24 00:00:00	None	BRIL	Partial	Full	Partial	Full	Full	Full	Full	Full	Partial
 90	ccr5_human	A	4MBS	Chemokines	2.71	Maraviroc	Antagonist	A	24030490	2013-09-11 00:00:00	None	Rubredoxin	Partial	Full	Full	Full	Full	Full	Partial	Full	Partial
 91	adrb2_human	A	4LDE	(nor)Adrenaline	2.79	BI-167107	Agonist	A	24056936	2013-09-25 00:00:00	Nanobody	T4-Lysozyme	Partial	Full	Full	Full	Full	Full	Partial	Full	Partial
 92	adrb2_human	A	4LDL	(nor)Adrenaline	3.10	Hydroxybenzyl isoproterenol	Agonist	A	24056936	2013-09-25 00:00:00	Nanobody	T4-Lysozyme	Partial	Full	Full	Full	Full	Full	Partial	Full	Partial
 93	adrb2_human	A	4LDO	(nor)Adrenaline	3.20	Adrenaline	Agonist	A	24056936	2013-09-25 00:00:00	Nanobody	T4-Lysozyme	Partial	Full	Full	Full	Full	Full	Partial	Full	Partial
-94	opsd_bovin	A	4J4Q	Retinal	2.65		N/A	A	24038729	2013-10-30 00:00:00	Gt	Octylglucoside	Full	Full	Full	Full	Full	Full	Full	Full	Partial
+94	opsd_bovin	A	4J4Q	Retinal	2.65	None	N/A	A	24038729	2013-10-30 00:00:00	Gt	Octylglucoside	Full	Full	Full	Full	Full	Full	Full	Full	Partial
 95	acm2_human	A	4MQS	Acetylcholine	3.50	Iperoxo	Agonist	A	24256733	2013-11-27 00:00:00	Nanobody	None	Partial	Full	Full	Full	Full	Full	None	Full	Partial
 96	acm2_human	A	4MQT	Acetylcholine	3.70	Iperoxo, LY2119620	Agonist	A	24256733	2013-11-27 00:00:00	Nanobody	None	Partial	Full	Full	Full	Full	Full	None	Full	Partial
 97	5ht2b_human	A	4NC3	Serotonin	2.80	Ergotamine	Agonist	A	24357322	2013-12-18 00:00:00	None	BRIL	Partial	Full	Full	Full	Partial	Full	Partial	Full	Partial
@@ -111,11 +111,21 @@ ID	Protein ID	Class	PDB	Endogenous Ligand	Res (Å)	X-ray Ligand	Ligand function	
 110	smo_human	F	4QIM	N/A	2.61	ANTA XV	Antagonist	A	25008467	2014-07-14 00:00:00	None	BRIL	Partial	Full	Full	Partial	Full	Full	Partial	Full	Partial
 111	ffar1_human	A	4PHU	Fatty acids	2.33	TAK-875	Agonist	A	25043059	2014-07-16 00:00:00	None	T4-Lysozyme	Partial	Full	Full	Partial	Full	Full	Partial	Full	Partial
 112	adrb2_human	A	4QKX	(nor)Adrenaline	3.30	Compound 2	Agonist	A	25006259	2014-07-23 00:00:00	Nanobody	None	Partial	Full	Full	Full	Full	Full	Partial	Full	Partial
-113	opsd_bovin	A	4PXF	Retinal	2.75		N/A	A	25205354	2014-09-17 00:00:00	Arrestin	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
+113	opsd_bovin	A	4PXF	Retinal	2.75	None	N/A	A	25205354	2014-09-17 00:00:00	Arrestin	None	Full	Full	Full	Full	Full	Full	Full	Full	Partial
 114	acm3_rat	A	4U16	Acetylcholine	3.70	N-methylscopolamine	Antagonist	B	25450769	2014-11-26 00:00:00	None	T4-Lysozyme	Partial	Full	Full	Full	Full	Full	Partial	Full	Partial
 115	acm3_rat	A	4U15	Acetylcholine	2.80	Tiotropium	Antagonist	B	25450769	2014-11-26 00:00:00	None	T4-Lysozyme	Partial	Full	Full	Full	Full	Full	Partial	Full	Partial
 116	acm3_rat	A	4U14	Acetylcholine	3.57	Tiotropium	Antagonist	A	25450769	2014-11-26 00:00:00	None	T4-Lysozyme	Partial	Full	Full	Full	Full	Full	Partial	Full	Partial
 117	ox2r_human	A	4S0V	Orexin	2.50	Suvorexant	Antagonist	A	25533960	2015-01-26 00:00:00	None	PGS	Partial	Full	Full	Partial	Partial	Partial	Partial	Partial	Partial
-118	oprd_human	A	4RWD	Enkephalins	2.70	bifunctional peptide	N/A	A,B	25686086	2015-01-26 00:00:00	None	BRIL	Partial	Full	Full	Full	Full	Full	Full	Full	Partial
-119	oprd_human	A	4RWA	Enkephalins	3.28	bifunctional peptide	N/A	A,B	25686086	2015-01-26 00:00:00	None	BRIL	Partial	Full	Full	Full	Full	Full	Full	Partial	Partial
+118	oprd_human	A	4RWD	Enkephalins	2.70	bifunctional peptide	Antagonist	A,B	25686086	2015-01-26 00:00:00	None	BRIL	Partial	Full	Full	Full	Full	Full	Full	Full	Partial
+119	oprd_human	A	4RWA	Enkephalins	3.28	bifunctional peptide	Antagonist	A,B	25686086	2015-01-26 00:00:00	None	BRIL	Partial	Full	Full	Full	Full	Full	Full	Partial	Partial
 120	cxcr4_human	A	4RWS	Chemokines	3.10	vMIP-II 	Antagonist	A	25612609	2015-02-11 00:00:00	None	T4-Lysozyme	Partial	Partial	Full	Full	Full	Full	None	Full	None
+121	p2ry1_human	A	4XNV	ADP	2.20	BPTU	N/A	A	25822790	2015-04-01 00:00:00	None	Rubredoxin	Partial	Full	Full	Partial	Full	Full	None	Full	Partial
+122	p2ry1_human	A	4XNW	ADP	2.70	MRS2500	N/A	A	25822790	2015-04-01 00:00:00	None	Rubredoxin	Partial	Full	Full	Full	Full	Full	None	Full	Partial
+123	aa2ar_human	A	4UHR	Adenosine	2.60	CGS21680	Agonist	A	25762024	2015-04-08 00:00:00	None	None	Partial	Full	Full	Full	Partial	Full	Full	Partial	Partial
+124	aa2ar_human	A	4UG2	Adenosine	2.60	CGS21680	Agonist	A,B	25762024	2015-04-08 00:00:00	None	None	None	Full	Full	Full	Full	Full	None	Full	Partial
+125	agtr1_human	A	4YAY	Angiotensin II	2.90	ZD7155	Antagonist	A	25913193	2015-04-22 00:00:00	None	BRIL	Partial	Full	Full	Full	Partial	None	Partial	Full	Partial
+126	us28_hcmva	A	4XT1	Chemokines	2.89	CX3CL1	Agonist	A	25745166	2015-03-04 00:00:00	Nanobody	None	Partial	Full	Partial	Full	Full	Full	Full	Full	Partial
+127	us28_hcmva	A	4XT3	Chemokines	3.80	CX3CL1	Agonist	A	25745166	2015-03-04 00:00:00	None	None	Partial	Full	Partial	Full	Full	Full	Full	Full	Partial
+128	lpar1_human	A	4Z34	LPA	3.00	ONO-9780307	Antagonist	A	26091040	2015-06-03 00:00:00	None	BRIL	Partial	Full	Full	Full	Full	Full	None	Full	Partial
+129	lpar1_human	A	4Z35	LPA	2.90	ONO-9910539	Antagonist	A	26091040	2015-06-03 00:00:00	None	BRIL	Partial	Full	Full	Full	Full	Full	None	Full	Partial
+130	lpar1_human	A	4Z36	LPA	2.90	ONO-3080573	Antagonist	A	26091040	2015-06-03 00:00:00	None	BRIL	Partial	Full	Full	Full	Full	Full	None	Full	Partial
