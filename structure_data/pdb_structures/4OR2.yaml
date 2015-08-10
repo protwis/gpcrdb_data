@@ -10,8 +10,11 @@ resolution: '2.80'
 g_protein: None
 ligand:
 - {name: FITM, role: NAM}
+endogenous_ligand:
+- {name: L-glutamic acid, id: 1369}
 preferred_chain: A,B
 state: Inactive
+representative: true
 
 # Structure annotations
 

@@ -10,8 +10,11 @@ resolution: '2.20'
 g_protein: None
 ligand:
 - {name: Vorapaxar, role: Antagonist}
+endogenous_ligand:
+- {name: Thrombin, id: 4453}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

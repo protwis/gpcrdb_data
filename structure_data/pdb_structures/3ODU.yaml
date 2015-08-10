@@ -10,8 +10,12 @@ resolution: '2.50'
 g_protein: None
 ligand:
 - {name: IT1t, role: Antagonist}
+endogenous_ligand:
+- {name: CXCL12, id: 4358}
+- {name: SDF-1β, id: 845}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

@@ -10,8 +10,11 @@ resolution: '2.60'
 g_protein: None
 ligand:
 - {name: Mavoglurant, role: NAM}
+endogenous_ligand:
+- {name: L-glutamic acid, id: 1369}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

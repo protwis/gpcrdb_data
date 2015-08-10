@@ -10,8 +10,11 @@ resolution: '2.75'
 g_protein: None
 ligand:
 - {name: NTS(8-13), role: Agonist}
+endogenous_ligand:
+- {name: Neurotensin, id: 1579}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

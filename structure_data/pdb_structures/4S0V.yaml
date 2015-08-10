@@ -10,8 +10,12 @@ resolution: '2.50'
 g_protein: None
 ligand:
 - {name: Suvorexant, role: Antagonist}
+endogenous_ligand:
+- {name: Orexin-A, id: 1697}
+- {name: Orexin-B, id: 1699}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 
