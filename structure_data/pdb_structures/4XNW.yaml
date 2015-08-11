@@ -1,2 +1,42 @@
-name: 4xnw
-protein: p2ry1_human
+# PDB data
+
+pdb: 4xnw
+publication_date: '2015-04-01'
+pubmed_id: '25822790'
+resolution: '2.7'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: MRS2500, role: nan}
+endogenous_ligand:
+- {name: adenosine diphosphate, id: 1712}
+preferred_chain: A
+state: Inactive
+representative: true
+
+# Structure annotations
+
+construct: 4xnw
+segments:
+  C-term: [327, 334]
+  ECL1: [113,119]
+  ECL2: [189, 210]
+  ECL3: [286, 299]
+  ICL1: [80, 84]
+  ICL2: [155, 164]
+  ICL3_1: [245,247]
+  ICL3_2: [253,254]
+  N-term: [36, 47]
+  TM1: [48, 79]
+  TM2: [85, 112]
+  TM3: [120, 154]
+  TM4: [165, 188]
+  TM5: [211, 244]
+  TM6: [255, 285]
+  TM7: [300, 326]
+bulges:
+    TM6: [6x451]
+constrictions:
+    TM7: [7x44]

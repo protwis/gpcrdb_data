@@ -1,2 +1,43 @@
-name: 2ycz
-protein: adrb1_melga
+# PDB data
+
+pdb: 2ycz
+publication_date: '2011-06-01'
+pubmed_id: '21540331'
+resolution: '3.65'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: Iodocyanopindolol, role: Antagonist}
+endogenous_ligand:
+- {name: noradrenaline, id: 484}
+preferred_chain: B
+state: Inactive
+representative: true
+
+# Structure annotations
+
+construct: 2ycz
+segments:
+  C-term: [358, 483]
+  ECL1: [105, 110]
+  ECL2: [179, 240]
+  ECL3: [316, 322]
+  H8: [347, 357]
+  ICL1: [69, 74]
+  ICL2: [145, 154]
+  ICL3: [237, 277]
+  N-term: [1, 33]
+  TM1: [34, 68]
+  TM2: [75, 104]
+  TM3: [111, 144]
+  TM4: [155, 178]
+  TM5: [205, 236]
+  TM6: [237, 315]
+  TM7: [323, 346]
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]

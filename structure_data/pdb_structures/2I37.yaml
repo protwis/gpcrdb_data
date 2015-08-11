@@ -1,2 +1,41 @@
-name: 2i37
-protein: opsd_bovin
+# PDB data
+
+pdb: 2i37
+publication_date: '2006-10-17'
+pubmed_id: '17060607'
+resolution: '4.15'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: None, role: nan}
+endogenous_ligand:
+- {name: Retinal, id: 6670}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+construct: 2i37
+segments:
+  C-term: [322, 348]
+  ECL1: [101, 105]
+  ECL2: [173, 199]
+  ECL3: [278, 289]
+  H8: [309, 321]
+  ICL1: [65, 72]
+  ICL2: [140, 149]
+  ICL3: [226, 241]
+  N-term: [1, 35]
+  TM1: [36, 64]
+  TM2: [73, 100]
+  TM3: [103, 139]
+  TM4: [150, 172]
+  TM5: [200, 225]
+  TM6: [242, 277]
+  TM7: [290, 308]
+bulges:
+    TM2: [2x551]
+constrictions:
+    TM7: [7x44]
