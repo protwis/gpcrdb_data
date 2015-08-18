@@ -10,8 +10,11 @@ resolution: '3.10'
 g_protein: None
 ligand:
 - {name: 'Doxepin (E,Z)', role: Antagonist}
+endogenous_ligand:
+- {name: Histamine, id: 1204}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

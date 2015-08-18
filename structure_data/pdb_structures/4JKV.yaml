@@ -10,8 +10,11 @@ resolution: '2.45'
 g_protein: None
 ligand:
 - {name: LY2940680, role: Antagonist}
+endogenous_ligand:
+- {name: nan, id: nan}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

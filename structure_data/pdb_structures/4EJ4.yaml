@@ -10,8 +10,16 @@ resolution: '3.40'
 g_protein: None
 ligand:
 - {name: Naltrindole, role: Antagonist}
+endogenous_ligand:
+- {name: β-endorphin, id: 1643}
+- {name: dynorphin A, id: 1620}
+- {name: dynorphin B, id: 1622}
+- {name: endomorphin-1, id: 1623}
+- {name: Leo-enkephalin, id: 1613}
+- {name: Met-enkephalin, id: 1614}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

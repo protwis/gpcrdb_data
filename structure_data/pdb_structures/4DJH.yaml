@@ -10,8 +10,11 @@ resolution: '2.90'
 g_protein: None
 ligand:
 - {name: JDTic, role: Antagonist}
+endogenous_ligand:
+- {name: Dynorphin A, id: 1620}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

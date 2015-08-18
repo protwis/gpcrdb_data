@@ -10,8 +10,11 @@ resolution: '3.01'
 g_protein: None
 ligand:
 - {name: Compound 24, role: Antagonist}
+endogenous_ligand:
+- {name: nociceptin/orphanin FQ, id: 1681}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

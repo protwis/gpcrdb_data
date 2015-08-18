@@ -10,8 +10,11 @@ resolution: '2.98'
 g_protein: None
 ligand:
 - {name: CP-376395, role: Antagonist}
+endogenous_ligand:
+- {name: Corticotropin-releasing hormone, id: 912}
 preferred_chain: C
 state: Inactive
+representative: true
 
 # Structure annotations
 
