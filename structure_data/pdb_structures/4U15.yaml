@@ -10,8 +10,11 @@ resolution: '2.80'
 g_protein: None
 ligand:
 - {name: Tiotropium, role: Antagonist}
+endogenous_ligand:
+- {name: Acetylcholine, id: 294}
 preferred_chain: B
 state: Inactive
+representative: true
 
 # Structure annotations
 

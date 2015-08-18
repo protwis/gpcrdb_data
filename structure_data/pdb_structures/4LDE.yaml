@@ -10,8 +10,11 @@ resolution: '2.79'
 g_protein: Nanobody
 ligand:
 - {name: BI-167107, role: Agonist}
+endogenous_ligand:
+- {name: noradrenaline, id: 484}
 preferred_chain: A
 state: Active
+representative: true
 
 # Structure annotations
 

@@ -10,8 +10,11 @@ resolution: '3.00'
 g_protein: None
 ligand:
 - {name: QNB, role: Antagonist}
+endogenous_ligand:
+- {name: Acetylcholine, id: 294}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

@@ -10,8 +10,11 @@ resolution: '2.50'
 g_protein: None
 ligand:
 - {name: 2MeSADP, role: Agonist}
+endogenous_ligand:
+- {name: adenosine diphosphate, id: 1712}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

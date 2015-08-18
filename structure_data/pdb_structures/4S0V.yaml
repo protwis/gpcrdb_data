@@ -1,15 +1,18 @@
 # PDB data
 
-pdb: 4S0V
+pdb: 4s0v
 publication_date: '2015-01-26'
 pubmed_id: '25533960'
-resolution: '2.50'
+resolution: '2.5'
 
 # Structure annotations
 
 g_protein: None
 ligand:
 - {name: Suvorexant, role: Antagonist}
+endogenous_ligand:
+- {name: Orexin-A, id: 1697}
+- {name: Orexin-B, id: 1699}
 preferred_chain: A
 state: Inactive
 

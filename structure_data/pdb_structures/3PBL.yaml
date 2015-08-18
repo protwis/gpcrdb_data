@@ -10,8 +10,11 @@ resolution: '2.89'
 g_protein: None
 ligand:
 - {name: Eticlopride, role: Antagonist}
+endogenous_ligand:
+- {name: Dopamine, id: 940}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

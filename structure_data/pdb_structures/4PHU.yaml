@@ -10,8 +10,11 @@ resolution: '2.33'
 g_protein: None
 ligand:
 - {name: TAK-875, role: Agonist}
+endogenous_ligand:
+- {name: docosahexaenoic acid, id: 1051}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

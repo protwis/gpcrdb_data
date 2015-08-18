@@ -10,8 +10,11 @@ resolution: '2.70'
 g_protein: None
 ligand:
 - {name: Ergotamine, role: Agonist}
+endogenous_ligand:
+- {name: Serotonin, id: 5}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 

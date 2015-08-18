@@ -1,16 +1,23 @@
 # PDB data
+
 pdb: 2RH1
-resolution: 2.4
-publication_date: 2007-10-30
-pubmed_id: 17962520
+publication_date: '2007-10-30'
+pubmed_id: '17962520'
+resolution: '2.4'
 
 # Structure annotations
-ligand: [{name: Carazolol, role: Inverse agonist}]
-state: Inactive
-preferred_chain: A
-g_protein: None
 
-# Other data
+g_protein: None
+ligand: 
+- {name: Carazolol, role: Inverse agonist}
+endogenous_ligand:
+- {name: noradrenaline, id: 484}
+preferred_chain: 
+state: Inactive
+representative: true
+
+# Structure annotations
+
 construct: b2ar-t4l
 segments:
     TM1: [29,60]

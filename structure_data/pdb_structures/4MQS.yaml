@@ -10,8 +10,11 @@ resolution: '3.50'
 g_protein: Nanobody
 ligand:
 - {name: Iperoxo, role: Agonist}
+endogenous_ligand:
+- {name: Acetylcholine, id: 294}
 preferred_chain: A
 state: Active
+representative: true
 
 # Structure annotations
 

@@ -10,8 +10,11 @@ resolution: '3.30'
 g_protein: None
 ligand:
 - {name: '', role: N/A}
+endogenous_ligand:
+- {name: Glucagon, id: 1136}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 
