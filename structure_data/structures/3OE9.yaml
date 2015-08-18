@@ -1,36 +1,29 @@
-# PDB data
-
 pdb: 3OE9
 publication_date: '2010-10-27'
 pubmed_id: '20929726'
-resolution: '3.10'
-
-# Structure annotations
-
+resolution: '3.1'
 g_protein: None
 ligand:
-- {name: IT1t, role: Antagonist}
+-   name: IT1t
+    role: Antagonist
 preferred_chain: A
 state: Inactive
-
-# Structure annotations
-
 bulges: ''
 constrictions: ''
 construct: 3oe9
 segments:
-  ECL1: [100, 104]
-  ECL2: [173, 192]
-  ECL3: [267, 273]
-  H8: [302, 352]
-  ICL1: [63, 71]
-  ICL2: [140, 144]
-  ICL3: [226, 231]
-  N-term: [1, 36]
-  TM1: [37, 62]
-  TM2: [72, 99]
-  TM3: [105, 139]
-  TM4: [145, 172]
-  TM5: [193, 225]
-  TM6: [232, 266]
-  TM7: [274, 301]
+    ECL1: [100, 104]
+    ECL2: [173, 192]
+    ECL3: [267, 273]
+    H8: [302, 352]
+    ICL1: [63, 71]
+    ICL2: [140, 144]
+    ICL3: [226, 231]
+    N-term: [1, 36]
+    TM1: [37, 62]
+    TM2: [72, 99]
+    TM3: [105, 139]
+    TM4: [145, 172]
+    TM5: [193, 225]
+    TM6: [232, 266]
+    TM7: [274, 301]

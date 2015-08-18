@@ -1,49 +1,51 @@
-# PDB data
-
 pdb: 4MBS
 publication_date: '2013-09-11'
 pubmed_id: '24030490'
 resolution: '2.71'
-
-# Structure annotations
-
 g_protein: None
 ligand:
-- {name: Maraviroc, role: Antagonist}
+-   name: Maraviroc
+    role: Antagonist
 endogenous_ligand:
-- {name: CCL11, id: 769}
-- {name: CCL14, id: 753}
-- {name: CCL16, id: 1272}
-- {name: CCL2, id: 771}
-- {name: CCL3, id: 756}
-- {name: CCL4, id: 757}
-- {name: CCL5, id: 758}
-- {name: CCL7, id: 759}
-- {name: CCL8, id: 772}
+-   name: CCL11
+    id: 769
+-   name: CCL14
+    id: 753
+-   name: CCL16
+    id: 1272
+-   name: CCL2
+    id: 771
+-   name: CCL3
+    id: 756
+-   name: CCL4
+    id: 757
+-   name: CCL5
+    id: 758
+-   name: CCL7
+    id: 759
+-   name: CCL8
+    id: 772
 preferred_chain: A
 state: Inactive
 representative: true
-
-# Structure annotations
-
 construct: 4mbs
 segments:
-  C-term: [313, 352]
-  ECL1: [92, 97]
-  ECL2: [165, 186]
-  ECL3: [265, 268]
-  H8: [301, 312]
-  ICL1: [58, 63]
-  ICL2: [132, 141]
-  ICL3: [223, 228]
-  N-term: [1, 25]
-  TM1: [26, 57]
-  TM2: [64, 91]
-  TM3: [98, 131]
-  TM4: [142, 164]
-  TM5: [187, 222]
-  TM6: [229, 264]
-  TM7: [269, 300]
+    C-term: [313, 352]
+    ECL1: [92, 97]
+    ECL2: [165, 186]
+    ECL3: [265, 268]
+    H8: [301, 312]
+    ICL1: [58, 63]
+    ICL2: [132, 141]
+    ICL3: [223, 228]
+    N-term: [1, 25]
+    TM1: [26, 57]
+    TM2: [64, 91]
+    TM3: [98, 131]
+    TM4: [142, 164]
+    TM5: [187, 222]
+    TM6: [229, 264]
+    TM7: [269, 300]
 bulges:
     TM5: [5x461]
 constrictions:

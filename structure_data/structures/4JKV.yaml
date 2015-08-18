@@ -1,40 +1,34 @@
-# PDB data
-
 pdb: 4JKV
 publication_date: '2013-04-24'
 pubmed_id: '23636324'
 resolution: '2.45'
-
-# Structure annotations
-
 g_protein: None
 ligand:
-- {name: LY2940680, role: Antagonist}
+-   name: LY2940680
+    role: Antagonist
 endogenous_ligand:
-- {name: nan, id: nan}
+-   name: nan
+    id: nan
 preferred_chain: A
 state: Inactive
 representative: true
-
-# Structure annotations
-
 construct: 4jkv
 segments:
-  ECL1: [283, 312]
-  ECL2: [379, 396]
-  ECL3: [476, 514]
-  H8: [537, 787]
-  ICL1: [255, 265]
-  ICL2: [346, 360]
-  ICL3: [433, 442]
-  N-term: [1, 223]
-  TM1: [224, 254]
-  TM2: [266, 282]
-  TM3: [313, 345]
-  TM4: [361, 378]
-  TM5: [397, 432]
-  TM6: [443, 475]
-  TM7: [515, 536]
+    ECL1: [283, 312]
+    ECL2: [379, 396]
+    ECL3: [476, 514]
+    H8: [537, 787]
+    ICL1: [255, 265]
+    ICL2: [346, 360]
+    ICL3: [433, 442]
+    N-term: [1, 223]
+    TM1: [224, 254]
+    TM2: [266, 282]
+    TM3: [313, 345]
+    TM4: [361, 378]
+    TM5: [397, 432]
+    TM6: [443, 475]
+    TM7: [515, 536]
 bulges:
     TM5: [5x461]
 constrictions: ''

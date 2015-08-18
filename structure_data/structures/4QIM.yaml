@@ -1,36 +1,29 @@
-# PDB data
-
 pdb: 4QIM
-publication_date: '2014-07-14'
+publication_date: '2014-07-23'
 pubmed_id: '25008467'
 resolution: '2.61'
-
-# Structure annotations
-
 g_protein: None
 ligand:
-- {name: ANTA XV, role: Antagonist}
+-   name: ANTA XV
+    role: Antagonist
 preferred_chain: A
 state: Inactive
-
-# Structure annotations
-
 bulges: ''
 constrictions: ''
 construct: 4qim
 segments:
-  ECL1: [283, 312]
-  ECL2: [379, 396]
-  ECL3: [476, 514]
-  H8: [537, 787]
-  ICL1: [255, 265]
-  ICL2: [346, 360]
-  ICL3: [433, 442]
-  N-term: [1, 223]
-  TM1: [224, 254]
-  TM2: [266, 282]
-  TM3: [313, 345]
-  TM4: [361, 378]
-  TM5: [397, 432]
-  TM6: [443, 475]
-  TM7: [515, 536]
+    ECL1: [283, 312]
+    ECL2: [379, 396]
+    ECL3: [476, 514]
+    H8: [537, 787]
+    ICL1: [255, 265]
+    ICL2: [346, 360]
+    ICL3: [433, 442]
+    N-term: [1, 223]
+    TM1: [224, 254]
+    TM2: [266, 282]
+    TM3: [313, 345]
+    TM4: [361, 378]
+    TM5: [397, 432]
+    TM6: [443, 475]
+    TM7: [515, 536]

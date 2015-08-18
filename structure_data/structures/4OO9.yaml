@@ -1,40 +1,34 @@
-# PDB data
-
 pdb: 4OO9
 publication_date: '2014-07-02'
 pubmed_id: '25042998'
-resolution: '2.60'
-
-# Structure annotations
-
+resolution: '2.6'
 g_protein: None
 ligand:
-- {name: Mavoglurant, role: NAM}
+-   name: 2U8
+    role: NAM
 endogenous_ligand:
-- {name: L-glutamic acid, id: 1369}
+-   name: L-glutamic acid
+    id: 1369
 preferred_chain: A
 state: Inactive
 representative: true
-
-# Structure annotations
-
 construct: 4oo9
 segments:
-  ECL1: [637, 639]
-  ECL2: [715, 736]
-  ECL3: [795, 797]
-  C-term: [827, 1212]
-  ICL1: [605, 615]
-  ICL2: [674, 688]
-  ICL3: [762, 770]
-  N-term: [1, 577]
-  TM1: [578, 604]
-  TM2: [616, 636]
-  TM3: [640, 673]
-  TM4: [689, 714]
-  TM5: [737, 761]
-  TM6: [771, 794]
-  TM7: [798, 826]
+    ECL1: [637, 639]
+    ECL2: [715, 736]
+    ECL3: [795, 797]
+    C-term: [827, 1212]
+    ICL1: [605, 615]
+    ICL2: [674, 688]
+    ICL3: [762, 770]
+    N-term: [1, 577]
+    TM1: [578, 604]
+    TM2: [616, 636]
+    TM3: [640, 673]
+    TM4: [689, 714]
+    TM5: [737, 761]
+    TM6: [771, 794]
+    TM7: [798, 826]
 bulges:
     TM7: [7x471]
 constrictions: ''
