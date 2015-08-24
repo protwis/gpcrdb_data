@@ -1,45 +1,44 @@
-# PDB data
-
 pdb: 4DKL
 publication_date: '2012-03-21'
 pubmed_id: '22437502'
-resolution: '2.80'
-
-# Structure annotations
-
+resolution: '2.8'
 g_protein: None
 ligand:
-- {name: Morphinan, role: Antagonist}
+-   name: Morphinan
+    role: Antagonist
 endogenous_ligand:
-- {name: β-endorphin, id: 1643}
-- {name: dynorphin A, id: 1620}
-- {name: dynorphin B, id: 1622}
-- {name: endomorphin-1, id: 1623}
-- {name: Leo-enkephalin, id: 1613}
-- {name: Met-enkephalin, id: 1614}
+-   name: "\u03B2-endorphin"
+    id: 1643
+-   name: dynorphin A
+    id: 1620
+-   name: dynorphin B
+    id: 1622
+-   name: endomorphin-1
+    id: 1623
+-   name: Leo-enkephalin
+    id: 1613
+-   name: Met-enkephalin
+    id: 1614
 preferred_chain: A
 state: Inactive
 representative: true
-
-# Structure annotations
-
 bulges: ''
 constrictions: ''
 construct: 4dkl
 segments:
-  C-term: [352, 398]
-  ECL1: [131, 137]
-  ECL2: [204, 225]
-  ECL3: [306, 311]
-  H8: [340, 351]
-  ICL1: [96, 101]
-  ICL2: [171, 182]
-  ICL3: [259, 272]
-  N-term: [1, 65]
-  TM1: [66, 95]
-  TM2: [102, 130]
-  TM3: [138, 170]
-  TM4: [183, 203]
-  TM5: [226, 258]
-  TM6: [273, 305]
-  TM7: [312, 339]
+    C-term: [352, 398]
+    ECL1: [131, 137]
+    ECL2: [204, 225]
+    ECL3: [306, 311]
+    H8: [340, 351]
+    ICL1: [96, 101]
+    ICL2: [171, 182]
+    ICL3: [259, 272]
+    N-term: [1, 65]
+    TM1: [66, 95]
+    TM2: [102, 130]
+    TM3: [138, 170]
+    TM4: [183, 203]
+    TM5: [226, 258]
+    TM6: [273, 305]
+    TM7: [312, 339]

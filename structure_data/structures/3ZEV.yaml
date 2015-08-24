@@ -1,36 +1,29 @@
-# PDB data
-
 pdb: 3ZEV
 publication_date: '2014-01-29'
 pubmed_id: '24453215'
-resolution: '3.00'
-
-# Structure annotations
-
+resolution: '3.0'
 g_protein: None
 ligand:
-- {name: NTS(8-13), role: Agonist}
+-   name: NTS(8-13)
+    role: Agonist
 preferred_chain: A
 state: Inactive
-
-# Structure annotations
-
 bulges: ''
 constrictions: ''
 construct: 3zev
 segments:
-  ECL1: [128, 137]
-  ECL2: [202, 230]
-  ECL3: [331, 340]
-  H8: [374, 424]
-  ICL1: [89, 98]
-  ICL2: [173, 186]
-  ICL3: [266, 301]
-  N-term: [1, 60]
-  TM1: [61, 88]
-  TM2: [99, 127]
-  TM3: [138, 172]
-  TM4: [187, 201]
-  TM5: [231, 265]
-  TM6: [302, 330]
-  TM7: [341, 373]
+    ECL1: [128, 137]
+    ECL2: [202, 230]
+    ECL3: [331, 340]
+    H8: [374, 424]
+    ICL1: [89, 98]
+    ICL2: [173, 186]
+    ICL3: [266, 301]
+    N-term: [1, 60]
+    TM1: [61, 88]
+    TM2: [99, 127]
+    TM3: [138, 172]
+    TM4: [187, 201]
+    TM5: [231, 265]
+    TM6: [302, 330]
+    TM7: [341, 373]

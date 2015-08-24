@@ -1,23 +1,17 @@
-# PDB data
-
 pdb: 4EIY
 publication_date: '2012-07-25'
 pubmed_id: '22798613'
-resolution: '1.80'
-
-# Structure annotations
-
+resolution: '1.8'
 g_protein: None
 ligand:
-- {name: ZM241385, role: Antagonist}
+-   name: ZM241385
+    role: Antagonist
 endogenous_ligand:
-- {name: adenosine diphosphate, id: 1712}
+-   name: adenosine diphosphate
+    id: 1712
 preferred_chain: A
 state: Inactive
 representative: true
-
-# Structure annotations
-
 construct: 4eiy
 segments:
     C-term: [306, 412]

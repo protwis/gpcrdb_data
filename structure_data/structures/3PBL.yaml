@@ -1,41 +1,35 @@
-# PDB data
-
 pdb: 3PBL
 publication_date: '2010-11-03'
 pubmed_id: '21097933'
 resolution: '2.89'
-
-# Structure annotations
-
 g_protein: None
 ligand:
-- {name: Eticlopride, role: Antagonist}
+-   name: Eticlopride
+    role: Antagonist
 endogenous_ligand:
-- {name: Dopamine, id: 940}
+-   name: Dopamine
+    id: 940
 preferred_chain: A
 state: Inactive
 representative: true
-
-# Structure annotations
-
 construct: 3pbl
 segments:
-  C-term: [399, 400]
-  ECL1: [92, 99]
-  ECL2: [170, 187]
-  ECL3: [356, 363]
-  H8: [387, 398]
-  ICL1: [57, 62]
-  ICL2: [134, 146]
-  ICL3: [217, 322]
-  N-term: [1, 34]
-  TM1: [35, 56]
-  TM2: [63, 91]
-  TM3: [100, 133]
-  TM4: [147, 169]
-  TM5: [188, 216]
-  TM6: [323, 355]
-  TM7: [364, 386]
+    C-term: [399, 400]
+    ECL1: [92, 99]
+    ECL2: [170, 187]
+    ECL3: [356, 363]
+    H8: [387, 398]
+    ICL1: [57, 62]
+    ICL2: [134, 146]
+    ICL3: [217, 322]
+    N-term: [1, 34]
+    TM1: [35, 56]
+    TM2: [63, 91]
+    TM3: [100, 133]
+    TM4: [147, 169]
+    TM5: [188, 216]
+    TM6: [323, 355]
+    TM7: [364, 386]
 bulges:
     TM2: [2x551]
     TM5: [5x461]

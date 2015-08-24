@@ -1,41 +1,36 @@
-# PDB data
-
 pdb: 4s0v
-publication_date: '2015-01-26'
+publication_date: '2015-01-14'
 pubmed_id: '25533960'
 resolution: '2.5'
-
-# Structure annotations
-
 g_protein: None
 ligand:
-- {name: Suvorexant, role: Antagonist}
+-   name: SUV
+    role: Antagonist
 endogenous_ligand:
-- {name: Orexin-A, id: 1697}
-- {name: Orexin-B, id: 1699}
+-   name: Orexin-A
+    id: 1697
+-   name: Orexin-B
+    id: 1699
 preferred_chain: A
 state: Inactive
-
-# Structure annotations
-
 construct: 4s0v
 segments:
-  C-term: [380, 444]
-  ECL1: [118, 123]
-  ECL2: [190, 220]
-  ECL3: [330, 343]
-  H8: [364, 379]
-  ICL1: [82, 87]
-  ICL2: [158, 165]
-  ICL3: [253, 291]
-  N-term: [1, 46]
-  TM1: [47, 81]
-  TM2: [88, 117]
-  TM3: [124, 157]
-  TM4: [166, 189]
-  TM5: [221, 252]
-  TM6: [292, 329]
-  TM7: [344, 363]
+    C-term: [380, 444]
+    ECL1: [118, 123]
+    ECL2: [190, 220]
+    ECL3: [330, 343]
+    H8: [364, 379]
+    ICL1: [82, 87]
+    ICL2: [158, 165]
+    ICL3: [253, 291]
+    N-term: [1, 46]
+    TM1: [47, 81]
+    TM2: [88, 117]
+    TM3: [124, 157]
+    TM4: [166, 189]
+    TM5: [221, 252]
+    TM6: [292, 329]
+    TM7: [344, 363]
 bulges:
     TM2: [2x551]
     TM5: [5x461]

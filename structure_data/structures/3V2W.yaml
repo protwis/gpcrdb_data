@@ -1,37 +1,30 @@
-# PDB data
-
 pdb: 3V2W
 publication_date: '2012-02-15'
 pubmed_id: '22344443'
 resolution: '3.35'
-
-# Structure annotations
-
 g_protein: None
 ligand:
-- {name: Spingolipid mimic, role: Antagonist}
+-   name: Spingolipid mimic
+    role: Antagonist
 preferred_chain: A
 state: Inactive
-
-# Structure annotations
-
 bulges: ''
 constrictions: ''
 construct: 3v2w
 segments:
-  C-term: [324, 382]
-  ECL1: [105, 114]
-  ECL2: [177, 199]
-  ECL3: [281, 293]
-  H8: [315, 323]
-  ICL1: [73, 80]
-  ICL2: [147, 157]
-  ICL3: [231, 250]
-  N-term: [1, 41]
-  TM1: [42, 72]
-  TM2: [81, 104]
-  TM3: [115, 146]
-  TM4: [158, 176]
-  TM5: [200, 230]
-  TM6: [251, 280]
-  TM7: [294, 314]
+    C-term: [324, 382]
+    ECL1: [105, 114]
+    ECL2: [177, 199]
+    ECL3: [281, 293]
+    H8: [315, 323]
+    ICL1: [73, 80]
+    ICL2: [147, 157]
+    ICL3: [231, 250]
+    N-term: [1, 41]
+    TM1: [42, 72]
+    TM2: [81, 104]
+    TM3: [115, 146]
+    TM4: [158, 176]
+    TM5: [200, 230]
+    TM6: [251, 280]
+    TM7: [294, 314]
