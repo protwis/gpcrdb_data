@@ -34,4 +34,5 @@ bulges:
     TM1: [1x411]
     TM2: [2x551]
     TM5: [5x461]
-constrictions: ''
+constrictions:
+    TM7: [7x44]
