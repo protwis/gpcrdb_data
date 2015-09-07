@@ -1,0 +1,35 @@
+# PDB data
+
+pdb: 4Z36
+publication_date: '2015-06-03'
+pubmed_id: '26091040'
+resolution: '2.90'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: ONO-3080573, role: Antagonist}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+construct: 4z36
+segments:
+  C-term: [324, 364]
+  ECL1: [109, 118]
+  ECL2: [181, 203]
+  ECL3: [283, 292]
+  H8: [315, 323]
+  ICL1: [77, 84]
+  ICL2: [151, 161]
+  ICL3: [235, 252]
+  N-term: [1, 45]
+  TM1: [46, 76]
+  TM2: [85, 108]
+  TM3: [119, 150]
+  TM4: [162, 180]
+  TM5: [204, 234]
+  TM6: [253, 282]
+  TM7: [293, 314]

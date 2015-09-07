@@ -1,0 +1,37 @@
+pdb: 4K5Y
+publication_date: '2013-07-17'
+pubmed_id: '23863939'
+resolution: '2.98'
+g_protein: None
+ligand:
+-   name: CP-376395
+    role: Antagonist
+endogenous_ligand:
+-   name: Corticotropin-releasing hormone
+    id: 912
+preferred_chain: C
+state: Inactive
+representative: true
+construct: 4k5y
+segments:
+    C-term: [410, 444]
+    ECL1: [206, 213]
+    ECL2: [283, 297]
+    ECL3: [362, 367]
+    H8: [396, 409]
+    ICL1: [144, 178]
+    ICL2: [248, 255]
+    ICL3: [327, 332]
+    N-term: [1, 113]
+    TM1: [114, 143]
+    TM2: [179, 205]
+    TM3: [214, 247]
+    TM4: [256, 282]
+    TM5: [298, 326]
+    TM6: [333, 361]
+    TM7: [368, 395]
+bulges:
+    TM4: [4x491]
+constrictions:
+    TM4: [4x57]
+    TM7: [7x48]
