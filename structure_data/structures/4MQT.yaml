@@ -4,8 +4,10 @@ pubmed_id: '24256733'
 resolution: '3.7'
 g_protein: Nanobody
 ligand:
--   name: Iperoxo, LY2119620
+-   name: Iperoxo
     role: Agonist
+-   name: LY2119620
+    role: Positive allosteric modulator
 preferred_chain: A
 state: Active
 bulges: ''
