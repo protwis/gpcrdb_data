@@ -1,0 +1,35 @@
+# PDB data
+
+pdb: 3AYM
+publication_date: '2011-08-17'
+pubmed_id: '21906602'
+resolution: '2.80'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: All-trans-retinal, role: Agonist}
+preferred_chain: A,B
+state: Inactive
+
+# Structure annotations
+
+construct: 3aym
+segments:
+  C-term: [324, 448]
+  ECL1: [97, 104]
+  ECL2: [172, 193]
+  ECL3: [287, 293]
+  H8: [319, 323]
+  ICL1: [62, 67]
+  ICL2: [139, 150]
+  ICL3: [226, 257]
+  N-term: [1, 26]
+  TM1: [27, 61]
+  TM2: [68, 96]
+  TM3: [105, 138]
+  TM4: [151, 171]
+  TM5: [194, 225]
+  TM6: [258, 286]
+  TM7: [294, 318]

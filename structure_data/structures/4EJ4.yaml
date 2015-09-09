@@ -4,10 +4,10 @@ pubmed_id: '22596164'
 resolution: '3.4'
 g_protein: None
 ligand:
--   name: EJ4
+-   name: natrindole
     role: Antagonist
 endogenous_ligand:
--   name: "\u03B2-endorphin"
+-   name: endorphin
     id: 1643
 -   name: dynorphin A
     id: 1620
@@ -15,9 +15,9 @@ endogenous_ligand:
     id: 1622
 -   name: endomorphin-1
     id: 1623
--   name: Leo-enkephalin
+-   name: leo-enkephalin
     id: 1613
--   name: Met-enkephalin
+-   name: met-enkephalin
     id: 1614
 preferred_chain: A
 state: Inactive

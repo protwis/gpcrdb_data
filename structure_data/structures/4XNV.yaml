@@ -1,0 +1,34 @@
+# PDB data
+
+pdb: 4XNV
+publication_date: '2015-04-01'
+pubmed_id: '25822790'
+resolution: '2.20'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: BPTU, role: N/A}
+preferred_chain: A
+state: Inactive
+
+# Structure annotations
+
+construct: 4xnv
+segments:
+  C-term: [328, 373]
+  ECL1: [113, 120]
+  ECL2: [188, 210]
+  ECL3: [286, 299]
+  ICL1: [80, 86]
+  ICL2: [155, 164]
+  ICL3: [245, 252]
+  N-term: [1, 47]
+  TM1: [48, 79]
+  TM2: [87, 112]
+  TM3: [121, 154]
+  TM4: [165, 187]
+  TM5: [211, 244]
+  TM6: [253, 285]
+  TM7: [300, 327]

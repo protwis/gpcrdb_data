@@ -1,0 +1,35 @@
+# PDB data
+
+pdb: 2Y02
+publication_date: '2011-01-12'
+pubmed_id: '21228877'
+resolution: '2.60'
+
+# Structure annotations
+
+g_protein: None
+ligand:
+- {name: Carmoterol, role: Agonist}
+preferred_chain: B
+state: Inactive
+
+# Structure annotations
+
+construct: 2y02
+segments:
+  C-term: [359, 483]
+  ECL1: [105, 110]
+  ECL2: [180, 204]
+  ECL3: [316, 321]
+  H8: [346, 358]
+  ICL1: [69, 74]
+  ICL2: [145, 154]
+  ICL3: [238, 282]
+  N-term: [1, 36]
+  TM1: [37, 68]
+  TM2: [75, 104]
+  TM3: [111, 144]
+  TM4: [155, 179]
+  TM5: [205, 237]
+  TM6: [283, 315]
+  TM7: [322, 345]
