@@ -30,5 +30,5 @@ segments:
     TM6: [784, 807]
     TM7: [811, 839]
 bulges:
-    TM7: [7x471]
+    TM7: [7x531]
 constrictions: ''

@@ -1,9 +1,9 @@
 # PDB data
 
-pdb: 4xt3
+pdb: 4xt1
 publication_date: '2015-03-04'
 pubmed_id: '25745166'
-resolution: '3.8'
+resolution: '2.89'
 
 # Structure annotations
 
@@ -14,28 +14,28 @@ endogenous_ligand:
 - {name: CX3CL1, id: 856}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 
-construct: 4xt3
-segments:
-  C-term: [307, 308]
-  ECL1_1: [95, 96]
-  ECL1_2: [100, 103]
-  ECL2: [164, 182]
-  ECL3: [256, 262]
-  H8: [295, 306]
-  ICL1: [61, 66]
-  ICL2: [135, 141]
-  ICL3: [216, 223]
-  N-term: [18, 25]
-  TM1: [26, 60]
+construct: 4xt1
+  C-term: [308, 310]
+  ECL1_1: [95, 95]
+  ECL1_2: [102, 104]
+  ECL2: [163, 182]
+  ECL3: [255, 262]
+  ICL1: [60, 66]
+  ICL2: [132, 141]
+  ICL3: [215, 221]
+  N-term: [15, 24]
+  TM1: [25, 59]
   TM2: [67, 94]
-  TM3: [104, 134]
-  TM4: [142, 163]
-  TM5: [183, 215]
-  TM6: [224, 255]
+  TM3: [104, 133]
+  TM4: [142, 162]
+  TM5: [183, 214]
+  TM6: [222, 254]
   TM7: [263, 294]
+  TM8: [295, 308]
 bulges:
     TM2: [2x551]
     TM5: [5x461]
