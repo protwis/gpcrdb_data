@@ -10,9 +10,11 @@ resolution: '2.90'
 g_protein: None
 ligand:
 - {name: ONO-9910539, role: Antagonist}
+endogenous_ligand:
+- {name: LPA, id: 2906}
 preferred_chain: A
 state: Inactive
-
+representative: true
 # Structure annotations
 
 construct: 4z35
@@ -33,3 +35,8 @@ segments:
   TM5: [204, 234]
   TM6: [253, 282]
   TM7: [293, 314]
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]

@@ -12,8 +12,6 @@ endogenous_ligand:
 preferred_chain: A
 state: Inactive
 representative: true
-bulges: ''
-constrictions: ''
 construct: 4buo
 segments:
     ECL1: [128, 137]
@@ -24,10 +22,15 @@ segments:
     ICL2: [173, 186]
     ICL3: [266, 301]
     N-term: [1, 60]
-    TM1: [61, 88]
+    TM1: [61, 90]
     TM2: [99, 127]
     TM3: [138, 172]
     TM4: [187, 201]
     TM5: [231, 265]
     TM6: [302, 330]
     TM7: [341, 373]
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]

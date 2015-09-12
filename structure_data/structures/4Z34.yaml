@@ -14,7 +14,6 @@ endogenous_ligand:
 - {name: LPA, id: 2906}
 preferred_chain: A
 state: Inactive
-representative: true
 
 # Structure annotations
 
@@ -36,6 +35,8 @@ segments:
   TM5: [204, 232]
   TM6: [250, 282]
   TM7: [294, 314]
-bulges: ''
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
 constrictions:
     TM7: [7x44]
