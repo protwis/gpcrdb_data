@@ -22,8 +22,6 @@ endogenous_ligand:
 preferred_chain: A
 state: Inactive
 representative: true
-bulges: ''
-constrictions: ''
 construct: 4dkl
 segments:
     C-term: [352, 398]
@@ -42,3 +40,7 @@ segments:
     TM5: [226, 258]
     TM6: [273, 305]
     TM7: [312, 339]
+bulges:
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]

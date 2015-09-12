@@ -14,7 +14,6 @@ endogenous_ligand:
 - {name: CX3CL1, id: 856}
 preferred_chain: A
 state: Inactive
-representative: true
 
 # Structure annotations
 

@@ -10,8 +10,11 @@ resolution: '2.20'
 g_protein: None
 ligand:
 - {name: BPTU, role: N/A}
+endogenous_ligand:
+- {name: adenosine diphosphate, id: 1712}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 
@@ -32,3 +35,7 @@ segments:
   TM5: [211, 244]
   TM6: [253, 285]
   TM7: [300, 327]
+bulges:
+    TM6: [6x451]
+constrictions:
+    TM7: [7x44]

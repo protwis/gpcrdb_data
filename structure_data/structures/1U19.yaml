@@ -10,8 +10,11 @@ resolution: '2.20'
 g_protein: None
 ligand:
 - {name: 11-cis-retinal, role: Inverse agonist}
+endogenous_ligand:
+- {name: Retinal, id: 6670}
 preferred_chain: A
 state: Inactive
+representative: true
 
 # Structure annotations
 
@@ -33,3 +36,7 @@ segments:
   TM5: [196, 229]
   TM6: [245, 277]
   TM7: [282, 309]
+bulges:
+    TM2: [2x551]
+constrictions:
+    TM7: [7x44]

@@ -14,7 +14,6 @@ endogenous_ligand:
 - {name: noradrenaline, id: 484}
 preferred_chain: B
 state: Inactive
-representative: true
 
 # Structure annotations
 
