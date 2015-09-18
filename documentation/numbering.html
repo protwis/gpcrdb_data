@@ -1,0 +1,86 @@
+<div class='row-fluid'>
+    <div class='span12 well well-small'>
+        <article>
+            <header><h1>Generic residue numbering</h1></header>
+            <div style='width:650px;float:right;'>
+                <figure>
+                  <img src="/static/home/images/documentation/TM2_bulge.jpg">
+                  <img src="/static/home/images/documentation/TM4_constriction.jpg">
+                    <figcaption>
+                        <strong>Figure 1</strong>. A bulge in helix 2 of the Beta-2 adrenergic receptor (left) and a
+                        constriction in helix 4 of the Histamine H1 receptor (right) create offsets in the
+                        sequence-based generic numbers when compared to receptors that lack the bulge/constriction.
+                    </figcaption>
+                </figure>
+            </div>
+
+             <p>Sequence-based generic GPCR residue numbering schemes<sup>1</sup> exist for class A
+            (Ballesteros-Weinstein, BW<sup>2</sup>) B (Wootten<sup>3</sup>), C (Pin<sup>4</sup>), and F
+            (Wang<sup>5</sup>). In these systems, the first number denotes the helix (1-7) and the second the residue
+            position relative to the most conserved position, which is assigned the number 50. For example, 6.51 denotes
+            a residue in transmembrane helix 6, one position after the most conserved residue (6.50). The reference
+            helix conserved positions differ between the GPCR classes.</p>
+
+            <p>Recent GPCR crystal structures have revealed frequent helix bulges and constrictions in several
+            transmembrane helices<sup>6</sup>. Structural superimposition makes it clear that these cause a gap that offsets all
+            the following residue numbers when compared to an undistorted helix, i.e. the structurally equivalent
+            residues no longer have the same number (Fig. 1).</p>
+
+            <p>The GPCRDB numbering scheme<sup>1</sup> is the first that is based on crystal structures and corrects for
+            helix bulges and constrictions. GPCRDB numbers are distinguished by a unique separator x and may be used
+            alone, e.g. 5x47, or together with one of the sequence-based schemes, e.g. 5.46x47. A bulge residue is
+            assigned the same number as the preceding residue followed by a 1, e.g. 551 for a bulge following
+            position 55.</p>
+
+            <p>
+            GPCRDB offers a suite of tools making it easier to use generic residue numbers:
+                <ul>
+                    <li>Structure-based <a href='/alignment/targetselection'>sequence alignments</a>
+                        gapped to account for bulges and constrictions</li>
+                    <li><a href='/residue/residuetable'>Lookup tables</a> with
+                        receptor-specific and generic residue numbers</li>
+                    <li><a href='/structure/generic_numbering_index'>3D Structure numbering</a> along with visualization tools for PyMol and Maestro</li>
+                    <li><a href='http://www.gpcr.org/7tm/?wicket:bookmarkablePage=:nl.ru.cmbi.mcsis.web.pages.info.UtopiaDocumentGPCRDBPage'>
+                        Pdf reader</a> with automatic residue annotation</li>
+                </ul>
+            </p>
+
+            <p>GPCRDB cross-class alignments contain each of the numbering schemes, which may be distinguished in text
+            by appending the letter of the class, e.g. 2x52ax59b. The Lookup tables tool also provides the alternative
+            class A numbering schemes by Oliveira<sup>7</sup> and Baldwin/Schwartz<sup>8,9</sup>.</p>
+
+            <p><h4>References</h4></p>
+
+            <p>
+            <a href="http://dx.doi.org/10.1016/j.tips.2014.11.001">[1]</a> V Isberg, C de Graaf, A Bortolato,
+            V Cherezov, V Katritch, F Marshall, S Mordalski, J-P Pin, RC Stevens, G Vriend, DE Gloriam, "Generic GPCR
+            Residue Numbers - Aligning Topology Maps While Minding The Gaps", <strong>2015</strong>,
+            <em>Trends Pharmacol Sci</em>, 36(1), 22–31.<br>
+            <a href="http://dx.doi.org/10.1016/S1043-9471(05)80049-7">[2]</a> JA Ballesteros and H Weinstein,
+            “Integrated methods for the construction of three-dimensional models and computational
+            probing of structure-function relations in G protein-coupled receptors”, <strong>1995</strong>, <em>Methods
+            Neurosci</em>, 25, 366–428.<br>
+            <a href="http://dx.doi.org/10.1073/pnas.1221585110">[3]</a> D Wootten, J Simms, LJ Miller, A Christopoulos,
+            PM Sexton, "Polar transmembrane interactions drive formation of ligand-specific and signal pathway-biased
+            family B G protein-coupled receptor conformations", <strong>2013</strong>, <em>Proc Natl Acad Sci</em>,
+            110(13), 5211-5216.<br>
+            <a href="http://dx.doi.org/10.1016/S0163-7258(03)00038-X">[4]</a> J-P Pin, T Galvez, L Prezeau, "Evolution,
+            structure, and activation mechanism of family 3/C G-protein-coupled receptors", <strong>2003</strong>,
+            <em>Pharmacol Ther</em>, 98(3), 325-354.<br>
+            <a href="http://dx.doi.org/10.1038/ncomms5355">[5]</a> C Wang, H Wu, T Evron, E Vardy, G Han, X-P Huang, SJ Hufeisen,
+            TJ Mangano,  DJ Urban, V Katritch, V Cherezov, MG Caron, BL Roth, RC Stevens, "Structural basis for
+            Smoothened receptor modulation and chemoresistance", <strong>2014</strong>, <em>Nat Commun</em>, 5, 4355.<br>
+            <a href="http://dx.doi.org/10.3390/ijms15057841">[6]</a> R van der Kant, G Vriend, "Alpha-Bulges in G Protein-Coupled
+            Receptors", <strong>2014</strong>, <em>Int J Mol Sci</em>, 15(5), 7841-7864.<br>
+            <a href="http://dx.doi.org/10.1007/BF00125323">[7]</a> L Oliveira, ACM Paiva,
+            G Vriend, "A common motif in G-protein-coupled seven transmembrane helix receptors", <strong>1993</strong>,
+            <em>J Comput Aided Mol Des</em>, 7(6), 649–658.<br>
+            <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC413383/">[8]</a> JM Baldwin,
+            “The probable arrangement of the helices in G protein-coupled receptors”, <strong>1993</strong>, <em>
+            EMBO J</em>, 12(4), 1693–703<br>
+            <a href="http://dx.doi.org/10.1016/0958-1669(94)90054-X">[9]</a> TW Schwartz, “Locating ligand-binding sites
+            in 7TM receptors by protein engineering”, <strong>1994</strong>, <em>Curr Opin Biotechnol</em>, 5(4), 434–44.
+            </p>
+        </article>
+    </div>
+</div>
