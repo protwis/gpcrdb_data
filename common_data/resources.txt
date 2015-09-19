@@ -1,4 +1,8 @@
-pdb     "Protein Data Bank" http://www.rcsb.org/pdb/explore/explore.do?structureId=$index
-pubmed  PubMed              http://www.ncbi.nlm.nih.gov/pubmed/$index
-doi     DOI                 http://dx.doi.org/$index
-pubchem PubChem             https://pubchem.ncbi.nlm.nih.gov/compound/$index
+pdb         "Protein Data Bank"     http://www.rcsb.org/pdb/explore/explore.do?structureId=$index
+pubmed      PubMed                  http://www.ncbi.nlm.nih.gov/pubmed/$index
+doi         DOI                     http://dx.doi.org/$index
+pubchem     PubChem                 https://pubchem.ncbi.nlm.nih.gov/compound/$index
+gtop        "Guide To Pharmacology" http://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=$index
+bitterdb    BitterDB                http://bitterdb.agri.huji.ac.il/Receptor.php?id=$index
+uniprot     UniProt                 http://www.uniprot.org/uniprot/$index
+chembl      ChEMBL                  https://www.ebi.ac.uk/chembldb/index.php/target/inspect/$index
