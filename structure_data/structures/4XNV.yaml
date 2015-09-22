@@ -1,43 +1,31 @@
-# PDB data
-
 pdb: 4XNV
-publication_date: '2015-04-01'
-pubmed_id: '25822790'
-resolution: '2.20'
-
-# Structure annotations
-
+representative: true
 g_protein: None
-ligand:
-- {name: BPTU, role: N/A}
-endogenous_ligand:
-- {name: adenosine diphosphate, id: 1712}
+auxiliary_protein: Rubredoxin
 preferred_chain: A
 state: Inactive
-representative: true
-
-# Structure annotations
-
-construct: 4xnv
+endogenous_ligand:
+- {iupharId: 1712, name: adenosine diphosphate, type: Small Molecule}
+ligand:
+- {name: BUR, pubchemId: '11510579', role: .nan, type: Small Molecule}
 segments:
-  C-term: [328, 334]
-  ECL1: [113, 120]
-  ECL2: [188, 210]
-  ECL3: [290, 295]
-  ICL1: [80, 86]
-  ICL2_1: [155, 156]
-  ICL2_2: [159, 160]
-  ICL3_1: [246, 247]
-  ICL3_2: [253, 254]
   N-term: [39, 47]
   TM1: [48, 79]
+  ICL1: [80, 86]
   TM2: [87, 112]
+  ECL1: [113, 120]
   TM3: [121, 154]
+  ICL2_1: [155, 156]
   TM4: [165, 187]
+  ECL2: [188, 210]
   TM5: [211, 245]
+  ICL3_1: [246, 247]
+  ICL3_2: [253, 254]
   TM6: [255, 289]
+  ECL3: [290, 295]
   TM7: [296, 327]
+  C-term: [328, 334]
 bulges:
-    TM6: [6x451]
+  TM6: [6x451]
 constrictions:
-    TM7: [7x44]
+  TM7: [7x44]

@@ -1,32 +1,27 @@
+construct: 4mqt
 pdb: 4MQT
-publication_date: '2013-11-27'
-pubmed_id: '24256733'
-resolution: '3.7'
 g_protein: Nanobody
-ligand:
--   name: Iperoxo
-    role: Agonist
--   name: LY2119620
-    role: Positive allosteric modulator
+auxiliary_protein: None
 preferred_chain: A
 state: Active
+ligand:
+- {name: 2CU, pubchemId: '57664406', role: Agonist, type: Small Molecule}
+segments:
+  N-term: [1, 22]
+  TM1: [23, 50]
+  ICL1: [51, 56]
+  TM2: [57, 85]
+  ECL1: [86, 94]
+  TM3: [95, 126]
+  ICL2: [127, 136]
+  TM4: [137, 159]
+  ECL2: [160, 183]
+  TM5: [184, 213]
+  ICL3: [214, 383]
+  TM6: [384, 412]
+  ECL3: [413, 419]
+  TM7: [420, 443]
+  H8: [444, 454]
+  C-term: [455, 466]
 bulges: ''
 constrictions: ''
-construct: 4mqt
-segments:
-    C-term: [455, 466]
-    ECL1: [86, 94]
-    ECL2: [160, 183]
-    ECL3: [413, 419]
-    H8: [444, 454]
-    ICL1: [51, 56]
-    ICL2: [127, 136]
-    ICL3: [214, 383]
-    N-term: [1, 22]
-    TM1: [23, 50]
-    TM2: [57, 85]
-    TM3: [95, 126]
-    TM4: [137, 159]
-    TM5: [184, 213]
-    TM6: [384, 412]
-    TM7: [420, 443]

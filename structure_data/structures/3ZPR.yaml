@@ -1,35 +1,25 @@
-# PDB data
-
+construct: 3zpr
 pdb: 3ZPR
-publication_date: '2013-04-03'
-pubmed_id: '23517028'
-resolution: '2.80'
-
-# Structure annotations
-
 g_protein: None
-ligand:
-- {name: '19', role: Antagonist}
+auxiliary_protein: None
 preferred_chain: B
 state: Inactive
-
-# Structure annotations
-
-construct: 3zpr
+ligand:
+- {name: 3WC, pubchemId: '598754', role: Antagonist, type: Small Molecule}
 segments:
-  C-term: [359, 483]
-  ECL1: [105, 110]
-  ECL2: [180, 204]
-  ECL3: [316, 321]
-  H8: [346, 358]
-  ICL1: [69, 74]
-  ICL2: [145, 154]
-  ICL3: [238, 282]
   N-term: [1, 36]
   TM1: [37, 68]
+  ICL1: [69, 74]
   TM2: [75, 104]
+  ECL1: [105, 110]
   TM3: [111, 144]
+  ICL2: [145, 154]
   TM4: [155, 179]
+  ECL2: [180, 204]
   TM5: [205, 237]
+  ICL3: [238, 282]
   TM6: [283, 315]
+  ECL3: [316, 321]
   TM7: [322, 345]
+  H8: [346, 358]
+  C-term: [359, 483]

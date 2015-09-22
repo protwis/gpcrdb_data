@@ -1,36 +1,31 @@
+construct: 4z34
 pdb: 4z34
-publication_date: '2015-06-03'
-pubmed_id: '26091040'
-resolution: '3.0'
 g_protein: None
-ligand:
--   name: ONO-9780307
-    role: Antagonist
-endogenous_ligand:
--   name: LPA
-    id: 2906
+auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
-construct: 4z34
+endogenous_ligand:
+- {iupharId: 2906, name: LPA, type: Lipid}
+ligand:
+- {name: ON7, pubchemId: '11785732', role: Antagonist, type: Small Molecule}
 segments:
-    N-term: [20, 46]
-    TM1: [47, 76]
-    ICL1: [77, 84]
-    TM2: [85, 108]
-    ECL1: [109, 117]
-    TM3: [119, 150]
-    ICL2: [151, 157]
-    TM4: [158, 184]
-    ECL2: [185, 203]
-    TM5: [204, 232]
-    TM6: [249, 283]
-    ECL3: [284, 293]
-    TM7: [294, 314]
-    H8: [315, 323]
-    C-term: [324, 327]
+  N-term: [20, 46]
+  TM1: [47, 76]
+  ICL1: [77, 84]
+  TM2: [85, 108]
+  ECL1: [109, 117]
+  TM3: [119, 150]
+  ICL2: [151, 157]
+  TM4: [158, 184]
+  ECL2: [185, 203]
+  TM5: [204, 232]
+  TM6: [249, 283]
+  ECL3: [284, 293]
+  TM7: [294, 314]
+  H8: [315, 323]
+  C-term: [324, 327]
 bulges:
-    TM2: [2x551]
-    TM5: [5x461]
+  TM2: [2x551]
+  TM5: [5x461]
 constrictions:
-    TM7: [7x44]
-doi_id: 10.1016/J.CELL.2015.06.002
+  TM7: [7x44]

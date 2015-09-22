@@ -1,43 +1,33 @@
-# PDB data
-
+construct: 4bvn
 pdb: 4BVN
-publication_date: '2014-04-02'
-pubmed_id: '24663151'
-resolution: '2.10'
-
-# Structure annotations
-
+representative: true
 g_protein: None
-ligand:
-- {name: Cyanopindolol, role: Antagonist}
-endogenous_ligand:
-- {name: noradrenaline, id: 484}
+auxiliary_protein: None
 preferred_chain: A
 state: Inactive
-representative: true
-
-# Structure annotations
-
-construct: 4bvn
+endogenous_ligand:
+- {iupharId: 484, name: noradrenaline, type: Small Molecule}
+ligand:
+- {name: P32, pubchemId: '46937143', role: Antagonist, type: Small Molecule}
 segments:
-  C-term: [359, 483]
-  ECL1: [105, 110]
-  ECL2: [180, 204]
-  ECL3: [316, 321]
-  H8: [346, 358]
-  ICL1: [69, 74]
-  ICL2: [145, 154]
-  ICL3: [238, 282]
   N-term: [1, 36]
   TM1: [37, 68]
+  ICL1: [69, 74]
   TM2: [75, 104]
+  ECL1: [105, 110]
   TM3: [111, 144]
+  ICL2: [145, 154]
   TM4: [155, 179]
+  ECL2: [180, 204]
   TM5: [205, 237]
+  ICL3: [238, 282]
   TM6: [283, 315]
+  ECL3: [316, 321]
   TM7: [322, 345]
+  H8: [346, 358]
+  C-term: [359, 483]
 bulges:
-    TM2: [2x551]
-    TM5: [5x461]
+  TM2: [2x551]
+  TM5: [5x461]
 constrictions:
-    TM7: [7x44]
+  TM7: [7x44]

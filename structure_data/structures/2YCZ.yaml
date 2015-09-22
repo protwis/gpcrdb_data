@@ -1,42 +1,32 @@
-# PDB data
-
+construct: 2ycz
 pdb: 2ycz
-publication_date: '2011-06-01'
-pubmed_id: '21540331'
-resolution: '3.65'
-
-# Structure annotations
-
 g_protein: None
-ligand:
-- {name: Iodocyanopindolol, role: Antagonist}
-endogenous_ligand:
-- {name: noradrenaline, id: 484}
+auxiliary_protein: None
 preferred_chain: B
 state: Inactive
-
-# Structure annotations
-
-construct: 2ycz
+endogenous_ligand:
+- {iupharId: 484, name: noradrenaline, type: Small Molecule}
+ligand:
+- {name: I32, pubchemId: '33624', role: Antagonist, type: Small Molecule}
 segments:
-  C-term: [358, 483]
-  ECL1: [105, 110]
-  ECL2: [179, 240]
-  ECL3: [316, 322]
-  H8: [347, 357]
-  ICL1: [69, 74]
-  ICL2: [145, 154]
-  ICL3: [237, 277]
   N-term: [1, 33]
   TM1: [34, 68]
+  ICL1: [69, 74]
   TM2: [75, 104]
+  ECL1: [105, 110]
   TM3: [111, 144]
+  ICL2: [145, 154]
   TM4: [155, 178]
+  ECL2: [179, 240]
   TM5: [205, 236]
+  ICL3: [237, 277]
   TM6: [237, 315]
+  ECL3: [316, 322]
   TM7: [323, 346]
+  H8: [347, 357]
+  C-term: [358, 483]
 bulges:
-    TM2: [2x551]
-    TM5: [5x461]
+  TM2: [2x551]
+  TM5: [5x461]
 constrictions:
-    TM7: [7x44]
+  TM7: [7x44]
