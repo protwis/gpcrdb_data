@@ -1,36 +1,32 @@
+construct: 4ea3
 pdb: 4EA3
-publication_date: '2012-04-25'
-pubmed_id: '22596163'
-resolution: '3.01'
+representative: true
 g_protein: None
-ligand:
--   name: Compound 24
-    role: Antagonist
-endogenous_ligand:
--   name: nociceptin/orphanin FQ
-    id: 1681
+auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
-representative: true
-construct: 4ea3
+endogenous_ligand:
+- {iupharId: 1681, name: nociceptin/orphanin FQ, type: Peptide}
+ligand:
+- {name: 0NN, pubchemId: '10296561', role: Antagonist, type: Small Molecule}
 segments:
-    C-term: [334, 370]
-    ECL1: [114, 118]
-    ECL2: [187, 210]
-    ECL3: [288, 294]
-    H8: [323, 333]
-    ICL1: [78, 84]
-    ICL2: [154, 163]
-    ICL3: [243, 251]
-    N-term: [1, 48]
-    TM1: [49, 77]
-    TM2: [85, 113]
-    TM3: [119, 153]
-    TM4: [164, 186]
-    TM5: [211, 242]
-    TM6: [252, 287]
-    TM7: [295, 322]
+  N-term: [1, 48]
+  TM1: [49, 77]
+  ICL1: [78, 84]
+  TM2: [85, 113]
+  ECL1: [114, 118]
+  TM3: [119, 153]
+  ICL2: [154, 163]
+  TM4: [164, 186]
+  ECL2: [187, 210]
+  TM5: [211, 242]
+  ICL3: [243, 251]
+  TM6: [252, 287]
+  ECL3: [288, 294]
+  TM7: [295, 322]
+  H8: [323, 333]
+  C-term: [334, 370]
 bulges:
-    TM5: [5x461]
+  TM5: [5x461]
 constrictions:
-    TM7: [7x44]
+  TM7: [7x44]

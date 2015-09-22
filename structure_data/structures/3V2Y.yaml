@@ -1,35 +1,31 @@
+construct: 3v2y
 pdb: 3V2Y
-publication_date: '2012-02-15'
-pubmed_id: '22344443'
-resolution: '2.8'
+representative: true
 g_protein: None
-ligand:
--   name: Spingolipid mimic
-    role: Antagonist
-endogenous_ligand:
--   name: Sphingosine-1-phosphate
-    id: 911
+auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
-representative: true
-construct: 3v2y
+endogenous_ligand:
+- {iupharId: 911, name: Sphingosine-1-phosphate, type: Lipid}
+ligand:
+- {name: ML5, pubchemId: '6857802', role: Antagonist, type: Small Molecule}
 segments:
-    C-term: [324, 382]
-    ECL1: [105, 114]
-    ECL2: [177, 199]
-    ECL3: [281, 293]
-    H8: [315, 323]
-    ICL1: [73, 80]
-    ICL2: [147, 157]
-    ICL3: [231, 250]
-    N-term: [1, 41]
-    TM1: [42, 72]
-    TM2: [81, 104]
-    TM3: [115, 146]
-    TM4: [158, 176]
-    TM5: [200, 230]
-    TM6: [251, 280]
-    TM7: [294, 314]
+  N-term: [1, 41]
+  TM1: [42, 72]
+  ICL1: [73, 79]
+  TM2: [80, 104]
+  ECL1: [105, 114]
+  TM3: [115, 146]
+  ICL2: [147, 157]
+  TM4: [158, 176]
+  ECL2: [177, 199]
+  TM5: [200, 230]
+  ICL3: [231, 250]
+  TM6: [251, 280]
+  ECL3: [281, 293]
+  TM7: [294, 314]
+  H8: [315, 323]
+  C-term: [324, 382]
 bulges: ''
 constrictions:
-    TM7: [7x33, 7x44]
+  TM7: [7x44]

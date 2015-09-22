@@ -1,35 +1,31 @@
+construct: 3vw7
 pdb: 3VW7
-publication_date: '2012-12-12'
-pubmed_id: '23222541'
-resolution: '2.2'
+representative: true
 g_protein: None
-ligand:
--   name: VPX
-    role: Antagonist
-endogenous_ligand:
--   name: Thrombin
-    id: 4453
+auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
-representative: true
-construct: 3vw7
+endogenous_ligand:
+- {iupharId: 4453, name: Thrombin, type: Peptide}
+ligand:
+- {name: VPX, pubchemId: '10077130', role: Antagonist, type: Small Molecule}
 segments:
-    ECL1: [164, 171]
-    ECL2: [239, 264]
-    ECL3: [339, 346]
-    H8: [374, 425]
-    ICL1: [131, 137]
-    ICL2: [206, 215]
-    ICL3: [298, 304]
-    N-term: [1, 98]
-    TM1: [99, 130]
-    TM2: [138, 163]
-    TM3: [172, 205]
-    TM4: [216, 238]
-    TM5: [265, 297]
-    TM6: [305, 338]
-    TM7: [347, 373]
+  N-term: [1, 98]
+  TM1: [99, 130]
+  ICL1: [131, 137]
+  TM2: [138, 163]
+  ECL1: [164, 171]
+  TM3: [172, 205]
+  ICL2: [206, 215]
+  TM4: [216, 238]
+  ECL2: [239, 264]
+  TM5: [265, 297]
+  ICL3: [298, 304]
+  TM6: [305, 338]
+  ECL3: [339, 346]
+  TM7: [347, 373]
+  H8: [374, 425]
 bulges:
-    TM6: [6x451]
+  TM6: [6x451]
 constrictions:
-    TM7: [7x44]
+  TM7: [7x44]

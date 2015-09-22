@@ -1,35 +1,25 @@
-# PDB data
-
+construct: 3ayn
 pdb: 3AYN
-publication_date: '2011-08-17'
-pubmed_id: '21906602'
-resolution: '2.70'
-
-# Structure annotations
-
 g_protein: None
-ligand:
-- {name: 9-cis-retinal, role: Inverse agonist}
+auxiliary_protein: None
 preferred_chain: A,B
 state: Inactive
-
-# Structure annotations
-
-construct: 3ayn
+ligand:
+- {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small Molecule}
 segments:
-  C-term: [324, 448]
-  ECL1: [97, 104]
-  ECL2: [172, 193]
-  ECL3: [287, 293]
-  H8: [319, 323]
-  ICL1: [62, 67]
-  ICL2: [139, 150]
-  ICL3: [226, 257]
   N-term: [1, 26]
   TM1: [27, 61]
+  ICL1: [62, 67]
   TM2: [68, 96]
+  ECL1: [97, 104]
   TM3: [105, 138]
+  ICL2: [139, 150]
   TM4: [151, 171]
+  ECL2: [172, 193]
   TM5: [194, 225]
+  ICL3: [226, 257]
   TM6: [258, 286]
+  ECL3: [287, 293]
   TM7: [294, 318]
+  H8: [319, 323]
+  C-term: [324, 448]

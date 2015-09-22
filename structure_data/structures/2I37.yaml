@@ -1,41 +1,31 @@
-# PDB data
-
+construct: 2i37
 pdb: 2i37
-publication_date: '2006-10-17'
-pubmed_id: '17060607'
-resolution: '4.15'
-
-# Structure annotations
-
 g_protein: None
-ligand:
-- {name: None, role: nan}
-endogenous_ligand:
-- {name: Retinal, id: 6670}
+auxiliary_protein: None
 preferred_chain: A
 state: Inactive
-
-# Structure annotations
-
-construct: 2i37
+endogenous_ligand:
+- {iupharId: 6670, name: Retinal, type: Small Molecule}
+ligand:
+- {name: RET, pubchemId: '638015', role: .nan, type: None}
 segments:
-  C-term: [322, 348]
-  ECL1: [101, 105]
-  ECL2: [173, 199]
-  ECL3: [278, 289]
-  H8: [309, 321]
-  ICL1: [65, 72]
-  ICL2: [140, 149]
-  ICL3: [226, 241]
   N-term: [1, 35]
   TM1: [36, 64]
+  ICL1: [65, 72]
   TM2: [73, 100]
+  ECL1: [101, 105]
   TM3: [103, 139]
+  ICL2: [140, 149]
   TM4: [150, 172]
+  ECL2: [173, 199]
   TM5: [200, 225]
+  ICL3: [226, 241]
   TM6: [242, 277]
+  ECL3: [278, 289]
   TM7: [290, 308]
+  H8: [309, 321]
+  C-term: [322, 348]
 bulges:
-    TM2: [2x551]
+  TM2: [2x551]
 constrictions:
-    TM7: [7x44]
+  TM7: [7x44]

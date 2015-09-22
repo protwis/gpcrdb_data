@@ -1,30 +1,27 @@
+construct: 4nc3
 pdb: 4NC3
-publication_date: '2013-12-18'
-pubmed_id: '24357322'
-resolution: '2.8'
 g_protein: None
-ligand:
--   name: ERM
-    role: Agonist
+auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
+ligand:
+- {name: ERM, pubchemId: '8223', role: Agonist, type: Small Molecule}
+segments:
+  N-term: [1, 53]
+  TM1: [54, 81]
+  ICL1: [82, 87]
+  TM2: [88, 116]
+  ECL1: [117, 126]
+  TM3: [127, 158]
+  ICL2: [159, 164]
+  TM4: [165, 187]
+  ECL2: [188, 214]
+  TM5: [215, 247]
+  ICL3: [248, 314]
+  TM6: [315, 348]
+  ECL3: [349, 354]
+  TM7: [355, 379]
+  H8: [380, 394]
+  C-term: [395, 481]
 bulges: ''
 constrictions: ''
-construct: 4nc3
-segments:
-    C-term: [395, 481]
-    ECL1: [117, 126]
-    ECL2: [188, 214]
-    ECL3: [349, 354]
-    H8: [380, 394]
-    ICL1: [82, 87]
-    ICL2: [159, 164]
-    ICL3: [248, 314]
-    N-term: [1, 53]
-    TM1: [54, 81]
-    TM2: [88, 116]
-    TM3: [127, 158]
-    TM4: [165, 187]
-    TM5: [215, 247]
-    TM6: [315, 348]
-    TM7: [355, 379]

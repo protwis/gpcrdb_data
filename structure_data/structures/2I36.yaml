@@ -1,35 +1,25 @@
-# PDB data
-
+construct: 2i36
 pdb: 2I36
-publication_date: '2006-10-17'
-pubmed_id: '17060607'
-resolution: '4.10'
-
-# Structure annotations
-
 g_protein: None
-ligand:
-- {name: 11-cis-retinal, role: Inverse agonist}
+auxiliary_protein: None
 preferred_chain: A,B,C
 state: Inactive
-
-# Structure annotations
-
-construct: 2i36
+ligand:
+- {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small Molecule}
 segments:
-  C-term: [322, 348]
-  ECL1: [100, 107]
-  ECL2: [173, 195]
-  ECL3: [278, 281]
-  H8: [310, 321]
-  ICL1: [65, 70]
-  ICL2: [141, 151]
-  ICL3: [230, 244]
   N-term: [1, 34]
   TM1: [35, 64]
+  ICL1: [65, 70]
   TM2: [71, 99]
+  ECL1: [100, 107]
   TM3: [108, 140]
+  ICL2: [141, 151]
   TM4: [152, 172]
+  ECL2: [173, 195]
   TM5: [196, 229]
+  ICL3: [230, 244]
   TM6: [245, 277]
+  ECL3: [278, 281]
   TM7: [282, 309]
+  H8: [310, 321]
+  C-term: [322, 348]
