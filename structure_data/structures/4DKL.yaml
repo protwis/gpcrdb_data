@@ -6,13 +6,13 @@ auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1643, name: "\u03B2-endorphin", type: Peptide}
+- {iupharId: 1643, name: endorphin, type: Peptide}
 - {iupharId: 1620, name: dynorphin A, type: Peptide}
 - {iupharId: 1622, name: dynorphin B, type: Peptide}
 - {iupharId: 1623, name: endomorphin-1, type: Peptide}
-- {iupharId: 1613, name: Leo-enkephalin, type: Peptide}
-- {iupharId: 1614, name: Met-enkephalin, type: Peptide}
-- {iupharId: 1643, name: "\u03B2-endorphin", type: Peptide}
+- {iupharId: 1613, name: leo-enkephalin, type: Peptide}
+- {iupharId: 1614, name: met-enkephalin, type: Peptide}
+- {iupharId: 1643, name: endorphin, type: Peptide}
 ligand:
 - {name: BF0, pubchemId: None, role: Antagonist, type: Small Molecule}
 segments:
@@ -35,4 +35,5 @@ segments:
 bulges:
   TM5: [5x461]
 constrictions:
+  TM4: [4x55]
   TM7: [7x44]

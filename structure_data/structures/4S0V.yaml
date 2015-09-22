@@ -1,5 +1,6 @@
 construct: 4s0v
-pdb: 4s0v
+pdb: 4S0V
+representative: true
 g_protein: None
 auxiliary_protein: PGS
 preferred_chain: A
@@ -30,4 +31,5 @@ bulges:
   TM2: [2x551]
   TM5: [5x461]
 constrictions:
+  TM4: [4x58]
   TM7: [7x44]

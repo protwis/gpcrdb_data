@@ -1,3 +1,6 @@
+construct: 4xnw
+pdb: 4XNW
+representative: true
 g_protein: None
 auxiliary_protein: Rubredoxin
 preferred_chain: A
@@ -24,6 +27,8 @@ segments:
   TM7: [300, 326]
   C-term: [327, 334]
 bulges:
+  TM5: [5x461]
   TM6: [6x451]
 constrictions:
+  TM4: [4x58]
   TM7: [7x44]

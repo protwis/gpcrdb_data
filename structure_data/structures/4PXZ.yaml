@@ -1,3 +1,4 @@
+construct: 4pxz
 pdb: 4PXZ
 representative: true
 g_protein: None
@@ -26,7 +27,7 @@ segments:
   H8: [302, 311]
   C-term: [312, 342]
 bulges:
-  TM1: [1x311]
+  TM6: [6x451]
 constrictions:
   TM4: [4x59]
   TM7: [7x44]
