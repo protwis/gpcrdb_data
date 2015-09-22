@@ -1,3 +1,5 @@
+construct: 4xt1
+pdb: 4XT1
 representative: true
 g_protein: Nanobody
 auxiliary_protein: None
@@ -25,7 +27,6 @@ segments:
   TM7: [263, 294]
   C-term: [308, 310]
 bulges:
-  TM2: [2x551]
   TM5: [5x461]
 constrictions:
   TM4: [4x58]

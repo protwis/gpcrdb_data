@@ -12,8 +12,8 @@ ligand:
 segments:
   N-term: [1, 98]
   TM1: [99, 130]
-  ICL1: [131, 137]
-  TM2: [138, 163]
+  ICL1: [131, 136]
+  TM2: [137, 163]
   ECL1: [164, 171]
   TM3: [172, 205]
   ICL2: [206, 215]
@@ -29,3 +29,4 @@ bulges:
   TM6: [6x451]
 constrictions:
   TM7: [7x44]
+  TM4: [4x58]
