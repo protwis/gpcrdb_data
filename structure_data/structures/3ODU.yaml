@@ -13,8 +13,8 @@ ligand:
 - {name: ITD, pubchemId: '25147749', role: Antagonist, type: Small Molecule}
 segments:
   N-term: [1, 36]
-  TM1: [37, 62]
-  ICL1: [63, 71]
+  TM1: [37, 64]
+  ICL1: [65, 71]
   TM2: [72, 99]
   ECL1: [100, 104]
   TM3: [105, 139]
@@ -25,8 +25,8 @@ segments:
   ICL3: [226, 231]
   TM6: [232, 266]
   ECL3: [267, 273]
-  TM7: [274, 301]
-  H8: [302, 352]
+  TM7: [274, 302]
+  C-term: [303, 352]
 bulges:
   TM5: [5x461]
 constrictions:

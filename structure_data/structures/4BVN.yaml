@@ -10,15 +10,15 @@ endogenous_ligand:
 ligand:
 - {name: P32, pubchemId: '46937143', role: Antagonist, type: Small Molecule}
 segments:
-  N-term: [1, 36]
+  N-term: [36, 36]
   TM1: [37, 68]
   ICL1: [69, 74]
   TM2: [75, 104]
   ECL1: [105, 110]
   TM3: [111, 144]
   ICL2: [145, 154]
-  TM4: [155, 179]
-  ECL2: [180, 204]
+  TM4: [155, 180]
+  ECL2: [181, 204]
   TM5: [205, 237]
   ICL3: [238, 282]
   TM6: [283, 315]
