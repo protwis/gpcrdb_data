@@ -9,21 +9,21 @@ endogenous_ligand:
 - {iupharId: 1369, name: L-glutamic acid, type: Small Molecule}
 ligand:
 segments:
-  N-term: [1, 590]
+  N-term: [581, 590]
   TM1: [591, 617]
-  ICL1: [618, 628]
-  TM2: [629, 649]
-  ECL1: [650, 652]
-  TM3: [653, 686]
-  ICL2: [687, 701]
-  TM4: [702, 727]
+  ICL1: [618, 627]
+  TM2: [628, 649]
+  ECL1: [650, 654]
+  TM3: [655, 685]
+  ICL2: [686, 703]
+  TM4: [704, 727]
   ECL2: [728, 749]
   TM5: [750, 774]
   ICL3: [775, 783]
   TM6: [784, 807]
   ECL3: [808, 810]
   TM7: [811, 839]
-  C-term: [840, 1194]
+  C-term: [840, 846]
 bulges:
   TM7: [7x531]
 constrictions: ''
