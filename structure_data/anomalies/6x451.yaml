@@ -1,0 +1,11 @@
+anomaly_type: bulge
+protein_segment: TM6
+generic_number: 6x451
+rule_sets:
+    - 
+        exclusive: true
+        rules:
+            -
+                generic_number: 6x50
+                amino_acid: P
+                negative: true
