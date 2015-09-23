@@ -9,8 +9,8 @@ endogenous_ligand:
 ligand:
 - {name: I32, pubchemId: '33624', role: Antagonist, type: Small Molecule}
 segments:
-  N-term: [1, 33]
-  TM1: [34, 68]
+  N-term: [39, 39]
+  TM1: [40, 68]
   ICL1: [69, 74]
   TM2: [75, 104]
   ECL1: [105, 110]
@@ -18,9 +18,9 @@ segments:
   ICL2: [145, 154]
   TM4: [155, 178]
   ECL2: [179, 240]
-  TM5: [205, 236]
-  ICL3: [237, 277]
-  TM6: [237, 315]
+  TM5: [205, 239]
+  ICL3: [240, 287]
+  TM6: [288, 315]
   ECL3: [316, 322]
   TM7: [323, 346]
   H8: [347, 357]
