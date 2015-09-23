@@ -6,7 +6,7 @@ auxiliary_protein: None
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 6670, name: Retinal, type: Small Molecule}
+- {iupharId: 6669, name: Retinal, type: Small Molecule}
 ligand:
 - {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small Molecule}
 segments:
