@@ -1,10 +1,11 @@
+construct: 4pxf
 pdb: 4PXF
 g_protein: Arrestin
 auxiliary_protein: None
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: None, pubchemId: None, role: .nan, type: None}
+- {name: None, pubchemId: '', role: '', type: ''}
 segments:
   N-term: [1, 34]
   TM1: [35, 64]

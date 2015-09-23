@@ -1,3 +1,4 @@
+construct: 4xnv
 pdb: 4XNV
 representative: true
 g_protein: None
@@ -5,9 +6,10 @@ auxiliary_protein: Rubredoxin
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1712, name: adenosine diphosphate, type: Small Molecule}
+- {iupharId: 1712, name: ADP, type: Small Molecule}
+- {iupharId: 1713, name: ATP, type: Small Molecule}
 ligand:
-- {name: BUR, pubchemId: '11510579', role: .nan, type: Small Molecule}
+- {name: BUR, pubchemId: 11510579, role: Antagonist, type: Small Molecule}
 segments:
   N-term: [39, 47]
   TM1: [48, 79]
