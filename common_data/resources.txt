@@ -3,6 +3,7 @@ pubmed      PubMed                  http://www.ncbi.nlm.nih.gov/pubmed/$index
 doi         DOI                     http://dx.doi.org/$index
 pubchem     PubChem                 https://pubchem.ncbi.nlm.nih.gov/compound/$index
 gtop        "Guide To Pharmacology" http://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=$index
+gtoplig     "Guide To Pharmacology" http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=$index
 bitterdb    BitterDB                http://bitterdb.agri.huji.ac.il/Receptor.php?id=$index
 uniprot     UniProt                 http://www.uniprot.org/uniprot/$index
 chembl      ChEMBL                  https://www.ebi.ac.uk/chembldb/index.php/target/inspect/$index
