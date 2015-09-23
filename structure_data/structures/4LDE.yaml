@@ -5,8 +5,6 @@ g_protein: Nanobody
 auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Active
-endogenous_ligand:
-- {iupharId: 484, name: noradrenaline, type: Small Molecule}
 ligand:
 - {name: P0G, pubchemId: '49837874', role: Agonist, type: Small Molecule}
 segments:

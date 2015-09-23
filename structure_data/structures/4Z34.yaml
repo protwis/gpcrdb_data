@@ -4,8 +4,6 @@ g_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
-endogenous_ligand:
-- {iupharId: 2906, name: LPA, type: Lipid}
 ligand:
 - {name: ON7, pubchemId: '11785732', role: Antagonist, type: Small Molecule}
 segments:

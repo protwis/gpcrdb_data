@@ -6,7 +6,7 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1712, name: adenosine diphosphate, type: Small Molecule}
+- {iupharId: 2844, name: adenosine, type: Small Molecule}
 ligand:
 - {name: ZMA, pubchemId: '176407', role: Antagonist, type: Small Molecule}
 segments:
