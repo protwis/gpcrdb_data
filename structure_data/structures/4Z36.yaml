@@ -5,7 +5,7 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: ON3, pubchemId: '11785732', role: Antagonist, type: Small molecule}
+- {name: ON3, title: ONO-3080573, pubchemId: 11785732, role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 45]
   TM1: [46, 76]

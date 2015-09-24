@@ -5,7 +5,7 @@ auxiliary_protein: None
 preferred_chain: B
 state: Inactive
 ligand:
-- {name: Y00, pubchemId: '667531', role: Agonist (partial), type: Small molecule}
+- {name: Y00, title: Dobutamine, pubchemId: 667531, role: Agonist (partial), type: Small molecule}
 segments:
   N-term: [1, 36]
   TM1: [37, 68]

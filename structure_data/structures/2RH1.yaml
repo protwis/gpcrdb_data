@@ -9,7 +9,7 @@ endogenous_ligand:
 - {iupharId: 479, name: adrenaline, type: Small molecule}
 - {iupharId: 505, name: noradrenaline, type: Small molecule}
 ligand:
-- {name: CAU, pubchemId: '13023332', role: Inverse agonist, type: Small molecule}
+- {name: CAU, title: Carazolol, pubchemId: 13023332, role: Inverse agonist, type: Small molecule}
 segments:
   TM1: [29, 60]
   ICL1: [61, 66]

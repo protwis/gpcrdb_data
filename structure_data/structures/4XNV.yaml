@@ -9,7 +9,7 @@ endogenous_ligand:
 - {iupharId: 1712, name: ADP, type: Small molecule}
 - {iupharId: 1713, name: ATP, type: Small molecule}
 ligand:
-- {name: BUR, pubchemId: 11510579, role: Antagonist, type: Small molecule}
+- {name: BUR, title: BPTU, pubchemId: 11510579, role: Antagonist, type: Small molecule}
 segments:
   N-term: [39, 47]
   TM1: [48, 79]

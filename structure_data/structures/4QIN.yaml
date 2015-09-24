@@ -5,6 +5,7 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 ligand:
+- {name: SG8, title: SAG1.5, pubmedId: 44195701, role: Agonist, type: Small molecule}
 segments:
   N-term: [1, 223]
   TM1: [224, 254]

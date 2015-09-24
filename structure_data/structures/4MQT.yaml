@@ -5,7 +5,8 @@ auxiliary_protein: None
 preferred_chain: A
 state: Active
 ligand:
-- {name: 2CU, pubchemId: '57664406', role: Agonist, type: Small molecule}
+- {name: IXO, title: iperoxo, pubchemId: 10104167, role: Agonist, type: Small molecule}
+- {name: 2CU, pubchemId: 57664406, role: PAM, type: Small molecule}
 segments:
   N-term: [1, 22]
   TM1: [23, 50]

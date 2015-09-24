@@ -8,7 +8,7 @@ state: Inactive
 endogenous_ligand:
 - {iupharId: 2504, name: Angiotensin II, type: Peptide}
 ligand:
-- {name: ZD7, pubchemId: '4673492', role: Antagonist, type: Small molecule}
+- {name: ZD7, title: ZD7155, pubchemId: 4673492, role: Antagonist, type: Small molecule}
 segments:
   N-term: [18, 26]
   TM1: [27, 55]

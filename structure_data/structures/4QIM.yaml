@@ -5,7 +5,7 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: A8T, pubchemId: '24905375', role: Antagonist, type: Small molecule}
+- {name: A8T, title: AntaXV, pubchemId: 24905375, role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 223]
   TM1: [224, 254]

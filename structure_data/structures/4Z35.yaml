@@ -8,7 +8,7 @@ state: Inactive
 endogenous_ligand:
 - {iupharId: 2906, name: LPA, type: Lipid}
 ligand:
-- {name: ON9, pubchemId: '11785732', role: Antagonist, type: Small molecule}
+- {name: ON9, title: ONO-9910539, pubchemId: 11785732, role: Antagonist, type: Small molecule}
 segments:
   N-term: [23, 46]
   TM1: [47, 76]

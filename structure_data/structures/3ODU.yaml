@@ -9,7 +9,7 @@ endogenous_ligand:
 - {iupharId: 4358, name: CXCL12a, type: Peptide}
 - {iupharId: 845, name: CXCL12b, type: Peptide}
 ligand:
-- {name: ITD, pubchemId: '25147749', role: Antagonist, type: Small molecule}
+- {name: ITD, title: IT1t, pubchemId: 25147749, role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 36]
   TM1: [37, 64]

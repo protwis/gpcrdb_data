@@ -7,7 +7,7 @@ state: Inactive
 endogenous_ligand:
 - {iupharId: 1712, name: adenosine diphosphate, type: Small molecule}
 ligand:
-- {name: 2ID, pubchemId: '44448831', role: .nan, type: Small molecule}
+- {name: 2ID, title: MRS2500, pubchemId: 44448831, role: Antagonist, type: Small molecule}
 segments:
   N-term: [39, 49]
   TM1: [50, 77]

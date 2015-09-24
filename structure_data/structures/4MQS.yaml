@@ -8,7 +8,7 @@ state: Active
 endogenous_ligand:
 - {iupharId: 294, name: Acetylcholine, type: Small molecule}
 ligand:
-- {name: IXO, pubchemId: '10104167', role: Agonist, type: Small molecule}
+- {name: IXO, title: iperoxo, pubchemId: 10104167, role: Agonist, type: Small molecule}
 segments:
   N-term: [19, 20]
   TM1: [21, 50]
