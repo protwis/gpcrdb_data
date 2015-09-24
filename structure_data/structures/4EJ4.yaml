@@ -1,6 +1,5 @@
 construct: 4ej4
 pdb: 4EJ4
-representative: true
 g_protein: None
 auxiliary_protein: T4-Lysozyme
 preferred_chain: A
@@ -35,5 +34,5 @@ segments:
 bulges:
   TM5: [5x461]
 constrictions:
-  TM4: [4x55]
+  # TM4: [4x55]
   TM7: [7x44]

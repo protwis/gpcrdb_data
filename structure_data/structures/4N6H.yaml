@@ -35,5 +35,5 @@ segments:
 bulges:
   TM5: [5x461]
 constrictions:
-  TM4: [4x55]
+  # TM4: [4x55]
   TM7: [7x44]

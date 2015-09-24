@@ -1,6 +1,5 @@
 construct: 4xnw
 pdb: 4XNW
-representative: true
 g_protein: None
 auxiliary_protein: Rubredoxin
 preferred_chain: A
