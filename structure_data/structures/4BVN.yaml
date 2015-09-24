@@ -6,9 +6,9 @@ auxiliary_protein: None
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 484, name: noradrenaline, type: Small Molecule}
+- {iupharId: 484, name: noradrenaline, type: Small molecule}
 ligand:
-- {name: P32, pubchemId: '46937143', role: Antagonist, type: Small Molecule}
+- {name: P32, pubchemId: '46937143', role: Antagonist, type: Small molecule}
 segments:
   N-term: [36, 36]
   TM1: [37, 68]

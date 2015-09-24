@@ -6,9 +6,9 @@ auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1369, name: L-glutamic acid, type: Small Molecule}
+- {iupharId: 1369, name: L-glutamic acid, type: Small molecule}
 ligand:
-- {name: 2U8, pubchemId: '9926832', role: NAM, type: Small Molecule}
+- {name: 2U8, pubchemId: '9926832', role: NAM, type: Small molecule}
 segments:
   N-term: [568, 578]
   TM1: [579, 604]

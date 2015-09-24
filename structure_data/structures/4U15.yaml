@@ -6,9 +6,9 @@ auxiliary_protein: T4-Lysozyme
 preferred_chain: B
 state: Inactive
 endogenous_ligand:
-- {iupharId: 294, name: Acetylcholine, type: Small Molecule}
+- {iupharId: 294, name: Acetylcholine, type: Small molecule}
 ligand:
-- {name: 0HK, pubchemId: '5487427', role: Antagonist, type: Small Molecule}
+- {name: 0HK, pubchemId: '5487427', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 64]
   TM1: [65, 94]

@@ -8,7 +8,7 @@ state: Inactive
 endogenous_ligand:
 - {iupharId: 1620, name: Dynorphin A, type: Peptide}
 ligand:
-- {name: JDC, pubchemId: '9956146', role: Antagonist, type: Small Molecule}
+- {name: JDC, pubchemId: '9956146', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 57]
   TM1: [58, 86]

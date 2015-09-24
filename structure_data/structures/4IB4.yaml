@@ -6,9 +6,9 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 5, name: Serotonin, type: Small Molecule}
+- {iupharId: 5, name: Serotonin, type: Small molecule}
 ligand:
-- {name: ERM, pubchemId: '8223', role: Agonist, type: Small Molecule}
+- {name: ERM, pubchemId: '8223', role: Agonist, type: Small molecule}
 segments:
   N-term: [48, 53]
   TM1: [54, 81]

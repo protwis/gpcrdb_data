@@ -8,7 +8,7 @@ state: Inactive
 endogenous_ligand: 
 - {name: long chain carboxylic acids, type: Lipid}
 ligand:
-- {name: 2YB, pubchemId: '24857286', role: Agonist, type: Small Molecule}
+- {name: 2YB, pubchemId: '24857286', role: Agonist, type: Small molecule}
 segments:
   N-term: [1, 5]
   TM1: [6, 36]

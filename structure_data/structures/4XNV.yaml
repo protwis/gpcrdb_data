@@ -6,10 +6,10 @@ auxiliary_protein: Rubredoxin
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1712, name: ADP, type: Small Molecule}
-- {iupharId: 1713, name: ATP, type: Small Molecule}
+- {iupharId: 1712, name: ADP, type: Small molecule}
+- {iupharId: 1713, name: ATP, type: Small molecule}
 ligand:
-- {name: BUR, pubchemId: 11510579, role: Antagonist, type: Small Molecule}
+- {name: BUR, pubchemId: 11510579, role: Antagonist, type: Small molecule}
 segments:
   N-term: [39, 47]
   TM1: [48, 79]

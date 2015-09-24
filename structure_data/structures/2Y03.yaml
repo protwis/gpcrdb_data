@@ -5,7 +5,7 @@ auxiliary_protein: None
 preferred_chain: B
 state: Inactive
 ligand:
-- {name: 5FW, pubchemId: '443372', role: Agonist, type: Small Molecule}
+- {name: 5FW, pubchemId: '443372', role: Agonist, type: Small molecule}
 segments:
   N-term: [1, 36]
   TM1: [37, 68]

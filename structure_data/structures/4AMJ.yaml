@@ -5,7 +5,7 @@ auxiliary_protein: None
 preferred_chain: B
 state: Inactive
 ligand:
-- {name: CVD, pubchemId: '185395', role: Inverse agonist, type: Small Molecule}
+- {name: CVD, pubchemId: '185395', role: Inverse agonist, type: Small molecule}
 segments:
   N-term: [1, 36]
   TM1: [37, 68]

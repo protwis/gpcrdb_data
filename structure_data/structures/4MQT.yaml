@@ -5,7 +5,7 @@ auxiliary_protein: None
 preferred_chain: A
 state: Active
 ligand:
-- {name: 2CU, pubchemId: '57664406', role: Agonist, type: Small Molecule}
+- {name: 2CU, pubchemId: '57664406', role: Agonist, type: Small molecule}
 segments:
   N-term: [1, 22]
   TM1: [23, 50]

@@ -8,7 +8,7 @@ state: Inactive
 endogenous_ligand:
 - {iupharId: 1681, name: nociceptin/orphanin FQ, type: Peptide}
 ligand:
-- {name: 0NN, pubchemId: '10296561', role: Antagonist, type: Small Molecule}
+- {name: 0NN, pubchemId: '10296561', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 48]
   TM1: [49, 77]

@@ -6,9 +6,9 @@ auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 940, name: Dopamine, type: Small Molecule}
+- {iupharId: 940, name: Dopamine, type: Small molecule}
 ligand:
-- {name: ETQ, pubchemId: '57267', role: Antagonist, type: Small Molecule}
+- {name: ETQ, pubchemId: '57267', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 34]
   TM1: [35, 56]

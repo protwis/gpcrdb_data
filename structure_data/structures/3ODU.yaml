@@ -10,7 +10,7 @@ endogenous_ligand:
 - {iupharId: 845, name: "SDF-1\u03B2", type: Peptide}
 - {iupharId: 4358, name: CXCL12, type: Peptide}
 ligand:
-- {name: ITD, pubchemId: '25147749', role: Antagonist, type: Small Molecule}
+- {name: ITD, pubchemId: '25147749', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 36]
   TM1: [37, 64]

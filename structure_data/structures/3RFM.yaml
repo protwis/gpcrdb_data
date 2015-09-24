@@ -5,7 +5,7 @@ auxiliary_protein: None
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: CFF, pubchemId: '2519', role: Antagonist, type: Small Molecule}
+- {name: CFF, pubchemId: '2519', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 3]
   TM1: [4, 33]

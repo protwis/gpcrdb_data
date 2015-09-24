@@ -5,7 +5,7 @@ auxiliary_protein: None
 preferred_chain: A
 state: Active
 ligand:
-- {name: 35V, pubchemId: '76210628', role: Agonist, type: Small Molecule}
+- {name: 35V, pubchemId: '76210628', role: Agonist, type: Small molecule}
 segments:
   N-term: [1, 30]
   TM1: [31, 60]

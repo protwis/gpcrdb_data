@@ -5,7 +5,7 @@ auxiliary_protein: None
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: Y01, pubchemId: '65082', role: Agonist (partial), type: Small Molecule}
+- {name: Y01, pubchemId: '65082', role: Agonist (partial), type: Small molecule}
 segments:
   N-term: [1, 36]
   TM1: [37, 68]

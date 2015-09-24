@@ -5,7 +5,7 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: ERM, pubchemId: '8223', role: Agonist, type: Small Molecule}
+- {name: ERM, pubchemId: '8223', role: Agonist, type: Small molecule}
 segments:
   N-term: [1, 53]
   TM1: [54, 81]

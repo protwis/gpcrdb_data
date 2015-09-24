@@ -14,7 +14,7 @@ endogenous_ligand:
 - {iupharId: 1614, name: met-enkephalin, type: Peptide}
 - {iupharId: 1643, name: endorphin, type: Peptide}
 ligand:
-- {name: EJ4, pubchemId: '5497186', role: Antagonist, type: Small Molecule}
+- {name: EJ4, pubchemId: '5497186', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 41]
   TM1: [42, 76]

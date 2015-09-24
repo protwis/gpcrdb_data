@@ -6,9 +6,9 @@ auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1204, name: Histamine, type: Small Molecule}
+- {iupharId: 1204, name: Histamine, type: Small molecule}
 ligand:
-- {name: 5EH, pubchemId: '667477', role: Antagonist, type: Small Molecule}
+- {name: 5EH, pubchemId: '667477', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 32]
   TM1: [33, 54]
