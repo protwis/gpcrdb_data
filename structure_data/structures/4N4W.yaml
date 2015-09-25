@@ -5,4 +5,4 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: SNT, pubmedId: 6878030, role: Antagonist, type: Small molecule}
+- {name: SNT, pubchemId: 6878030, role: Antagonist, type: Small molecule}
