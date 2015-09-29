@@ -5,7 +5,7 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: 6AT, pubchemId: '5310983', role: Agonist (partial), type: Small Molecule}
+- {name: 6AT, pubchemId: '5310983', role: Agonist (partial), type: Small molecule}
 segments:
   N-term: [1, 20]
   TM1: [21, 50]

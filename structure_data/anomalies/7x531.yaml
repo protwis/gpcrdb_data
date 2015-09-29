@@ -1,0 +1,34 @@
+anomaly_type: bulge
+protein_segment: TM7
+generic_number: 7x531
+rule_sets:
+    - 
+        exclusive: false
+        rules:
+            -
+                generic_number: 7x52
+                amino_acid: C
+                negative: false
+            -
+                generic_number: 7x53
+                amino_acid: I
+                negative: false
+            -
+                generic_number: 7x54
+                amino_acid: F
+                negative: false
+            -
+                generic_number: 7x55
+                amino_acid: F
+                negative: false
+            -
+                generic_number: 7x56
+                amino_acid: N
+                negative: false
+    - 
+        exclusive: true
+        rules:
+            -
+                generic_number: 7x56
+                amino_acid: P
+                negative: true

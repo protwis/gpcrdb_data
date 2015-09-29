@@ -14,7 +14,7 @@ endogenous_ligand:
 - {iupharId: 1614, name: met-enkephalin, type: Peptide}
 - {iupharId: 1643, name: endorphin, type: Peptide}
 ligand:
-- {name: BF0, pubchemId: None, role: Antagonist, type: Small Molecule}
+- {name: BF0, pubchemId: None, role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 65]
   TM1: [66, 95]
@@ -35,5 +35,5 @@ segments:
 bulges:
   TM5: [5x461]
 constrictions:
-  TM4: [4x55]
+  # TM4: [4x55]
   TM7: [7x44]

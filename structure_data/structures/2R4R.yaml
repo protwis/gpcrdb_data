@@ -5,7 +5,7 @@ auxiliary_protein: Antibody
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: None, pubchemId: None, role: Inverse agonist, type: Small Molecule}
+- {name: None, pubchemId: None, role: Inverse agonist, type: Small molecule}
 segments:
   N-term: [1, 30]
   TM1: [31, 60]

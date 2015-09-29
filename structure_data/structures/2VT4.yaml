@@ -5,7 +5,7 @@ auxiliary_protein: None
 preferred_chain: B
 state: Inactive
 ligand:
-- {name: P32, pubchemId: '46937143', role: Antagonist, type: Small Molecule}
+- {name: P32, pubchemId: '46937143', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 36]
   TM1: [37, 68]

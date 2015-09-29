@@ -5,7 +5,7 @@ auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: PRD, pubchemId: None, role: Antagonist, type: Peptide}
+- {name: PRD, title: CVX15, role: Antagonist, type: Peptide}
 segments:
   N-term: [1, 36]
   TM1: [37, 62]

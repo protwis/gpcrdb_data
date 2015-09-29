@@ -1,11 +1,13 @@
 construct: 3sn6
 pdb: 3SN6
-g_protein: Gs and nanobody
+g_protein:
+- Gs
+- Nanobody
 auxiliary_protein: T4-Lysozyme
 preferred_chain: R
 state: Active
 ligand:
-- {name: P0G, pubchemId: '49837874', role: Agonist, type: Small Molecule}
+- {name: P0G, title: BI-167107, pubchemId: 49837874, role: Agonist, type: Small molecule}
 segments:
   N-term: [1, 30]
   TM1: [31, 60]

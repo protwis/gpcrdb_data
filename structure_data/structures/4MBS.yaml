@@ -17,7 +17,7 @@ endogenous_ligand:
 - {iupharId: 772, name: CCL8, type: Peptide}
 - {iupharId: 769, name: CCL11, type: Peptide}
 ligand:
-- {name: MRV, pubchemId: '3002977', role: Antagonist, type: Small Molecule}
+- {name: MRV, pubchemId: '3002977', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 25]
   TM1: [26, 57]

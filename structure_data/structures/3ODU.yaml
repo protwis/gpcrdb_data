@@ -6,11 +6,10 @@ auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 4358, name: CXCL12, type: Peptide}
-- {iupharId: 845, name: "SDF-1\u03B2", type: Peptide}
-- {iupharId: 4358, name: CXCL12, type: Peptide}
+- {iupharId: 4358, name: CXCL12a, type: Peptide}
+- {iupharId: 845, name: CXCL12b, type: Peptide}
 ligand:
-- {name: ITD, pubchemId: '25147749', role: Antagonist, type: Small Molecule}
+- {name: ITD, title: IT1t, pubchemId: 25147749, role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 36]
   TM1: [37, 64]
@@ -30,5 +29,5 @@ segments:
 bulges:
   TM5: [5x461]
 constrictions:
-  TM4: [4x57]
+  TM4: [4x58]
   TM7: [7x44]

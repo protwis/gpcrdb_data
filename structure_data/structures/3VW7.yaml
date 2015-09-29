@@ -8,7 +8,7 @@ state: Inactive
 endogenous_ligand:
 - {iupharId: 4453, name: Thrombin, type: Peptide}
 ligand:
-- {name: VPX, pubchemId: '10077130', role: Antagonist, type: Small Molecule}
+- {name: VPX, pubchemId: '10077130', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 98]
   TM1: [99, 130]

@@ -1,0 +1,11 @@
+anomaly_type: bulge
+protein_segment: TM1
+generic_number: 1x411
+rule_sets:
+    - 
+        exclusive: true
+        rules:
+            -
+                generic_number: 1x45
+                amino_acid: P
+                negative: true

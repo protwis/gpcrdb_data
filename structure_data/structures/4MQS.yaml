@@ -6,9 +6,9 @@ auxiliary_protein: None
 preferred_chain: A
 state: Active
 endogenous_ligand:
-- {iupharId: 294, name: Acetylcholine, type: Small Molecule}
+- {iupharId: 294, name: Acetylcholine, type: Small molecule}
 ligand:
-- {name: IXO, pubchemId: '10104167', role: Agonist, type: Small Molecule}
+- {name: IXO, title: iperoxo, pubchemId: 10104167, role: Agonist, type: Small molecule}
 segments:
   N-term: [19, 20]
   TM1: [21, 50]

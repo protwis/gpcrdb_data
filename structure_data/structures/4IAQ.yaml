@@ -5,7 +5,7 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: 2GM, pubchemId: '10531', role: Agonist, type: Small Molecule}
+- {name: 2GM, pubchemId: '10531', role: Agonist, type: Small molecule}
 segments:
   N-term: [1, 45]
   TM1: [46, 76]

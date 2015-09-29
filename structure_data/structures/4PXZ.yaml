@@ -6,9 +6,9 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1712, name: adenosine diphosphate, type: Small Molecule}
+- {iupharId: 1712, name: adenosine diphosphate, type: Small molecule}
 ligand:
-- {name: 6AD, pubchemId: '121990', role: Agonist, type: Small Molecule}
+- {name: 6AD, pubchemId: '121990', role: Agonist, type: Small molecule}
 segments:
   N-term: [15, 22]
   TM1: [23, 50]

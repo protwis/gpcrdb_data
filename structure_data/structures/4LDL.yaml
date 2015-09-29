@@ -5,7 +5,7 @@ auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Active
 ligand:
-- {name: XQC, pubchemId: '44328881', role: Agonist, type: Small Molecule}
+- {name: XQC, title: hydroxybenzylisoproterenol, pubchemId: 44328881, role: Agonist, type: Small molecule}
 segments:
   N-term: [1, 30]
   TM1: [31, 60]

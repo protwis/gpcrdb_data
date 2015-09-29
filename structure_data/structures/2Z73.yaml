@@ -1,14 +1,13 @@
 construct: 2z73
 pdb: 2Z73
-representative: true
 g_protein: None
 auxiliary_protein: None
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 484, name: noradrenaline, type: Small Molecule}
+- {iupharId: 484, name: noradrenaline, type: Small molecule}
 ligand:
-- {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small Molecule}
+- {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small molecule}
 segments:
   N-term: [9, 31]
   TM1: [32, 61]

@@ -6,9 +6,9 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: nan, name: nan, type: Protein}
+- {name: constitutive, type: Constitutive}
 ligand:
-- {name: 1KS, pubchemId: '49848070', role: Antagonist, type: Small Molecule}
+- {name: 1KS, pubchemId: 49848070, role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 223]
   TM1: [224, 254]

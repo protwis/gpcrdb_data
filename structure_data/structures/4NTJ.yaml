@@ -5,7 +5,7 @@ auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: AZJ, pubchemId: '23649325', role: Antagonist, type: Small Molecule}
+- {name: AZJ, pubchemId: '23649325', role: Antagonist, type: Small molecule}
 segments:
   N-term: [1, 20]
   TM1: [21, 50]

@@ -6,7 +6,7 @@ auxiliary_protein: BRIL
 preferred_chain: A,B
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1369, name: L-glutamic acid, type: Small Molecule}
+- {iupharId: 1369, name: L-glutamic acid, type: Small molecule}
 ligand:
 segments:
   N-term: [581, 590]
