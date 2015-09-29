@@ -25,8 +25,6 @@ segments:
   TM7: [293, 314]
   H8: [315, 323]
   C-term: [324, 327]
-bulges:
-  TM2: [2x551]
-  TM5: [5x461]
+bulges: ''
 constrictions:
   TM7: [7x44]
