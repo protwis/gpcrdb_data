@@ -1,4 +1,4 @@
-gpcrdb  GPCRdb  "GPCRdb"
+gpcrdb  GPCRdb(A)  "GPCRdb (Class A structure-based)"
 bw  BW  "Ballesteros-Weinstein (Class A)"
 woot    Wootten "Wootten (Class B)"
 pin Pin "Pin (Class C)"
