@@ -1,5 +1,6 @@
 Generic numbering
 =================
+
 Sequence-based generic GPCR residue numbering schemes\ :superscript:`1` exist for class A
 (Ballesteros-Weinstein, BW\ :superscript:`2` \) B (Wootten\ :superscript:`3` \), C (Pin\ :superscript:`4` \), and F
 (Wang\ :superscript:`5` \). In these systems, the first number denotes the helix (1-7) and the second the residue
@@ -25,7 +26,7 @@ alone, e.g. 5x47, or together with one of the sequence-based schemes, e.g. 5.46x
 assigned the same number as the preceding residue followed by a 1, e.g. 551 for a bulge following
 position 55.
 
-GPCRDB offers a suite of tools making it easier to use generic residue numbers:
+GPCRdb offers a suite of tools making it easier to use generic residue numbers:
 
 * Structure-based `sequence alignments <http://gpcrdb.org/alignment/targetselection>`_ gapped to account for bulges and constrictions
 * `Lookup tables <http://gpcrdb.org/residue/residuetable>`_ with receptor-specific and generic residue numbers
@@ -35,8 +36,7 @@ GPCRdb cross-class alignments contain each of the numbering schemes, which may b
 by appending the letter of the class, e.g. 2x52ax59b. The Lookup tables tool also provides the alternative
 class A numbering schemes by Oliveira\ :superscript:`7` and Baldwin/Schwartz\ :superscript:`7,8` \.
 
-References
-----------
+**References**
 
 #. `V Isberg et al. <http://dx.doi.org/10.1016/j.tips.2014.11.001>`_, **2015**, *Trends Pharmacol Sci*, 36(1), 22–31.
 #. `JA Ballesteros and H Weinstein <http://dx.doi.org/10.1016/S1043-9471(05)80049-7>`_, **1995**, *Methods Neurosci*, 25, 366–428.

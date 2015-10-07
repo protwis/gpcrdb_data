@@ -11,13 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   sequences
+   structures
+   mutants
+   sites
    generic_numbering
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
