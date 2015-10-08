@@ -1,5 +1,5 @@
-Generic numbering
-=================
+Generic residue numbering
+=========================
 
 Sequence-based generic GPCR residue numbering schemes\ :superscript:`1` exist for class A
 (Ballesteros-Weinstein, BW\ :superscript:`2` \) B (Wootten\ :superscript:`3` \), C (Pin\ :superscript:`4` \), and F
