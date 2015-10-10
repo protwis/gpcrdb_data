@@ -89,5 +89,6 @@ in 3D.
 ..  figure:: _static/snake_adrb2_human.png
     :alt: Example snake diagram
 
-    **Figure 3**. Snake  diagram of the human β\ :subscript:`2` \-adrenoceptor showing all residues (grey) for which mutational
-    experiments have been deposited in the GPCRdb.
+    **Figure 3**. Snake  diagram of the human β\ :subscript:`2` \-adrenoceptor showing all residues (grey) for which
+    mutational experiments have been deposited in the GPCRdb.
+

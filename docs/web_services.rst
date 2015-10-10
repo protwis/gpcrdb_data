@@ -13,8 +13,12 @@ Each endpoint is described in the `API reference`_.
 Examples
 --------
 
-Python 3 using requests (requires installation of requests module)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Python 3 with requests
+^^^^^^^^^^^^^^^^^^^^^^
+
+This is the recommended approach. Requires installation of `requests module`_.
+
+.. _requests module: http://docs.python-requests.org/en/latest/
 
 ::
 
@@ -35,8 +39,8 @@ Python 3 using requests (requires installation of requests module)
         print(protein)
         print(sequence)
 
-Python 3 using urllib (built in)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Python 3 with urllib
+^^^^^^^^^^^^^^^^^^^^
 
 ::
 
@@ -58,8 +62,8 @@ Python 3 using urllib (built in)
         print(protein)
         print(sequence)
 
-Python 2
-^^^^^^^^
+Python 2 with urllib2
+^^^^^^^^^^^^^^^^^^^^^
 
 ::
 

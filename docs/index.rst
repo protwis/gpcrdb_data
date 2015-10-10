@@ -39,8 +39,10 @@ The documentation in organized into three sections:
     :caption: Developer documentation
 
     web_services
-    local_installation
     contributing
+    local_installation
+    coding_style
+    git_workflow
 
 .. _about-docs:
 
