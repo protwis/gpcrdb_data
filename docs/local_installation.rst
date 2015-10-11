@@ -69,7 +69,7 @@ Windows
     git clone https://bitbucket.org/gpcr/protwis_vagrant.git .\protwis_vagrant
     cd .\protwis_vagrant
 
-* Install ubuntu/trusty64 Vagrant box:
+* Install ubuntu/trusty64 Vagrant box::
 
     vagrant box add ubuntu/trusty64
 
