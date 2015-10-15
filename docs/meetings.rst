@@ -19,14 +19,14 @@ Meetings with GPCRdb representation
 *   Aug 27-28,
     `1st Annual Danish Bioinformatics Conference`_ in Odense, Denmark.
 *   Aug 24-27,
-    `Benzon Symposium No. 61 - Structural Biology on the Move`_ in Copenhagen, Denmark.
+    `Benzon Symposium No. 61`_ in Copenhagen, Denmark.
 *   Apr 1-2,
     `4th GLISTEN meeting`_ in Allschwill, Switzerland.
 
 .. _3rd annual GPCR Forum: http://ihuman.shanghaitech.edu.cn/gpcr/
 .. _5th GLISTEN meeting: http://www.medchemsymposium.nl/Glisten/Home.html
 .. _1st Annual Danish Bioinformatics Conference: https://www.elixir-europe.org/events/first-annual-danish-bioinformatics-conference
-.. _Benzon Symposium No. 61 - Structural Biology on the Move: http://www.benzon-foundation.dk/?q=node/30
+.. _Benzon Symposium No. 61: http://www.benzon-foundation.dk/?q=node/30
 .. _4th GLISTEN meeting: https://sites.google.com/site/glisten2015/home
 
 2014
