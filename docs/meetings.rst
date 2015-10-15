@@ -1,41 +1,55 @@
 Meetings with GPCRdb representation
 ===================================
 
+2016
+----
+
+*   Feb 21-25,
+    `G Protein-Coupled Receptors\: Structure, Signaling and Drug Discovery`_ in Keystone, USA.
+
+.. _G Protein-Coupled Receptors\: Structure, Signaling and Drug Discovery: https://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1368
+
 2015
 ----
-*   December 5-6, 2015
-    3rd annual GPCR Forum in Shanghai, China.
-*   October 12-14, 2015
+
+*   Dec 5-6,
+    `3rd annual GPCR Forum`_ in Shanghai, China.
+*   Oct 12-14,
     `5th GLISTEN meeting`_ in Amsterdam, Netherlands.
-*   August 27-28, 2015
+*   Aug 27-28,
     `1st Annual Danish Bioinformatics Conference`_ in Odense, Denmark.
-*   August 24-27, 2015
+*   Aug 24-27,
     `Benzon Symposium No. 61 - Structural Biology on the Move`_ in Copenhagen, Denmark.
-*   April 1-2, 2015
+*   Apr 1-2,
     `4th GLISTEN meeting`_ in Allschwill, Switzerland.
 
-2014
-----
-*   December 7, 2014
-    `2nd annual GPCR Forum`_ in Shanghai, China.
-*   October 2-4, 2014
-    `3rd GLISTEN meeting`_ in Budapest, Hungary.
-*   July 13-18, 2014
-    `World Congress of Pharmacology`_ in Cape Town, South Africa.
-*   April 28-29, 2014
-    `2nd GLISTEN meeting`_ in Barcelona, Spain.
-
-2013
-----
-*   October 7-9, 2013
-    `1st GLISTEN meeting`_ in Warsaw, Poland.
-
+.. _3rd annual GPCR Forum: http://ihuman.shanghaitech.edu.cn/gpcr/
 .. _5th GLISTEN meeting: http://www.medchemsymposium.nl/Glisten/Home.html
 .. _1st Annual Danish Bioinformatics Conference: https://www.elixir-europe.org/events/first-annual-danish-bioinformatics-conference
 .. _Benzon Symposium No. 61 - Structural Biology on the Move: http://www.benzon-foundation.dk/?q=node/30
 .. _4th GLISTEN meeting: https://sites.google.com/site/glisten2015/home
+
+2014
+----
+
+*   Dec 7,
+    `2nd annual GPCR Forum`_ in Shanghai, China.
+*   Oct 2-4,
+    `3rd GLISTEN meeting`_ in Budapest, Hungary.
+*   Jul 13-18,
+    `World Congress of Pharmacology`_ in Cape Town, South Africa.
+*   Apr 28-29,
+    `2nd GLISTEN meeting`_ in Barcelona, Spain.
+
 .. _2nd annual GPCR Forum: http://ihuman.shanghaitech.edu.cn/?p=1545
 .. _3rd GLISTEN meeting: http://glisten.ttk.mta.hu/
 .. _World Congress of Pharmacology: http://wcp2014.org/
 .. _2nd GLISTEN meeting: http://eventia.upf.edu/Barcelona-GPCR-Conference-2014/ficha.en.html
+
+2013
+----
+
+*   Oct 7-9,
+    `1st GLISTEN meeting`_ in Warsaw, Poland.
+
 .. _1st GLISTEN meeting: http://www.biomodellab.eu/1glisten/welcome/
