@@ -1,5 +1,5 @@
 Sequences
-=================
+=========
 
 Structure-based alignments
 --------------------------
@@ -30,9 +30,10 @@ segments. Using the tool is a three step process.
 2.  After receptors have been selected, the user is presented with a sequence segment selection page. The user can
     select one or more sequence segments, and/or expand each segment to select the residues within it individually.
     Residues selected individually are grouped into a custom sequence segment.
-3.  In the third step, a settings page is displayed. The amount of bootstrapping replicas (0, 10 or 100) and the type of
-    tree (rectangular or circular) are configurable by the user. User are also offered an option to show branch lengths
-    that represent the evolutionary distance between the nodes, or show the same branch length between every node.
+3.  In the third step, a settings page is displayed. The amount of bootstrapping replicas (0, 10 or 100) and the type
+    of tree (rectangular or circular) are configurable by the user. User are also offered an option to show branch
+    lengths that represent the evolutionary distance between the nodes, or show the same branch length between every
+    node.
 
 To view an alignment of the sequences used to generate the tree after it has been displayed, click the "View alignment"
 button.

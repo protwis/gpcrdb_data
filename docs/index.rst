@@ -26,6 +26,7 @@ The documentation in organized into three sections:
     :maxdepth: 2
     :caption: User documentation
 
+    receptors
     sequences
     structures
     mutants
@@ -57,3 +58,4 @@ The documentation in organized into three sections:
     legal_notice
     meetings
     linking
+    external_servers
