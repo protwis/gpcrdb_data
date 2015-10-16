@@ -1,0 +1,8 @@
+construct: 4zud
+pdb: 4ZUD
+g_protein: None
+auxiliary_protein: BRIL
+preferred_chain: A
+state: Inactive
+ligand:
+- {name: OLM, pubmedId: 158781, role: Inverse agonist, type: Small molecule}

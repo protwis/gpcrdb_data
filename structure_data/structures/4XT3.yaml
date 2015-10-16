@@ -7,7 +7,7 @@ state: Inactive
 endogenous_ligand:
 - {iupharId: 856, name: CX3CL1, type: Peptide}
 ligand:
-- {name: CX3CL1, pubchemId: None, role: Agonist, type: Peptide}
+- {name: BBB, title: CX3CL1, pubchemId: None, role: Agonist, type: Peptide}
 segments:
   N-term: [18, 25]
   TM1: [26, 60]
