@@ -36,10 +36,14 @@ user-specified segment selection. Using the tool is a two step process.
 PDB file residue numbering
 --------------------------
 
-The PDB file residue numbering tool adds generic residue numbers from GPCRdb to any GPCR structure or model. A user
-simply uploads her structure and downloads a modified version of that structure, where b factors of certain atoms
-have been replaced with generic numbers. On the structure download page, users can download scripts to visualize the
-generic numbers in `PyMOL`_ and `Maestro`_.
+The PDB file residue numbering tool adds generic residue numbers from GPCRdb to any GPCR structure or model. This can
+be useful when comparing structures visually.
+
+A user simply uploads her structure and downloads a modified version of that structure, where b factors of certain
+atoms have been replaced with generic numbers. Note that CA atoms will be assigned a number in GPCRdb notation, and N
+atoms will be annotated with Ballesteros-Weinstein scheme.
+
+On the structure download page, users can download scripts to visualize the generic numbers in `PyMOL`_ and `Maestro`_.
 
 .. _PyMOL: http://pymol.org
 .. _Maestro: http://www.schrodinger.com/Maestro
