@@ -7,8 +7,7 @@ current and former heads of GPCRdb, David E. Gloriam and Gerrit Vriend, respecti
 GPCRdb versions since 2013
 --------------------------
 
-By David E. Gloriam, University of Copenhagen, Denmark
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**By David E. Gloriam, University of Copenhagen, Denmark**
 
 Firstly, we would like to thank the founding father and two-decade protector of GPCRdb, Gerrit Vriend for so generously
 giving us the database as a gift without reservations. We promise to do the best to build on its legacy, going forward
@@ -44,7 +43,7 @@ inspiration from a much larger resource that has walked many of the paths of dat
 .. _team: http://www.guidetopharmacology.org/about.jsp
 
 Finally, we would like to extend thanks to newly established collaborations. Xavier Deupi and his lab are acknowledged
-for choosing to work with GPCRdb, while sharing the local expertise. We thank Raymonds C. Stephens and Michael Hansen
+for choosing to work with GPCRdb, while sharing the local expertise. We thank Raymonds C. Stevens and Michael Hanson
 for welcoming GPCRdb as a partner to the `GPCR Consortium`_, which holds great promise to be synergistic
 resources/initiatives.
 
@@ -53,8 +52,7 @@ resources/initiatives.
 GPCRdb versions 1993-2013
 -------------------------
 
-By Gerrit Vriend, Radboud University, Nijmegen, Netherlands
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**By Gerrit Vriend, Radboud University, Nijmegen, Netherlands**
 
 The GPCRdb was started in the early 90's when Bob Bywater, Ad IJzerman, Friedrich Rippmann, and Gert Vriend organized
 a series of small GPCR workshops at the EMBL. Before the introduction of the first browsers, the GPCRdb worked as an
