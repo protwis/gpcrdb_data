@@ -43,7 +43,7 @@ inspiration from a much larger resource that has walked many of the paths of dat
 .. _team: http://www.guidetopharmacology.org/about.jsp
 
 Finally, we would like to extend thanks to newly established collaborations. Xavier Deupi and his lab are acknowledged
-for choosing to work with GPCRdb, while sharing the local expertise. We thank Raymonds C. Stevens and Michael Hanson
+for choosing to work with GPCRdb, while sharing the local expertise. We thank Raymond C. Stevens and Michael Hanson
 for welcoming GPCRdb as a partner to the `GPCR Consortium`_, which holds great promise to be synergistic
 resources/initiatives.
 
