@@ -1,53 +1,42 @@
+construct: 4mbs
 pdb: 4MBS
-publication_date: '2013-09-11'
-pubmed_id: '24030490'
-resolution: '2.71'
+representative: true
 g_protein: None
-ligand:
--   name: Maraviroc
-    role: Antagonist
-endogenous_ligand:
--   name: CCL11
-    id: 769
--   name: CCL14
-    id: 753
--   name: CCL16
-    id: 1272
--   name: CCL2
-    id: 771
--   name: CCL3
-    id: 756
--   name: CCL4
-    id: 757
--   name: CCL5
-    id: 758
--   name: CCL7
-    id: 759
--   name: CCL8
-    id: 772
+auxiliary_protein: Rubredoxin
 preferred_chain: A
 state: Inactive
-representative: true
-construct: 4mbs
+endogenous_ligand:
+- {iupharId: 769, name: CCL11, type: Peptide}
+- {iupharId: 753, name: CCL14, type: Peptide}
+- {iupharId: 1272, name: CCL16, type: Peptide}
+- {iupharId: 771, name: CCL2, type: Peptide}
+- {iupharId: 756, name: CCL3, type: Peptide}
+- {iupharId: 757, name: CCL4, type: Peptide}
+- {iupharId: 758, name: CCL5, type: Peptide}
+- {iupharId: 759, name: CCL7, type: Peptide}
+- {iupharId: 772, name: CCL8, type: Peptide}
+- {iupharId: 769, name: CCL11, type: Peptide}
+ligand:
+- {name: MRV, pubchemId: '3002977', role: Antagonist, type: Small molecule}
 segments:
-    C-term: [313, 352]
-    ECL1: [92, 97]
-    ECL2: [165, 186]
-    ECL3: [265, 268]
-    H8: [301, 312]
-    ICL1: [58, 63]
-    ICL2: [132, 141]
-    ICL3: [223, 228]
-    N-term: [1, 25]
-    TM1: [26, 57]
-    TM2: [64, 91]
-    TM3: [98, 131]
-    TM4: [142, 164]
-    TM5: [187, 222]
-    TM6: [229, 264]
-    TM7: [269, 300]
+  N-term: [1, 25]
+  TM1: [26, 57]
+  ICL1: [58, 63]
+  TM2: [64, 91]
+  ECL1: [92, 97]
+  TM3: [98, 131]
+  ICL2: [132, 141]
+  TM4: [142, 165]
+  ECL2: [166, 186]
+  TM5: [187, 222]
+  ICL3: [223, 228]
+  TM6: [229, 259]
+  ECL3: [260, 268]
+  TM7: [269, 300]
+  H8: [301, 312]
+  C-term: [313, 352]
 bulges:
-    TM5: [5x461]
+  TM5: [5x461]
 constrictions:
-    TM4: [4x58]
-    TM7: [7x44]
+  TM4: [4x58]
+  TM7: [7x44]

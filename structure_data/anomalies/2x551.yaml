@@ -10,16 +10,34 @@ rule_sets:
                 amino_acid: D
                 negative: false
             -
+                generic_number: 2x53
+                amino_acid: I
+                negative: false
+            -
+                generic_number: 2x54
+                amino_acid: G
+                negative: false
+            -
                 generic_number: 2x59
+                amino_acid: N
+                negative: false
+    - 
+        exclusive: true
+        rules:
+            -
+                generic_number: 2x59
+                amino_acid: P
+                negative: true
+    -
+        exclusive: true
+        rules:
+            -
+                generic_number: 2x58
                 amino_acid: P
                 negative: false
     -
         exclusive: true
         rules:
-            -
-                generic_number: 2x50
-                amino_acid: D
-                negative: false
             -
                 generic_number: 2x60
                 amino_acid: P
@@ -28,17 +46,6 @@ rule_sets:
         exclusive: true
         rules:
             -
-                generic_number: 2x50
-                amino_acid: D
-                negative: false
-            -
                 generic_number: 2x61
                 amino_acid: P
                 negative: false
-    -
-        exclusive: true
-        rules:
-            -
-                generic_number: 2x58
-                amino_acid: P
-                negative: true

@@ -1,35 +1,31 @@
+construct: 4l6r
 pdb: 4L6R
-publication_date: '2013-07-24'
-pubmed_id: '23863937'
-resolution: '3.3'
+representative: true
 g_protein: None
-ligand:
--   name: ''
-    role: N/A
-endogenous_ligand:
--   name: Glucagon
-    id: 1136
+auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
-representative: true
-construct: 4l6r
+endogenous_ligand:
+- {iupharId: 1136, name: Glucagon, type: Peptide}
+ligand:
+- {name: None, pubchemId: None, role: .nan, type: None}
 segments:
-    C-term: [418, 477]
-    ECL1: [199, 216]
-    ECL2: [290, 303]
-    ECL3: [368, 375]
-    H8: [401, 417]
-    ICL1: [165, 171]
-    ICL2: [255, 263]
-    ICL3: [335, 341]
-    N-term: [1, 125]
-    TM1: [126, 164]
-    TM2: [172, 198]
-    TM3: [217, 254]
-    TM4: [264, 289]
-    TM5: [304, 334]
-    TM6: [342, 367]
-    TM7: [376, 400]
+  N-term: [123, 125]
+  TM1: [126, 164]
+  ICL1: [165, 171]
+  TM2: [172, 198]
+  ECL1: [199, 216]
+  TM3: [217, 254]
+  ICL2: [255, 263]
+  TM4: [264, 289]
+  ECL2: [290, 301]
+  TM5: [302, 333]
+  ICL3: [334, 341]
+  TM6: [342, 367]
+  ECL3: [368, 375]
+  TM7: [376, 403]
+  H8: [404, 428]
+  C-term: [429, 429]
 bulges: ''
 constrictions:
-    TM7: [7x48]
+  TM7: [7x44]

@@ -1,35 +1,34 @@
-# PDB data
-
+construct: 2z73
 pdb: 2Z73
-publication_date: '2008-05-13'
-pubmed_id: '18480818'
-resolution: '2.50'
-
-# Structure annotations
-
 g_protein: None
-ligand:
-- {name: 11-cis-retinal, role: Inverse agonist}
+auxiliary_protein: None
 preferred_chain: A
 state: Inactive
-
-# Structure annotations
-
-construct: 2z73
+endogenous_ligand:
+- {iupharId: 484, name: noradrenaline, type: Small molecule}
+ligand:
+- {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small molecule}
 segments:
-  C-term: [324, 448]
-  ECL1: [97, 104]
-  ECL2: [172, 193]
-  ECL3: [287, 293]
-  H8: [319, 323]
-  ICL1: [62, 67]
-  ICL2: [139, 150]
+  N-term: [9, 31]
+  TM1: [32, 61]
+  ICL1: [62, 69]
+  TM2: [70, 97]
+  ECL1: [98, 105]
+  TM3: [106, 136]
+  ICL2: [137, 149]
+  TM4: [150, 171]
+  ECL2: [172, 195]
+  TM5: [196, 225]
   ICL3: [226, 257]
-  N-term: [1, 26]
-  TM1: [27, 61]
-  TM2: [68, 96]
-  TM3: [105, 138]
-  TM4: [151, 171]
-  TM5: [194, 225]
-  TM6: [258, 286]
-  TM7: [294, 318]
+  TM6: [258, 285]
+  ECL3: [286, 295]
+  TM7: [296, 321]
+  H8: [322, 329]
+  C-term: [324, 358]
+bulges:
+  TM2: [2x551]
+  TM5: [5x461]
+constrictions:
+  TM4: [4x59]
+  TM7: [7x44]
+

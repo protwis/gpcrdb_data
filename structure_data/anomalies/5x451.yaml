@@ -1,0 +1,11 @@
+anomaly_type: bulge
+protein_segment: TM5
+generic_number: 5x451
+rule_sets:
+    - 
+        exclusive: true
+        rules:
+            -
+                generic_number: 5x50
+                amino_acid: P
+                negative: true

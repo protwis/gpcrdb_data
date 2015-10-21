@@ -1,37 +1,34 @@
+construct: 3pbl
 pdb: 3PBL
-publication_date: '2010-11-03'
-pubmed_id: '21097933'
-resolution: '2.89'
+representative: true
 g_protein: None
-ligand:
--   name: Eticlopride
-    role: Antagonist
-endogenous_ligand:
--   name: Dopamine
-    id: 940
+auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
-representative: true
-construct: 3pbl
+endogenous_ligand:
+- {iupharId: 940, name: Dopamine, type: Small molecule}
+ligand:
+- {name: ETQ, pubchemId: '57267', role: Antagonist, type: Small molecule}
 segments:
-    C-term: [399, 400]
-    ECL1: [92, 99]
-    ECL2: [170, 187]
-    ECL3: [356, 363]
-    H8: [387, 398]
-    ICL1: [57, 62]
-    ICL2: [134, 146]
-    ICL3: [217, 322]
-    N-term: [1, 34]
-    TM1: [35, 56]
-    TM2: [63, 91]
-    TM3: [100, 133]
-    TM4: [147, 169]
-    TM5: [188, 216]
-    TM6: [323, 355]
-    TM7: [364, 386]
+  N-term: [1, 34]
+  TM1: [35, 56]
+  ICL1: [57, 62]
+  TM2: [63, 91]
+  ECL1: [92, 99]
+  TM3: [100, 133]
+  ICL2: [134, 146]
+  TM4: [147, 169]
+  ECL2: [170, 185]
+  TM5: [186, 216]
+  ICL3: [217, 322]
+  TM6: [323, 354]
+  ECL3: [355, 362]
+  TM7: [363, 386]
+  H8: [387, 398]
+  C-term: [399, 400]
 bulges:
-    TM2: [2x551]
-    TM5: [5x461]
+  TM2: [2x551]
+  TM5: [5x461]
 constrictions:
-    TM7: [7x44]
+  TM4: [4x58]
+  TM7: [7x44]

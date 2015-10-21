@@ -1,37 +1,33 @@
+construct: 4u15
 pdb: 4U15
-publication_date: '2014-11-26'
-pubmed_id: '25450769'
-resolution: '2.8'
+representative: true
 g_protein: None
-ligand:
--   name: 0HK
-    role: Antagonist
-endogenous_ligand:
--   name: Acetylcholine
-    id: 294
+auxiliary_protein: T4-Lysozyme
 preferred_chain: B
 state: Inactive
-representative: true
-construct: 4u15
+endogenous_ligand:
+- {iupharId: 294, name: Acetylcholine, type: Small molecule}
+ligand:
+- {name: 0HK, pubchemId: '5487427', role: Antagonist, type: Small molecule}
 segments:
-    C-term: [556, 589]
-    ECL1: [131, 136]
-    ECL2: [204, 229]
-    ECL3: [516, 522]
-    H8: [547, 555]
-    ICL1: [95, 100]
-    ICL2: [171, 180]
-    ICL3: [257, 491]
-    N-term: [1, 64]
-    TM1: [65, 94]
-    TM2: [101, 130]
-    TM3: [137, 170]
-    TM4: [181, 203]
-    TM5: [230, 256]
-    TM6: [492, 515]
-    TM7: [523, 546]
+  N-term: [1, 64]
+  TM1: [65, 94]
+  ICL1: [95, 100]
+  TM2: [101, 130]
+  ECL1: [131, 136]
+  TM3: [137, 170]
+  ICL2: [171, 180]
+  TM4: [181, 203]
+  ECL2: [204, 228]
+  TM5: [229, 256]
+  ICL3: [257, 486]
+  TM6: [487, 515]
+  ECL3: [516, 522]
+  TM7: [523, 546]
+  H8: [547, 555]
+  C-term: [556, 557]
 bulges:
-    TM2: [2x551]
-    TM5: [5x461]
+  TM2: [2x551]
+  TM5: [5x461]
 constrictions:
-    TM7: [7x44]
+  TM7: [7x44]

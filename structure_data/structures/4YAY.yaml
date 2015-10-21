@@ -1,45 +1,35 @@
-# PDB data
-
-pdb: 4yay
-publication_date: '2015-04-22'
-pubmed_id: '25913193'
-resolution: '2.9'
-
-# Structure annotations
-
+construct: 4yay
+pdb: 4YAY
+representative: true
 g_protein: None
-ligand:
-- {name: ZD7155, role: Antagonist}
-endogenous_ligand:
-- {name: Angiotensin II, id: 2504}
+auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
-representative: true
-
-# Structure annotations
-
-construct: 4yay
+endogenous_ligand:
+- {iupharId: 2504, name: Angiotensin II, type: Peptide}
+ligand:
+- {name: ZD7, title: ZD7155, pubchemId: 4673492, role: Antagonist, type: Small molecule}
 segments:
-  C-term: [317, 317]
-  ECL1: [90, 97]
-  ECL2_1: [165, 172]
-  ECL2_2: [177, 185]
-  ECL2_3: [190, 195]
-  ECL3: [269, 273]
-  H8: [306, 316]
-  ICL1: [56, 61]
-  ICL2: [132,137]
-  ICL3: [221, 224]
   N-term: [18, 26]
   TM1: [27, 55]
+  ICL1: [56, 61]
   TM2: [62, 89]
+  ECL1: [90, 97]
   TM3: [98, 131]
+  ICL2: [132, 137]
   TM4: [138, 164]
-  TM5: [196, 220]
+  ECL2_1: [165, 172]
+  ECL2_2: [177, 185]
+  ECL2_3: [190, 194]
+  TM5: [195, 220]
+  ICL3: [221, 224]
   TM6: [236, 268]
-  TM7: [274, 305]
+  ECL3: [269, 273]
+  TM7: [274, 304]
+  H8: [305, 316]
+  C-term: [317, 317]
 bulges:
-    TM5: [5x461]
+  TM5: [5x461]
 constrictions:
-    TM7: [7x44]
-    TM4: [4x57]
+  TM4: [4x57]
+  TM7: [7x44]

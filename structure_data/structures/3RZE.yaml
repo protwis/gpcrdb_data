@@ -1,38 +1,34 @@
+construct: 3rze
 pdb: 3RZE
-publication_date: '2011-06-15'
-pubmed_id: '21697825'
-resolution: '3.1'
+representative: true
 g_protein: None
-ligand:
--   name: Doxepin (E,Z)
-    role: Antagonist
-endogenous_ligand:
--   name: Histamine
-    id: 1204
+auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
-representative: true
-construct: 3rze
+endogenous_ligand:
+- {iupharId: 1204, name: Histamine, type: Small molecule}
+ligand:
+- {name: 5EH, pubchemId: '667477', role: Antagonist, type: Small molecule}
 segments:
-    C-term: [484, 487]
-    ECL1: [90, 95]
-    ECL2: [164, 187]
-    ECL3: [442, 449]
-    H8: [472, 483]
-    ICL1: [55, 63]
-    ICL2: [131, 140]
-    ICL3: [217, 407]
-    N-term: [1, 32]
-    TM1: [33, 54]
-    TM2: [64, 89]
-    TM3: [96, 130]
-    TM4: [141, 163]
-    TM5: [188, 216]
-    TM6: [408, 441]
-    TM7: [450, 471]
+  N-term: [1, 32]
+  TM1: [33, 54]
+  ICL1: [55, 61]
+  TM2: [62, 89]
+  ECL1: [90, 95]
+  TM3: [96, 130]
+  ICL2: [131, 140]
+  TM4: [141, 163]
+  ECL2: [164, 187]
+  TM5: [188, 216]
+  ICL3: [217, 407]
+  TM6: [408, 441]
+  ECL3: [442, 448]
+  TM7: [449, 471]
+  H8: [472, 483]
+  C-term: [484, 487]
 bulges:
-    TM2: [2x551]
-    TM5: [5x461]
+  TM2: [2x551]
+  TM5: [5x461]
 constrictions:
-    TM4: [4x56]
-    TM7: [7x44]
+  TM4: [4x56]
+  TM7: [7x44]

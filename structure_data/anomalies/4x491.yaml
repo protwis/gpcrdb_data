@@ -1,0 +1,11 @@
+anomaly_type: bulge
+protein_segment: TM4
+generic_number: 4x491
+rule_sets:
+    - 
+        exclusive: true
+        rules:
+            -
+                generic_number: 4x53
+                amino_acid: P
+                negative: true

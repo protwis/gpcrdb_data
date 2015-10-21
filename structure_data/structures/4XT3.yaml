@@ -1,45 +1,34 @@
-# PDB data
-
-pdb: 4xt3
-publication_date: '2015-03-04'
-pubmed_id: '25745166'
-resolution: '3.8'
-
-# Structure annotations
-
+construct: 4xt3
+pdb: 4XT3
 g_protein: None
-ligand:
-- {name: CX3CL1, role: Agonist}
-endogenous_ligand:
-- {name: CX3CL1, id: 856}
+auxiliary_protein: None
 preferred_chain: A
 state: Inactive
-representative: true
-
-# Structure annotations
-
-construct: 4xt3
+endogenous_ligand:
+- {iupharId: 856, name: CX3CL1, type: Peptide}
+ligand:
+- {name: BBB, title: CX3CL1, pubchemId: None, role: Agonist, type: Peptide}
 segments:
-  C-term: [307, 308]
-  ECL1_1: [95, 96]
-  ECL1_2: [100, 103]
-  ECL2: [164, 182]
-  ECL3: [256, 262]
-  H8: [295, 306]
-  ICL1: [61, 66]
-  ICL2: [135, 141]
-  ICL3: [216, 223]
   N-term: [18, 25]
   TM1: [26, 60]
+  ICL1: [61, 66]
   TM2: [67, 94]
+  ECL1_1: [95, 96]
+  ECL1_2: [100, 103]
   TM3: [104, 134]
+  ICL2: [135, 141]
   TM4: [142, 163]
+  ECL2: [164, 182]
   TM5: [183, 215]
+  ICL3: [216, 223]
   TM6: [224, 255]
+  ECL3: [256, 262]
   TM7: [263, 294]
+  H8: [295, 306]
+  C-term: [307, 308]
 bulges:
-    TM2: [2x551]
-    TM5: [5x461]
+  TM2: [2x551]
+  TM5: [5x461]
 constrictions:
-    TM7: [7x44]
-    TM4: [4x58]
+  TM4: [4x58]
+  TM7: [7x44]

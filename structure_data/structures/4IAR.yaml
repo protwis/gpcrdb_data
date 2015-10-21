@@ -1,37 +1,33 @@
+construct: 4iar
 pdb: 4IAR
-publication_date: '2013-03-13'
-pubmed_id: '23519210'
-resolution: '2.7'
+representative: true
 g_protein: None
-ligand:
--   name: ERM
-    role: Agonist
-endogenous_ligand:
--   name: Serotonin
-    id: 5
+auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
-representative: true
-construct: 4iar
+endogenous_ligand:
+- {iupharId: 5, name: Serotonin, type: Small molecule}
+ligand:
+- {name: ERM, pubchemId: '8223', role: Agonist, type: Small molecule}
 segments:
-    C-term: [384, 390]
-    ECL1: [113, 118]
-    ECL2: [182, 205]
-    ECL3: [337, 348]
-    H8: [373, 383]
-    ICL1: [77, 84]
-    ICL2: [153, 164]
-    ICL3: [231, 310]
-    N-term: [1, 45]
-    TM1: [46, 76]
-    TM2: [85, 112]
-    TM3: [119, 152]
-    TM4: [165, 181]
-    TM5: [206, 230]
-    TM6: [311, 336]
-    TM7: [349, 372]
+  N-term: [1, 45]
+  TM1: [46, 76]
+  ICL1: [77, 83]
+  TM2: [84, 112]
+  ECL1: [113, 118]
+  TM3: [119, 152]
+  ICL2: [153, 163]
+  TM4: [164, 181]
+  ECL2: [182, 205]
+  TM5: [206, 237]
+  ICL3: [238, 310]
+  TM6: [311, 336]
+  ECL3: [337, 348]
+  TM7: [349, 372]
+  H8: [373, 383]
+  C-term: [384, 390]
 bulges:
-    TM2: [2x551]
-    TM5: [5x461]
+  TM2: [2x551]
+  TM5: [5x461]
 constrictions:
-    TM7: [7x44]
+  TM7: [7x44]

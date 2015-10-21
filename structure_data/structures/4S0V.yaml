@@ -1,38 +1,35 @@
-pdb: 4s0v
-publication_date: '2015-01-14'
-pubmed_id: '25533960'
-resolution: '2.5'
+construct: 4s0v
+pdb: 4S0V
+representative: true
 g_protein: None
-ligand:
--   name: SUV
-    role: Antagonist
-endogenous_ligand:
--   name: Orexin-A
-    id: 1697
--   name: Orexin-B
-    id: 1699
+auxiliary_protein: PGS
 preferred_chain: A
 state: Inactive
-construct: 4s0v
+endogenous_ligand:
+- {iupharId: 1697, name: Orexin-A, type: Peptide}
+- {iupharId: 1699, name: Orexin-B, type: Peptide}
+ligand:
+- {name: SUV, pubchemId: '24965990', role: Antagonist, type: Small molecule}
 segments:
-    C-term: [380, 444]
-    ECL1: [118, 123]
-    ECL2: [190, 220]
-    ECL3: [330, 343]
-    H8: [364, 379]
-    ICL1: [82, 87]
-    ICL2: [158, 165]
-    ICL3: [253, 291]
-    N-term: [1, 46]
-    TM1: [47, 81]
-    TM2: [88, 117]
-    TM3: [124, 157]
-    TM4: [166, 189]
-    TM5: [221, 252]
-    TM6: [292, 329]
-    TM7: [344, 363]
+  N-term: [50, 53]
+  TM1: [54, 80]
+  ICL1: [81, 89]
+  TM2: [90, 117]
+  ECL1: [118, 123]
+  TM3: [124, 157]
+  ICL2: [158, 165]
+  TM4: [166, 189]
+  ECL2: [190, 217]
+  TM5: [218, 252]
+  ICL3: [253, 254]
+  TM6: [294, 329]
+  ECL3: [330, 339]
+  TM7: [340, 367]
+  H8: [368, 379]
+  C-term: [380, 381]
 bulges:
-    TM2: [2x551]
-    TM5: [5x461]
+  TM2: [2x551]
+  TM5: [5x461]
 constrictions:
-    TM7: [7x44]
+  TM4: [4x58]
+  TM7: [7x44]

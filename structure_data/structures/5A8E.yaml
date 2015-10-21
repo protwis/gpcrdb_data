@@ -1,0 +1,8 @@
+construct: 5a8e
+pdb: 5A8E
+g_protein: None
+auxiliary_protein: None
+preferred_chain: A
+state: Inactive
+ligand:
+- {name: XTK, title: 7-methylcyanopindolol, role: Inverse agonist, type: Small molecule}

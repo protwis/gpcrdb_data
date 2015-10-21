@@ -1,44 +1,38 @@
+construct: 4ej4
 pdb: 4EJ4
-publication_date: '2012-05-16'
-pubmed_id: '22596164'
-resolution: '3.4'
 g_protein: None
-ligand:
--   name: natrindole
-    role: Antagonist
-endogenous_ligand:
--   name: endorphin
-    id: 1643
--   name: dynorphin A
-    id: 1620
--   name: dynorphin B
-    id: 1622
--   name: endomorphin-1
-    id: 1623
--   name: leo-enkephalin
-    id: 1613
--   name: met-enkephalin
-    id: 1614
+auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
-representative: true
-bulges: ''
-constrictions: ''
-construct: 4ej4
+endogenous_ligand:
+- {iupharId: 1643, name: endorphin, type: Peptide}
+- {iupharId: 1620, name: dynorphin A, type: Peptide}
+- {iupharId: 1622, name: dynorphin B, type: Peptide}
+- {iupharId: 1623, name: endomorphin-1, type: Peptide}
+- {iupharId: 1613, name: leo-enkephalin, type: Peptide}
+- {iupharId: 1614, name: met-enkephalin, type: Peptide}
+- {iupharId: 1643, name: endorphin, type: Peptide}
+ligand:
+- {name: EJ4, pubchemId: '5497186', role: Antagonist, type: Small molecule}
 segments:
-    C-term: [327, 372]
-    ECL1: [112, 117]
-    ECL2: [185, 206]
-    ECL3: [287, 295]
-    H8: [322, 326]
-    ICL1: [77, 82]
-    ICL2: [152, 163]
-    ICL3: [239, 257]
-    N-term: [1, 41]
-    TM1: [42, 76]
-    TM2: [83, 111]
-    TM3: [118, 151]
-    TM4: [164, 184]
-    TM5: [207, 238]
-    TM6: [258, 286]
-    TM7: [296, 321]
+  N-term: [1, 41]
+  TM1: [42, 76]
+  ICL1: [77, 82]
+  TM2: [83, 111]
+  ECL1: [112, 117]
+  TM3: [118, 151]
+  ICL2: [152, 162]
+  TM4: [163, 184]
+  ECL2: [185, 206]
+  TM5: [207, 238]
+  ICL3: [239, 257]
+  TM6: [258, 286]
+  ECL3: [287, 294]
+  TM7: [295, 321]
+  H8: [322, 326]
+  C-term: [327, 372]
+bulges:
+  TM5: [5x461]
+constrictions:
+  # TM4: [4x55]
+  TM7: [7x44]

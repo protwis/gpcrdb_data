@@ -1,36 +1,33 @@
+construct: 4djh
 pdb: 4DJH
-publication_date: '2012-03-21'
-pubmed_id: '22437504'
-resolution: '2.9'
+representative: true
 g_protein: None
-ligand:
--   name: JDTic
-    role: Antagonist
-endogenous_ligand:
--   name: Dynorphin A
-    id: 1620
+auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
-representative: true
-bulges:
-    TM5: [5x461]
-constrictions:
-    TM7: [7x44]
-construct: 4djh
+endogenous_ligand:
+- {iupharId: 1620, name: Dynorphin A, type: Peptide}
+ligand:
+- {name: JDC, pubchemId: '9956146', role: Antagonist, type: Small molecule}
 segments:
-    C-term: [346, 380]
-    ECL1: [122, 126]
-    ECL2: [196, 218]
-    ECL3: [300, 308]
-    H8: [334, 345]
-    ICL1: [87, 92]
-    ICL2: [160, 170]
-    ICL3: [260, 266]
-    N-term: [1, 57]
-    TM1: [58, 86]
-    TM2: [93, 121]
-    TM3: [127, 159]
-    TM4: [171, 195]
-    TM5: [219, 259]
-    TM6: [267, 299]
-    TM7: [309, 333]
+  N-term: [1, 57]
+  TM1: [58, 86]
+  ICL1: [87, 92]
+  TM2: [93, 121]
+  ECL1: [122, 126]
+  TM3: [127, 159]
+  ICL2: [160, 170]
+  TM4: [171, 195]
+  ECL2: [196, 218]
+  TM5: [219, 259]
+  ICL3: [260, 267]
+  TM6: [268, 299]
+  ECL3: [300, 308]
+  TM7: [309, 333]
+  H8: [334, 345]
+  C-term: [346, 380]
+bulges:
+  TM5: [5x461]
+constrictions:
+  # TM4: [4x55]
+  TM7: [7x44]

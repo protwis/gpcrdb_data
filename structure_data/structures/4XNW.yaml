@@ -1,42 +1,33 @@
-# PDB data
-
-pdb: 4xnw
-publication_date: '2015-04-01'
-pubmed_id: '25822790'
-resolution: '2.7'
-
-# Structure annotations
-
+construct: 4xnw
+pdb: 4XNW
 g_protein: None
-ligand:
-- {name: MRS2500, role: nan}
-endogenous_ligand:
-- {name: adenosine diphosphate, id: 1712}
+auxiliary_protein: Rubredoxin
 preferred_chain: A
 state: Inactive
-representative: true
-
-# Structure annotations
-
-construct: 4xnw
+endogenous_ligand:
+- {iupharId: 1712, name: adenosine diphosphate, type: Small molecule}
+ligand:
+- {name: 2ID, title: MRS2500, pubchemId: 44448831, role: Antagonist, type: Small molecule}
 segments:
-  C-term: [327, 334]
-  ECL1: [113,119]
-  ECL2: [189, 210]
-  ECL3: [286, 299]
-  ICL1: [80, 84]
-  ICL2: [155, 164]
-  ICL3_1: [245,247]
-  ICL3_2: [253,254]
-  N-term: [36, 47]
-  TM1: [48, 79]
+  N-term: [39, 49]
+  TM1: [50, 77]
+  ICL1: [78, 84]
   TM2: [85, 112]
+  ECL1: [113, 119]
   TM3: [120, 154]
-  TM4: [165, 188]
-  TM5: [211, 244]
+  ICL2: [155, 164]
+  TM4: [165, 189]
+  ECL2: [190, 210]
+  TM5: [211, 246]
+  ICL3_1: [247, 247]
+  ICL3_2: [253, 254]
   TM6: [255, 285]
-  TM7: [300, 326]
+  ECL3: [286, 296]
+  TM7: [297, 327]
+  C-term: [328, 334]
 bulges:
-    TM6: [6x451]
+  TM5: [5x461]
+  TM6: [6x451]
 constrictions:
-    TM7: [7x44]
+  TM4: [4x58]
+  TM7: [7x44]

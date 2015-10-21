@@ -1,33 +1,33 @@
+construct: 4buo
 pdb: 4BUO
-publication_date: '2014-01-29'
-pubmed_id: '24453215'
-resolution: '2.75'
+representative: true
 g_protein: None
-ligand:
--   name: NTS(8-13)
-    role: Agonist
-endogenous_ligand:
--   name: Neurotensin
-    id: 1579
+auxiliary_protein: None
 preferred_chain: A
 state: Inactive
-representative: true
-bulges: ''
-constrictions: ''
-construct: 4buo
+endogenous_ligand:
+- {iupharId: 1579, name: Neurotensin, type: Peptide}
+ligand:
+- {name: NTS, pubchemId: '44363934', role: Agonist, type: Peptide}
 segments:
-    ECL1: [128, 137]
-    ECL2: [202, 230]
-    ECL3: [331, 340]
-    H8: [374, 424]
-    ICL1: [89, 98]
-    ICL2: [173, 186]
-    ICL3: [266, 301]
-    N-term: [1, 60]
-    TM1: [61, 88]
-    TM2: [99, 127]
-    TM3: [138, 172]
-    TM4: [187, 201]
-    TM5: [231, 265]
-    TM6: [302, 330]
-    TM7: [341, 373]
+  N-term: [1, 60]
+  TM1: [61, 90]
+  ICL1: [91, 98]
+  TM2: [99, 127]
+  ECL1: [128, 137]
+  TM3: [138, 172]
+  ICL2: [173, 186]
+  TM4: [187, 206]
+  ECL2: [207, 230]
+  TM5: [231, 268]
+  ICL3: [269, 298]
+  TM6: [299, 331]
+  ECL3: [332, 340]
+  TM7: [341, 373]
+  H8: [374, 424]
+bulges:
+  TM2: [2x551]
+  TM5: [5x461]
+constrictions:
+  TM4: [4x48]
+  TM7: [7x44]
