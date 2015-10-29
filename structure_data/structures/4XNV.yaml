@@ -28,6 +28,8 @@ segments:
   TM7: [296, 327]
   C-term: [328, 334]
 bulges:
+  TM5: [5x461]
   TM6: [6x451]
 constrictions:
+  TM4: [4x58]
   TM7: [7x44]
