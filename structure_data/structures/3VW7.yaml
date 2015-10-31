@@ -24,7 +24,7 @@ segments:
   TM6: [305, 338]
   ECL3: [339, 346]
   TM7: [347, 373]
-  H8: [374, 425]
+  C-term: [374, 425]
 bulges:
   TM6: [6x451]
 constrictions:
