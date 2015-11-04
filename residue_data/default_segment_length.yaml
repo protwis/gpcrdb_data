@@ -4,7 +4,7 @@ TM1:
 ICL1:
     before: 4
     after: 0
-    min: 5
+    min: 3
 TM2:
     before: 12
     after: 16
