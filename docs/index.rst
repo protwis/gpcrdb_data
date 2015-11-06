@@ -29,7 +29,7 @@ The documentation in organized into three sections:
     receptors
     sequences
     structures
-    mutants
+    mutations
     sites
     generic_numbering
 
