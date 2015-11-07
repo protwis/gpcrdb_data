@@ -44,6 +44,7 @@ The documentation in organized into three sections:
     local_installation
     coding_style
     git_workflow
+    reload_database
 
 .. _about-docs:
 
