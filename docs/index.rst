@@ -45,6 +45,7 @@ The documentation in organized into three sections:
     coding_style
     git_workflow
     reload_database
+    building_a_database
 
 .. _about-docs:
 
