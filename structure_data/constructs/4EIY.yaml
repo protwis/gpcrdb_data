@@ -1,8 +1,8 @@
-fusion_proteins:
--   name: BRIL
-    positions: [1, 2]
-    sequence: ''
+deletions: ''
+insertions:
+- name: BRIL
+  positions: [1, 2]
+  sequence: ''
 mutations: ''
 name: 4eiy
 protein: aa2ar_human
-truncations: ''

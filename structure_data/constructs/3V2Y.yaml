@@ -1,8 +1,8 @@
-fusion_proteins:
--   name: T4-Lysozyme
-    positions: [1, 2]
-    sequence: ''
+deletions: ''
+insertions:
+- name: T4-Lysozyme
+  positions: [1, 2]
+  sequence: ''
 mutations: ''
 name: 3v2y
 protein: s1pr1_human
-truncations: ''
