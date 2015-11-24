@@ -11,10 +11,18 @@ Building a local database from source data
 * Log into the vagrant VM::
     
     vagrant ssh
+    cd /vagrant/protwis
+
+* Clean the current database schema (password: protwis)::
+
+    psql -U protwis -h localhost -d protwis -c 'drop schema public cascade; create schema public;'
+
+* Run migrations::
+
+    python3 manage.py migrate
 
 * Start the build process::
     
-    cd /vagrant/protwis
     python3 manage.py build_all -p 4 -t
 
 This will build a test version of the database using only the proteins for which a structure has been determined.

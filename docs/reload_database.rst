@@ -5,7 +5,7 @@ Reload database from dump
 
     cd /vagrant/protwis
 
-* Delete the current database::
+* Delete the current database (password: protwis)::
     
     psql -U protwis -h localhost -d protwis -c 'drop schema public cascade; create schema public;'
 
