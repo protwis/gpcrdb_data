@@ -21,6 +21,11 @@ uploading your own file.
     Your browser does not support the video tag.
     </video>
 
+Question
+^^^^^^^^
+
+* Look up the recptor ligand interactions in PDB structure 3RZE? How many interactions are found?
+
 Site search - from PDB complex
 ------------------------------
 
@@ -44,3 +49,8 @@ The resulting site definition can be used to search for receptors with a similar
       <source src="http://files.gpcrdb.org/video/interactions2.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
+
+Question
+^^^^^^^^
+
+* Create a site definition using PDB structure 3RZE? How many interactions are found?

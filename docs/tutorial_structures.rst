@@ -19,6 +19,11 @@ This video demonstrates how to view statistics based on available structure data
     Your browser does not support the video tag.
     </video>
 
+Question
+^^^^^^^^
+
+* How many structures were published in 2014?
+
 Structure browser
 -----------------
 
@@ -41,6 +46,11 @@ This video demonstrates how to use the structure browser to gain an overview of 
       <source src="http://files.gpcrdb.org/video/structures2.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
+
+Question
+^^^^^^^^
+
+How many structures from Class B are available?
 
 Structure superposition
 -----------------------

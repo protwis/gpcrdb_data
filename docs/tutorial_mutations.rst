@@ -22,3 +22,10 @@ This video demonstrates how use the mutation browser to search for and visualize
       <source src="http://files.gpcrdb.org/video/mutations1.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
+
+Questions
+^^^^^^^^^
+
+* Look up mutations for histamine receptors. How many are available for generic position 3x32?
+
+* Look up mutations for your favorite family of GPCRs. How many are available?

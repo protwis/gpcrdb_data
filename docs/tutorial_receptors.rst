@@ -21,8 +21,8 @@ This video demonstrates how to use the receptor pages.
     Your browser does not support the video tag.
     </video>
 
-Question
-^^^^^^^^
+Questions
+^^^^^^^^^
 
 * Look up the receptor page for the beta1-adrenoceptor. How many mutations are there available?
 
