@@ -28,24 +28,3 @@ rule_sets:
                 generic_number: 2x59
                 amino_acid: P
                 negative: true
-    -
-        exclusive: true
-        rules:
-            -
-                generic_number: 2x58
-                amino_acid: P
-                negative: false
-    -
-        exclusive: true
-        rules:
-            -
-                generic_number: 2x60
-                amino_acid: P
-                negative: false
-    -
-        exclusive: true
-        rules:
-            -
-                generic_number: 2x61
-                amino_acid: P
-                negative: false

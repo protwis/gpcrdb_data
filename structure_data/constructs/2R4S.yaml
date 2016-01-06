@@ -1,8 +1,8 @@
-fusion_proteins:
--   name: Antibody
-    positions: [1, 2]
-    sequence: ''
+deletions: ''
+insertions:
+- name: Antibody
+  positions: [1, 2]
+  sequence: ''
 mutations: ''
 name: 2r4s
 protein: adrb2_human
-truncations: ''

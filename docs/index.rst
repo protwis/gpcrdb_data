@@ -14,11 +14,23 @@ The `source code`_ and `source data`_ are freely available on `Bitbucket`_.
 .. _source data: http://bitbucket.org/gpcr/gpcrdb_data.git
 .. _Bitbucket: http://bitbucket.org
 
-The documentation in organized into three sections:
+The documentation in organized into four sections:
 
+* :ref:`tutorial`
 * :ref:`user-docs`
 * :ref:`dev-docs`
 * :ref:`about-docs`
+
+.. tutorial:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Tutorial
+
+    tutorial_receptors
+    tutorial_structures
+    tutorial_mutations
+    tutorial_sites
 
 .. _user-docs:
 
@@ -29,7 +41,7 @@ The documentation in organized into three sections:
     receptors
     sequences
     structures
-    mutants
+    mutations
     sites
     generic_numbering
 
@@ -44,6 +56,8 @@ The documentation in organized into three sections:
     local_installation
     coding_style
     git_workflow
+    reload_database
+    building_a_database
 
 .. _about-docs:
 

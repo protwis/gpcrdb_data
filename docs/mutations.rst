@@ -1,8 +1,8 @@
-Mutants
-=======
+Mutations
+=========
 
-Mutant browser
---------------
+Mutation browser
+----------------
 
 The mutant browser allows users to view mutant data for a receptor or receptor family and hightlight mutants on
 receptor diagrams. Using the tool is a two step process.
@@ -23,8 +23,8 @@ sequence in the plots is the consensus sequence of the selected receptors.
 Below the plots, a table of every residue in the selected receptors and segments is shown, with the mutated residues
 highlighted.
 
-Mutant data submission
-----------------------
+Mutation data submission
+------------------------
 
 The GPCRdb already contains the largest available set of GPCR mutants and the goal is to continuously deposit mutants
 into GPCRdb, now also capturing the pharmacological effect.
