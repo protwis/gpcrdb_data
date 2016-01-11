@@ -1,32 +1,69 @@
 construct: 4phu
 pdb: 4PHU
-representative: true
-g_protein: None
-auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
-endogenous_ligand: 
-- {name: long chain carboxylic acids, type: Lipid}
+endogenous_ligand:
+- name: long chain carboxylic acids
+  type: Lipid
 ligand:
-- {name: 2YB, pubchemId: '24857286', role: Agonist, type: Small molecule}
-segments:
-  N-term: [1, 5]
-  TM1: [6, 36]
-  ICL1: [37, 40]
-  TM2: [41, 67]
-  ECL1: [68, 78]
-  TM3: [79, 110]
-  ICL2: [111, 121]
-  TM4: [122, 144]
-  ECL2: [145, 176]
-  TM5: [177, 210]
-  ICL3: [211, 214]
-  TM6: [215, 249]
-  ECL3: [250, 255]
-  TM7: [256, 277]
-  C-term: [278, 280]
+- name: 2YB
+  pubchemId: '24857286'
+  role: Agonist
+  type: Small molecule
 bulges:
   TM5: [5x461]
   TM6: [6x451]
 constrictions:
   TM7: [7x44]
+auxiliary_protein: T4-Lysozyme
+signaling_protein: None
+representative: true
+segments:
+  TM1: [6, 32]
+  ICL1: [34, 38]
+  TM2: [40, 68]
+  ECL1: [72, 74]
+  TM3: [76, 110]
+  ICL2: [111, 118]
+  TM4: [120, 144]
+  ECL2: [170, 172]
+  TM5: [176, 209]
+  TM6: [212, 250]
+  TM7: [256, 280]
+segments_in_structure:
+  TM1: [0, 36]
+  TM4: [121, 0]
+  TM5: [0, 211]
+  TM7: [0, 274]
+coordinates:
+  N-term: Absent
+  TM1: Full
+  ICL1: Distorted
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Absent
+  TM4: Partial
+  ECL2: Full
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Full
+  TM7: Partial
+  H8: Absent
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Fusion
+  TM6: Fusion
+  ECL3: Native
+  TM7: Native
+  H8: Native

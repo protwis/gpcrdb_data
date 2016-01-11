@@ -1,27 +1,59 @@
 construct: 4qkx
 pdb: 4QKX
-g_protein: Nanobody
-auxiliary_protein: None
 preferred_chain: A
 state: Active
 ligand:
-- {name: 35V, pubchemId: '76210628', role: Agonist, type: Small molecule}
-segments:
-  N-term: [1, 30]
-  TM1: [31, 60]
-  ICL1: [61, 66]
-  TM2: [67, 96]
-  ECL1: [97, 101]
-  TM3: [102, 136]
-  ICL2: [137, 146]
-  TM4: [147, 170]
-  ECL2: [171, 196]
-  TM5: [197, 229]
-  ICL3: [230, 266]
-  TM6: [267, 298]
-  ECL3: [299, 304]
-  TM7: [305, 325]
-  H8: [326, 339]
-  C-term: [340, 413]
+- name: 35V
+  pubchemId: '76210628'
+  role: Agonist
+  type: Small molecule
 bulges: ''
 constrictions: ''
+auxiliary_protein: None
+signaling_protein: G_prot-mimic_nanobody
+segments:
+  TM1: [29, 61]
+  ICL1: [62, 66]
+  TM2: [67, 96]
+  ECL1: [99, 101]
+  TM3: [103, 137]
+  ICL2: [138, 145]
+  TM4: [147, 171]
+  ECL2: [191, 193]
+  TM5: [197, 228]
+  TM6: [266, 299]
+  TM7: [305, 329]
+  H8: [330, 340]
+segments_in_structure: {}
+coordinates:
+  N-term: Absent
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Full
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Partial
+  TM6: Full
+  ECL3: Full
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Fusion
+  TM1: Fusion
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Truncation
+  TM6: Native
+  ECL3: Native
+  TM7: Native
+  H8: Native

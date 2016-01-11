@@ -1,34 +1,69 @@
 construct: 3pbl
 pdb: 3PBL
-representative: true
-g_protein: None
-auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 940, name: Dopamine, type: Small molecule}
+- iupharId: 940
+  name: Dopamine
+  type: Small molecule
 ligand:
-- {name: ETQ, pubchemId: '57267', role: Antagonist, type: Small molecule}
-segments:
-  N-term: [1, 34]
-  TM1: [35, 56]
-  ICL1: [57, 62]
-  TM2: [63, 91]
-  ECL1: [92, 99]
-  TM3: [100, 133]
-  ICL2: [134, 146]
-  TM4: [147, 169]
-  ECL2: [170, 185]
-  TM5: [186, 216]
-  ICL3: [217, 322]
-  TM6: [323, 354]
-  ECL3: [355, 362]
-  TM7: [363, 386]
-  H8: [387, 398]
-  C-term: [399, 400]
+- name: ETQ
+  pubchemId: '57267'
+  role: Antagonist
+  type: Small molecule
 bulges:
   TM2: [2x551]
   TM5: [5x461]
 constrictions:
   TM4: [4x58]
   TM7: [7x44]
+auxiliary_protein: T4-Lysozyme
+signaling_protein: None
+representative: true
+segments:
+  TM1: [26, 57]
+  ICL1: [58, 62]
+  TM2: [63, 92]
+  ECL1: [96, 98]
+  TM3: [100, 134]
+  ICL2: [135, 143]
+  TM4: [147, 170]
+  ECL2: [181, 183]
+  TM5: [186, 217]
+  TM6: [322, 354]
+  TM7: [362, 387]
+  H8: [388, 399]
+segments_in_structure:
+  TM1: [34, 0]
+coordinates:
+  N-term: Absent
+  TM1: Partial
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Full
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Full
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Fusion
+  TM6: Fusion
+  ECL3: Native
+  TM7: Native
+  H8: Native

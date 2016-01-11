@@ -1,6 +1,6 @@
 construct: 1f88
 pdb: 1F88
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A,B
 state: Inactive

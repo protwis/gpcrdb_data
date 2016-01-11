@@ -1,6 +1,6 @@
 construct: 4rwa
 pdb: 4RWA
-g_protein: None
+signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A,B
 state: Inactive

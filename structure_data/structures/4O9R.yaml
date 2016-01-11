@@ -1,6 +1,6 @@
 construct: 4o9r
 pdb: 4O9R
-g_protein: None
+signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive

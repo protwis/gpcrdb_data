@@ -1,6 +1,6 @@
 construct: 2r4s
 pdb: 2R4S
-g_protein: None
+signaling_protein: None
 auxiliary_protein: Antibody
 preferred_chain: A
 state: Inactive

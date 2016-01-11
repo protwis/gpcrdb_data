@@ -1,33 +1,68 @@
 construct: 4eiy
 pdb: 4EIY
-representative: true
-g_protein: None
-auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 2844, name: adenosine, type: Small molecule}
+- iupharId: 2844
+  name: adenosine
+  type: Small molecule
 ligand:
-- {name: ZMA, pubchemId: '176407', role: Antagonist, type: Small molecule}
-segments:
-  N-term: [1, 3]
-  TM1: [4, 33]
-  ICL1: [34, 39]
-  TM2: [40, 67]
-  ECL1: [68, 73]
-  TM3: [74, 107]
-  ICL2: [108, 117]
-  TM4: [118, 136]
-  ECL2: [137, 174]
-  TM5: [175, 207]
-  ICL3: [208, 219]
-  TM6: [220, 258]
-  ECL3: [259, 267]
-  TM7: [268, 291]
-  H8: [292, 305]
-  C-term: [306, 412]
+- name: ZMA
+  pubchemId: '176407'
+  role: Antagonist
+  type: Small molecule
 bulges:
   TM2: [2x551]
   TM5: [5x401, 5x451]
 constrictions:
   TM7: [7x44]
+auxiliary_protein: BRIL
+signaling_protein: None
+representative: true
+segments:
+  TM1: [3, 34]
+  ICL1: [35, 39]
+  TM2: [40, 68]
+  ECL1: [70, 72]
+  TM3: [74, 108]
+  ICL2: [109, 115]
+  TM4: [118, 141]
+  ECL2: [166, 168]
+  TM5: [174, 204]
+  TM6: [222, 259]
+  TM7: [267, 292]
+  H8: [293, 306]
+segments_in_structure:
+  TM5: [0, 208]
+coordinates:
+  N-term: Absent
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Full
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Partial
+  TM6: Full
+  ECL3: Full
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Fusion
+  ICL3: Fusion
+  TM6: Fusion
+  ECL3: Native
+  TM7: Native
+  H8: Native

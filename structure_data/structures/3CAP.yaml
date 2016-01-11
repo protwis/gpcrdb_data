@@ -1,6 +1,6 @@
 construct: 3cap
 pdb: 3CAP
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A
 state: Inactive

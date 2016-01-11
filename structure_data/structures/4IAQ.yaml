@@ -1,27 +1,8 @@
 construct: 4iaq
 pdb: 4IAQ
-g_protein: None
+signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 ligand:
 - {name: 2GM, pubchemId: '10531', role: Agonist, type: Small molecule}
-segments:
-  N-term: [1, 45]
-  TM1: [46, 76]
-  ICL1: [77, 84]
-  TM2: [85, 112]
-  ECL1: [113, 118]
-  TM3: [119, 152]
-  ICL2: [153, 164]
-  TM4: [165, 181]
-  ECL2: [182, 205]
-  TM5: [206, 230]
-  ICL3: [231, 310]
-  TM6: [311, 336]
-  ECL3: [337, 348]
-  TM7: [349, 372]
-  H8: [373, 383]
-  C-term: [384, 390]
-bulges: ''
-constrictions: ''

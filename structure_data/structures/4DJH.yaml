@@ -1,33 +1,68 @@
 construct: 4djh
 pdb: 4DJH
-representative: true
-g_protein: None
-auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1620, name: Dynorphin A, type: Peptide}
+- iupharId: 1620
+  name: Dynorphin A
+  type: Peptide
 ligand:
-- {name: JDC, pubchemId: '9956146', role: Antagonist, type: Small molecule}
-segments:
-  N-term: [1, 57]
-  TM1: [58, 86]
-  ICL1: [87, 92]
-  TM2: [93, 121]
-  ECL1: [122, 126]
-  TM3: [127, 159]
-  ICL2: [160, 170]
-  TM4: [171, 195]
-  ECL2: [196, 218]
-  TM5: [219, 259]
-  ICL3: [260, 267]
-  TM6: [268, 299]
-  ECL3: [300, 308]
-  TM7: [309, 333]
-  H8: [334, 345]
-  C-term: [346, 380]
+- name: JDC
+  pubchemId: '9956146'
+  role: Antagonist
+  type: Small molecule
 bulges:
   TM5: [5x461]
 constrictions:
-  # TM4: [4x55]
   TM7: [7x44]
+auxiliary_protein: T4-Lysozyme
+signaling_protein: None
+representative: true
+segments:
+  TM1: [57, 87]
+  ICL1: [88, 92]
+  TM2: [93, 121]
+  ECL1: [124, 126]
+  TM3: [128, 162]
+  ICL2: [163, 167]
+  TM4: [170, 196]
+  ECL2: [210, 212]
+  TM5: [219, 255]
+  TM6: [267, 300]
+  TM7: [309, 334]
+  H8: [335, 346]
+segments_in_structure:
+  TM5: [0, 255]
+  TM6: [267, 0]
+coordinates:
+  N-term: Absent
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Full
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Absent
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Fusion
+  TM6: Fusion
+  ECL3: Native
+  TM7: Native
+  H8: Native

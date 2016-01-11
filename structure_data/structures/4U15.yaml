@@ -1,33 +1,68 @@
 construct: 4u15
 pdb: 4U15
-representative: true
-g_protein: None
-auxiliary_protein: T4-Lysozyme
 preferred_chain: B
 state: Inactive
 endogenous_ligand:
-- {iupharId: 294, name: Acetylcholine, type: Small molecule}
+- iupharId: 294
+  name: Acetylcholine
+  type: Small molecule
 ligand:
-- {name: 0HK, pubchemId: '5487427', role: Antagonist, type: Small molecule}
-segments:
-  N-term: [1, 64]
-  TM1: [65, 94]
-  ICL1: [95, 100]
-  TM2: [101, 130]
-  ECL1: [131, 136]
-  TM3: [137, 170]
-  ICL2: [171, 180]
-  TM4: [181, 203]
-  ECL2: [204, 228]
-  TM5: [229, 256]
-  ICL3: [257, 486]
-  TM6: [487, 515]
-  ECL3: [516, 522]
-  TM7: [523, 546]
-  H8: [547, 555]
-  C-term: [556, 557]
+- name: 0HK
+  pubchemId: '5487427'
+  role: Antagonist
+  type: Small molecule
 bulges:
   TM2: [2x551]
   TM5: [5x461]
 constrictions:
   TM7: [7x44]
+auxiliary_protein: T4-Lysozyme
+signaling_protein: None
+representative: true
+segments:
+  TM1: [64, 95]
+  ICL1: [96, 100]
+  TM2: [101, 130]
+  ECL1: [133, 135]
+  TM3: [137, 171]
+  ICL2: [173, 180]
+  TM4: [181, 205]
+  ECL2: [220, 222]
+  TM5: [228, 259]
+  TM6: [483, 516]
+  TM7: [522, 547]
+  H8: [548, 558]
+segments_in_structure:
+  TM1: [64, 0]
+coordinates:
+  N-term: Absent
+  TM1: Partial
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Full
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Full
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Fusion
+  TM6: Fusion
+  ECL3: Native
+  TM7: Native
+  H8: Native

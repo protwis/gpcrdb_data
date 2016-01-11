@@ -1,53 +1,48 @@
-construct: 4l6r
-pdb: 4L6R
+construct: 3dqb
+pdb: 3DQB
 preferred_chain: A
 state: Inactive
-endogenous_ligand:
-- iupharId: 1136
-  name: Glucagon
-  type: Peptide
 ligand:
 - name: None
   pubchemId: None
   role: .nan
   type: None
-bulges: ''
-constrictions:
-  TM7: [7x44]
-auxiliary_protein: BRIL
-signaling_protein: None
+auxiliary_protein: None
+signaling_protein: B-arrestin
 representative: true
 segments:
-  TM1: [139, 164]
-  TM2: [172, 198]
-  TM3: [217, 255]
-  TM4: [265, 290]
-  ECL2: [294, 296]
-  TM5: [300, 335]
-  TM6: [343, 367]
-  TM7: [375, 403]
+  TM1: [34, 65]
+  ICL1: [66, 70]
+  TM2: [71, 100]
+  ECL1: [100, 102]
+  TM3: [107, 140]
+  ICL2: [142, 149]
+  ECL2: [187, 189]
+  TM5: [200, 237]
+  TM6: [241, 278]
+  TM7: [286, 310]
+  H8: [311, 322]
 segments_in_structure:
-  TM1: [125, 0]
-  TM4: [267, 0]
+  ICL2: [0, 149]
 coordinates:
-  N-term: Absent
+  N-term: Partial
   TM1: Full
   ICL1: Full
   TM2: Full
-  ECL1: Partial
+  ECL1: Full
   TM3: Full
   ICL2: Full
-  TM4: Distorted
+  TM4: Full
   ECL2: Full
   TM5: Full
   ICL3: Full
-  TM6: Distorted
-  ECL3: Distorted
+  TM6: Full
+  ECL3: Full
   TM7: Full
   H8: Full
 engineering:
   N-term: Fusion
-  TM1: Fusion
+  TM1: Native
   ICL1: Native
   TM2: Native
   ECL1: Native

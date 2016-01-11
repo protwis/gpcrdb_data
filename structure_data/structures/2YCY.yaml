@@ -1,6 +1,6 @@
 construct: 2ycy
 pdb: 2YCY
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A
 state: Inactive

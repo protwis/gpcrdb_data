@@ -1,30 +1,63 @@
 construct: 4oo9
 pdb: 4OO9
-representative: true
-g_protein: None
-auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1369, name: L-glutamic acid, type: Small molecule}
+- iupharId: 1369
+  name: L-glutamic acid
+  type: Small molecule
 ligand:
-- {name: 2U8, pubchemId: '9926832', role: NAM, type: Small molecule}
-segments:
-  N-term: [568, 578]
-  TM1: [579, 604]
-  ICL1: [605, 615]
-  TM2: [616, 636]
-  ECL1: [637, 643]
-  TM3: [644, 677]
-  ICL2: [678, 688]
-  TM4: [689, 713]
-  ECL2: [714, 737]
-  TM5: [738, 760]
-  ICL3: [761, 771]
-  TM6: [772, 794]
-  ECL3: [794, 799]
-  TM7: [800, 826]
-  C-term: [827, 832]
+- name: 2U8
+  pubchemId: '9926832'
+  role: NAM
+  type: Small molecule
 bulges:
   TM7: [7x531]
 constrictions: ''
+auxiliary_protein: T4-Lysozyme
+signaling_protein: None
+representative: true
+segments:
+  TM1: [578, 604]
+  TM2: [615, 636]
+  TM3: [641, 673]
+  ICL2: [676, 683]
+  TM4: [690, 715]
+  ECL2: [733, 735]
+  TM5: [737, 761]
+  TM6: [770, 794]
+  TM7: [798, 828]
+segments_in_structure:
+  TM3: [0, 678]
+coordinates:
+  N-term: Partial
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Absent
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Full
+  TM7: Full
+  H8: Absent
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Fusion
+  ICL2: Fusion
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Truncation
+  TM6: Native
+  ECL3: Native
+  TM7: Native
+  H8: Native

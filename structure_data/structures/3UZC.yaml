@@ -1,6 +1,6 @@
 construct: 3uzc
 pdb: 3UZC
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A
 state: Inactive

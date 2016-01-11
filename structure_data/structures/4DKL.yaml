@@ -1,39 +1,87 @@
 construct: 4dkl
 pdb: 4DKL
-representative: true
-g_protein: None
-auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1643, name: endorphin, type: Peptide}
-- {iupharId: 1620, name: dynorphin A, type: Peptide}
-- {iupharId: 1622, name: dynorphin B, type: Peptide}
-- {iupharId: 1623, name: endomorphin-1, type: Peptide}
-- {iupharId: 1613, name: leo-enkephalin, type: Peptide}
-- {iupharId: 1614, name: met-enkephalin, type: Peptide}
-- {iupharId: 1643, name: endorphin, type: Peptide}
+- iupharId: 1643
+  name: endorphin
+  type: Peptide
+- iupharId: 1620
+  name: dynorphin A
+  type: Peptide
+- iupharId: 1622
+  name: dynorphin B
+  type: Peptide
+- iupharId: 1623
+  name: endomorphin-1
+  type: Peptide
+- iupharId: 1613
+  name: leo-enkephalin
+  type: Peptide
+- iupharId: 1614
+  name: met-enkephalin
+  type: Peptide
+- iupharId: 1643
+  name: endorphin
+  type: Peptide
 ligand:
-- {name: BF0, pubchemId: None, role: Antagonist, type: Small molecule}
-segments:
-  N-term: [1, 65]
-  TM1: [66, 95]
-  ICL1: [96, 101]
-  TM2: [102, 130]
-  ECL1: [131, 137]
-  TM3: [138, 170]
-  ICL2: [171, 181]
-  TM4: [182, 204]
-  ECL2: [205, 225]
-  TM5: [226, 258]
-  ICL3: [259, 272]
-  TM6: [273, 305]
-  ECL3: [306, 311]
-  TM7: [312, 339]
-  H8: [340, 351]
-  C-term: [352, 398]
+- name: BF0
+  pubchemId: None
+  role: Antagonist
+  type: Small molecule
 bulges:
   TM5: [5x461]
 constrictions:
-  # TM4: [4x55]
   TM7: [7x44]
+auxiliary_protein: T4-Lysozyme
+signaling_protein: None
+representative: true
+segments:
+  TM1: [64, 96]
+  ICL1: [97, 101]
+  TM2: [102, 130]
+  ECL1: [133, 135]
+  TM3: [137, 171]
+  ICL2: [174, 181]
+  TM4: [183, 205]
+  ECL2: [217, 219]
+  TM5: [225, 258]
+  TM6: [269, 306]
+  TM7: [312, 340]
+  H8: [341, 352]
+segments_in_structure:
+  TM1: [66, 0]
+  TM5: [0, 258]
+  TM6: [273, 0]
+coordinates:
+  N-term: Absent
+  TM1: Partial
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Full
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Full
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Fusion
+  TM6: Fusion
+  ECL3: Native
+  TM7: Native
+  H8: Native

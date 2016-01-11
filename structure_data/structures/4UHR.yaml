@@ -1,6 +1,6 @@
 construct: 4uhr
 pdb: 4UHR
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A
 state: Inactive
