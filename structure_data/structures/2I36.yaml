@@ -1,6 +1,6 @@
 construct: 2i36
 pdb: 2I36
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A,B,C
 state: Inactive

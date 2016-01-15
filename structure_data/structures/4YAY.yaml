@@ -1,35 +1,69 @@
 construct: 4yay
 pdb: 4YAY
-representative: true
-g_protein: None
-auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 2504, name: Angiotensin II, type: Peptide}
+- iupharId: 2504
+  name: Angiotensin II
+  type: Peptide
 ligand:
-- {name: ZD7, title: ZD7155, pubchemId: 4673492, role: Antagonist, type: Small molecule}
-segments:
-  N-term: [18, 26]
-  TM1: [27, 55]
-  ICL1: [56, 61]
-  TM2: [62, 89]
-  ECL1: [90, 97]
-  TM3: [98, 131]
-  ICL2: [132, 137]
-  TM4: [138, 164]
-  ECL2_1: [165, 172]
-  ECL2_2: [177, 185]
-  ECL2_3: [190, 194]
-  TM5: [195, 220]
-  ICL3: [221, 224]
-  TM6: [236, 268]
-  ECL3: [269, 273]
-  TM7: [274, 304]
-  H8: [305, 316]
-  C-term: [317, 317]
+- name: ZD7
+  title: ZD7155
+  pubchemId: 4673492
+  role: Antagonist
+  type: Small molecule
 bulges:
   TM5: [5x461]
 constrictions:
   TM4: [4x57]
   TM7: [7x44]
+auxiliary_protein: BRIL
+signaling_protein: None
+representative: true
+segments:
+  TM1: [26, 56]
+  ICL1: [57, 61]
+  TM2: [62, 90]
+  ECL1: [94, 96]
+  TM3: [98, 132]
+  ICL2: [133, 140]
+  TM4: [138, 165]
+  TM5: [191, 221]
+  TM6: [235, 268]
+  TM7: [274, 305]
+  H8: [307, 320]
+segments_in_structure:
+  TM5: [191, 0]
+  TM6: [235, 0]
+coordinates:
+  N-term: Absent
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Distorted
+  TM4: Distorted_End
+  ECL2: Partial
+  TM5: Partial_End
+  ICL3: Partial
+  TM6: Partial
+  ECL3: Full
+  TM7: Full
+  H8: Distorted
+engineering:
+  N-term: Fusion
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Truncation
+  TM6: Native
+  ECL3: Native
+  TM7: Native
+  H8: Native

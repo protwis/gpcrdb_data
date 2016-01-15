@@ -1,6 +1,6 @@
 construct: 4zud
 pdb: 4ZUD
-g_protein: None
+signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive

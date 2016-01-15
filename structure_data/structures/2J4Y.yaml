@@ -1,6 +1,6 @@
 construct: 2j4y
 pdb: 2J4Y
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A,B
 state: Inactive

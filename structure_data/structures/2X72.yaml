@@ -1,6 +1,6 @@
 construct: 2x72
 pdb: 2X72
-g_protein: Gt
+signaling_protein: Gt
 auxiliary_protein: None
 preferred_chain: A
 state: Active

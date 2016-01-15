@@ -1,6 +1,6 @@
 construct: 3kj6
 pdb: 3KJ6
-g_protein: None
+signaling_protein: None
 auxiliary_protein: Antibody
 preferred_chain: A
 state: Inactive

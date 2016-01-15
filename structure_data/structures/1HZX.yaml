@@ -1,6 +1,6 @@
 construct: 1hzx
 pdb: 1HZX
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A,B
 state: Inactive

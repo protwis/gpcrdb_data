@@ -1,6 +1,6 @@
 construct: 4z36
 pdb: 4Z36
-g_protein: None
+signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive

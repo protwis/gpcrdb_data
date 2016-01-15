@@ -1,30 +1,64 @@
 construct: 4z35
 pdb: 4Z35
-representative: true
-g_protein: None
-auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 2906, name: LPA, type: Lipid}
+- iupharId: 2906
+  name: LPA
+  type: Lipid
 ligand:
-- {name: ON9, title: ONO-9910539, pubchemId: 11785732, role: Antagonist, type: Small molecule}
-segments:
-  N-term: [23, 46]
-  TM1: [47, 76]
-  ICL1: [77, 84]
-  TM2: [85, 108]
-  ECL1: [109, 118]
-  TM3: [119, 150]
-  ICL2: [151, 157]
-  TM4: [158, 184]
-  ECL2: [185, 203]
-  TM5: [204, 232]
-  TM6: [249, 283]
-  ECL3: [284, 292]
-  TM7: [293, 314]
-  H8: [315, 323]
-  C-term: [324, 327]
+- name: ON9
+  title: ONO-9910539
+  pubchemId: 11785732
+  role: Antagonist
+  type: Small molecule
 bulges: ''
 constrictions:
   TM7: [7x44]
+auxiliary_protein: BRIL
+signaling_protein: None
+representative: true
+segments:
+  TM1: [47, 77]
+  ICL1: [78, 82]
+  TM2: [83, 108]
+  TM3: [118, 152]
+  ICL2: [153, 156]
+  TM4: [158, 184]
+  TM5: [204, 232]
+  TM6: [247, 284]
+  TM7: [293, 315]
+  H8: [316, 327]
+segments_in_structure: {}
+coordinates:
+  N-term: Partial
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Distorted
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Partial
+  TM6: Full
+  ECL3: Full
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Fusion
+  ICL3: Fusion
+  TM6: Fusion
+  ECL3: Native
+  TM7: Native
+  H8: Native

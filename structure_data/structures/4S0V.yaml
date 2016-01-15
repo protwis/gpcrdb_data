@@ -1,35 +1,72 @@
 construct: 4s0v
 pdb: 4S0V
-representative: true
-g_protein: None
-auxiliary_protein: PGS
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1697, name: Orexin-A, type: Peptide}
-- {iupharId: 1699, name: Orexin-B, type: Peptide}
+- iupharId: 1697
+  name: Orexin-A
+  type: Peptide
+- iupharId: 1699
+  name: Orexin-B
+  type: Peptide
 ligand:
-- {name: SUV, pubchemId: '24965990', role: Antagonist, type: Small molecule}
-segments:
-  N-term: [50, 53]
-  TM1: [54, 80]
-  ICL1: [81, 89]
-  TM2: [90, 117]
-  ECL1: [118, 123]
-  TM3: [124, 157]
-  ICL2: [158, 165]
-  TM4: [166, 189]
-  ECL2: [190, 217]
-  TM5: [218, 252]
-  ICL3: [253, 254]
-  TM6: [294, 329]
-  ECL3: [330, 339]
-  TM7: [340, 367]
-  H8: [368, 379]
-  C-term: [380, 381]
+- name: SUV
+  pubchemId: '24965990'
+  role: Antagonist
+  type: Small molecule
 bulges:
   TM2: [2x551]
   TM5: [5x461]
 constrictions:
   TM4: [4x58]
   TM7: [7x44]
+auxiliary_protein: PGS
+signaling_protein: None
+representative: true
+segments:
+  TM1: [51, 82]
+  ICL1: [83, 87]
+  TM2: [88, 117]
+  ECL1: [120, 122]
+  TM3: [124, 158]
+  ICL2: [159, 166]
+  TM4: [166, 189]
+  ECL2: [210, 212]
+  TM5: [217, 250]
+  TM6: [293, 330]
+  TM7: [339, 368]
+  H8: [369, 379]
+segments_in_structure:
+  TM1: [54, 0]
+coordinates:
+  N-term: Absent
+  TM1: Partial
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Absent
+  TM4: Full
+  ECL2: Partial
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Partial
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Fusion
+  TM6: Fusion
+  ECL3: Native
+  TM7: Native
+  H8: Native

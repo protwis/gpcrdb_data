@@ -1,6 +1,6 @@
 construct: 4mqt
 pdb: 4MQT
-g_protein: Nanobody
+signaling_protein: Nanobody
 auxiliary_protein: None
 preferred_chain: A
 state: Active

@@ -1,6 +1,6 @@
 construct: 2ped
 pdb: 2PED
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A,B
 state: Inactive

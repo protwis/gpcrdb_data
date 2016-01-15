@@ -1,25 +1,58 @@
 construct: 3dqb
 pdb: 3DQB
-g_protein: Gt
-auxiliary_protein: None
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: None, pubchemId: None, role: .nan, type: None}
+- name: None
+  pubchemId: None
+  role: .nan
+  type: None
+auxiliary_protein: None
+signaling_protein: GalphaCT
+representative: true
 segments:
-  N-term: [1, 34]
-  TM1: [35, 64]
-  ICL1: [65, 70]
-  TM2: [71, 99]
-  ECL1: [100, 107]
-  TM3: [108, 140]
-  ICL2: [141, 151]
-  TM4: [152, 172]
-  ECL2: [173, 195]
-  TM5: [196, 229]
-  ICL3: [230, 244]
-  TM6: [245, 277]
-  ECL3: [278, 281]
-  TM7: [282, 309]
-  H8: [310, 321]
-  C-term: [322, 348]
+  TM1: [34, 65]
+  ICL1: [66, 70]
+  TM2: [71, 100]
+  ECL1: [100, 102]
+  TM3: [107, 140]
+  ICL2: [142, 149]
+  ECL2: [187, 189]
+  TM5: [200, 237]
+  TM6: [241, 278]
+  TM7: [286, 310]
+  H8: [311, 322]
+segments_in_structure:
+  ICL2: [0, 142]
+coordinates:
+  N-term: Partial
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Distorted
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Full
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Truncation
+  TM6: Native
+  ECL3: Native
+  TM7: Native
+  H8: Native

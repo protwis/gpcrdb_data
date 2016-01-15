@@ -1,6 +1,6 @@
 construct: 2y00
 pdb: 2Y00
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: B
 state: Inactive

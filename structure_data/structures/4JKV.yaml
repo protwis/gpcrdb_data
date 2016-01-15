@@ -1,31 +1,61 @@
 construct: 4jkv
 pdb: 4JKV
-representative: true
-g_protein: None
-auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {name: constitutive, type: Constitutive}
+- name: constitutive
+  type: Constitutive
 ligand:
-- {name: 1KS, pubchemId: 49848070, role: Antagonist, type: Small molecule}
-segments:
-  N-term: [1, 223]
-  TM1: [224, 254]
-  ICL1: [255, 265]
-  TM2: [266, 282]
-  ECL1: [283, 312]
-  TM3: [313, 345]
-  ICL2: [346, 360]
-  TM4: [361, 378]
-  ECL2: [379, 396]
-  TM5: [397, 432]
-  ICL3: [433, 442]
-  TM6: [443, 475]
-  ECL3: [476, 514]
-  TM7: [515, 536]
-  H8: [537, 548]
-  C-term: [549, 550]
+- name: 1KS
+  pubchemId: 49848070
+  role: Antagonist
+  type: Small molecule
 bulges:
   TM5: [5x461]
 constrictions: ''
+auxiliary_protein: BRIL
+signaling_protein: None
+representative: true
+segments:
+  TM1: [224, 255]
+  TM2: [263, 285]
+  TM3: [312, 347]
+  TM4: [353, 378]
+  ECL2: [390, 392]
+  TM5: [397, 433]
+  TM6: [443, 493]
+  TM7: [515, 536]
+segments_in_structure:
+  TM4: [360, 0]
+coordinates:
+  N-term: Absent
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Partial
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Partial
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Fusion
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Truncation
+  TM6: Native
+  ECL3: Native
+  TM7: Native
+  H8: Native

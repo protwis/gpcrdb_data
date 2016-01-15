@@ -1,6 +1,6 @@
 construct: 4rwd
 pdb: 4RWD
-g_protein: None
+signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A,B
 state: Inactive

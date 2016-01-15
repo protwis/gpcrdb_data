@@ -1,32 +1,67 @@
 construct: 4pxz
 pdb: 4PXZ
-representative: true
-g_protein: None
-auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1712, name: adenosine diphosphate, type: Small molecule}
+- iupharId: 1712
+  name: adenosine diphosphate
+  type: Small molecule
 ligand:
-- {name: 6AD, pubchemId: '121990', role: Agonist, type: Small molecule}
-segments:
-  N-term: [15, 22]
-  TM1: [23, 50]
-  ICL1: [51, 57]
-  TM2: [58, 84]
-  ECL1: [85, 91]
-  TM3: [92, 127]
-  ICL2: [128, 136]
-  TM4: [137, 162]
-  ECL2: [163, 180]
-  TM5: [181, 222]
-  ICL3: [223, 234]
-  TM6: [235, 263]
-  ECL3: [264, 269]
-  TM7: [270, 300]
-  C-term: [301, 305]
+- name: 6AD
+  pubchemId: '121990'
+  role: Agonist
+  type: Small molecule
 bulges:
   TM6: [6x451]
 constrictions:
   TM4: [4x59]
   TM7: [7x44]
+auxiliary_protein: BRIL
+signaling_protein: None
+representative: true
+segments:
+  TM1: [23, 51]
+  ICL1: [57, 58]
+  TM2: [58, 85]
+  TM3: [91, 127]
+  ICL2: [129, 136]
+  TM4: [135, 162]
+  ECL2: [175, 177]
+  TM5: [181, 216]
+  TM7: [270, 302]
+segments_in_structure:
+  ICL2: [0, 129]
+  TM4: [136, 0]
+  TM7: [0, 298]
+coordinates:
+  N-term: Partial
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Absent
+  TM4: Partial
+  ECL2: Full
+  TM5: Full
+  ICL3: Full
+  TM6: Distorted
+  ECL3: Full
+  TM7: Full
+  H8: Absent
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Fusion
+  ICL3: Fusion
+  TM6: Fusion
+  ECL3: Native
+  TM7: Native
+  H8: Native

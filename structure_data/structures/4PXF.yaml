@@ -1,6 +1,6 @@
 construct: 4pxf
 pdb: 4PXF
-g_protein: Arrestin
+signaling_protein: Arrestin
 auxiliary_protein: None
 preferred_chain: A
 state: Inactive

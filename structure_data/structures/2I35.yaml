@@ -1,6 +1,6 @@
 construct: 2i35
 pdb: 2I35
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A
 state: Inactive

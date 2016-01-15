@@ -1,7 +1,6 @@
 construct: 4mqs
 pdb: 4MQS
-representative: true
-g_protein: Nanobody
+signaling_protein: Nanobody
 auxiliary_protein: None
 preferred_chain: A
 state: Active

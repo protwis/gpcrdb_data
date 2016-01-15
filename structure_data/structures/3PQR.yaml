@@ -1,7 +1,6 @@
 construct: 3pqr
 pdb: 3PQR
-representative: true
-g_protein: Gt
+signaling_protein: Gt
 auxiliary_protein: None
 preferred_chain: A
 state: Active

@@ -1,6 +1,6 @@
 construct: 4j4q
 pdb: 4J4Q
-g_protein: Gt
+signaling_protein: Gt
 auxiliary_protein: Octylglucoside
 preferred_chain: A
 state: Inactive

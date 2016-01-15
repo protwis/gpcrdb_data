@@ -1,7 +1,6 @@
 construct: 2rh1
 pdb: 2RH1
-representative: true
-g_protein: None
+signaling_protein: None
 auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Inactive

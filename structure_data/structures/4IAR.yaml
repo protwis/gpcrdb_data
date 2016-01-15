@@ -1,33 +1,69 @@
 construct: 4iar
 pdb: 4IAR
-representative: true
-g_protein: None
-auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 5, name: Serotonin, type: Small molecule}
+- iupharId: 5
+  name: Serotonin
+  type: Small molecule
 ligand:
-- {name: ERM, pubchemId: '8223', role: Agonist, type: Small molecule}
-segments:
-  N-term: [1, 45]
-  TM1: [46, 76]
-  ICL1: [77, 83]
-  TM2: [84, 112]
-  ECL1: [113, 118]
-  TM3: [119, 152]
-  ICL2: [153, 163]
-  TM4: [164, 181]
-  ECL2: [182, 205]
-  TM5: [206, 237]
-  ICL3: [238, 310]
-  TM6: [311, 336]
-  ECL3: [337, 348]
-  TM7: [349, 372]
-  H8: [373, 383]
-  C-term: [384, 390]
+- name: ERM
+  pubchemId: '8223'
+  role: Agonist
+  type: Small molecule
 bulges:
   TM2: [2x551]
   TM5: [5x461]
 constrictions:
   TM7: [7x44]
+auxiliary_protein: BRIL
+signaling_protein: None
+representative: true
+segments:
+  TM1: [46, 77]
+  ICL1: [78, 82]
+  TM2: [83, 112]
+  ECL1: [115, 117]
+  TM3: [119, 153]
+  ICL2: [154, 161]
+  TM4: [163, 184]
+  ECL2: [199, 201]
+  TM5: [206, 237]
+  TM6: [307, 337]
+  TM7: [348, 373]
+  H8: [374, 384]
+segments_in_structure:
+  TM4: [0, 184]
+  TM6: [310, 0]
+coordinates:
+  N-term: Partial
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Full
+  TM4: Partial
+  ECL2: Partial
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Partial
+  TM7: Full
+  H8: Full
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Fusion
+  ICL3: Fusion
+  TM6: Fusion
+  ECL3: Native
+  TM7: Native
+  H8: Native

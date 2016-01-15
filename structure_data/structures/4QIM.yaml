@@ -1,6 +1,6 @@
 construct: 4qim
 pdb: 4QIM
-g_protein: None
+signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive

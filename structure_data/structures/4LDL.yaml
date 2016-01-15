@@ -1,6 +1,6 @@
 construct: 4ldl
 pdb: 4LDL
-g_protein: Nanobody
+signaling_protein: Nanobody
 auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Active

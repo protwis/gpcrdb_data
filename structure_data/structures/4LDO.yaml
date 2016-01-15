@@ -1,6 +1,6 @@
 construct: 4ldo
 pdb: 4LDO
-g_protein: Nanobody
+signaling_protein: Nanobody
 auxiliary_protein: T4-Lysozyme
 preferred_chain: A
 state: Active

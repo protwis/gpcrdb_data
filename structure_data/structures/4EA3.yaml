@@ -1,32 +1,67 @@
 construct: 4ea3
 pdb: 4EA3
-representative: true
-g_protein: None
-auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- {iupharId: 1681, name: nociceptin/orphanin FQ, type: Peptide}
+- iupharId: 1681
+  name: nociceptin/orphanin FQ
+  type: Peptide
 ligand:
-- {name: 0NN, title: C-24, pubchemId: 10296561, role: Antagonist, type: Small molecule}
-segments:
-  N-term: [1, 48]
-  TM1: [49, 77]
-  ICL1: [78, 84]
-  TM2: [85, 113]
-  ECL1: [114, 118]
-  TM3: [119, 153]
-  ICL2: [154, 163]
-  TM4: [164, 187]
-  ECL2: [188, 209]
-  TM5: [210, 242]
-  ICL3: [243, 254]
-  TM6: [255, 287]
-  ECL3: [288, 294]
-  TM7: [295, 322]
-  H8: [323, 333]
-  C-term: [334, 370]
+- name: 0NN
+  title: C-24
+  pubchemId: 10296561
+  role: Antagonist
+  type: Small molecule
 bulges:
   TM5: [5x461]
 constrictions:
   TM7: [7x44]
+auxiliary_protein: BRIL
+signaling_protein: None
+representative: true
+segments:
+  TM1: [48, 79]
+  ICL1: [80, 84]
+  TM2: [85, 113]
+  ECL1: [116, 118]
+  TM3: [106, 154]
+  ICL2: [155, 162]
+  TM4: [164, 188]
+  ECL2: [200, 202]
+  TM5: [208, 242]
+  TM6: [252, 288]
+  TM7: [295, 323]
+  H8: [324, 335]
+segments_in_structure: {}
+coordinates:
+  N-term: Absent
+  TM1: Full
+  ICL1: Full
+  TM2: Full
+  ECL1: Full
+  TM3: Full
+  ICL2: Absent
+  TM4: Full
+  ECL2: Full
+  TM5: Full
+  ICL3: Full
+  TM6: Full
+  ECL3: Full
+  TM7: Full
+  H8: Partial
+engineering:
+  N-term: Truncated
+  TM1: Native
+  ICL1: Native
+  TM2: Native
+  ECL1: Native
+  TM3: Native
+  ICL2: Native
+  TM4: Native
+  ECL2: Native
+  TM5: Native
+  ICL3: Truncation
+  TM6: Native
+  ECL3: Native
+  TM7: Native
+  H8: Native

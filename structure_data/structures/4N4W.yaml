@@ -1,6 +1,6 @@
 construct: 4n4w
 pdb: 4N4W
-g_protein: None
+signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A
 state: Inactive

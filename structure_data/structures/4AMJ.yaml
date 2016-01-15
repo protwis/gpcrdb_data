@@ -1,6 +1,6 @@
 construct: 4amj
 pdb: 4AMJ
-g_protein: None
+signaling_protein: None
 auxiliary_protein: None
 preferred_chain: B
 state: Inactive
