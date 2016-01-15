@@ -8,6 +8,7 @@ state: Inactive
 endogenous_ligand:
 - {iupharId: 1369, name: L-glutamic acid, type: Small molecule}
 ligand:
+- {name: FM9, title: FITM, pubchemId: 16660135, role: NAM, type: Small molecule}
 segments:
   N-term: [581, 590]
   TM1: [591, 617]
