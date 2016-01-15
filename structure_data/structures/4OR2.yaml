@@ -6,7 +6,8 @@ endogenous_ligand:
 - iupharId: 1369
   name: L-glutamic acid
   type: Small molecule
-ligand: null
+ligand:
+- {name: FM9, title: FITM, pubchemId: 16660135, role: NAM, type: Small molecule}
 bulges:
   TM7: [7x531]
 constrictions: ''
