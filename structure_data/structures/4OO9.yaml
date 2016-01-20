@@ -19,9 +19,9 @@ signaling_protein: None
 representative: true
 segments:
   TM1: [578, 604]
+  ICL1: [607, 611]
   TM2: [615, 636]
   TM3: [641, 673]
-  ICL2: [676, 683]
   TM4: [690, 715]
   ECL2: [733, 735]
   TM5: [737, 761]
@@ -38,7 +38,7 @@ coordinates:
   TM3: Full
   ICL2: Absent
   TM4: Full
-  ECL2: Full
+  ECL2: Partial
   TM5: Full
   ICL3: Full
   TM6: Full
@@ -51,13 +51,13 @@ engineering:
   ICL1: Native
   TM2: Native
   ECL1: Native
-  TM3: Fusion
+  TM3: Native
   ICL2: Fusion
   TM4: Native
   ECL2: Native
   TM5: Native
-  ICL3: Truncation
+  ICL3: Native
   TM6: Native
   ECL3: Native
   TM7: Native
-  H8: Native
+  H8: Fusion
