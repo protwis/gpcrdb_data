@@ -16,9 +16,9 @@ signaling_protein: None
 representative: true
 segments:
   TM1: [591, 617]
+  ICL1: [620, 624]
   TM2: [628, 649]
   TM3: [654, 686]
-  ICL2: [689, 696]
   TM4: [703, 728]
   ECL2: [746, 748]
   TM5: [750, 774]
@@ -48,11 +48,11 @@ engineering:
   TM2: Native
   ECL1: Native
   TM3: Native
-  ICL2: Truncated
+  ICL2: Native
   TM4: Native
   ECL2: Native
   TM5: Native
-  ICL3: Truncation
+  ICL3: Native
   TM6: Native
   ECL3: Native
   TM7: Native
