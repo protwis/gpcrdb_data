@@ -18,11 +18,11 @@ and preferably also by mentioning: “We acknowledge the use of the GPCRdb datab
 Informal
 --------
 
-The complete GPCRdb source code is freely available on `Bitbucket`_ under the `Apache 2.0 license`_. This means that
+The complete GPCRdb source code is freely available on `GitHub`_ under the `Apache 2.0 license`_. This means that
 the code can be used, modified and distributed for any use (including commercial use), as long as the original license
 and copyright notice are included with the code, and any significant changes stated.
 
-.. _Bitbucket: https://bitbucket.org/gpcr/protwis
+.. _GitHub: https://github.com/protwis/protwis
 .. _Apache 2.0 license: http://www.apache.org/licenses/LICENSE-2.0.html
 
 The data in GPCRdb is freely available under the `Creative Commons Attribution 4.0 International license`_. This means

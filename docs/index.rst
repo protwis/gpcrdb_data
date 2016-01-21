@@ -8,11 +8,11 @@ relationships (phylogenetic trees). Reference (crystal) structure-based sequence
 bulges and constrictions, display statistics of amino acid conservation and have been assigned generic
 residue numbering for equivalent residues in different receptors
 
-The `source code`_ and `source data`_ are freely available on `Bitbucket`_.
+The `source code`_ and `source data`_ are freely available on `GitHub`_.
 
-.. _source code: http://bitbucket.org/gpcr/protwis.git
-.. _source data: http://bitbucket.org/gpcr/gpcrdb_data.git
-.. _Bitbucket: http://bitbucket.org
+.. _source code: https://github.com/protwis/protwis
+.. _source data: https://github.com/protwis/gpcrdb_data
+.. GitHub: http://github.com
 
 The documentation in organized into four sections:
 

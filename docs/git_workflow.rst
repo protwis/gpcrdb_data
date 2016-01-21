@@ -33,7 +33,7 @@ Configuring the upstream repository
 The upstream repo is currently not connected to your local repo. To connect it, type the following on you local command
 line (from the repo root dir)::
 
-    git remote add upstream https://bitbucket.org/gpcr/protwis.git
+    git remote add upstream https://github.com/protwis/protwis.git
 
 Workflow
 --------
@@ -89,7 +89,7 @@ If this happens, open the conflicted file (Git will tell you which file is confl
 displayed as two versions of the conflicted code block, one marked "HEAD", and one marked "master". There may be more
 than one conflict in the same file. Edit the file manually to resolve the conflict(s) (i.e. remove one of the versions,
 or combine them). Then add the file to the index, and continue the rebase::
-    
+
     git add path/to/file
     git rebase --continue
 
@@ -110,7 +110,7 @@ Pushing changes to Bitbucket and sending a pull request
 
 After merging your changes into master, you should push them to your fork on Bitbucket (origin) and send a pull request
 (PR) to the main repository::
-    
+
     git push origin master
 
 Then go to the main website of your fork and select the "Create pull request" option in the left menu. The PR should be
