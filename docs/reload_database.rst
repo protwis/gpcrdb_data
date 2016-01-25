@@ -14,6 +14,6 @@ Reload database from dump
     curl http://files.gpcrdb.org/protwis_sp.sql.gz > ~/protwis.sql.gz
     gunzip ~/protwis.sql.gz
 
-* Load the dump [Either from default location or a location of your choosing]::
+* Load the dump (Either from default location or a location of your choosing)::
 
     psql -U protwis -h localhost -o protwis < ~/protwis.sql;
