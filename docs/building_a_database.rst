@@ -19,11 +19,11 @@ Building a local database from source data
 
 * Run migrations::
 
-    /protwis/env/bin/python3 manage.py migrate
+    /env/bin/python3 manage.py migrate
 
 * Start the build process::
 
-    /protwis/env/bin/python3 manage.py build_all -p 4 -t
+    /env/bin/python3 manage.py build_all -p 4 -t
 
 This will build a test version of the database using only the proteins for which a structure has been determined.
 For a full build, remove the -t flag from the build_all command (NOTE: a full build takes a long time, and should not
