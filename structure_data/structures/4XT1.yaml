@@ -12,6 +12,7 @@ ligand:
   pubchemId: None
   role: Agonist
   type: Peptide
+  chain: B
 bulges:
   TM5: [5x461]
 constrictions:
