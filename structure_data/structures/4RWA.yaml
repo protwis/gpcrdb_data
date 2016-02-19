@@ -5,7 +5,7 @@ auxiliary_protein: BRIL
 preferred_chain: A,B
 state: Inactive
 ligand:
-- {name: PRD, title: DIPP-NH2, pubchemId: None, role: Antagonist, type: Peptide-like}
+- {name: PRD, title: DIPP-NH2, pubchemId: None, role: Antagonist, type: Peptide-like, chain: G}
 segments:
   N-term: [1, 41]
   TM1: [42, 76]
