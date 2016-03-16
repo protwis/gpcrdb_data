@@ -36,6 +36,7 @@ segments:
   TM6: [248, 289]
   TM7: [296, 328]
 segments_in_structure:
+  TM6: [253, 0]
   TM7: [0, 327]
 coordinates:
   N-term: Partial
@@ -49,9 +50,9 @@ coordinates:
   ECL2: Full
   TM5: Full
   ICL3: Partial
-  TM6: Full
+  TM6: Partial
   ECL3: Full
-  TM7: Full
+  TM7: Partial
   H8: Absent
 engineering:
   N-term: Truncated

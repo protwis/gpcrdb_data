@@ -27,6 +27,7 @@ segments:
 segments_in_structure:
   TM1: [0, 89]
   TM2: [99, 0]
+  TM6: [300, 0]
 coordinates:
   N-term: Partial
   TM1: Full
