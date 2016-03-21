@@ -35,6 +35,7 @@ segments:
 segments_in_structure:
   TM5: [191, 0]
   TM6: [235, 0]
+  H8: [0, 317]
 coordinates:
   N-term: Absent
   TM1: Full

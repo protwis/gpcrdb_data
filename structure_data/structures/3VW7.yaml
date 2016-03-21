@@ -33,7 +33,7 @@ segments:
   TM7: [347, 375]
 segments_in_structure:
   TM1: [0, 130]
-  TM6: [303, 0]
+  TM6: [305, 0]
 coordinates:
   N-term: Partial
   TM1: Full
