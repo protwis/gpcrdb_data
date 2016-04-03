@@ -28,7 +28,8 @@ segments:
   TM6: [245, 281]
   TM7: [293, 315]
   H8: [316, 327]
-segments_in_structure: {}
+segments_in_structure:
+  TM6: [253, 0]
 coordinates:
   N-term: Partial
   TM1: Full
