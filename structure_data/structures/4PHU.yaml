@@ -34,6 +34,7 @@ segments_in_structure:
   TM1: [0, 36]
   TM4: [121, 0]
   TM5: [0, 211]
+  TM6: [214, 0]
   TM7: [0, 274]
 coordinates:
   N-term: Absent
@@ -47,7 +48,7 @@ coordinates:
   ECL2: Full
   TM5: Full
   ICL3: Full
-  TM6: Full
+  TM6: Partial
   ECL3: Full
   TM7: Partial
   H8: Absent
