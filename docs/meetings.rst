@@ -4,9 +4,12 @@ Meetings with GPCRdb representation
 2016
 ----
 
+*   Apr 6-8,
+    `6th GLISTEN meeting`_ in Erlangen, Germany.
 *   Feb 21-25,
     `G Protein-Coupled Receptors\: Structure, Signaling and Drug Discovery`_ in Keystone, USA.
 
+.. _6th GLISTEN meeting: http://www.grk1910.de/glisten-2016.html
 .. _G Protein-Coupled Receptors\: Structure, Signaling and Drug Discovery: https://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1368
 
 2015
@@ -52,4 +55,8 @@ Meetings with GPCRdb representation
 *   Oct 7-9,
     `1st GLISTEN meeting`_ in Warsaw, Poland.
 
+<<<<<<< .merge_file_DY1J7d
 .. _1st GLISTEN meeting: http://www.biomodellab.eu/1glisten/welcome/
+=======
+.. _1st GLISTEN meeting: http://www.biomodellab.eu/1glisten/welcome/
+>>>>>>> .merge_file_uujUNu

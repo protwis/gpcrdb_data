@@ -7,7 +7,7 @@ state: Inactive
 endogenous_ligand:
 - {iupharId: 1579, name: Neurotensin, type: Peptide}
 ligand:
-- {name: NTS, pubchemId: '44363934', role: Agonist, type: Peptide}
+- {name: NTS, pubchemId: '44363934', role: Agonist, type: Peptide, chain: C}
 segments:
   N-term: [1, 60]
   TM1: [61, 90]

@@ -5,7 +5,7 @@ auxiliary_protein: None
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: NTS, pubchemId: '44363934', role: Agonist, type: Peptide}
+- {name: pep, Title: NTS, pubchemId: '44363934', role: Agonist, type: Peptide, chain: C}
 segments:
   N-term: [1, 60]
   TM1: [61, 88]
