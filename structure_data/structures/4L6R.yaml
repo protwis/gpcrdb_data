@@ -1,5 +1,6 @@
 construct: 4l6r
 pdb: 4L6R
+representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
@@ -11,14 +12,11 @@ ligand:
   pubchemId: None
   role: .nan
   type: None
-bulges: ''
-constrictions:
-  TM7: [7x44]
 auxiliary_protein: BRIL
 signaling_protein: None
-representative: true
 segments:
-  TM1: [139, 164]
+  TM1: [125, 164]
+  ICL1: [166, 170]
   TM2: [172, 198]
   TM3: [217, 255]
   TM4: [265, 290]
@@ -26,38 +24,9 @@ segments:
   TM5: [300, 335]
   TM6: [343, 367]
   TM7: [375, 403]
+  H8: [405, 429]
 segments_in_structure:
-  TM1: [125, 0]
   TM4: [267, 0]
-coordinates:
-  N-term: Absent
-  TM1: Full
-  ICL1: Full
-  TM2: Full
-  ECL1: Partial
-  TM3: Full
-  ICL2: Full
-  TM4: Distorted
-  ECL2: Full
-  TM5: Full
-  ICL3: Full
-  TM6: Distorted
-  ECL3: Distorted
-  TM7: Full
-  H8: Full
-engineering:
-  N-term: Fusion
-  TM1: Fusion
-  ICL1: Native
-  TM2: Native
-  ECL1: Native
-  TM3: Native
-  ICL2: Native
-  TM4: Native
-  ECL2: Native
-  TM5: Native
-  ICL3: Truncation
-  TM6: Native
-  ECL3: Native
-  TM7: Native
-  H8: Native
+constrictions:
+  TM7: [7x44]
+distortion: {}

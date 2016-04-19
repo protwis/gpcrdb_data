@@ -1,5 +1,6 @@
 construct: 4s0v
 pdb: 4S0V
+representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
@@ -14,20 +15,13 @@ ligand:
   pubchemId: '24965990'
   role: Antagonist
   type: Small molecule
-bulges:
-  TM2: [2x551]
-  TM5: [5x461]
-constrictions:
-  TM4: [4x58]
-  TM7: [7x44]
 auxiliary_protein: PGS
 signaling_protein: None
-representative: true
 segments:
   TM1: [51, 82]
-  ICL1: [83, 87]
+  ICL1: [82, 86]
   TM2: [88, 117]
-  ECL1: [120, 122]
+  ECL1: [118, 123]
   TM3: [124, 158]
   ICL2: [159, 166]
   TM4: [166, 189]
@@ -39,35 +33,10 @@ segments:
 segments_in_structure:
   TM1: [54, 0]
   TM6: [294, 0]
-coordinates:
-  N-term: Absent
-  TM1: Partial
-  ICL1: Full
-  TM2: Full
-  ECL1: Full
-  TM3: Full
-  ICL2: Absent
-  TM4: Full
-  ECL2: Partial
-  TM5: Full
-  ICL3: Full
-  TM6: Partial
-  ECL3: Partial
-  TM7: Full
-  H8: Full
-engineering:
-  N-term: Truncated
-  TM1: Native
-  ICL1: Native
-  TM2: Native
-  ECL1: Native
-  TM3: Native
-  ICL2: Native
-  TM4: Native
-  ECL2: Native
-  TM5: Native
-  ICL3: Fusion
-  TM6: Fusion
-  ECL3: Native
-  TM7: Native
-  H8: Native
+bulges:
+  TM2: [2x551]
+  TM5: [5x461]
+constrictions:
+  TM4: [4x58]
+  TM7: [7x44]
+distortion: {}

@@ -1,18 +1,24 @@
-construct: 4grv
-pdb: 4GRV
+construct: 4z35
+pdb: 4Z35
 representative: true
 preferred_chain: A
 state: Inactive
+endogenous_ligand:
+- iupharId: 2906
+  name: LPA
+  type: Lipid
 ligand:
-- name: NTS
-  pubchemId: '44363934'
-  role: Agonist
-  type: Peptide
-auxiliary_protein: T4-Lysozyme
+- name: ON9
+  title: ONO-9910539
+  pubchemId: 11785732
+  role: Antagonist
+  type: Small molecule
+auxiliary_protein: BRIL
 signaling_protein: None
 segments:
   TM1: [61, 92]
   ICL1: [93, 97]
+  TM2: [101, 130]
   ECL1: [133, 138]
   TM3: [139, 173]
   ICL2: [173, 183]
@@ -23,10 +29,11 @@ segments:
   TM7: [340, 373]
   H8: [374, 384]
 segments_in_structure:
-  TM1: [0, 89]
-  TM4: [186, 0]
-  TM6: [302, 0]
+  TM1: [0, 90]
+  TM2: [99, 0]
 constrictions:
+  TM7: [7x44, 7x44]
   TM4: [4x58]
-  TM7: [7x44]
 distortion: {}
+bulges:
+  TM2: [2x551]

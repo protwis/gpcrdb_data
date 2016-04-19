@@ -1,5 +1,6 @@
 construct: 4yay
 pdb: 4YAY
+representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
@@ -12,22 +13,17 @@ ligand:
   pubchemId: 4673492
   role: Antagonist
   type: Small molecule
-bulges:
-  TM5: [5x461]
-constrictions:
-  TM4: [4x57]
-  TM7: [7x44]
 auxiliary_protein: BRIL
 signaling_protein: None
-representative: true
 segments:
   TM1: [26, 56]
-  ICL1: [57, 61]
+  ICL1: [56, 60]
   TM2: [62, 90]
-  ECL1: [94, 96]
+  ECL1: [92, 97]
   TM3: [98, 132]
   ICL2: [133, 140]
   TM4: [138, 165]
+  ECL2: [180, 182]
   TM5: [191, 221]
   TM6: [235, 268]
   TM7: [274, 305]
@@ -36,35 +32,9 @@ segments_in_structure:
   TM5: [191, 0]
   TM6: [235, 0]
   H8: [0, 317]
-coordinates:
-  N-term: Absent
-  TM1: Full
-  ICL1: Full
-  TM2: Full
-  ECL1: Full
-  TM3: Full
-  ICL2: Distorted
-  TM4: Distorted_End
-  ECL2: Partial
-  TM5: Partial_End
-  ICL3: Partial
-  TM6: Partial
-  ECL3: Full
-  TM7: Full
-  H8: Distorted
-engineering:
-  N-term: Fusion
-  TM1: Native
-  ICL1: Native
-  TM2: Native
-  ECL1: Native
-  TM3: Native
-  ICL2: Native
-  TM4: Native
-  ECL2: Native
-  TM5: Native
-  ICL3: Truncation
-  TM6: Native
-  ECL3: Native
-  TM7: Native
-  H8: Native
+constrictions:
+  TM4: [4x57]
+  TM7: [7x44]
+bulges:
+  TM5: [5x461]
+distortion: {}

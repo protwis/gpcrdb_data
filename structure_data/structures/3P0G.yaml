@@ -8,54 +8,26 @@ ligand:
   pubchemId: 49837874
   role: Agonist
   type: Small molecule
-bulges: ''
-constrictions: ''
 auxiliary_protein: T4-Lysozyme
-signaling_protein: Nanobody
+signaling_protein: SignProtMimic_Nanobody
 segments:
   TM1: [29, 61]
-  ICL1: [62, 66]
+  ICL1: [61, 65]
   TM2: [67, 96]
-  ECL1: [99, 101]
+  ECL1: [97, 102]
   TM3: [103, 137]
   ICL2: [138, 145]
   TM4: [147, 171]
   ECL2: [191, 193]
   TM5: [197, 228]
   TM6: [266, 299]
-  TM7: [305, 329]
-  H8: [330, 340]
+  TM7: [304, 329]
+  H8: [331, 341]
 segments_in_structure:
   TM5: [0, 226]
-coordinates:
-  N-term: Absent
-  TM1: Full
-  ICL1: Full
-  TM2: Full
-  ECL1: Full
-  TM3: Full
-  ICL2: Full
-  TM4: Full
-  ECL2: Full
-  TM5: Full
-  ICL3: Absent
-  TM6: Full
-  ECL3: Full
-  TM7: Full
-  H8: Full
-engineering:
-  N-term: Truncated
-  TM1: Native
-  ICL1: Native
-  TM2: Native
-  ECL1: Native
-  TM3: Native
-  ICL2: Native
-  TM4: Native
-  ECL2: Native
-  TM5: Native
-  ICL3: Truncation
-  TM6: Native
-  ECL3: Native
-  TM7: Native
-  H8: Native
+bulges:
+  TM2: [2x551]
+  TM5: [5x461]
+constrictions:
+  TM7: [7x44]
+distortion: {}

@@ -1,5 +1,6 @@
 construct: 4or2
 pdb: 4OR2
+representative: true
 preferred_chain: A,B
 state: Inactive
 endogenous_ligand:
@@ -7,53 +8,26 @@ endogenous_ligand:
   name: L-glutamic acid
   type: Small molecule
 ligand:
-- {name: FM9, title: FITM, pubchemId: 16660135, role: NAM, type: Small molecule}
-bulges:
-  TM7: [7x531]
-constrictions: ''
+- name: FM9
+  title: FITM
+  pubchemId: 16660135
+  role: NAM
+  type: Small molecule
 auxiliary_protein: BRIL
 signaling_protein: None
-representative: true
 segments:
   TM1: [591, 617]
-  ICL1: [620, 624]
+  ICL1: [617, 621]
   TM2: [628, 649]
   TM3: [654, 686]
+  ICL2: [689, 696]
   TM4: [703, 728]
   ECL2: [746, 748]
   TM5: [750, 774]
   TM6: [783, 807]
   TM7: [811, 841]
+  H8: [844, 855]
 segments_in_structure: {}
-coordinates:
-  N-term: Absent
-  TM1: Full
-  ICL1: Full
-  TM2: Full
-  ECL1: Full
-  TM3: Full
-  ICL2: Absent
-  TM4: Full
-  ECL2: Full
-  TM5: Full
-  ICL3: Full
-  TM6: Full
-  ECL3: Full
-  TM7: Full
-  H8: Absent
-engineering:
-  N-term: Fusion
-  TM1: Native
-  ICL1: Native
-  TM2: Native
-  ECL1: Native
-  TM3: Native
-  ICL2: Native
-  TM4: Native
-  ECL2: Native
-  TM5: Native
-  ICL3: Native
-  TM6: Native
-  ECL3: Native
-  TM7: Native
-  H8: Native
+bulges:
+  TM7: [7x531]
+distortion: {}

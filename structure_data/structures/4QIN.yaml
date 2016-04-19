@@ -1,5 +1,6 @@
 construct: 4qin
 pdb: 4QIN
+representative: true
 preferred_chain: A
 state: Inactive
 ligand:
@@ -8,13 +9,11 @@ ligand:
   pubchemdId: 44195701
   role: Agonist
   type: Small molecule
-bulges: ''
-constrictions: ''
 auxiliary_protein: BRIL
 signaling_protein: None
-representative: true
 segments:
   TM1: [224, 255]
+  ICL1: [256, 260]
   TM2: [263, 285]
   TM3: [312, 347]
   TM4: [353, 378]
@@ -22,36 +21,8 @@ segments:
   TM5: [397, 433]
   TM6: [443, 493]
   TM7: [515, 536]
+  H8: [539, 551]
 segments_in_structure: {}
-coordinates:
-  N-term: Partial
-  TM1: Full
-  ICL1: Full
-  TM2: Full
-  ECL1: Full
-  TM3: Full
-  ICL2: Distorted
-  TM4: Full
-  ECL2: Full
-  TM5: Full
-  ICL3: Full
-  TM6: Full
-  ECL3: Partial
-  TM7: Full
-  H8: Full
-engineering:
-  N-term: Truncated
-  TM1: Native
-  ICL1: Native
-  TM2: Native
-  ECL1: Native
-  TM3: Native
-  ICL2: Native
-  TM4: Native
-  ECL2: Native
-  TM5: Fusion
-  ICL3: Fusion
-  TM6: Native
-  ECL3: Native
-  TM7: Native
-  H8: Native
+bulges:
+  TM5: [5x461]
+distortion: {}

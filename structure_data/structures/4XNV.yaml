@@ -1,5 +1,6 @@
 construct: 4xnv
 pdb: 4XNV
+representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
@@ -15,58 +16,27 @@ ligand:
   pubchemId: 11510579
   role: Antagonist
   type: Small molecule
-bulges:
-  TM5: [5x461]
-  TM6: [6x451]
-constrictions:
-  TM4: [4x58]
-  TM7: [7x44]
 auxiliary_protein: Rubredoxin
 signaling_protein: None
-representative: true
 segments:
   TM1: [49, 79]
-  ICL1: [83, 84]
+  ICL1: [82, 83]
   TM2: [85, 112]
-  ECL1: [117, 119]
+  ECL1: [115, 120]
   TM3: [121, 155]
   TM4: [161, 189]
   ECL2: [202, 204]
   TM5: [211, 244]
   TM6: [248, 289]
   TM7: [296, 328]
+  H8: [329, 340]
 segments_in_structure:
   TM6: [253, 0]
   TM7: [0, 327]
-coordinates:
-  N-term: Partial
-  TM1: Full
-  ICL1: Full
-  TM2: Full
-  ECL1: Full
-  TM3: Full
-  ICL2: Absent
-  TM4: Full
-  ECL2: Full
-  TM5: Full
-  ICL3: Partial
-  TM6: Partial
-  ECL3: Full
-  TM7: Partial
-  H8: Absent
-engineering:
-  N-term: Truncated
-  TM1: Native
-  ICL1: Native
-  TM2: Native
-  ECL1: Native
-  TM3: Native
-  ICL2: Native
-  TM4: Native
-  ECL2: Native
-  TM5: Native
-  ICL3: Fusion
-  TM6: Fusion
-  ECL3: Native
-  TM7: Native
-  H8: Native
+constrictions:
+  TM4: [4x58]
+  TM7: [7x44]
+bulges:
+  TM5: [5x461]
+  TM6: [6x451]
+distortion: {}

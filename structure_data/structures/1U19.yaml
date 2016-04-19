@@ -1,5 +1,6 @@
 construct: 1u19
 pdb: 1U19
+representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
@@ -11,19 +12,13 @@ ligand:
   pubchemId: '638015'
   role: Inverse agonist
   type: Small molecule
-bulges:
-  TM2: [2x551]
-  TM5: [5x461]
-constrictions:
-  TM7: [7x44]
 auxiliary_protein: None
 signaling_protein: None
-representative: true
 segments:
   TM1: [34, 65]
   ICL1: [66, 70]
   TM2: [71, 100]
-  ECL1: [100, 102]
+  ECL1: [101, 106]
   TM3: [107, 140]
   ICL2: [142, 149]
   TM4: [150, 173]
@@ -34,35 +29,9 @@ segments:
   H8: [311, 322]
 segments_in_structure:
   ICL2: [0, 142]
-coordinates:
-  N-term: Partial
-  TM1: Full
-  ICL1: Full
-  TM2: Full
-  ECL1: Full
-  TM3: Full
-  ICL2: Distorted
-  TM4: Full
-  ECL2: Full
-  TM5: Full
-  ICL3: Full
-  TM6: Full
-  ECL3: Full
-  TM7: Full
-  H8: Full
-engineering:
-  N-term: Truncated
-  TM1: Native
-  ICL1: Native
-  TM2: Native
-  ECL1: Native
-  TM3: Native
-  ICL2: Native
-  TM4: Native
-  ECL2: Native
-  TM5: Native
-  ICL3: Truncation
-  TM6: Native
-  ECL3: Native
-  TM7: Native
-  H8: Native
+bulges:
+  TM2: [2x551]
+  TM5: [5x461]
+constrictions:
+  TM7: [7x44]
+distortion: {}
