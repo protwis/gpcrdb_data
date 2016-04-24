@@ -31,7 +31,6 @@ segments_in_structure:
   TM5: [0, 208]
 bulges:
   TM2: [2x551]
-  ECL1: [23x49]
   TM5: [5x401, 5x451]
 constrictions:
   TM7: [7x44]
