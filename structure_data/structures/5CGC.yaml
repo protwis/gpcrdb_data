@@ -16,8 +16,8 @@ auxiliary_protein: T4-Lysozyme
 signaling_protein: None
 segments:
   TM1: [578, 604]
-  ICL1: [604, 608]
-  TM2: [615, 636]
+  ICL1: [608, 612]
+  TM2: [614, 636]
   TM3: [641, 673]
   TM4: [690, 715]
   ECL2: [733, 735]

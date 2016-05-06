@@ -16,19 +16,20 @@ auxiliary_protein: BRIL
 signaling_protein: None
 segments:
   TM1: [46, 77]
-  ICL1: [77, 81]
+  ICL1: [78, 82]
   TM2: [83, 112]
   ECL1: [113, 118]
   TM3: [119, 153]
   ICL2: [154, 161]
   TM4: [163, 184]
   ECL2: [199, 201]
-  TM5: [206, 237]
-  TM6: [307, 337]
+  TM5: [206, 246]
+  TM6: [303, 337]
   TM7: [348, 373]
   H8: [374, 384]
 segments_in_structure:
   TM4: [0, 184]
+  TM5: [0, 237]
   TM6: [310, 0]
 bulges:
   TM2: [2x551]

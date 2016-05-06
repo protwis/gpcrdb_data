@@ -16,19 +16,21 @@ auxiliary_protein: T4-Lysozyme
 signaling_protein: None
 segments:
   TM1: [26, 57]
-  ICL1: [57, 61]
+  ICL1: [58, 62]
   TM2: [63, 92]
   ECL1: [94, 99]
   TM3: [100, 134]
   ICL2: [135, 143]
   TM4: [147, 170]
   ECL2: [181, 183]
-  TM5: [186, 217]
-  TM6: [322, 354]
+  TM5: [186, 226]
+  TM6: [318, 354]
   TM7: [362, 387]
   H8: [388, 399]
 segments_in_structure:
   TM1: [34, 0]
+  TM5: [0, 217]
+  TM6: [322, 0]
 bulges:
   TM2: [2x551]
   TM5: [5x461]

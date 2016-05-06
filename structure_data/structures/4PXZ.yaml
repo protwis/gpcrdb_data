@@ -15,20 +15,21 @@ ligand:
 auxiliary_protein: BRIL
 signaling_protein: None
 segments:
-  TM1: [23, 51]
-  ICL1: [56, 57]
+  TM1: [23, 53]
+  ICL1: [54, 56]
   TM2: [58, 85]
   TM3: [91, 127]
   ICL2: [129, 136]
   TM4: [135, 162]
   ECL2: [175, 177]
-  TM5: [181, 216]
-  TM6: [225, 264]
+  TM5: [181, 219]
+  TM6: [230, 264]
   TM7: [270, 302]
   H8: [303, 314]
 segments_in_structure:
   ICL2: [0, 129]
   TM4: [136, 0]
+  TM6: [236, 0]
   TM7: [0, 298]
 constrictions:
   TM4: [4x59]

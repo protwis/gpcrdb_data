@@ -1,5 +1,6 @@
-construct: 4ej4
-pdb: 4EJ4
+construct: 4dkl
+pdb: 4DKL
+representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
@@ -25,32 +26,29 @@ endogenous_ligand:
   name: endorphin
   type: Peptide
 ligand:
-- name: EJ4
-  pubchemId: '5497186'
+- name: BF0
+  pubchemId: None
   role: Antagonist
   type: Small molecule
 auxiliary_protein: T4-Lysozyme
 signaling_protein: None
 segments:
-  TM1: [40, 77]
-  ICL1: [78, 82]
-  TM2: [83, 111]
-  ECL1: [112, 117]
-  TM3: [118, 152]
-  ICL2: [153, 160]
-  TM4: [162, 186]
-  ECL2: [198, 200]
-  TM5: [206, 243]
-  TM6: [249, 287]
-  TM7: [294, 322]
-  H8: [323, 335]
+  TM1: [64, 96]
+  ICL1: [97, 101]
+  TM2: [102, 130]
+  ECL1: [131, 136]
+  TM3: [137, 171]
+  ICL2: [174, 181]
+  TM4: [183, 205]
+  ECL2: [217, 219]
+  TM5: [225, 262]
+  TM6: [268, 306]
+  TM7: [312, 340]
+  H8: [341, 352]
 segments_in_structure:
-  TM1: [41, 0]
-  TM5: [0, 239]
-  TM6: [258, 0]
-  H8: [0, 328]
+  TM1: [66, 0]
 bulges:
-  TM5: [5x461]
+  TM5: [5x461, 5x461]
 constrictions:
-  TM7: [7x44]
+  TM7: [7x44, 7x44]
 distortion: {}

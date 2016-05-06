@@ -17,15 +17,15 @@ ligand:
 auxiliary_protein: None
 signaling_protein: SignProtMimic_Nanobody
 segments:
-  TM1: [26, 60]
+  TM1: [26, 61]
   ICL1: [62, 66]
   TM2: [67, 95]
   TM3: [104, 135]
   ICL2: [136, 139]
   TM4: [141, 164]
   ECL2: [173, 175]
-  TM5: [183, 216]
-  TM6: [223, 253]
+  TM5: [183, 218]
+  TM6: [222, 253]
   TM7: [263, 295]
   H8: [296, 310]
 segments_in_structure: {}

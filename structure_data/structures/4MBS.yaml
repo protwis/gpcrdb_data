@@ -43,14 +43,14 @@ auxiliary_protein: Rubredoxin
 signaling_protein: None
 segments:
   TM1: [25, 58]
-  ICL1: [58, 62]
+  ICL1: [59, 63]
   TM2: [64, 92]
   ECL1: [93, 97]
   TM3: [98, 132]
   ICL2: [133, 140]
   TM4: [141, 166]
   ECL2: [178, 180]
-  TM5: [187, 221]
+  TM5: [187, 224]
   TM6: [229, 260]
   TM7: [270, 301]
   H8: [302, 313]
