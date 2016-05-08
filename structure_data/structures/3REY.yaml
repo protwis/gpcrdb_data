@@ -28,7 +28,6 @@ segments_in_structure:
   H8: [0, 305]
 bulges:
   TM2: [2x551]
-  ECL1: [23x49]
   TM5: [5x401, 5x451]
 constrictions:
   TM7: [7x44]
