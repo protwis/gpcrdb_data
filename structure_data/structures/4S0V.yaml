@@ -18,7 +18,7 @@ ligand:
 auxiliary_protein: PGS
 signaling_protein: None
 segments:
-  TM1: [51, 82]
+  TM1: [53, 82]
   ICL1: [83, 87]
   TM2: [88, 117]
   ECL1: [118, 123]
@@ -30,8 +30,7 @@ segments:
   TM6: [298, 330]
   TM7: [339, 368]
   H8: [369, 379]
-segments_in_structure:
-  TM1: [54, 0]
+segments_in_structure: {}
 bulges:
   TM2: [2x551]
   TM5: [5x461]

@@ -1,5 +1,6 @@
 construct: 4mqs
 pdb: 4MQS
+representative: true
 preferred_chain: A
 state: Active
 endogenous_ligand:
@@ -14,7 +15,6 @@ ligand:
   type: Small molecule
 auxiliary_protein: None
 signaling_protein: Nanobody
-representative: true
 segments:
   TM1: [19, 51]
   ICL1: [52, 56]
@@ -27,7 +27,7 @@ segments:
   TM5: [184, 223]
   TM6: [376, 413]
   TM7: [419, 444]
-  H8: [445, 455]
+  H8: [445, 456]
 segments_in_structure:
   TM5: [0, 214]
   TM6: [380, 0]

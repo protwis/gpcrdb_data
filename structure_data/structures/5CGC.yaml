@@ -24,7 +24,7 @@ segments:
   TM5: [737, 761]
   TM6: [770, 794]
   TM7: [798, 828]
-  H8: [831, 842]
+  H8: [831, 848]
 segments_in_structure:
   TM3: [0, 678]
 bulges:

@@ -1,5 +1,6 @@
 construct: 2ydv
 pdb: 2YDV
+representative: true
 preferred_chain: A
 state: Inactive
 ligand:
@@ -9,7 +10,6 @@ ligand:
   type: Small molecule
 auxiliary_protein: None
 signaling_protein: None
-representative: true
 segments:
   TM1: [2, 34]
   ICL1: [35, 39]
