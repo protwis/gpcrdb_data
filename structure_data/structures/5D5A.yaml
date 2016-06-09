@@ -1,0 +1,43 @@
+construct: 5d5a
+pdb: 5D5A
+preferred_chain: A
+state: Inactive
+endogenous_ligand:
+- iupharId: 479
+  name: adrenaline
+  type: Small molecule
+- iupharId: 505
+  name: noradrenaline
+  type: Small molecule
+ligand:
+- name: CAU
+  title: Carazolol
+  pubchemId: 13023332
+  role: Inverse agonist
+  type: Small molecule
+auxiliary_protein: T4-Lysozyme
+signaling_protein: None
+segments:
+  TM1: [29, 61]
+  ICL1: [62, 66]
+  TM2: [67, 96]
+  ECL1: [97, 102]
+  TM3: [103, 137]
+  ICL2: [138, 145]
+  TM4: [147, 171]
+  ECL2: [191, 193]
+  TM5: [198, 237]
+  TM6: [262, 299]
+  TM7: [304, 329]
+  H8: [330, 341]
+segments_in_structure:
+  TM5: [0, 228]
+  TM6: [267, 0]
+bulges:
+  TM2: [2x551]
+  TM5: [5x461]
+constrictions:
+  TM7: [7x44]
+distortion: {}
+
+

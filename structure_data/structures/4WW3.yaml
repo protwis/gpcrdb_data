@@ -1,0 +1,38 @@
+construct: 4ww3
+pdb: 4WW3
+preferred_chain: A, B
+state: Inactive
+endogenous_ligand:
+- iupharId: 484
+  name: noradrenaline
+  type: Small molecule
+ligand:
+- name: RET
+  pubchemId: '638015'
+  role: Inverse agonist
+  type: Small molecule
+auxiliary_protein: None
+signaling_protein: None
+segments:
+  TM1: [31, 62]
+  ICL1: [63, 67]
+  TM2: [68, 98]
+  ECL1: [99, 104]
+  TM3: [105, 138]
+  ICL2: [140, 147]
+  TM4: [149, 172]
+  ECL2: [186, 188]
+  TM5: [195, 240]
+  TM6: [244, 287]
+  TM7: [295, 319]
+  H8: [320, 330]
+segments_in_structure:
+  ICL2: [0, 140]
+bulges:
+  TM2: [2x551]
+  TM5: [5x461]
+constrictions:
+  TM4: [4x59]
+  TM7: [7x44]
+distortion: {}
+

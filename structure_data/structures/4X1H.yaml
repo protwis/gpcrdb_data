@@ -1,0 +1,34 @@
+construct: 4x1h
+pdb: 4X1H
+preferred_chain: A
+state: Inactive
+endogenous_ligand: BNG
+ligand:
+- name: BNG
+  pubchemId: '155448'
+  role: Inverse agonist
+  type: Small molecule
+auxiliary_protein: None
+signaling_protein: None
+segments:
+  TM1: [34, 65]
+  ICL1: [66, 70]
+  TM2: [71, 100]
+  ECL1: [101, 106]
+  TM3: [107, 140]
+  ICL2: [142, 149]
+  TM4: [150, 173]
+  ECL2: [187, 189]
+  TM5: [200, 237]
+  TM6: [241, 278]
+  TM7: [286, 310]
+  H8: [311, 322]
+segments_in_structure:
+  ICL2: [0, 142]
+  TM6: [242, 0]
+bulges:
+  TM2: [2x551]
+  TM5: [5x461]
+constrictions:
+  TM7: [7x44]
+distortion: {}

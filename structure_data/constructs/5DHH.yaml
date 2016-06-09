@@ -1,0 +1,9 @@
+deletions: ''
+insertions:
+- name: BRIL
+  positions: [1, 2]
+  sequence: ''
+mutations: ''
+name: 5dhh
+protein: oprx_human
+
