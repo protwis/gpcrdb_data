@@ -3,16 +3,15 @@ Citing GPCRdb
 
 If you use GPCRdb in your work, please cite:
 
+*   Munk, C., Isberg, V., Mordalski, S., Harpsøe, K., Rataj, K., Hauser, A. S., Kolb, P., Bojarski, A. J., Vriend, G.
+    , and Gloriam, D. E. GPCRdb: the G protein-coupled receptor database – an introduction. **2016**, *Br J Pharmacol*,
+    May 8. `10.1111/bph.13509`_
 *   V Isberg, S Mordalski, C Munk, K Rataj, K Harpsøe, AS Hauser, B Vroling, AJ Bojarski, G Vriend, DE Gloriam.
     "GPCRdb: an information system for G protein-coupled receptors", **2016**, *Nucleic Acids Res.*, 44, D356-D364.
     `10.1093/nar/gkv1178`_
-*   V Isberg, B Vroling, R van der Kant, K Li, G Vriend* and DE Gloriam*, "GPCRDB: an information system for G
-    protein-coupled receptors", **2014**, *Nucleic Acids Res.*, 42 (D1), D422-D425. `10.1093/nar/gkt1255`_
-
-\* Shared last authors.
-
+    
+.. _10.1111/bph.13509: http://dx.doi.org/10.1111/bph.13509
 .. _10.1093/nar/gkv1178: http://dx.doi.org/10.1093/nar/gkv1178
-.. _10.1093/nar/gkt1255: http://dx.doi.org/10.1093/nar/gkt1255
 
 Structure-based alignments and generic residue numbering
 --------------------------------------------------------
@@ -44,7 +43,8 @@ GPCR specific PDF reader
 
 Older GPCRdb articles
 ---------------------
-
+*   V Isberg, B Vroling, R van der Kant, K Li, G Vriend* and DE Gloriam*, "GPCRDB: an information system for G
+    protein-coupled receptors", **2014**, *Nucleic Acids Res.*, 42 (D1), D422-D425. `10.1093/nar/gkt1255`_
 *   B Vroling, M Sanders, C Baakman, A Borrmann, S Verhoeven, J Klomp, L Oliveira, J de Vlieg, G Vriend, "GPCRDB:
     information system for G protein-coupled receptors", 2011, Nucleic Acids Res., 39(suppl 1), D309-19.
     `10.1093/nar/gkq1009`_
@@ -56,6 +56,7 @@ Older GPCRdb articles
     information system for G protein-coupled receptors", 1998, Nucleic Acids Res., 26(1), 275-279.
     `10.1093/nar/26.1.275`_
 
+.. _10.1093/nar/gkt1255: http://dx.doi.org/10.1093/nar/gkt1255
 .. _10.1093/nar/gkq1009: http://dx.doi.org/10.1093/nar/gkq1009
 .. _10.1093/nar/gkg103: http://dx.doi.org/10.1093/nar/gkg103
 .. _10.1093/nar/29.1.346: http://dx.doi.org/10.1093/nar/29.1.346
