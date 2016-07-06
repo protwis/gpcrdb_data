@@ -1,0 +1,310 @@
+{
+    "contact_info": {
+        "address": "\t\t\t\t\t\t\tLaboratory of Biomolecular Research, Paul Scherrer Institute, Villigen, 5232, Switzerland",
+        "date": "06/08/2016",
+        "name_cont": "EshitaMutt",
+        "pi_email": "xavier.deupi@psi.ch",
+        "pi_name": "Xavier Deupi",
+        "url": "https://www.psi.ch/lbr/deupi_-xavier"
+    },
+    "construct_crystal": {
+        "ligand_conc": "18",
+        "_ligand_conc": "0.2\u201336",
+        "ligand_conc_unit": "nM",
+        "ligand_id": "C[C@@H]1[C@@H]2NC[C@@H](C)C[C@H]2O[C@]11CC[C@H]2[C",
+        "ligand_id_type": "SMILES",
+        "ligand_name": "cyclopamine",
+        "pdb": "4O9R",
+        "pdb_name": "4o9r_construct1",
+        "uniprot": "smo_human"
+    },
+    "auxiliary": {
+        "aux2": {
+            "presence": "NO",
+            "position": "Within Receptor",
+            "subtype": "BRIL (b562RIL)",
+            "type": "fusion"
+        }
+    },
+    "deletions": [
+        {
+            "start": "1",
+            "end": "189",
+            "type": "range",
+            "origin": "user"
+        },
+        {
+            "start": "556",
+            "end": "787",
+            "type": "range",
+            "origin": "user"
+        },
+        {
+            "start": "434",
+            "end": "440",
+            "type": "range",
+            "origin": "insertion_2"
+        }
+    ],
+    "mutations": [],
+    "modifications": [
+        {
+            "position": [
+                "pair",
+                [
+                    "193",
+                    "213"
+                ]
+            ],
+            "remark": "NA",
+            "type": "Disulfide bond"
+        },
+        {
+            "position": [
+                "pair",
+                [
+                    "217",
+                    "295"
+                ]
+            ],
+            "remark": "",
+            "type": "Disulfide bond"
+        },
+        {
+            "position": [
+                "pair",
+                [
+                    "314",
+                    "390"
+                ]
+            ],
+            "remark": "",
+            "type": "Disulfide bond"
+        },
+        {
+            "position": [
+                "pair",
+                [
+                    "490",
+                    "507"
+                ]
+            ],
+            "remark": "",
+            "type": "Disulfide bond"
+        }
+    ],
+    "expression": {
+        "expr_method": "Baculovirus",
+        "expr_remark": "NA",
+        "host_cell": "Insect",
+        "host_cell_type": "Sf9"
+    },
+    "solubilization": {
+        "addit_concentr_unit": "%(w/v)",
+        "additive_concentr": "0.2",
+        "chem_enz_treatment": "Alkylation by Iodoacetamide",
+        "deterg_concentr": "1",
+        "deterg_concentr_unit": "%(w/v)",
+        "deterg_type": "DDM",
+        "solub_additive": "CHS"
+    },
+    "crystallization": {
+        "chemical_components": [
+            {
+                "value": "100",
+                "unit": "mM",
+                "component": "Sodium chloride"
+            },
+            {
+                "value": "100",
+                "unit": "mM",
+                "component": "HEPES"
+            },
+            {
+                "value": "30",
+                "unit": "%(v/v)",
+                "component": "PEG400"
+            }
+        ],
+        "crystal_method": "microbatch",
+        "crystal_remark": "Mutations within BRIL:\tM29W\tH124I\tR128L\r\n\r\nCrystallization in syringe. 7.9 MAG added to prevent formation of Lc phase for FEL experiment",
+        "crystal_type": "lipidic cubic phase",
+        "deterg_conc": "0.03",
+        "deterg_conc_unit": "%(w/v)",
+        "deterg_concentr": "1",
+        "deterg_concentr_unit": "%(w/v)",
+        "detergent": "DDM",
+        "lcp_add": "cholesterol",
+        "lcp_conc": "10",
+        "lcp_conc_unit": "%",
+        "lcp_lipid": "monoolein (9.9 MAG)",
+        "lipid": "CHS",
+        "lipid_concentr": "0.006",
+        "lipid_concentr_unit": "%(w/v)",
+        "ph": "single_ph",
+        "ph_single": "7.4",
+        "protein_conc_unit": "mg/ml",
+        "protein_concentr": "35",
+        "_protein_concentr": "20-50",
+        "temperature": "20"
+    },
+    "unparsed": {},
+    "raw_data": {
+        "other_signal_2": "",
+        "deterg_conc_unit": "%(w/v)",
+        "ligand_id_type": "SMILES",
+        "presence_2": "NO",
+        "linker_seq": "",
+        "position_2": "Within Receptor",
+        "protein_concentr": "20-50",
+        "other_crystal_type": "",
+        "deletion_4": "del_range",
+        "concentr_2": "100",
+        "mod_remark_2": "NA",
+        "delet_start_4": "556",
+        "position": "Please Select",
+        "aamod_end_5": "",
+        "aamod_single_4": "",
+        "expr_other": "",
+        "deletion_single": "",
+        "crystal_remark": "Mutations within BRIL:\tM29W\tH124I\tR128L\r\n\r\nCrystallization in syringe. 7.9 MAG added to prevent formation of Lc phase for FEL experiment",
+        "mod_remark": "",
+        "ph_single": "7.4",
+        "aamod_3": "Disulfide bond",
+        "ligand_id": "C[C@@H]1[C@@H]2NC[C@@H](C)C[C@H]2O[C@]11CC[C@H]2[C",
+        "sol_remark": "",
+        "aamod_pair_two": "",
+        "other_tag": "",
+        "url": "https://www.psi.ch/lbr/deupi_-xavier",
+        "aamod_end_3": "",
+        "concentr_unit_3": "mM",
+        "aamod_start_3": "",
+        "aamod_single_2": "",
+        "aamod_4": "Disulfide bond",
+        "other_deterg": "",
+        "chem_enz_treatment": "Alkylation by Iodoacetamide",
+        "ligand_name": "cyclopamine",
+        "deletion": "select_del",
+        "aamod_single_5": "",
+        "deterg_concentr": "1",
+        "aamod_position_3": "pair",
+        "mod_remark_4": "",
+        "delet_end_3": "189",
+        "additive_concentr": "0.2",
+        "aamod_pair_two_5": "507",
+        "other_lcp_lipid": "",
+        "delet_end_4": "787",
+        "aamod_end_2": "",
+        "aamod_pair_one_2": "193",
+        "signal_2": "Please Select",
+        "aamod_pair_two_3": "295",
+        "aa_no": "",
+        "other_prot_cleavage": "",
+        "linker_seq_2": "",
+        "ph_range_one": "",
+        "aamod_end": "",
+        "deletion_3": "del_range",
+        "aamod_end_4": "",
+        "other_host_cell": "",
+        "concentr_unit_4": "%(v/v)",
+        "mut_aa": "A",
+        "aamod_5": "Disulfide bond",
+        "tag_2": "Please Select",
+        "other_signal": "",
+        "other_lipid": "",
+        "prot_cleavage": "Please Select",
+        "insert_pos_single_2": "",
+        "other_deterg_type": "",
+        "fusion_prot": "Please Select",
+        "ins_end": "",
+        "date": "06/08/2016",
+        "aamod_position_4": "pair",
+        "insert_pos_single": "",
+        "aamod_single_3": "",
+        "aamod_position": "select",
+        "aamod_position_5": "pair",
+        "deterg_concentr_unit": "%(w/v)",
+        "expr_remark": "NA",
+        "aamod_pair_one_4": "314",
+        "addit_concentr_unit": "%(w/v)",
+        "other_prot_cleavage_2": "",
+        "lipid_concentr_unit": "%(w/v)",
+        "tag": "Please Select",
+        "other_tag_2": "",
+        "protein_type_2": "fusion",
+        "ligand_conc_unit": "nM",
+        "ins_start_2": "434",
+        "aamod_pair_one_5": "490",
+        "deterg_type": "DDM",
+        "other_host": "",
+        "deletion_single_4": "",
+        "host_cell": "Insect",
+        "ph_range_two": "",
+        "pi_name": "Xavier Deupi",
+        "concentr": "",
+        "aamod_position_2": "pair",
+        "aamod_pair_two_2": "213",
+        "ph": "single_ph",
+        "mod_remark_3": "",
+        "ins_end_2": "440",
+        "concentr_unit_2": "mM",
+        "temperature": "20",
+        "aamod": "",
+        "lcp_add": "cholesterol",
+        "address": "\t\t\t\t\t\t\tLaboratory of Biomolecular Research, Paul Scherrer Institute, Villigen, 5232, Switzerland",
+        "aamod_pair_one_3": "217",
+        "chemical_comp_4": "PEG400",
+        "other_method": "",
+        "protein_conc_unit": "mg/ml",
+        "aamod_start": "",
+        "pi_email": "xavier.deupi@psi.ch",
+        "concentr_4": "30",
+        "aamod_start_2": "",
+        "aamod_pair_two_4": "390",
+        "delet_start_3": "1",
+        "delet_end": "",
+        "ligand_activity": "",
+        "chemical_comp_2": "Sodium chloride",
+        "ligand_conc": "0.2\u201336",
+        "aamod_2": "Disulfide bond",
+        "presence": "Please Select",
+        "signal": "Please Select",
+        "deterg_conc": "0.03",
+        "lcp_conc": "10",
+        "chemical_comp_3": "HEPES",
+        "crystal_method": "microbatch",
+        "fusion_prot_2": "BRIL (b562RIL)",
+        "lipid_concentr": "0.006",
+        "host_cell_type": "Sf9",
+        "lipid": "CHS",
+        "wt_aa": "A",
+        "name_cont": "EshitaMutt",
+        "pdb_name": "4o9r_construct1",
+        "expr_method": "Baculovirus",
+        "insert_pos_type_2": "ins_range",
+        "pdb": "4O9R",
+        "solub_additive": "CHS",
+        "mod_remark_5": "",
+        "deletion_single_3": "",
+        "detergent": "DDM",
+        "csrfmiddlewaretoken": "cwBN00bMKg1CFIAiGcomjQFDRZs5Y1NG",
+        "delet_start": "",
+        "aamod_start_5": "",
+        "aamod_start_4": "",
+        "lcp_conc_unit": "%",
+        "crystal_type": "lipidic cubic phase",
+        "insert_pos_type": "select_ins",
+        "protein_type": "type",
+        "aamod_pair_one": "",
+        "prot_cleavage_2": "Please Select",
+        "aamod_single": "",
+        "ins_start": "",
+        "lcp_lipid": "monoolein (9.9 MAG)",
+        "concentr_unit": "",
+        "chemical_comp": "",
+        "uniprot": "smo_human",
+        "concentr_3": "100"
+    },
+    "error": 0,
+    "error_msg": []
+}
