@@ -25,6 +25,13 @@ Structure-based alignments and generic residue numbering
 .. _10.1016/j.tips.2014.11.001: http://dx.doi.org/10.1016/j.tips.2014.11.001
 .. _10.3390/ijms15057841: http://dx.doi.org/10.3390/ijms15057841
 
+Mutation design tool
+-----------------------------------------------------
+
+*   C Munk, K Harpsøe, A Hauser, V Isberg, DE Gloriam, "Integrating structural and mutagenesis data to elucidate GPCR ligand binding", 2016, Curr Opin Pharcol, 30, 51–58. `10.1016/j.coph.2016.07.003`_
+
+.. _10.1016/j.coph.2016.07.003: http://dx.doi.org/10.1016/j.coph.2016.07.003
+
 Crystal structure fragment-based pharmacophore models
 -----------------------------------------------------
 
