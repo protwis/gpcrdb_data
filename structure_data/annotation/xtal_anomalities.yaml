@@ -19,6 +19,7 @@
     2x56: L
     2x57: V
     2x58: M
+    2x59: P
 5ht2b_human:
     UniProt: 5ht2b_human
     Cl: A
@@ -40,6 +41,7 @@
     2x56: F
     2x57: V
     2x58: M
+    2x59: P
 aa2ar_human:
     UniProt: aa2ar_human
     Cl: A
@@ -61,6 +63,7 @@ aa2ar_human:
     2x56: L
     2x57: A
     2x58: I
+    2x59: P
 acm1_human:
     UniProt: acm1_human
     Cl: A
@@ -82,6 +85,7 @@ acm1_human:
     2x56: F
     2x57: S
     2x58: M
+    2x59: N
 acm2_human:
     UniProt: acm2_human
     Cl: A
@@ -103,6 +107,7 @@ acm2_human:
     2x56: F
     2x57: S
     2x58: M
+    2x59: N
 acm3_rat:
     UniProt: acm3_rat
     Cl: A
@@ -124,6 +129,7 @@ acm3_rat:
     2x56: I
     2x57: S
     2x58: M
+    2x59: N
 acm4_human:
     UniProt: acm4_human
     Cl: A
@@ -145,6 +151,7 @@ acm4_human:
     2x56: F
     2x57: S
     2x58: M
+    2x59: N
 adrb1_melga:
     UniProt: adrb1_melga
     Cl: A
@@ -166,6 +173,7 @@ adrb1_melga:
     2x56: L
     2x57: V
     2x58: V
+    2x59: P
 adrb2_human:
     UniProt: adrb2_human
     Cl: A
@@ -187,6 +195,7 @@ adrb2_human:
     2x56: A
     2x57: V
     2x58: V
+    2x59: P
 agtr1_human:
     UniProt: agtr1_human
     Cl: A
@@ -208,6 +217,7 @@ agtr1_human:
     2x56: T
     2x57: L
     2x58: P
+    2x59: L
 ccr5_human:
     UniProt: ccr5_human
     Cl: A
@@ -229,6 +239,7 @@ ccr5_human:
     2x56: T
     2x57: V
     2x58: P
+    2x59: F
 crfr1_human:
     UniProt: crfr1_human
     Cl: B1
@@ -250,6 +261,7 @@ crfr1_human:
     2x56: T
     2x57: W
     2x58: F
+    2x59: V
 cxcr4_human:
     UniProt: cxcr4_human
     Cl: A
@@ -271,6 +283,7 @@ cxcr4_human:
     2x56: T
     2x57: L
     2x58: P
+    2x59: F
 drd3_human:
     UniProt: drd3_human
     Cl: A
@@ -292,6 +305,29 @@ drd3_human:
     2x56: L
     2x57: V
     2x58: M
+    2x59: P
+ednrb_human:
+    UniProt: ednrb_human
+    Cl: A
+    1x411: ''
+    2x551: 2x551
+    23x501: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: 4x58
+    5x411: ''
+    5x421: ''
+    5x461: 5x461
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    2x50: D
+    2x56: I
+    2x57: D
+    2x58: I
+    2x59: P
 ffar1_human:
     UniProt: ffar1_human
     Cl: A
@@ -313,6 +349,7 @@ ffar1_human:
     2x56: S
     2x57: L
     2x58: P
+    2x59: L
 glr_human:
     UniProt: glr_human
     Cl: B1
@@ -334,6 +371,7 @@ glr_human:
     2x56: S
     2x57: V
     2x58: L
+    2x59: V
 grm1_human:
     UniProt: grm1_human
     Cl: C
@@ -355,6 +393,7 @@ grm1_human:
     2x56: C
     2x57: P
     2x58: F
+    2x59: T
 grm5_human:
     UniProt: grm5_human
     Cl: C
@@ -376,6 +415,7 @@ grm5_human:
     2x56: C
     2x57: T
     2x58: F
+    2x59: C
 hrh1_human:
     UniProt: hrh1_human
     Cl: A
@@ -397,6 +437,7 @@ hrh1_human:
     2x56: V
     2x57: V
     2x58: M
+    2x59: P
 lpar1_human:
     UniProt: lpar1_human
     Cl: A
@@ -418,6 +459,7 @@ lpar1_human:
     2x56: A
     2x57: Y
     2x58: F
+    2x59: Y
 ntr1_rat:
     UniProt: ntr1_rat
     Cl: A
@@ -439,6 +481,7 @@ ntr1_rat:
     2x56: L
     2x57: A
     2x58: M
+    2x59: P
 oprd_human:
     UniProt: oprd_human
     Cl: A
@@ -460,6 +503,7 @@ oprd_human:
     2x56: T
     2x57: L
     2x58: P
+    2x59: F
 oprd_mouse:
     UniProt: oprd_mouse
     Cl: A
@@ -481,6 +525,7 @@ oprd_mouse:
     2x56: T
     2x57: L
     2x58: P
+    2x59: F
 oprk_human:
     UniProt: oprk_human
     Cl: A
@@ -502,6 +547,7 @@ oprk_human:
     2x56: T
     2x57: M
     2x58: P
+    2x59: F
 oprm_mouse:
     UniProt: oprm_mouse
     Cl: A
@@ -523,6 +569,7 @@ oprm_mouse:
     2x56: T
     2x57: L
     2x58: P
+    2x59: F
 oprx_human:
     UniProt: oprx_human
     Cl: A
@@ -544,6 +591,7 @@ oprx_human:
     2x56: T
     2x57: L
     2x58: P
+    2x59: F
 opsd_bovin:
     UniProt: opsd_bovin
     Cl: A
@@ -565,6 +613,7 @@ opsd_bovin:
     2x56: G
     2x57: G
     2x58: F
+    2x59: T
 opsd_human:
     UniProt: opsd_human
     Cl: A
@@ -586,6 +635,7 @@ opsd_human:
     2x56: G
     2x57: G
     2x58: F
+    2x59: T
 opsd_todpa:
     UniProt: opsd_todpa
     Cl: A
@@ -607,6 +657,7 @@ opsd_todpa:
     2x56: V
     2x57: N
     2x58: G
+    2x59: F
 ox1r_human:
     UniProt: ox1r_human
     Cl: A
@@ -628,6 +679,7 @@ ox1r_human:
     2x56: I
     2x57: C
     2x58: L
+    2x59: P
 ox2r_human:
     UniProt: ox2r_human
     Cl: A
@@ -649,6 +701,7 @@ ox2r_human:
     2x56: T
     2x57: C
     2x58: L
+    2x59: P
 p2ry1_human:
     UniProt: p2ry1_human
     Cl: A
@@ -659,7 +712,7 @@ p2ry1_human:
     4x52: ''
     4x56: ''
     4x57: ''
-    4x58: 4x58
+    4x58: '-'
     5x411: ''
     5x421: '-'
     5x461: 5x461
@@ -670,6 +723,7 @@ p2ry1_human:
     2x56: T
     2x57: L
     2x58: P
+    2x59: A
 p2y12_human:
     UniProt: p2y12_human
     Cl: A
@@ -691,6 +745,7 @@ p2y12_human:
     2x56: T
     2x57: F
     2x58: P
+    2x59: F
 par1_human:
     UniProt: par1_human
     Cl: A
@@ -712,6 +767,7 @@ par1_human:
     2x56: V
     2x57: L
     2x58: P
+    2x59: F
 s1pr1_human:
     UniProt: s1pr1_human
     Cl: A
@@ -733,6 +789,7 @@ s1pr1_human:
     2x56: A
     2x57: Y
     2x58: T
+    2x59: A
 smo_human:
     UniProt: smo_human
     Cl: F
@@ -754,6 +811,7 @@ smo_human:
     2x56: S
     2x57: I
     2x58: G
+    2x59: W
 us28_hcmva:
     UniProt: us28_hcmva
     Cl: A
@@ -775,3 +833,4 @@ us28_hcmva:
     2x56: T
     2x57: L
     2x58: P
+    2x59: L

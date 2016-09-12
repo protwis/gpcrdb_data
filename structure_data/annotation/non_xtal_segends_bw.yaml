@@ -7883,8 +7883,8 @@ opn5_human:
     8e: 58.0
     Cl: A
 oprd_human:
-    XtalTempl: oprd_mouse
-    1b: 24.0
+    XtalTempl: oprd_human
+    1b: 22.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
