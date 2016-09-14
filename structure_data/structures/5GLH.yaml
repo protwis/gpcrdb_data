@@ -3,7 +3,10 @@ pdb: 5GLH
 representative: true
 preferred_chain: A
 state: Active
-endogenous_ligand: Endothelin
+endogenous_ligand:
+-iupharId: 989
+name: Endothelin-1
+type: Peptide
 auxiliary_protein: None
 signaling_protein: None
 segments:
