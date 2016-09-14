@@ -8,6 +8,7 @@ ligand:
   pubchemId: '44363934'
   role: Agonist
   type: Peptide
+  chain: B
 auxiliary_protein: T4-Lysozyme
 signaling_protein: None
 segments:
