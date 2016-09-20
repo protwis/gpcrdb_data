@@ -1,0 +1,27 @@
+construct: 5gli
+pdb: 5GLI
+representative: true
+preferred_chain: A
+state: Inactive
+auxiliary_protein: OLC, OLA, SO4
+signaling_protein: None
+segments:
+  TM1: [91, 129]
+  ICL1: [130, 134]
+  TM2: [135, 164]
+  ECL1: [166, 169]
+  TM3: [170, 205]
+  TM4: [215, 240]
+  ECL2: [255, 257]
+  TM5: [264, 303]
+  TM6: [312, 350]
+  TM7: [357, 389]
+  H8: [390, 403]
+segments_in_structure: {}
+bulges:
+  TM2: [2x551]
+  TM5: [5x461]
+constrictions:
+  TM4: [4x58]
+  TM7: [7x44]
+distortion: {}

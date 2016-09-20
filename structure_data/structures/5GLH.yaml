@@ -1,0 +1,32 @@
+construct: 5glh
+pdb: 5GLH
+representative: true
+preferred_chain: A
+state: Active
+ligand:
+  name: Endothelin-1
+  pubchemId: '44284481'
+  role: Agonist
+  type: Peptide
+  chain: B
+auxiliary_protein: None
+signaling_protein: None
+segments:
+  TM1: [97, 129]
+  TM2: [136, 164]
+  ECL1: [166, 169]
+  TM3: [170, 205]
+  TM4: [218, 240]
+  ECL2: [255, 257]
+  TM5: [264, 303]
+  TM6: [312, 350]
+  TM7: [357, 389]
+  H8: [390, 401]
+segments_in_structure: {}
+bulges:
+  TM2: [2x551]
+  TM5: [5x461]
+constrictions:
+  TM4: [4x58]
+  TM7: [7x44]
+distortion: {}
