@@ -34,9 +34,9 @@ visibility and thus the number of citations. You can also contribute with data s
 can be put into perspective by comparing to mutational effects in e.g. other GPCR subtypes by use of the visualization
 tools available in GPCRdb. To capture mutational data in a format that enables comparison of effect on e.g. ligand
 binding affinity, a standardized Excel spreadsheet has been prepared to collect the data. `Please download it here`_,
-enter your data by following the instructions included in each cell and email the file to `Kasper Harpsøe`_.
+enter your data by following the instructions included in each cell and email the file to Kasper Harpsøe (kasper.harpsoe@sund.ku.dk).
 
-A few examples of entered mutant data are `available here`_ and if in doubt please contact `Kasper Harpsøe`_ via
+A few examples of entered mutant data are `available here`_ and if in doubt please contact Kasper Harpsøe (kasper.harpsoe@sund.ku.dk) via
 e-mail.
 
 .. _Please download it here: http://files.gpcrdb.org/excel_file_for_reporting_mutants.xlsx
