@@ -2,7 +2,7 @@ construct: 5c1m
 pdb: 5C1M
 representative: true
 preferred_chain: A
-state: Inactive
+state: Active
 endogenous_ligand:
 - iupharId: 1643
   name: endorphin

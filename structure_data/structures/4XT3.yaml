@@ -3,7 +3,7 @@ pdb: 4XT3
 signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A
-state: Inactive
+state: Active
 endogenous_ligand:
 - {iupharId: 856, name: CX3CL1, type: Peptide}
 ligand:

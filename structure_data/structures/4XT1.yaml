@@ -2,7 +2,7 @@ construct: 4xt1
 pdb: 4XT1
 representative: true
 preferred_chain: A
-state: Inactive
+state: Active
 endogenous_ligand:
 - iupharId: 856
   name: CX3CL1
