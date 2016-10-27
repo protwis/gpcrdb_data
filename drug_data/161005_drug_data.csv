@@ -2186,7 +2186,7 @@
 2186,0,Class A (Rhodopsin),small molecule,rauwolfia serpentina,ada2b_human,ADRA2B,-,-,ASH_Sep2016_144,Antihypertensive,Aminergic ,4.0,Phase IV,Adrenoceptors,GPCR;Rhodopsin,established,rauwolfia serpentina,P18089,46
 2187,0,Class A (Rhodopsin),small molecule,mephentermine,ada2b_human,ADRA2B,-,-,ASH_Sep2016_145,cardiovascular disease,Aminergic ,4.0,Phase IV,Adrenoceptors,GPCR;Rhodopsin,established,mephentermine,P18089,46
 2188,0,Class A (Rhodopsin),small molecule,esmirtazapine,ada2b_human,ADRA2B,-,-,ASH_Sep2016_146,menopause,Aminergic ,3.0,Phase III,Adrenoceptors,GPCR;Rhodopsin,established,esmirtazapine,P18089,46
-2189,1982,Class A (Rhodopsin),small molecule,guanabenz,ada2b_human,ADRA2B,1982,1982,ASH_Sep2016_147,relapsing-remitting multiple sclerosis,Aminergic ,4.0,approved,Adrenoceptors,GPCR;Rhodopsin,established,guanabenz,P18089,46
+2189,1982,Class A (Rhodopsin),small molecule,guanabenz,ada2b_human,ADRA2B,1982,1982,ASH_Sep2016_147,For treatment of Multiple Sclerosis,Aminergic ,1.0,in trial,Adrenoceptors,GPCR;Rhodopsin,established,guanabenz,P18089,46
 2190,1996,Class A (Rhodopsin),small molecule,mirtazapine,ada2c_human,ADRA2C,1996,1996,ASH_Sep2016_148,unipolar depression,Aminergic ,4.0,approved,Adrenoceptors,GPCR;Rhodopsin,established,mirtazapine,P18825,47
 2191,1999,Class A (Rhodopsin),small molecule,dexmedetomidine,ada2c_human,ADRA2C,1999,-,ASH_Sep2016_149,Antineoplastic,Aminergic ,4.0,approved,Adrenoceptors,GPCR;Rhodopsin,established,dexmedetomidine,P18825,47
 2192,0,Class A (Rhodopsin),small molecule,naphazoline,ada2c_human,ADRA2C,-,-,ASH_Sep2016_150,nasal obstruction,Aminergic ,4.0,Phase IV,Adrenoceptors,GPCR;Rhodopsin,established,naphazoline,P18825,47
