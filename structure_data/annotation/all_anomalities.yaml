@@ -4807,11 +4807,11 @@ gp158_human:
     '2.58': V
     '2.59': I
     '4.56': L
-    '4.57': A
+    '4.57': V
     '4.58': V
-    '4.59': I
-    '4.60': L
-    '5.46': A
+    '4.59': F
+    '4.60': W
+    '5.46': F
 gp160_human:
     UniProt: gp160_human
     Xtal Templ: hrh1_human
@@ -5039,11 +5039,11 @@ gp179_human:
     '2.58': F
     '2.59': I
     '4.56': L
-    '4.57': G
-    '4.58': L
+    '4.57': P
+    '4.58': V
     '4.59': L
-    '4.60': L
-    '5.46': A
+    '4.60': G
+    '5.46': L
 gp182_human:
     UniProt: gp182_human
     Xtal Templ: agtr1_human
