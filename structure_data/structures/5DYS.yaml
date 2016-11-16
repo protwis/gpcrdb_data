@@ -1,0 +1,9 @@
+construct: 5dys
+pdb: 5DYS
+signaling_protein: None
+auxiliary_protein: None
+preferred_chain: A
+state: Inactive
+ligand:
+- {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small molecule}
+

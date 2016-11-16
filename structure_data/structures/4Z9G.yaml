@@ -1,0 +1,15 @@
+construct: 4z9g
+pdb: 4Z9G
+preferred_chain: A
+state: Inactive
+endogenous_ligand:
+- iupharId: 912
+  name: Corticotropin-releasing hormone
+  type: Peptide
+ligand:
+- name: 1Q5
+  pubchemId: 9862166
+  role: Antagonist
+  type: Small molecule
+auxiliary_protein: T4-Lysozyme
+signaling_protein: None

@@ -1,0 +1,16 @@
+construct: 5ee7
+pdb: 5EE7
+preferred_chain: A
+state: Inactive
+endogenous_ligand:
+- iupharId: 1136
+  name: Glucagon
+  type: Peptide
+ligand:
+- name: PE5
+  pubchemId: 657096
+  role: Antagonist
+  type: Small molecule
+auxiliary_protein: BRIL
+signaling_protein: None
+

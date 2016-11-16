@@ -1,0 +1,15 @@
+construct: 5l7d
+pdb: 5L7D
+preferred_chain: B
+state: Inactive
+endogenous_ligand:
+- name: constitutive
+  type: Constitutive
+ligand:
+- name: None
+  pubchemId: None
+  role: .nan
+  type: None
+auxiliary_protein: BRIL
+signaling_protein: None
+
