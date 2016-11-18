@@ -1,0 +1,8 @@
+construct: 5iub
+pdb: 5IUB
+signaling_protein: None
+auxiliary_protein: BRIL
+preferred_chain: A
+state: Inactive
+ligand:
+- {name: 6DV, pubchemId: '44394716', role: Agonist, type: Small molecule}

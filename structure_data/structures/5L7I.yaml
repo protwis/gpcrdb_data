@@ -1,0 +1,15 @@
+construct: 5l7i
+pdb: 5L7I
+preferred_chain: B
+state: Inactive
+endogenous_ligand:
+- name: constitutive
+  type: Constitutive
+ligand:
+- name: VIS
+  pubchemId: 24776445
+  role: Antagonist
+  type: Small molecule
+auxiliary_protein: BRIL
+signaling_protein: None
+
