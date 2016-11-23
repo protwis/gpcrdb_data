@@ -283,9 +283,9 @@
 281,247.0,Q02643,GHRH receptor,ghrhr_human,29.0,Glucagon receptor family,Peptide,Gs family,None,"Adenylate cyclase stimulation, Calcium channel",None
 282,248.0,P48546,GIP receptor,gipr_human,29.0,Glucagon receptor family,Peptide,Gs family,,Adenylate cyclase stimulation,Phospholipase A2 stimulation
 283,249.0,P43220,GLP-1 receptor,glp1r_human,29.0,Glucagon receptor family,Peptide,Gs family,None,Adenylate cyclase stimulation,None
-284,250.0,O95838,GLP-2 receptor,glp2r_human,29.0,Glucagon receptor family,Peptide,,None,Adenylate cyclase stimulation,None
+284,250.0,O95838,GLP-2 receptor,glp2r_human,29.0,Glucagon receptor family,Peptide,None,None,Adenylate cyclase stimulation,None
 285,251.0,P47871,glucagon receptor,glr_human,29.0,Glucagon receptor family,Peptide,Gs family,None,Adenylate cyclase stimulation,None
-286,252.0,P47872,secretin receptor,sctr_human,29.0,Glucagon receptor family,Peptide,,None,"Adenylate cyclase stimulation, Calcium channel",None
+286,252.0,P47872,secretin receptor,sctr_human,29.0,Glucagon receptor family,Peptide,None,None,"Adenylate cyclase stimulation, Calcium channel",None
 287,331.0,Q03431,PTH1 receptor,pth1r_human,53.0,Parathyroid hormone receptors,Peptide,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation
 288,332.0,P49190,PTH2 receptor,pth2r_human,53.0,Parathyroid hormone receptors,Peptide,"Gs family, Gq/G11 family",None,None,None
 289,370.0,P41586,PAC1 receptor,pacr_human,67.0,VIP and PACAP receptors,Peptide,Gs family,G protein (identity unknown),Adenylate cyclase stimulation,Phospholipase C stimulation
@@ -293,8 +293,8 @@
 291,372.0,P41587,VPAC2 receptor,vipr2_human,67.0,VIP and PACAP receptors,Peptide,Gs family,G protein (identity unknown),Adenylate cyclase stimulation,"Phospholipase C stimulation, Phospholipase D stimulation"
 292,54.0,P41180,CaS receptor,casr_human,12.0,Calcium-sensing receptors,Ion,"Gi/Go family, Gq/G11 family, G12/G13 family","Gq/G11 family, G protein (identity unknown)","Adenylate cyclase inhibition, Phospholipase C stimulation, Phospholipase D stimulation","Adenylate cyclase stimulation, Potassium channel, Phospholipase A2 stimulation, Phospholipase D stimulation, Other - See Comments"
 293,55.0,Q5T6X5,GPRC6 receptor,gpc6a_human,12.0,Calcium-sensing receptors,Ion,Gq/G11 family,None,Phospholipase C stimulation,None
-294,240.0,Q9UBS5,GABAB1,gabr1_human,26.0,GABAB receptors,Amino Acid,,None,,None
-295,241.0,O75899,GABAB2,gabr2_human,26.0,GABAB receptors,Amino Acid,,None,,None
+294,240.0,Q9UBS5,GABAB1,gabr1_human,26.0,GABAB receptors,Amino Acid,None,None,None,None
+295,241.0,O75899,GABAB2,gabr2_human,26.0,GABAB receptors,Amino Acid,None,None,None,None
 296,289.0,Q13255,mGlu1 receptor,grm1_human,40.0,Metabotropic glutamate receptors,Amino Acid,Gq/G11 family,"Gs family, Gi/Go family, G protein independent mechanism",Phospholipase C stimulation,"Adenylate cyclase stimulation, Adenylate cyclase inhibition, Phospholipase A2 stimulation, Phospholipase D stimulation, Other - See Comments"
 297,290.0,Q14416,mGlu2 receptor,grm2_human,40.0,Metabotropic glutamate receptors,Amino Acid,Gi/Go family,None,"Adenylate cyclase inhibition, Potassium channel",None
 298,291.0,Q14832,mGlu3 receptor,grm3_human,40.0,Metabotropic glutamate receptors,Amino Acid,Gi/Go family,None,"Adenylate cyclase inhibition, Potassium channel, Calcium channel",None
@@ -314,15 +314,15 @@
 312,259.0,Q9NZH0,GPRC5B,gpc5b_human,18.0,Class C Orphans,Orphan,None,None,None,None
 313,260.0,Q9NQ84,GPRC5C,gpc5c_human,18.0,Class C Orphans,Orphan,None,None,None,None
 314,230.0,Q14332,FZD2,fzd2_human,25.0,Class Frizzled GPCRs,Protein,"Gi/Go family, G protein (identity unknown)",None,"Calcium channel, Other - See Comments",None
-315,229.0,Q9UP38,FZD1,fzd1_human,25.0,Class Frizzled GPCRs,Protein,,"Gi/Go family, Gq/G11 family",Other - See Comments,"Phospholipase C stimulation, Other - See Comments"
+315,229.0,Q9UP38,FZD1,fzd1_human,25.0,Class Frizzled GPCRs,Protein,None,"Gi/Go family, Gq/G11 family",Other - See Comments,"Phospholipase C stimulation, Other - See Comments"
 316,231.0,Q9NPG1,FZD3,fzd3_human,25.0,Class Frizzled GPCRs,Protein,"Gs family, G protein (identity unknown)",None,,None
 317,232.0,Q9ULV1,FZD4,fzd4_human,25.0,Class Frizzled GPCRs,Protein,G12/G13 family,None,,None
-318,233.0,Q13467,FZD5,fzd5_human,25.0,Class Frizzled GPCRs,Protein,,,,
+318,233.0,Q13467,FZD5,fzd5_human,25.0,Class Frizzled GPCRs,Protein,None,None,None,
 319,234.0,O60353,FZD6,fzd6_human,25.0,Class Frizzled GPCRs,Protein,"Gi/Go family, Gq/G11 family, G protein independent mechanism",Gi/Go family,,Other - See Comments
 320,235.0,O75084,FZD7,fzd7_human,25.0,Class Frizzled GPCRs,Protein,"Gs family, Gi/Go family",,,Other - See Comments
 321,236.0,Q9H461,FZD8,fzd8_human,25.0,Class Frizzled GPCRs,Protein,G protein (identity unknown),None,Other - See Comments,None
 322,237.0,O00144,FZD9,fzd9_human,25.0,Class Frizzled GPCRs,Protein,None,None,None,None
-323,238.0,Q9ULW2,FZD10,fzd10_human,25.0,Class Frizzled GPCRs,Protein,,,,
+323,238.0,Q9ULW2,FZD10,fzd10_human,25.0,Class Frizzled GPCRs,Protein,None,None,None,
 324,239.0,Q99835,SMO,smo_human,25.0,Class Frizzled GPCRs,Protein,"Gi/Go family, G12/G13 family",,,Phospholipase A2 stimulation
 325,664.0,Q9NYW2,TAS2R8,ta2r8_human,117.0,Taste 2 receptors,Taste,None,None,None,None
 326,665.0,Q9NYW1,TAS2R9,ta2r9_human,117.0,Taste 2 receptors,Taste,None,None,None,None
