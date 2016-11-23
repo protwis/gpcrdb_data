@@ -1,0 +1,8 @@
+construct: 5iu7
+pdb: 5IU7
+signaling_protein: None
+auxiliary_protein: BRIL
+preferred_chain: A
+state: Inactive
+ligand:
+- {name: 6DY, pubchemId: '121225595', role: Agonist, type: Small molecule}

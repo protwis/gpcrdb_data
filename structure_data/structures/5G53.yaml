@@ -1,0 +1,8 @@
+construct: 5g53
+pdb: 5G53
+signaling_protein: Engineered G protein
+auxiliary_protein: None
+preferred_chain: A
+state: Active
+ligand:
+- {name: NEC, pubchemId: '448222', role: Agonist, type: Small molecule}

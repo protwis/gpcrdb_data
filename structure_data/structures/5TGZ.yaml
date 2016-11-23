@@ -1,0 +1,16 @@
+construct: 5tgz
+pdb: 5TGZ
+representative: true
+preferred_chain: A
+state: Inactive
+endogenous_ligand:
+- name: 2-arachidonoylglycerol
+  type: Endocannabinoid
+ligand:
+- name: ZDG
+  pubchemId: 46912833
+  role: Antagonist
+  type: Small molecule
+auxiliary_protein: Flavodoxin
+signaling_protein: None
+

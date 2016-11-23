@@ -2,7 +2,7 @@ construct: 2ydv
 pdb: 2YDV
 representative: true
 preferred_chain: A
-state: Inactive
+state: Active
 ligand:
 - name: NEC
   pubchemId: '33624'
