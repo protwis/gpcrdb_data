@@ -1,0 +1,9 @@
+construct: 5en0
+pdb: 5EN0
+signaling_protein: GNAT3
+auxiliary_protein: None
+preferred_chain: A
+state: Inactive
+ligand:
+- {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small molecule}
+
