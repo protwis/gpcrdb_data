@@ -1,0 +1,398 @@
+{
+    "contact_info": {
+        "address": "\t\t\t\t\t\t\t",
+        "date": "11/03/2016",
+        "name_cont": "gpcrdb",
+        "pi_email": "info@gpcrdb.org",
+        "pi_name": "gpcrdb",
+        "url": "gpcrdb.org"
+    },
+    "construct_crystal": {
+        "ligand_activity": "antagonist",
+        "ligand_id": "Nc1nnc(-c2ccc(O)c(Cl)c2)c(n1)-c1ccccc1",
+        "ligand_id_type": "SMILES",
+        "ligand_name": "T4E",
+        "pdb": "3UZC",
+        "pdb_name": "3uzc_partial",
+        "uniprot": "aa2ar_human"
+    },
+    "auxiliary": {
+        "aux2": {
+            "type": "tag",
+            "presence": "YES",
+            "position": "Within Receptor",
+            "subtype": "Other"
+        }
+    },
+    "deletions": [
+        {
+            "start": "318",
+            "type": "range",
+            "origin": "insertion_2",
+            "end": "412"
+        }
+    ],
+    "mutations": [
+        {
+            "type": "Unknown",
+            "wt": "A",
+            "remark": "",
+            "pos": "54",
+            "mut": "L"
+        },
+        {
+            "type": "Unknown",
+            "wt": "T",
+            "remark": "",
+            "pos": "88",
+            "mut": "A"
+        },
+        {
+            "type": "Unknown",
+            "wt": "R",
+            "remark": "",
+            "pos": "107",
+            "mut": "A"
+        },
+        {
+            "type": "Unknown",
+            "wt": "K",
+            "remark": "",
+            "pos": "122",
+            "mut": "A"
+        },
+        {
+            "type": "Unknown",
+            "wt": "L",
+            "remark": "",
+            "pos": "202",
+            "mut": "A"
+        },
+        {
+            "type": "Unknown",
+            "wt": "L",
+            "remark": "",
+            "pos": "235",
+            "mut": "A"
+        },
+        {
+            "type": "Unknown",
+            "wt": "V",
+            "remark": "",
+            "pos": "239",
+            "mut": "A"
+        },
+        {
+            "type": "Unknown",
+            "wt": "S",
+            "remark": "",
+            "pos": "277",
+            "mut": "A"
+        }
+    ],
+    "modifications": [
+        {
+            "type": "Disulfide bond",
+            "position": [
+                "pair",
+                [
+                    "74",
+                    "146"
+                ]
+            ],
+            "remark": "L-cystine"
+        },
+        {
+            "type": "Disulfide bond",
+            "position": [
+                "pair",
+                [
+                    "77",
+                    "166"
+                ]
+            ],
+            "remark": "L-cystine"
+        },
+        {
+            "type": "Disulfide bond",
+            "position": [
+                "pair",
+                [
+                    "71",
+                    "159"
+                ]
+            ],
+            "remark": "L-cystine"
+        },
+        {
+            "type": "Disulfide bond",
+            "position": [
+                "pair",
+                [
+                    "262",
+                    "259"
+                ]
+            ],
+            "remark": "L-cystine"
+        }
+    ],
+    "expression": {
+        "expr_method": "Baculovirus",
+        "host_cell": "Insect",
+        "host_cell_type": "Sf9",
+        "expr_remark": ""
+    },
+    "solubilization": {
+        "addit_concentr_unit": "-",
+        "additive_concentr": "-",
+        "chem_enz_treatment": "None",
+        "deterg_concentr": "0.1",
+        "deterg_concentr_unit": "%w/v",
+        "deterg_type": "DM",
+        "solub_additive": "-"
+    },
+    "crystallization": {
+        "chemical_components": [
+            {
+                "component": "PEG1000",
+                "value": "32-42",
+                "unit": "% v/v"
+            },
+            {
+                "component": "MgCl2",
+                "value": "0.25",
+                "unit": "M"
+            },
+            {
+                "component": "1-BUTANOL",
+                "value": "0.1",
+                "unit": "%w/v"
+            },
+            {
+                "component": "CYMAL-6",
+                "value": "0.05",
+                "unit": "% v/v"
+            }
+        ],
+        "crystal_method": "vapour diffusion",
+        "crystal_type": "other [See next field]",
+        "deterg_conc": "0.3",
+        "deterg_conc_unit": "% w/v",
+        "deterg_concentr": "0.1",
+        "deterg_concentr_unit": "%w/v",
+        "detergent": "NG",
+        "other_crystal_type": "sitting drop",
+        "ph": "single_ph",
+        "ph_single": "8.0",
+        "protein_conc_unit": "mg/ml",
+        "protein_concentr": "15-20",
+        "temperature": "277 K"
+    },
+    "unparsed": {
+        "other_tag_2": "unknown"
+    },
+    "raw_data": {
+        "other_prot_cleavage_2": "",
+        "protein_type_2": "tag",
+        "aamod_3": "Disulfide bond",
+        "wt_aa_7": "L",
+        "aamod_end_2": "",
+        "concentr_4": "0.1",
+        "aamod_position_4": "pair",
+        "undefined_3": "",
+        "ph_single": "8.0",
+        "expr_other": "",
+        "aamod_pair_two_2": "146",
+        "mut_aa_9": "A",
+        "aa_no_2": "54",
+        "insert_pos_type_2": "ins_range",
+        "ligand_id": "Nc1nnc(-c2ccc(O)c(Cl)c2)c(n1)-c1ccccc1",
+        "aamod_pair_two_3": "166",
+        "mut_aa_2": "L",
+        "aamod_pair_two_4": "159",
+        "concentr_unit": "",
+        "presence_2": "YES",
+        "tag": "",
+        "other_crystal_type": "sitting drop",
+        "deterg_conc": "0.3",
+        "aamod_end_5": "",
+        "mut_type_6": "Unknown",
+        "other_deterg": "",
+        "aamod_4": "Disulfide bond",
+        "host_cell": "Insect",
+        "aamod_position_2": "pair",
+        "ins_start_2": "318",
+        "aamod_position": "",
+        "aamod": "",
+        "aamod_pair_one": "",
+        "other_host_cell": "",
+        "aamod_single_2": "",
+        "deletion_single": "",
+        "address": "\t\t\t\t\t\t\t",
+        "mod_remark_4": "L-cystine",
+        "additive_concentr": "-",
+        "signal_2": "",
+        "mut_type_4": "Unknown",
+        "other_signal": "",
+        "date": "11/03/2016",
+        "other_prot_cleavage": "",
+        "other_lig_act": "",
+        "mut_remark_4": "",
+        "aamod_single": "",
+        "signal": "",
+        "aa_no_3": "88",
+        "protein_type": "",
+        "wt_aa_4": "R",
+        "ligand_name": "T4E",
+        "ph": "single_ph",
+        "aamod_start": "",
+        "aamod_start_2": "",
+        "mut_aa_6": "A",
+        "aamod_single_3": "",
+        "aamod_2": "Disulfide bond",
+        "other_lipid": "",
+        "ligand_conc": "",
+        "concentr_2": "32-42",
+        "url": "gpcrdb.org",
+        "aamod_single_5": "",
+        "aamod_pair_two_5": "259",
+        "other_host": "",
+        "host_cell_type": "Sf9",
+        "aamod_start_5": "",
+        "mut_type_7": "Unknown",
+        "concentr_5": "0.05",
+        "other_lig_id": "",
+        "prot_cleavage_2": "",
+        "temperature": "277 K",
+        "delet_start": "",
+        "mod_remark_5": "L-cystine",
+        "mut_remark_8": "",
+        "chemical_comp_4": "1-BUTANOL",
+        "aa_no_7": "235",
+        "wt_aa": "",
+        "lipid_concentr": "",
+        "deterg_type": "DM",
+        "mut_type_2": "Unknown",
+        "aamod_pair_one_4": "71",
+        "aamod_5": "Disulfide bond",
+        "lipid_concentr_unit": "",
+        "pi_name": "gpcrdb",
+        "undefined_5": "",
+        "aamod_start_4": "",
+        "mut_type_8": "Unknown",
+        "chemical_comp": "",
+        "chemical_comp_2": "PEG1000",
+        "mut_remark": "",
+        "mut_remark_7": "",
+        "aamod_pair_one_5": "262",
+        "tag_2": "Other",
+        "mut_remark_5": "",
+        "mut_aa_8": "A",
+        "position": "",
+        "wt_aa_9": "S",
+        "mut_type_3": "Unknown",
+        "position_2": "Within Receptor",
+        "crystal_remark": "",
+        "aamod_position_5": "pair",
+        "aamod_single_4": "",
+        "deterg_concentr_unit": "%w/v",
+        "crystal_method": "vapour diffusion",
+        "aamod_position_3": "pair",
+        "csrfmiddlewaretoken": "VS5E52uo89LP22WjYsCtN1p3Fc8QawJUCKApufQ0VnEUroU51PlcvnQshiYHvRwM",
+        "other_tag": "",
+        "delet_end": "",
+        "mut_remark_9": "",
+        "linker_seq_2": "",
+        "mut_aa_7": "A",
+        "wt_aa_5": "K",
+        "aamod_end_4": "",
+        "name_cont": "gpcrdb",
+        "insert_pos_single_2": "",
+        "aamod_pair_one_2": "74",
+        "wt_aa_3": "T",
+        "sol_remark": "",
+        "ligand_id_type": "SMILES",
+        "undefined_2": "",
+        "aamod_end_3": "",
+        "lipid": "",
+        "protein_concentr": "15-20",
+        "crystal_type": "other [See next field]",
+        "aa_no_9": "277",
+        "expr_method": "Baculovirus",
+        "presence": "",
+        "detergent": "NG",
+        "aamod_end": "",
+        "mod_remark_3": "L-cystine",
+        "aamod_pair_one_3": "77",
+        "aamod_pair_two": "",
+        "wt_aa_6": "L",
+        "lcp_conc": "",
+        "mut_aa_4": "A",
+        "other_deterg_type": "",
+        "addit_concentr_unit": "-",
+        "concentr_unit_2": "% v/v",
+        "mod_remark_2": "L-cystine",
+        "mut_remark_6": "",
+        "concentr_unit_4": "%w/v",
+        "mut_type_5": "Unknown",
+        "aa_no": "",
+        "solub_additive": "-",
+        "aa_no_8": "239",
+        "concentr_unit_3": "M",
+        "lcp_conc_unit": "",
+        "ins_end": "",
+        "mut_type_9": "Unknown",
+        "lcp_add": "",
+        "chem_enz_treatment": "None",
+        "concentr_unit_5": "% v/v",
+        "pdb_name": "3uzc_partial",
+        "ligand_conc_unit": "",
+        "prot_cleavage": "",
+        "mut_remark_3": "",
+        "wt_aa_2": "A",
+        "deletion": "",
+        "chemical_comp_5": "CYMAL-6",
+        "other_tag_2": "unknown",
+        "ligand_activity": "antagonist",
+        "concentr": "",
+        "presence_expr": "",
+        "other_lcp_lipid": "",
+        "pdb": "3UZC",
+        "wt_aa_8": "V",
+        "deterg_concentr": "0.1",
+        "ph_range_two": "",
+        "insert_pos_type": "",
+        "concentr_3": "0.25",
+        "mut_aa": "",
+        "mut_aa_3": "A",
+        "aa_no_4": "107",
+        "mod_remark": "",
+        "mut_type": "",
+        "ins_end_2": "412",
+        "mut_remark_2": "",
+        "fusion_prot_2": "",
+        "other_method": "",
+        "lcp_lipid": "Please Select",
+        "protein_conc_unit": "mg/ml",
+        "mut_aa_5": "A",
+        "linker_seq": "",
+        "expr_remark": "",
+        "aamod_start_3": "",
+        "aa_no_6": "202",
+        "insert_pos_single": "",
+        "time_expr": "",
+        "ins_start": "",
+        "deterg_conc_unit": "% w/v",
+        "presence_expr_2": "",
+        "aa_no_5": "122",
+        "other_signal_2": "",
+        "chemical_comp_3": "MgCl2",
+        "ph_range_one": "",
+        "fusion_prot": "",
+        "pi_email": "info@gpcrdb.org",
+        "undefined_4": "",
+        "uniprot": "aa2ar_human"
+    },
+    "error": 0,
+    "error_msg": []
+}
