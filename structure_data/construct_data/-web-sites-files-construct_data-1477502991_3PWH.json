@@ -1,0 +1,402 @@
+{
+    "contact_info": {
+        "address": "\t\t\t\t\t\t\t",
+        "date": "10/26/2016",
+        "name_cont": "gpcrdb",
+        "pi_email": "info@gpcrdb.org",
+        "pi_name": "gpcrdb",
+        "url": "gpcrdb.org"
+    },
+    "construct_crystal": {
+        "ligand_activity": "inverse agonist",
+        "ligand_id": "CHEMBL113142\t\t",
+        "ligand_id_type": "ChEMBL Compound ID",
+        "ligand_name": "ZM-241385",
+        "pdb": "3PWH",
+        "pdb_name": "3pwh_partial",
+        "uniprot": "aa2ar_human"
+    },
+    "auxiliary": {
+        "aux2": {
+            "subtype": "His(10)",
+            "presence": "YES",
+            "type": "tag",
+            "position": "C-term"
+        }
+    },
+    "deletions": [
+        {
+            "start": "317",
+            "origin": "user",
+            "end": "412",
+            "type": "range"
+        }
+    ],
+    "mutations": [
+        {
+            "type": "Thermostabilising",
+            "mut": "L",
+            "pos": "54",
+            "wt": "A"
+        },
+        {
+            "type": "Thermostabilising",
+            "mut": "A",
+            "pos": "88",
+            "wt": "T"
+        },
+        {
+            "type": "Thermostabilising",
+            "mut": "A",
+            "pos": "107",
+            "wt": "R"
+        },
+        {
+            "type": "Thermostabilising",
+            "mut": "A",
+            "pos": "122",
+            "wt": "K"
+        },
+        {
+            "type": "Thermostabilising",
+            "mut": "A",
+            "pos": "202",
+            "wt": "L"
+        },
+        {
+            "type": "Thermostabilising",
+            "mut": "A",
+            "pos": "235",
+            "wt": "L"
+        },
+        {
+            "type": "Thermostabilising",
+            "mut": "A",
+            "pos": "239",
+            "wt": "V"
+        },
+        {
+            "type": "Thermostabilising",
+            "mut": "A",
+            "pos": "277",
+            "wt": "S"
+        }
+    ],
+    "modifications": [
+        {
+            "position": [
+                "pair",
+                [
+                    "262",
+                    "259"
+                ]
+            ],
+            "remark": "L-cystine",
+            "type": "Disulfide bond"
+        },
+        {
+            "position": [
+                "pair",
+                [
+                    "71",
+                    "159"
+                ]
+            ],
+            "remark": "L-cystine",
+            "type": "Disulfide bond"
+        },
+        {
+            "position": [
+                "pair",
+                [
+                    "77",
+                    "166"
+                ]
+            ],
+            "remark": "L-cystine",
+            "type": "Disulfide bond"
+        },
+        {
+            "position": [
+                "pair",
+                [
+                    "74",
+                    "146"
+                ]
+            ],
+            "remark": "L-cystine",
+            "type": "Disulfide bond"
+        }
+    ],
+    "expression": {
+        "expr_method": "Baculovirus",
+        "host_cell": "Insect",
+        "host_cell_type": "Sf9",
+        "expr_remark": ""
+    },
+    "solubilization": {
+        "addit_concentr_unit": "none",
+        "additive_concentr": "0",
+        "chem_enz_treatment": "Other [See remark]",
+        "deterg_concentr": "0.1",
+        "deterg_concentr_unit": "%w/v",
+        "deterg_type": "DM",
+        "sol_remark": "IMAC detergent exchange to NG",
+        "solub_additive": "DDM"
+    },
+    "crystallization": {
+        "chemical_components": [
+            {
+                "unit": "% v/v",
+                "value": "32-42",
+                "component": "PEG1000"
+            },
+            {
+                "unit": "M",
+                "value": "0.25",
+                "component": "MgCl2"
+            },
+            {
+                "unit": "%v/v",
+                "value": "0.3",
+                "component": "NG"
+            },
+            {
+                "unit": "%w/v",
+                "value": "0.1",
+                "component": "1-BUTANOL"
+            },
+            {
+                "unit": "%w/v",
+                "value": "0.05",
+                "component": "CYMAL-6"
+            },
+            {
+                "unit": "M",
+                "value": "0.1",
+                "component": "Tris-HCl pH 8.1"
+            }
+        ],
+        "crystal_method": "vapour diffusion",
+        "crystal_remark": "0.3% NG + 0.05% CYMAL-6\r\n",
+        "crystal_type": "other [See next field]",
+        "deterg_conc": "0.3",
+        "deterg_conc_unit": "% w/v",
+        "deterg_concentr": "0.1",
+        "deterg_concentr_unit": "%w/v",
+        "detergent": "NG",
+        "other_crystal_type": "sitting drop",
+        "ph": "range_ph",
+        "ph_range_one": "8.0",
+        "ph_range_two": "8.75",
+        "protein_conc_unit": "none",
+        "protein_concentr": "0",
+        "temperature": "277K"
+    },
+    "unparsed": {},
+    "raw_data": {
+        "concentr": "",
+        "url": "gpcrdb.org",
+        "aa_no_2": "54",
+        "lipid": "",
+        "deterg_conc": "0.3",
+        "addit_concentr_unit": "none",
+        "lipid_concentr": "",
+        "aamod_single_3": "",
+        "delet_end_2": "412",
+        "other_tag_2": "",
+        "ph_single": "",
+        "concentr_4": "0.3",
+        "crystal_method": "vapour diffusion",
+        "concentr_unit_7": "M",
+        "ins_start": "",
+        "crystal_type": "other [See next field]",
+        "signal": "",
+        "insert_pos_type_2": "",
+        "aamod_pair_two": "",
+        "chemical_comp_2": "PEG1000",
+        "other_signal_2": "",
+        "expr_method": "Baculovirus",
+        "aamod_pair_two_2": "259",
+        "concentr_unit_5": "%w/v",
+        "mut_type_6": "Thermostabilising",
+        "other_method": "",
+        "insert_pos_single": "",
+        "time_expr": "",
+        "wt_aa_6": "L",
+        "ph_range_two": "8.75",
+        "tag_2": "His(10)",
+        "aamod_end_5": "",
+        "aamod_start_2": "",
+        "mod_remark_3": "L-cystine",
+        "mut_type_4": "Thermostabilising",
+        "mod_remark": "",
+        "ligand_name": "ZM-241385",
+        "deletion": "",
+        "insert_pos_single_2": "",
+        "delet_end": "",
+        "concentr_unit": "",
+        "aamod_pair_two_3": "159",
+        "aa_no_4": "107",
+        "position": "",
+        "aamod_start_4": "",
+        "signal_2": "",
+        "address": "\t\t\t\t\t\t\t",
+        "aamod_pair_one_4": "77",
+        "name_cont": "gpcrdb",
+        "mut_type_2": "Thermostabilising",
+        "host_cell_type": "Sf9",
+        "concentr_unit_3": "M",
+        "wt_aa_8": "V",
+        "deterg_conc_unit": "% w/v",
+        "wt_aa_4": "R",
+        "mut_aa_2": "L",
+        "fusion_prot": "",
+        "ligand_conc": "",
+        "aa_no_7": "235",
+        "aamod_5": "Disulfide bond",
+        "solub_additive": "DDM",
+        "protein_type": "",
+        "presence_2": "YES",
+        "wt_aa_9": "S",
+        "other_host_cell": "",
+        "aamod_pair_one_5": "74",
+        "insert_pos_type": "",
+        "other_signal": "",
+        "linker_seq": "",
+        "mut_type": "",
+        "aamod_end": "",
+        "aamod_pair_two_4": "166",
+        "concentr_2": "32-42",
+        "other_deterg": "",
+        "protein_type_2": "tag",
+        "position_2": "C-term",
+        "mut_aa": "",
+        "deletion_single_2": "",
+        "mut_aa_4": "A",
+        "aa_no_3": "88",
+        "deletion_single": "",
+        "mut_aa_8": "A",
+        "concentr_7": "0.1",
+        "aamod": "",
+        "aa_no_5": "122",
+        "date": "10/26/2016",
+        "other_host": "",
+        "sol_remark": "IMAC detergent exchange to NG",
+        "wt_aa_2": "A",
+        "other_deterg_type": "",
+        "chemical_comp": "",
+        "expr_other": "",
+        "pdb": "3PWH",
+        "chemical_comp_7": "Tris-HCl pH 8.1",
+        "detergent": "NG",
+        "linker_seq_2": "",
+        "host_cell": "Insect",
+        "undefined_5": "",
+        "other_lig_id": "",
+        "delet_start_2": "317",
+        "deterg_concentr": "0.1",
+        "mut_aa_7": "A",
+        "aamod_single_4": "",
+        "tag": "",
+        "aamod_end_4": "",
+        "ins_end": "",
+        "chem_enz_treatment": "Other [See remark]",
+        "protein_conc_unit": "none",
+        "pi_email": "info@gpcrdb.org",
+        "aamod_pair_two_5": "146",
+        "fusion_prot_2": "",
+        "other_lcp_lipid": "",
+        "other_lig_act": "",
+        "expr_remark": "",
+        "aa_no_8": "239",
+        "undefined_3": "",
+        "mut_type_7": "Thermostabilising",
+        "mut_aa_6": "A",
+        "ph_range_one": "8.0",
+        "ligand_activity": "inverse agonist",
+        "mod_remark_2": "L-cystine",
+        "aamod_pair_one": "",
+        "ph": "range_ph",
+        "lcp_add": "",
+        "aamod_single_5": "",
+        "prot_cleavage_2": "",
+        "deterg_concentr_unit": "%w/v",
+        "aamod_start": "",
+        "mut_type_3": "Thermostabilising",
+        "lcp_lipid": "Please Select",
+        "presence": "",
+        "undefined_4": "",
+        "aamod_end_3": "",
+        "pi_name": "gpcrdb",
+        "aamod_pair_one_2": "262",
+        "concentr_3": "0.25",
+        "aamod_position_3": "pair",
+        "aa_no_9": "277",
+        "mut_aa_5": "A",
+        "other_crystal_type": "sitting drop",
+        "temperature": "277K",
+        "aamod_end_2": "",
+        "protein_concentr": "0",
+        "mut_type_5": "Thermostabilising",
+        "deletion_2": "del_range",
+        "aamod_start_3": "",
+        "ins_start_2": "",
+        "mut_type_9": "Thermostabilising",
+        "undefined_2": "",
+        "delet_start": "",
+        "other_lipid": "",
+        "concentr_unit_4": "%v/v",
+        "prot_cleavage": "",
+        "csrfmiddlewaretoken": "a9GkjfvtMFrNgvfx0eaiIAe3OuJbzsYMR1b5IsR5zTkSFRdj3BT1qWFsqAz2UNLE",
+        "aa_no": "",
+        "lipid_concentr_unit": "",
+        "lcp_conc_unit": "",
+        "deterg_type": "DM",
+        "aamod_position_4": "pair",
+        "concentr_6": "0.05",
+        "aamod_position_5": "pair",
+        "chemical_comp_4": "NG",
+        "aamod_4": "Disulfide bond",
+        "other_prot_cleavage_2": "",
+        "aamod_3": "Disulfide bond",
+        "mod_remark_5": "L-cystine",
+        "lcp_conc": "",
+        "wt_aa_3": "T",
+        "aamod_single_2": "",
+        "presence_expr": "",
+        "mut_type_8": "Thermostabilising",
+        "pdb_name": "3pwh_partial",
+        "aamod_position": "",
+        "aamod_position_2": "pair",
+        "aamod_single": "",
+        "aa_no_6": "202",
+        "wt_aa_5": "K",
+        "wt_aa": "",
+        "chemical_comp_6": "CYMAL-6",
+        "mod_remark_4": "L-cystine",
+        "concentr_unit_6": "%w/v",
+        "concentr_unit_2": "% v/v",
+        "chemical_comp_5": "1-BUTANOL",
+        "ins_end_2": "",
+        "chemical_comp_3": "MgCl2",
+        "other_prot_cleavage": "",
+        "additive_concentr": "0",
+        "aamod_start_5": "",
+        "mut_aa_9": "A",
+        "presence_expr_2": "",
+        "uniprot": "aa2ar_human",
+        "aamod_pair_one_3": "71",
+        "concentr_5": "0.1",
+        "ligand_id": "CHEMBL113142\t\t",
+        "crystal_remark": "0.3% NG + 0.05% CYMAL-6\r\n",
+        "aamod_2": "Disulfide bond",
+        "wt_aa_7": "L",
+        "other_tag": "",
+        "mut_aa_3": "A",
+        "ligand_conc_unit": "",
+        "ligand_id_type": "ChEMBL Compound ID"
+    },
+    "error": 0,
+    "error_msg": []
+}

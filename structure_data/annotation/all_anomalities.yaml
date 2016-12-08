@@ -2755,7 +2755,7 @@ cml1_human:
     '5.46': G
 cnr1_human:
     UniProt: cnr1_human
-    Xtal Templ: lpar1_human
+    Xtal Templ: cnr1_human
     Cl: A
     1x411: ''
     2x551: ''
@@ -2784,7 +2784,7 @@ cnr1_human:
     '5.46': V
 cnr2_human:
     UniProt: cnr2_human
-    Xtal Templ: lpar1_human
+    Xtal Templ: cnr1_human
     Cl: A
     1x411: ''
     2x551: ''
@@ -8825,7 +8825,7 @@ ox1r_human:
     4x52: ''
     4x56: ''
     4x57: ''
-    4x58: ''
+    4x58: 4x58
     5x411: ''
     5x421: ''
     5x461: 5x461
@@ -8854,7 +8854,7 @@ ox2r_human:
     4x52: ''
     4x56: ''
     4x57: ''
-    4x58: ''
+    4x58: 4x58
     5x411: ''
     5x421: ''
     5x461: 5x461
