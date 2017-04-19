@@ -1,0 +1,12 @@
+construct: 5unh
+pdb: 5UNH
+preferred_chain: B
+state: Active
+ligand:
+- name: 8EM
+  title: -
+  pubchemId: 126456406
+  role: Antagonist
+  type: Small molecule
+auxiliary_protein: BRIL
+signaling_protein: None
