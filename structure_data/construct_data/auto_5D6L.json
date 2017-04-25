@@ -1,718 +1,54 @@
 {
-    "construct_crystal": {
-        "pdb": "5D6L",
-        "pdb_name": "auto_5D6L",
-        "uniprot": "adrb2_human"
-    },
     "contact_info": {
-        "address": "",
-        "name_cont": "gpcrdb",
+        "address": "\t\t\t\t\t\t\t",
         "date": "11/28/2016",
+        "name_cont": "gpcrdb",
         "pi_email": "info@gpcrdb.org",
         "pi_name": "gpcrdb",
         "url": "gpcrdb.org"
     },
-    "protein": "&beta;<sub>2</sub>-adrenoceptor",
-    "wt_seq": "MGQPGNGSAFLLAPNGSHAPDHDVTQERDEVWVVGMGIVMSLIVLAIVFGNVLVITAIAKFERLQTVTNYFITSLACADLVMGLAVVPFGAAHILMKMWTFGNFWCEFWTSIDVLCVTASIETLCVIAVDRYFAITSPFKYQSLLTKNKARVIILMVWIVSGLTSFLPIQMHWYRATHQEAINCYANETCCDFFTNQAYAIASSIVSFYVPLVIMVFVYSRVFQEAKRQLQKIDKSEGRFHVQNLSQVEQDGRTGHGLRRSSKFCLKEHKALKTLGIIMGTFTLCWLPFFIVNIVHVIQDNLIRKEVYILLNWIGYVNSGFNPLIYCRSPDFRIAFQELLCLRRSSLKAYGNGYSSNGNTGEQSGYHVEQEKENKLLCEDLPGTEDFVGHQGTVPSDNIDSQGRNCSTNDSLL",
-    "pdb": "5D6L",
-    "links": [
-        "ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/5d6l.xml.gz",
-        "http://www.uniprot.org/uniprot/P00720.xml",
-        "http://www.ebi.ac.uk/pdbe/api/pdb/entry/experiment/5D6L",
-        "http://www.rcsb.org/pdb/explore/jmol.do?structureId=5D6L&json=true",
-        "http://www.ebi.ac.uk/pdbe/api/pdb/entry/ligand_monomers/5D6L",
-        "http://www.rcsb.org/pdb/rest/das/pdb_uniprot_mapping/alignment?query=5D6L",
-        "http://www.uniprot.org/uniprot/P00720.xml",
-        "http://www.uniprot.org/uniprot/adrb2_human.xml"
-    ],
-    "xml_not_observed": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26,
-        27,
-        28,
-        343,
-        344,
-        345,
-        346,
-        347,
-        348,
-        349,
-        350,
-        351,
-        352,
-        353,
-        354,
-        355,
-        356,
-        357,
-        358,
-        359,
-        360,
-        361,
-        362,
-        363,
-        364,
-        365
-    ],
-    "xml_segments": [
-        [
-            "5d6l_A_1_7",
-            [
-                "Expression tag"
-            ],
-            0,
-            0,
-            [],
-            "N-term",
-            [
-                0
-            ]
-        ],
-        [
-            "5d6l_A_8_230",
-            [
-                "adrb2_human"
-            ],
-            1,
-            223,
-            [
-                [
-                    1,
-                    223
-                ]
-            ],
-            "Within Receptor",
-            [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21,
-                22,
-                23,
-                24,
-                25,
-                26,
-                27,
-                28,
-                29,
-                30,
-                31,
-                32,
-                33,
-                34,
-                35,
-                36,
-                37,
-                38,
-                39,
-                40,
-                41,
-                42,
-                43,
-                44,
-                45,
-                46,
-                47,
-                48,
-                49,
-                50,
-                51,
-                52,
-                53,
-                54,
-                55,
-                56,
-                57,
-                58,
-                59,
-                60,
-                61,
-                62,
-                63,
-                64,
-                65,
-                66,
-                67,
-                68,
-                69,
-                70,
-                71,
-                72,
-                73,
-                74,
-                75,
-                76,
-                77,
-                78,
-                79,
-                80,
-                81,
-                82,
-                83,
-                84,
-                85,
-                86,
-                87,
-                88,
-                89,
-                90,
-                91,
-                92,
-                93,
-                94,
-                95,
-                96,
-                97,
-                98,
-                99,
-                100,
-                101,
-                102,
-                103,
-                104,
-                105,
-                106,
-                107,
-                108,
-                109,
-                110,
-                111,
-                112,
-                113,
-                114,
-                115,
-                116,
-                117,
-                118,
-                119,
-                120,
-                121,
-                122,
-                123,
-                124,
-                125,
-                126,
-                127,
-                128,
-                129,
-                130,
-                131,
-                132,
-                133,
-                134,
-                135,
-                136,
-                137,
-                138,
-                139,
-                140,
-                141,
-                142,
-                143,
-                144,
-                145,
-                146,
-                147,
-                148,
-                149,
-                150,
-                151,
-                152,
-                153,
-                154,
-                155,
-                156,
-                157,
-                158,
-                159,
-                160,
-                161,
-                162,
-                163,
-                164,
-                165,
-                166,
-                167,
-                168,
-                169,
-                170,
-                171,
-                172,
-                173,
-                174,
-                175,
-                176,
-                177,
-                178,
-                179,
-                180,
-                181,
-                182,
-                183,
-                184,
-                185,
-                186,
-                187,
-                188,
-                189,
-                190,
-                191,
-                192,
-                193,
-                194,
-                195,
-                196,
-                197,
-                198,
-                199,
-                200,
-                201,
-                202,
-                203,
-                204,
-                205,
-                206,
-                207,
-                208,
-                209,
-                210,
-                211,
-                212,
-                213,
-                214,
-                215,
-                216,
-                217,
-                218,
-                219,
-                220,
-                221,
-                222,
-                223
-            ]
-        ],
-        [
-            "5d6l_A_231_237",
-            [
-                "Linker"
-            ],
-            224,
-            230,
-            [],
-            "Within Receptor",
-            [
-                224,
-                225,
-                226,
-                227,
-                228,
-                229,
-                230
-            ]
-        ],
-        [
-            "5d6l_A_238_398",
-            [
-                "Endolysin"
-            ],
-            263,
-            1161,
-            [
-                [
-                    2,
-                    162
-                ]
-            ],
-            "Within Receptor",
-            [
-                1002,
-                1003,
-                1004,
-                1005,
-                1006,
-                1007,
-                1008,
-                1009,
-                1010,
-                1011,
-                1012,
-                1013,
-                1014,
-                1015,
-                1016,
-                1017,
-                1018,
-                1019,
-                1020,
-                1021,
-                1022,
-                1023,
-                1024,
-                1025,
-                1026,
-                1027,
-                1028,
-                1029,
-                1030,
-                1031,
-                1032,
-                1033,
-                1034,
-                1035,
-                1036,
-                1037,
-                1038,
-                1039,
-                1040,
-                1041,
-                1042,
-                1043,
-                1044,
-                1045,
-                1046,
-                1047,
-                1048,
-                1049,
-                1050,
-                1051,
-                1052,
-                1053,
-                1054,
-                1055,
-                1056,
-                1057,
-                1058,
-                1059,
-                1060,
-                1061,
-                1062,
-                1063,
-                1064,
-                1065,
-                1066,
-                1067,
-                1068,
-                1069,
-                1070,
-                1071,
-                1072,
-                1073,
-                1074,
-                1075,
-                1076,
-                1077,
-                1078,
-                1079,
-                1080,
-                1081,
-                1082,
-                1083,
-                1084,
-                1085,
-                1086,
-                1087,
-                1088,
-                1089,
-                1090,
-                1091,
-                1092,
-                1093,
-                1094,
-                1095,
-                1096,
-                1097,
-                1098,
-                1099,
-                1100,
-                1101,
-                1102,
-                1103,
-                1104,
-                1105,
-                1106,
-                1107,
-                1108,
-                1109,
-                1110,
-                1111,
-                1112,
-                1113,
-                1114,
-                1115,
-                1116,
-                1117,
-                1118,
-                1119,
-                1120,
-                1121,
-                1122,
-                1123,
-                1124,
-                1125,
-                1126,
-                1127,
-                1128,
-                1129,
-                1130,
-                1131,
-                1132,
-                1133,
-                1134,
-                1135,
-                1136,
-                1137,
-                1138,
-                1139,
-                1140,
-                1141,
-                1142,
-                1143,
-                1144,
-                1145,
-                1146,
-                1147,
-                1148,
-                1149,
-                1150,
-                1151,
-                1152,
-                1153,
-                1154,
-                1155,
-                1156,
-                1157,
-                1158,
-                1159,
-                1160,
-                1161,
-                263
-            ]
-        ],
-        [
-            "5d6l_A_399_500",
-            [
-                "adrb2_human"
-            ],
-            264,
-            365,
-            [
-                [
-                    264,
-                    365
-                ]
-            ],
-            "Within Receptor",
-            [
-                264,
-                265,
-                266,
-                267,
-                268,
-                269,
-                270,
-                271,
-                272,
-                273,
-                274,
-                275,
-                276,
-                277,
-                278,
-                279,
-                280,
-                281,
-                282,
-                283,
-                284,
-                285,
-                286,
-                287,
-                288,
-                289,
-                290,
-                291,
-                292,
-                293,
-                294,
-                295,
-                296,
-                297,
-                298,
-                299,
-                300,
-                301,
-                302,
-                303,
-                304,
-                305,
-                306,
-                307,
-                308,
-                309,
-                310,
-                311,
-                312,
-                313,
-                314,
-                315,
-                316,
-                317,
-                318,
-                319,
-                320,
-                321,
-                322,
-                323,
-                324,
-                325,
-                326,
-                327,
-                328,
-                329,
-                330,
-                331,
-                332,
-                333,
-                334,
-                335,
-                336,
-                337,
-                338,
-                339,
-                340,
-                341,
-                342,
-                343,
-                344,
-                345,
-                346,
-                347,
-                348,
-                349,
-                350,
-                351,
-                352,
-                353,
-                354,
-                355,
-                356,
-                357,
-                358,
-                359,
-                360,
-                361,
-                362,
-                363,
-                364,
-                365
-            ]
-        ]
-    ],
-    "mutations": [
-        {
-            "pos": 27,
-            "type": "",
-            "mut": "Q",
-            "wt": "E"
-        }
-    ],
+    "construct_crystal": {
+        "ligand_activity": "antagonist",
+        "ligand_conc": "10",
+        "ligand_conc_unit": "\u00b5M",
+        "ligand_id": "71739",
+        "ligand_id_type": "PubChem CID",
+        "ligand_name": "carazolol",
+        "pdb": "5D6L",
+        "pdb_name": "auto_5D6L",
+        "uniprot": "adrb2_human"
+    },
     "auxiliary": {
-        "aux0": {
-            "position": "N-term",
-            "type": "auto",
-            "presence": "YES",
-            "subtype": "Expression tag",
-            "start": 0
-        },
-        "aux1": {
-            "position": "Within Receptor",
-            "type": "auto",
-            "presence": "YES",
-            "subtype": "Linker",
-            "start": "224"
-        },
         "aux2": {
             "position": "Within Receptor",
-            "type": "auto",
-            "presence": "YES",
-            "subtype": "Endolysin",
-            "start": "224"
+            "type": "fusion",
+            "subtype": "T4 Lysozyme (T4L)",
+            "presence": "YES"
         }
     },
     "deletions": [
         {
+            "start": "366",
+            "end": "413",
             "origin": "user",
-            "start": 224,
-            "end": 263
+            "type": "range"
         },
         {
-            "origin": "user",
-            "start": 366,
-            "end": 413
+            "start": "233",
+            "end": "260",
+            "origin": "insertion_2",
+            "type": "range"
         }
     ],
-    "not_observed": [
-        [
-            1,
-            28
-        ],
-        [
-            343,
-            365
-        ]
-    ],
-    "resolution": 3.2,
-    "crystal_growth": [
+    "mutations": [
         {
-            "grow_details": "30 - 35 % Peg 400, 5 -10 % butanediol, 0.1 - 0.35 mM Na sulphate, 0.1 M Bis-Tris pH 7.0.",
-            "grow_temperature": 293,
-            "grow_ph": null,
-            "grow_method": "LIPIDIC CUBIC PHASE"
+            "mut": "E",
+            "type": "Unknown",
+            "remark": "",
+            "wt": "N",
+            "pos": "187"
         }
     ],
-    "r_factor": 0.2236,
-    "experimental_method": "X-ray diffraction",
     "modifications": [
         {
             "position": [
@@ -735,1226 +71,244 @@
             ],
             "type": "Disulfide bond",
             "remark": "L-cystine"
-        },
-        {
-            "position": [
-                "pair",
-                [
-                    "1215",
-                    "341"
-                ]
-            ],
-            "type": "attachment",
-            "remark": "S-palmitoyl-L-cysteine"
         }
     ],
-    "modifications2": {
-        "protmod": {
-            "size": 3,
-            "reference": {
-                "pubYear": "2004",
-                "journal": "Proteomics",
-                "pubMonth": "Jun",
-                "title": "The RESID Database of Protein Modifications as a resource and annotation tool.",
-                "volume": "4",
-                "issue": "6",
-                "authors": "Garavelli J.S.",
-                "pmid": 15174122,
-                "pages": "1527-33"
-            },
-            "domains": [
-                {
-                    "name": "ProteinModificationImpl [id=0018, condition=Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG], category=crosslink2, occurrenceType=natural, pdbccId=null, pdbccName=null, residId=AA0025, residName=L-cystine, psimodId=MOD:00034, psimodName=L-cystine (cross-link), sysName=null, formula=null, keywords=[redox-active center, disulfide bond]]",
-                    "color": "[56,100,138]",
-                    "condition": "Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG]",
-                    "psiModId": "MOD:00034",
-                    "id": "Disulfide bond",
-                    "description": "L-cystine",
-                    "jmolRange": "106:A,191:A",
-                    "category": "crosslink2",
-                    "resId": "AA0025",
-                    "range": "106:A,191:A"
-                },
-                {
-                    "name": "ProteinModificationImpl [id=0018, condition=Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG], category=crosslink2, occurrenceType=natural, pdbccId=null, pdbccName=null, residId=AA0025, residName=L-cystine, psimodId=MOD:00034, psimodName=L-cystine (cross-link), sysName=null, formula=null, keywords=[redox-active center, disulfide bond]]",
-                    "color": "[56,100,138]",
-                    "condition": "Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG]",
-                    "psiModId": "MOD:00034",
-                    "id": "Disulfide bond",
-                    "description": "L-cystine",
-                    "jmolRange": "184:A,190:A",
-                    "category": "crosslink2",
-                    "resId": "AA0025",
-                    "range": "184:A,190:A"
-                },
-                {
-                    "name": "ProteinModificationImpl [id=0052, condition=Components:[CYS];[PLM]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[PLM][C1], category=attachment, occurrenceType=natural, pdbccId=PLM, pdbccName=palmitic acid, residId=AA0106, residName=S-palmitoyl-L-cysteine, psimodId=MOD:00115, psimodName=S-palmitoyl-L-cysteine, sysName=null, formula=null, keywords=[lipoprotein, palmitoylation, thioester bond]]",
-                    "color": "[132,167,196]",
-                    "condition": "Components:[CYS];[PLM]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[PLM][C1]",
-                    "psiModId": "MOD:00115",
-                    "id": "attachment",
-                    "description": "S-palmitoyl-L-cysteine",
-                    "jmolRange": "1215:A,341:A",
-                    "pdbCcId": "PLM",
-                    "category": "attachment",
-                    "resId": "AA0106",
-                    "range": "1215:A,341:A"
-                }
-            ]
-        },
-        "scop": {
-            "size": 0,
-            "reference": {
-                "pubYear": "1995",
-                "journal": "J Mol Biol",
-                "pubMonth": "Apr",
-                "title": "SCOP: a structural classification of proteins database for the investigation of sequences and structures.",
-                "pubDay": "7",
-                "volume": "247",
-                "issue": "4",
-                "authors": "Murzin A.G., Brenner S.E., Hubbard T., Chothia C.",
-                "pmid": 7723011,
-                "pages": "536-40"
-            },
-            "domains": []
-        },
-        "dp": {
-            "size": 0,
-            "reference": {
-                "pubYear": "2000",
-                "journal": "Bioinformatics",
-                "pubMonth": "Dec",
-                "title": "Protein domain decomposition using a graph-theoretic approach.",
-                "volume": "16",
-                "issue": "12",
-                "authors": "Xu Y., Xu D., Gabow H.N., Gabow H.",
-                "pmid": 11159328,
-                "pages": "1091-104"
-            },
-            "domains": []
-        },
-        "pdp": {
-            "size": 3,
-            "reference": {
-                "pubYear": "2003",
-                "journal": "Bioinformatics",
-                "pubMonth": "Feb",
-                "title": "PDP: protein domain parser.",
-                "pubDay": "12",
-                "volume": "19",
-                "issue": "3",
-                "authors": "Alexandrov N., Shindyalov I.",
-                "pmid": 12584135,
-                "pages": "429-30"
-            },
-            "domains": [
-                {
-                    "name": "5D6LAa",
-                    "color": "[132,167,196]",
-                    "jmolRange": "29-230:A,263-342:A",
-                    "range": "A:29-230,A:263-342"
-                },
-                {
-                    "name": "5D6LAb",
-                    "color": "[0,178,102]",
-                    "jmolRange": "1074-1161:A",
-                    "range": "A:1074-1161"
-                },
-                {
-                    "name": "5D6LAc",
-                    "color": "[0,204,0]",
-                    "jmolRange": "1002-1073:A",
-                    "range": "A:1002-1073"
-                }
-            ]
-        }
+    "expression": {
+        "expr_method": "Baculovirus",
+        "host_cell": "Insect",
+        "host_cell_type": "Sf9"
     },
-    "ligands": {
-        "N9S": {
-            "number_of_entries": 1,
-            "comp_name": "4-O-alpha-D-Glucopyranosyl-beta-D-glucopyranose"
-        },
-        "BU1": {
-            "number_of_entries": 2,
-            "comp_name": "1,4-BUTANEDIOL"
-        },
-        "CLR": {
-            "number_of_entries": 3,
-            "comp_name": "CHOLESTEROL"
-        },
-        "PLM": {
-            "number_of_entries": 1,
-            "comp_name": "PALMITIC ACID"
-        },
-        "12P": {
-            "number_of_entries": 1,
-            "comp_name": "DODECAETHYLENE GLYCOL"
-        },
-        "SO4": {
-            "number_of_entries": 6,
-            "comp_name": "SULFATE ION"
-        },
-        "CAU": {
-            "number_of_entries": 1,
-            "comp_name": "(2S)-1-(9H-Carbazol-4-yloxy)-3-(isopropylamino)propan-2-ol"
-        },
-        "ACM": {
-            "number_of_entries": 1,
-            "comp_name": "ACETAMIDE"
-        }
+    "solubilization": {
+        "addit_concentr_unit": "N/A",
+        "additive_concentr": "N/A",
+        "chem_enz_treatment": "None",
+        "deterg_concentr": "1",
+        "deterg_concentr_unit": "% w/v",
+        "deterg_type": "LMNG",
+        "solub_additive": "none"
     },
-    "inserts": {
-        "adrb2_human": {
-            "alt_name": "Beta-2 adrenergic receptor",
-            "positions": [
-                [
-                    {
-                        "c_start": "36",
-                        "i_start": "1",
-                        "c_end": "50",
-                        "i_end": "15"
-                    },
-                    {
-                        "c_start": "36",
-                        "i_start": "1",
-                        "c_end": "51",
-                        "i_end": "16"
-                    },
-                    {
-                        "c_start": "51",
-                        "i_start": "16",
-                        "c_end": "61",
-                        "i_end": "26"
-                    },
-                    {
-                        "c_start": "52",
-                        "i_start": "17",
-                        "c_end": "62",
-                        "i_end": "27"
-                    },
-                    {
-                        "c_start": "62",
-                        "i_start": "27",
-                        "c_end": "221",
-                        "i_end": "186"
-                    },
-                    {
-                        "c_start": "63",
-                        "i_start": "28",
-                        "c_end": "222",
-                        "i_end": "187"
-                    },
-                    {
-                        "c_start": "222",
-                        "i_start": "187",
-                        "c_end": "265",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "223",
-                        "i_start": "188",
-                        "c_end": "265",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "230",
-                        "c_end": "1037",
-                        "i_end": "230"
-                    },
-                    {
-                        "c_start": "1079",
-                        "i_start": "231",
-                        "c_end": "1079",
-                        "i_end": "231"
-                    },
-                    {
-                        "c_start": "1079",
-                        "i_start": "231",
-                        "c_end": "1079",
-                        "i_end": "231"
-                    },
-                    {
-                        "c_start": "1081",
-                        "i_start": "233",
-                        "c_end": "1081",
-                        "i_end": "233"
-                    },
-                    {
-                        "c_start": "1081",
-                        "i_start": "233",
-                        "c_end": "1083",
-                        "i_end": "235"
-                    },
-                    {
-                        "c_start": "1082",
-                        "i_start": "234",
-                        "c_end": "1084",
-                        "i_end": "236"
-                    },
-                    {
-                        "c_start": "1084",
-                        "i_start": "236",
-                        "c_end": "1084",
-                        "i_end": "236"
-                    },
-                    {
-                        "c_start": "1086",
-                        "i_start": "238",
-                        "c_end": "1087",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1086",
-                        "i_start": "238",
-                        "c_end": "1087",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1101",
-                        "i_start": "239",
-                        "c_end": "1100",
-                        "i_end": "238"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1088",
-                        "i_start": "239",
-                        "c_end": "1088",
-                        "i_end": "239"
-                    },
-                    {
-                        "c_start": "1102",
-                        "i_start": "240",
-                        "c_end": "1102",
-                        "i_end": "240"
-                    },
-                    {
-                        "c_start": "1102",
-                        "i_start": "240",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1103",
-                        "i_start": "241",
-                        "c_end": "1103",
-                        "i_end": "241"
-                    },
-                    {
-                        "c_start": "1115",
-                        "i_start": "243",
-                        "c_end": "1115",
-                        "i_end": "243"
-                    },
-                    {
-                        "c_start": "1115",
-                        "i_start": "243",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1116",
-                        "i_start": "244",
-                        "c_end": "1116",
-                        "i_end": "244"
-                    },
-                    {
-                        "c_start": "1135",
-                        "i_start": "245",
-                        "c_end": "1135",
-                        "i_end": "245"
-                    },
-                    {
-                        "c_start": "1135",
-                        "i_start": "245",
-                        "c_end": "1135",
-                        "i_end": "245"
-                    },
-                    {
-                        "c_start": "1137",
-                        "i_start": "247",
-                        "c_end": "1137",
-                        "i_end": "247"
-                    },
-                    {
-                        "c_start": "1137",
-                        "i_start": "247",
-                        "c_end": "1138",
-                        "i_end": "248"
-                    },
-                    {
-                        "c_start": "1138",
-                        "i_start": "248",
-                        "c_end": "1139",
-                        "i_end": "249"
-                    },
-                    {
-                        "c_start": "1139",
-                        "i_start": "249",
-                        "c_end": "1140",
-                        "i_end": "250"
-                    },
-                    {
-                        "c_start": "1140",
-                        "i_start": "250",
-                        "c_end": "1141",
-                        "i_end": "251"
-                    },
-                    {
-                        "c_start": "1141",
-                        "i_start": "251",
-                        "c_end": "1142",
-                        "i_end": "252"
-                    },
-                    {
-                        "c_start": "1142",
-                        "i_start": "252",
-                        "c_end": "1143",
-                        "i_end": "253"
-                    },
-                    {
-                        "c_start": "1143",
-                        "i_start": "253",
-                        "c_end": "1145",
-                        "i_end": "255"
-                    },
-                    {
-                        "c_start": "1144",
-                        "i_start": "254",
-                        "c_end": "1145",
-                        "i_end": "255"
-                    },
-                    {
-                        "c_start": "1146",
-                        "i_start": "255",
-                        "c_end": "1146",
-                        "i_end": "255"
-                    },
-                    {
-                        "c_start": "1146",
-                        "i_start": "255",
-                        "c_end": "1146",
-                        "i_end": "255"
-                    },
-                    {
-                        "c_start": "1146",
-                        "i_start": "255",
-                        "c_end": "1146",
-                        "i_end": "255"
-                    },
-                    {
-                        "c_start": "1146",
-                        "i_start": "255",
-                        "c_end": "1146",
-                        "i_end": "255"
-                    },
-                    {
-                        "c_start": "1146",
-                        "i_start": "255",
-                        "c_end": "1146",
-                        "i_end": "255"
-                    },
-                    {
-                        "c_start": "1146",
-                        "i_start": "255",
-                        "c_end": "1146",
-                        "i_end": "255"
-                    },
-                    {
-                        "c_start": "1152",
-                        "i_start": "257",
-                        "c_end": "1152",
-                        "i_end": "257"
-                    },
-                    {
-                        "c_start": "1152",
-                        "i_start": "257",
-                        "c_end": "1154",
-                        "i_end": "259"
-                    },
-                    {
-                        "c_start": "1153",
-                        "i_start": "258",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "1155",
-                        "i_start": "260",
-                        "c_end": "1155",
-                        "i_end": "260"
-                    },
-                    {
-                        "c_start": "296",
-                        "i_start": "261",
-                        "c_end": "296",
-                        "i_end": "261"
-                    },
-                    {
-                        "c_start": "296",
-                        "i_start": "261",
-                        "c_end": "296",
-                        "i_end": "261"
-                    },
-                    {
-                        "c_start": "298",
-                        "i_start": "263",
-                        "c_end": "357",
-                        "i_end": "322"
-                    },
-                    {
-                        "c_start": "298",
-                        "i_start": "263",
-                        "c_end": "357",
-                        "i_end": "322"
-                    }
-                ]
-            ]
-        },
-        "P00720": {
-            "alt_name": "Endolysin",
-            "positions": [
-                [
-                    {
-                        "c_start": "1036",
-                        "i_start": "1",
-                        "c_end": "1035",
-                        "i_end": "0"
-                    },
-                    {
-                        "c_start": "1037",
-                        "i_start": "2",
-                        "c_end": "1171",
-                        "i_end": "136"
-                    },
-                    {
-                        "c_start": "273",
-                        "i_start": "137",
-                        "c_end": "298",
-                        "i_end": "162"
-                    }
-                ]
-            ]
-        }
-    }
+    "crystallization": {
+        "chemical_components": [
+            {
+                "value": "30-35",
+                "unit": "%v/v",
+                "type": "Lipid",
+                "component": "PEG 400"
+            },
+            {
+                "value": "5-10",
+                "unit": "%v/v",
+                "type": "Lipid",
+                "component": "1,4-butanediol"
+            },
+            {
+                "value": "100-350",
+                "unit": "mM",
+                "type": "Lipid",
+                "component": "Na2SO4"
+            },
+            {
+                "value": "100",
+                "unit": "mM",
+                "type": "Lipid",
+                "component": "Bis-Tris propane"
+            }
+        ],
+        "crystal_method": "other [See next field]",
+        "crystal_type": "lipidic cubic phase (LCP)",
+        "deterg_conc": "0.01",
+        "deterg_conc_unit": "%w/v",
+        "detergent": "LMNG",
+        "lcp_add": "cholesterol",
+        "lcp_conc": "10",
+        "lcp_conc_unit": "%w/w",
+        "lcp_lipid": "monoolein (9.9 MAG)",
+        "other_method": "LCP",
+        "ph": "single_ph",
+        "ph_single": "7",
+        "protein_conc_unit": "mg/mL",
+        "protein_concentr": "45",
+        "temperature": "20"
+    },
+    "unparsed": {
+        "mod_remark_4": "S-palmitoyl-L-cysteine",
+        "aamod_pair_one_4": "1215",
+        "presence_expr_2": "YES",
+        "protein_id_type_2": "pubchem",
+        "aamod_pair_two_4": "341"
+    },
+    "raw_data": {
+        "chem_enz_treatment": "None",
+        "undefined_3": "",
+        "mod_remark_3": "L-cystine",
+        "other_host": "",
+        "other_deterg": "",
+        "fusion_prot_2": "T4 Lysozyme (T4L)",
+        "other_tag": "",
+        "aamod_end_2": "",
+        "sort_pos_2": "",
+        "expr_other": "",
+        "insert_pos_type": "",
+        "other_prot_cleavage_2": "",
+        "other_method": "LCP",
+        "other_deterg_type": "",
+        "ligand_name": "carazolol",
+        "aamod_pair_two_2": "191",
+        "wt_aa": "",
+        "protein_conc_unit": "mg/mL",
+        "mut_type_2": "Unknown",
+        "aamod_pair_two_3": "190",
+        "tag_2": "",
+        "uniprot": "adrb2_human",
+        "ligand_id_type": "PubChem CID",
+        "position": "",
+        "sort_pos": "",
+        "aamod_single_3": "",
+        "mod_remark": "",
+        "concentr_unit_5": "mM",
+        "prot_cleavage": "",
+        "aamod_3": "Disulfide bond",
+        "addit_concentr_unit": "N/A",
+        "linker_seq_2": "",
+        "delet_end_2": "413",
+        "ins_start": "",
+        "mod_remark_4": "S-palmitoyl-L-cysteine",
+        "concentr": "",
+        "presence": "",
+        "aamod_pair_one_3": "184",
+        "aamod_start": "",
+        "ins_start_2": "233",
+        "deletion_2": "del_range",
+        "chemical_comp_3": "1,4-butanediol",
+        "protein_id_2": "",
+        "concentr_unit_4": "mM",
+        "aamod": "",
+        "deterg_conc": "0.01",
+        "aamod_start_2": "",
+        "crystal_remark": "",
+        "sol_remark": "",
+        "address": "\t\t\t\t\t\t\t",
+        "aamod_end": "",
+        "protein_id_type": "",
+        "protein_type": "",
+        "chemical_comp": "",
+        "pdb_name": "auto_5D6L",
+        "prot_cleavage_2": "",
+        "insert_pos_type_2": "ins_range",
+        "pi_email": "info@gpcrdb.org",
+        "mut_remark_2": "",
+        "concentr_4": "100-350",
+        "aamod_start_3": "",
+        "concentr_unit": "",
+        "concentr_unit_3": "%v/v",
+        "aamod_position_3": "pair",
+        "other_host_cell": "",
+        "aamod_end_3": "",
+        "protein_type_2": "fusion",
+        "mut_type": "",
+        "deletion_single_2": "",
+        "lcp_add": "cholesterol",
+        "host_cell": "Insect",
+        "other_lcp_lipid": "",
+        "concentr_2": "30-35",
+        "aamod_single": "",
+        "tag": "",
+        "linker_seq": "",
+        "other_prot_cleavage": "",
+        "aamod_end_4": "",
+        "aamod_single_2": "",
+        "expr_remark": "",
+        "time_expr": "",
+        "ins_end_2": "260",
+        "lipid_concentr_unit": "",
+        "aamod_position_4": "pair",
+        "position_2": "Within Receptor",
+        "ph_single": "7",
+        "ph_range_one": "",
+        "concentr_unit_2": "%v/v",
+        "ph_range_two": "",
+        "chemical_comp_5": "Bis-Tris propane",
+        "other_signal_2": "",
+        "pi_name": "gpcrdb",
+        "aamod_single_4": "",
+        "mut_aa_2": "E",
+        "chemical_comp_2": "PEG 400",
+        "insert_pos_single": "",
+        "deterg_type": "LMNG",
+        "additive_concentr": "N/A",
+        "wt_aa_2": "N",
+        "aa_no_2": "187",
+        "aamod_pair_one_4": "1215",
+        "other_signal": "",
+        "aamod_2": "Disulfide bond",
+        "protein_id_type_2": "pubchem",
+        "deletion_single": "",
+        "expr_method": "Baculovirus",
+        "delet_end": "",
+        "other_crystal_type": "",
+        "ligand_conc_unit": "\u00b5M",
+        "aamod_pair_two": "",
+        "name_cont": "gpcrdb",
+        "crystal_method": "other [See next field]",
+        "date": "11/28/2016",
+        "presence_expr_2": "YES",
+        "deterg_concentr_unit": "% w/v",
+        "protein_concentr": "45",
+        "ligand_activity": "antagonist",
+        "crystal_type": "lipidic cubic phase (LCP)",
+        "csrfmiddlewaretoken": "PdzUUxq56ayeUIyoN91tMElG4rxpWZwO8UwbjqkmNCWZMr5GMPxBMqb3MPFHbtTe",
+        "aamod_pair_two_4": "341",
+        "aamod_start_4": "",
+        "signal": "",
+        "aamod_position": "",
+        "aamod_pair_one_2": "106",
+        "aa_no": "",
+        "delet_start": "",
+        "chemical_comp_type_3": "Lipid",
+        "chemical_comp_type": "",
+        "other_lig_act": "",
+        "aamod_position_2": "pair",
+        "ph": "single_ph",
+        "url": "gpcrdb.org",
+        "host_cell_type": "Sf9",
+        "temperature": "20",
+        "concentr_3": "5-10",
+        "deletion": "",
+        "deterg_conc_unit": "%w/v",
+        "chemical_comp_4": "Na2SO4",
+        "solub_additive": "none",
+        "undefined_2": "",
+        "other_lig_id": "",
+        "ligand_id": "71739",
+        "protein_id": "",
+        "fusion_prot": "",
+        "other_tag_2": "",
+        "undefined_4": "",
+        "lipid": "",
+        "pdb": "5D6L",
+        "other_lipid": "",
+        "lcp_lipid": "monoolein (9.9 MAG)",
+        "signal_2": "",
+        "deterg_concentr": "1",
+        "chemical_comp_type_5": "Lipid",
+        "lipid_concentr": "",
+        "lcp_conc": "10",
+        "presence_expr": "",
+        "chemical_comp_type_2": "Lipid",
+        "presence_2": "YES",
+        "concentr_5": "100",
+        "mut_remark": "",
+        "chemical_comp_type_4": "Lipid",
+        "detergent": "LMNG",
+        "lcp_conc_unit": "%w/w",
+        "aamod_pair_one": "",
+        "mut_aa": "",
+        "mod_remark_2": "L-cystine",
+        "delet_start_2": "366",
+        "ins_end": "",
+        "insert_pos_single_2": "",
+        "ligand_conc": "10"
+    },
+    "error": 0,
+    "error_msg": []
 }

@@ -1,30 +1,10 @@
 {
     "construct_crystal": {
-        "pdb": "5IUA",
         "pdb_name": "auto_5IUA",
+        "pdb": "5IUA",
         "uniprot": "aa2ar_human"
     },
-    "contact_info": {
-        "address": "",
-        "name_cont": "gpcrdb",
-        "date": "11/28/2016",
-        "pi_email": "info@gpcrdb.org",
-        "pi_name": "gpcrdb",
-        "url": "gpcrdb.org"
-    },
-    "protein": "A<sub>2A</sub> receptor",
     "wt_seq": "MPIMGSSVYITVELAIAVLAILGNVLVCWAVWLNSNLQNVTNYFVVSLAAADIAVGVLAIPFAITISTGFCAACHGCLFIACFVLVLTQSSIFSLLAIAIDRYIAIRIPLRYNGLVTGTRAKGIIAICWVLSFAIGLTPMLGWNNCGQPKEGKNHSQGCGEGQVACLFEDVVPMNYMVYFNFFACVLVPLLLMLGVYLRIFLAARRQLKQMESQPLPGERARSTLQKEVHAAKSLAIIVGLFALCWLPLHIINCFTFFCPDCSHAPLWLMYLAIVLSHTNSVVNPFIYAYRIREFRQTFRKIIRSHVLRQQEPFKAAGTSARVLAAHGSDGEQVSLRLNGHPPGVWANGSAPHPERRPNGYALGLVSGGSAQESQGNTGLPDVELLSHELKGVCPEPPGLDDPLAQDGAGVS",
-    "pdb": "5IUA",
-    "links": [
-        "ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/5iua.xml.gz",
-        "http://www.uniprot.org/uniprot/P0ABE7.xml",
-        "http://www.ebi.ac.uk/pdbe/api/pdb/entry/experiment/5IUA",
-        "http://www.rcsb.org/pdb/explore/jmol.do?structureId=5IUA&json=true",
-        "http://www.ebi.ac.uk/pdbe/api/pdb/entry/ligand_monomers/5IUA",
-        "http://www.rcsb.org/pdb/rest/das/pdb_uniprot_mapping/alignment?query=5IUA",
-        "http://www.uniprot.org/uniprot/aa2ar_human.xml",
-        "http://www.uniprot.org/uniprot/P0ABE7.xml"
-    ],
     "xml_not_observed": [
         307,
         308,
@@ -36,6 +16,38 @@
         314,
         315
     ],
+    "resolution": 2.2,
+    "contact_info": {
+        "name_cont": "gpcrdb",
+        "pi_name": "gpcrdb",
+        "url": "gpcrdb.org",
+        "date": "11/28/2016",
+        "address": "",
+        "pi_email": "info@gpcrdb.org"
+    },
+    "auxiliary": {
+        "aux1": {
+            "type": "auto",
+            "start": "209",
+            "subtype": "Soluble cytochrome b562",
+            "position": "Within Receptor",
+            "presence": "YES"
+        },
+        "aux0": {
+            "type": "auto",
+            "start": 0,
+            "subtype": "Expression tag",
+            "position": "N-term",
+            "presence": "YES"
+        },
+        "aux2": {
+            "type": "auto",
+            "start": "316",
+            "subtype": "Expression tag",
+            "position": "Within Receptor",
+            "presence": "YES"
+        }
+    },
     "xml_segments": [
         [
             "5iua_A_1_10",
@@ -538,100 +550,220 @@
             ]
         ]
     ],
-    "mutations": [
-        {
-            "pos": 54,
-            "type": "",
-            "mut": "L",
-            "wt": "A"
+    "modifications2": {
+        "pdp": {
+            "size": 2,
+            "reference": {
+                "pubMonth": "Feb",
+                "pages": "429-30",
+                "pmid": 12584135,
+                "title": "PDP: protein domain parser.",
+                "authors": "Alexandrov N., Shindyalov I.",
+                "pubDay": "12",
+                "pubYear": "2003",
+                "journal": "Bioinformatics",
+                "issue": "3",
+                "volume": "19"
+            },
+            "domains": [
+                {
+                    "range": "A:,A:222-306",
+                    "color": "[132,167,196]",
+                    "name": "5IUAAa",
+                    "jmolRange": "*:A,222-306:A"
+                },
+                {
+                    "range": "A:1001-221",
+                    "color": "[0,178,102]",
+                    "name": "5IUAAb",
+                    "jmolRange": "1001-221:A"
+                }
+            ]
         },
-        {
-            "pos": 88,
-            "type": "",
-            "mut": "A",
-            "wt": "T"
+        "dp": {
+            "size": 2,
+            "reference": {
+                "pages": "1091-104",
+                "pmid": 11159328,
+                "title": "Protein domain decomposition using a graph-theoretic approach.",
+                "authors": "Xu Y., Xu D., Gabow H.N., Gabow H.",
+                "pubYear": "2000",
+                "pubMonth": "Dec",
+                "journal": "Bioinformatics",
+                "issue": "12",
+                "volume": "16"
+            },
+            "domains": [
+                {
+                    "range": "A:,A:306-1102",
+                    "color": "[153,0,153]",
+                    "name": "5IUAA0",
+                    "jmolRange": "*:A,306-1102:A"
+                },
+                {
+                    "range": "A:1011-1101",
+                    "color": "[56,100,138]",
+                    "name": "5IUAA1",
+                    "jmolRange": "1011-1101:A"
+                }
+            ]
         },
-        {
-            "pos": 107,
-            "type": "",
-            "mut": "A",
-            "wt": "R"
+        "protmod": {
+            "size": 5,
+            "reference": {
+                "pages": "1527-33",
+                "pmid": 15174122,
+                "title": "The RESID Database of Protein Modifications as a resource and annotation tool.",
+                "authors": "Garavelli J.S.",
+                "pubYear": "2004",
+                "pubMonth": "Jun",
+                "journal": "Proteomics",
+                "issue": "6",
+                "volume": "4"
+            },
+            "domains": [
+                {
+                    "description": "L-cystine",
+                    "color": "[226,77,114]",
+                    "condition": "Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG]",
+                    "psiModId": "MOD:00034",
+                    "jmolRange": "77:A,166:A",
+                    "range": "77:A,166:A",
+                    "resId": "AA0025",
+                    "id": "Disulfide bond",
+                    "category": "crosslink2",
+                    "name": "ProteinModificationImpl [id=0018, condition=Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG], category=crosslink2, occurrenceType=natural, pdbccId=null, pdbccName=null, residId=AA0025, residName=L-cystine, psimodId=MOD:00034, psimodName=L-cystine (cross-link), sysName=null, formula=null, keywords=[redox-active center, disulfide bond]]"
+                },
+                {
+                    "description": "L-cystine",
+                    "color": "[226,77,114]",
+                    "condition": "Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG]",
+                    "psiModId": "MOD:00034",
+                    "jmolRange": "74:A,146:A",
+                    "range": "74:A,146:A",
+                    "resId": "AA0025",
+                    "id": "Disulfide bond",
+                    "category": "crosslink2",
+                    "name": "ProteinModificationImpl [id=0018, condition=Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG], category=crosslink2, occurrenceType=natural, pdbccId=null, pdbccName=null, residId=AA0025, residName=L-cystine, psimodId=MOD:00034, psimodName=L-cystine (cross-link), sysName=null, formula=null, keywords=[redox-active center, disulfide bond]]"
+                },
+                {
+                    "description": "L-cystine",
+                    "color": "[226,77,114]",
+                    "condition": "Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG]",
+                    "psiModId": "MOD:00034",
+                    "jmolRange": "262:A,259:A",
+                    "range": "262:A,259:A",
+                    "resId": "AA0025",
+                    "id": "Disulfide bond",
+                    "category": "crosslink2",
+                    "name": "ProteinModificationImpl [id=0018, condition=Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG], category=crosslink2, occurrenceType=natural, pdbccId=null, pdbccName=null, residId=AA0025, residName=L-cystine, psimodId=MOD:00034, psimodName=L-cystine (cross-link), sysName=null, formula=null, keywords=[redox-active center, disulfide bond]]"
+                },
+                {
+                    "description": "L-cystine",
+                    "color": "[226,77,114]",
+                    "condition": "Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG]",
+                    "psiModId": "MOD:00034",
+                    "jmolRange": "71:A,159:A",
+                    "range": "71:A,159:A",
+                    "resId": "AA0025",
+                    "id": "Disulfide bond",
+                    "category": "crosslink2",
+                    "name": "ProteinModificationImpl [id=0018, condition=Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG], category=crosslink2, occurrenceType=natural, pdbccId=null, pdbccName=null, residId=AA0025, residName=L-cystine, psimodId=MOD:00034, psimodName=L-cystine (cross-link), sysName=null, formula=null, keywords=[redox-active center, disulfide bond]]"
+                },
+                {
+                    "description": "",
+                    "color": "[0,204,0]",
+                    "jmolRange": "2400:A,91:A,52:A",
+                    "range": "2400:A,91:A,52:A",
+                    "pdbCcId": "NA",
+                    "id": "Disulfide bond",
+                    "condition": "Components:[*];[NA]\nLinkages:ModificationLinkage: [*]:[*]<=>[NA][*]",
+                    "category": "crosslink2",
+                    "name": "ProteinModificationImpl [id=360, condition=Components:[*];[NA]\nLinkages:ModificationLinkage: [*]:[*]<=>[NA][*], category=crosslink2, occurrenceType=natural, pdbccId=NA, pdbccName=sodium ion, residId=null, residName=null, psimodId=null, psimodName=null, sysName=null, formula=null, keywords=[Metal coordination, NA]]"
+                }
+            ]
         },
-        {
-            "pos": 122,
-            "type": "",
-            "mut": "A",
-            "wt": "K"
-        },
-        {
-            "pos": 154,
-            "type": "",
-            "mut": "A",
-            "wt": "N"
-        },
-        {
-            "pos": 202,
-            "type": "",
-            "mut": "A",
-            "wt": "L"
-        },
-        {
-            "pos": 235,
-            "type": "",
-            "mut": "A",
-            "wt": "L"
-        },
-        {
-            "pos": 239,
-            "type": "",
-            "mut": "A",
-            "wt": "V"
-        },
-        {
-            "pos": 277,
-            "type": "",
-            "mut": "A",
-            "wt": "S"
-        }
-    ],
-    "auxiliary": {
-        "aux0": {
-            "position": "N-term",
-            "type": "auto",
-            "presence": "YES",
-            "subtype": "Expression tag",
-            "start": 0
-        },
-        "aux1": {
-            "position": "Within Receptor",
-            "type": "auto",
-            "presence": "YES",
-            "subtype": "Soluble cytochrome b562",
-            "start": "209"
-        },
-        "aux2": {
-            "position": "Within Receptor",
-            "type": "auto",
-            "presence": "YES",
-            "subtype": "Expression tag",
-            "start": "316"
+        "scop": {
+            "size": 0,
+            "reference": {
+                "pubMonth": "Apr",
+                "pages": "536-40",
+                "pmid": 7723011,
+                "title": "SCOP: a structural classification of proteins database for the investigation of sequences and structures.",
+                "authors": "Murzin A.G., Brenner S.E., Hubbard T., Chothia C.",
+                "pubDay": "7",
+                "pubYear": "1995",
+                "journal": "J Mol Biol",
+                "issue": "4",
+                "volume": "247"
+            },
+            "domains": []
         }
     },
-    "deletions": [
+    "r_factor": 0.2011,
+    "modifications": [
         {
-            "origin": "user",
-            "start": 1,
-            "end": 1
+            "type": "Disulfide bond",
+            "position": [
+                "pair",
+                [
+                    "77",
+                    "166"
+                ]
+            ],
+            "remark": "L-cystine"
         },
         {
-            "origin": "user",
-            "start": 209,
-            "end": 218
+            "type": "Disulfide bond",
+            "position": [
+                "pair",
+                [
+                    "74",
+                    "146"
+                ]
+            ],
+            "remark": "L-cystine"
         },
         {
-            "origin": "user",
-            "start": 316,
-            "end": 412
+            "type": "Disulfide bond",
+            "position": [
+                "pair",
+                [
+                    "262",
+                    "259"
+                ]
+            ],
+            "remark": "L-cystine"
+        },
+        {
+            "type": "Disulfide bond",
+            "position": [
+                "pair",
+                [
+                    "71",
+                    "159"
+                ]
+            ],
+            "remark": "L-cystine"
+        },
+        {
+            "type": "Disulfide bond",
+            "position": [
+                "pair",
+                [
+                    "2400",
+                    "91"
+                ]
+            ],
+            "remark": ""
+        }
+    ],
+    "crystal_growth": [
+        {
+            "grow_temperature": 293,
+            "grow_ph": null,
+            "grow_details": "0.lM tri-sodium citrate pH 5.3-5.4, 0.05M sodium thiocyanate, 29-32% PEG400, 2% (v/v) 2,5-hexanediol",
+            "grow_method": "LIPIDIC CUBIC PHASE"
         }
     ],
     "not_observed": [
@@ -640,284 +772,152 @@
             315
         ]
     ],
-    "resolution": 2.2,
-    "crystal_growth": [
+    "mutations": [
         {
-            "grow_details": "0.lM tri-sodium citrate pH 5.3-5.4, 0.05M sodium thiocyanate, 29-32% PEG400, 2% (v/v) 2,5-hexanediol",
-            "grow_temperature": 293,
-            "grow_ph": null,
-            "grow_method": "LIPIDIC CUBIC PHASE"
+            "pos": 54,
+            "mut": "L",
+            "wt": "A",
+            "type": ""
+        },
+        {
+            "pos": 88,
+            "mut": "A",
+            "wt": "T",
+            "type": ""
+        },
+        {
+            "pos": 107,
+            "mut": "A",
+            "wt": "R",
+            "type": ""
+        },
+        {
+            "pos": 122,
+            "mut": "A",
+            "wt": "K",
+            "type": ""
+        },
+        {
+            "pos": 154,
+            "mut": "A",
+            "wt": "N",
+            "type": ""
+        },
+        {
+            "pos": 202,
+            "mut": "A",
+            "wt": "L",
+            "type": ""
+        },
+        {
+            "pos": 235,
+            "mut": "A",
+            "wt": "L",
+            "type": ""
+        },
+        {
+            "pos": 239,
+            "mut": "A",
+            "wt": "V",
+            "type": ""
+        },
+        {
+            "pos": 277,
+            "mut": "A",
+            "wt": "S",
+            "type": ""
         }
     ],
-    "r_factor": 0.2011,
-    "experimental_method": "X-ray diffraction",
-    "modifications": [
-        {
-            "position": [
-                "pair",
-                [
-                    "77",
-                    "166"
-                ]
-            ],
-            "type": "Disulfide bond",
-            "remark": "L-cystine"
-        },
-        {
-            "position": [
-                "pair",
-                [
-                    "74",
-                    "146"
-                ]
-            ],
-            "type": "Disulfide bond",
-            "remark": "L-cystine"
-        },
-        {
-            "position": [
-                "pair",
-                [
-                    "262",
-                    "259"
-                ]
-            ],
-            "type": "Disulfide bond",
-            "remark": "L-cystine"
-        },
-        {
-            "position": [
-                "pair",
-                [
-                    "71",
-                    "159"
-                ]
-            ],
-            "type": "Disulfide bond",
-            "remark": "L-cystine"
-        },
-        {
-            "position": [
-                "pair",
-                [
-                    "2400",
-                    "91"
-                ]
-            ],
-            "type": "Disulfide bond",
-            "remark": ""
-        }
-    ],
-    "modifications2": {
-        "protmod": {
-            "size": 5,
-            "reference": {
-                "pubYear": "2004",
-                "journal": "Proteomics",
-                "pubMonth": "Jun",
-                "title": "The RESID Database of Protein Modifications as a resource and annotation tool.",
-                "issue": "6",
-                "volume": "4",
-                "authors": "Garavelli J.S.",
-                "pmid": 15174122,
-                "pages": "1527-33"
-            },
-            "domains": [
-                {
-                    "name": "ProteinModificationImpl [id=0018, condition=Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG], category=crosslink2, occurrenceType=natural, pdbccId=null, pdbccName=null, residId=AA0025, residName=L-cystine, psimodId=MOD:00034, psimodName=L-cystine (cross-link), sysName=null, formula=null, keywords=[redox-active center, disulfide bond]]",
-                    "color": "[226,77,114]",
-                    "condition": "Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG]",
-                    "psiModId": "MOD:00034",
-                    "id": "Disulfide bond",
-                    "description": "L-cystine",
-                    "jmolRange": "77:A,166:A",
-                    "category": "crosslink2",
-                    "resId": "AA0025",
-                    "range": "77:A,166:A"
-                },
-                {
-                    "name": "ProteinModificationImpl [id=0018, condition=Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG], category=crosslink2, occurrenceType=natural, pdbccId=null, pdbccName=null, residId=AA0025, residName=L-cystine, psimodId=MOD:00034, psimodName=L-cystine (cross-link), sysName=null, formula=null, keywords=[redox-active center, disulfide bond]]",
-                    "color": "[226,77,114]",
-                    "condition": "Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG]",
-                    "psiModId": "MOD:00034",
-                    "id": "Disulfide bond",
-                    "description": "L-cystine",
-                    "jmolRange": "74:A,146:A",
-                    "category": "crosslink2",
-                    "resId": "AA0025",
-                    "range": "74:A,146:A"
-                },
-                {
-                    "name": "ProteinModificationImpl [id=0018, condition=Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG], category=crosslink2, occurrenceType=natural, pdbccId=null, pdbccName=null, residId=AA0025, residName=L-cystine, psimodId=MOD:00034, psimodName=L-cystine (cross-link), sysName=null, formula=null, keywords=[redox-active center, disulfide bond]]",
-                    "color": "[226,77,114]",
-                    "condition": "Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG]",
-                    "psiModId": "MOD:00034",
-                    "id": "Disulfide bond",
-                    "description": "L-cystine",
-                    "jmolRange": "262:A,259:A",
-                    "category": "crosslink2",
-                    "resId": "AA0025",
-                    "range": "262:A,259:A"
-                },
-                {
-                    "name": "ProteinModificationImpl [id=0018, condition=Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG], category=crosslink2, occurrenceType=natural, pdbccId=null, pdbccName=null, residId=AA0025, residName=L-cystine, psimodId=MOD:00034, psimodName=L-cystine (cross-link), sysName=null, formula=null, keywords=[redox-active center, disulfide bond]]",
-                    "color": "[226,77,114]",
-                    "condition": "Components:[CYS];[CYS]\nLinkages:ModificationLinkage: [CYS]:[SG]<=>[CYS][SG]",
-                    "psiModId": "MOD:00034",
-                    "id": "Disulfide bond",
-                    "description": "L-cystine",
-                    "jmolRange": "71:A,159:A",
-                    "category": "crosslink2",
-                    "resId": "AA0025",
-                    "range": "71:A,159:A"
-                },
-                {
-                    "name": "ProteinModificationImpl [id=360, condition=Components:[*];[NA]\nLinkages:ModificationLinkage: [*]:[*]<=>[NA][*], category=crosslink2, occurrenceType=natural, pdbccId=NA, pdbccName=sodium ion, residId=null, residName=null, psimodId=null, psimodName=null, sysName=null, formula=null, keywords=[Metal coordination, NA]]",
-                    "color": "[0,204,0]",
-                    "condition": "Components:[*];[NA]\nLinkages:ModificationLinkage: [*]:[*]<=>[NA][*]",
-                    "id": "Disulfide bond",
-                    "description": "",
-                    "jmolRange": "2400:A,91:A,52:A",
-                    "pdbCcId": "NA",
-                    "category": "crosslink2",
-                    "range": "2400:A,91:A,52:A"
-                }
-            ]
-        },
-        "dp": {
-            "size": 2,
-            "reference": {
-                "pubYear": "2000",
-                "journal": "Bioinformatics",
-                "pubMonth": "Dec",
-                "title": "Protein domain decomposition using a graph-theoretic approach.",
-                "issue": "12",
-                "volume": "16",
-                "authors": "Xu Y., Xu D., Gabow H.N., Gabow H.",
-                "pmid": 11159328,
-                "pages": "1091-104"
-            },
-            "domains": [
-                {
-                    "name": "5IUAA0",
-                    "color": "[153,0,153]",
-                    "range": "A:,A:306-1102",
-                    "jmolRange": "*:A,306-1102:A"
-                },
-                {
-                    "name": "5IUAA1",
-                    "color": "[56,100,138]",
-                    "range": "A:1011-1101",
-                    "jmolRange": "1011-1101:A"
-                }
-            ]
-        },
-        "scop": {
-            "size": 0,
-            "reference": {
-                "pubYear": "1995",
-                "journal": "J Mol Biol",
-                "issue": "4",
-                "pubMonth": "Apr",
-                "title": "SCOP: a structural classification of proteins database for the investigation of sequences and structures.",
-                "pubDay": "7",
-                "volume": "247",
-                "authors": "Murzin A.G., Brenner S.E., Hubbard T., Chothia C.",
-                "pmid": 7723011,
-                "pages": "536-40"
-            },
-            "domains": []
-        },
-        "pdp": {
-            "size": 2,
-            "reference": {
-                "pubYear": "2003",
-                "journal": "Bioinformatics",
-                "issue": "3",
-                "pubMonth": "Feb",
-                "title": "PDP: protein domain parser.",
-                "pubDay": "12",
-                "volume": "19",
-                "authors": "Alexandrov N., Shindyalov I.",
-                "pmid": 12584135,
-                "pages": "429-30"
-            },
-            "domains": [
-                {
-                    "name": "5IUAAa",
-                    "color": "[132,167,196]",
-                    "range": "A:,A:222-306",
-                    "jmolRange": "*:A,222-306:A"
-                },
-                {
-                    "name": "5IUAAb",
-                    "color": "[0,178,102]",
-                    "range": "A:1001-221",
-                    "jmolRange": "1001-221:A"
-                }
-            ]
-        }
-    },
+    "pdb": "5IUA",
+    "protein": "A<sub>2A</sub> receptor",
     "ligands": {
-        "6DX": {
-            "number_of_entries": 1,
-            "comp_name": "2-(furan-2-yl)-N~5~-[3-(4-phenylpiperazin-1-yl)propyl][1,2,4]triazolo[1,5-a][1,3,5]triazine-5,7-diamine"
-        },
         "OLB": {
-            "number_of_entries": 8,
-            "comp_name": "(2S)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate"
+            "comp_name": "(2S)-2,3-dihydroxypropyl (9Z)-octadec-9-enoate",
+            "number_of_entries": 8
         },
-        "CLR": {
-            "number_of_entries": 4,
-            "comp_name": "CHOLESTEROL"
-        },
-        "NA": {
-            "number_of_entries": 1,
-            "comp_name": "SODIUM ION"
+        "6DX": {
+            "comp_name": "2-(furan-2-yl)-N~5~-[3-(4-phenylpiperazin-1-yl)propyl][1,2,4]triazolo[1,5-a][1,3,5]triazine-5,7-diamine",
+            "number_of_entries": 1
         },
         "OLA": {
-            "number_of_entries": 17,
-            "comp_name": "OLEIC ACID"
+            "comp_name": "OLEIC ACID",
+            "number_of_entries": 17
+        },
+        "NA": {
+            "comp_name": "SODIUM ION",
+            "number_of_entries": 1
+        },
+        "CLR": {
+            "comp_name": "CHOLESTEROL",
+            "number_of_entries": 4
         }
     },
+    "links": [
+        "ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/5iua.xml.gz",
+        "http://www.uniprot.org/uniprot/P0ABE7.xml",
+        "http://www.ebi.ac.uk/pdbe/api/pdb/entry/experiment/5IUA",
+        "http://www.rcsb.org/pdb/explore/jmol.do?structureId=5IUA&json=true",
+        "http://www.ebi.ac.uk/pdbe/api/pdb/entry/ligand_monomers/5IUA",
+        "http://www.rcsb.org/pdb/rest/das/pdb_uniprot_mapping/alignment?query=5IUA",
+        "http://www.uniprot.org/uniprot/aa2ar_human.xml",
+        "http://www.uniprot.org/uniprot/P0ABE7.xml"
+    ],
     "inserts": {
         "aa2ar_human": {
-            "alt_name": "Adenosine receptor A2a",
             "positions": [
                 [
                     {
+                        "i_end": "208",
                         "c_start": "2",
-                        "i_start": "2",
                         "c_end": "208",
-                        "i_end": "208"
+                        "i_start": "2"
                     },
                     {
+                        "i_end": "306",
                         "c_start": "219",
-                        "i_start": "219",
                         "c_end": "306",
-                        "i_end": "306"
+                        "i_start": "219"
                     }
                 ]
-            ]
+            ],
+            "alt_name": "Adenosine receptor A2a"
         },
         "P0ABE7": {
-            "alt_name": "Soluble cytochrome b562",
             "positions": [
                 [
                     {
+                        "i_end": "64",
                         "c_start": "1001",
-                        "i_start": "23",
                         "c_end": "1042",
-                        "i_end": "64"
+                        "i_start": "23"
                     },
                     {
+                        "i_end": "128",
                         "c_start": "1059",
-                        "i_start": "81",
                         "c_end": "1106",
-                        "i_end": "128"
+                        "i_start": "81"
                     }
                 ]
-            ]
+            ],
+            "alt_name": "Soluble cytochrome b562"
         }
-    }
+    },
+    "experimental_method": "X-ray diffraction",
+    "deletions": [
+        {
+            "end": 1,
+            "start": 1,
+            "origin": "user"
+        },
+        {
+            "end": 218,
+            "start": 209,
+            "origin": "user"
+        },
+        {
+            "end": 412,
+            "start": 316,
+            "origin": "user"
+        }
+    ]
 }

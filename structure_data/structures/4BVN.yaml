@@ -12,6 +12,7 @@ ligand:
   pubchemId: '46937143'
   role: Antagonist
   type: Small molecule
+  title: '(S)-Cyanopindolol'
 auxiliary_protein: None
 signaling_protein: None
 segments:
