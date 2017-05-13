@@ -1,4 +1,4 @@
-//Class A (Rhodopsin) | gpcrdba
+Class A (Rhodopsin) | gpcrdba
     Aminergic receptors
         5-Hydroxytryptamine receptors
             "gpcr","1","5-Hydroxytryptamine receptors","1","5-HT<sub>1A</sub> receptor","","","","ADRBRL1|5-HT1A|ADRB2RL1|serotonin receptor 1A|Gpcr18","5286","HTR1A","5-hydroxytryptamine (serotonin) receptor 1A, G protein-coupled","5q11.2-q13","NM_000524","NP_000515","P08908","3350","2845","Htr1a","5-hydroxytryptamine (serotonin) receptor 1A, G protein-coupled","2q16","NM_012585","NP_036717","P19327","24473","MGI:96273","Htr1a","5-hydroxytryptamine (serotonin) receptor 1A","13 D2.1","NM_008308","NP_032334","Q64264","15550"
@@ -372,7 +372,7 @@
 Class B1 (Secretin) | gpcrdbb
     Peptide receptors
         Calcitonin receptors
-            "gpcr","11","Calcitonin receptors","43","CT receptor","","","","CTRI1-|CTR2|C1A/C1B|CT-R|calcitonin receptor|CTR","1440","CALCR","calcitonin receptor","7q21.3","NM_001742","NP_001733|NP_001158209","P30988","799","621001","Calcr","calcitonin receptor","4q13","NM_001034015|NM_053816","NP_001029187|NP_446268","P32214","116506","MGI:101950","Calcr","calcitonin receptor","6 A1","NM_007588","NP_031614","Q60755","12311"
+            "gpcr","11","Calcitonin receptors","43","CT receptor","","","","CTRI1-|CTR2|C1A/C1B|CT-R|calcitonin receptor|CTR","1440","CALCR","calcitonin receptor","7q21.3","NM_001742","NP_001733|NP_001158209","P30988-2","799","621001","Calcr","calcitonin receptor","4q13","NM_001034015|NM_053816","NP_001029187|NP_446268","P32214","116506","MGI:101950","Calcr","calcitonin receptor","6 A1","NM_007588","NP_031614","Q60755","12311"
             "gpcr","11","Calcitonin receptors","44","AMY<sub>1</sub> receptor","RAMP1|CT receptor","","","CTR/RAMP1","","","","","","","","","","","","","","","","","","","","","","","",""
             "gpcr","11","Calcitonin receptors","45","AMY<sub>2</sub> receptor","RAMP2|CT receptor","","","","","","","","","","","","","","","","","","","","","","","","","","",""
             "gpcr","11","Calcitonin receptors","46","AMY<sub>3</sub> receptor","RAMP3|CT receptor","","","","","","","","","","","","","","","","","","","","","","","","","","",""
