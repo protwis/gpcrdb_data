@@ -1,0 +1,11 @@
+construct: 5uz7
+pdb: 5UZ7
+preferred_chain: R
+state: Active
+ligand:
+- name: None
+  pubchemId: None
+  role: .nan
+  type: None
+auxiliary_protein: None
+signaling_protein: Gs

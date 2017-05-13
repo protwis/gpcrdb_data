@@ -4,8 +4,7 @@ preferred_chain: B
 state: Active
 ligand:
 - name: 8EM
-  title: -
-  pubchemId: 126456406
+  pubchemId: '126456406'
   role: Antagonist
   type: Small molecule
 auxiliary_protein: BRIL

@@ -4,8 +4,7 @@ preferred_chain: A
 state: Active
 ligand:
 - name: 8ES
-  title: -
-  pubchemId: 15780052
+  pubchemId: '15780052'
   role: Antagonist
   type: Small molecule
 auxiliary_protein: BRIL
