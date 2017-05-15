@@ -1,5 +1,6 @@
 construct: 5uz7
 pdb: 5UZ7
+representative: True
 preferred_chain: R
 state: Active
 ligand:
