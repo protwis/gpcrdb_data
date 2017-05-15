@@ -12,7 +12,7 @@
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 63.0
     e2b: 50.0
     e2e: 52.0
@@ -25,6 +25,7 @@
     8b: 47.0
     8e: 58.0
     Cl: A
+    RF: 5-Hydroxytryptamine
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -45,7 +46,7 @@
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -58,10 +59,45 @@
     8b: 47.0
     8e: 58.0
     Cl: A
+    RF: 5-Hydroxytryptamine
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 3.0
     2e3b: 36.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+aa1r_human__wt:
+    Key: aa1r_human__wt
+    1b: 29.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 67.0
+    e1b: 50.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 63.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 34.0
+    5e: 73.0
+    6b: 22.0
+    6e: 61.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 69.0
+    Cl: A
+    RF: Adenosine
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 33.0
     e1e3b: 1.0
     3ei2b: 1.0
 aa2ar_human__wt:
@@ -78,7 +114,7 @@ aa2ar_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 63.0
     e2b: 50.0
     e2e: 52.0
@@ -91,6 +127,7 @@ aa2ar_human__wt:
     8b: 47.0
     8e: 69.0
     Cl: A
+    RF: Adenosine
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 1.0
@@ -111,7 +148,7 @@ acm1_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 69.0
     e2b: 50.0
     e2e: 52.0
@@ -124,6 +161,7 @@ acm1_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Acetylcholine(muscarinic)
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -144,7 +182,7 @@ acm2_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 69.0
     e2b: 50.0
     e2e: 52.0
@@ -157,6 +195,7 @@ acm2_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Acetylcholine(muscarinic)
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -177,7 +216,7 @@ acm3_rat__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 69.0
     e2b: 50.0
     e2e: 52.0
@@ -190,6 +229,7 @@ acm3_rat__wt:
     8b: 47.0
     8e: 58.0
     Cl: A
+    RF: Acetylcholine(muscarinic)
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -210,7 +250,7 @@ acm4_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 69.0
     e2b: 50.0
     e2e: 52.0
@@ -223,6 +263,7 @@ acm4_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Acetylcholine(muscarinic)
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -243,7 +284,7 @@ adrb1_melga__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -256,6 +297,7 @@ adrb1_melga__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Adrenoceptors
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -276,7 +318,7 @@ adrb2_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -289,6 +331,7 @@ adrb2_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Adrenoceptors
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -309,7 +352,7 @@ agtr1_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -322,10 +365,113 @@ agtr1_human__wt:
     8b: 47.0
     8e: 61.0
     Cl: A
+    RF: Angiotensin
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 3.0
     2e3b: 36.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+agtr2_human__wt:
+    Key: agtr2_human__wt
+    1b: 33.0
+    1e: 60.0
+    i1b: '-'
+    i1e: '-'
+    2b: 38.0
+    2e: 66.0
+    e1b: 47.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 56.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 30.0
+    5e: 68.0
+    6b: 24.0
+    6e: 64.0
+    7b: 24.0
+    7e: 56.0
+    8b: 47.0
+    8e: 61.0
+    Cl: A
+    RF: Angiotensin
+    1ei1b: 15
+    i1e2b: 15
+    2e-e1b: 3.0
+    2e3b: 36.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+calcr_human__wt:
+    Key: calcr_human__wt
+    1b: 19.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 66.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 41.0
+    4e: 68.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 40.0
+    5e: 70.0
+    6b: 30.0
+    6e: 53.0
+    7b: 28.0
+    7e: 56.0
+    8b: 47.0
+    8e: 72.0
+    Cl: B1
+    RF: Calcitonin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 40.0
+    e1e3b: 15
+    3ei2b: 15
+ccr2_human__wt:
+    Key: ccr2_human__wt
+    1b: 27.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 66.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 31.0
+    5e: 68.0
+    6b: 28.0
+    6e: 65.0
+    7b: 26.0
+    7e: 56.0
+    8b: 47.0
+    8e: 58.0
+    Cl: A
+    RF: Chemokine
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 ccr5_human__wt:
@@ -342,23 +488,58 @@ ccr5_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 31.0
     5e: 68.0
-    6b: 30.0
+    6b: 28.0
     6e: 65.0
     7b: 24.0
     7e: 56.0
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Chemokine
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 1.0
     2e3b: 5.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+ccr9_human__wt:
+    Key: ccr9_human__wt
+    1b: 27.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 66.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 56.0
+    4b: 35.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 33.0
+    5e: 68.0
+    6b: 28.0
+    6e: 65.0
+    7b: 24.0
+    7e: 56.0
+    8b: 47.0
+    8e: 67.0
+    Cl: A
+    RF: Chemokine
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 cnr1_human__wt:
@@ -375,7 +556,7 @@ cnr1_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 63.0
     e2b: '-'
     e2e: '-'
@@ -388,6 +569,7 @@ cnr1_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Cannabinoid
     1ei1b: 1.0
     i1e2b: 2.0
     2e-e1b: 15
@@ -421,6 +603,7 @@ crfr1_human__wt:
     8b: 47.0
     8e: 72.0
     Cl: B1
+    RF: Corticotropin-releasingfact
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 15
@@ -441,7 +624,7 @@ cxcr4_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -454,6 +637,7 @@ cxcr4_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Chemokine
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 1.0
@@ -487,6 +671,7 @@ drd3_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Dopamine
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 3.0
@@ -507,7 +692,7 @@ ednrb_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -520,6 +705,7 @@ ednrb_human__wt:
     8b: 47.0
     8e: 60.0
     Cl: A
+    RF: Endothelin
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -540,7 +726,7 @@ ffar1_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -553,6 +739,7 @@ ffar1_human__wt:
     8b: 47.0
     8e: 61.0
     Cl: A
+    RF: Freefattyacid
     1ei1b: 15
     i1e2b: 15
     2e-e1b: 3.0
@@ -586,6 +773,7 @@ glr_human__wt:
     8b: 47.0
     8e: 72.0
     Cl: B1
+    RF: Glucagonreceptorfamily
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 15
@@ -606,7 +794,7 @@ grm1_human__wt:
     3e: 54.0
     i2b: '-'
     i2e: '-'
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -619,6 +807,7 @@ grm1_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: C
+    RF: Metabotropicglutamate
     1ei1b: 3.0
     i1e2b: 1.0
     2e-e1b: 15
@@ -639,7 +828,7 @@ grm5_human__wt:
     3e: 54.0
     i2b: '-'
     i2e: '-'
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -652,6 +841,7 @@ grm5_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: C
+    RF: Metabotropicglutamate
     1ei1b: 3.0
     i1e2b: 1.0
     2e-e1b: 15
@@ -672,7 +862,7 @@ hrh1_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 62.0
     e2b: 50.0
     e2e: 52.0
@@ -685,6 +875,7 @@ hrh1_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Histamine
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -704,8 +895,8 @@ lpar1_human__wt:
     3b: 21.0
     3e: 56.0
     i2b: 50.0
-    i2e: 57.0
-    4b: 39.0
+    i2e: 56.0
+    4b: 38.0
     4e: 63.0
     e2b: '-'
     e2e: '-'
@@ -718,6 +909,7 @@ lpar1_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Lysophospholipid(LPA)
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -738,7 +930,7 @@ ntr1_rat__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -751,6 +943,7 @@ ntr1_rat__wt:
     8b: 47.0
     8e: 58.0
     Cl: A
+    RF: Neurotensin
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 3.0
@@ -771,7 +964,7 @@ oprd_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -784,6 +977,7 @@ oprd_human__wt:
     8b: 47.0
     8e: 60.0
     Cl: A
+    RF: Opioid
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -804,7 +998,7 @@ oprd_mouse__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -817,6 +1011,7 @@ oprd_mouse__wt:
     8b: 47.0
     8e: 60.0
     Cl: A
+    RF: Opioid
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -837,7 +1032,7 @@ oprk_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -850,6 +1045,7 @@ oprk_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Opioid
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -870,7 +1066,7 @@ oprm_mouse__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -883,6 +1079,7 @@ oprm_mouse__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Opioid
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -903,7 +1100,7 @@ oprx_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -916,6 +1113,7 @@ oprx_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Opioid
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -935,8 +1133,8 @@ opsd_bovin__wt:
     3b: 21.0
     3e: 56.0
     i2b: 50.0
-    i2e: 57.0
-    4b: 39.0
+    i2e: 56.0
+    4b: 38.0
     4e: 62.0
     e2b: 50.0
     e2e: 52.0
@@ -949,6 +1147,7 @@ opsd_bovin__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Opsins
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -968,8 +1167,8 @@ opsd_human__wt:
     3b: 21.0
     3e: 56.0
     i2b: 50.0
-    i2e: 57.0
-    4b: 39.0
+    i2e: 56.0
+    4b: 38.0
     4e: 62.0
     e2b: 50.0
     e2e: 52.0
@@ -982,6 +1181,7 @@ opsd_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Opsins
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -1002,7 +1202,7 @@ opsd_todpa__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 62.0
     e2b: 50.0
     e2e: 52.0
@@ -1015,6 +1215,7 @@ opsd_todpa__wt:
     8b: 47.0
     8e: 58.0
     Cl: A
+    RF: Opsins
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 1.0
@@ -1034,8 +1235,8 @@ ox1r_human__wt:
     3b: 21.0
     3e: 56.0
     i2b: 50.0
-    i2e: 56.0
-    4b: 39.0
+    i2e: 53.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -1048,6 +1249,7 @@ ox1r_human__wt:
     8b: 47.0
     8e: 58.0
     Cl: A
+    RF: Orexin
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -1067,8 +1269,8 @@ ox2r_human__wt:
     3b: 21.0
     3e: 56.0
     i2b: 50.0
-    i2e: 56.0
-    4b: 39.0
+    i2e: 53.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -1081,6 +1283,7 @@ ox2r_human__wt:
     8b: 47.0
     8e: 58.0
     Cl: A
+    RF: Orexin
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -1101,7 +1304,7 @@ p2ry1_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -1114,6 +1317,7 @@ p2ry1_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: P2Y
     1ei1b: 15
     i1e2b: 15
     2e-e1b: 3.0
@@ -1134,7 +1338,7 @@ p2y12_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -1147,6 +1351,7 @@ p2y12_human__wt:
     8b: 47.0
     8e: 57.0
     Cl: A
+    RF: P2Y
     1ei1b: 15
     i1e2b: 15
     2e-e1b: 15
@@ -1167,7 +1372,7 @@ par1_human__wt:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 39.0
+    4b: 38.0
     4e: 63.0
     e2b: 50.0
     e2e: 52.0
@@ -1180,8 +1385,43 @@ par1_human__wt:
     8b: 47.0
     8e: 61.0
     Cl: A
+    RF: Proteinase-activated
     1ei1b: 1.0
     i1e2b: 1.0
+    2e-e1b: 3.0
+    2e3b: 36.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+par2_human__wt:
+    Key: par2_human__wt
+    1b: 28.0
+    1e: 61.0
+    i1b: '-'
+    i1e: '-'
+    2b: 37.0
+    2e: 66.0
+    e1b: 47.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 56.0
+    4b: 38.0
+    4e: 62.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 31.0
+    5e: 68.0
+    6b: 26.0
+    6e: 65.0
+    7b: 31.0
+    7e: 57.0
+    8b: 48.0
+    8e: 61.0
+    Cl: A
+    RF: Proteinase-activated
+    1ei1b: 15
+    i1e2b: 15
     2e-e1b: 3.0
     2e3b: 36.0
     e1e3b: 1.0
@@ -1199,8 +1439,8 @@ s1pr1_human__wt:
     3b: 21.0
     3e: 56.0
     i2b: 50.0
-    i2e: 57.0
-    4b: 39.0
+    i2e: 56.0
+    4b: 38.0
     4e: 63.0
     e2b: '-'
     e2e: '-'
@@ -1213,6 +1453,7 @@ s1pr1_human__wt:
     8b: 47.0
     8e: 59.0
     Cl: A
+    RF: Lysophospholipid(S1P)
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 2.0
@@ -1246,6 +1487,7 @@ smo_human__wt:
     8b: 47.0
     8e: 62.0
     Cl: F
+    RF: Frizzled
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 15
@@ -1266,7 +1508,7 @@ us28_hcmva__wt:
     3e: 56.0
     i2b: '-'
     i2e: '-'
-    4b: 39.0
+    4b: 38.0
     4e: 63.0
     e2b: 50.0
     e2e: 52.0
@@ -1279,6 +1521,7 @@ us28_hcmva__wt:
     8b: 47.0
     8e: 62.0
     Cl: A
+    RF: Chemokine
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 15

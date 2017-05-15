@@ -1,0 +1,12 @@
+construct: 5lwe
+pdb: 5LWE
+representative: true
+preferred_chain: B
+state: Inactive
+ligand:
+- name: 79K
+  pubchemId: '10343454'
+  role: Antagonist
+  type: Small molecule
+auxiliary_protein: None
+signaling_protein: None
