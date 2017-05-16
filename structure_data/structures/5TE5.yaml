@@ -1,0 +1,8 @@
+construct: 5te5
+pdb: 5TE5
+signaling_protein: None
+auxiliary_protein: None
+preferred_chain: A
+state: Inactive
+ligand:
+- {name: 7AB, pubchemId: '-', role: Agonist, type: Small molecule}
