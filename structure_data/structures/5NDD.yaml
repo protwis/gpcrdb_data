@@ -5,7 +5,7 @@ preferred_chain: A
 state: Inactive
 ligand:
 - name: 8TZ
-  pubchemId: '-'
+  pubchemId: '126961334'
   role: Antagonist
   type: Small molecule
 auxiliary_protein: T4-Lysozyme, BRIL

@@ -5,4 +5,4 @@ auxiliary_protein: None
 preferred_chain: A
 state: Inactive
 ligand:
-- {name: 7AB, pubchemId: '-', role: Agonist, type: Small molecule}
+- {name: 7AB, pubchemId: '6438558', role: Agonist, type: Small molecule}
