@@ -25,6 +25,12 @@ Structure-based alignments and generic residue numbering
 .. _10.1016/j.tips.2014.11.001: http://dx.doi.org/10.1016/j.tips.2014.11.001
 .. _10.3390/ijms15057841: http://dx.doi.org/10.3390/ijms15057841
 
+GPCR-G protein selectivity
+-----------------------------------------------------
+*   Flock, T., Hauser, A. S., Lund, N., Gloriam, D. E., Balaji, S., & Babu, M. M., "Selectivity determinants of GPCR–G-protein binding.", **2017**, *Nature*, *in press*.  `10.1038/nature22070`_
+
+.. _10.1038/nature22070: http://dx.doi.org/10.1038/nature22070
+
 Mutation design tool
 -----------------------------------------------------
 
