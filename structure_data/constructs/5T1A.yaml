@@ -1,0 +1,8 @@
+deletions: ''
+insertions:
+- name: T4 Lysozyme
+  positions: [1, 2]
+  sequence: ''
+mutations: ''
+name: 5T1A
+protein: ccr2_human

@@ -1,0 +1,11 @@
+construct: 5u09
+pdb: 5U09
+preferred_chain: A
+state: Inactive
+ligand:
+- name: 7DY
+  pubchemId: 11226090
+  role: Inverse agonist
+  type: Small molecule
+auxiliary_protein: Glycogen synthase
+signaling_protein: None

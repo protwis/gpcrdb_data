@@ -33,7 +33,7 @@ segments_in_structure:
   TM7: [0, 274]
 bulges:
   TM5: [5x461]
-  TM6: [6x451]
+  TM6: [6x461]
 constrictions:
   TM7: [7x44]
 distortion: {}

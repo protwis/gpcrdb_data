@@ -1,5 +1,6 @@
 construct: 1gzm
 pdb: 1GZM
+representative: true
 signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A

@@ -1,6 +1,5 @@
 construct: 3dqb
 pdb: 3DQB
-representative: true
 preferred_chain: A
 state: Active
 ligand:

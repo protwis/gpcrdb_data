@@ -1,6 +1,5 @@
 construct: 1u19
 pdb: 1U19
-representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:

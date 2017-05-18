@@ -1,0 +1,8 @@
+construct: 5te3
+pdb: 5TE3
+signaling_protein: None
+auxiliary_protein: Octylglucoside
+preferred_chain: A
+state: Active
+ligand:
+- {name: None, pubchemId: None, role: .nan, type: None}

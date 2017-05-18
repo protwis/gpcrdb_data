@@ -1,0 +1,17 @@
+construct: 5uen
+pdb: 5UEN
+representative: true
+preferred_chain: B
+state: Inactive
+ligand:
+- name: DU1
+  pubchemId: '1124219487'
+  role: Antagonist
+  type: Small molecule
+auxiliary_protein: BRIL
+signaling_protein: None
+bulges:
+  TM2: [2x551]
+  TM5: [5x411, 5x461]
+constrictions:
+  TM7: [7x44]

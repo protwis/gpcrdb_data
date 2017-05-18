@@ -1,0 +1,15 @@
+construct: 5tvn
+pdb: 5TVN
+preferred_chain: A
+state: Inactive
+endogenous_ligand:
+- iupharId: 5
+  name: Serotonin
+  type: Small molecule
+ligand:
+- name: 7LD
+  pubchemId: '5761'
+  role: Agonist
+  type: Small molecule
+auxiliary_protein: BRIL
+signaling_protein: None
