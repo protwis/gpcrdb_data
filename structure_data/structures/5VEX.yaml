@@ -1,0 +1,12 @@
+construct: 5vex
+pdb: 5VEX
+preferred_chain: B
+state: Inactive
+representative: true
+ligand:
+- name: 97V
+  pubchemId: 23549991
+  role: Antagonist, allosteric
+  type: Small molecule
+auxiliary_protein: Endolysin
+signaling_protein: None
