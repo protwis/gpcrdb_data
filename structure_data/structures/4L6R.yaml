@@ -1,6 +1,5 @@
 construct: 4l6r
 pdb: 4L6R
-representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:

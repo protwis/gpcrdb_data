@@ -1,10 +1,11 @@
-construct: 5vex
-pdb: 5VEX
-preferred_chain: B
+construct: 5vew
+pdb: 5VEW
+preferred_chain: A
+representative: true
 state: Inactive
 ligand:
-- name: 97V
-  pubchemId: 23549991
+- name: 97Y
+  pubchemId: 68178630
   role: Antagonist
   type: Small molecule
 auxiliary_protein: Endolysin

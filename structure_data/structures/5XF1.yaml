@@ -1,5 +1,5 @@
-construct: 5vex
-pdb: 5VEX
+construct: 5xf1
+pdb: 5XF1
 preferred_chain: B
 state: Inactive
 ligand:
@@ -7,5 +7,5 @@ ligand:
   pubchemId: 23549991
   role: Antagonist
   type: Small molecule
-auxiliary_protein: Endolysin
+auxiliary_protein: Lysozyme, mAb1
 signaling_protein: None
