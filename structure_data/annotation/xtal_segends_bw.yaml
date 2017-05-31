@@ -782,12 +782,12 @@ glp1r_human__wt:
     3ei2b: 15
 glr_human__wt:
     Key: glr_human__wt
-    1b: 19.0
+    1b: 25.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 65.0
+    2e: 67.0
     e1b: '-'
     e1e: '-'
     3b: 18.0
@@ -811,7 +811,7 @@ glr_human__wt:
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 15
-    2e3b: 50.0
+    2e3b: 48.0
     e1e3b: 15
     3ei2b: 15
 grm1_human__wt:
@@ -1429,7 +1429,7 @@ par1_human__wt:
 par2_human__wt:
     Key: par2_human__wt
     1b: 28.0
-    1e: 61.0
+    1e: 60.0
     i1b: '-'
     i1e: '-'
     2b: 37.0
