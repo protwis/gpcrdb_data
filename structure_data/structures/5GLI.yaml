@@ -3,7 +3,7 @@ pdb: 5GLI
 representative: true
 preferred_chain: A
 state: Inactive
-auxiliary_protein: OLC, OLA, SO4
+auxiliary_protein: Endolysin
 signaling_protein: None
 segments:
   TM1: [91, 129]
