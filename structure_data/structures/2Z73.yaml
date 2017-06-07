@@ -4,8 +4,8 @@ representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- iupharId: 484
-  name: noradrenaline
+- name: RET
+  iupharId: 6669
   type: Small molecule
 ligand:
 - name: RET

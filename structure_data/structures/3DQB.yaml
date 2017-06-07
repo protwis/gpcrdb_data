@@ -2,6 +2,10 @@ construct: 3dqb
 pdb: 3DQB
 preferred_chain: A
 state: Active
+endogenous_ligand:
+- name: RET
+  iupharId: 6669
+  type: Small molecule
 ligand:
 - name: None
   pubchemId: None

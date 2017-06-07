@@ -4,6 +4,10 @@ signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A,B
 state: Inactive
+endogenous_ligand:
+- name: RET
+  iupharId: 6669
+  type: Small molecule
 ligand:
 - {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small molecule}
 segments:

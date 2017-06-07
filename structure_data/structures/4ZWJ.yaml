@@ -3,6 +3,10 @@ pdb: 4ZWJ
 representative: true
 preferred_chain: A
 state: Inactive
+endogenous_ligand:
+- name: RET
+  iupharId: 6669
+  type: Small molecule
 ligand:
 - name: None
   pubchemId: None

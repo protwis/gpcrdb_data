@@ -4,15 +4,15 @@ representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:
-- iupharId: 2844
-  name: adenosine
+- iupharId: 294
+  name: acetylcholine
   type: Small molecule
 ligand:
-- name: ZMA
-  pubchemId: '176407'
+- name: 0HK
+  pubchemId: '15057856'
   role: Antagonist
   type: Small molecule
-auxiliary_protein: BRIL
+auxiliary_protein: Endolysin
 signaling_protein: None
 segments:
   TM1: [22, 53]

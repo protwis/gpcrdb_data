@@ -1,5 +1,6 @@
 construct: 4uhr
 pdb: 4UHR
+representative: true
 signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A

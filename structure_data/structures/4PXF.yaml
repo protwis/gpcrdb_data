@@ -4,8 +4,10 @@ signaling_protein: Arrestin
 auxiliary_protein: None
 preferred_chain: A
 state: Inactive
-ligand:
-- {name: None, pubchemId: '', role: '', type: ''}
+endogenous_ligand:
+- name: RET
+  iupharId: 6669
+  type: Small molecule
 segments:
   N-term: [1, 34]
   TM1: [35, 64]

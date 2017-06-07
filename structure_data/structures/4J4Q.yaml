@@ -4,6 +4,10 @@ signaling_protein: Gt
 auxiliary_protein: Octylglucoside
 preferred_chain: A
 state: Active
+endogenous_ligand:
+- name: RET
+  iupharId: 6669
+  type: Small molecule
 ligand:
 - {name: None, pubchemId: None, role: .nan, type: None}
 segments:

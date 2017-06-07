@@ -2,6 +2,10 @@ construct: 2i36
 pdb: 2I36
 signaling_protein: None
 auxiliary_protein: None
+endogenous_ligand:
+- name: RET
+  iupharId: 6669
+  type: Small molecule
 preferred_chain: A,B,C
 state: Inactive
 ligand:

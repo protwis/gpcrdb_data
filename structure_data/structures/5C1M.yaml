@@ -26,9 +26,9 @@ endogenous_ligand:
   name: endorphin
   type: Peptide
 ligand:
-- name: BF0
-  pubchemId: None
-  role: Antagonist
+- name: 4V0
+  pubchemId: 11487194
+  role: Agonist
   type: Small molecule
 auxiliary_protein: T4-Lysozyme
 signaling_protein: None

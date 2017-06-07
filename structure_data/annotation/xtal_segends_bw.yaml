@@ -102,7 +102,7 @@ aa1r_human__wt:
     3ei2b: 1.0
 aa2ar_human__wt:
     Key: aa2ar_human__wt
-    1b: 28.0
+    1b: 27.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -404,6 +404,40 @@ agtr2_human__wt:
     i1e2b: 15
     2e-e1b: 3.0
     2e3b: 36.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+apj_human__wt:
+    Key: apj_human__wt
+    1b: 33.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 52.0
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 30.0
+    5e: 72.0
+    6b: 29.0
+    6e: 63.0
+    7b: 24.0
+    7e: 56.0
+    8b: 47.0
+    8e: 61.0
+    Cl: A
+    RF: Apelin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 2.0
+    2e3b: 35.0
     e1e3b: 1.0
     3ei2b: 1.0
 calcr_human__wt:
@@ -782,12 +816,12 @@ glp1r_human__wt:
     3ei2b: 15
 glr_human__wt:
     Key: glr_human__wt
-    1b: 19.0
+    1b: 25.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 65.0
+    2e: 67.0
     e1b: '-'
     e1e: '-'
     3b: 18.0
@@ -811,7 +845,7 @@ glr_human__wt:
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 15
-    2e3b: 50.0
+    2e3b: 48.0
     e1e3b: 15
     3ei2b: 15
 grm1_human__wt:
@@ -1429,7 +1463,7 @@ par1_human__wt:
 par2_human__wt:
     Key: par2_human__wt
     1b: 28.0
-    1e: 61.0
+    1e: 60.0
     i1b: '-'
     i1e: '-'
     2b: 37.0

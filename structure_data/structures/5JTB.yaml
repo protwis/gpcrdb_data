@@ -1,0 +1,9 @@
+construct: 5jtb
+pdb: 5JTB
+signaling_protein: None
+auxiliary_protein: BRIL
+preferred_chain: A
+state: Inactive
+ligand:
+- {name: ZMA, pubchemId: '176407', role: Antagonist, type: Small molecule}
+
