@@ -2,6 +2,13 @@ construct: 5vbl
 pdb: 5VBL
 preferred_chain: B
 state: Active
+endogenous_ligand:
+- name: Apelin
+  iupharId: 605 
+  type: Peptide
+- name: Elabela
+  iupharId: 7930
+  type: Peptide
 ligand:
 - name: AMG3054
   pubchemId: None

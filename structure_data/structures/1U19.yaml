@@ -4,7 +4,7 @@ preferred_chain: A
 state: Inactive
 endogenous_ligand:
 - iupharId: 6669
-  name: Retinal
+  name: RET
   type: Small molecule
 ligand:
 - name: RET

@@ -4,5 +4,7 @@ signaling_protein: None
 auxiliary_protein: Octylglucoside
 preferred_chain: A
 state: Active
-ligand:
-- {name: None, pubchemId: None, role: .nan, type: None}
+endogenous_ligand:
+- name: RET
+  iupharId: 6669
+  type: Small molecule

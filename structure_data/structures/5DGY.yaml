@@ -2,6 +2,10 @@ construct: 5dgy
 pdb: 5DGY
 preferred_chain: A
 state: Inactive
+endogenous_ligand:
+- name: RET
+  iupharId: 6669
+  type: Small molecule
 ligand:
 - name: None
   pubchemId: None

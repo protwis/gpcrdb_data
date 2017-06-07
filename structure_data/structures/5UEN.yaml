@@ -5,7 +5,7 @@ preferred_chain: B
 state: Inactive
 ligand:
 - name: DU1
-  pubchemId: '1124219487'
+  pubchemId: '10839674'
   role: Antagonist
   type: Small molecule
 auxiliary_protein: BRIL

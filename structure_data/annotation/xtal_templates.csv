@@ -1,5 +1,5 @@
 t2r60_human,oprk_human
-t2r13_human,drd3_human
+t2r13_human,apj_human
 ta2r4_human,5ht1b_human
 t2r39_human,agtr1_human
 gp143_human,aa2ar_human
@@ -34,7 +34,6 @@ agrf1_human,crfr1_human
 agrg7_human,glp1r_human
 agrf5_human,crfr1_human
 agrg4_human,crfr1_human
-gp126_human,crfr1_human
 agrg2_human,crfr1_human
 gpr98_human,crfr1_human
 agra1_human,crfr1_human
@@ -57,7 +56,7 @@ gp157_human,5ht2b_human
 t2r40_human,cxcr4_human
 ta2r1_human,cxcr4_human
 t2r16_human,cxcr4_human
-t2r14_human,adrb1_melga
+t2r14_human,apj_human
 gp107_human,ccr9_human
 t2r10_human,aa2ar_human
 ta2r5_human,adrb1_melga
@@ -129,20 +128,20 @@ bkrb1_human,agtr1_human
 agtr2_human,agtr2_human
 ackr3_human,agtr1_human
 c5ar1_human,agtr1_human
-mrgx2_human,par2_human
+mrgx2_human,agtr1_human
 gpr1_human,agtr1_human
 gper1_human,ccr5_human
 gpr25_human,agtr1_human
 agtr1_human,agtr1_human
 cml1_human,agtr1_human
-gpr15_human,agtr1_human
+gpr15_human,apj_human
 bkrb2_human,us28_hcmva
 rl3r2_human,agtr1_human
 lt4r1_human,agtr1_human
-apj_human,agtr1_human
+apj_human,apj_human
 ogr1_human,agtr1_human
 rl3r1_human,agtr1_human
-gp182_human,ntr1_rat
+gp182_human,apj_human
 lgr4_human,agtr1_human
 ackr1_human,ccr9_human
 ccrl2_human,ccr5_human
@@ -226,7 +225,7 @@ gabr2_human,grm5_human
 casr_human,grm5_human
 grm5_human,grm5_human
 hrh1_human,hrh1_human
-gp146_human,adrb1_melga
+gp146_human,agtr1_human
 gp160_human,par1_human
 gpr22_human,hrh1_human
 gpr3_human,lpar1_human
@@ -268,7 +267,7 @@ ssr1_human,oprk_human
 v1ar_human,ox2r_human
 galr3_human,oprk_human
 galr2_human,oprk_human
-gnrhr_human,ccr5_human
+gnrhr_human,apj_human
 gp141_human,hrh1_human
 npbw1_human,oprk_human
 mchr1_human,oprk_human
@@ -334,9 +333,9 @@ sucr1_human,p2ry1_human
 gp174_human,p2ry1_human
 cltr2_human,p2ry1_human
 cltr1_human,p2ry1_human
-gpr17_human,p2ry1_human
+gpr17_human,apj_human
 mrgrd_human,agtr1_human
-gpr18_human,oprk_human
+gpr18_human,apj_human
 mas_human,agtr1_human
 psyr_human,p2ry1_human
 p2ry1_human,p2ry1_human
@@ -364,7 +363,7 @@ ptafr_human,p2y12_human
 gp183_human,oprk_human
 pf2r_human,lpar1_human
 gpr34_human,par1_human
-pe2r4_human,agtr1_human
+pe2r4_human,par2_human
 par3_human,par2_human
 gpr55_human,oprk_human
 gpr35_human,ccr2_human

@@ -3,6 +3,10 @@ pdb: 4X1H
 preferred_chain: A
 state: Inactive
 endogenous_ligand: BNG
+endogenous_ligand:
+- name: RET
+  iupharId: 6669
+  type: Small molecule
 ligand:
 - name: BNG
   pubchemId: '155448'
