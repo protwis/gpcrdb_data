@@ -1,0 +1,14 @@
+construct: 5tzr
+pdb: 5TZR
+preferred_chain: A
+state: Active
+endogenous_ligand:
+- name: long chain carboxylic acids
+  type: Lipid
+ligand:
+- name: MK6
+  pubchemId: '73051869'
+  role: Agonist
+  type: Small molecule
+auxiliary_protein: Endolysin
+signaling_protein: None

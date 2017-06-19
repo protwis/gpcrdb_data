@@ -1,0 +1,12 @@
+construct: 5nx2
+pdb: 5NX2
+preferred_chain: A
+state: Active
+ligand:
+- name: pep
+  title: truncated protein agonist
+  pubchemId: None
+  role: Agonist
+  type: Peptide
+auxiliary_protein: None
+signaling_protein: None
