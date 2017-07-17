@@ -510,7 +510,7 @@ ccr2_human__wt:
     3ei2b: 1.0
 ccr5_human__wt:
     Key: ccr5_human__wt
-    1b: 27.0
+    1b: 24.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -526,7 +526,7 @@ ccr5_human__wt:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
+    5b: 30.0
     5e: 68.0
     6b: 28.0
     6e: 65.0
@@ -578,7 +578,7 @@ ccr9_human__wt:
     3ei2b: 1.0
 cnr1_human__wt:
     Key: cnr1_human__wt
-    1b: 29.0
+    1b: 28.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -598,7 +598,7 @@ cnr1_human__wt:
     5e: 76.0
     6b: 24.0
     6e: 61.0
-    7b: 29.0
+    7b: 28.0
     7e: 56.0
     8b: 47.0
     8e: 59.0
@@ -748,12 +748,12 @@ ednrb_human__wt:
     3ei2b: 1.0
 ffar1_human__wt:
     Key: ffar1_human__wt
-    1b: 33.0
+    1b: 31.0
     1e: 64.0
     i1b: '-'
     i1e: '-'
     2b: 37.0
-    2e: 66.0
+    2e: 67.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -761,10 +761,10 @@ ffar1_human__wt:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 64.0
+    4e: 65.0
     e2b: 50.0
     e2e: 52.0
-    5b: 32.0
+    5b: 31.0
     5e: 67.0
     6b: 28.0
     6e: 61.0
@@ -776,18 +776,52 @@ ffar1_human__wt:
     RF: Freefattyacid
     1ei1b: 15
     i1e2b: 15
-    2e-e1b: 3.0
-    2e3b: 36.0
+    2e-e1b: 2.0
+    2e3b: 35.0
     e1e3b: 1.0
     3ei2b: 1.0
-glp1r_human__wt:
-    Key: glp1r_human__wt
-    1b: 27.0
+g1sgd4_rabit__wt:
+    Key: g1sgd4_rabit__wt
+    1b: 28.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 64.0
+    2e: 74.0
+    e1b: '-'
+    e1e: '-'
+    3b: 23.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 37.0
+    4e: 68.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 39.0
+    5e: 71.0
+    6b: 30.0
+    6e: 53.0
+    7b: 30.0
+    7e: 56.0
+    8b: 47.0
+    8e: 72.0
+    Cl: B1
+    RF: Glucagonreceptorfamily
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 40.0
+    e1e3b: 15
+    3ei2b: 15
+glp1r_human__wt:
+    Key: glp1r_human__wt
+    1b: 29.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 69.0
     e1b: '-'
     e1e: '-'
     3b: 23.0
@@ -798,11 +832,11 @@ glp1r_human__wt:
     4e: 68.0
     e2b: 50.0
     e2e: 52.0
-    5b: 39.0
-    5e: 72.0
+    5b: 36.0
+    5e: 71.0
     6b: 28.0
-    6e: 51.0
-    7b: 27.0
+    6e: 58.0
+    7b: 28.0
     7e: 56.0
     8b: 47.0
     8e: 72.0
@@ -1483,8 +1517,8 @@ par2_human__wt:
     6b: 26.0
     6e: 65.0
     7b: 31.0
-    7e: 57.0
-    8b: 48.0
+    7e: 56.0
+    8b: 47.0
     8e: 61.0
     Cl: A
     RF: Proteinase-activated
@@ -1548,7 +1582,7 @@ smo_human__wt:
     e2e: 52.0
     5b: 36.0
     5e: 72.0
-    6b: 25.0
+    6b: 24.0
     6e: 78.0
     7b: 35.0
     7e: 57.0

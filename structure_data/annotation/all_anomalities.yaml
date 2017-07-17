@@ -264,7 +264,7 @@
     '5.46': A
 5ht4r_human:
     UniProt: 5ht4r_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: adrb2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -330,7 +330,7 @@
     '5.46': A
 5ht6r_human:
     UniProt: 5ht6r_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: 5ht2b_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -528,7 +528,7 @@ aa3r_human:
     '5.46': W
 ackr1_human:
     UniProt: ackr1_human
-    Xtal Templ: cxcr4_human
+    Xtal Templ: ccr9_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -891,7 +891,7 @@ acthr_human:
     '5.46': C
 ada1a_human:
     UniProt: ada1a_human
-    Xtal Templ: adrb2_human
+    Xtal Templ: 5ht1b_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -957,7 +957,7 @@ ada1b_human:
     '5.46': S
 ada1d_human:
     UniProt: ada1d_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: adrb2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -1089,7 +1089,7 @@ ada2c_human:
     '5.46': S
 adrb1_human:
     UniProt: adrb1_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: adrb2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -1188,7 +1188,7 @@ adrb2_human:
     '5.46': S
 adrb3_human:
     UniProt: adrb3_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: adrb2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -1419,7 +1419,7 @@ agrd1_human:
     '5.46': P
 agrd2_human:
     UniProt: agrd2_human
-    Xtal Templ: glp1r_human
+    Xtal Templ: crfr1_human
     Cl: B2
     Xtalised: NoXtal
     1x411: ''
@@ -1518,7 +1518,7 @@ agre2_human:
     '5.46': P
 agre3_human:
     UniProt: agre3_human
-    Xtal Templ: glp1r_human
+    Xtal Templ: crfr1_human
     Cl: B2
     Xtalised: NoXtal
     1x411: ''
@@ -1551,7 +1551,7 @@ agre3_human:
     '5.46': P
 agre4_human:
     UniProt: agre4_human
-    Xtal Templ: calcr_human
+    Xtal Templ: glp1r_human
     Cl: B2
     Xtalised: NoXtal
     1x411: ''
@@ -1980,7 +1980,7 @@ agrg7_human:
     '5.46': P
 agrl1_human:
     UniProt: agrl1_human
-    Xtal Templ: crfr1_human
+    Xtal Templ: calcr_human
     Cl: B2
     Xtalised: NoXtal
     1x411: ''
@@ -2277,7 +2277,7 @@ bkrb1_human:
     '5.46': G
 bkrb2_human:
     UniProt: bkrb2_human
-    Xtal Templ: us28_hcmva
+    Xtal Templ: agtr2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -2343,7 +2343,7 @@ brs3_human:
     '5.46': F
 c3ar_human:
     UniProt: c3ar_human
-    Xtal Templ: oprk_human
+    Xtal Templ: agtr1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -2541,7 +2541,7 @@ casr_human:
     '5.46': Y
 cckar_human:
     UniProt: cckar_human
-    Xtal Templ: ox1r_human
+    Xtal Templ: ox2r_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -3069,7 +3069,7 @@ celr3_human:
     '5.46': P
 cltr1_human:
     UniProt: cltr1_human
-    Xtal Templ: agtr1_human
+    Xtal Templ: p2ry1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -3663,7 +3663,7 @@ drd4_human:
     '5.46': S
 drd5_human:
     UniProt: drd5_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: adrb2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -3960,7 +3960,7 @@ fpr1_human:
     '5.46': G
 fpr2_human:
     UniProt: fpr2_human
-    Xtal Templ: agtr1_human
+    Xtal Templ: cxcr4_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -4420,6 +4420,39 @@ g137a_human:
     '4.59': L
     '4.60': C
     '5.46': L
+g1sgd4_rabit:
+    UniProt: g1sgd4_rabit
+    Xtal Templ: g1sgd4_rabit
+    Cl: B1
+    Xtalised: Xtal
+    1x411: ''
+    2x551: ''
+    2x581: ''
+    23x501: ''
+    4x491: 4x491
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: ''
+    5x411: ''
+    5x421: 5x421
+    5x431: ''
+    5x461: ''
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': F
+    '2.56': S
+    '2.57': V
+    '2.58': F
+    '2.59': I
+    '2.60': K
+    '4.56': F
+    '4.57': V
+    '4.58': I
+    '4.59': P
+    '4.60': W
+    '5.46': P
 gabr1_human:
     UniProt: gabr1_human
     Xtal Templ: grm5_human
@@ -4488,7 +4521,7 @@ gabr2_human:
     '5.46': Y
 galr1_human:
     UniProt: galr1_human
-    Xtal Templ: ox1r_human
+    Xtal Templ: oprk_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -4822,7 +4855,7 @@ gnrhr_human:
     Cl: A
     Xtalised: NoXtal
     1x411: ''
-    2x551: ''
+    2x551: 2x551
     2x581: ''
     23x501: ''
     4x491: ''
@@ -4837,12 +4870,12 @@ gnrhr_human:
     6x461: ''
     7x44: 7x44
     7x521: ''
-    '2.50': L
-    '2.56': V
-    '2.57': M
-    '2.58': P
-    '2.59': L
-    '2.60': D
+    '2.50': N
+    '2.56': I
+    '2.57': V
+    '2.58': M
+    '2.59': P
+    '2.60': L
     '4.56': F
     '4.57': A
     '4.58': G
@@ -4917,7 +4950,7 @@ gp107_human:
     '5.46': A
 gp119_human:
     UniProt: gp119_human
-    Xtal Templ: aa1r_human
+    Xtal Templ: 5ht2b_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -4983,7 +5016,7 @@ gp132_human:
     '5.46': G
 gp135_human:
     UniProt: gp135_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: ox1r_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -5049,7 +5082,7 @@ gp139_human:
     '5.46': V
 gp141_human:
     UniProt: gp141_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: hrh1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -5148,7 +5181,7 @@ gp143_human:
     '5.46': T
 gp146_human:
     UniProt: gp146_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: agtr1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -5247,7 +5280,7 @@ gp149_human:
     '5.46': G
 gp150_human:
     UniProt: gp150_human
-    Xtal Templ: cxcr4_human
+    Xtal Templ: ox2r_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -5365,12 +5398,12 @@ gp153_human:
     6x461: ''
     7x44: 7x44
     7x521: ''
-    '2.50': H
-    '2.56': V
-    '2.57': P
-    '2.58': I
-    '2.59': A
-    '2.60': T
+    '2.50': T
+    '2.56': A
+    '2.57': V
+    '2.58': P
+    '2.59': I
+    '2.60': A
     '4.56': L
     '4.57': S
     '4.58': A
@@ -5478,7 +5511,7 @@ gp158_human:
     '5.46': A
 gp160_human:
     UniProt: gp160_human
-    Xtal Templ: p2y12_human
+    Xtal Templ: par1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -5544,7 +5577,7 @@ gp161_human:
     '5.46': C
 gp162_human:
     UniProt: gp162_human
-    Xtal Templ: aa1r_human
+    Xtal Templ: ox2r_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -5563,11 +5596,11 @@ gp162_human:
     6x461: ''
     7x44: 7x44
     7x521: ''
-    '2.50': H
-    '2.56': V
-    '2.57': P
-    '2.58': L
-    '2.59': T
+    '2.50': T
+    '2.56': A
+    '2.57': V
+    '2.58': P
+    '2.59': L
     '2.60': T
     '4.56': L
     '4.57': S
@@ -6039,7 +6072,7 @@ gpr12_human:
     '5.46': S
 gpr15_human:
     UniProt: gpr15_human
-    Xtal Templ: apj_human
+    Xtal Templ: agtr1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -6105,7 +6138,7 @@ gpr17_human:
     '5.46': A
 gpr18_human:
     UniProt: gpr18_human
-    Xtal Templ: apj_human
+    Xtal Templ: oprk_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -6204,7 +6237,7 @@ gpr1_human:
     '5.46': G
 gpr20_human:
     UniProt: gpr20_human
-    Xtal Templ: par2_human
+    Xtal Templ: oprk_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -6237,7 +6270,7 @@ gpr20_human:
     '5.46': E
 gpr21_human:
     UniProt: gpr21_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: 5ht2b_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -6336,7 +6369,7 @@ gpr25_human:
     '5.46': T
 gpr26_human:
     UniProt: gpr26_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: ox2r_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -6402,7 +6435,7 @@ gpr27_human:
     '5.46': G
 gpr31_human:
     UniProt: gpr31_human
-    Xtal Templ: oprd_mouse
+    Xtal Templ: oprd_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -6633,7 +6666,7 @@ gpr39_human:
     '5.46': A
 gpr3_human:
     UniProt: gpr3_human
-    Xtal Templ: lpar1_human
+    Xtal Templ: s1pr1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -6732,7 +6765,7 @@ gpr45_human:
     '5.46': V
 gpr4_human:
     UniProt: gpr4_human
-    Xtal Templ: p2ry1_human
+    Xtal Templ: par2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -6897,7 +6930,7 @@ gpr62_human:
     '5.46': A
 gpr63_human:
     UniProt: gpr63_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: 5ht2b_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -6963,7 +6996,7 @@ gpr6_human:
     '5.46': A
 gpr75_human:
     UniProt: gpr75_human
-    Xtal Templ: ntr1_rat
+    Xtal Templ: adrb2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -7029,7 +7062,7 @@ gpr78_human:
     '5.46': G
 gpr82_human:
     UniProt: gpr82_human
-    Xtal Templ: oprd_human
+    Xtal Templ: oprm_mouse
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -7689,7 +7722,7 @@ hrh1_human:
     '5.46': N
 hrh2_human:
     UniProt: hrh2_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: adrb2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -8085,7 +8118,7 @@ lpar5_human:
     '5.46': G
 lpar6_human:
     UniProt: lpar6_human
-    Xtal Templ: ccr5_human
+    Xtal Templ: agtr1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -8118,7 +8151,7 @@ lpar6_human:
     '5.46': G
 lshr_human:
     UniProt: lshr_human
-    Xtal Templ: opsd_todpa
+    Xtal Templ: hrh1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -8613,7 +8646,7 @@ mrgx1_human:
     '5.46': I
 mrgx2_human:
     UniProt: mrgx2_human
-    Xtal Templ: par2_human
+    Xtal Templ: agtr1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -8679,7 +8712,7 @@ mrgx3_human:
     '5.46': V
 mrgx4_human:
     UniProt: mrgx4_human
-    Xtal Templ: par2_human
+    Xtal Templ: oprm_mouse
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -9075,7 +9108,7 @@ nmur2_human:
     '5.46': F
 npbw1_human:
     UniProt: npbw1_human
-    Xtal Templ: oprd_human
+    Xtal Templ: oprk_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -9207,7 +9240,7 @@ npff2_human:
     '5.46': I
 npsr1_human:
     UniProt: npsr1_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: hrh1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -9504,7 +9537,7 @@ ntr2_human:
     '5.46': S
 ogr1_human:
     UniProt: ogr1_human
-    Xtal Templ: agtr2_human
+    Xtal Templ: agtr1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -10725,7 +10758,7 @@ pd2r2_human:
     '5.46': A
 pd2r_human:
     UniProt: pd2r_human
-    Xtal Templ: aa2ar_human
+    Xtal Templ: ntr1_rat
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -10824,7 +10857,7 @@ pe2r2_human:
     '5.46': L
 pe2r3_human:
     UniProt: pe2r3_human
-    Xtal Templ: aa2ar_human
+    Xtal Templ: s1pr1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -10857,7 +10890,7 @@ pe2r3_human:
     '5.46': L
 pe2r4_human:
     UniProt: pe2r4_human
-    Xtal Templ: agtr1_human
+    Xtal Templ: par2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -10956,7 +10989,7 @@ pi2r_human:
     '5.46': A
 pkr1_human:
     UniProt: pkr1_human
-    Xtal Templ: apj_human
+    Xtal Templ: ox1r_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -11286,7 +11319,7 @@ rl3r1_human:
     '5.46': G
 rl3r2_human:
     UniProt: rl3r2_human
-    Xtal Templ: oprd_human
+    Xtal Templ: agtr1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -11715,7 +11748,7 @@ ssr3_human:
     '5.46': G
 ssr4_human:
     UniProt: ssr4_human
-    Xtal Templ: oprk_human
+    Xtal Templ: oprd_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -11847,7 +11880,7 @@ t2r10_human:
     '5.46': G
 t2r13_human:
     UniProt: t2r13_human
-    Xtal Templ: acm2_human
+    Xtal Templ: apj_human
     Cl: T
     Xtalised: NoXtal
     1x411: ''
@@ -12342,7 +12375,7 @@ t2r46_human:
     '5.46': A
 t2r50_human:
     UniProt: t2r50_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: drd3_human
     Cl: T
     Xtalised: NoXtal
     1x411: ''
@@ -12507,7 +12540,7 @@ ta2r4_human:
     '5.46': S
 ta2r5_human:
     UniProt: ta2r5_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: hrh1_human
     Cl: T
     Xtalised: NoXtal
     1x411: ''
@@ -12672,7 +12705,7 @@ ta2r_human:
     '5.46': L
 taar1_human:
     UniProt: taar1_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: 5ht1b_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -12941,7 +12974,7 @@ trfr_human:
     Xtalised: NoXtal
     1x411: ''
     2x551: ''
-    2x581: 2x581
+    2x581: ''
     23x501: ''
     4x491: ''
     4x52: ''
@@ -13101,7 +13134,7 @@ tshr_human:
     '5.46': L
 ur2r_human:
     UniProt: ur2r_human
-    Xtal Templ: ccr5_human
+    Xtal Templ: adrb2_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -13200,7 +13233,7 @@ v1ar_human:
     '5.46': I
 v1br_human:
     UniProt: v1br_human
-    Xtal Templ: adrb1_melga
+    Xtal Templ: s1pr1_human
     Cl: A
     Xtalised: NoXtal
     1x411: ''
@@ -13266,7 +13299,7 @@ v2r_human:
     '5.46': V
 vipr1_human:
     UniProt: vipr1_human
-    Xtal Templ: glr_human
+    Xtal Templ: glp1r_human
     Cl: B1
     Xtalised: NoXtal
     1x411: ''
