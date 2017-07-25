@@ -1,6 +1,7 @@
 construct: 5vbl
 pdb: 5VBL
 preferred_chain: B
+representative: true
 state: Active
 endogenous_ligand:
 - name: Apelin
