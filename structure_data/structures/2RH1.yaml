@@ -1,6 +1,5 @@
 construct: 2rh1
 pdb: 2RH1
-representative: true
 preferred_chain: A
 state: Inactive
 endogenous_ligand:

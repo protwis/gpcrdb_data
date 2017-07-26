@@ -1,6 +1,7 @@
 construct: 3p0g
 pdb: 3P0G
 preferred_chain: A
+representative: true
 state: Active
 ligand:
 - name: P0G

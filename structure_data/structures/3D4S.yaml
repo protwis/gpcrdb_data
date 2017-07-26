@@ -1,6 +1,5 @@
 construct: 3d4s
 pdb: 3D4S
-representative: true
 preferred_chain: A
 state: Inactive
 ligand:
