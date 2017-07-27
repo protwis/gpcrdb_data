@@ -5,7 +5,8 @@ preferred_chain: A
 state: Active
 ligand:
 - name: NEC
-  pubchemId: '33624'
+  title: NECA
+  pubchemId: '448222'
   role: Agonist
   type: Small molecule
 auxiliary_protein: None
