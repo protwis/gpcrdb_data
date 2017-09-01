@@ -2,7 +2,7 @@ construct: 4ib4
 pdb: 4IB4
 representative: true
 preferred_chain: A
-state: Inactive
+state: Intermediate
 endogenous_ligand:
 - iupharId: 5
   name: Serotonin

@@ -1,7 +1,7 @@
 construct: 4xes
 pdb: 4XES
 preferred_chain: A
-state: Inactive
+state: Intermediate
 ligand:
 - name: NTS
   pubchemId: '44363934'

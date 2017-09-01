@@ -1,7 +1,7 @@
 construct: 4x1h
 pdb: 4X1H
 preferred_chain: A
-state: Inactive
+state: Active
 endogenous_ligand: BNG
 endogenous_ligand:
 - name: RET

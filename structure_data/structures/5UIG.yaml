@@ -3,6 +3,6 @@ pdb: 5UIG
 signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A
-state: Inactive
+state: Intermediate
 ligand:
 - {name: 8D1, pubchemId: '124081196', role: Antagonist, type: Small molecule}

@@ -3,7 +3,7 @@ pdb: 4NC3
 signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A
-state: Inactive
+state: Intermediate
 ligand:
 - {name: ERM, pubchemId: '8223', role: Agonist, type: Small molecule}
 segments:

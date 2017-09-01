@@ -3,7 +3,7 @@ pdb: 4XNW
 signaling_protein: None
 auxiliary_protein: Rubredoxin
 preferred_chain: A
-state: Inactive
+state: Intermediate
 endogenous_ligand:
 - {iupharId: 1712, name: adenosine diphosphate, type: Small molecule}
 ligand:

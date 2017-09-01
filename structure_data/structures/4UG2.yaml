@@ -3,7 +3,7 @@ pdb: 4UG2
 signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A,B
-state: Inactive
+state: Intermediate
 ligand:
 - {name: NGI, pubchemId: '3086599', role: Agonist, type: Small molecule}
 segments:

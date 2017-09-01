@@ -2,7 +2,7 @@ construct: 4pxz
 pdb: 4PXZ
 representative: true
 preferred_chain: A
-state: Inactive
+state: Intermediate
 endogenous_ligand:
 - iupharId: 1712
   name: adenosine diphosphate

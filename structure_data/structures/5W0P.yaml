@@ -1,0 +1,12 @@
+auxiliary_protein: ''
+construct: 5w0p
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 5W0P
+preferred_chain: D
+signaling_protein: S-arrestin
+state: Inactive

@@ -2,7 +2,7 @@ construct: 5vbl
 pdb: 5VBL
 preferred_chain: B
 representative: true
-state: Active
+state: Inactive
 endogenous_ligand:
 - name: Apelin
   iupharId: 605 

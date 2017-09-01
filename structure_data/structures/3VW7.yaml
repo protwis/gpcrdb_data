@@ -2,7 +2,7 @@ construct: 3vw7
 pdb: 3VW7
 representative: true
 preferred_chain: A
-state: Inactive
+state: Intermediate
 endogenous_ligand:
 - iupharId: 4453
   name: Thrombin

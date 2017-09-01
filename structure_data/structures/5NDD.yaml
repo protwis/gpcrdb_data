@@ -2,7 +2,7 @@ construct: 5ndd
 pdb: 5NDD
 representative: true
 preferred_chain: A
-state: Inactive
+state: Intermediate
 ligand:
 - name: 8TZ
   pubchemId: '126961334'

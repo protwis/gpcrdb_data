@@ -2,7 +2,7 @@ construct: 4zwj
 pdb: 4ZWJ
 representative: true
 preferred_chain: A
-state: Inactive
+state: Active
 endogenous_ligand:
 - name: RET
   iupharId: 6669

@@ -1,7 +1,7 @@
 construct: 5nj6
 pdb: 5NJ6
 preferred_chain: A
-state: Inactive
+state: Intermediate
 auxiliary_protein: T4-Lysozyme, BRIL
 signaling_protein: None
 

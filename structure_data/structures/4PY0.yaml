@@ -3,7 +3,7 @@ pdb: 4PY0
 signaling_protein: None
 auxiliary_protein: BRIL
 preferred_chain: A
-state: Inactive
+state: Intermediate
 ligand:
 - {name: 6AT, pubchemId: '5310983', role: Agonist (partial), type: Small molecule}
 segments:

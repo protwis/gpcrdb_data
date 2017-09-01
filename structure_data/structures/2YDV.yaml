@@ -2,7 +2,7 @@ construct: 2ydv
 pdb: 2YDV
 representative: true
 preferred_chain: A
-state: Active
+state: Intermediate
 ligand:
 - name: NEC
   title: NECA

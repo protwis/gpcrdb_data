@@ -2,7 +2,7 @@ construct: 5tzy
 pdb: 5TZY
 preferred_chain: A
 representative: true
-state: Active
+state: Intermediate
 endogenous_ligand:
 - name: long chain carboxylic acids
   type: Lipid

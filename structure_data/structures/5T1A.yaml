@@ -2,7 +2,7 @@ construct: 5t1a
 pdb: 5T1A
 representative: true
 preferred_chain: A
-state: Inactive
+state: Intermediate
 ligand:
 - name: 73R
   pubchemId: '68764898'

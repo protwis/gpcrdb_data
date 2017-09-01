@@ -2,7 +2,7 @@ construct: 4phu
 pdb: 4PHU
 representative: true
 preferred_chain: A
-state: Inactive
+state: Intermediate
 endogenous_ligand:
 - name: long chain carboxylic acids
   type: Lipid

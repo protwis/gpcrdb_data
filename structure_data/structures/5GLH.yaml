@@ -2,7 +2,7 @@ construct: 5glh
 pdb: 5GLH
 representative: true
 preferred_chain: A
-state: Inactive
+state: Intermediate
 ligand:
   name: Endothelin-1
   pubchemId: '44284481'

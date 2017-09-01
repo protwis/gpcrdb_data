@@ -2,7 +2,7 @@ construct: 4grv
 pdb: 4GRV
 representative: true
 preferred_chain: A
-state: Inactive
+state: Intermediate
 ligand:
 - name: NTS
   pubchemId: '44363934'

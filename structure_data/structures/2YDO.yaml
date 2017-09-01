@@ -3,7 +3,7 @@ pdb: 2YDO
 signaling_protein: None
 auxiliary_protein: None
 preferred_chain: A
-state: Active
+state: Intermediate
 ligand:
 - {name: ADN, pubchemId: '60961', role: Agonist, type: Small molecule}
 segments:

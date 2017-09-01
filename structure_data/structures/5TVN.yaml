@@ -1,7 +1,7 @@
 construct: 5tvn
 pdb: 5TVN
 preferred_chain: A
-state: Inactive
+state: Intermediate
 endogenous_ligand:
 - iupharId: 5
   name: Serotonin

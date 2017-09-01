@@ -1,7 +1,7 @@
 construct: 5tzr
 pdb: 5TZR
 preferred_chain: A
-state: Active
+state: Intermediate
 endogenous_ligand:
 - name: long chain carboxylic acids
   type: Lipid

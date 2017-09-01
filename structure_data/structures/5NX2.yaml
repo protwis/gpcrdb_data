@@ -1,7 +1,7 @@
 construct: 5nx2
 pdb: 5NX2
 preferred_chain: A
-state: Active
+state: Intermediate
 ligand:
 - name: pep
   title: truncated protein agonist

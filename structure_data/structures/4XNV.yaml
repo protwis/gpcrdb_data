@@ -2,7 +2,7 @@ construct: 4xnv
 pdb: 4XNV
 representative: true
 preferred_chain: A
-state: Inactive
+state: Intermediate
 endogenous_ligand:
 - iupharId: 1712
   name: ADP

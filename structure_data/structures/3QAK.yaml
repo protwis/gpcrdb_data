@@ -3,7 +3,7 @@ pdb: 3QAK
 signaling_protein: None
 auxiliary_protein: T4-Lysozyme
 preferred_chain: A
-state: Inactive
+state: Intermediate
 ligand:
 - {name: UKA, title:  UK-432097, pubchemId: 9833519, role: Agonist, type: Small molecule}
 segments:
