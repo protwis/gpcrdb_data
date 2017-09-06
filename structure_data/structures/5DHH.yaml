@@ -1,34 +1,32 @@
+auxiliary_protein: BRIL
+bulges:
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]
 construct: 5dhh
+distance: -3.66
+distortion: {}
+endogenous_ligand:
+- {iupharId: 1681, name: nociceptin/orphanin FQ, type: Peptide}
+ligand: None
 pdb: 5DHH
 preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 1681
-  name: nociceptin/orphanin FQ
-  type: Peptide
-ligand: None
-auxiliary_protein: BRIL
-signaling_protein: None
 segments:
-  TM1: [48, 79]
-  ICL1: [80, 84]
-  TM2: [85, 113]
-  ECL1: [114, 119]
-  TM3: [120, 154]
-  ICL2: [155, 162]
-  TM4: [164, 188]
-  ECL2: [200, 202]
-  TM5: [208, 245]
-  TM6: [251, 288]
-  TM7: [295, 323]
-  H8: [324, 335]
+    ECL1: [114, 119]
+    ECL2: [200, 202]
+    H8: [324, 335]
+    ICL1: [80, 84]
+    ICL2: [155, 162]
+    TM1: [48, 79]
+    TM2: [85, 113]
+    TM3: [120, 154]
+    TM4: [164, 188]
+    TM5: [208, 245]
+    TM6: [251, 288]
+    TM7: [295, 323]
 segments_in_structure:
-  TM5: [0, 242]
-  TM6: [252, 0]
-  H8: [0, 332]
-bulges:
-  TM5: [5x461]
-constrictions:
-  TM7: [7x44]
-distortion: {}
-
+    H8: [0, 332]
+    TM5: [0, 242]
+    TM6: [252, 0]
+signaling_protein: None
+state: Inactive

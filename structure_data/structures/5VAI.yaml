@@ -1,17 +1,12 @@
-construct: 5vai
-pdb: 5VAI
-representative: true
-preferred_chain: R
-state: Active
-endogenous_ligand:
-- name: GLP-1
-  iupharId: 5194
-  type: Peptide
-ligand:
-- name: GLP-1
-  title: GLP-1
-  pubchemId: 16135499
-  role: Agonist
-  type: Peptide
 auxiliary_protein: None
+construct: 5vai
+distance: 18.92
+endogenous_ligand:
+- {iupharId: 5194, name: GLP-1, type: Peptide}
+ligand:
+- {name: GLP-1, pubchemId: 16135499, role: Agonist, title: GLP-1, type: Peptide}
+pdb: 5VAI
+preferred_chain: R
+representative: true
 signaling_protein: Gs
+state: Active

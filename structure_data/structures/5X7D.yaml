@@ -1,31 +1,15 @@
 auxiliary_protein: ''
 construct: 5x7d
+distance: -2.93
 ligand:
--   name: BU1
-    pubchemId: None
-    role: '.nan'
-    title: 1,4-BUTANEDIOL
-    type: None
--   name: EPE
-    pubchemId: None
-    role: '.nan'
-    title: 4-(2-HYDROXYETHYL)-1-PIPERAZINE ETHANESULFONIC ACID
-    type: None
--   name: CAU
-    pubchemId: None
-    role: '.nan'
-    title: (2S)-1-(9H-Carbazol-4-yloxy)-3-(isopropylamino)propan-2-ol
-    type: None
--   name: ACM
-    pubchemId: None
-    role: '.nan'
-    title: ACETAMIDE
-    type: None
--   name: 8VS
-    pubchemId: None
-    role: '.nan'
-    title: 4-carbamoyl-N-[(2R)-2-cyclohexyl-2-phenylacetyl]-L-phenylalanyl-3-bromo-N-methyl-L-phenylalaninamide
-    type: None
+- {name: BU1, pubchemId: None, role: '.nan', title: '1,4-BUTANEDIOL', type: None}
+- {name: EPE, pubchemId: None, role: '.nan', title: 4-(2-HYDROXYETHYL)-1-PIPERAZINE
+        ETHANESULFONIC ACID, type: None}
+- {name: CAU, pubchemId: None, role: '.nan', title: (2S)-1-(9H-Carbazol-4-yloxy)-3-(isopropylamino)propan-2-ol,
+    type: None}
+- {name: ACM, pubchemId: None, role: '.nan', title: ACETAMIDE, type: None}
+- {name: 8VS, pubchemId: None, role: '.nan', title: '4-carbamoyl-N-[(2R)-2-cyclohexyl-2-phenylacetyl]-L-phenylalanyl-3-bromo-N-methyl-L-phenylalaninamide',
+    type: None}
 pdb: 5X7D
 preferred_chain: A
 signaling_protein: None

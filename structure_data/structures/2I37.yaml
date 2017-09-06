@@ -1,33 +1,32 @@
-construct: 2i37
-pdb: 2i37
-signaling_protein: None
 auxiliary_protein: None
-preferred_chain: A
-state: Inactive
+bulges:
+    TM2: [2x551]
+constrictions:
+    TM7: [7x44]
+construct: 2i37
+distance: -2.66
 endogenous_ligand:
-- name: RET
-  iupharId: 6669
-  type: Small molecule
+- {iupharId: 6669, name: RET, type: Small molecule}
 ligand:
 - {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small molecule}
+pdb: 2i37
+preferred_chain: A
 segments:
-  N-term: [1, 35]
-  TM1: [36, 64]
-  ICL1: [65, 72]
-  TM2: [73, 100]
-  ECL1: [101, 105]
-  TM3: [103, 139]
-  ICL2: [140, 149]
-  TM4: [150, 172]
-  ECL2: [173, 199]
-  TM5: [200, 225]
-  ICL3: [226, 241]
-  TM6: [242, 277]
-  ECL3: [278, 289]
-  TM7: [290, 308]
-  H8: [309, 321]
-  C-term: [322, 348]
-bulges:
-  TM2: [2x551]
-constrictions:
-  TM7: [7x44]
+    C-term: [322, 348]
+    ECL1: [101, 105]
+    ECL2: [173, 199]
+    ECL3: [278, 289]
+    H8: [309, 321]
+    ICL1: [65, 72]
+    ICL2: [140, 149]
+    ICL3: [226, 241]
+    N-term: [1, 35]
+    TM1: [36, 64]
+    TM2: [73, 100]
+    TM3: [103, 139]
+    TM4: [150, 172]
+    TM5: [200, 225]
+    TM6: [242, 277]
+    TM7: [290, 308]
+signaling_protein: None
+state: Inactive

@@ -1,43 +1,20 @@
+auxiliary_protein: Rubredoxin
 construct: 5uiw
+distance: -1.61
+endogenous_ligand:
+- {iupharId: 769, name: CCL11, type: Peptide}
+- {iupharId: 753, name: CCL14, type: Peptide}
+- {iupharId: 1272, name: CCL16, type: Peptide}
+- {iupharId: 771, name: CCL2, type: Peptide}
+- {iupharId: 756, name: CCL3, type: Peptide}
+- {iupharId: 757, name: CCL4, type: Peptide}
+- {iupharId: 758, name: CCL5, type: Peptide}
+- {iupharId: 759, name: CCL7, type: Peptide}
+- {iupharId: 772, name: CCL8, type: Peptide}
+- {iupharId: 769, name: CCL11, type: Peptide}
+ligand:
+- {name: 5P7, pubchemId: None, role: Antagonist, title: 5P7-CCL5, type: Peptide}
 pdb: 5UIW
 preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 769
-  name: CCL11
-  type: Peptide
-- iupharId: 753
-  name: CCL14
-  type: Peptide
-- iupharId: 1272
-  name: CCL16
-  type: Peptide
-- iupharId: 771
-  name: CCL2
-  type: Peptide
-- iupharId: 756
-  name: CCL3
-  type: Peptide
-- iupharId: 757
-  name: CCL4
-  type: Peptide
-- iupharId: 758
-  name: CCL5
-  type: Peptide
-- iupharId: 759
-  name: CCL7
-  type: Peptide
-- iupharId: 772
-  name: CCL8
-  type: Peptide
-- iupharId: 769
-  name: CCL11
-  type: Peptide
-ligand:
-- name: 5P7
-  title: 5P7-CCL5
-  pubchemId: None
-  role: Antagonist
-  type: Peptide
-auxiliary_protein: Rubredoxin
 signaling_protein: None
+state: Inactive

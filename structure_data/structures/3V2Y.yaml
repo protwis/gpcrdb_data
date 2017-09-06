@@ -1,34 +1,30 @@
-construct: 3v2y
-pdb: 3V2Y
-representative: true
-preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 911
-  name: Sphingosine-1-phosphate
-  type: Lipid
-ligand:
-- name: ML5
-  pubchemId: '6857802'
-  role: Antagonist
-  type: Small molecule
 auxiliary_protein: T4-Lysozyme
-signaling_protein: None
-segments:
-  TM1: [42, 73]
-  ICL1: [74, 78]
-  TM2: [79, 104]
-  ECL1: [106, 113]
-  TM3: [114, 147]
-  ICL2: [149, 152]
-  TM4: [157, 180]
-  TM5: [200, 231]
-  TM6: [246, 281]
-  TM7: [293, 315]
-  H8: [316, 327]
-segments_in_structure: {}
 bulges:
-  ECL1: [23x501]
+    ECL1: [23x501]
 constrictions:
-  TM7: [7x44]
+    TM7: [7x44]
+construct: 3v2y
+distance: -2.41
 distortion: {}
+endogenous_ligand:
+- {iupharId: 911, name: Sphingosine-1-phosphate, type: Lipid}
+ligand:
+- {name: ML5, pubchemId: '6857802', role: Antagonist, type: Small molecule}
+pdb: 3V2Y
+preferred_chain: A
+representative: true
+segments:
+    ECL1: [106, 113]
+    H8: [316, 327]
+    ICL1: [74, 78]
+    ICL2: [149, 152]
+    TM1: [42, 73]
+    TM2: [79, 104]
+    TM3: [114, 147]
+    TM4: [157, 180]
+    TM5: [200, 231]
+    TM6: [246, 281]
+    TM7: [293, 315]
+segments_in_structure: {}
+signaling_protein: None
+state: Inactive

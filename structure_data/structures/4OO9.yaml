@@ -1,32 +1,28 @@
-construct: 4oo9
-pdb: 4OO9
-representative: true
-preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 1369
-  name: L-glutamic acid
-  type: Small molecule
-ligand:
-- name: 2U8
-  pubchemId: '9926832'
-  role: NAM
-  type: Small molecule
 auxiliary_protein: T4-Lysozyme
-signaling_protein: None
-segments:
-  TM1: [578, 604]
-  ICL1: [608, 612]
-  TM2: [614, 636]
-  TM3: [641, 673]
-  TM4: [690, 715]
-  ECL2: [733, 735]
-  TM5: [737, 761]
-  TM6: [770, 794]
-  TM7: [798, 828]
-  H8: [831, 863]
-segments_in_structure:
-  TM3: [0, 678]
 bulges:
-  TM7: [7x531]
+    TM7: [7x531]
+construct: 4oo9
+distance: -8.37
 distortion: {}
+endogenous_ligand:
+- {iupharId: 1369, name: L-glutamic acid, type: Small molecule}
+ligand:
+- {name: 2U8, pubchemId: '9926832', role: NAM, type: Small molecule}
+pdb: 4OO9
+preferred_chain: A
+representative: true
+segments:
+    ECL2: [733, 735]
+    H8: [831, 863]
+    ICL1: [608, 612]
+    TM1: [578, 604]
+    TM2: [614, 636]
+    TM3: [641, 673]
+    TM4: [690, 715]
+    TM5: [737, 761]
+    TM6: [770, 794]
+    TM7: [798, 828]
+segments_in_structure:
+    TM3: [0, 678]
+signaling_protein: None
+state: Inactive

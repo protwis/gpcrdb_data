@@ -1,32 +1,27 @@
-construct: 4or2
-pdb: 4OR2
-representative: true
-preferred_chain: A,B
-state: Inactive
-endogenous_ligand:
-- iupharId: 1369
-  name: L-glutamic acid
-  type: Small molecule
-ligand:
-- name: FM9
-  title: FITM
-  pubchemId: 16660135
-  role: NAM
-  type: Small molecule
 auxiliary_protein: BRIL
-signaling_protein: None
-segments:
-  TM1: [591, 617]
-  ICL1: [621, 625]
-  TM2: [627, 649]
-  TM3: [654, 686]
-  TM4: [703, 728]
-  ECL2: [746, 748]
-  TM5: [750, 774]
-  TM6: [783, 807]
-  TM7: [811, 841]
-  H8: [844, 863]
-segments_in_structure: {}
 bulges:
-  TM7: [7x531]
+    TM7: [7x531]
+construct: 4or2
+distance: -8.67
 distortion: {}
+endogenous_ligand:
+- {iupharId: 1369, name: L-glutamic acid, type: Small molecule}
+ligand:
+- {name: FM9, pubchemId: 16660135, role: NAM, title: FITM, type: Small molecule}
+pdb: 4OR2
+preferred_chain: A,B
+representative: true
+segments:
+    ECL2: [746, 748]
+    H8: [844, 863]
+    ICL1: [621, 625]
+    TM1: [591, 617]
+    TM2: [627, 649]
+    TM3: [654, 686]
+    TM4: [703, 728]
+    TM5: [750, 774]
+    TM6: [783, 807]
+    TM7: [811, 841]
+segments_in_structure: {}
+signaling_protein: None
+state: Inactive

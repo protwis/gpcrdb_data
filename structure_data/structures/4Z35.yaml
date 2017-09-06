@@ -1,33 +1,29 @@
-construct: 4z35
-pdb: 4Z35
-representative: true
-preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 2906
-  name: LPA
-  type: Lipid
-ligand:
-- name: ON9
-  title: ONO-9910539
-  pubchemId: 11785732
-  role: Antagonist
-  type: Small molecule
 auxiliary_protein: BRIL
-signaling_protein: None
-segments:
-  TM1: [47, 77]
-  ICL1: [78, 82]
-  TM2: [83, 108]
-  ECL1: [110, 117]
-  TM3: [118, 152]
-  ICL2: [153, 156]
-  TM4: [158, 184]
-  TM5: [204, 235]
-  TM6: [245, 284]
-  TM7: [293, 315]
-  H8: [316, 327]
-segments_in_structure: {}
 constrictions:
-  TM7: [7x44]
+    TM7: [7x44]
+construct: 4z35
+distance: -3.47
 distortion: {}
+endogenous_ligand:
+- {iupharId: 2906, name: LPA, type: Lipid}
+ligand:
+- {name: ON9, pubchemId: 11785732, role: Antagonist, title: ONO-9910539, type: Small
+        molecule}
+pdb: 4Z35
+preferred_chain: A
+representative: true
+segments:
+    ECL1: [110, 117]
+    H8: [316, 327]
+    ICL1: [78, 82]
+    ICL2: [153, 156]
+    TM1: [47, 77]
+    TM2: [83, 108]
+    TM3: [118, 152]
+    TM4: [158, 184]
+    TM5: [204, 235]
+    TM6: [245, 284]
+    TM7: [293, 315]
+segments_in_structure: {}
+signaling_protein: None
+state: Inactive

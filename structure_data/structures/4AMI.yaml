@@ -1,25 +1,26 @@
-construct: 4ami
-pdb: 4AMI
-signaling_protein: None
 auxiliary_protein: None
-preferred_chain: A
-state: Inactive
+construct: 4ami
+distance: -3.07
 ligand:
-- {name: G90, title: bucindolol, pubchemId: 12619631, role: Agonist, type: Small molecule}
+- {name: G90, pubchemId: 12619631, role: Agonist, title: bucindolol, type: Small molecule}
+pdb: 4AMI
+preferred_chain: A
 segments:
-  N-term: [1, 36]
-  TM1: [37, 68]
-  ICL1: [69, 74]
-  TM2: [75, 104]
-  ECL1: [105, 110]
-  TM3: [111, 144]
-  ICL2: [145, 154]
-  TM4: [155, 179]
-  ECL2: [180, 204]
-  TM5: [205, 237]
-  ICL3: [238, 282]
-  TM6: [283, 315]
-  ECL3: [316, 321]
-  TM7: [322, 345]
-  H8: [346, 358]
-  C-term: [359, 483]
+    C-term: [359, 483]
+    ECL1: [105, 110]
+    ECL2: [180, 204]
+    ECL3: [316, 321]
+    H8: [346, 358]
+    ICL1: [69, 74]
+    ICL2: [145, 154]
+    ICL3: [238, 282]
+    N-term: [1, 36]
+    TM1: [37, 68]
+    TM2: [75, 104]
+    TM3: [111, 144]
+    TM4: [155, 179]
+    TM5: [205, 237]
+    TM6: [283, 315]
+    TM7: [322, 345]
+signaling_protein: None
+state: Inactive

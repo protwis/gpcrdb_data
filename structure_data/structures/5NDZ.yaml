@@ -1,11 +1,9 @@
+auxiliary_protein: T4-Lysozyme, BRIL
 construct: 5ndz
+distance: 5.02
+ligand:
+- {name: 8UN, pubchemId: '126961335', role: Antagonist, type: Small molecule}
 pdb: 5NDZ
 preferred_chain: A
-state: Intermediate
-ligand:
-- name: 8UN
-  pubchemId: '126961335'
-  role: Antagonist
-  type: Small molecule
-auxiliary_protein: T4-Lysozyme, BRIL
 signaling_protein: None
+state: Intermediate

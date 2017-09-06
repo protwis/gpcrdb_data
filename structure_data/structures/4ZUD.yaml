@@ -1,8 +1,9 @@
-construct: 4zud
-pdb: 4ZUD
-signaling_protein: None
 auxiliary_protein: BRIL
-preferred_chain: A
-state: Inactive
+construct: 4zud
+distance: -3.97
 ligand:
 - {name: OLM, pubmedId: 158781, role: Inverse agonist, type: Small molecule}
+pdb: 4ZUD
+preferred_chain: A
+signaling_protein: None
+state: Inactive

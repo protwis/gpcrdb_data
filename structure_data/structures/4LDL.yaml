@@ -1,27 +1,29 @@
-construct: 4ldl
-pdb: 4LDL
-signaling_protein: Nanobody
 auxiliary_protein: T4-Lysozyme
-preferred_chain: A
-state: Active
-ligand:
-- {name: XQC, title: hydroxybenzylisoproterenol, pubchemId: 44328881, role: Agonist, type: Small molecule}
-segments:
-  N-term: [1, 30]
-  TM1: [31, 60]
-  ICL1: [61, 66]
-  TM2: [67, 96]
-  ECL1: [97, 101]
-  TM3: [102, 136]
-  ICL2: [137, 146]
-  TM4: [147, 170]
-  ECL2: [171, 196]
-  TM5: [197, 229]
-  ICL3: [230, 266]
-  TM6: [267, 298]
-  ECL3: [299, 304]
-  TM7: [305, 325]
-  H8: [326, 339]
-  C-term: [340, 413]
 bulges: ''
 constrictions: ''
+construct: 4ldl
+distance: 9.89
+ligand:
+- {name: XQC, pubchemId: 44328881, role: Agonist, title: hydroxybenzylisoproterenol,
+    type: Small molecule}
+pdb: 4LDL
+preferred_chain: A
+segments:
+    C-term: [340, 413]
+    ECL1: [97, 101]
+    ECL2: [171, 196]
+    ECL3: [299, 304]
+    H8: [326, 339]
+    ICL1: [61, 66]
+    ICL2: [137, 146]
+    ICL3: [230, 266]
+    N-term: [1, 30]
+    TM1: [31, 60]
+    TM2: [67, 96]
+    TM3: [102, 136]
+    TM4: [147, 170]
+    TM5: [197, 229]
+    TM6: [267, 298]
+    TM7: [305, 325]
+signaling_protein: Nanobody
+state: Active

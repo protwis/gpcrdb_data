@@ -1,12 +1,18 @@
-auxiliary_protein: ''
+auxiliary_protein: BRIL, Antibody Fab fragment
 construct: 5tud
-ligand:
-    name: None
-    pubchemId: None
-    role: '.nan'
-    title: None
-    type: None
+distance: 8.5
+endogenous_ligand:
+    iupharId: 5 
+    name: Serotonin 
+    type: Small molecule
+ligand: 
+    name: ERM
+    pubchemId: 8223 
+    role: agonist
+    title: Ergotamine
+    type: Small molecule
 pdb: 5TUD
 preferred_chain: D
+representative: true
 signaling_protein: None
-state: Inactive
+state: Active

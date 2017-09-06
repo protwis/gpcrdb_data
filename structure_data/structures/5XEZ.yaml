@@ -1,12 +1,10 @@
+auxiliary_protein: Lysozyme, mAb1
 construct: 5xez
+distance: 4.89
+ligand:
+- {name: 97V, pubchemId: 23549991, role: Antagonist, type: Small molecule}
 pdb: 5XEZ
 preferred_chain: B
 representative: true
-state: Inactive
-ligand:
-- name: 97V
-  pubchemId: 23549991
-  role: Antagonist
-  type: Small molecule
-auxiliary_protein: Lysozyme, mAb1
 signaling_protein: None
+state: Inactive

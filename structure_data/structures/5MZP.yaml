@@ -1,11 +1,7 @@
 auxiliary_protein: ''
 construct: 5mzp
-ligand:
-    name: None
-    pubchemId: None
-    role: '.nan'
-    title: None
-    type: None
+distance: -1.72
+ligand: {name: None, pubchemId: None, role: '.nan', title: None, type: None}
 pdb: 5MZP
 preferred_chain: A
 signaling_protein: None

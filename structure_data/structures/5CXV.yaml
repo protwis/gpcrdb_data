@@ -1,39 +1,35 @@
-construct: 5cxv
-pdb: 5CXV
-representative: true
-preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 294
-  name: acetylcholine
-  type: Small molecule
-ligand:
-- name: 0HK
-  pubchemId: '15057856'
-  role: Antagonist
-  type: Small molecule
 auxiliary_protein: Endolysin
-signaling_protein: None
-segments:
-  TM1: [22, 53]
-  ICL1: [54, 58]
-  TM2: [59, 88]
-  ECL1: [89, 94]
-  TM3: [95, 129]
-  ICL2: [130, 137]
-  TM4: [139, 163]
-  ECL2: [178, 180]
-  TM5: [186, 225]
-  TM6: [354, 391]
-  TM7: [397, 422]
-  H8: [423, 434]
-segments_in_structure:
-  TM5: [0, 213]
-  TM6: [357, 0]
 bulges:
-  TM2: [2x551, 2x551]
-  ECL1: [23x49, 23x51]
-  TM5: [5x401, 5x451, 5x461]
+    ECL1: [23x49, 23x51]
+    TM2: [2x551, 2x551]
+    TM5: [5x401, 5x451, 5x461]
 constrictions:
-  TM7: [7x44, 7x44]
+    TM7: [7x44, 7x44]
+construct: 5cxv
+distance: -0.58
 distortion: {}
+endogenous_ligand:
+- {iupharId: 294, name: acetylcholine, type: Small molecule}
+ligand:
+- {name: 0HK, pubchemId: '15057856', role: Antagonist, type: Small molecule}
+pdb: 5CXV
+preferred_chain: A
+representative: true
+segments:
+    ECL1: [89, 94]
+    ECL2: [178, 180]
+    H8: [423, 434]
+    ICL1: [54, 58]
+    ICL2: [130, 137]
+    TM1: [22, 53]
+    TM2: [59, 88]
+    TM3: [95, 129]
+    TM4: [139, 163]
+    TM5: [186, 225]
+    TM6: [354, 391]
+    TM7: [397, 422]
+segments_in_structure:
+    TM5: [0, 213]
+    TM6: [357, 0]
+signaling_protein: None
+state: Inactive

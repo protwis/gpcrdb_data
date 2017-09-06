@@ -1,42 +1,35 @@
-construct: 3odu
-pdb: 3ODU
-representative: true
-preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 4358
-  name: CXCL12a
-  type: Peptide
-- iupharId: 845
-  name: CXCL12b
-  type: Peptide
-ligand:
-- name: ITD
-  title: IT1t
-  pubchemId: 25147749
-  role: Antagonist
-  type: Small molecule
 auxiliary_protein: T4-Lysozyme
-signaling_protein: None
-segments:
-  TM1: [36, 66]
-  ICL1: [67, 71]
-  TM2: [72, 100]
-  ECL1: [101, 105]
-  TM3: [106, 140]
-  ICL2: [141, 153]
-  TM4: [154, 174]
-  ECL2: [186, 188]
-  TM5: [193, 229]
-  TM6: [233, 266]
-  TM7: [275, 306]
-  H8: [307, 318]
-segments_in_structure:
-  TM5: [0, 225]
-  TM7: [0, 300]
-constrictions:
-  TM4: [4x58]
-  TM7: [7x44]
 bulges:
-  TM5: [5x461]
+    TM5: [5x461]
+constrictions:
+    TM4: [4x58]
+    TM7: [7x44]
+construct: 3odu
+distance: -7.06
 distortion: {}
+endogenous_ligand:
+- {iupharId: 4358, name: CXCL12a, type: Peptide}
+- {iupharId: 845, name: CXCL12b, type: Peptide}
+ligand:
+- {name: ITD, pubchemId: 25147749, role: Antagonist, title: IT1t, type: Small molecule}
+pdb: 3ODU
+preferred_chain: A
+representative: true
+segments:
+    ECL1: [101, 105]
+    ECL2: [186, 188]
+    H8: [307, 318]
+    ICL1: [67, 71]
+    ICL2: [141, 153]
+    TM1: [36, 66]
+    TM2: [72, 100]
+    TM3: [106, 140]
+    TM4: [154, 174]
+    TM5: [193, 229]
+    TM6: [233, 266]
+    TM7: [275, 306]
+segments_in_structure:
+    TM5: [0, 225]
+    TM7: [0, 300]
+signaling_protein: None
+state: Inactive

@@ -1,8 +1,9 @@
-construct: 5iua
-pdb: 5IUA
-signaling_protein: None
 auxiliary_protein: BRIL
-preferred_chain: A
-state: Inactive
+construct: 5iua
+distance: -1.59
 ligand:
 - {name: 6DX, pubchemId: '121225601', role: Agonist, type: Small molecule}
+pdb: 5IUA
+preferred_chain: A
+signaling_protein: None
+state: Inactive

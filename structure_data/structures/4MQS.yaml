@@ -1,39 +1,34 @@
-construct: 4mqs
-pdb: 4MQS
-representative: true
-preferred_chain: A
-state: Active
-endogenous_ligand:
-- iupharId: 294
-  name: Acetylcholine
-  type: Small molecule
-ligand:
-- name: IXO
-  title: iperoxo
-  pubchemId: 10104167
-  role: Agonist
-  type: Small molecule
 auxiliary_protein: None
-signaling_protein: Nanobody
-segments:
-  TM1: [19, 51]
-  ICL1: [52, 56]
-  TM2: [57, 86]
-  ECL1: [87, 92]
-  TM3: [93, 127]
-  ICL2: [128, 135]
-  TM4: [137, 161]
-  ECL2: [176, 178]
-  TM5: [184, 223]
-  TM6: [376, 413]
-  TM7: [419, 444]
-  H8: [445, 456]
-segments_in_structure:
-  TM5: [0, 214]
-  TM6: [380, 0]
 bulges:
-  TM2: [2x551]
-  TM5: [5x461]
+    TM2: [2x551]
+    TM5: [5x461]
 constrictions:
-  TM7: [7x44]
+    TM7: [7x44]
+construct: 4mqs
+distance: 9.11
 distortion: {}
+endogenous_ligand:
+- {iupharId: 294, name: Acetylcholine, type: Small molecule}
+ligand:
+- {name: IXO, pubchemId: 10104167, role: Agonist, title: iperoxo, type: Small molecule}
+pdb: 4MQS
+preferred_chain: A
+representative: true
+segments:
+    ECL1: [87, 92]
+    ECL2: [176, 178]
+    H8: [445, 456]
+    ICL1: [52, 56]
+    ICL2: [128, 135]
+    TM1: [19, 51]
+    TM2: [57, 86]
+    TM3: [93, 127]
+    TM4: [137, 161]
+    TM5: [184, 223]
+    TM6: [376, 413]
+    TM7: [419, 444]
+segments_in_structure:
+    TM5: [0, 214]
+    TM6: [380, 0]
+signaling_protein: Nanobody
+state: Active

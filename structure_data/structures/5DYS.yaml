@@ -1,14 +1,12 @@
-construct: 5dys
-pdb: 5DYS
-representative: true
-signaling_protein: None
 auxiliary_protein: None
-preferred_chain: A
-state: Active
+construct: 5dys
+distance: 8.68
 endogenous_ligand:
-- name: RET
-  iupharId: 6669
-  type: Small molecule
+- {iupharId: 6669, name: RET, type: Small molecule}
 ligand:
 - {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small molecule}
-
+pdb: 5DYS
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Active

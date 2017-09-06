@@ -1,35 +1,32 @@
+auxiliary_protein: T4-Lysozyme
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]
 construct: 3p0g
+distance: 9.35
+distortion: {}
+ligand:
+- {name: P0G, pubchemId: 49837874, role: Agonist, title: BI-167107, type: Small molecule}
 pdb: 3P0G
 preferred_chain: A
 representative: true
-state: Active
-ligand:
-- name: P0G
-  title: BI-167107
-  pubchemId: 49837874
-  role: Agonist
-  type: Small molecule
-auxiliary_protein: T4-Lysozyme
-signaling_protein: SignProtMimic_Nanobody
 segments:
-  TM1: [29, 61]
-  ICL1: [62, 66]
-  TM2: [67, 96]
-  ECL1: [97, 102]
-  TM3: [103, 137]
-  ICL2: [138, 145]
-  TM4: [147, 171]
-  ECL2: [191, 193]
-  TM5: [197, 237]
-  TM6: [262, 299]
-  TM7: [304, 329]
-  H8: [330, 341]
+    ECL1: [97, 102]
+    ECL2: [191, 193]
+    H8: [330, 341]
+    ICL1: [62, 66]
+    ICL2: [138, 145]
+    TM1: [29, 61]
+    TM2: [67, 96]
+    TM3: [103, 137]
+    TM4: [147, 171]
+    TM5: [197, 237]
+    TM6: [262, 299]
+    TM7: [304, 329]
 segments_in_structure:
-  TM5: [0, 226]
-  TM6: [266, 0]
-bulges:
-  TM2: [2x551]
-  TM5: [5x461]
-constrictions:
-  TM7: [7x44]
-distortion: {}
+    TM5: [0, 226]
+    TM6: [266, 0]
+signaling_protein: SignProtMimic_Nanobody
+state: Active

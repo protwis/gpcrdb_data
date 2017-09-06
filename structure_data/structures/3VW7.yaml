@@ -1,36 +1,32 @@
-construct: 3vw7
-pdb: 3VW7
-representative: true
-preferred_chain: A
-state: Intermediate
-endogenous_ligand:
-- iupharId: 4453
-  name: Thrombin
-  type: Peptide
-ligand:
-- name: VPX
-  pubchemId: '10077130'
-  role: Antagonist
-  type: Small molecule
 auxiliary_protein: T4-Lysozyme
-signaling_protein: None
-segments:
-  TM1: [99, 130]
-  ICL1: [131, 135]
-  TM2: [136, 164]
-  ECL1: [166, 171]
-  TM3: [172, 206]
-  ICL2: [207, 214]
-  TM4: [216, 239]
-  ECL2: [254, 256]
-  TM5: [265, 300]
-  TM6: [305, 338]
-  TM7: [347, 375]
-  H8: [377, 389]
-segments_in_structure: {}
-constrictions:
-  TM4: [4x58]
-  TM7: [7x44]
 bulges:
-  TM6: [6x461]
+    TM6: [6x461]
+constrictions:
+    TM4: [4x58]
+    TM7: [7x44]
+construct: 3vw7
+distance: 3.79
 distortion: {}
+endogenous_ligand:
+- {iupharId: 4453, name: Thrombin, type: Peptide}
+ligand:
+- {name: VPX, pubchemId: '10077130', role: Antagonist, type: Small molecule}
+pdb: 3VW7
+preferred_chain: A
+representative: true
+segments:
+    ECL1: [166, 171]
+    ECL2: [254, 256]
+    H8: [377, 389]
+    ICL1: [131, 135]
+    ICL2: [207, 214]
+    TM1: [99, 130]
+    TM2: [136, 164]
+    TM3: [172, 206]
+    TM4: [216, 239]
+    TM5: [265, 300]
+    TM6: [305, 338]
+    TM7: [347, 375]
+segments_in_structure: {}
+signaling_protein: None
+state: Intermediate

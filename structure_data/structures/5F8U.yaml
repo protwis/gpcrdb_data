@@ -1,40 +1,35 @@
+auxiliary_protein: None
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]
 construct: 5f8u
+distance: -2.81
+distortion: {}
+endogenous_ligand:
+- {iupharId: 484, name: noradrenaline, type: Small molecule}
+ligand:
+- {name: P32, pubchemId: '46937143', role: Antagonist, title: (S)-Cyanopindolol, type: Small
+        molecule}
 pdb: 5F8U
 preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 484
-  name: noradrenaline
-  type: Small molecule
-ligand:
-- name: P32
-  pubchemId: '46937143'
-  role: Antagonist
-  type: Small molecule
-  title: '(S)-Cyanopindolol'
-auxiliary_protein: None
-signaling_protein: None
 segments:
-  TM1: [37, 69]
-  ICL1: [70, 74]
-  TM2: [75, 104]
-  ECL1: [105, 110]
-  TM3: [111, 145]
-  ICL2: [146, 153]
-  TM4: [155, 179]
-  ECL2: [199, 201]
-  TM5: [205, 245]
-  TM6: [279, 316]
-  TM7: [322, 347]
-  H8: [347, 358]
+    ECL1: [105, 110]
+    ECL2: [199, 201]
+    H8: [347, 358]
+    ICL1: [70, 74]
+    ICL2: [146, 153]
+    TM1: [37, 69]
+    TM2: [75, 104]
+    TM3: [111, 145]
+    TM4: [155, 179]
+    TM5: [205, 245]
+    TM6: [279, 316]
+    TM7: [322, 347]
 segments_in_structure:
-  TM1: [40, 0]
-  TM5: [0, 238]
-  TM6: [284, 0]
-bulges:
-  TM2: [2x551]
-  TM5: [5x461]
-constrictions:
-  TM7: [7x44]
-distortion: {}
-
+    TM1: [40, 0]
+    TM5: [0, 238]
+    TM6: [284, 0]
+signaling_protein: None
+state: Inactive

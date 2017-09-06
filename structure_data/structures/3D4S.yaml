@@ -1,34 +1,32 @@
+auxiliary_protein: T4-Lysozyme
+bulges:
+    TM2: [2x551]
+    TM5: [5x461]
+constrictions:
+    TM7: [7x44]
 construct: 3d4s
+distance: -3.48
+distortion: {}
+ligand:
+- {name: TIM, pubchemId: '33624', role: Inverse agonist, type: Small molecule}
 pdb: 3D4S
 preferred_chain: A
-state: Inactive
-ligand:
-- name: TIM
-  pubchemId: '33624'
-  role: Inverse agonist
-  type: Small molecule
-auxiliary_protein: T4-Lysozyme
-signaling_protein: None
 segments:
-  TM1: [29, 61]
-  ICL1: [62, 66]
-  TM2: [67, 96]
-  ECL1: [97, 102]
-  TM3: [103, 137]
-  ICL2: [138, 145]
-  TM4: [147, 171]
-  ECL2: [191, 193]
-  TM5: [198, 237]
-  TM6: [262, 299]
-  TM7: [304, 329]
-  H8: [330, 341]
+    ECL1: [97, 102]
+    ECL2: [191, 193]
+    H8: [330, 341]
+    ICL1: [62, 66]
+    ICL2: [138, 145]
+    TM1: [29, 61]
+    TM2: [67, 96]
+    TM3: [103, 137]
+    TM4: [147, 171]
+    TM5: [198, 237]
+    TM6: [262, 299]
+    TM7: [304, 329]
 segments_in_structure:
-  TM1: [32, 0]
-  TM5: [0, 228]
-  TM6: [267, 0]
-bulges:
-  TM2: [2x551]
-  TM5: [5x461]
-constrictions:
-  TM7: [7x44]
-distortion: {}
+    TM1: [32, 0]
+    TM5: [0, 228]
+    TM6: [267, 0]
+signaling_protein: None
+state: Inactive

@@ -1,8 +1,9 @@
-construct: 5k2c
-pdb: 5K2C
-signaling_protein: None
 auxiliary_protein: BRIL
-preferred_chain: A
-state: Inactive
+construct: 5k2c
+distance: -1.37
 ligand:
 - {name: ZMA, pubchemId: '176407', role: Agonist, type: Small molecule}
+pdb: 5K2C
+preferred_chain: A
+signaling_protein: None
+state: Inactive
