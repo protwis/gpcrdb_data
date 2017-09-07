@@ -2,12 +2,12 @@ auxiliary_protein: BRIL, Antibody Fab fragment
 construct: 5tud
 distance: 8.5
 endogenous_ligand:
-    iupharId: 5 
-    name: Serotonin 
+    iupharId: 5
+    name: Serotonin
     type: Small molecule
-ligand: 
+ligand:
     name: ERM
-    pubchemId: 8223 
+    pubchemId: 8223
     role: agonist
     title: Ergotamine
     type: Small molecule

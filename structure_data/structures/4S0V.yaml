@@ -1,34 +1,20 @@
 auxiliary_protein: PGS
-bulges:
-    TM2: [2x551]
-    TM5: [5x461]
-constrictions:
-    TM4: [4x58]
-    TM7: [7x44]
 construct: 4s0v
 distance: -3.32
-distortion: {}
 endogenous_ligand:
-- {iupharId: 1697, name: Orexin-A, type: Peptide}
-- {iupharId: 1699, name: Orexin-B, type: Peptide}
+-   iupharId: 1697
+    name: Orexin-A
+    type: Peptide
+-   iupharId: 1699
+    name: Orexin-B
+    type: Peptide
 ligand:
-- {name: SUV, pubchemId: '24965990', role: Antagonist, type: Small molecule}
+-   name: SUV
+    pubchemId: '24965990'
+    role: Antagonist
+    type: Small molecule
 pdb: 4S0V
 preferred_chain: A
 representative: true
-segments:
-    ECL1: [118, 123]
-    ECL2: [210, 212]
-    H8: [369, 379]
-    ICL1: [83, 87]
-    ICL2: [159, 166]
-    TM1: [53, 82]
-    TM2: [88, 117]
-    TM3: [124, 158]
-    TM4: [166, 189]
-    TM5: [217, 254]
-    TM6: [298, 330]
-    TM7: [339, 368]
-segments_in_structure: {}
 signaling_protein: None
 state: Inactive

@@ -2,7 +2,10 @@ auxiliary_protein: BRIL
 construct: 4iaq
 distance: 1.2
 ligand:
-- {name: 2GM, pubchemId: '10531', role: Agonist, type: Small molecule}
+-   name: 2GM
+    pubchemId: '10531'
+    role: Agonist
+    type: Small molecule
 pdb: 4IAQ
 preferred_chain: A
 representative: true

@@ -1,32 +1,17 @@
 auxiliary_protein: T4-Lysozyme
-bulges:
-    TM5: [5x461]
-constrictions:
-    TM7: [7x44]
 construct: 4djh
 distance: -3.78
-distortion: {}
 endogenous_ligand:
-- {iupharId: 1620, name: Dynorphin A, type: Peptide}
+-   iupharId: 1620
+    name: Dynorphin A
+    type: Peptide
 ligand:
-- {name: JDC, pubchemId: '9956146', role: Antagonist, type: Small molecule}
+-   name: JDC
+    pubchemId: '9956146'
+    role: Antagonist
+    type: Small molecule
 pdb: 4DJH
 preferred_chain: A
 representative: true
-segments:
-    ECL1: [122, 127]
-    ECL2: [210, 212]
-    H8: [335, 346]
-    ICL1: [88, 92]
-    ICL2: [163, 167]
-    TM1: [57, 87]
-    TM2: [93, 121]
-    TM3: [128, 162]
-    TM4: [170, 196]
-    TM5: [219, 256]
-    TM6: [262, 300]
-    TM7: [309, 334]
-segments_in_structure:
-    TM6: [267, 0]
 signaling_protein: None
 state: Inactive

@@ -2,8 +2,11 @@ auxiliary_protein: BRIL
 construct: 4o9r
 distance: -0.23
 ligand:
-- {name: CY8, pubchemId: 442972, role: Antagonist, title: Cyclopamine, type: Small
-        molecule}
+-   name: CY8
+    pubchemId: 442972
+    role: Antagonist
+    title: Cyclopamine
+    type: Small molecule
 pdb: 4O9R
 preferred_chain: A
 signaling_protein: None

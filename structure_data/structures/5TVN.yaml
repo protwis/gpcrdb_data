@@ -2,9 +2,14 @@ auxiliary_protein: BRIL
 construct: 5tvn
 distance: 6.15
 endogenous_ligand:
-- {iupharId: 5, name: Serotonin, type: Small molecule}
+-   iupharId: 5
+    name: Serotonin
+    type: Small molecule
 ligand:
-- {name: 7LD, pubchemId: '5761', role: Agonist, type: Small molecule}
+-   name: 7LD
+    pubchemId: '5761'
+    role: Agonist
+    type: Small molecule
 pdb: 5TVN
 preferred_chain: A
 signaling_protein: None

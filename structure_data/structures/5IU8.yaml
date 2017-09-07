@@ -2,7 +2,10 @@ auxiliary_protein: BRIL
 construct: 5iu8
 distance: -2.02
 ligand:
-- {name: 6DZ, pubchemId: '121225598', role: Agonist, type: Small molecule}
+-   name: 6DZ
+    pubchemId: '121225598'
+    role: Agonist
+    type: Small molecule
 pdb: 5IU8
 preferred_chain: A
 signaling_protein: None

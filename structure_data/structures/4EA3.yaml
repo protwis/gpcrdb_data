@@ -1,33 +1,17 @@
 auxiliary_protein: BRIL
-bulges:
-    TM5: [5x461]
-constrictions:
-    TM7: [7x44]
 construct: 4ea3
 distance: -3.61
-distortion: {}
 endogenous_ligand:
-- {iupharId: 1681, name: nociceptin/orphanin FQ, type: Peptide}
+-   iupharId: 1681
+    name: nociceptin/orphanin FQ
+    type: Peptide
 ligand:
-- {name: 0NN, pubchemId: 10296561, role: Antagonist, title: C-24, type: Small molecule}
+-   name: 0NN
+    pubchemId: 10296561
+    role: Antagonist
+    title: C-24
+    type: Small molecule
 pdb: 4EA3
 preferred_chain: A
-representative: true
-segments:
-    ECL1: [114, 119]
-    ECL2: [200, 202]
-    H8: [324, 335]
-    ICL1: [80, 84]
-    ICL2: [155, 162]
-    TM1: [48, 79]
-    TM2: [85, 113]
-    TM3: [120, 154]
-    TM4: [164, 188]
-    TM5: [208, 245]
-    TM6: [251, 288]
-    TM7: [295, 323]
-segments_in_structure:
-    TM5: [0, 242]
-    TM6: [252, 0]
 signaling_protein: None
 state: Inactive

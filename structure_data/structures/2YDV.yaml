@@ -1,33 +1,14 @@
 auxiliary_protein: None
-bulges:
-    TM2: [2x551]
-    TM5: [5x401, 5x451]
-constrictions:
-    TM7: [7x44]
 construct: 2ydv
 distance: 7.05
-distortion: {}
 ligand:
-- {name: NEC, pubchemId: '448222', role: Agonist, title: NECA, type: Small molecule}
+-   name: NEC
+    pubchemId: '448222'
+    role: Agonist
+    title: NECA
+    type: Small molecule
 pdb: 2YDV
 preferred_chain: A
 representative: true
-segments:
-    ECL1: [69, 73]
-    ECL2: [166, 168]
-    H8: [293, 311]
-    ICL1: [35, 39]
-    ICL2: [109, 115]
-    TM1: [2, 34]
-    TM2: [40, 68]
-    TM3: [74, 108]
-    TM4: [118, 141]
-    TM5: [174, 213]
-    TM6: [219, 259]
-    TM7: [267, 292]
-segments_in_structure:
-    TM1: [7, 0]
-    TM5: [0, 208]
-    TM6: [222, 0]
 signaling_protein: None
 state: Intermediate

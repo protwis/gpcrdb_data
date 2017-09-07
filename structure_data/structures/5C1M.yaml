@@ -1,38 +1,35 @@
 auxiliary_protein: T4-Lysozyme
-bulges:
-    TM5: [5x461]
-constrictions:
-    TM7: [7x44]
 construct: 5c1m
 distance: 10.24
-distortion: {}
 endogenous_ligand:
-- {iupharId: 1643, name: endorphin, type: Peptide}
-- {iupharId: 1620, name: dynorphin A, type: Peptide}
-- {iupharId: 1622, name: dynorphin B, type: Peptide}
-- {iupharId: 1623, name: endomorphin-1, type: Peptide}
-- {iupharId: 1613, name: leo-enkephalin, type: Peptide}
-- {iupharId: 1614, name: met-enkephalin, type: Peptide}
-- {iupharId: 1643, name: endorphin, type: Peptide}
+-   iupharId: 1643
+    name: endorphin
+    type: Peptide
+-   iupharId: 1620
+    name: dynorphin A
+    type: Peptide
+-   iupharId: 1622
+    name: dynorphin B
+    type: Peptide
+-   iupharId: 1623
+    name: endomorphin-1
+    type: Peptide
+-   iupharId: 1613
+    name: leo-enkephalin
+    type: Peptide
+-   iupharId: 1614
+    name: met-enkephalin
+    type: Peptide
+-   iupharId: 1643
+    name: endorphin
+    type: Peptide
 ligand:
-- {name: 4V0, pubchemId: 11487194, role: Agonist, type: Small molecule}
+-   name: 4V0
+    pubchemId: 11487194
+    role: Agonist
+    type: Small molecule
 pdb: 5C1M
 preferred_chain: A
 representative: true
-segments:
-    ECL1: [131, 136]
-    ECL2: [217, 219]
-    H8: [341, 352]
-    ICL1: [97, 101]
-    ICL2: [174, 181]
-    TM1: [64, 96]
-    TM2: [102, 130]
-    TM3: [137, 171]
-    TM4: [183, 205]
-    TM5: [225, 262]
-    TM6: [268, 306]
-    TM7: [312, 340]
-segments_in_structure:
-    TM1: [66, 0]
 signaling_protein: None
 state: Active

@@ -2,10 +2,15 @@ auxiliary_protein: BRIL
 construct: 5l7d
 distance: -0.31
 endogenous_ligand:
-- {name: constitutive, type: Constitutive}
+-   name: constitutive
+    type: Constitutive
 ligand:
-- {name: None, pubchemId: None, role: .nan, type: None}
+-   name: None
+    pubchemId: None
+    role: .nan
+    type: None
 pdb: 5L7D
 preferred_chain: B
+representative: true
 signaling_protein: None
 state: Inactive

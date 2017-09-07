@@ -2,10 +2,17 @@ auxiliary_protein: T4-Lysozyme
 construct: 5t04
 distance: 9.82
 endogenous_ligand:
-- {iupharId: 1579, name: Neurotensin, type: Peptide}
+-   iupharId: 1579
+    name: Neurotensin
+    type: Peptide
 ligand:
-- {chain: C, name: NTS, pubchemId: '44363934', role: Agonist, type: Peptide}
+-   chain: C
+    name: NTS
+    pubchemId: '44363934'
+    role: Agonist
+    type: Peptide
 pdb: 5T04
 preferred_chain: A
+representative: true
 signaling_protein: None
 state: Active

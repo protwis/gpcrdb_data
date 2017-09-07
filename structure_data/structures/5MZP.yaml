@@ -1,7 +1,12 @@
 auxiliary_protein: ''
 construct: 5mzp
 distance: -1.72
-ligand: {name: None, pubchemId: None, role: '.nan', title: None, type: None}
+ligand:
+    name: CFF
+    pubchemId: 2519
+    role: Antagonist
+    title: Caffeine
+    type: Small molecule
 pdb: 5MZP
 preferred_chain: A
 signaling_protein: None

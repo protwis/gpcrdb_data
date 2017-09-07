@@ -2,25 +2,11 @@ auxiliary_protein: None
 construct: 2y04
 distance: -2.36
 ligand:
-- {name: 68H, pubchemId: '123600', role: Agonist (partial), type: Small molecule}
+-   name: 68H
+    pubchemId: '123600'
+    role: Agonist (partial)
+    type: Small molecule
 pdb: 2Y04
 preferred_chain: B
-segments:
-    C-term: [359, 483]
-    ECL1: [105, 110]
-    ECL2: [180, 204]
-    ECL3: [316, 321]
-    H8: [346, 358]
-    ICL1: [69, 74]
-    ICL2: [145, 154]
-    ICL3: [238, 282]
-    N-term: [1, 36]
-    TM1: [37, 68]
-    TM2: [75, 104]
-    TM3: [111, 144]
-    TM4: [155, 179]
-    TM5: [205, 237]
-    TM6: [283, 315]
-    TM7: [322, 345]
 signaling_protein: None
 state: Inactive

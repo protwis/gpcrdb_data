@@ -1,36 +1,17 @@
 auxiliary_protein: T4-Lysozyme
-bulges:
-    TM2: [2x551]
-    TM5: [5x461]
-constrictions:
-    TM4: [4x56]
-    TM7: [7x44]
 construct: 3rze
 distance: -0.97
-distortion: {}
 endogenous_ligand:
-- {iupharId: 1204, name: Histamine, type: Small molecule}
+-   iupharId: 1204
+    name: Histamine
+    type: Small molecule
 ligand:
-- {name: 5EH, pubchemId: '667477', role: Antagonist, type: Small molecule}
+-   name: 5EH
+    pubchemId: '667477'
+    role: Antagonist
+    type: Small molecule
 pdb: 3RZE
 preferred_chain: A
 representative: true
-segments:
-    ECL1: [91, 96]
-    ECL2: [180, 182]
-    H8: [473, 484]
-    ICL1: [56, 60]
-    ICL2: [132, 139]
-    TM1: [24, 55]
-    TM2: [61, 90]
-    TM3: [97, 131]
-    TM4: [141, 164]
-    TM5: [188, 228]
-    TM6: [404, 441]
-    TM7: [447, 472]
-segments_in_structure:
-    TM1: [32, 0]
-    TM5: [0, 219]
-    TM6: [408, 0]
 signaling_protein: None
 state: Inactive

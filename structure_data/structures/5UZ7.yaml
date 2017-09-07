@@ -2,7 +2,10 @@ auxiliary_protein: None
 construct: 5uz7
 distance: 18.99
 ligand:
-- {name: None, pubchemId: None, role: .nan, type: None}
+-   name: None
+    pubchemId: None
+    role: .nan
+    type: None
 pdb: 5UZ7
 preferred_chain: R
 representative: true

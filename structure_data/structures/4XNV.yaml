@@ -1,34 +1,20 @@
 auxiliary_protein: Rubredoxin
-bulges:
-    TM5: [5x461]
-    TM6: [6x461]
-constrictions:
-    TM7: [7x44]
 construct: 4xnv
 distance: 1.82
-distortion: {}
 endogenous_ligand:
-- {iupharId: 1712, name: ADP, type: Small molecule}
-- {iupharId: 1713, name: ATP, type: Small molecule}
+-   iupharId: 1712
+    name: ADP
+    type: Small molecule
+-   iupharId: 1713
+    name: ATP
+    type: Small molecule
 ligand:
-- {name: BUR, pubchemId: 11510579, role: Antagonist, title: BPTU, type: Small molecule}
+-   name: BUR
+    pubchemId: 11510579
+    role: Antagonist
+    title: BPTU
+    type: Small molecule
 pdb: 4XNV
 preferred_chain: A
-representative: true
-segments:
-    ECL1: [115, 120]
-    ECL2: [202, 204]
-    H8: [329, 340]
-    ICL1: [80, 84]
-    ICL2: [156, 163]
-    TM1: [49, 79]
-    TM2: [85, 112]
-    TM3: [121, 155]
-    TM4: [161, 189]
-    TM5: [211, 247]
-    TM6: [253, 289]
-    TM7: [296, 328]
-segments_in_structure:
-    TM7: [0, 327]
 signaling_protein: None
 state: Intermediate

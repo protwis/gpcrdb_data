@@ -2,25 +2,12 @@ auxiliary_protein: None
 construct: 4amj
 distance: -2.49
 ligand:
-- {name: CVD, pubchemId: '185395', role: Inverse agonist, type: Small molecule}
+-   name: CVD
+    pubchemId: '185395'
+    role: Inverse agonist
+    type: Small molecule
 pdb: 4AMJ
 preferred_chain: B
-segments:
-    C-term: [359, 483]
-    ECL1: [105, 110]
-    ECL2: [180, 204]
-    ECL3: [316, 321]
-    H8: [346, 358]
-    ICL1: [69, 74]
-    ICL2: [145, 154]
-    ICL3: [238, 282]
-    N-term: [1, 36]
-    TM1: [37, 68]
-    TM2: [75, 104]
-    TM3: [111, 144]
-    TM4: [155, 179]
-    TM5: [205, 237]
-    TM6: [283, 315]
-    TM7: [322, 345]
+representative: true
 signaling_protein: None
 state: Inactive

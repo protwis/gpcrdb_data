@@ -2,7 +2,10 @@ auxiliary_protein: Flavodoxin
 construct: 5xr8
 distance: 11.74
 ligand:
-- {name: 8D0, pubchemId: None, role: Agonist, type: Small molecule}
+-   name: 8D0
+    pubchemId: None
+    role: Agonist
+    type: Small molecule
 pdb: 5XR8
 preferred_chain: A
 signaling_protein: None

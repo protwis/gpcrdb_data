@@ -1,28 +1,7 @@
 auxiliary_protein: Endolysin
-bulges:
-    TM2: [2x551]
-    TM5: [5x461]
-constrictions:
-    TM4: [4x58]
-    TM7: [7x44]
 construct: 5gli
 distance: -0.74
-distortion: {}
 pdb: 5GLI
 preferred_chain: A
-representative: true
-segments:
-    ECL1: [166, 169]
-    ECL2: [255, 257]
-    H8: [390, 403]
-    ICL1: [130, 134]
-    TM1: [91, 129]
-    TM2: [135, 164]
-    TM3: [170, 205]
-    TM4: [215, 240]
-    TM5: [264, 303]
-    TM6: [312, 350]
-    TM7: [357, 389]
-segments_in_structure: {}
 signaling_protein: None
 state: Inactive

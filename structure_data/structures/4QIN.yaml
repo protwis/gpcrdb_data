@@ -1,26 +1,13 @@
 auxiliary_protein: BRIL
-bulges:
-    TM5: [5x461]
 construct: 4qin
 distance: -0.91
-distortion: {}
 ligand:
-- {name: SG8, pubchemdId: 44195701, role: Agonist, title: SAG1.5, type: Small molecule}
+-   name: SG8
+    pubchemdId: 44195701
+    role: Agonist
+    title: SAG1.5
+    type: Small molecule
 pdb: 4QIN
 preferred_chain: A
-representative: true
-segments:
-    ECL2: [390, 392]
-    H8: [539, 551]
-    ICL1: [256, 261]
-    TM1: [224, 255]
-    TM2: [263, 285]
-    TM3: [312, 348]
-    TM4: [352, 378]
-    TM5: [397, 433]
-    TM6: [443, 493]
-    TM7: [515, 537]
-segments_in_structure:
-    TM3: [0, 344]
 signaling_protein: None
 state: Inactive

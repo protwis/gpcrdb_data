@@ -2,8 +2,13 @@ auxiliary_protein: None
 construct: 5nx2
 distance: 12.11
 ligand:
-- {name: pep, pubchemId: None, role: Agonist, title: truncated protein agonist, type: Peptide}
+-   name: pep
+    pubchemId: None
+    role: Agonist
+    title: truncated protein agonist
+    type: Peptide
 pdb: 5NX2
 preferred_chain: A
+representative: true
 signaling_protein: None
 state: Intermediate

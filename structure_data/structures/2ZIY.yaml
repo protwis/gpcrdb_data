@@ -2,27 +2,15 @@ auxiliary_protein: None
 construct: 2ziy
 distance: -0.99
 endogenous_ligand:
-- {iupharId: 6669, name: RET, type: Small molecule}
+-   iupharId: 6669
+    name: RET
+    type: Small molecule
 ligand:
-- {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small molecule}
+-   name: RET
+    pubchemId: '638015'
+    role: Inverse agonist
+    type: Small molecule
 pdb: 2ZIY
 preferred_chain: A
-segments:
-    C-term: [324, 448]
-    ECL1: [97, 104]
-    ECL2: [172, 193]
-    ECL3: [287, 293]
-    H8: [319, 323]
-    ICL1: [62, 67]
-    ICL2: [139, 150]
-    ICL3: [226, 257]
-    N-term: [1, 26]
-    TM1: [27, 61]
-    TM2: [68, 96]
-    TM3: [105, 138]
-    TM4: [151, 171]
-    TM5: [194, 225]
-    TM6: [258, 286]
-    TM7: [294, 318]
 signaling_protein: None
 state: Inactive

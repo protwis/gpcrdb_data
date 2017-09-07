@@ -2,9 +2,13 @@ auxiliary_protein: Endolysin
 construct: 5tzr
 distance: 4.75
 endogenous_ligand:
-- {name: long chain carboxylic acids, type: Lipid}
+-   name: long chain carboxylic acids
+    type: Lipid
 ligand:
-- {name: MK6, pubchemId: '73051869', role: Agonist, type: Small molecule}
+-   name: MK6
+    pubchemId: '73051869'
+    role: Agonist
+    type: Small molecule
 pdb: 5TZR
 preferred_chain: A
 signaling_protein: None

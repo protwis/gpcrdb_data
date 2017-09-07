@@ -2,7 +2,10 @@ auxiliary_protein: Glycogen synthase
 construct: 5u09
 distance: -3.57
 ligand:
-- {name: 7DY, pubchemId: 11226090, role: Inverse agonist, type: Small molecule}
+-   name: 7DY
+    pubchemId: 11226090
+    role: Inverse agonist
+    type: Small molecule
 pdb: 5U09
 preferred_chain: A
 signaling_protein: None

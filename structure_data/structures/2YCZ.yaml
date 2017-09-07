@@ -1,33 +1,16 @@
 auxiliary_protein: None
-bulges:
-    TM2: [2x551]
-    TM5: [5x461]
-constrictions:
-    TM7: [7x44]
 construct: 2ycz
 distance: -3.97
 endogenous_ligand:
-- {iupharId: 484, name: noradrenaline, type: Small molecule}
+-   iupharId: 484
+    name: noradrenaline
+    type: Small molecule
 ligand:
-- {name: I32, pubchemId: '33624', role: Antagonist, type: Small molecule}
+-   name: I32
+    pubchemId: '33624'
+    role: Antagonist
+    type: Small molecule
 pdb: 2YCZ
 preferred_chain: B
-segments:
-    C-term: [358, 483]
-    ECL1: [105, 110]
-    ECL2: [179, 240]
-    ECL3: [316, 322]
-    H8: [347, 357]
-    ICL1: [69, 74]
-    ICL2: [145, 154]
-    ICL3: [240, 287]
-    N-term: [39, 39]
-    TM1: [40, 68]
-    TM2: [75, 104]
-    TM3: [111, 144]
-    TM4: [155, 178]
-    TM5: [205, 239]
-    TM6: [288, 315]
-    TM7: [323, 346]
 signaling_protein: None
 state: Inactive

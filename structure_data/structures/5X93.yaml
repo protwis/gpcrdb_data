@@ -1,8 +1,14 @@
-auxiliary_protein: ''
+auxiliary_protein: Endolysin
 construct: 5x93
 distance: -1.22
-ligand: {name: None, pubchemId: None, role: '.nan', title: None, type: None}
+ligand:
+    name: K87
+    pubchemId: 9810112
+    role: Antagonist
+    title: K-8794
+    type: Small molecule
 pdb: 5X93
 preferred_chain: A
+representative: true
 signaling_protein: None
 state: Inactive

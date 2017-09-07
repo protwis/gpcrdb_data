@@ -1,33 +1,16 @@
 auxiliary_protein: None
-bulges:
-    TM2: [2x551]
-    TM5: [5x461]
-constrictions:
-    TM7: [7x44]
 construct: 4x1h
 distance: 9.11
-distortion: {}
 endogenous_ligand:
-- {iupharId: 6669, name: RET, type: Small molecule}
+-   iupharId: 6669
+    name: RET
+    type: Small molecule
 ligand:
-- {name: BNG, pubchemId: '155448', role: Inverse agonist, type: Small molecule}
+-   name: BNG
+    pubchemId: '155448'
+    role: Inverse agonist
+    type: Small molecule
 pdb: 4X1H
 preferred_chain: A
-segments:
-    ECL1: [101, 106]
-    ECL2: [187, 189]
-    H8: [311, 322]
-    ICL1: [66, 70]
-    ICL2: [142, 149]
-    TM1: [34, 65]
-    TM2: [71, 100]
-    TM3: [107, 140]
-    TM4: [150, 173]
-    TM5: [200, 237]
-    TM6: [241, 278]
-    TM7: [286, 310]
-segments_in_structure:
-    ICL2: [0, 142]
-    TM6: [242, 0]
 signaling_protein: None
 state: Active

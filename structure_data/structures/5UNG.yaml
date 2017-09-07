@@ -2,7 +2,10 @@ auxiliary_protein: BRIL
 construct: 5ung
 distance: 8.41
 ligand:
-- {name: 8ES, pubchemId: '15780052', role: Antagonist, type: Small molecule}
+-   name: 8ES
+    pubchemId: '15780052'
+    role: Antagonist
+    type: Small molecule
 pdb: 5UNG
 preferred_chain: B
 representative: true

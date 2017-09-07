@@ -1,34 +1,16 @@
 auxiliary_protein: BRIL
-bulges:
-    TM2: [2x551]
-    TM5: [5x401, 5x451]
-constrictions:
-    TM7: [7x44]
 construct: 4eiy
 distance: -1.29
-distortion: {}
 endogenous_ligand:
-- {iupharId: 2844, name: adenosine, type: Small molecule}
+-   iupharId: 2844
+    name: adenosine
+    type: Small molecule
 ligand:
-- {name: ZMA, pubchemId: '176407', role: Antagonist, type: Small molecule}
+-   name: ZMA
+    pubchemId: '176407'
+    role: Antagonist
+    type: Small molecule
 pdb: 4EIY
 preferred_chain: A
-segments:
-    ECL1: [69, 73]
-    ECL2: [166, 168]
-    H8: [293, 311]
-    ICL1: [35, 39]
-    ICL2: [109, 115]
-    TM1: [2, 34]
-    TM2: [40, 68]
-    TM3: [74, 108]
-    TM4: [118, 141]
-    TM5: [174, 213]
-    TM6: [219, 259]
-    TM7: [267, 292]
-segments_in_structure:
-    H8: [0, 306]
-    TM5: [0, 208]
-    TM6: [222, 0]
 signaling_protein: None
 state: Inactive

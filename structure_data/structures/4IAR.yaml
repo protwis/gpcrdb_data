@@ -1,35 +1,16 @@
 auxiliary_protein: BRIL
-bulges:
-    TM2: [2x551]
-    TM5: [5x461]
-constrictions:
-    TM7: [7x44]
 construct: 4iar
 distance: 3.44
-distortion: {}
 endogenous_ligand:
-- {iupharId: 5, name: Serotonin, type: Small molecule}
+-   iupharId: 5
+    name: Serotonin
+    type: Small molecule
 ligand:
-- {name: ERM, pubchemId: '8223', role: Agonist, type: Small molecule}
+-   name: ERM
+    pubchemId: '8223'
+    role: Agonist
+    type: Small molecule
 pdb: 4IAR
 preferred_chain: A
-representative: true
-segments:
-    ECL1: [113, 118]
-    ECL2: [199, 201]
-    H8: [374, 384]
-    ICL1: [78, 82]
-    ICL2: [154, 161]
-    TM1: [46, 77]
-    TM2: [83, 112]
-    TM3: [119, 153]
-    TM4: [163, 184]
-    TM5: [206, 246]
-    TM6: [303, 337]
-    TM7: [348, 373]
-segments_in_structure:
-    TM4: [0, 184]
-    TM5: [0, 237]
-    TM6: [310, 0]
 signaling_protein: None
 state: Intermediate

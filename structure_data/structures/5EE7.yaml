@@ -2,9 +2,14 @@ auxiliary_protein: BRIL
 construct: 5ee7
 distance: 3.01
 endogenous_ligand:
-- {iupharId: 1136, name: Glucagon, type: Peptide}
+-   iupharId: 1136
+    name: Glucagon
+    type: Peptide
 ligand:
-- {name: PE5, pubchemId: 657096, role: Antagonist, type: Small molecule}
+-   name: PE5
+    pubchemId: 657096
+    role: Antagonist
+    type: Small molecule
 pdb: 5EE7
 preferred_chain: A
 signaling_protein: None

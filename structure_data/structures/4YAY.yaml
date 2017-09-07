@@ -1,34 +1,17 @@
 auxiliary_protein: BRIL
-bulges:
-    TM5: [5x461]
-constrictions:
-    TM4: [4x57]
-    TM7: [7x44]
 construct: 4yay
 distance: -4.43
-distortion: {}
 endogenous_ligand:
-- {iupharId: 2504, name: Angiotensin II, type: Peptide}
+-   iupharId: 2504
+    name: Angiotensin II
+    type: Peptide
 ligand:
-- {name: ZD7, pubchemId: 4673492, role: Antagonist, title: ZD7155, type: Small molecule}
+-   name: ZD7
+    pubchemId: 4673492
+    role: Antagonist
+    title: ZD7155
+    type: Small molecule
 pdb: 4YAY
 preferred_chain: A
-representative: true
-segments:
-    ECL1: [92, 97]
-    ECL2: [180, 182]
-    H8: [306, 320]
-    ICL1: [57, 61]
-    ICL2: [133, 140]
-    TM1: [26, 56]
-    TM2: [62, 90]
-    TM3: [98, 132]
-    TM4: [138, 165]
-    TM5: [191, 225]
-    TM6: [235, 268]
-    TM7: [274, 305]
-segments_in_structure:
-    H8: [0, 317]
-    TM5: [191, 223]
 signaling_protein: None
 state: Inactive

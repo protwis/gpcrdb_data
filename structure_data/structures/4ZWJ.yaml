@@ -1,33 +1,17 @@
 auxiliary_protein: None
-bulges:
-    TM2: [2x551]
-    TM5: [5x461]
-constrictions:
-    TM7: [7x44]
 construct: 4zwj
 distance: 9.7
-distortion: {}
 endogenous_ligand:
-- {iupharId: 6669, name: RET, type: Small molecule}
+-   iupharId: 6669
+    name: RET
+    type: Small molecule
 ligand:
-- {name: None, pubchemId: None, role: .nan, type: None}
+-   name: None
+    pubchemId: None
+    role: .nan
+    type: None
 pdb: 4ZWJ
 preferred_chain: A
 representative: true
-segments:
-    ECL1: [101, 106]
-    ECL2: [187, 189]
-    H8: [311, 322]
-    ICL1: [66, 70]
-    ICL2: [142, 149]
-    TM1: [34, 65]
-    TM2: [71, 100]
-    TM3: [107, 140]
-    TM4: [150, 173]
-    TM5: [200, 237]
-    TM6: [241, 278]
-    TM7: [286, 310]
-segments_in_structure:
-    ICL2: [0, 149]
 signaling_protein: B-arrestin
 state: Active

@@ -1,7 +1,11 @@
 auxiliary_protein: ''
 construct: 5w0p
+endogenous_ligand:
+-   iupharId: 6669
+    name: RET
+    type: Small molecule
 ligand:
-    name: None
+-   name: None
     pubchemId: None
     role: '.nan'
     title: None

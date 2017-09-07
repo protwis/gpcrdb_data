@@ -1,28 +1,15 @@
 auxiliary_protein: BRIL
-bulges:
-    TM5: [5x461]
 construct: 4jkv
 distance: -0.33
-distortion: {}
 endogenous_ligand:
-- {name: constitutive, type: Constitutive}
+-   name: constitutive
+    type: Constitutive
 ligand:
-- {name: 1KS, pubchemId: 49848070, role: Antagonist, type: Small molecule}
+-   name: 1KS
+    pubchemId: 49848070
+    role: Antagonist
+    type: Small molecule
 pdb: 4JKV
 preferred_chain: A
-representative: true
-segments:
-    ECL2: [390, 392]
-    H8: [539, 551]
-    ICL1: [256, 261]
-    TM1: [224, 255]
-    TM2: [262, 285]
-    TM3: [312, 348]
-    TM4: [352, 378]
-    TM5: [397, 433]
-    TM6: [443, 493]
-    TM7: [515, 537]
-segments_in_structure:
-    TM4: [360, 0]
 signaling_protein: None
 state: Inactive

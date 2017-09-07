@@ -1,31 +1,19 @@
 auxiliary_protein: None
-bulges:
-    TM5: [5x461]
-constrictions:
-    TM4: [4x58]
-    TM7: [7x44]
 construct: 4xt1
 distance: 7.88
-distortion: {}
 endogenous_ligand:
-- {iupharId: 856, name: CX3CL1, type: Peptide}
+-   iupharId: 856
+    name: CX3CL1
+    type: Peptide
 ligand:
-- {chain: B, name: BBB, pubchemId: None, role: Agonist, title: CX3CL1, type: Peptide}
+-   chain: B
+    name: BBB
+    pubchemId: None
+    role: Agonist
+    title: CX3CL1
+    type: Peptide
 pdb: 4XT1
 preferred_chain: A
 representative: true
-segments:
-    ECL2: [173, 175]
-    H8: [296, 310]
-    ICL1: [62, 66]
-    ICL2: [136, 139]
-    TM1: [26, 61]
-    TM2: [67, 95]
-    TM3: [104, 135]
-    TM4: [141, 164]
-    TM5: [183, 218]
-    TM6: [222, 253]
-    TM7: [263, 295]
-segments_in_structure: {}
 signaling_protein: SignProtMimic_Nanobody
 state: Intermediate

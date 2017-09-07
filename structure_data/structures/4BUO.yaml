@@ -1,33 +1,18 @@
 auxiliary_protein: None
-bulges:
-    TM2: [2x551]
-    TM5: [5x461]
-constrictions:
-    TM4: [4x58]
-    TM7: [7x44]
 construct: 4buo
 distance: -1.93
 endogenous_ligand:
-- {iupharId: 1579, name: Neurotensin, type: Peptide}
+-   iupharId: 1579
+    name: Neurotensin
+    type: Peptide
 ligand:
-- {chain: C, name: NTS, pubchemId: '44363934', role: Agonist, type: Peptide}
+-   chain: C
+    name: NTS
+    pubchemId: '44363934'
+    role: Agonist
+    type: Peptide
 pdb: 4BUO
 preferred_chain: A
-segments:
-    ECL1: [128, 137]
-    ECL2: [207, 230]
-    ECL3: [332, 340]
-    H8: [374, 424]
-    ICL1: [91, 98]
-    ICL2: [173, 186]
-    ICL3: [269, 298]
-    N-term: [1, 60]
-    TM1: [61, 90]
-    TM2: [99, 127]
-    TM3: [138, 172]
-    TM4: [187, 206]
-    TM5: [231, 268]
-    TM6: [299, 331]
-    TM7: [341, 373]
+representative: true
 signaling_protein: None
 state: Inactive

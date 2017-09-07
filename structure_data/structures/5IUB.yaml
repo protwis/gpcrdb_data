@@ -2,7 +2,10 @@ auxiliary_protein: BRIL
 construct: 5iub
 distance: -1.78
 ligand:
-- {name: 6DV, pubchemId: '44394716', role: Agonist, type: Small molecule}
+-   name: 6DV
+    pubchemId: '44394716'
+    role: Agonist
+    type: Small molecule
 pdb: 5IUB
 preferred_chain: A
 signaling_protein: None

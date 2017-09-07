@@ -2,7 +2,10 @@ auxiliary_protein: BRIL
 construct: 5k2c
 distance: -1.37
 ligand:
-- {name: ZMA, pubchemId: '176407', role: Agonist, type: Small molecule}
+-   name: ZMA
+    pubchemId: '176407'
+    role: Agonist
+    type: Small molecule
 pdb: 5K2C
 preferred_chain: A
 signaling_protein: None

@@ -2,7 +2,10 @@ auxiliary_protein: None
 construct: 5a8e
 distance: -4.37
 ligand:
-- {name: XTK, role: Inverse agonist, title: 7-methylcyanopindolol, type: Small molecule}
+-   name: XTK
+    role: Inverse agonist
+    title: 7-methylcyanopindolol
+    type: Small molecule
 pdb: 5A8E
 preferred_chain: A
 signaling_protein: None

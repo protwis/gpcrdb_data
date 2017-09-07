@@ -2,7 +2,10 @@ auxiliary_protein: BRIL
 construct: 5unh
 distance: 8.96
 ligand:
-- {name: 8EM, pubchemId: '126456406', role: Antagonist, type: Small molecule}
+-   name: 8EM
+    pubchemId: '126456406'
+    role: Antagonist
+    type: Small molecule
 pdb: 5UNH
 preferred_chain: B
 signaling_protein: None

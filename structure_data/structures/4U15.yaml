@@ -1,35 +1,17 @@
 auxiliary_protein: T4-Lysozyme
-bulges:
-    TM2: [2x551]
-    TM5: [5x461]
-constrictions:
-    TM7: [7x44]
 construct: 4u15
 distance: -1.8
-distortion: {}
 endogenous_ligand:
-- {iupharId: 294, name: Acetylcholine, type: Small molecule}
+-   iupharId: 294
+    name: Acetylcholine
+    type: Small molecule
 ligand:
-- {name: 0HK, pubchemId: '5487427', role: Antagonist, type: Small molecule}
+-   name: 0HK
+    pubchemId: '5487427'
+    role: Antagonist
+    type: Small molecule
 pdb: 4U15
 preferred_chain: B
 representative: true
-segments:
-    ECL1: [131, 136]
-    ECL2: [220, 222]
-    H8: [548, 559]
-    ICL1: [96, 100]
-    ICL2: [172, 179]
-    TM1: [64, 95]
-    TM2: [101, 130]
-    TM3: [137, 171]
-    TM4: [181, 205]
-    TM5: [228, 267]
-    TM6: [479, 516]
-    TM7: [522, 547]
-segments_in_structure:
-    H8: [0, 558]
-    TM5: [0, 259]
-    TM6: [483, 0]
 signaling_protein: None
 state: Inactive
