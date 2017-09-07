@@ -7,3 +7,5 @@ gtoplig     "Guide To Pharmacology" http://www.guidetopharmacology.org/GRAC/Liga
 bitterdb    BitterDB                http://bitterdb.agri.huji.ac.il/Receptor.php?id=$index
 uniprot     UniProt                 http://www.uniprot.org/uniprot/$index
 chembl      ChEMBL                  https://www.ebi.ac.uk/chembldb/index.php/target/inspect/$index
+chembl_ligand ChEMBL_compound_ids   https://www.ebi.ac.uk/chembl/compound/inspect/$index
+chembl_assays "ChEMBL Assays ids"   https://www.ebi.ac.uk/chembl/assay/inspect/$index
