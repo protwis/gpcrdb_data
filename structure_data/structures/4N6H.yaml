@@ -1,54 +1,35 @@
-construct: 4n6h
-pdb: 4N6H
-representative: true
-preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 1643
-  name: "\u03B2-endorphin"
-  type: Peptide
-- iupharId: 1620
-  name: dynorphin A
-  type: Peptide
-- iupharId: 1622
-  name: dynorphin B
-  type: Peptide
-- iupharId: 1623
-  name: endomorphin-1
-  type: Peptide
-- iupharId: 1613
-  name: Leo-enkephalin
-  type: Peptide
-- iupharId: 1614
-  name: Met-enkephalin
-  type: Peptide
-- iupharId: 1643
-  name: "\u03B2-endorphin"
-  type: Peptide
-ligand:
-- name: EJ4
-  pubchemId: '5497186'
-  role: Antagonist
-  type: Small molecule
 auxiliary_protein: BRIL
+construct: 4n6h
+distance: -3.43
+endogenous_ligand:
+-   iupharId: 1643
+    name: "\u03B2-endorphin"
+    type: Peptide
+-   iupharId: 1620
+    name: dynorphin A
+    type: Peptide
+-   iupharId: 1622
+    name: dynorphin B
+    type: Peptide
+-   iupharId: 1623
+    name: endomorphin-1
+    type: Peptide
+-   iupharId: 1613
+    name: Leo-enkephalin
+    type: Peptide
+-   iupharId: 1614
+    name: Met-enkephalin
+    type: Peptide
+-   iupharId: 1643
+    name: "\u03B2-endorphin"
+    type: Peptide
+ligand:
+-   name: EJ4
+    pubchemId: '5497186'
+    role: Antagonist
+    type: Small molecule
+pdb: 4N6H
+preferred_chain: A
+representative: true
 signaling_protein: None
-segments:
-  TM1: [40, 77]
-  ICL1: [78, 82]
-  TM2: [83, 111]
-  ECL1: [112, 117]
-  TM3: [118, 152]
-  ICL2: [153, 160]
-  TM4: [162, 186]
-  ECL2: [198, 200]
-  TM5: [206, 243]
-  TM6: [249, 287]
-  TM7: [294, 322]
-  H8: [323, 335]
-segments_in_structure:
-  TM6: [250, 0]
-bulges:
-  TM5: [5x461]
-constrictions:
-  TM7: [7x44]
-distortion: {}
+state: Inactive

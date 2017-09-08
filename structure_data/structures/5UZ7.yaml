@@ -1,12 +1,13 @@
-construct: 5uz7
-pdb: 5UZ7
-representative: True
-preferred_chain: R
-state: Active
-ligand:
-- name: None
-  pubchemId: None
-  role: .nan
-  type: None
 auxiliary_protein: None
+construct: 5uz7
+distance: 18.99
+ligand:
+-   name: None
+    pubchemId: None
+    role: .nan
+    type: None
+pdb: 5UZ7
+preferred_chain: R
+representative: true
 signaling_protein: Gs
+state: Active

@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 5mzj
+distance: -1.59
+ligand:
+    name: TEP
+    pubchemId: 2153
+    role: Antagonist
+    title: Theophylline
+    type: Small molecule
+pdb: 5MZJ
+preferred_chain: A
+signaling_protein: None
+state: Inactive

@@ -1,10 +1,11 @@
-construct: 5te3
-pdb: 5TE3
-signaling_protein: None
 auxiliary_protein: Octylglucoside
-preferred_chain: A
-state: Active
+construct: 5te3
+distance: 8.91
 endogenous_ligand:
-- name: RET
-  iupharId: 6669
-  type: Small molecule
+-   iupharId: 6669
+    name: RET
+    type: Small molecule
+pdb: 5TE3
+preferred_chain: A
+signaling_protein: None
+state: Active

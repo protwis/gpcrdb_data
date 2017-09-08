@@ -1,39 +1,17 @@
-construct: 4u15
-pdb: 4U15
-representative: true
-preferred_chain: B
-state: Inactive
-endogenous_ligand:
-- iupharId: 294
-  name: Acetylcholine
-  type: Small molecule
-ligand:
-- name: 0HK
-  pubchemId: '5487427'
-  role: Antagonist
-  type: Small molecule
 auxiliary_protein: T4-Lysozyme
+construct: 4u15
+distance: -1.8
+endogenous_ligand:
+-   iupharId: 294
+    name: Acetylcholine
+    type: Small molecule
+ligand:
+-   name: 0HK
+    pubchemId: '5487427'
+    role: Antagonist
+    type: Small molecule
+pdb: 4U15
+preferred_chain: B
+representative: true
 signaling_protein: None
-segments:
-  TM1: [64, 95]
-  ICL1: [96, 100]
-  TM2: [101, 130]
-  ECL1: [131, 136]
-  TM3: [137, 171]
-  ICL2: [172, 179]
-  TM4: [181, 205]
-  ECL2: [220, 222]
-  TM5: [228, 267]
-  TM6: [479, 516]
-  TM7: [522, 547]
-  H8: [548, 559]
-segments_in_structure:
-  TM5: [0, 259]
-  TM6: [483, 0]
-  H8: [0, 558]
-bulges:
-  TM2: [2x551]
-  TM5: [5x461]
-constrictions:
-  TM7: [7x44]
-distortion: {}
+state: Inactive

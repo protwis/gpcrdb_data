@@ -1,27 +1,12 @@
-construct: 4daj
-pdb: 4DAJ
-signaling_protein: None
 auxiliary_protein: T4-Lysozyme
-preferred_chain: A
-state: Inactive
+construct: 4daj
+distance: -5.63
 ligand:
-- {name: 0HK, pubchemId: '5487427', role: Inverse agonist, type: Small molecule}
-segments:
-  N-term: [1, 64]
-  TM1: [65, 94]
-  ICL1: [95, 100]
-  TM2: [101, 130]
-  ECL1: [131, 136]
-  TM3: [137, 170]
-  ICL2: [171, 180]
-  TM4: [181, 203]
-  ECL2: [204, 229]
-  TM5: [230, 256]
-  ICL3: [257, 491]
-  TM6: [492, 515]
-  ECL3: [516, 522]
-  TM7: [523, 546]
-  H8: [547, 555]
-  C-term: [556, 589]
-bulges: ''
-constrictions: ''
+-   name: 0HK
+    pubchemId: '5487427'
+    role: Inverse agonist
+    type: Small molecule
+pdb: 4DAJ
+preferred_chain: A
+signaling_protein: None
+state: Inactive

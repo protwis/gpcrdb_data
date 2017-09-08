@@ -1,27 +1,12 @@
-construct: 4py0
-pdb: 4PY0
-signaling_protein: None
 auxiliary_protein: BRIL
-preferred_chain: A
-state: Inactive
+construct: 4py0
+distance: 0.87
 ligand:
-- {name: 6AT, pubchemId: '5310983', role: Agonist (partial), type: Small molecule}
-segments:
-  N-term: [1, 20]
-  TM1: [21, 50]
-  ICL1: [51, 57]
-  TM2: [58, 84]
-  ECL1: [85, 92]
-  TM3: [93, 127]
-  ICL2: [128, 137]
-  TM4: [138, 160]
-  ECL2: [161, 180]
-  TM5: [181, 222]
-  ICL3: [223, 234]
-  TM6: [235, 256]
-  ECL3: [257, 269]
-  TM7: [270, 301]
-  H8: [302, 311]
-  C-term: [312, 342]
-bulges: ''
-constrictions: ''
+-   name: 6AT
+    pubchemId: '5310983'
+    role: Agonist (partial)
+    type: Small molecule
+pdb: 4PY0
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

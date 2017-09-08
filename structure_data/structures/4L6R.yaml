@@ -1,32 +1,16 @@
+auxiliary_protein: BRIL
 construct: 4l6r
+distance: 3.68
+endogenous_ligand:
+-   iupharId: 1136
+    name: Glucagon
+    type: Peptide
+ligand:
+-   name: None
+    pubchemId: None
+    role: .nan
+    type: None
 pdb: 4L6R
 preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 1136
-  name: Glucagon
-  type: Peptide
-ligand:
-- name: None
-  pubchemId: None
-  role: .nan
-  type: None
-auxiliary_protein: BRIL
 signaling_protein: None
-segments:
-  TM1: [125, 166]
-  ICL1: [167, 171]
-  TM2: [172, 198]
-  TM3: [217, 255]
-  TM4: [265, 290]
-  ECL2: [294, 296]
-  TM5: [300, 335]
-  TM6: [343, 367]
-  TM7: [375, 404]
-  H8: [405, 429]
-segments_in_structure:
-  TM1: [0, 164]
-  TM4: [267, 0]
-constrictions:
-  TM7: [7x44]
-distortion: {}
+state: Inactive

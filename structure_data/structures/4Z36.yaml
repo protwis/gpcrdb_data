@@ -1,25 +1,13 @@
-construct: 4z36
-pdb: 4Z36
-signaling_protein: None
 auxiliary_protein: BRIL
-preferred_chain: A
-state: Inactive
+construct: 4z36
+distance: -3.42
 ligand:
-- {name: ON3, title: ONO-3080573, pubchemId: 11785732, role: Antagonist, type: Small molecule}
-segments:
-  N-term: [1, 45]
-  TM1: [46, 76]
-  ICL1: [77, 84]
-  TM2: [85, 108]
-  ECL1: [109, 118]
-  TM3: [119, 150]
-  ICL2: [151, 161]
-  TM4: [162, 180]
-  ECL2: [181, 203]
-  TM5: [204, 234]
-  ICL3: [235, 252]
-  TM6: [253, 282]
-  ECL3: [283, 292]
-  TM7: [293, 314]
-  H8: [315, 323]
-  C-term: [324, 364]
+-   name: ON3
+    pubchemId: 11785732
+    role: Antagonist
+    title: ONO-3080573
+    type: Small molecule
+pdb: 4Z36
+preferred_chain: A
+signaling_protein: None
+state: Inactive

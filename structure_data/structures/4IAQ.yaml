@@ -1,8 +1,13 @@
-construct: 4iaq
-pdb: 4IAQ
-signaling_protein: None
 auxiliary_protein: BRIL
-preferred_chain: A
-state: Inactive
+construct: 4iaq
+distance: 1.2
 ligand:
-- {name: 2GM, pubchemId: '10531', role: Agonist, type: Small molecule}
+-   name: 2GM
+    pubchemId: '10531'
+    role: Agonist
+    type: Small molecule
+pdb: 4IAQ
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Intermediate

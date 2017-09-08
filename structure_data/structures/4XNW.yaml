@@ -1,33 +1,18 @@
-construct: 4xnw
-pdb: 4XNW
-signaling_protein: None
 auxiliary_protein: Rubredoxin
-preferred_chain: A
-state: Inactive
+construct: 4xnw
+distance: 1.76
 endogenous_ligand:
-- {iupharId: 1712, name: adenosine diphosphate, type: Small molecule}
+-   iupharId: 1712
+    name: adenosine diphosphate
+    type: Small molecule
 ligand:
-- {name: 2ID, title: MRS2500, pubchemId: 44448831, role: Antagonist, type: Small molecule}
-segments:
-  N-term: [39, 49]
-  TM1: [50, 77]
-  ICL1: [78, 84]
-  TM2: [85, 112]
-  ECL1: [113, 119]
-  TM3: [120, 154]
-  ICL2: [155, 164]
-  TM4: [165, 189]
-  ECL2: [190, 210]
-  TM5: [211, 246]
-  ICL3_1: [247, 247]
-  ICL3_2: [253, 254]
-  TM6: [255, 285]
-  ECL3: [286, 296]
-  TM7: [297, 327]
-  C-term: [328, 334]
-bulges:
-  TM5: [5x461]
-  TM6: [6x461]
-constrictions:
-  TM4: [4x58]
-  TM7: [7x44]
+-   name: 2ID
+    pubchemId: 44448831
+    role: Antagonist
+    title: MRS2500
+    type: Small molecule
+pdb: 4XNW
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Intermediate

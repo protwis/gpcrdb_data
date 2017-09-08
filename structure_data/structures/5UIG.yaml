@@ -1,8 +1,12 @@
-construct: 5uig
-pdb: 5UIG
-signaling_protein: None
 auxiliary_protein: BRIL
-preferred_chain: A
-state: Inactive
+construct: 5uig
+distance: 0.07
 ligand:
-- {name: 8D1, pubchemId: '124081196', role: Antagonist, type: Small molecule}
+-   name: 8D1
+    pubchemId: '124081196'
+    role: Antagonist
+    type: Small molecule
+pdb: 5UIG
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

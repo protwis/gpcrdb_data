@@ -1,29 +1,13 @@
-construct: 4z34
-pdb: 4Z34
-signaling_protein: None
 auxiliary_protein: BRIL
-preferred_chain: A
-state: Inactive
+construct: 4z34
+distance: -3.45
 ligand:
-- {name: ON7, title: ONO-9780307, pubchemId: 11785732, role: Antagonist, type: Small molecule}
-segments:
-  N-term: [20, 46]
-  TM1: [47, 76]
-  ICL1: [77, 84]
-  TM2: [85, 108]
-  ECL1: [109, 117]
-  TM3: [119, 150]
-  ICL2: [151, 157]
-  TM4: [158, 184]
-  ECL2: [185, 203]
-  TM5: [204, 232]
-  TM6: [249, 283]
-  ECL3: [284, 293]
-  TM7: [294, 314]
-  H8: [315, 323]
-  C-term: [324, 327]
-bulges:
-  TM2: [2x551]
-  TM5: [5x461]
-constrictions:
-  TM7: [7x44]
+-   name: ON7
+    pubchemId: 11785732
+    role: Antagonist
+    title: ONO-9780307
+    type: Small molecule
+pdb: 4Z34
+preferred_chain: A
+signaling_protein: None
+state: Inactive

@@ -1,26 +1,13 @@
-construct: 4bv0
-pdb: 4BV0
-signaling_protein: None
 auxiliary_protein: None
-preferred_chain: A
-state: Inactive
+construct: 4bv0
+distance: -1.53
 ligand:
-- {name: NTS, pubchemId: '44363934', role: Agonist, type: Peptide, chain: C}
-segments:
-  N-term: [1, 60]
-  TM1: [61, 88]
-  ICL1: [89, 98]
-  TM2: [99, 127]
-  ECL1: [128, 137]
-  TM3: [138, 172]
-  ICL2: [173, 186]
-  TM4: [187, 201]
-  ECL2: [202, 230]
-  TM5: [231, 265]
-  ICL3: [266, 301]
-  TM6: [302, 330]
-  ECL3: [331, 340]
-  TM7: [341, 373]
-  H8: [374, 424]
-bulges: ''
-constrictions: ''
+-   chain: C
+    name: NTS
+    pubchemId: '44363934'
+    role: Agonist
+    type: Peptide
+pdb: 4BV0
+preferred_chain: A
+signaling_protein: None
+state: Inactive

@@ -1,0 +1,18 @@
+auxiliary_protein: Lysozyme
+construct: 5x7d
+distance: -2.93
+ligand:
+-   name: CAU
+    pubchemId: 13023332
+    role: Antagonist
+    title: Carazolol
+    type: Small molecule
+-   name: 8VS
+    pubchemId: 129318963
+    role: Antagonist
+    title: 4-carbamoyl-N-[(2R)-2-cyclohexyl-2-phenylacetyl]-L-phenylalanyl-3-bromo-N-methyl-L-phenylalaninamide
+    type: Small molecule
+pdb: 5X7D
+preferred_chain: A
+signaling_protein: None
+state: Inactive

@@ -1,8 +1,12 @@
-construct: 5iu4
-pdb: 5IU4
-signaling_protein: None
 auxiliary_protein: BRIL
-preferred_chain: A
-state: Inactive
+construct: 5iu4
+distance: -1.75
 ligand:
-- {name: ZMA, pubchemId: '176407', role: Agonist, type: Small molecule}
+-   name: ZMA
+    pubchemId: '176407'
+    role: Agonist
+    type: Small molecule
+pdb: 5IU4
+preferred_chain: A
+signaling_protein: None
+state: Inactive
