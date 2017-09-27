@@ -4,7 +4,7 @@ distance: -1.75
 ligand:
 -   name: ZMA
     pubchemId: '176407'
-    role: Agonist
+    role: Antagonist
     type: Small molecule
 pdb: 5IU4
 preferred_chain: A

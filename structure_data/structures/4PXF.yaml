@@ -7,5 +7,5 @@ endogenous_ligand:
     type: Small molecule
 pdb: 4PXF
 preferred_chain: A
-signaling_protein: Arrestin
+signaling_protein: Arrestin fragment
 state: Active
