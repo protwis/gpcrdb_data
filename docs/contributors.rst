@@ -6,9 +6,9 @@ Contributors of data and development
 +-------------------------------------+-------------+-------------------------+------------------------------------+-----------------------+
 | University / Institute              | Country     | Collaborators           | Data                               | Development           |
 +-------------------------------------+-------------+-------------------------+------------------------------------+-----------------------+
-| MRC Laboratory of Molecular Biology | UK          | Madan Babu              | G protein alignments               | E2                    |
+| MRC Laboratory of Molecular Biology | UK          | Madan Babu              | G protein alignments               |                       |
 +-------------------------------------+-------------+-------------------------+------------------------------------+-----------------------+
-| Paul Scherrer Institute             | Switzerland | Xavier Deupi            | Crystallisation construct database |                       |
+| Paul Scherrer Institute             | Switzerland | Xavier Deupi            | Crystallisation database |                       |
 +-------------------------------------+-------------+-------------------------+------------------------------------+-----------------------+
 | Philipps-Universität Marburg        | Germany     | Peter Kolb              |                                    | Virtual screening     |
 +-------------------------------------+-------------+-------------------------+------------------------------------+-----------------------+
