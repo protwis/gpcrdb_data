@@ -67,6 +67,7 @@ The documentation in organized into four sections:
 
     about
     contact
+    contacts
     citing
     acknowledgements
     legal_notice
