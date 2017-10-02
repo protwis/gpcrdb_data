@@ -1,17 +1,96 @@
-N-term  terminus    0   "N-terminus"
-TM1     helix       1   "Transmembrane helix 1"
-ICL1    loop        0   "Intracellular loop 1"
-TM2     helix       1   "Transmembrane helix 2"
-ECL1    loop        0   "Extracellular loop 1"
-TM3     helix       1   "Transmembrane helix 3"
-ICL2    loop        0   "Intracellular loop 2"
-TM4     helix       1   "Transmembrane helix 4"
-ECL2    loop        0   "Extracellular loop 2"
-TM5     helix       1   "Transmembrane helix 5"
-ICL3    loop        0   "Intracellular loop 3"
-TM6     helix       1   "Transmembrane helix 6"
-ECL3    loop        0   "Extracellular loop 3"
-TM7     helix       1   "Transmembrane helix 7"
-ICL4    loop        0   "Intracellular loop 4"
-H8      helix       1   "Helix 8"
-C-term  terminus    0   "C-terminus"
+N-term terminus 0 "N-terminus" GPCR
+TM1 helix 1 "Transmembrane helix 1" GPCR
+ICL1 loop 0 "Intracellular loop 1" GPCR
+TM2 helix 1 "Transmembrane helix 2" GPCR
+ECL1 loop 0 "Extracellular loop 1" GPCR
+TM3 helix 1 "Transmembrane helix 3" GPCR
+ICL2 loop 0 "Intracellular loop 2" GPCR
+TM4 helix 1 "Transmembrane helix 4" GPCR
+ECL2 loop 0 "Extracellular loop 2" GPCR
+TM5 helix 1 "Transmembrane helix 5" GPCR
+ICL3 loop 0 "Intracellular loop 3" GPCR
+TM6 helix 1 "Transmembrane helix 6" GPCR
+ECL3 loop 0 "Extracellular loop 3" GPCR
+TM7 helix 1 "Transmembrane helix 7" GPCR
+ICL4 loop 0 "Intracellular loop 4" GPCR
+H8 helix 1 "Helix 8" GPCR
+C-term terminus 0 "C-terminus" GPCR
+HN helix 1 HN Gprotein
+hns1 loop 1 hns1 Gprotein
+S1 sheet 1 S1 Gprotein
+s1h1 loop 1 s1h1 Gprotein
+H1 helix 1 H1 Gprotein
+h1ha loop 1 h1ha Gprotein
+HA helix 1 HA Gprotein
+hahb loop 1 hahb Gprotein
+HB helix 1 HB Gprotein
+hbhc loop 1 hbhc Gprotein
+HC helix 1 HC Gprotein
+hchd loop 1 hchd Gprotein
+HD helix 1 HD Gprotein
+hdhe loop 1 hdhe Gprotein
+HE helix 1 HE Gprotein
+hehf loop 1 hehf Gprotein
+HF helix 1 HF Gprotein
+hfs2 loop 1 hfs2 Gprotein
+S2 sheet 1 S2 Gprotein
+s2s3 loop 1 s2s3 Gprotein
+S3 sheet 1 S3 Gprotein
+s3h2 loop 1 s3h2 Gprotein
+H2 helix 1 H2 Gprotein
+h2s4 loop 1 h2s4 Gprotein
+S4 sheet 1 S4 Gprotein
+s4h3 loop 1 s4h3 Gprotein
+H3 helix 1 H3 Gprotein
+h3s5 loop 1 h3s5 Gprotein
+S5 sheet 1 S5 Gprotein
+s5hg loop 1 s5hg Gprotein
+HG helix 1 HG Gprotein
+hgh4 loop 1 hgh4 Gprotein
+H4 helix 1 H4 Gprotein
+h4s6 loop 1 h4s6 Gprotein
+S6 sheet 1 S6 Gprotein
+s6h5 loop 1 s6h5 Gprotein
+H5 helix 1 H5 Gprotein
+H1 helix 1 H1 Arrestin
+ns1 loop 1 ns1 Arrestin
+S1 sheet 1 S1 Arrestin
+s1s2 loop 1 s1s2 Arrestin
+S2 sheet 1 S2 Arrestin
+s2s3 loop 1 s2s3 Arrestin
+S3 sheet 1 S3 Arrestin
+s3s4 loop 1 s3s4 Arrestin
+S4 sheet 1 S4 Arrestin
+s4s5 loop 1 s4s5 Arrestin
+S5 sheet 1 S5 Arrestin
+s5s6 loop 1 s5s6 Arrestin
+S6 sheet 1 S6 Arrestin
+s6h1 loop 1 s6h1 Arrestin
+H1 helix 1 H1 Arrestin
+h1s7 loop 1 h1s7 Arrestin
+S7 sheet 1 S7 Arrestin
+s7s8 loop 1 s7s8 Arrestin
+S8 sheet 1 S8 Arrestin
+s8s9 loop 1 s8s9 Arrestin
+S9 sheet 1 S9 Arrestin
+s9s10 loop 1 s9s10 Arrestin
+S10 sheet 1 S10 Arrestin
+s10s11 loop 1 s10s11 Arrestin
+S11 sheet 1 S11 Arrestin
+s11s12 loop 1 s11s12 Arrestin
+S12 sheet 1 S12 Arrestin
+s12s13 loop 1 s12s13 Arrestin
+S13 sheet 1 S13 Arrestin
+s13s14 loop 1 s13s14 Arrestin
+S14 sheet 1 S14 Arrestin
+s14s15 loop 1 s14s15 Arrestin
+S15 sheet 1 S15 Arrestin
+s15s16 loop 1 s15s16 Arrestin
+S16 sheet 1 S16 Arrestin
+s16s17 loop 1 s16s17 Arrestin
+S17 sheet 1 S17 Arrestin
+s17s18 loop 1 s17s18 Arrestin
+S18 sheet 1 S18 Arrestin
+s18s19 loop 1 s18s19 Arrestin
+S19 sheet 1 S19 Arrestin
+s19c loop 1 s19c Arrestin
