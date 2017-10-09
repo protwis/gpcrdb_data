@@ -12,5 +12,5 @@ ligand:
     type: Small molecule
 pdb: 4A4M
 preferred_chain: A
-signaling_protein: Gt
+signaling_protein: Gt-alpha3
 state: Active
