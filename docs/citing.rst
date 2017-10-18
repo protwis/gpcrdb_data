@@ -32,6 +32,10 @@ Structure-based alignments and generic residue numbering
 .. _10.1016/j.tips.2014.11.001: http://dx.doi.org/10.1016/j.tips.2014.11.001
 .. _10.3390/ijms15057841: http://dx.doi.org/10.3390/ijms15057841
 
+GPCR Drugs and Targets
+-----------------------------------------------------
+*  Hauser, A. S., Misty, A, Mathias, R., Schiöth, H. B., Gloriam, D. E., "Trends in GPCR drug discovery: new agents, targets and indications", **2017**, *Nature Reviews Drug Discovery*, *in print*.
+
 GPCR-G protein selectivity
 -----------------------------------------------------
 *   Flock, T., Hauser, A. S., Lund, N., Gloriam, D. E., Balaji, S., & Babu, M. M., "Selectivity determinants of GPCR–G-protein binding.", **2017**, *Nature*, May 18;545(7654):317-322 `10.1038/nature22070`_
