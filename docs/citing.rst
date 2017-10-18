@@ -32,7 +32,7 @@ Structure-based alignments and generic residue numbering
 .. _10.1016/j.tips.2014.11.001: http://dx.doi.org/10.1016/j.tips.2014.11.001
 .. _10.3390/ijms15057841: http://dx.doi.org/10.3390/ijms15057841
 
-GPCR Drugs and Targets
+GPCR drugs and targets
 -----------------------------------------------------
 *  Hauser, A. S., Misty, A, Mathias, R., Schiöth, H. B., Gloriam, D. E., "Trends in GPCR drug discovery: new agents, targets and indications", **2017**, *Nature Reviews Drug Discovery*, *in print*.
 
