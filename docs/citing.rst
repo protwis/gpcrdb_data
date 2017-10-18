@@ -34,7 +34,7 @@ Structure-based alignments and generic residue numbering
 
 GPCR-G protein selectivity
 -----------------------------------------------------
-*   Flock, T., Hauser, A. S., Lund, N., Gloriam, D. E., Balaji, S., & Babu, M. M., "Selectivity determinants of GPCR–G-protein binding.", **2017**, *Nature*, *in press*.  `10.1038/nature22070`_
+*   Flock, T., Hauser, A. S., Lund, N., Gloriam, D. E., Balaji, S., & Babu, M. M., "Selectivity determinants of GPCR–G-protein binding.", **2017**, *Nature*, May 18;545(7654):317-322 `10.1038/nature22070`_
 
 .. _10.1038/nature22070: http://dx.doi.org/10.1038/nature22070
 
