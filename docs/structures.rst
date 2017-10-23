@@ -14,7 +14,7 @@ Structure state
 ---------------
 
 A Δ distance was determined for all structure templates by calculating the difference between the 2x39-6x35, 
-and the 3x47-7x53 C alpha distances. These values are now provided in the Structure Browser (gpcrdb.org/structure) 
+and the 3x47-7x53 C alpha distances. These values are now provided in the Structure Browser ('gpcrdb.org/structure'_) 
 in the Δ distance (Å) column.
 
 .. _gpcrdb.org/structure: http://gpcrdb.org/structure
