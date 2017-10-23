@@ -17,6 +17,8 @@ A Δ distance was determined for all structure templates by calculating the diff
 and the 3x47-7x53 C alpha distances. These values are now provided in the Structure Browser (gpcrdb.org/structure) 
 in the Δ distance (Å) column.
 
+.. _gpcrdb.org/structure: http://gpcrdb.org/structure
+
 =====  ========  ============  ======
 Class  Inactive  Intermediate  Active
 =====  ========  ============  ======
