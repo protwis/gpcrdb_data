@@ -6,7 +6,7 @@
         "ligand_id": "591",
         "pdb_name": "4zud_partial ",
         "ligand_name": "Olmesartan",
-        "uniprot": "opsd_bovin"
+        "uniprot": "agtr1_human"
     },
     "unparsed": {
         "other_lig_id": "Guide to Pharmacology (http://www.guidetopharmacology.org)"
@@ -268,7 +268,7 @@
         "chemical_comp_4": "PEG400",
         "fusion_prot": "",
         "ligand_name": "Olmesartan",
-        "uniprot": "opsd_bovin",
+        "uniprot": "agtr1_human",
         "undefined_3": "",
         "ins_end_3": "",
         "signal_5": "",
