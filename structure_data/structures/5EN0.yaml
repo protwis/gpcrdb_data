@@ -12,5 +12,5 @@ ligand:
     type: Small molecule
 pdb: 5EN0
 preferred_chain: A
-signaling_protein: GNAT3
+signaling_protein: Gt-alpha3
 state: Active

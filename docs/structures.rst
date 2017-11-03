@@ -10,6 +10,23 @@ show only those with a co-crystallized agonist or X-ray resolution < 2.5 Å.
 
 To view an alignment of the structures' sequences, click the "View alignment" button.
 
+Structure state
+---------------
+
+A Δ distance was determined for all structure templates by calculating the difference between the 2x39-6x35, 
+and the 3x47-7x53 C alpha distances. These values are now provided in the Structure Browser (`gpcrdb.org/structure`_) 
+in the Δ distance (Å) column.
+
+.. _gpcrdb.org/structure: http://gpcrdb.org/structure
+
+=====  ========  ============  ======
+Class  Inactive  Intermediate  Active
+=====  ========  ============  ======
+A      <0        0<=x<=8       >8
+B      <10       10<=x<=15     >15
+=====  ========  ============  ======
+All Class C and F structures are, so far, in the inactive state.
+
 Structure statistics
 --------------------
 

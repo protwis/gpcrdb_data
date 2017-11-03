@@ -9,6 +9,5 @@ ligand:
     type: Small molecule
 pdb: 2YDV
 preferred_chain: A
-representative: true
 signaling_protein: None
 state: Intermediate

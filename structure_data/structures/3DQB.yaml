@@ -12,5 +12,5 @@ ligand:
     type: None
 pdb: 3DQB
 preferred_chain: A
-signaling_protein: GalphaCT
+signaling_protein: Gt
 state: Active

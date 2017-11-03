@@ -13,4 +13,4 @@ ligand:
 pdb: 5W0P
 preferred_chain: D
 signaling_protein: S-arrestin
-state: Inactive
+state: Active

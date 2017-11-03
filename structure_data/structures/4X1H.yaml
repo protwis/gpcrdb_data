@@ -12,5 +12,5 @@ ligand:
     type: Small molecule
 pdb: 4X1H
 preferred_chain: A
-signaling_protein: GalphaCT
+signaling_protein: Gt
 state: Active

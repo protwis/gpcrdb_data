@@ -1,0 +1,14 @@
+auxiliary_protein: Soluble cytochrome b562
+construct: 5wiv
+distance: -4.78
+ligand:
+-   name: AQD
+    pubchemId: 156333
+    role: Antagonist
+    title: Nemonapride
+    type: Small molecule
+pdb: 5WIV
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

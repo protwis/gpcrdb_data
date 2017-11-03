@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 5wiu
+distance: -4.94
+ligand:
+-   name: AQD
+    pubchemId: 156333
+    role: Antagonist
+    title: Nemonapride
+    type: Small molecule
+pdb: 5WIU
+preferred_chain: A
+signaling_protein: None
+state: Inactive
