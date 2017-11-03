@@ -1,0 +1,12 @@
+auxiliary_protein: Soluble cytochrome b562
+construct: 5nm4
+distance: -1.87
+ligand:
+    name: ZMA
+    pubchemId: 176407
+    role: Antagonist
+    type: Small molecule
+pdb: 5NM4
+preferred_chain: A
+signaling_protein: None
+state: Inactive
