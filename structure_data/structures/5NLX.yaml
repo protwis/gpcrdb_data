@@ -10,16 +10,4 @@ ligand:
 pdb: 5NLX
 preferred_chain: A
 signaling_protein: None
-state: !!python/object/apply:django.db.models.base.model_unpickle
-    args:
-    - !!python/tuple
-        - protein
-        - ProteinState
-    state:
-        _django_version: '1.11'
-        _state: !!python/object:django.db.models.base.ModelState
-            adding: false
-            db: default
-        id: 1
-        name: Inactive
-        slug: inactive
+state: Inactive
