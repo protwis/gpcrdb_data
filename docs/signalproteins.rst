@@ -42,7 +42,7 @@ conservation statistics for amino acids and chemical features are displayed.
 Interface mapping
 --------------------
 
-Maps the bβ2-Gαs complex (PDB: 3SN6) interaction interface onto a snake plot of a selected receptor and highlights 
+Maps the β2-Gαs complex (PDB: 3SN6) interaction interface onto a snake plot of a selected receptor and highlights 
 conserved and accessible interactions.
 
 *   Flock, T., Hauser, A. S., Lund, N., Gloriam, D. E., Balaji, S., & Babu, M. M., "Selectivity determinants of GPCR–G-protein binding.", **2017**, *Nature*, May 18;545(7654):317-322 `10.1038/nature22070`_
