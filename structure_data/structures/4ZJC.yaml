@@ -1,37 +1,16 @@
-construct: 4zjc
-pdb: 4ZJC
-representative: true
-preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 484
-  name: noradrenaline
-  type: Small molecule
-ligand:
-- name: RET
-  pubchemId: '638015'
-  role: Inverse agonist
-  type: Small molecule
 auxiliary_protein: None
+construct: 4zjc
+distance: -2.42
+endogenous_ligand:
+-   iupharId: 484
+    name: noradrenaline
+    type: Small molecule
+ligand:
+-   name: RET
+    pubchemId: '638015'
+    role: Inverse agonist
+    type: Small molecule
+pdb: 4ZJC
+preferred_chain: A
 signaling_protein: None
-segments:
-  TM1: [45, 74]
-  ICL1: [75, 79]
-  TM2: [80, 109]
-  ECL1: [110, 115]
-  TM3: [116, 150]
-  ICL2: [151, 157]
-  TM4: [158, 181]
-  ECL2: [202, 204]
-  TM5: [209, 246]
-  TM6: [292, 324]
-  TM7: [333, 362]
-  H8: [363, 373]
-segments_in_structure: {}
-bulges:
-  TM2: [2x551, 2x551, 2x551]
-  TM5: [5x461, 5x461, 5x461]
-constrictions:
-  TM4: [4x59, 4x58, 4x58]
-  TM7: [7x44, 7x44, 7x44]
-distortion: {}
+state: Inactive

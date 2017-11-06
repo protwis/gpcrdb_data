@@ -1,27 +1,12 @@
-construct: 3vga
-pdb: 3VGA
-signaling_protein: None
 auxiliary_protein: None
-preferred_chain: A
-state: Inactive
+construct: 3vga
+distance: -1.68
 ligand:
-- {name: ZMA, pubchemId: '176407', role: Antagonist, type: Antibody}
-segments:
-  N-term: [1, 3]
-  TM1: [4, 33]
-  ICL1: [34, 39]
-  TM2: [40, 67]
-  ECL1: [68, 73]
-  TM3: [74, 107]
-  ICL2: [108, 117]
-  TM4: [118, 136]
-  ECL2: [137, 174]
-  TM5: [175, 207]
-  ICL3: [208, 219]
-  TM6: [220, 258]
-  ECL3: [259, 267]
-  TM7: [268, 291]
-  H8: [292, 305]
-  C-term: [306, 412]
-bulges: ''
-constrictions: ''
+-   name: ZMA
+    pubchemId: '176407'
+    role: Antagonist
+    type: Antibody
+pdb: 3VGA
+preferred_chain: A
+signaling_protein: None
+state: Inactive

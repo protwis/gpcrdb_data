@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 5n2s
+distance: -1.35
+ligand:
+    name: 8K8
+    pubchemId: 92460631
+    role: Agonist
+    title: PSB36
+    type: Small molecule
+pdb: 5N2S
+preferred_chain: A
+signaling_protein: None
+state: Inactive

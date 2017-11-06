@@ -1,0 +1,12 @@
+auxiliary_protein: BRIL
+construct: 5jtb
+distance: -1.36
+ligand:
+-   name: ZMA
+    pubchemId: '176407'
+    role: Antagonist
+    type: Small molecule
+pdb: 5JTB
+preferred_chain: A
+signaling_protein: None
+state: Inactive

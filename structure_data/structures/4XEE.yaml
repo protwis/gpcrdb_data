@@ -1,34 +1,13 @@
+auxiliary_protein: T4-Lysozyme
 construct: 4xee
+distance: 7.06
+ligand:
+-   chain: B
+    name: NTS
+    pubchemId: '44363934'
+    role: Agonist
+    type: Peptide
 pdb: 4XEE
 preferred_chain: A
-state: Inactive
-ligand:
-- name: NTS
-  pubchemId: '44363934'
-  role: Agonist
-  type: Peptide
-  chain: B
-auxiliary_protein: T4-Lysozyme
 signaling_protein: None
-segments:
-  TM1: [61, 92]
-  ICL1: [93, 97]
-  TM2: [97, 130]
-  ECL1: [133, 138]
-  TM3: [139, 173]
-  ICL2: [173, 183]
-  TM4: [183, 207]
-  ECL2: [225, 227]
-  TM5: [231, 270]
-  TM6: [297, 330]
-  TM7: [340, 373]
-  H8: [374, 384]
-segments_in_structure:
-  TM2: [100, 0]
-  TM5: [0, 268]
-  TM7: [0, 370]
-constrictions:
-  TM4: [4x58]
-  TM7: [7x44]
-distortion: {}
-
+state: Intermediate

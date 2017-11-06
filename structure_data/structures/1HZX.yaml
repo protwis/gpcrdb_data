@@ -1,25 +1,16 @@
-construct: 1hzx
-pdb: 1HZX
-signaling_protein: None
 auxiliary_protein: None
-preferred_chain: A,B
-state: Inactive
+construct: 1hzx
+distance: -3.24
+endogenous_ligand:
+-   iupharId: 6669
+    name: RET
+    type: Small molecule
 ligand:
-- {name: RET, pubchemId: '638015', role: Inverse agonist, type: Small molecule}
-segments:
-  N-term: [1, 34]
-  TM1: [35, 64]
-  ICL1: [65, 70]
-  TM2: [71, 99]
-  ECL1: [100, 107]
-  TM3: [108, 140]
-  ICL2: [141, 151]
-  TM4: [152, 172]
-  ECL2: [173, 195]
-  TM5: [196, 229]
-  ICL3: [230, 244]
-  TM6: [245, 277]
-  ECL3: [278, 281]
-  TM7: [282, 309]
-  H8: [310, 321]
-  C-term: [322, 348]
+-   name: RET
+    pubchemId: '638015'
+    role: Inverse agonist
+    type: Small molecule
+pdb: 1HZX
+preferred_chain: A,B
+signaling_protein: None
+state: Inactive

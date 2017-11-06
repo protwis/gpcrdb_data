@@ -1,16 +1,17 @@
-construct: 5t1a
-pdb: 5T1A
-representative: true
-preferred_chain: A
-state: Inactive
-ligand:
-- name: 73R
-  pubchemId: '68764898'
-  role: Antagonist
-  type: Small molecule
-- name: VT5
-  pubchemId: '12093170'
-  role: Antagonist
-  type: Small molecule
 auxiliary_protein: T4 Lysozyme
+construct: 5t1a
+distance: 0.15
+ligand:
+-   name: 73R
+    pubchemId: '68764898'
+    role: Antagonist
+    type: Small molecule
+-   name: VT5
+    pubchemId: '12093170'
+    role: Antagonist
+    type: Small molecule
+pdb: 5T1A
+preferred_chain: A
+representative: true
 signaling_protein: None
+state: Intermediate

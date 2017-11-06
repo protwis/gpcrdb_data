@@ -1,38 +1,17 @@
-construct: 4bvn
-pdb: 4BVN
-representative: true
-preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 484
-  name: noradrenaline
-  type: Small molecule
-ligand:
-- name: P32
-  pubchemId: '46937143'
-  role: Antagonist
-  type: Small molecule
-  title: '(S)-Cyanopindolol'
 auxiliary_protein: None
+construct: 4bvn
+distance: -4.42
+endogenous_ligand:
+-   iupharId: 484
+    name: noradrenaline
+    type: Small molecule
+ligand:
+-   name: P32
+    pubchemId: '46937143'
+    role: Antagonist
+    title: (S)-Cyanopindolol
+    type: Small molecule
+pdb: 4BVN
+preferred_chain: A
 signaling_protein: None
-segments:
-  TM1: [37, 69]
-  ICL1: [70, 74]
-  TM2: [75, 104]
-  ECL1: [105, 110]
-  TM3: [111, 145]
-  ICL2: [146, 153]
-  TM4: [155, 179]
-  ECL2: [199, 201]
-  TM5: [205, 245]
-  TM6: [279, 316]
-  TM7: [322, 347]
-  H8: [347, 358]
-segments_in_structure:
-  TM5: [0, 239]
-bulges:
-  TM2: [2x551]
-  TM5: [5x461]
-constrictions:
-  TM7: [7x44]
-distortion: {}
+state: Inactive

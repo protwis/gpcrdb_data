@@ -1,41 +1,20 @@
-construct: 4xnv
-pdb: 4XNV
-representative: true
-preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 1712
-  name: ADP
-  type: Small molecule
-- iupharId: 1713
-  name: ATP
-  type: Small molecule
-ligand:
-- name: BUR
-  title: BPTU
-  pubchemId: 11510579
-  role: Antagonist
-  type: Small molecule
 auxiliary_protein: Rubredoxin
+construct: 4xnv
+distance: 1.82
+endogenous_ligand:
+-   iupharId: 1712
+    name: ADP
+    type: Small molecule
+-   iupharId: 1713
+    name: ATP
+    type: Small molecule
+ligand:
+-   name: BUR
+    pubchemId: 11510579
+    role: Antagonist
+    title: BPTU
+    type: Small molecule
+pdb: 4XNV
+preferred_chain: A
 signaling_protein: None
-segments:
-  TM1: [49, 79]
-  ICL1: [80, 84]
-  TM2: [85, 112]
-  ECL1: [115, 120]
-  TM3: [121, 155]
-  ICL2: [156, 163]
-  TM4: [161, 189]
-  ECL2: [202, 204]
-  TM5: [211, 247]
-  TM6: [253, 289]
-  TM7: [296, 328]
-  H8: [329, 340]
-segments_in_structure:
-  TM7: [0, 327]
-constrictions:
-  TM7: [7x44]
-bulges:
-  TM5: [5x461]
-  TM6: [6x461]
-distortion: {}
+state: Intermediate

@@ -1,32 +1,16 @@
+auxiliary_protein: None
 construct: 3dqb
+distance: 9.58
+endogenous_ligand:
+-   iupharId: 6669
+    name: RET
+    type: Small molecule
+ligand:
+-   name: None
+    pubchemId: None
+    role: .nan
+    type: None
 pdb: 3DQB
 preferred_chain: A
-state: Active
-ligand:
-- name: None
-  pubchemId: None
-  role: .nan
-  type: None
-auxiliary_protein: None
 signaling_protein: GalphaCT
-segments:
-  TM1: [34, 65]
-  ICL1: [66, 70]
-  TM2: [71, 100]
-  ECL1: [101, 106]
-  TM3: [107, 140]
-  ICL2: [142, 149]
-  TM4: [150, 173]
-  ECL2: [187, 189]
-  TM5: [200, 237]
-  TM6: [241, 278]
-  TM7: [286, 310]
-  H8: [311, 322]
-segments_in_structure:
-  ICL2: [0, 142]
-bulges:
-  TM2: [2x551]
-  TM5: [5x461]
-constrictions:
-  TM7: [7x44]
-distortion: {}
+state: Active

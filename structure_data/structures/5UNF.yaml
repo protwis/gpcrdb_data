@@ -1,11 +1,12 @@
+auxiliary_protein: BRIL
 construct: 5unf
+distance: 8.89
+ligand:
+-   name: 8ES
+    pubchemId: '15780052'
+    role: Antagonist
+    type: Small molecule
 pdb: 5UNF
 preferred_chain: A
-state: Active
-ligand:
-- name: 8ES
-  pubchemId: '15780052'
-  role: Antagonist
-  type: Small molecule
-auxiliary_protein: BRIL
 signaling_protein: None
+state: Active

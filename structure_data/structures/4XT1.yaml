@@ -1,37 +1,19 @@
-construct: 4xt1
-pdb: 4XT1
-representative: true
-preferred_chain: A
-state: Active
-endogenous_ligand:
-- iupharId: 856
-  name: CX3CL1
-  type: Peptide
-ligand:
-- name: BBB
-  title: CX3CL1
-  pubchemId: None
-  role: Agonist
-  type: Peptide
-  chain: B
 auxiliary_protein: None
+construct: 4xt1
+distance: 7.88
+endogenous_ligand:
+-   iupharId: 856
+    name: CX3CL1
+    type: Peptide
+ligand:
+-   chain: B
+    name: BBB
+    pubchemId: None
+    role: Agonist
+    title: CX3CL1
+    type: Peptide
+pdb: 4XT1
+preferred_chain: A
+representative: true
 signaling_protein: SignProtMimic_Nanobody
-segments:
-  TM1: [26, 61]
-  ICL1: [62, 66]
-  TM2: [67, 95]
-  TM3: [104, 135]
-  ICL2: [136, 139]
-  TM4: [141, 164]
-  ECL2: [173, 175]
-  TM5: [183, 218]
-  TM6: [222, 253]
-  TM7: [263, 295]
-  H8: [296, 310]
-segments_in_structure: {}
-constrictions:
-  TM4: [4x58]
-  TM7: [7x44]
-bulges:
-  TM5: [5x461]
-distortion: {}
+state: Intermediate

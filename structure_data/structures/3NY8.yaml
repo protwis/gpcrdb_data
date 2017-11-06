@@ -1,27 +1,12 @@
-construct: 3ny8
-pdb: 3NY8
-signaling_protein: None
 auxiliary_protein: T4-Lysozyme
-preferred_chain: A
-state: Inactive
+construct: 3ny8
+distance: -3.32
 ligand:
-- {name: JRZ, pubchemId: '5311179', role: Inverse agonist, type: Small molecule}
-segments:
-  N-term: [1, 30]
-  TM1: [31, 60]
-  ICL1: [61, 66]
-  TM2: [67, 96]
-  ECL1: [97, 101]
-  TM3: [102, 136]
-  ICL2: [137, 146]
-  TM4: [147, 170]
-  ECL2: [171, 196]
-  TM5: [197, 229]
-  ICL3: [230, 266]
-  TM6: [267, 298]
-  ECL3: [299, 304]
-  TM7: [305, 325]
-  H8: [326, 339]
-  C-term: [340, 413]
-bulges: ''
-constrictions: ''
+-   name: JRZ
+    pubchemId: '5311179'
+    role: Inverse agonist
+    type: Small molecule
+pdb: 3NY8
+preferred_chain: A
+signaling_protein: None
+state: Inactive

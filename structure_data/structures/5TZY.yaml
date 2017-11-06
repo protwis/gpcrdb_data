@@ -1,0 +1,20 @@
+auxiliary_protein: Endolysin
+construct: 5tzy
+distance: 4.36
+endogenous_ligand:
+-   name: long chain carboxylic acids
+    type: Lipid
+ligand:
+-   name: MK6
+    pubchemId: '73051869'
+    role: Agonist
+    type: Small molecule
+-   name: 7OS
+    pubchemId: '127053597'
+    role: Agonist
+    type: Small molecule
+pdb: 5TZY
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Intermediate

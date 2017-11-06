@@ -1,0 +1,12 @@
+auxiliary_protein: Endolysin
+construct: 5vex
+distance: 3.77
+ligand:
+-   name: 97V
+    pubchemId: 23549991
+    role: Antagonist
+    type: Small molecule
+pdb: 5VEX
+preferred_chain: B
+signaling_protein: None
+state: Inactive

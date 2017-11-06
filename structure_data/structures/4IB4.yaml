@@ -1,41 +1,17 @@
-construct: 4ib4
-pdb: 4IB4
-representative: true
-preferred_chain: A
-state: Inactive
-endogenous_ligand:
-- iupharId: 5
-  name: Serotonin
-  type: Small molecule
-ligand:
-- name: ERM
-  pubchemId: '8223'
-  role: Agonist
-  type: Small molecule
 auxiliary_protein: BRIL
+construct: 4ib4
+distance: 4.97
+endogenous_ligand:
+-   iupharId: 5
+    name: Serotonin
+    type: Small molecule
+ligand:
+-   name: ERM
+    pubchemId: '8223'
+    role: Agonist
+    type: Small molecule
+pdb: 4IB4
+preferred_chain: A
+representative: true
 signaling_protein: None
-segments:
-  TM1: [54, 82]
-  ICL1: [83, 87]
-  TM2: [88, 117]
-  ECL1: [119, 124]
-  TM3: [124, 159]
-  ICL2: [160, 167]
-  TM4: [169, 193]
-  ECL2: [207, 209]
-  TM5: [215, 255]
-  TM6: [313, 350]
-  TM7: [355, 384]
-  H8: [385, 395]
-segments_in_structure:
-  TM1: [54, 0]
-  TM5: [0, 246]
-  TM6: [317, 0]
-bulges:
-  TM1: [1x411]
-  TM2: [2x551]
-  TM5: [5x461]
-constrictions:
-  TM4: [4x58]
-  TM7: [7x44]
-distortion: {}
+state: Intermediate

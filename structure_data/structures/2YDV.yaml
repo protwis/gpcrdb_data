@@ -1,35 +1,14 @@
-construct: 2ydv
-pdb: 2YDV
-representative: true
-preferred_chain: A
-state: Active
-ligand:
-- name: NEC
-  pubchemId: '33624'
-  role: Agonist
-  type: Small molecule
 auxiliary_protein: None
+construct: 2ydv
+distance: 7.05
+ligand:
+-   name: NEC
+    pubchemId: '448222'
+    role: Agonist
+    title: NECA
+    type: Small molecule
+pdb: 2YDV
+preferred_chain: A
+representative: true
 signaling_protein: None
-segments:
-  TM1: [2, 34]
-  ICL1: [35, 39]
-  TM2: [40, 68]
-  ECL1: [69, 73]
-  TM3: [74, 108]
-  ICL2: [109, 115]
-  TM4: [118, 141]
-  ECL2: [166, 168]
-  TM5: [174, 213]
-  TM6: [219, 259]
-  TM7: [267, 292]
-  H8: [293, 311]
-segments_in_structure:
-  TM1: [7, 0]
-  TM5: [0, 208]
-  TM6: [222, 0]
-bulges:
-  TM2: [2x551]
-  TM5: [5x401, 5x451]
-constrictions:
-  TM7: [7x44]
-distortion: {}
+state: Intermediate

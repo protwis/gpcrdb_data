@@ -1,18 +1,12 @@
+auxiliary_protein: T4-Lysozyme
 construct: 4qkx
+distance: 10.23
+ligand:
+-   name: 35V
+    pubchemId: '76210628'
+    role: Agonist
+    type: Small molecule
 pdb: 4QKX
 preferred_chain: A
-state: Active
-ligand:
-- name: 35V
-  pubchemId: '76210628'
-  role: Agonist
-  type: Small molecule
-auxiliary_protein: None
 signaling_protein: SignProtMimic_Nanobody
-segments:
-  TM5: [198, 237]
-segments_in_structure:
-  TM5: [0, 228]
-bulges:
-  TM5: [5x461]
-distortion: {}
+state: Active

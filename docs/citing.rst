@@ -1,17 +1,24 @@
 Citing GPCRdb
 =============
 
-If you use GPCRdb in your work, please cite:
+If you use GPCRdb in your work, please cite one or more of the following:
+
+Main reference for GPCRdb 
+--------------------------------------------------------
+*   V Isberg, S Mordalski, C Munk, K Rataj, K Harpsøe, AS Hauser, B Vroling, AJ Bojarski, G Vriend, DE Gloriam.
+    "GPCRdb: an information system for G protein-coupled receptors", **2016**, *Nucleic Acids Res.*, 44, D356-D364.
+    `10.1093/nar/gkv1178`_
+
+.. _10.1093/nar/gkv1178: http://dx.doi.org/10.1093/nar/gkv1178
+
+Introduction to new users (review)
+--------------------------------------------------------
 
 *   Munk, C., Isberg, V., Mordalski, S., Harpsøe, K., Rataj, K., Hauser, A. S., Kolb, P., Bojarski, A. J., Vriend, G.
     , and Gloriam, D. E. GPCRdb: the G protein-coupled receptor database – an introduction. **2016**, *Br J Pharmacol*,
     May 8. `10.1111/bph.13509`_
-*   V Isberg, S Mordalski, C Munk, K Rataj, K Harpsøe, AS Hauser, B Vroling, AJ Bojarski, G Vriend, DE Gloriam.
-    "GPCRdb: an information system for G protein-coupled receptors", **2016**, *Nucleic Acids Res.*, 44, D356-D364.
-    `10.1093/nar/gkv1178`_
     
 .. _10.1111/bph.13509: http://dx.doi.org/10.1111/bph.13509
-.. _10.1093/nar/gkv1178: http://dx.doi.org/10.1093/nar/gkv1178
 
 Structure-based alignments and generic residue numbering
 --------------------------------------------------------
@@ -25,9 +32,13 @@ Structure-based alignments and generic residue numbering
 .. _10.1016/j.tips.2014.11.001: http://dx.doi.org/10.1016/j.tips.2014.11.001
 .. _10.3390/ijms15057841: http://dx.doi.org/10.3390/ijms15057841
 
+GPCR drugs and targets
+-----------------------------------------------------
+*  Hauser, A. S., Misty, A, Mathias, R., Schiöth, H. B., Gloriam, D. E., "Trends in GPCR drug discovery: new agents, targets and indications", **2017**, *Nature Reviews Drug Discovery*, *in print*.
+
 GPCR-G protein selectivity
 -----------------------------------------------------
-*   Flock, T., Hauser, A. S., Lund, N., Gloriam, D. E., Balaji, S., & Babu, M. M., "Selectivity determinants of GPCR–G-protein binding.", **2017**, *Nature*, *in press*.  `10.1038/nature22070`_
+*   Flock, T., Hauser, A. S., Lund, N., Gloriam, D. E., Balaji, S., & Babu, M. M., "Selectivity determinants of GPCR–G-protein binding.", **2017**, *Nature*, May 18;545(7654):317-322 `10.1038/nature22070`_
 
 .. _10.1038/nature22070: http://dx.doi.org/10.1038/nature22070
 
