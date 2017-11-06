@@ -3630,9 +3630,9 @@ drd3_human:
     '5.46': S
 drd4_human:
     UniProt: drd4_human
-    Xtal Templ: drd3_human
+    Xtal Templ: drd4_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x411: ''
     2x551: 2x551
     2x581: ''
@@ -11218,6 +11218,39 @@ pth2r_human:
     '4.59': A
     '4.60': W
     '5.46': P
+q08bg4_danre:
+    UniProt: q08bg4_danre
+    Xtal Templ: q08bg4_danre
+    Cl: A
+    Xtalised: Xtal
+    1x411: ''
+    2x551: ''
+    2x581: ''
+    23x501: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: ''
+    5x411: ''
+    5x421: ''
+    5x431: ''
+    5x461: 5x461
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': D
+    '2.56': T
+    '2.57': L
+    '2.58': P
+    '2.59': L
+    '2.60': R
+    '4.56': G
+    '4.57': S
+    '4.58': L
+    '4.59': P
+    '4.60': T
+    '5.46': G
 qrfpr_human:
     UniProt: qrfpr_human
     Xtal Templ: ox2r_human
