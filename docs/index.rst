@@ -39,11 +39,13 @@ The documentation in organized into four sections:
     :caption: User documentation
 
     receptors
+    signalproteins
     sequences
     structures
     mutations
     sites
     generic_numbering
+    drugs
 
 .. _dev-docs:
 
