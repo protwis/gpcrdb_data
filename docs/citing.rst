@@ -34,7 +34,9 @@ Structure-based alignments and generic residue numbering
 
 GPCR drugs and targets
 -----------------------------------------------------
-*  Hauser, A. S., Misty, A, Mathias, R., Schiöth, H. B., Gloriam, D. E., "Trends in GPCR drug discovery: new agents, targets and indications", **2017**, *Nature Reviews Drug Discovery*, *in print*.
+*  Hauser, A. S., Misty, A, Mathias, R., Schiöth, H. B., Gloriam, D. E., "Trends in GPCR drug discovery: new agents, targets and indications", **2017**, *Nature Reviews Drug Discovery*, *in print*, `10.1038/nrd.2017.178`_
+
+.. _10.1038/nrd.2017.178: http://dx.doi.org/10.1038/nrd.2017.178
 
 GPCR-G protein selectivity
 -----------------------------------------------------
@@ -47,7 +49,7 @@ Mutation design tool
 
 *   C Munk, K Harpsøe, A Hauser, V Isberg, DE Gloriam, "Integrating structural and mutagenesis data to elucidate GPCR ligand binding", 2016, Curr Opin Pharcol, 30, 51–58. `10.1016/j.coph.2016.07.003`_
 
-.. _10.1016/j.coph.2016.07.003: http://dx.doi.org/10.1016/j.coph.2016.07.003
+.. _10.1038/nrd.2017.178: http://dx.doi.org/10.1038/nrd.2017.178
 
 Crystal structure fragment-based pharmacophore models
 -----------------------------------------------------
