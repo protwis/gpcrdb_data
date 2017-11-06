@@ -34,7 +34,7 @@ Structure-based alignments and generic residue numbering
 
 GPCR drugs and targets
 -----------------------------------------------------
-*  Hauser, A. S., Misty, A, Mathias, R., Schiöth, H. B., Gloriam, D. E., "Trends in GPCR drug discovery: new agents, targets and indications", **2017**, *Nature Reviews Drug Discovery*, *in print*.
+*  Hauser, A. S., Misty, A, Mathias, R., Schiöth, H. B., Gloriam, D. E., "Trends in GPCR drug discovery: new agents, targets and indications", **2017**, *Nature Reviews Drug Discovery*, *in print*, `10.1038/nature22070`_
 
 .. _10.1038/nature22070: http://dx.doi.org/10.1038/nature22070
 
