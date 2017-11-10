@@ -6,7 +6,7 @@
         "ligand_id": "CHEMBL3305968",
         "pdb_name": "5dsg_partial",
         "ligand_name": "Tiotropium",
-        "uniprot": "acm1_human"
+        "uniprot": "acm4_human"
     },
     "unparsed": {},
     "auxiliary": {
@@ -215,7 +215,7 @@
         "chemical_comp_4": "MES",
         "fusion_prot": "",
         "concentr_unit_3": "mM",
-        "uniprot": "acm1_human",
+        "uniprot": "acm4_human",
         "undefined_3": "",
         "ins_end_3": "389",
         "tag_4": "His(8)",
