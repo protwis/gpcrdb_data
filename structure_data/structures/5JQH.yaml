@@ -1,4 +1,4 @@
-auxiliary_protein: T4-Lysozyme
+auxiliary_protein: T4-Lysozyme, Nanobody
 construct: 5jqh
 distance: -3.03
 endogenous_ligand:
