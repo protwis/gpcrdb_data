@@ -37,4 +37,4 @@ For these estimates, we have incorporated the following considerations (below). 
 
 
 
-Hauser, A. S., Chavali, S., Masuho, I., Jahn, L. J., Martemyanov, K., Gloriam, D. E., Babu, M. M., "Pharmacogenomics of GPCR drug targets", **2017**
+Hauser, A. S., Chavali, S., Masuho, I., Jahn, L. J., Martemyanov, K., Gloriam, D. E., Babu, M. M., "Pharmacogenomics of GPCR drug targets", **2017**, *Cell*
