@@ -8,7 +8,7 @@ Main reference for GPCRdb
 *   Pándy-Szekeres G, Munk C, Tsonkov TM, Mordalski S, Harpsøe K, Hauser AS, Bojarski AJ, Gloriam DE. GPCRdb in 2018: adding GPCR structure models and ligands. 
     **2017**, *Nucleic Acids Res.*, Nov 16. `10.1093/nar/gkx1109`_
 
-.. 10.1093/nar/gkx1109: http://dx.doi.org/10.1093/nar/gkx1109
+.. _10.1093/nar/gkx1109: http://dx.doi.org/10.1093/nar/gkx1109
 
 Introduction to new users (review)
 --------------------------------------------------------
