@@ -5,11 +5,10 @@ If you use GPCRdb in your work, please cite one or more of the following:
 
 Main reference for GPCRdb 
 --------------------------------------------------------
-*   V Isberg, S Mordalski, C Munk, K Rataj, K Harpsøe, AS Hauser, B Vroling, AJ Bojarski, G Vriend, DE Gloriam.
-    "GPCRdb: an information system for G protein-coupled receptors", **2016**, *Nucleic Acids Res.*, 44, D356-D364.
-    `10.1093/nar/gkv1178`_
+*   Pándy-Szekeres G, Munk C, Tsonkov TM, Mordalski S, Harpsøe K, Hauser AS, Bojarski AJ, Gloriam DE. GPCRdb in 2018: adding GPCR structure models and ligands. 
+    **2017**, *Nucleic Acids Res.*, Nov 16. `10.1093/nar/gkx1109`_
 
-.. _10.1093/nar/gkv1178: http://dx.doi.org/10.1093/nar/gkv1178
+.. 10.1093/nar/gkx1109: http://dx.doi.org/10.1093/nar/gkx1109
 
 Introduction to new users (review)
 --------------------------------------------------------
@@ -69,6 +68,9 @@ GPCR specific PDF reader
 
 Older GPCRdb articles
 ---------------------
+*   V Isberg, S Mordalski, C Munk, K Rataj, K Harpsøe, AS Hauser, B Vroling, AJ Bojarski, G Vriend, DE Gloriam.
+    "GPCRdb: an information system for G protein-coupled receptors", **2016**, *Nucleic Acids Res.*, 44, D356-D364.
+    `10.1093/nar/gkv1178`_
 *   V Isberg, B Vroling, R van der Kant, K Li, G Vriend* and DE Gloriam*, "GPCRDB: an information system for G
     protein-coupled receptors", **2014**, *Nucleic Acids Res.*, 42 (D1), D422-D425. `10.1093/nar/gkt1255`_
 *   B Vroling, M Sanders, C Baakman, A Borrmann, S Verhoeven, J Klomp, L Oliveira, J de Vlieg, G Vriend, "GPCRDB:
@@ -82,6 +84,7 @@ Older GPCRdb articles
     information system for G protein-coupled receptors", 1998, Nucleic Acids Res., 26(1), 275-279.
     `10.1093/nar/26.1.275`_
 
+.. _10.1093/nar/gkv1178: http://dx.doi.org/10.1093/nar/gkv1178
 .. _10.1093/nar/gkt1255: http://dx.doi.org/10.1093/nar/gkt1255
 .. _10.1093/nar/gkq1009: http://dx.doi.org/10.1093/nar/gkq1009
 .. _10.1093/nar/gkg103: http://dx.doi.org/10.1093/nar/gkg103
