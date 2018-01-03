@@ -1,0 +1,12 @@
+auxiliary_protein: ''
+construct: 5x33
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 5X33
+preferred_chain: A
+signaling_protein: None
+state: Inactive

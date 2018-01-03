@@ -1,0 +1,14 @@
+auxiliary_protein: ''
+construct: 5ws3
+distance: -3.49
+ligand:
+-   name: 7MA
+    pubchemId: 9981404
+    role: Antagonist
+    title: EMPA
+    type: Small molecule
+pdb: 5WS3
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive
