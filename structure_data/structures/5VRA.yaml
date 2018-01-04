@@ -1,25 +1,13 @@
-auxiliary_protein: Initiating methionine, Soluble cytochrome b562
+auxiliary_protein: Soluble cytochrome b562
 construct: 5vra
 distance: -1.22
 ligand:
-    name: None
-    pubchemId: None
-    role: '.nan'
-    title: None
-    type: None
+    name: ZMA
+    pubchemId: 176407
+    role: Antagonist
+    title: ZM 241385
+    type: Small molecule
 pdb: 5VRA
 preferred_chain: A
 signaling_protein: None
-state: !!python/object/apply:django.db.models.base.model_unpickle
-    args:
-    - !!python/tuple
-        - protein
-        - ProteinState
-    state:
-        _django_version: 1.11.8
-        _state: !!python/object:django.db.models.base.ModelState
-            adding: false
-            db: default
-        id: 1
-        name: Inactive
-        slug: inactive
+state: Inactive

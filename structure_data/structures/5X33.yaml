@@ -1,12 +1,13 @@
-auxiliary_protein: ''
+auxiliary_protein: Endolysin
 construct: 5x33
 ligand:
-    name: None
-    pubchemId: None
-    role: '.nan'
-    title: None
-    type: None
+    name: 7Y9
+    pubchemId: 9956189
+    role: Antagonist
+    title: BIIL-260
+    type: Small molecule
 pdb: 5X33
 preferred_chain: A
+representative: true
 signaling_protein: None
 state: Inactive
