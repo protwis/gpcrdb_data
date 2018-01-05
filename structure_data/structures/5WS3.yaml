@@ -1,13 +1,13 @@
-auxiliary_protein: BRIL
-construct: 5wiv
-distance: -4.78
+auxiliary_protein: Glycogen synthase
+construct: 5ws3
+distance: -3.49
 ligand:
--   name: AQD
-    pubchemId: 156333
+-   name: 7MA
+    pubchemId: 9981404
     role: Antagonist
-    title: Nemonapride
+    title: EMPA
     type: Small molecule
-pdb: 5WIV
+pdb: 5WS3
 preferred_chain: A
 representative: true
 signaling_protein: None

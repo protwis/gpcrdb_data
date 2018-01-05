@@ -1,13 +1,13 @@
-auxiliary_protein: BRIL
-construct: 5wiv
-distance: -4.78
+auxiliary_protein: Endolysin
+construct: 5x33
+distance: -4.53
 ligand:
--   name: AQD
-    pubchemId: 156333
+    name: 7Y9
+    pubchemId: 9956189
     role: Antagonist
-    title: Nemonapride
+    title: BIIL-260
     type: Small molecule
-pdb: 5WIV
+pdb: 5X33
 preferred_chain: A
 representative: true
 signaling_protein: None

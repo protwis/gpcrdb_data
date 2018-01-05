@@ -1,13 +1,13 @@
-auxiliary_protein: BRIL
-construct: 5nlx
-distance: -1.97
+auxiliary_protein: ''
+construct: 5wkt
+distance: 9.16
 ligand:
-    name: None
+-   name: None
     pubchemId: None
     role: '.nan'
     title: None
     type: None
-pdb: 5NLX
+pdb: 5WKT
 preferred_chain: A
 signaling_protein: None
-state: Inactive
+state: Active

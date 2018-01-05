@@ -4,7 +4,7 @@ distance: -5.63
 ligand:
 -   name: 0HK
     pubchemId: '5487427'
-    role: Inverse agonist
+    role: Antagonist
     type: Small molecule
 pdb: 4DAJ
 preferred_chain: A
