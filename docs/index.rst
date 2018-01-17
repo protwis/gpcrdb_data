@@ -46,6 +46,8 @@ The documentation in organized into four sections:
     sites
     generic_numbering
     drugs
+    nhs
+    variants
 
 .. _dev-docs:
 

@@ -11251,6 +11251,39 @@ q08bg4_danre:
     '4.59': P
     '4.60': T
     '5.46': G
+q9wtk1_cavpo:
+    UniProt: q9wtk1_cavpo
+    Xtal Templ: q9wtk1_cavpo
+    Cl: A
+    Xtalised: Xtal
+    1x411: ''
+    2x551: ''
+    2x581: ''
+    23x501: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: 4x58
+    5x411: ''
+    5x421: ''
+    5x431: ''
+    5x461: 5x461
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': D
+    '2.56': T
+    '2.57': A
+    '2.58': P
+    '2.59': F
+    '2.60': F
+    '4.56': L
+    '4.57': A
+    '4.58': T
+    '4.59': P
+    '4.60': V
+    '5.46': G
 qrfpr_human:
     UniProt: qrfpr_human
     Xtal Templ: ox2r_human

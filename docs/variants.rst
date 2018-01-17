@@ -18,4 +18,4 @@ impact by SIFT and PolyPhen as well as functional annotation of the specific pos
 
 All variants are hihglighted on helix plot and snake-plot diagrams with predicted deleterious variants (by either SIFT or PolyPhen) highlighted in red or green, respectively/
 
-*  Hauser, A. S., Chavali, S., Masuho, I., Jahn, L. J., Martemyanov, K., Gloriam, D. E., Babu, M. M., "Pharmacogenomics of GPCR drug targets", **2017**
+*  Hauser, A. S., Chavali, S., Masuho, I., Jahn, L. J., Martemyanov, K., Gloriam, D. E., Babu, M. M., "Pharmacogenomics of GPCR drug targets", **2017**, *Cell*

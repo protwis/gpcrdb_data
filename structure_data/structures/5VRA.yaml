@@ -1,12 +1,13 @@
 auxiliary_protein: BRIL
-construct: 5nm2
-distance: -1.76
+construct: 5vra
+distance: -1.22
 ligand:
--   name: ZMA
+    name: ZMA
     pubchemId: 176407
     role: Antagonist
+    title: ZM 241385
     type: Small molecule
-pdb: 5NM2
+pdb: 5VRA
 preferred_chain: A
 signaling_protein: None
 state: Inactive
