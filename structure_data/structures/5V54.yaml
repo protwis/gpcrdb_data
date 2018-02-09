@@ -1,0 +1,13 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 5v54
+distance: 3.69
+ligand:
+    name: 89F
+    pubchemId: 7059581
+    role: Antagonist
+    title: CHEMBL428892
+    type: Small molecule
+pdb: 5V54
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

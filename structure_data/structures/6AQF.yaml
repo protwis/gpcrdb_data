@@ -1,0 +1,13 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 6aqf
+distance: -1.33
+ligand:
+    name: ZMA
+    pubchemId: 176407
+    role: Antagonist
+    title: ZM 241385
+    type: Small molecule
+pdb: 6AQF
+preferred_chain: A
+signaling_protein: None
+state: Inactive

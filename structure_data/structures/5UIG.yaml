@@ -9,4 +9,4 @@ ligand:
 pdb: 5UIG
 preferred_chain: A
 signaling_protein: None
-state: Intermediate
+state: Inactive

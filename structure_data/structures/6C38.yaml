@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6c38
+distance: -1.8
+ligand:
+    name: 8NU
+    pubchemId: 5073
+    role: Antagonist
+    title: Risperidone
+    type: Small molecule
+pdb: 6C38
+preferred_chain: A
+signaling_protein: None
+state: Inactive

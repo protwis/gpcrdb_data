@@ -15,4 +15,4 @@ ligand:
 pdb: 4XT3
 preferred_chain: A
 signaling_protein: None
-state: Intermediate
+state: Active

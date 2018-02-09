@@ -1,0 +1,13 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 5olh
+distance: -1.54
+ligand:
+    name: 9XT
+    pubchemId: None
+    role: Antagonist
+    title: Vipadenant
+    type: Small molecule
+pdb: 5OLH
+preferred_chain: A
+signaling_protein: None
+state: Inactive

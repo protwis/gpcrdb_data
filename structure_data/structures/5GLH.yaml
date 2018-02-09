@@ -9,6 +9,5 @@ ligand:
     type: Peptide
 pdb: 5GLH
 preferred_chain: A
-representative: true
 signaling_protein: None
-state: Intermediate
+state: Inactive

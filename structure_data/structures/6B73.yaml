@@ -1,0 +1,14 @@
+auxiliary_protein: Soluble cytochrome b562, Nanobody
+construct: 6b73
+distance: 9.25
+ligand:
+    name: CVV
+    pubchemId: 131955138
+    role: Agonist
+    title: MP1104
+    type: Small molecule
+pdb: 6B73
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Active
