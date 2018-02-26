@@ -1,6 +1,6 @@
 auxiliary_protein: 'Soluble cytochrome b562'
 construct: 6bqh
-distance: 3.69
+distance: 0.08
 ligand:
     name: RIT
     pubchemId: 5074
@@ -11,4 +11,4 @@ pdb: 6BQH
 preferred_chain: A
 representative: true
 signaling_protein: None
-state: Intermediate
+state: Inactive
