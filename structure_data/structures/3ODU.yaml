@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 3odu
-distance: -7.06
+distance: -1.34
 endogenous_ligand:
 -   iupharId: 4358
     name: CXCL12a

@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 5vai
-distance: 18.92
+distance: 6.89
 endogenous_ligand:
 -   iupharId: 5194
     name: GLP-1

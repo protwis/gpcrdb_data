@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3zpr
-distance: -2.38
+distance: -1.11
 ligand:
 -   name: 3WC
     pubchemId: '598754'

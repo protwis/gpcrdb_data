@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 2ydv
-distance: 7.05
+distance: 6.21
 ligand:
 -   name: NEC
     pubchemId: '448222'

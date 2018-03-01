@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 3eml
-distance: -1.89
+distance: -1.16
 ligand:
 -   name: ZMA
     pubchemId: '176407'

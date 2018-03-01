@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme, Antibody
 construct: 3sn6
-distance: 11.24
+distance: 9.96
 ligand:
 -   name: P0G
     pubchemId: 49837874

@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 5nx2
-distance: 12.11
+distance: 4.86
 ligand:
 -   name: pep
     pubchemId: None

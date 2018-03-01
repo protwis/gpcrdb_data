@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5l7i
-distance: -0.5
+distance: -2.33
 endogenous_ligand:
 -   name: constitutive
     type: Constitutive

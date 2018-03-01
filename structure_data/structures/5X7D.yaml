@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 5x7d
-distance: -2.93
+distance: -1.08
 ligand:
 -   name: CAU
     pubchemId: 13023332

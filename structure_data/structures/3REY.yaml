@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3rey
-distance: -2.02
+distance: -0.38
 ligand:
 -   name: XAC
     pubchemId: '5697'

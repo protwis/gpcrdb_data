@@ -1,0 +1,13 @@
+auxiliary_protein: Endolysin
+construct: 5wf6
+distance: 5.83
+ligand:
+    name: UKA
+    pubchemId: 9833519
+    role: Agonist
+    title: UK-432,097
+    type: Small molecule
+pdb: 5WF6
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

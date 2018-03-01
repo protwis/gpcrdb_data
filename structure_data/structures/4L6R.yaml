@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4l6r
-distance: 3.68
+distance: -4.62
 endogenous_ligand:
 -   iupharId: 1136
     name: Glucagon

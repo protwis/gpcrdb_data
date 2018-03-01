@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4jkv
-distance: -0.33
+distance: -2.2
 endogenous_ligand:
 -   name: constitutive
     type: Constitutive

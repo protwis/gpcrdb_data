@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5ung
-distance: 8.41
+distance: 8.46
 ligand:
 -   name: 8ES
     pubchemId: '15780052'

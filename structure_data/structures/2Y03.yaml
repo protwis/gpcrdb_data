@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 2y03
-distance: -2.37
+distance: -1.2
 ligand:
 -   name: 5FW
     pubchemId: '443372'

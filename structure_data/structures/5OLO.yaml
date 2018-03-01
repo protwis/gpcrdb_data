@@ -1,6 +1,6 @@
-auxiliary_protein: 'Soluble cytochrome b562'
+auxiliary_protein: Soluble cytochrome b562
 construct: 5olo
-distance: -1.51
+distance: -0.69
 ligand:
     name: 9XW
     pubchemId: 11618368

@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 4zjc
-distance: -2.42
+distance: -0.54
 endogenous_ligand:
 -   iupharId: 484
     name: noradrenaline

@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme, mAb1
 construct: 5xf1
-distance: 5.04
+distance: -4.75
 ligand:
 -   name: 97V
     pubchemId: 23549991

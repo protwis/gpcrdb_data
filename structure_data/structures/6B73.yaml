@@ -1,6 +1,6 @@
 auxiliary_protein: Soluble cytochrome b562, Nanobody
 construct: 6b73
-distance: 9.25
+distance: 9.71
 ligand:
     name: CVV
     pubchemId: 131955138

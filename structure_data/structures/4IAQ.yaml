@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4iaq
-distance: 1.2
+distance: 2.79
 ligand:
 -   name: 2GM
     pubchemId: '10531'

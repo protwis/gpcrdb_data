@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4z36
-distance: -3.42
+distance: -1.22
 ligand:
 -   name: ON3
     pubchemId: 11785732

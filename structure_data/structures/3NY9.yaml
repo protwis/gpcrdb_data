@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 3ny9
-distance: -3.16
+distance: -1.49
 ligand:
 -   name: JSZ
     pubchemId: '913103'

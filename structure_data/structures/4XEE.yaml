@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 4xee
-distance: 7.06
+distance: 6.49
 ligand:
 -   chain: B
     name: NTS

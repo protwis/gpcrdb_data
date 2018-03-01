@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4eiy
-distance: -1.29
+distance: -0.55
 endogenous_ligand:
 -   iupharId: 2844
     name: adenosine

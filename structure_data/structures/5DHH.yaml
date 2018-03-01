@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5dhh
-distance: -3.66
+distance: -1.11
 endogenous_ligand:
 -   iupharId: 1681
     name: nociceptin/orphanin FQ

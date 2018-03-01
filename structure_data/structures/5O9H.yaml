@@ -1,6 +1,6 @@
 auxiliary_protein: ''
 construct: 5o9h
-distance: -4.0
+distance: -1.46
 ligand:
 -   name: CIT
     pubchemId: None

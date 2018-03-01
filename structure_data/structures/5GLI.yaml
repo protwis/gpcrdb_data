@@ -1,6 +1,6 @@
 auxiliary_protein: Endolysin
 construct: 5gli
-distance: -0.74
+distance: -0.38
 pdb: 5GLI
 preferred_chain: A
 signaling_protein: None

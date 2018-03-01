@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 2y00
-distance: -2.5
+distance: -1.22
 ligand:
 -   name: Y00
     pubchemId: 667531

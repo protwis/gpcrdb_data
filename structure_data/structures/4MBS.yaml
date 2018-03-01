@@ -1,6 +1,6 @@
 auxiliary_protein: Rubredoxin
 construct: 4mbs
-distance: -2.03
+distance: 0.46
 endogenous_ligand:
 -   iupharId: 769
     name: CCL11

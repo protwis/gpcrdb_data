@@ -1,6 +1,6 @@
 auxiliary_protein: ''
 construct: 5n2s
-distance: -1.35
+distance: -0.47
 ligand:
     name: 8K8
     pubchemId: 92460631

@@ -1,6 +1,6 @@
-auxiliary_protein: 'Soluble cytochrome b562'
+auxiliary_protein: Soluble cytochrome b562
 construct: 5olz
-distance: -1.81
+distance: -0.75
 ligand:
 -   name: T4E
     pubchemId: None

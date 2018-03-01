@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5tvn
-distance: 6.15
+distance: 4.46
 endogenous_ligand:
 -   iupharId: 5
     name: Serotonin

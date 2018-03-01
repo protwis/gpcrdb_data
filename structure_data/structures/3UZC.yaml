@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3uzc
-distance: -1.91
+distance: -0.5
 ligand:
 -   name: T4E
     pubchemId: None

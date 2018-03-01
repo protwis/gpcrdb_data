@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3pwh
-distance: -1.93
+distance: -0.67
 ligand:
 -   name: ZMA
     pubchemId: '176407'

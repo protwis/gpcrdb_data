@@ -1,6 +1,6 @@
 auxiliary_protein: Flavodoxin
 construct: 5tgz
-distance: -3.61
+distance: -0.85
 endogenous_ligand:
 -   name: 2-arachidonoylglycerol
     type: Endocannabinoid

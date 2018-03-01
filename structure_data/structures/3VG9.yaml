@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3vg9
-distance: -2.03
+distance: -1.2
 ligand:
 -   name: ZMA
     pubchemId: '176407'

@@ -1,6 +1,6 @@
 auxiliary_protein: Rubredoxin
 construct: 5vbl
-distance: -3.7
+distance: -0.37
 endogenous_ligand:
 -   iupharId: 605
     name: Apelin

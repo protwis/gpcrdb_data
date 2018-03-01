@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5uvi
-distance: -1.36
+distance: -0.58
 ligand:
 -   name: ZMA
     pubchemId: '176407'

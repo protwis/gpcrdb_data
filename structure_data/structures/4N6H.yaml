@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4n6h
-distance: -3.43
+distance: -1.54
 endogenous_ligand:
 -   iupharId: 1643
     name: "\u03B2-endorphin"

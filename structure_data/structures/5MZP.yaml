@@ -1,6 +1,6 @@
 auxiliary_protein: ''
 construct: 5mzp
-distance: -1.72
+distance: -0.75
 ligand:
     name: CFF
     pubchemId: 2519

@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 3oe0
-distance: -6.51
+distance: -1.45
 ligand:
 -   name: PRD
     role: Antagonist

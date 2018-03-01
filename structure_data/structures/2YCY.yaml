@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 2ycy
-distance: -3.45
+distance: -1.62
 ligand:
 -   name: P32
     pubchemId: '46937143'

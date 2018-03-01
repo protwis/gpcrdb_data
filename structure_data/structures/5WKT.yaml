@@ -1,6 +1,6 @@
 auxiliary_protein: ''
 construct: 5wkt
-distance: 9.16
+distance: 7.98
 ligand:
 -   name: None
     pubchemId: None

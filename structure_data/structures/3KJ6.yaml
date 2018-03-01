@@ -1,6 +1,6 @@
 auxiliary_protein: Antibody
 construct: 3kj6
-distance: -3.87
+distance: -2.18
 ligand:
 -   name: None
     pubchemId: None

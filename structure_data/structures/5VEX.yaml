@@ -1,6 +1,6 @@
 auxiliary_protein: Endolysin
 construct: 5vex
-distance: 3.77
+distance: -5.05
 ligand:
 -   name: 97V
     pubchemId: 23549991

@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 4amj
-distance: -2.49
+distance: -1.01
 ligand:
 -   name: CVD
     pubchemId: '185395'

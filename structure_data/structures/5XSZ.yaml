@@ -1,6 +1,6 @@
 auxiliary_protein: Endolysin
 construct: 5xsz
-distance: 5.58
+distance: 9.96
 ligand:
     name: None
     pubchemId: None

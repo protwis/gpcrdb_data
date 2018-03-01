@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 2ycw
-distance: -3.08
+distance: -1.08
 ligand:
 -   name: CAU
     pubchemId: '33624'

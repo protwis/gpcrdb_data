@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4py0
-distance: 0.87
+distance: 3.81
 ligand:
 -   name: 6AT
     pubchemId: '5310983'

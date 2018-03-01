@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 5t1a
-distance: 0.15
+distance: 1.66
 ligand:
 -   name: 73R
     pubchemId: '68764898'

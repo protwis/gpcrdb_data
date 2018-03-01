@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5nlx
-distance: -1.97
+distance: -0.71
 ligand:
     name: None
     pubchemId: None

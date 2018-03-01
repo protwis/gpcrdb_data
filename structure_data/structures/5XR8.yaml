@@ -1,6 +1,6 @@
 auxiliary_protein: Flavodoxin
 construct: 5xr8
-distance: 11.74
+distance: 7.9
 ligand:
 -   name: 8D0
     pubchemId: None

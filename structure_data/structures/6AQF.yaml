@@ -1,6 +1,6 @@
-auxiliary_protein: 'Soluble cytochrome b562'
+auxiliary_protein: Soluble cytochrome b562
 construct: 6aqf
-distance: -1.33
+distance: -0.44
 ligand:
     name: ZMA
     pubchemId: 176407

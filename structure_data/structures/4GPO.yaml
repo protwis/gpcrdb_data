@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 4gpo
-distance: -3.76
+distance: -1.36
 ligand:
 -   name: None
     pubchemId: None

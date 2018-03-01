@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4yay
-distance: -4.43
+distance: -1.1
 endogenous_ligand:
 -   iupharId: 2504
     name: Angiotensin II

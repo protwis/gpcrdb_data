@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3pxo
-distance: 8.8
+distance: 7.94
 endogenous_ligand:
 -   iupharId: 6669
     name: RET

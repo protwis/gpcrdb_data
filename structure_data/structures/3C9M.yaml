@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3c9m
-distance: -3.13
+distance: -0.2
 ligand:
 -   name: RET
     pubchemId: '638015'

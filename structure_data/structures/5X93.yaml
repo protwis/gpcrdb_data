@@ -1,6 +1,6 @@
 auxiliary_protein: Endolysin
 construct: 5x93
-distance: -1.22
+distance: -0.68
 ligand:
     name: K87
     pubchemId: 9810112

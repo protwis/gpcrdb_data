@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 4buo
-distance: -1.93
+distance: 0.57
 endogenous_ligand:
 -   iupharId: 1579
     name: Neurotensin

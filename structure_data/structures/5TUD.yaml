@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL, Antibody Fab fragment
 construct: 5tud
-distance: 8.5
+distance: 8.66
 endogenous_ligand:
     iupharId: 5
     name: Serotonin

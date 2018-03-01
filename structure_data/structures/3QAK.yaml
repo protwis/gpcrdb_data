@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 3qak
-distance: 6.54
+distance: 6.12
 ligand:
 -   name: UKA
     pubchemId: 9833519

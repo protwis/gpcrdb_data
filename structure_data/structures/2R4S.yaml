@@ -1,6 +1,6 @@
 auxiliary_protein: Antibody
 construct: 2r4s
-distance: -4.24
+distance: -2.89
 ligand:
 -   name: None
     pubchemId: None

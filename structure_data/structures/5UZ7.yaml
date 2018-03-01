@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 5uz7
-distance: 18.99
+distance: 7.8
 ligand:
 -   name: None
     pubchemId: None
