@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4qim
-distance: -0.27
+distance: -2.23
 ligand:
 -   name: A8T
     pubchemId: 24905375

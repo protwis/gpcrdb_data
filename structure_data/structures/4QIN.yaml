@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4qin
-distance: -0.91
+distance: -2.38
 ligand:
 -   name: SG8
     pubchemdId: 44195701

@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 5dgy
-distance: 9.7
+distance: 8.61
 endogenous_ligand:
 -   iupharId: 6669
     name: RET

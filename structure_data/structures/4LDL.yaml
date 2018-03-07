@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 4ldl
-distance: 9.89
+distance: 9.26
 ligand:
 -   name: XQC
     pubchemId: 44328881

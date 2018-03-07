@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4o9r
-distance: -0.23
+distance: -2.77
 ligand:
 -   name: CY8
     pubchemId: 442972

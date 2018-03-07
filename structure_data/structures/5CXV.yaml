@@ -1,6 +1,6 @@
 auxiliary_protein: Endolysin
 construct: 5cxv
-distance: -0.58
+distance: 0.64
 endogenous_ligand:
 -   iupharId: 294
     name: acetylcholine

@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 5glh
-distance: 0.28
+distance: -0.17
 ligand:
     chain: B
     name: Endothelin-1
@@ -9,6 +9,5 @@ ligand:
     type: Peptide
 pdb: 5GLH
 preferred_chain: A
-representative: true
 signaling_protein: None
-state: Intermediate
+state: Inactive

@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 4k5y
-distance: 5.87
+distance: -2.02
 endogenous_ligand:
 -   iupharId: 912
     name: Corticotropin-releasing hormone

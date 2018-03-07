@@ -1,0 +1,13 @@
+auxiliary_protein: Soluble cytochrome b562
+construct: 5olg
+distance: -0.73
+ligand:
+-   name: ZMA
+    pubchemId: None
+    role: Antagonist
+    title: ZM 241385
+    type: Small molecule
+pdb: 5OLG
+preferred_chain: A
+signaling_protein: None
+state: Inactive

@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5wiv
-distance: -4.78
+distance: -0.93
 ligand:
 -   name: AQD
     pubchemId: 156333

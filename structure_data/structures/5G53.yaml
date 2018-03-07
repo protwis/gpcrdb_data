@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 5g53
-distance: 12.29
+distance: 9.79
 ligand:
 -   name: NEC
     pubchemId: '448222'

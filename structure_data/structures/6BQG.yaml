@@ -1,0 +1,14 @@
+auxiliary_protein: Soluble cytochrome b562
+construct: 6bqg
+distance: 7.92
+ligand:
+    name: ERM
+    pubchemId: 8223
+    role: Agonist
+    title: Ergotamine
+    type: Small molecule
+pdb: 6BQG
+preferred_chain: A
+reprenentative: true
+signaling_protein: None
+state: Active

@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4ntj
-distance: 5.38
+distance: 4.74
 ligand:
 -   name: AZJ
     pubchemId: '23649325'

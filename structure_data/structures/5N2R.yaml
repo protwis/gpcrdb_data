@@ -1,5 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5n2r
+distance: -0.73
 ligand:
     name: 8JN
     pubchemId: 92460631

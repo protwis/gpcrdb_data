@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5uen
-distance: -2.36
+distance: -1.06
 ligand:
 -   name: DU1
     pubchemId: '10839674'

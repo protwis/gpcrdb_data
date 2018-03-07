@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5iua
-distance: -1.59
+distance: -0.68
 ligand:
 -   name: 6DX
     pubchemId: '121225601'

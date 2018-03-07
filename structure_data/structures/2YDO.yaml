@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 2ydo
-distance: 7.24
+distance: 6.28
 ligand:
 -   name: ADN
     pubchemId: '60961'

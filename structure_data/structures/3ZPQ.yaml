@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3zpq
-distance: -2.47
+distance: -1.18
 ligand:
 -   name: XF5
     pubchemId: 594590

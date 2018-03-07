@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 5lwe
-distance: -2.0
+distance: 0.09
 ligand:
 -   name: 79K
     pubchemId: '10343454'

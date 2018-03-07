@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 2i35
-distance: -3.67
+distance: -0.33
 endogenous_ligand:
 -   iupharId: 6669
     name: RET

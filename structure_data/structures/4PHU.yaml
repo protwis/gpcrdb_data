@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 4phu
-distance: 4.78
+distance: 3.58
 endogenous_ligand:
 -   name: long chain carboxylic acids
     type: Lipid

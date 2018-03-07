@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5uig
-distance: 0.07
+distance: 1.11
 ligand:
 -   name: 8D1
     pubchemId: '124081196'
@@ -9,4 +9,4 @@ ligand:
 pdb: 5UIG
 preferred_chain: A
 signaling_protein: None
-state: Intermediate
+state: Inactive

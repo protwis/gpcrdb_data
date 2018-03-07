@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 3d4s
-distance: -3.48
+distance: -1.53
 ligand:
 -   name: TIM
     pubchemId: '33624'

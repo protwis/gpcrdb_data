@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 5a8e
-distance: -4.37
+distance: -2.23
 ligand:
 -   name: XTK
     role: Inverse agonist

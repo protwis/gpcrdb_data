@@ -1,6 +1,6 @@
 auxiliary_protein: Glycogen synthase
 construct: 5wqc
-distance: -3.38
+distance: -0.99
 ligand:
 -   name: 7MA
     pubchemId: 9981404

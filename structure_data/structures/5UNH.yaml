@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5unh
-distance: 8.96
+distance: 9.17
 ligand:
 -   name: 8EM
     pubchemId: '126456406'

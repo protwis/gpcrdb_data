@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3zev
-distance: -2.06
+distance: 0.45
 ligand:
 -   Title: NTS
     chain: C

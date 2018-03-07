@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 3rze
-distance: -0.97
+distance: 0.45
 endogenous_ligand:
 -   iupharId: 1204
     name: Histamine

@@ -1,6 +1,6 @@
 auxiliary_protein: Rubredoxin
 construct: 4xnv
-distance: 1.82
+distance: 5.58
 endogenous_ligand:
 -   iupharId: 1712
     name: ADP

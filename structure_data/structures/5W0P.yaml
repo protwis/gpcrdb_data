@@ -1,6 +1,6 @@
 auxiliary_protein: ''
 construct: 5w0p
-distance: 10.25
+distance: 8.63
 endogenous_ligand:
 -   iupharId: 6669
     name: RET

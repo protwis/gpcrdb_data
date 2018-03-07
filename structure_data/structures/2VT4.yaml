@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 2vt4
-distance: -3.54
+distance: -1.55
 ligand:
 -   name: P32
     pubchemId: '46937143'

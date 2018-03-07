@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 4bwb
-distance: -1.12
+distance: 1.53
 ligand:
 -   chain: C
     name: NTS

@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 4ug2
-distance: 6.33
+distance: 5.86
 ligand:
 -   name: NGI
     pubchemId: '3086599'

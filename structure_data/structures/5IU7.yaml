@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 5iu7
-distance: -1.67
+distance: -0.68
 ligand:
 -   name: 6DY
     pubchemId: '121225595'

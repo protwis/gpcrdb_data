@@ -1,0 +1,13 @@
+auxiliary_protein: Soluble cytochrome b562
+construct: 5om4
+distance: -0.66
+ligand:
+    name: T4E
+    pubchemId: None
+    role: Antagonist
+    title: 4-(3-amino-5-phenyl-1,2,4-triazin-6-yl)-2-chlorophenol
+    type: Small molecule
+pdb: 5OM4
+preferred_chain: A
+signaling_protein: None
+state: Inactive

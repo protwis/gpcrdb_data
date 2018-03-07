@@ -1,6 +1,6 @@
 auxiliary_protein: Endolysin
 construct: 5x33
-distance: -4.53
+distance: -1.53
 ligand:
     name: 7Y9
     pubchemId: 9956189

@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4n4w
-distance: 0.0
+distance: -1.76
 ligand:
 -   name: SNT
     pubchemId: 6878030

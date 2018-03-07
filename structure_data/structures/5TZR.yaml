@@ -1,6 +1,6 @@
 auxiliary_protein: Endolysin
 construct: 5tzr
-distance: 4.75
+distance: 3.69
 endogenous_ligand:
 -   name: long chain carboxylic acids
     type: Lipid

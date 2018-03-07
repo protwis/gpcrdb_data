@@ -1,6 +1,6 @@
 auxiliary_protein: ''
 construct: 5mzj
-distance: -1.59
+distance: -0.54
 ligand:
     name: TEP
     pubchemId: 2153

@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 3oe9
-distance: -6.61
+distance: -0.65
 ligand:
 -   name: ITD
     pubchemId: 25147749

@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 4pxf
-distance: 9.18
+distance: 8.58
 endogenous_ligand:
 -   iupharId: 6669
     name: RET

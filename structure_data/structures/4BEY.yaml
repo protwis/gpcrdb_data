@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 4bey
-distance: 9.29
+distance: 8.38
 endogenous_ligand:
 -   iupharId: 6669
     name: RET

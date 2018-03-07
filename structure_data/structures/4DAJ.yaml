@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 4daj
-distance: -5.63
+distance: 0.22
 ligand:
 -   name: 0HK
     pubchemId: '5487427'

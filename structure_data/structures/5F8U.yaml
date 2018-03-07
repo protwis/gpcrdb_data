@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 5f8u
-distance: -2.81
+distance: -0.51
 endogenous_ligand:
 -   iupharId: 484
     name: noradrenaline

@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 4ami
-distance: -3.07
+distance: -1.16
 ligand:
 -   name: G90
     pubchemId: 12619631

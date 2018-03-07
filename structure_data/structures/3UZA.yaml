@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3uza
-distance: -1.9
+distance: -0.56
 ligand:
 -   name: T4G
     pubchemId: '56844240'

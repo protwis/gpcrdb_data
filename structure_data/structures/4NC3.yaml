@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4nc3
-distance: 5.03
+distance: 3.09
 ligand:
 -   name: ERM
     pubchemId: '8223'

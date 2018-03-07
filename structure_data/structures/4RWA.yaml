@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4rwa
-distance: -3.58
+distance: -1.2
 ligand:
 -   chain: G
     name: PRD

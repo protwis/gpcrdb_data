@@ -1,6 +1,6 @@
 auxiliary_protein: T4-Lysozyme
 construct: 4ej4
-distance: -3.51
+distance: -1.23
 endogenous_ligand:
 -   iupharId: 1643
     name: endorphin

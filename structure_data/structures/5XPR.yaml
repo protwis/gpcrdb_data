@@ -1,6 +1,6 @@
 auxiliary_protein: ''
 construct: 5xpr
-distance: 0.03
+distance: 0.09
 ligand:
     name: None
     pubchemId: None
@@ -10,4 +10,4 @@ ligand:
 pdb: 5XPR
 preferred_chain: A
 signaling_protein: None
-state: Intermediate
+state: Inactive

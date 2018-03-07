@@ -1,0 +1,13 @@
+auxiliary_protein: Soluble cytochrome b562
+construct: 5olo
+distance: -0.69
+ligand:
+    name: 9XW
+    pubchemId: 11618368
+    role: Antagonist
+    title: Tozadenant
+    type: Small molecule
+pdb: 5OLO
+preferred_chain: A
+signaling_protein: None
+state: Inactive

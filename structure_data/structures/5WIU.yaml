@@ -1,6 +1,6 @@
 auxiliary_protein: ''
 construct: 5wiu
-distance: -4.94
+distance: -0.97
 ligand:
 -   name: AQD
     pubchemId: 156333

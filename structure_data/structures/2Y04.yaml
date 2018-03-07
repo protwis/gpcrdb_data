@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 2y04
-distance: -2.36
+distance: -1.14
 ligand:
 -   name: 68H
     pubchemId: '123600'

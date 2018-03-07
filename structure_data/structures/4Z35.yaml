@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 4z35
-distance: -3.47
+distance: -1.3
 endogenous_ligand:
 -   iupharId: 2906
     name: LPA

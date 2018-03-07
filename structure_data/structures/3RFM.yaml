@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 3rfm
-distance: -1.88
+distance: -0.48
 ligand:
 -   name: CFF
     pubchemId: '2519'
