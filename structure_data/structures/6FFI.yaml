@@ -1,0 +1,14 @@
+auxiliary_protein: Endolysin, Endolysin
+construct: 6ffi
+distance: 4.49
+ligand:
+-   name: D8B
+    pubchemId: 5311462
+    role: NAM
+    title: 2-[2-(3-methoxyphenyl)ethynyl]-6-methyl-pyridine
+    type: Small molecule
+pdb: 6FFI
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

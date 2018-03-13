@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6ffh
+distance: 4.08
+ligand:
+-   name: D7W
+    pubchemId: 162834
+    role: NAM
+    title: Fenobam
+    type: Small molecule
+pdb: 6FFH
+preferred_chain: A
+signaling_protein: None
+state: Inactive
