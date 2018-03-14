@@ -13,5 +13,5 @@ ligand:
 pdb: 4ZWJ
 preferred_chain: A
 representative: true
-signaling_protein: B-arrestin
+signaling_protein: S-arrestin
 state: Active
