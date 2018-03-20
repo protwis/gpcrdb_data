@@ -1,0 +1,13 @@
+auxiliary_protein: Flavodoxin
+construct: 5v56
+distance: -1.89
+ligand:
+-   name: '836'
+    pubchemId: 126970683
+    role: Antagonist
+    title: N-methyl-N-[1-[4-(2-methylpyrazol-3-yl)phthalazin-1-yl]piperidin-4-yl]-4-nitro-2-(trifluoromethyl)benzamide
+    type: Small molecule
+pdb: 5V56
+preferred_chain: B
+signaling_protein: None
+state: Inactive
