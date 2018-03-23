@@ -2,22 +2,13 @@ auxiliary_protein: ''
 construct: 5o9h
 distance: -1.46
 ligand:
--   name: CIT
-    pubchemId: None
-    role: '.nan'
-    title: CITRIC ACID
-    type: None
 -   name: 9P2
-    pubchemId: None
-    role: '.nan'
-    title: 1-(1,3-benzodioxol-5-yl)-~{N}-(1,3-benzodioxol-5-ylmethyl)-~{N}-[(3-butyl-2,5-diphenyl-imidazol-4-yl)methyl]methanamine
-    type: None
--   name: TLA
-    pubchemId: None
-    role: '.nan'
-    title: L(+)-TARTARIC ACID
-    type: None
+    pubchemId: 10210160
+    role: Antagonist
+    title: NDT 9513727
+    type: Small molecule
 pdb: 5O9H
 preferred_chain: A
+representative: true
 signaling_protein: None
 state: Inactive
