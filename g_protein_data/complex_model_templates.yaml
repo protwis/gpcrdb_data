@@ -3,6 +3,8 @@ gnas2_human:
     chain: A
 -   pdb: 5VAI
     chain: A
+-   pdb: 6B3J
+    chain: A
 gnas2_bovin:
 -   pdb: 3SN6
     chain: A

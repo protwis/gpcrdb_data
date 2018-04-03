@@ -1,6 +1,6 @@
 auxiliary_protein: None
 construct: 6b3j
-distance: 12.11
+distance: 6.78
 ligand:
 -   name: pep
     pubchemId: None
@@ -8,7 +8,7 @@ ligand:
     title: Exendin-P5
     type: Peptide
 pdb: 6B3J
-preferred_chain: A
+preferred_chain: R
 representative: true
 signaling_protein: Gs
 state: Active
