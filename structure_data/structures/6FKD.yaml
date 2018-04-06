@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6fkd
+distance: 7.92
+ligand:
+-   name: DL2
+    pubchemId: None
+    role: Agonist
+    title: 5-chloranyl-2-(2-oxidanylidene-2-spiro[1,3-benzodioxole-2,4'-piperidine]-1'-yl-ethyl)-3~{H}-pyridin-6-one
+    type: Small molecule
+pdb: 6FKD
+preferred_chain: A
+signaling_protein: None
+state: Active

@@ -1,0 +1,14 @@
+auxiliary_protein: ''
+construct: 6fkc
+distance: 7.84
+ligand:
+-   name: DLB
+    pubchemId: None
+    role: Agonist
+    title: 3-[1'-[(2~{S})-2-(4-chlorophenyl)-3-methyl-butanoyl]spiro[1,3-benzodioxole-2,4'-piperidine]-5-yl]propanoic
+        acid
+    type: Small molecule
+pdb: 6FKC
+preferred_chain: A
+signaling_protein: None
+state: Active
