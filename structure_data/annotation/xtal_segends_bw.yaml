@@ -497,9 +497,9 @@ c5ar1_human__wt:
     6b: 31.0
     6e: 61.0
     7b: 25.0
-    7e: 60.0
+    7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
     RF: Complementpeptide
     1ei1b: 15
@@ -1687,8 +1687,8 @@ q08bg4_danre__wt:
     6b: 29.0
     6e: 64.0
     7b: 24.0
-    7e: 60.0
-    8b: 51.0
+    7e: 56.0
+    8b: 47.0
     8e: 61.0
     Cl: A
     RF: Lysophospholipid(LPA)
