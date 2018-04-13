@@ -1,6 +1,7 @@
 auxiliary_protein: ''
 construct: 6fk7
 distance: 7.68
+ligand:
 -   name: DO5
     pubchemId: None
     role: Agonist

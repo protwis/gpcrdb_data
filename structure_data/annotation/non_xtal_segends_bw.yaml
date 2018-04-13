@@ -455,7 +455,7 @@ ackr1_human:
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 ackr2_human:
     XtalTempl: ccr5_human
@@ -1938,9 +1938,9 @@ c3ar_human:
     6b: 31.0
     6e: 61.0
     7b: 25.0
-    7e: 60.0
+    7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 c5ar1_human:
     XtalTempl: c5ar1_human
@@ -1965,9 +1965,9 @@ c5ar1_human:
     6b: 31.0
     6e: 61.0
     7b: 25.0
-    7e: 60.0
+    7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 c5ar2_human:
     XtalTempl: c5ar1_human
@@ -1992,9 +1992,9 @@ c5ar2_human:
     6b: 31.0
     6e: 61.0
     7b: 25.0
-    7e: 60.0
+    7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 calcr_human:
     XtalTempl: calcr_human
@@ -3263,7 +3263,7 @@ fpr2_human:
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 fpr3_human:
     XtalTempl: c5ar1_human
@@ -3290,7 +3290,7 @@ fpr3_human:
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 fshr_human:
     XtalTempl: aa2ar_human
@@ -6746,7 +6746,7 @@ lt4r2_human:
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 mas1l_human:
     XtalTempl: ccr9_human
@@ -6962,7 +6962,7 @@ mrgrd_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 mrgre_human:
     XtalTempl: cxcr4_human
@@ -7016,7 +7016,7 @@ mrgrf_human:
     7b: 32.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 mrgrg_human:
     XtalTempl: agtr1_human
@@ -7097,7 +7097,7 @@ mrgx2_human:
     7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 mrgx3_human:
     XtalTempl: agtr1_human
@@ -7151,7 +7151,7 @@ mrgx4_human:
     7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 mshr_human:
     XtalTempl: s1pr1_human
@@ -8798,7 +8798,7 @@ pd2r2_human:
     7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 pd2r_human:
     XtalTempl: ntr1_rat
@@ -8960,7 +8960,7 @@ pf2r_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 pi2r_human:
     XtalTempl: c5ar1_human
@@ -8987,7 +8987,7 @@ pi2r_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 56.0
     Cl: A
 pkr1_human:
     XtalTempl: ox1r_human
@@ -9201,8 +9201,8 @@ q08bg4_danre:
     6b: 24.0
     6e: 64.0
     7b: 24.0
-    7e: 60.0
-    8b: 51.0
+    7e: 56.0
+    8b: 47.0
     8e: 61.0
     Cl: A
 q9wtk1_cavpo:
