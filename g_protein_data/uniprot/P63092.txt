@@ -1,0 +1,987 @@
+ID   GNAS2_HUMAN             Reviewed;         394 AA.
+AC   P63092; A6NI00; E1P5G5; P04895; Q12927; Q14433; Q32P26; Q5JWD2;
+AC   Q5JWD4; Q5JWD5; Q6NR75; Q6NXS0; Q8TBC0; Q96H70;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   13-AUG-1987, sequence version 1.
+DT   05-OCT-2016, entry version 143.
+DE   RecName: Full=Guanine nucleotide-binding protein G(s) subunit alpha isoforms short;
+DE   AltName: Full=Adenylate cyclase-stimulating G alpha protein;
+GN   Name=GNAS; Synonyms=GNAS1, GSP;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS GNAS-1 AND GNAS-2).
+RC   TISSUE=Liver;
+RX   PubMed=3093273; DOI=10.1016/0014-5793(86)81336-9;
+RA   Mattera R., Codina J., Crozat A., Kidd V., Woo S.L.C., Birnbaumer L.;
+RT   "Identification by molecular cloning of two forms of the alpha-subunit
+RT   of the human liver stimulatory (GS) regulatory component of adenylyl
+RT   cyclase.";
+RL   FEBS Lett. 206:36-42(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM GNAS-1).
+RX   PubMed=3131741; DOI=10.1093/nar/16.8.3585;
+RA   Harris B.A.;
+RT   "Complete cDNA sequence of a human stimulatory GTP-binding protein
+RT   alpha subunit.";
+RL   Nucleic Acids Res. 16:3585-3585(1988).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND ALTERNATIVE SPLICING (ISOFORMS
+RP   GNAS-1 AND GNAS-2).
+RX   PubMed=3127824; DOI=10.1073/pnas.85.7.2081;
+RA   Kozasa T., Itoh H., Tsukamoto T., Kaziro Y.;
+RT   "Isolation and characterization of the human Gs alpha gene.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 85:2081-2085(1988).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS GNAS-1 AND GNAS-2).
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction
+RT   sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM GNAS-1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor
+RT   vector.";
+RL   Submitted (AUG-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=11780052; DOI=10.1038/414865a;
+RA   Deloukas P., Matthews L.H., Ashurst J.L., Burton J., Gilbert J.G.R.,
+RA   Jones M., Stavrides G., Almeida J.P., Babbage A.K., Bagguley C.L.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beard L.M., Beare D.M.,
+RA   Beasley O.P., Bird C.P., Blakey S.E., Bridgeman A.M., Brown A.J.,
+RA   Buck D., Burrill W.D., Butler A.P., Carder C., Carter N.P.,
+RA   Chapman J.C., Clamp M., Clark G., Clark L.N., Clark S.Y., Clee C.M.,
+RA   Clegg S., Cobley V.E., Collier R.E., Connor R.E., Corby N.R.,
+RA   Coulson A., Coville G.J., Deadman R., Dhami P.D., Dunn M.,
+RA   Ellington A.G., Frankland J.A., Fraser A., French L., Garner P.,
+RA   Grafham D.V., Griffiths C., Griffiths M.N.D., Gwilliam R., Hall R.E.,
+RA   Hammond S., Harley J.L., Heath P.D., Ho S., Holden J.L., Howden P.J.,
+RA   Huckle E., Hunt A.R., Hunt S.E., Jekosch K., Johnson C.M., Johnson D.,
+RA   Kay M.P., Kimberley A.M., King A., Knights A., Laird G.K., Lawlor S.,
+RA   Lehvaeslaiho M.H., Leversha M.A., Lloyd C., Lloyd D.M., Lovell J.D.,
+RA   Marsh V.L., Martin S.L., McConnachie L.J., McLay K., McMurray A.A.,
+RA   Milne S.A., Mistry D., Moore M.J.F., Mullikin J.C., Nickerson T.,
+RA   Oliver K., Parker A., Patel R., Pearce T.A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Prathalingam S.R., Plumb R.W., Ramsay H.,
+RA   Rice C.M., Ross M.T., Scott C.E., Sehra H.K., Shownkeen R., Sims S.,
+RA   Skuce C.D., Smith M.L., Soderlund C., Steward C.A., Sulston J.E.,
+RA   Swann R.M., Sycamore N., Taylor R., Tee L., Thomas D.W., Thorpe A.,
+RA   Tracey A., Tromans A.C., Vaudin M., Wall M., Wallis J.M.,
+RA   Whitehead S.L., Whittaker P., Willey D.L., Williams L., Williams S.A.,
+RA   Wilming L., Wray P.W., Hubbard T., Durbin R.M., Bentley D.R., Beck S.,
+RA   Rogers J.;
+RT   "The DNA sequence and comparative analysis of human chromosome 20.";
+RL   Nature 414:865-871(2001).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS GNAS-1; 3 AND 4).
+RC   TISSUE=Bone marrow, Brain, Muscle, and Pancreas;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 12-394 (ISOFORMS GNAS-1 AND 4).
+RX   PubMed=3024154; DOI=10.1073/pnas.83.23.8893;
+RA   Bray P., Carter A., Simons C., Guo V., Puckett C., Kamholz J.,
+RA   Spiegel A., Nirenberg M.;
+RT   "Human cDNA clones for four species of G alpha s signal transduction
+RT   protein.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 83:8893-8897(1986).
+RN   [10]
+RP   PROTEIN SEQUENCE OF 187-199 AND 308-317.
+RC   TISSUE=Adipocyte;
+RX   PubMed=15242332; DOI=10.1042/BJ20040647;
+RA   Aboulaich N., Vainonen J.P., Stralfors P., Vener A.V.;
+RT   "Vectorial proteomics reveal targeting, phosphorylation and specific
+RT   fragmentation of polymerase I and transcript release factor (PTRF) at
+RT   the surface of caveolae in human adipocytes.";
+RL   Biochem. J. 383:237-248(2004).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=12391161; DOI=10.1128/MCB.22.22.7942-7952.2002;
+RA   Pak Y., Pham N., Rotin D.;
+RT   "Direct binding of the beta1 adrenergic receptor to the cyclic AMP-
+RT   dependent guanine nucleotide exchange factor CNrasGEF leads to Ras
+RT   activation.";
+RL   Mol. Cell. Biol. 22:7942-7952(2002).
+RN   [12]
+RP   INTERACTION WITH ADCY5 AND ADCY6, AND FUNCTION.
+RX   PubMed=17110384; DOI=10.1074/jbc.M607522200;
+RA   Gao X., Sadana R., Dessauer C.W., Patel T.B.;
+RT   "Conditional stimulation of type V and VI adenylyl cyclases by G
+RT   protein betagamma subunits.";
+RL   J. Biol. Chem. 282:294-302(2007).
+RN   [13]
+RP   INTERACTION WITH CRY1.
+RX   PubMed=20852621; DOI=10.1038/nm.2214;
+RA   Zhang E.E., Liu Y., Dentin R., Pongsawakul P.Y., Liu A.C., Hirota T.,
+RA   Nusinow D.A., Sun X., Landais S., Kodama Y., Brenner D.A.,
+RA   Montminy M., Kay S.A.;
+RT   "Cryptochrome mediates circadian regulation of cAMP signaling and
+RT   hepatic gluconeogenesis.";
+RL   Nat. Med. 16:1152-1156(2010).
+RN   [14]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-352, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=20068231; DOI=10.1126/scisignal.2000475;
+RA   Olsen J.V., Vermeulen M., Santamaria A., Kumar C., Miller M.L.,
+RA   Jensen L.J., Gnad F., Cox J., Jensen T.S., Nigg E.A., Brunak S.,
+RA   Mann M.;
+RT   "Quantitative phosphoproteomics reveals widespread full
+RT   phosphorylation site occupancy during mitosis.";
+RL   Sci. Signal. 3:RA3-RA3(2010).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [16]
+RP   PALMITOYLATION AT CYS-3.
+RX   PubMed=21044946; DOI=10.1194/jlr.D011106;
+RA   Forrester M.T., Hess D.T., Thompson J.W., Hultman R., Moseley M.A.,
+RA   Stamler J.S., Casey P.J.;
+RT   "Site-specific analysis of protein S-acylation by resin-assisted
+RT   capture.";
+RL   J. Lipid Res. 52:393-398(2011).
+RN   [17]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D.,
+RA   Wang L., Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human
+RT   liver phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [18]
+RP   INTERACTION WITH ADCY5, AND FUNCTION.
+RX   PubMed=26206488; DOI=10.1124/mol.115.099556;
+RA   Brand C.S., Sadana R., Malik S., Smrcka A.V., Dessauer C.W.;
+RT   "Adenylyl cyclase 5 regulation by Gbetagamma involves isoform specific
+RT   use of multiple interaction sites.";
+RL   Mol. Pharmacol. 88:758-767(2015).
+RN   [19]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M.,
+RA   Ayoub D., Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [20]
+RP   VARIANTS AHO PRO-99 AND CYS-165.
+RX   PubMed=8388883; DOI=10.1210/jc.76.6.1560;
+RA   Miric A., Vechio J.D., Levine M.A.;
+RT   "Heterogeneous mutations in the gene encoding the alpha-subunit of the
+RT   stimulatory G protein of adenylyl cyclase in Albright hereditary
+RT   osteodystrophy.";
+RL   J. Clin. Endocrinol. Metab. 76:1560-1568(1993).
+RN   [21]
+RP   VARIANT MAS HIS-201.
+RX   PubMed=1594625; DOI=10.1073/pnas.89.11.5152;
+RA   Schwindinger W.F., Francomano C.A., Levine M.A.;
+RT   "Identification of a mutation in the gene encoding the alpha subunit
+RT   of the stimulatory G protein of adenylyl cyclase in McCune-Albright
+RT   syndrome.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 89:5152-5156(1992).
+RN   [22]
+RP   VARIANTS MAS CYS-201 AND HIS-201.
+RX   PubMed=1944469; DOI=10.1056/NEJM199112123252403;
+RA   Weinstein L.S., Shenker A., Gejman P.V., Merino M.J., Friedman E.,
+RA   Spiegel A.M.;
+RT   "Activating mutations of the stimulatory G protein in the McCune-
+RT   Albright syndrome.";
+RL   N. Engl. J. Med. 325:1688-1695(1991).
+RN   [23]
+RP   VARIANTS SOMATOTROPHINOMA CYS-201; HIS-201 AND ARG-227.
+RX   PubMed=2549426; DOI=10.1038/340692a0;
+RA   Landis C.A., Masters S.B., Spada A., Pace A.M., Bourne H.R.,
+RA   Vallar L.;
+RT   "GTPase inhibiting mutations activate the alpha chain of Gs and
+RT   stimulate adenylyl cyclase in human pituitary tumours.";
+RL   Nature 340:692-696(1989).
+RN   [24]
+RP   VARIANT AHO HIS-385.
+RX   PubMed=7523385;
+RA   Schwindinger W.F., Miric A., Zimmerman D., Levine M.A.;
+RT   "A novel Gs alpha mutant in a patient with Albright hereditary
+RT   osteodystrophy uncouples cell surface receptors from adenylyl
+RT   cyclase.";
+RL   J. Biol. Chem. 269:25387-25391(1994).
+RN   [25]
+RP   CHARACTERIZATION OF VARIANT PHP1A SER-366.
+RX   PubMed=8072545; DOI=10.1038/371164a0;
+RA   Iiri T., Herzmark P., Nakamoto J.M., van Dop C., Bourne H.R.;
+RT   "Rapid GDP release from Gs alpha in patients with gain and loss of
+RT   endocrine function.";
+RL   Nature 371:164-168(1994).
+RN   [26]
+RP   VARIANT NON-MAS ENDOCRINE TUMORS LEU-201.
+RX   PubMed=7751320; DOI=10.1007/BF01366965;
+RA   Gorelov V.N., Dumon K., Barteneva N.S., Palm D., Roher H.-D.,
+RA   Goretzki P.E.;
+RT   "Overexpression of Gs alpha subunit in thyroid tumors bearing a
+RT   mutated Gs alpha gene.";
+RL   J. Cancer Res. Clin. Oncol. 121:219-224(1995).
+RN   [27]
+RP   VARIANT PITUITARY ADENOMA HIS-227.
+RX   PubMed=7737262; DOI=10.1111/j.1365-2362.1995.tb01537.x;
+RA   Williamson E.A., Ince P.G., Harrison D., Kendall-Taylor P.,
+RA   Harris P.E.;
+RT   "G-protein mutations in human pituitary adrenocorticotrophic hormone-
+RT   secreting adenomas.";
+RL   Eur. J. Clin. Invest. 25:128-131(1995).
+RN   [28]
+RP   VARIANT PITUITARY TUMOR SER-201.
+RX   PubMed=8766942; DOI=10.1530/eje.0.1340720;
+RA   Yang I., Park S., Ryu M., Woo J., Kim S., Kim J., Kim Y., Choi Y.;
+RT   "Characteristics of gsp-positive growth hormone-secreting pituitary
+RT   tumors in Korean acromegalic patients.";
+RL   Eur. J. Endocrinol. 134:720-726(1996).
+RN   [29]
+RP   CHARACTERIZATION OF VARIANT AHO HIS-231, AND FUNCTION.
+RX   PubMed=8702665; DOI=10.1074/jbc.271.33.19653;
+RA   Farfel Z., Iiri T., Shapira H., Roitman A., Mouallem M., Bourne H.R.;
+RT   "Pseudohypoparathyroidism, a novel mutation in the betagamma-contact
+RT   region of Gsalpha impairs receptor stimulation.";
+RL   J. Biol. Chem. 271:19653-19655(1996).
+RN   [30]
+RP   VARIANT POLYOSTOTIC FIBROUS DYSPLASIA SER-201.
+RX   PubMed=9267696; DOI=10.1016/S8756-3282(97)00107-5;
+RA   Candeliere G.A., Roughley P.J., Glorieux F.H.;
+RT   "Polymerase chain reaction-based technique for the selective
+RT   enrichment and analysis of mosaic arg201 mutations in G alpha s from
+RT   patients with fibrous dysplasia of bone.";
+RL   Bone 21:201-206(1997).
+RN   [31]
+RP   VARIANT AHO ARG-250.
+RX   PubMed=9328353; DOI=10.1210/me.11.11.1718;
+RA   Warner D.R., Gejman P.V., Collins R.M., Weinstein L.S.;
+RT   "A novel mutation adjacent to the switch III domain of G(S alpha) in a
+RT   patient with pseudohypoparathyroidism.";
+RL   Mol. Endocrinol. 11:1718-1727(1997).
+RN   [32]
+RP   CHARACTERIZATION OF VARIANT AHO HIS-231.
+RX   PubMed=9159128; DOI=10.1073/pnas.94.11.5656;
+RA   Iiri T., Farfel Z., Bourne H.R.;
+RT   "Conditional activation defect of a human Gsalpha mutant.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 94:5656-5661(1997).
+RN   [33]
+RP   VARIANT AHO TRP-258, MUTAGENESIS OF ARG-258, AND CHARACTERIZATION OF
+RP   VARIANT AHO TRP-258.
+RX   PubMed=9727013; DOI=10.1074/jbc.273.37.23976;
+RA   Warner D.R., Weng G., Yu S., Matalon R., Weinstein L.S.;
+RT   "A novel mutation in the switch 3 region of Gs-alpha in a patient with
+RT   Albright hereditary osteodystrophy impairs GDP binding and receptor
+RT   activation.";
+RL   J. Biol. Chem. 273:23976-23983(1998).
+RN   [34]
+RP   VARIANT MAS GLY-201.
+RX   PubMed=10571700; DOI=10.1359/jbmr.1999.14.11.1987;
+RA   Riminucci M., Fisher L.W., Majolagbe A., Corsi A., Lala R.,
+RA   De Sanctis C., Robey P.G., Bianco P.;
+RT   "A novel GNAS1 mutation, R201G, in McCune-albright syndrome.";
+RL   J. Bone Miner. Res. 14:1987-1989(1999).
+RN   [35]
+RP   MUTAGENESIS OF GLN-170 AND ARG-258.
+RX   PubMed=10200251; DOI=10.1073/pnas.96.8.4268;
+RA   Warner D.R., Weinstein L.S.;
+RT   "A mutation in the heterotrimeric stimulatory guanine nucleotide
+RT   binding protein alpha-subunit with impaired receptor-mediated
+RT   activation because of elevated GTPase activity.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 96:4268-4272(1999).
+RN   [36]
+RP   INVOLVEMENT IN PHP1B.
+RX   PubMed=11067869; DOI=10.1172/JCI10431;
+RA   Liu J., Litman D., Rosenberg M.J., Yu S., Biesecker L.G.,
+RA   Weinstein L.S.;
+RT   "A GNAS1 imprinting defect in pseudohypoparathyroidism type IB.";
+RL   J. Clin. Invest. 106:1167-1174(2000).
+RN   [37]
+RP   INVOLVEMENT IN PHP1B.
+RX   PubMed=11294659; DOI=10.1086/320117;
+RA   Bastepe M., Lane A.H., Jueppner H.;
+RT   "Paternal uniparental isodisomy of chromosome 20q -- and the resulting
+RT   changes in GNAS1 methylation -- as a plausible cause of
+RT   pseudohypoparathyroidism.";
+RL   Am. J. Hum. Genet. 68:1283-1289(2001).
+RN   [38]
+RP   INVOLVEMENT IN PHP1B, VARIANT ILE-382 DEL, AND CHARACTERIZATION OF
+RP   VARIANT ILE-382 DEL.
+RX   PubMed=11029463; DOI=10.1074/jbc.M006032200;
+RA   Wu W.-I., Schwindinger W.F., Aparicio L.F., Levine M.A.;
+RT   "Selective resistance to parathyroid hormone caused by a novel
+RT   uncoupling mutation in the carboxyl terminus of G alpha(s). A cause of
+RT   pseudohypoparathyroidism type Ib.";
+RL   J. Biol. Chem. 276:165-171(2001).
+RN   [39]
+RP   VARIANT AHO HIS-231.
+RX   PubMed=11450852; DOI=10.1007/s100380170062;
+RA   Ishikawa Y., Tajima T., Nakae J., Nagashima T., Satoh K., Okuhara K.,
+RA   Fujieda K.;
+RT   "Two mutations of the Gsalpha gene in two Japanese patients with
+RT   sporadic pseudohypoparathyroidism type Ia.";
+RL   J. Hum. Genet. 46:426-430(2001).
+RN   [40]
+RP   VARIANT AHO LEU-115.
+RX   PubMed=11600516; DOI=10.1210/jc.86.10.4630;
+RA   Ahrens W., Hiort O., Staedt P., Kirschner T., Marschke C., Kruse K.;
+RT   "Analysis of the GNAS1 gene in Albright's hereditary osteodystrophy.";
+RL   J. Clin. Endocrinol. Metab. 86:4630-4634(2001).
+RN   [41]
+RP   VARIANTS PHP1A ASN-156; MET-159 AND LYS-280.
+RX   PubMed=11788646; DOI=10.1210/jc.87.1.189;
+RA   Linglart A., Carel J.-C., Garabedian M., Le T., Mallet E.,
+RA   Kottler M.-L.;
+RT   "GNAS1 lesions in pseudohypoparathyroidism Ia and Ic: genotype
+RT   phenotype relationship and evidence of the maternal transmission of
+RT   the hormonal resistance.";
+RL   J. Clin. Endocrinol. Metab. 87:189-197(2002).
+RN   [42]
+RP   VARIANT PHP1A GLY-280.
+RX   PubMed=11926205; DOI=10.1515/JPEM.2002.15.3.259;
+RA   Lim S.H., Poh L.K., Cowell C.T., Tey B.H., Loke K.Y.;
+RT   "Mutational analysis of the GNAS1 exons encoding the stimulatory G
+RT   protein in five patients with pseudohypoparathyroidism type 1a.";
+RL   J. Pediatr. Endocrinol. Metab. 15:259-268(2002).
+RN   [43]
+RP   INVOLVEMENT IN PHP1B.
+RX   PubMed=12858292; DOI=10.1086/377136;
+RA   Jan de Beur S., Ding C., Germain-Lee E., Cho J., Maret A.,
+RA   Levine M.A.;
+RT   "Discordance between genetic and epigenetic defects in
+RT   pseudohypoparathyroidism type 1b revealed by inconsistent loss of
+RT   maternal imprinting at GNAS1.";
+RL   Am. J. Hum. Genet. 73:314-322(2003).
+RN   [44]
+RP   VARIANTS AHO ILE-242; SER-246 AND VAL-259.
+RX   PubMed=12624854; DOI=10.1086/374566;
+RA   Rickard S.J., Wilson L.C.;
+RT   "Analysis of GNAS1 and overlapping transcripts identifies the parental
+RT   origin of mutations in patients with sporadic Albright hereditary
+RT   osteodystrophy and reveals a model system in which to observe the
+RT   effects of splicing mutations on translated and untranslated messenger
+RT   RNA.";
+RL   Am. J. Hum. Genet. 72:961-974(2003).
+RN   [45]
+RP   VARIANT PHP1A ASN-338.
+RX   PubMed=12656668; DOI=10.1530/eje.0.1480463;
+RA   Pohlenz J., Ahrens W., Hiort O.;
+RT   "A new heterozygous mutation (L338N) in the human Gsalpha (GNAS1) gene
+RT   as a cause for congenital hypothyroidism in Albright's hereditary
+RT   osteodystrophy.";
+RL   Eur. J. Endocrinol. 148:463-468(2003).
+RN   [46]
+RP   VARIANTS AIMAH1 HIS-201 AND SER-201.
+RX   PubMed=12727968; DOI=10.1210/jc.2002-021362;
+RA   Fragoso M.C.B.V., Domenice S., Latronico A.C., Martin R.M.,
+RA   Pereira M.A.A., Zerbini M.C.N., Lucon A.M., Mendonca B.B.;
+RT   "Cushing's syndrome secondary to adrenocorticotropin-independent
+RT   macronodular adrenocortical hyperplasia due to activating mutations of
+RT   GNAS1 gene.";
+RL   J. Clin. Endocrinol. Metab. 88:2147-2151(2003).
+RN   [47]
+RP   INVOLVEMENT IN PHP1B.
+RX   PubMed=14561710; DOI=10.1172/JCI19159;
+RA   Bastepe M., Froehlich L.F., Hendy G.N., Indridason O.S., Josse R.G.,
+RA   Koshiyama H., Koerkkoe J., Nakamoto J.M., Rosenbloom A.L.,
+RA   Slyper A.H., Sugimoto T., Tsatsoulis A., Crawford J.D., Jueppner H.;
+RT   "Autosomal dominant pseudohypoparathyroidism type Ib is associated
+RT   with a heterozygous microdeletion that likely disrupts a putative
+RT   imprinting control element of GNAS.";
+RL   J. Clin. Invest. 112:1255-1263(2003).
+RN   [48]
+RP   VARIANT POH ARG-281.
+RX   PubMed=14723729; DOI=10.1111/j.1365-2230.2004.01439.x;
+RA   Chan I., Hamada T., Hardman C., McGrath J.A., Child F.J.;
+RT   "Progressive osseous heteroplasia resulting from a new mutation in the
+RT   GNAS1 gene.";
+RL   Clin. Exp. Dermatol. 29:77-80(2004).
+RN   [49]
+RP   INVOLVEMENT IN PHP1B.
+RX   PubMed=15800843; DOI=10.1086/429932;
+RA   Linglart A., Gensure R.C., Olney R.C., Jueppner H., Bastepe M.;
+RT   "A novel STX16 deletion in autosomal dominant pseudohypoparathyroidism
+RT   type Ib redefines the boundaries of a cis-acting imprinting control
+RT   element of GNAS.";
+RL   Am. J. Hum. Genet. 76:804-814(2005).
+RN   [50]
+RP   VARIANT AHO/PHP1A SER-106.
+RX   PubMed=15817905; DOI=10.1530/eje.1.01879;
+RA   Riepe F.G., Ahrens W., Krone N., Foelster-Holst R., Brasch J.,
+RA   Sippell W.G., Hiort O., Partsch C.-J.;
+RT   "Early manifestation of calcinosis cutis in pseudohypoparathyroidism
+RT   type Ia associated with a novel mutation in the GNAS gene.";
+RL   Eur. J. Endocrinol. 152:515-519(2005).
+RN   [51]
+RP   INVOLVEMENT IN PHP1B.
+RX   PubMed=15592469; DOI=10.1038/ng1487;
+RA   Bastepe M., Froehlich L.F., Linglart A., Abu-Zahra H.S., Tojo K.,
+RA   Ward L.M., Jueppner H.;
+RT   "Deletion of the NESP55 differentially methylated region causes loss
+RT   of maternal GNAS imprints and pseudohypoparathyroidism type Ib.";
+RL   Nat. Genet. 37:25-27(2005).
+RN   [52]
+RP   VARIANTS PHP1C ARG-388 AND LYS-392, CHARACTERIZATION OF VARIANTS PHP1C
+RP   ARG-388 AND LYS-392, AND FUNCTION.
+RX   PubMed=21488135; DOI=10.1002/humu.21489;
+RA   Thiele S., de Sanctis L., Werner R., Grotzinger J., Aydin C.,
+RA   Juppner H., Bastepe M., Hiort O.;
+RT   "Functional characterization of GNAS mutations found in patients with
+RT   pseudohypoparathyroidism type Ic defines a new subgroup of
+RT   pseudohypoparathyroidism affecting selectively Gsalpha-receptor
+RT   interaction.";
+RL   Hum. Mutat. 32:653-660(2011).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins)
+CC       function as transducers in numerous signaling pathways controlled
+CC       by G protein-coupled receptors (GPCRs) (PubMed:17110384).
+CC       Signaling involves the activation of adenylyl cyclases, resulting
+CC       in increased levels of the signaling molecule cAMP
+CC       (PubMed:26206488, PubMed:8702665). GNAS functions downstream of
+CC       several GPCRs, including beta-adrenergic receptors
+CC       (PubMed:21488135). Stimulates the Ras signaling pathway via
+CC       RAPGEF2 (PubMed:12391161). {ECO:0000269|PubMed:12391161,
+CC       ECO:0000269|PubMed:17110384, ECO:0000269|PubMed:21488135,
+CC       ECO:0000269|PubMed:26206488, ECO:0000269|PubMed:8702665}.
+CC   -!- SUBUNIT: Heterotrimeric G proteins are composed of 3 units; alpha,
+CC       beta and gamma. The alpha chain contains the guanine nucleotide
+CC       binding site. Interacts with CRY1; the interaction may block GPCR-
+CC       mediated regulation of cAMP concentrations (PubMed:20852621).
+CC       Interacts with ADCY5 and stimulates its adenylyl cyclase activity
+CC       (PubMed:17110384, PubMed:26206488). Interacts with ADCY6 and
+CC       stimulates its adenylyl cyclase activity (PubMed:17110384).
+CC       Interacts with ADCY2 (By similarity).
+CC       {ECO:0000250|UniProtKB:P04896, ECO:0000269|PubMed:17110384,
+CC       ECO:0000269|PubMed:20852621}.
+CC   -!- INTERACTION:
+CC       O89053:Coro1a (xeno); NbExp=2; IntAct=EBI-1047114, EBI-6665847;
+CC       P42866:Oprm1 (xeno); NbExp=2; IntAct=EBI-7607528, EBI-5282656;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane
+CC       {ECO:0000250|UniProtKB:P63094}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P63094}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=8;
+CC       Name=Gnas-1; Synonyms=Alpha-S2, GNASl, Alpha-S-long;
+CC         IsoId=P63092-1, P04895-1;
+CC         Sequence=Displayed;
+CC       Name=Gnas-2; Synonyms=Alpha-S1, GNASs, Alpha-S-short;
+CC         IsoId=P63092-2, P04895-2;
+CC         Sequence=VSP_001833, VSP_001834;
+CC       Name=3;
+CC         IsoId=P63092-3; Sequence=VSP_026616, VSP_026617;
+CC         Note=No experimental confirmation available.;
+CC       Name=XLas-1;
+CC         IsoId=Q5JWF2-1; Sequence=External;
+CC         Note=Gene prediction confirmed by EST data.;
+CC       Name=XLas-2;
+CC         IsoId=Q5JWF2-2; Sequence=External;
+CC         Note=Gene prediction confirmed by EST data.;
+CC       Name=XLas-3;
+CC         IsoId=Q5JWF2-3; Sequence=External;
+CC       Name=Nesp55;
+CC         IsoId=O95467-1; Sequence=External;
+CC         Note=Shares no sequence similarity with other isoforms due to a
+CC         novel first exon containing the entire reading frame spliced to
+CC         shared exon 2 so that exons 2-13 make up the 3'-UTR.;
+CC       Name=4;
+CC         IsoId=P63092-4; Sequence=VSP_047325;
+CC         Note=Gene prediction based on EST data.;
+CC   -!- DISEASE: Albright hereditary osteodystrophy (AHO) [MIM:103580]: A
+CC       disorder characterized by short stature, obesity, round facies,
+CC       brachydactyly and subcutaneous calcification. It is often
+CC       associated with pseudohypoparathyoidism, hypocalcemia and elevated
+CC       PTH levels. {ECO:0000269|PubMed:11450852,
+CC       ECO:0000269|PubMed:11600516, ECO:0000269|PubMed:12624854,
+CC       ECO:0000269|PubMed:15817905, ECO:0000269|PubMed:7523385,
+CC       ECO:0000269|PubMed:8388883, ECO:0000269|PubMed:9328353,
+CC       ECO:0000269|PubMed:9727013}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- DISEASE: Pseudohypoparathyroidism 1A (PHP1A) [MIM:103580]: A
+CC       disorder characterized by end-organ resistance to parathyroid
+CC       hormone, hypocalcemia and hyperphosphatemia. It is commonly
+CC       associated with Albright hereditary osteodystrophy whose features
+CC       are short stature, obesity, round facies, short metacarpals and
+CC       ectopic calcification. {ECO:0000269|PubMed:11788646,
+CC       ECO:0000269|PubMed:11926205, ECO:0000269|PubMed:12656668}.
+CC       Note=The disease is caused by mutations affecting the gene
+CC       represented in this entry.
+CC   -!- DISEASE: McCune-Albright syndrome (MAS) [MIM:174800]:
+CC       Characterized by polyostotic fibrous dysplasia, cafe-au-lait
+CC       lesions, and a variety of endocrine disorders, including
+CC       precocious puberty, hyperthyroidism, hypercortisolism, growth
+CC       hormone excess, and hyperprolactinemia. The mutations producing
+CC       MAS lead to constitutive activation of GS alpha.
+CC       {ECO:0000269|PubMed:10571700, ECO:0000269|PubMed:1594625,
+CC       ECO:0000269|PubMed:1944469, ECO:0000269|PubMed:7751320}. Note=The
+CC       disease is caused by mutations affecting the gene represented in
+CC       this entry.
+CC   -!- DISEASE: Pituitary adenoma, growth hormone-secreting, 1 (PAGH1)
+CC       [MIM:102200]: A growth hormone-secreting, benign neoplasm of the
+CC       anterior pituitary gland, also known as somatotropinoma. It
+CC       clinically results in acromegaly, a condition characterized by
+CC       coarse facial features, protruding jaw, and enlarged extremities.
+CC       Excessive production of growth hormone in children or adolescents
+CC       before the closure of epiphyses causes gigantism, a condition
+CC       characterized by abnormally tall stature. Note=The disease is
+CC       caused by mutations affecting the gene represented in this entry.
+CC   -!- DISEASE: Progressive osseous heteroplasia (POH) [MIM:166350]: Rare
+CC       autosomal dominant disorder characterized by extensive dermal
+CC       ossification during childhood, followed by disabling and
+CC       widespread heterotopic ossification of skeletal muscle and deep
+CC       connective tissue. {ECO:0000269|PubMed:14723729}. Note=The disease
+CC       is caused by mutations affecting the gene represented in this
+CC       entry.
+CC   -!- DISEASE: ACTH-independent macronodular adrenal hyperplasia 1
+CC       (AIMAH1) [MIM:219080]: A rare adrenal defect characterized by
+CC       multiple, bilateral, non-pigmented, benign, adrenocortical
+CC       nodules. It results in excessive production of cortisol leading to
+CC       ACTH-independent Cushing syndrome. Clinical manifestations of
+CC       Cushing syndrome include facial and truncal obesity, abdominal
+CC       striae, muscular weakness, osteoporosis, arterial hypertension,
+CC       diabetes. {ECO:0000269|PubMed:12727968}. Note=The disease is
+CC       caused by mutations affecting the gene represented in this entry.
+CC   -!- DISEASE: Pseudohypoparathyroidism 1B (PHP1B) [MIM:603233]: A
+CC       disorder characterized by end-organ resistance to parathyroid
+CC       hormone, hypocalcemia and hyperphosphatemia. Patients affected
+CC       with PHP1B lack developmental defects characteristic of Albright
+CC       hereditary osteodystrophy, and typically show no other endocrine
+CC       abnormalities besides resistance to PTH.
+CC       {ECO:0000269|PubMed:11029463, ECO:0000269|PubMed:11067869,
+CC       ECO:0000269|PubMed:11294659, ECO:0000269|PubMed:12858292,
+CC       ECO:0000269|PubMed:14561710, ECO:0000269|PubMed:15592469,
+CC       ECO:0000269|PubMed:15800843}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry. Most
+CC       affected individuals have defects in methylation of the gene. In
+CC       some cases microdeletions involving the STX16 appear to cause loss
+CC       of methylation at exon A/B of GNAS, resulting in PHP1B. Paternal
+CC       uniparental isodisomy have also been observed.
+CC   -!- DISEASE: GNAS hyperfunction (GNASHYP) [MIM:139320]: This condition
+CC       is characterized by increased trauma-related bleeding tendency,
+CC       prolonged bleeding time, brachydactyly and mental retardation.
+CC       Both the XLas isoforms and the ALEX protein are mutated which
+CC       strongly reduces the interaction between them and this may allow
+CC       unimpeded activation of the XLas isoforms. Note=The disease is
+CC       caused by mutations affecting the gene represented in this entry.
+CC   -!- DISEASE: Pseudohypoparathyroidism 1C (PHP1C) [MIM:612462]: A
+CC       disorder characterized by end-organ resistance to parathyroid
+CC       hormone, hypocalcemia and hyperphosphatemia. It is commonly
+CC       associated with Albright hereditary osteodystrophy whose features
+CC       are short stature, obesity, round facies, short metacarpals and
+CC       ectopic calcification. {ECO:0000269|PubMed:21488135}. Note=The
+CC       disease is caused by mutations affecting the gene represented in
+CC       this entry.
+CC   -!- MISCELLANEOUS: This protein is produced by a bicistronic gene
+CC       which also produces the ALEX protein from an overlapping reading
+CC       frame.
+CC   -!- MISCELLANEOUS: The GNAS locus is imprinted in a complex manner,
+CC       giving rise to distinct paternally, maternally and biallelically
+CC       expressed proteins. The XLas isoforms are paternally derived, the
+CC       Gnas isoforms are biallelically derived and the Nesp55 isoforms
+CC       are maternally derived.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(s) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X04408; CAA27996.1; -; mRNA.
+DR   EMBL; X04409; CAA27997.1; -; mRNA.
+DR   EMBL; M21142; AAA53147.1; -; Genomic_DNA.
+DR   EMBL; M21139; AAA53147.1; JOINED; Genomic_DNA.
+DR   EMBL; M21740; AAA53147.1; JOINED; Genomic_DNA.
+DR   EMBL; M21140; AAA53147.1; JOINED; Genomic_DNA.
+DR   EMBL; M21741; AAA53147.1; JOINED; Genomic_DNA.
+DR   EMBL; M21141; AAA53147.1; JOINED; Genomic_DNA.
+DR   EMBL; M21142; AAA53146.1; -; Genomic_DNA.
+DR   EMBL; M21139; AAA53146.1; JOINED; Genomic_DNA.
+DR   EMBL; M21740; AAA53146.1; JOINED; Genomic_DNA.
+DR   EMBL; M21140; AAA53146.1; JOINED; Genomic_DNA.
+DR   EMBL; M21741; AAA53146.1; JOINED; Genomic_DNA.
+DR   EMBL; M21141; AAA53146.1; JOINED; Genomic_DNA.
+DR   EMBL; M21142; AAA53148.1; -; Genomic_DNA.
+DR   EMBL; M21139; AAA53148.1; JOINED; Genomic_DNA.
+DR   EMBL; M21141; AAA53148.1; JOINED; Genomic_DNA.
+DR   EMBL; M21740; AAA53148.1; JOINED; Genomic_DNA.
+DR   EMBL; M21741; AAA53148.1; JOINED; Genomic_DNA.
+DR   EMBL; M21142; AAA53149.1; -; Genomic_DNA.
+DR   EMBL; M21139; AAA53149.1; JOINED; Genomic_DNA.
+DR   EMBL; M21740; AAA53149.1; JOINED; Genomic_DNA.
+DR   EMBL; M21741; AAA53149.1; JOINED; Genomic_DNA.
+DR   EMBL; M21141; AAA53149.1; JOINED; Genomic_DNA.
+DR   EMBL; U12466; AAB60334.2; -; Genomic_DNA.
+DR   EMBL; X07036; CAA30084.1; -; mRNA.
+DR   EMBL; AF493897; AAM12611.1; -; mRNA.
+DR   EMBL; AF493898; AAM12612.1; -; mRNA.
+DR   EMBL; BT009905; AAP88907.1; -; mRNA.
+DR   EMBL; AL109840; CAI42914.1; -; Genomic_DNA.
+DR   EMBL; AL121917; CAI42914.1; JOINED; Genomic_DNA.
+DR   EMBL; AL109840; CAI42915.1; -; Genomic_DNA.
+DR   EMBL; AL121917; CAI42915.1; JOINED; Genomic_DNA.
+DR   EMBL; AL109840; CAI42916.1; -; Genomic_DNA.
+DR   EMBL; AL121917; CAI42916.1; JOINED; Genomic_DNA.
+DR   EMBL; AL109840; CAI42917.1; -; Genomic_DNA.
+DR   EMBL; AL121917; CAI42917.1; JOINED; Genomic_DNA.
+DR   EMBL; AL121917; CAI42546.1; -; Genomic_DNA.
+DR   EMBL; AL109840; CAI42546.1; JOINED; Genomic_DNA.
+DR   EMBL; AL121917; CAI42547.1; -; Genomic_DNA.
+DR   EMBL; AL109840; CAI42547.1; JOINED; Genomic_DNA.
+DR   EMBL; AL121917; CAI42548.1; -; Genomic_DNA.
+DR   EMBL; AL109840; CAI42548.1; JOINED; Genomic_DNA.
+DR   EMBL; AL121917; CAI42549.1; -; Genomic_DNA.
+DR   EMBL; AL109840; CAI42549.1; JOINED; Genomic_DNA.
+DR   EMBL; AL132655; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471077; EAW75468.1; -; Genomic_DNA.
+DR   EMBL; CH471077; EAW75460.1; -; Genomic_DNA.
+DR   EMBL; CH471077; EAW75463.1; -; Genomic_DNA.
+DR   EMBL; BC002722; AAH02722.1; -; mRNA.
+DR   EMBL; BC008855; AAH08855.1; -; mRNA.
+DR   EMBL; BC066923; AAH66923.1; -; mRNA.
+DR   EMBL; BC022875; AAH22875.1; -; mRNA.
+DR   EMBL; BC104928; AAI04929.1; -; mRNA.
+DR   EMBL; BC108315; AAI08316.2; -; mRNA.
+DR   EMBL; M14631; AAA52583.1; -; mRNA.
+DR   CCDS; CCDS13472.1; -.
+DR   CCDS; CCDS42892.1; -. [P63092-3]
+DR   CCDS; CCDS46623.1; -. [P63092-4]
+DR   CCDS; CCDS46624.1; -. [P63092-2]
+DR   PIR; B31927; RGHUA2.
+DR   PIR; C31927; RGHUA1.
+DR   RefSeq; NP_000507.1; NM_000516.5. [P63092-1]
+DR   RefSeq; NP_001070956.1; NM_001077488.3. [P63092-4]
+DR   RefSeq; NP_001070957.1; NM_001077489.3. [P63092-3]
+DR   RefSeq; NP_001070958.1; NM_001077490.2.
+DR   RefSeq; NP_001296769.1; NM_001309840.1.
+DR   RefSeq; NP_536350.2; NM_080425.3.
+DR   RefSeq; NP_536351.1; NM_080426.3. [P63092-2]
+DR   UniGene; Hs.125898; -.
+DR   ProteinModelPortal; P63092; -.
+DR   SMR; P63092; 39-388.
+DR   BioGrid; 109040; 84.
+DR   IntAct; P63092; 22.
+DR   MINT; MINT-262348; -.
+DR   STRING; 9606.ENSP00000360141; -.
+DR   ChEMBL; CHEMBL4377; -.
+DR   iPTMnet; P63092; -.
+DR   SwissPalm; P63092; -.
+DR   BioMuta; NPEPL1; -.
+DR   DMDM; 52000961; -.
+DR   EPD; P63092; -.
+DR   PaxDb; P63092; -.
+DR   PeptideAtlas; P63092; -.
+DR   PRIDE; P63092; -.
+DR   DNASU; 2778; -.
+DR   Ensembl; ENST00000265620; ENSP00000265620; ENSG00000087460. [P63092-3]
+DR   Ensembl; ENST00000354359; ENSP00000346328; ENSG00000087460. [P63092-4]
+DR   Ensembl; ENST00000371085; ENSP00000360126; ENSG00000087460. [P63092-1]
+DR   Ensembl; ENST00000371095; ENSP00000360136; ENSG00000087460. [P63092-2]
+DR   GeneID; 2778; -.
+DR   KEGG; hsa:2778; -.
+DR   UCSC; uc002yaa.4; human.
+DR   CTD; 2778; -.
+DR   GeneCards; GNAS; -.
+DR   HGNC; HGNC:4392; GNAS.
+DR   HPA; CAB010337; -.
+DR   MalaCards; GNAS; -.
+DR   MIM; 102200; phenotype.
+DR   MIM; 103580; phenotype.
+DR   MIM; 139320; gene+phenotype.
+DR   MIM; 166350; phenotype.
+DR   MIM; 174800; phenotype.
+DR   MIM; 219080; phenotype.
+DR   MIM; 603233; phenotype.
+DR   MIM; 612462; phenotype.
+DR   neXtProt; NX_P63092; -.
+DR   Orphanet; 562; McCune-Albright syndrome.
+DR   Orphanet; 93277; Monostotic fibrous dysplasia.
+DR   Orphanet; 93276; Polyostotic fibrous dysplasia.
+DR   Orphanet; 2762; Progressive osseous heteroplasia.
+DR   Orphanet; 79443; Pseudohypoparathyroidism type 1A.
+DR   Orphanet; 94089; Pseudohypoparathyroidism type 1B.
+DR   Orphanet; 79444; Pseudohypoparathyroidism type 1C.
+DR   Orphanet; 79445; Pseudopseudohypoparathyroidism.
+DR   PharmGKB; PA175; -.
+DR   eggNOG; KOG0099; Eukaryota.
+DR   eggNOG; ENOG410XPC4; LUCA.
+DR   GeneTree; ENSGT00770000120503; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   KO; K04632; -.
+DR   OMA; YEHTKTL; -.
+DR   Reactome; R-HSA-163359; Glucagon signaling in metabolic regulation.
+DR   Reactome; R-HSA-164378; PKA activation in glucagon signalling.
+DR   Reactome; R-HSA-381676; Glucagon-like Peptide-1 (GLP1) regulates insulin secretion.
+DR   Reactome; R-HSA-392851; Prostacyclin signalling through prostacyclin receptor.
+DR   Reactome; R-HSA-418555; G alpha (s) signalling events.
+DR   Reactome; R-HSA-418594; G alpha (i) signalling events.
+DR   Reactome; R-HSA-418597; G alpha (z) signalling events.
+DR   Reactome; R-HSA-420092; Glucagon-type ligand receptors.
+DR   Reactome; R-HSA-432040; Vasopressin regulates renal water homeostasis via Aquaporins.
+DR   Reactome; R-HSA-5610787; Hedgehog 'off' state.
+DR   SIGNOR; P63092; -.
+DR   ChiTaRS; GNAS; human.
+DR   GenomeRNAi; 2778; -.
+DR   Proteomes; UP000005640; Chromosome 20.
+DR   Bgee; ENSG00000087460; -.
+DR   CleanEx; HS_GNAS; -.
+DR   ExpressionAtlas; P63092; baseline and differential.
+DR   Genevisible; P63092; HS.
+DR   GO; GO:0005737; C:cytoplasm; IDA:LIFEdb.
+DR   GO; GO:0005829; C:cytosol; IDA:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; TAS:UniProtKB.
+DR   GO; GO:0031224; C:intrinsic component of membrane; IDA:UniProtKB.
+DR   GO; GO:0016020; C:membrane; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; TAS:UniProtKB.
+DR   GO; GO:0032588; C:trans-Golgi network membrane; IDA:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; TAS:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IDA:UniProtKB.
+DR   GO; GO:0007190; P:activation of adenylate cyclase activity; TAS:UniProtKB.
+DR   GO; GO:0071880; P:adenylate cyclase-activating adrenergic receptor signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0007191; P:adenylate cyclase-activating dopamine receptor signaling pathway; ISS:BHF-UCL.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0060348; P:bone development; IDA:UniProtKB.
+DR   GO; GO:0071870; P:cellular response to catecholamine stimulus; ISS:BHF-UCL.
+DR   GO; GO:0071377; P:cellular response to glucagon stimulus; TAS:Reactome.
+DR   GO; GO:0071380; P:cellular response to prostaglandin E stimulus; ISS:BHF-UCL.
+DR   GO; GO:0050890; P:cognition; IDA:UniProtKB.
+DR   GO; GO:0048589; P:developmental growth; IDA:UniProtKB.
+DR   GO; GO:0060789; P:hair follicle placode formation; IDA:UniProtKB.
+DR   GO; GO:0046907; P:intracellular transport; NAS:UniProtKB.
+DR   GO; GO:0070527; P:platelet aggregation; IDA:UniProtKB.
+DR   GO; GO:0030819; P:positive regulation of cAMP biosynthetic process; IDA:UniProtKB.
+DR   GO; GO:0043950; P:positive regulation of cAMP-mediated signaling; IDA:UniProtKB.
+DR   GO; GO:0043547; P:positive regulation of GTPase activity; IDA:UniProtKB.
+DR   GO; GO:0050796; P:regulation of insulin secretion; TAS:Reactome.
+DR   GO; GO:0003091; P:renal water homeostasis; TAS:Reactome.
+DR   GO; GO:0007608; P:sensory perception of smell; TAS:UniProtKB.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000367; Gprotein_alpha_S.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 2.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00443; GPROTEINAS.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   ADP-ribosylation; Alternative splicing; Cell membrane;
+KW   Complete proteome; Cushing syndrome; Direct protein sequencing;
+KW   Disease mutation; GTP-binding; Isopeptide bond; Lipoprotein;
+KW   Magnesium; Membrane; Metal-binding; Nucleotide-binding; Obesity;
+KW   Palmitate; Phosphoprotein; Polymorphism; Proto-oncogene;
+KW   Reference proteome; Transducer; Ubl conjugation.
+FT   CHAIN         1    394       Guanine nucleotide-binding protein G(s)
+FT                                subunit alpha isoforms short.
+FT                                /FTId=PRO_0000203721.
+FT   NP_BIND      47     55       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   NP_BIND     197    204       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   NP_BIND     223    227       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   NP_BIND     292    295       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   METAL        54     54       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   METAL       204    204       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   BINDING     366    366       GTP; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   MOD_RES     201    201       ADP-ribosylarginine; by cholera toxin.
+FT                                {ECO:0000250}.
+FT   MOD_RES     352    352       Phosphoserine.
+FT                                {ECO:0000244|PubMed:20068231}.
+FT   LIPID         2      2       N-palmitoyl glycine.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   LIPID         3      3       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:21044946}.
+FT   CROSSLNK    300    300       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in ubiquitin).
+FT   VAR_SEQ      71     72       EG -> DS (in isoform Gnas-2).
+FT                                {ECO:0000303|PubMed:3093273,
+FT                                ECO:0000303|Ref.4}.
+FT                                /FTId=VSP_001833.
+FT   VAR_SEQ      71     71       E -> D (in isoform 3).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_026616.
+FT   VAR_SEQ      72     86       Missing (in isoform 3).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_026617.
+FT   VAR_SEQ      73     86       Missing (in isoform Gnas-2).
+FT                                {ECO:0000303|PubMed:3093273,
+FT                                ECO:0000303|Ref.4}.
+FT                                /FTId=VSP_001834.
+FT   VAR_SEQ      86     86       G -> GS (in isoform 4).
+FT                                {ECO:0000303|PubMed:15489334,
+FT                                ECO:0000303|PubMed:3024154}.
+FT                                /FTId=VSP_047325.
+FT   VARIANT      99     99       L -> P (in AHO; dbSNP:rs137854531).
+FT                                {ECO:0000269|PubMed:8388883}.
+FT                                /FTId=VAR_003439.
+FT   VARIANT     106    106       I -> S (in AHO/PHP1A).
+FT                                {ECO:0000269|PubMed:15817905}.
+FT                                /FTId=VAR_031872.
+FT   VARIANT     115    115       P -> L (in AHO; dbSNP:rs137854539).
+FT                                {ECO:0000269|PubMed:11600516}.
+FT                                /FTId=VAR_017843.
+FT   VARIANT     156    156       D -> N (in PHP1A).
+FT                                {ECO:0000269|PubMed:11788646}.
+FT                                /FTId=VAR_031873.
+FT   VARIANT     159    159       V -> M (in PHP1A).
+FT                                {ECO:0000269|PubMed:11788646}.
+FT                                /FTId=VAR_031874.
+FT   VARIANT     165    165       R -> C (in AHO; dbSNP:rs137854532).
+FT                                {ECO:0000269|PubMed:8388883}.
+FT                                /FTId=VAR_003440.
+FT   VARIANT     201    201       R -> C (in MAS; also found in
+FT                                somatotrophinoma; dbSNP:rs11554273).
+FT                                {ECO:0000269|PubMed:1944469,
+FT                                ECO:0000269|PubMed:2549426}.
+FT                                /FTId=VAR_003442.
+FT   VARIANT     201    201       R -> G (in MAS; dbSNP:rs11554273).
+FT                                {ECO:0000269|PubMed:10571700}.
+FT                                /FTId=VAR_017844.
+FT   VARIANT     201    201       R -> H (in MAS and AIMAH1; also found in
+FT                                somatotrophinoma; dbSNP:rs121913495).
+FT                                {ECO:0000269|PubMed:12727968,
+FT                                ECO:0000269|PubMed:1594625,
+FT                                ECO:0000269|PubMed:1944469,
+FT                                ECO:0000269|PubMed:2549426}.
+FT                                /FTId=VAR_003441.
+FT   VARIANT     201    201       R -> L (in non-MAS endocrine tumors).
+FT                                {ECO:0000269|PubMed:7751320}.
+FT                                /FTId=VAR_017845.
+FT   VARIANT     201    201       R -> S (in AIMAH1; also found in
+FT                                pituitary tumor and polyostotic fibrous
+FT                                dysplasia; dbSNP:rs11554273).
+FT                                {ECO:0000269|PubMed:12727968,
+FT                                ECO:0000269|PubMed:8766942,
+FT                                ECO:0000269|PubMed:9267696}.
+FT                                /FTId=VAR_017846.
+FT   VARIANT     227    227       Q -> H (in pituitary adenomas; also found
+FT                                in a patient with severe Cushing
+FT                                syndrome; dbSNP:rs137854533).
+FT                                {ECO:0000269|PubMed:7737262}.
+FT                                /FTId=VAR_017847.
+FT   VARIANT     227    227       Q -> R (in somatotrophinoma;
+FT                                dbSNP:rs121913494).
+FT                                {ECO:0000269|PubMed:2549426}.
+FT                                /FTId=VAR_003443.
+FT   VARIANT     231    231       R -> H (in AHO; impairs the ability to
+FT                                mediate hormonal stimulation;
+FT                                dbSNP:rs137854538).
+FT                                {ECO:0000269|PubMed:11450852,
+FT                                ECO:0000269|PubMed:8702665,
+FT                                ECO:0000269|PubMed:9159128}.
+FT                                /FTId=VAR_017848.
+FT   VARIANT     242    242       T -> I (in AHO).
+FT                                {ECO:0000269|PubMed:12624854}.
+FT                                /FTId=VAR_031875.
+FT   VARIANT     246    246       F -> S (in AHO).
+FT                                {ECO:0000269|PubMed:12624854}.
+FT                                /FTId=VAR_031876.
+FT   VARIANT     250    250       S -> R (in AHO; may alter guanine
+FT                                nucleotide binding which could lead to
+FT                                thermolability and impaired function;
+FT                                dbSNP:rs137854534).
+FT                                {ECO:0000269|PubMed:9328353}.
+FT                                /FTId=VAR_017849.
+FT   VARIANT     258    258       R -> W (in AHO; defective GDP binding
+FT                                resulting in increased thermolability and
+FT                                decreased activation; dbSNP:rs137854535).
+FT                                {ECO:0000269|PubMed:9727013}.
+FT                                /FTId=VAR_015388.
+FT   VARIANT     259    259       E -> V (in AHO).
+FT                                {ECO:0000269|PubMed:12624854}.
+FT                                /FTId=VAR_031877.
+FT   VARIANT     280    280       R -> G (in PHP1A).
+FT                                {ECO:0000269|PubMed:11926205}.
+FT                                /FTId=VAR_031878.
+FT   VARIANT     280    280       R -> K (in PHP1A).
+FT                                {ECO:0000269|PubMed:11788646}.
+FT                                /FTId=VAR_031879.
+FT   VARIANT     281    281       W -> R (in POH).
+FT                                {ECO:0000269|PubMed:14723729}.
+FT                                /FTId=VAR_031880.
+FT   VARIANT     338    338       K -> N (in PHP1A).
+FT                                {ECO:0000269|PubMed:12656668}.
+FT                                /FTId=VAR_031881.
+FT   VARIANT     366    366       A -> S (in PHP1A; the patient also shows
+FT                                testotoxicosis; constitutively activates
+FT                                adenylyl cyclase in vitro; rapidly
+FT                                degraded at 37 degrees resulting in loss
+FT                                of Gs activity; dbSNP:rs137854537).
+FT                                {ECO:0000269|PubMed:8072545}.
+FT                                /FTId=VAR_017850.
+FT   VARIANT     380    380       R -> L (in dbSNP:rs8986).
+FT                                /FTId=VAR_049358.
+FT   VARIANT     382    382       Missing (unable to interact with the
+FT                                receptor for PTH).
+FT                                {ECO:0000269|PubMed:11029463}.
+FT                                /FTId=VAR_034744.
+FT   VARIANT     385    385       R -> H (in AHO; uncouples receptors from
+FT                                adenylyl cyclases).
+FT                                {ECO:0000269|PubMed:7523385}.
+FT                                /FTId=VAR_003444.
+FT   VARIANT     388    388       L -> R (in PHP1C; significantly reduces
+FT                                receptor-mediated activation; displays
+FT                                normal receptor-independent activation;
+FT                                dbSNP:rs397514457).
+FT                                {ECO:0000269|PubMed:21488135}.
+FT                                /FTId=VAR_066387.
+FT   VARIANT     392    392       E -> K (in PHP1C; significantly reduces
+FT                                receptor-mediated activation; displays
+FT                                normal receptor-independent activation;
+FT                                dbSNP:rs397514456).
+FT                                {ECO:0000269|PubMed:21488135}.
+FT                                /FTId=VAR_066388.
+FT   MUTAGEN     170    170       Q->A: Increases GDP release but does not
+FT                                affect receptor-mediated activation.
+FT                                {ECO:0000269|PubMed:10200251}.
+FT   MUTAGEN     258    258       R->A: Increases GDP release and impairs
+FT                                receptor-mediated activation; markedly
+FT                                elevated intrinsic GTPase rate which will
+FT                                lead to more rapid inactivation.
+FT                                {ECO:0000269|PubMed:10200251,
+FT                                ECO:0000269|PubMed:9727013}.
+FT   CONFLICT      3      3       C -> Y (in Ref. 8; AAH66923).
+FT                                {ECO:0000305}.
+FT   CONFLICT      6      6       N -> T (in Ref. 3; CAA30084).
+FT                                {ECO:0000305}.
+FT   CONFLICT     72     72       Missing (in Ref. 8; AAH66923).
+FT                                {ECO:0000305}.
+FT   CONFLICT    167    167       N -> D (in Ref. 8; AAH22875).
+FT                                {ECO:0000305}.
+FT   CONFLICT    230    230       E -> Q (in Ref. 9; AAA52583).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   394 AA;  45665 MW;  CD541181FC4412EF CRC64;
+     MGCLGNSKTE DQRNEEKAQR EANKKIEKQL QKDKQVYRAT HRLLLLGAGE SGKSTIVKQM
+     RILHVNGFNG EGGEEDPQAA RSNSDGEKAT KVQDIKNNLK EAIETIVAAM SNLVPPVELA
+     NPENQFRVDY ILSVMNVPDF DFPPEFYEHA KALWEDEGVR ACYERSNEYQ LIDCAQYFLD
+     KIDVIKQADY VPSDQDLLRC RVLTSGIFET KFQVDKVNFH MFDVGGQRDE RRKWIQCFND
+     VTAIIFVVAS SSYNMVIRED NQTNRLQEAL NLFKSIWNNR WLRTISVILF LNKQDLLAEK
+     VLAGKSKIED YFPEFARYTT PEDATPEPGE DPRVTRAKYF IRDEFLRIST ASGDGRHYCY
+     PHFTCAVDTE NIRRVFNDCR DIIQRMHLRQ YELL
+//

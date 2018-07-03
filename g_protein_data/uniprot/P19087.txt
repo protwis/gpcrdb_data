@@ -1,0 +1,224 @@
+ID   GNAT2_HUMAN             Reviewed;         354 AA.
+AC   P19087;
+DT   01-NOV-1990, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   05-OCT-2016, entry version 182.
+DE   RecName: Full=Guanine nucleotide-binding protein G(t) subunit alpha-2;
+DE   AltName: Full=Transducin alpha-2 chain;
+GN   Name=GNAT2; Synonyms=GNATC;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Retina;
+RX   PubMed=2534964; DOI=10.1016/0896-6273(89)90261-4;
+RA   Lerea C.L., Bunt-Milam A.H., Hurley J.B.;
+RT   "Alpha transducin is present in blue-, green-, and red-sensitive cone
+RT   photoreceptors in the human retina.";
+RL   Neuron 3:367-376(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA].
+RX   PubMed=1936270; DOI=10.1016/0014-5793(91)81294-I;
+RA   Kubo M., Hirano T., Kakinuma M.;
+RT   "Molecular cloning and sequence analysis of cDNA and genomic DNA for
+RT   the human cone transducin alpha subunit.";
+RL   FEBS Lett. 291:245-248(1991).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8406495; DOI=10.1006/geno.1993.1345;
+RA   Morris A.T., Fong S.;
+RT   "Characterization of the gene encoding human cone transducin alpha-
+RT   subunit (GNAT2).";
+RL   Genomics 17:442-448(1993).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction
+RT   sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Eye;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   INVOLVEMENT IN ACHM4.
+RX   PubMed=12077706; DOI=10.1086/341835;
+RA   Kohl S., Baumann B., Rosenberg T., Kellner U., Lorenz B., Vadala M.,
+RA   Jacobson S.G., Wissinger B.;
+RT   "Mutations in the cone photoreceptor G-protein alpha-subunit gene
+RT   GNAT2 in patients with achromatopsia.";
+RL   Am. J. Hum. Genet. 71:422-425(2002).
+RN   [7]
+RP   VARIANTS ILE-107 AND MET-124.
+RX   PubMed=15712225; DOI=10.1002/humu.20142;
+RA   Nishiguchi K.M., Sandberg M.A., Gorji N., Berson E.L., Dryja T.P.;
+RT   "Cone cGMP-gated channel mutations and clinical findings in patients
+RT   with achromatopsia, macular degeneration, and other hereditary cone
+RT   diseases.";
+RL   Hum. Mutat. 25:248-258(2005).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. Transducin is an amplifier and one of the
+CC       transducers of a visual impulse that performs the coupling between
+CC       rhodopsin and cGMP-phosphodiesterase.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site.
+CC   -!- TISSUE SPECIFICITY: Retinal rod outer segment.
+CC   -!- DISEASE: Achromatopsia 4 (ACHM4) [MIM:613856]: An ocular
+CC       stationary disorder due to the absence of functioning cone
+CC       photoreceptors in the retina. It is characterized by total
+CC       colorblindness, low visual acuity, photophobia and nystagmus.
+CC       {ECO:0000269|PubMed:12077706}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D10384; BAA01211.1; -; Genomic_DNA.
+DR   EMBL; Z18859; CAA79310.1; -; Genomic_DNA.
+DR   EMBL; AF493909; AAM12623.1; -; mRNA.
+DR   EMBL; BC000233; AAH00233.1; -; mRNA.
+DR   CCDS; CCDS803.1; -.
+DR   PIR; A47219; RGHUT2.
+DR   RefSeq; NP_005263.1; NM_005272.3.
+DR   RefSeq; XP_011539566.1; XM_011541264.2.
+DR   UniGene; Hs.36973; -.
+DR   ProteinModelPortal; P19087; -.
+DR   SMR; P19087; 1-354.
+DR   BioGrid; 109042; 16.
+DR   IntAct; P19087; 1.
+DR   STRING; 9606.ENSP00000251337; -.
+DR   iPTMnet; P19087; -.
+DR   SwissPalm; P19087; -.
+DR   BioMuta; GNAT2; -.
+DR   DMDM; 232151; -.
+DR   EPD; P19087; -.
+DR   PaxDb; P19087; -.
+DR   PeptideAtlas; P19087; -.
+DR   PRIDE; P19087; -.
+DR   DNASU; 2780; -.
+DR   Ensembl; ENST00000351050; ENSP00000251337; ENSG00000134183.
+DR   GeneID; 2780; -.
+DR   KEGG; hsa:2780; -.
+DR   CTD; 2780; -.
+DR   GeneCards; GNAT2; -.
+DR   GeneReviews; GNAT2; -.
+DR   HGNC; HGNC:4394; GNAT2.
+DR   HPA; CAB031479; -.
+DR   MalaCards; GNAT2; -.
+DR   MIM; 139340; gene.
+DR   MIM; 613856; phenotype.
+DR   neXtProt; NX_P19087; -.
+DR   Orphanet; 49382; Achromatopsia.
+DR   Orphanet; 1871; Progressive cone dystrophy.
+DR   PharmGKB; PA28774; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P19087; -.
+DR   KO; K04631; -.
+DR   OMA; ECLEYKA; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P19087; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-HSA-112043; PLC beta mediated events.
+DR   Reactome; R-HSA-202040; G-protein activation.
+DR   Reactome; R-HSA-4086398; Ca2+ pathway.
+DR   Reactome; R-HSA-418594; G alpha (i) signalling events.
+DR   Reactome; R-HSA-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   SIGNOR; P19087; -.
+DR   ChiTaRS; GNAT2; human.
+DR   GeneWiki; GNAT2; -.
+DR   GenomeRNAi; 2780; -.
+DR   PRO; PR:P19087; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   Bgee; ENSG00000134183; -.
+DR   CleanEx; HS_GNAT2; -.
+DR   ExpressionAtlas; P19087; baseline and differential.
+DR   Genevisible; P19087; HS.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; NAS:UniProtKB.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IDA:UniProtKB.
+DR   GO; GO:0001750; C:photoreceptor outer segment; IDA:UniProtKB.
+DR   GO; GO:0042622; C:photoreceptor outer segment membrane; ISS:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0008020; F:G-protein coupled photoreceptor activity; NAS:UniProtKB.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; NAS:UniProtKB.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0001580; P:detection of chemical stimulus involved in sensory perception of bitter taste; IBA:GO_Central.
+DR   GO; GO:0050908; P:detection of light stimulus involved in visual perception; IMP:UniProtKB.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; NAS:UniProtKB.
+DR   GO; GO:0007602; P:phototransduction; NAS:UniProtKB.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; IEA:Ensembl.
+DR   GO; GO:0006457; P:protein folding; TAS:Reactome.
+DR   GO; GO:0009642; P:response to light intensity; IEA:Ensembl.
+DR   GO; GO:0046549; P:retinal cone cell development; IEA:Ensembl.
+DR   GO; GO:0007601; P:visual perception; NAS:UniProtKB.
+DR   GO; GO:0007223; P:Wnt signaling pathway, calcium modulating pathway; TAS:Reactome.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   ADP-ribosylation; Complete proteome; GTP-binding; Lipoprotein;
+KW   Magnesium; Metal-binding; Myristate; Nucleotide-binding; Polymorphism;
+KW   Reference proteome; Sensory transduction; Transducer; Vision.
+FT   INIT_MET      1      1       Removed.
+FT   CHAIN         2    354       Guanine nucleotide-binding protein G(t)
+FT                                subunit alpha-2.
+FT                                /FTId=PRO_0000203740.
+FT   NP_BIND      40     47       GTP. {ECO:0000250}.
+FT   NP_BIND     175    181       GTP. {ECO:0000250}.
+FT   NP_BIND     200    204       GTP. {ECO:0000250}.
+FT   NP_BIND     269    272       GTP. {ECO:0000250}.
+FT   METAL        47     47       Magnesium. {ECO:0000250}.
+FT   METAL       181    181       Magnesium. {ECO:0000250}.
+FT   BINDING     326    326       GTP; via amide nitrogen. {ECO:0000250}.
+FT   MOD_RES     178    178       ADP-ribosylarginine; by cholera toxin.
+FT                                {ECO:0000250}.
+FT   MOD_RES     351    351       ADP-ribosylcysteine; by pertussis toxin.
+FT                                {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine. {ECO:0000250}.
+FT   VARIANT     107    107       L -> I (in dbSNP:rs3738766).
+FT                                {ECO:0000269|PubMed:15712225}.
+FT                                /FTId=VAR_047623.
+FT   VARIANT     124    124       V -> M (in dbSNP:rs41280330).
+FT                                {ECO:0000269|PubMed:15712225}.
+FT                                /FTId=VAR_047624.
+FT   VARIANT     183    183       G -> D (in dbSNP:rs1799940).
+FT                                /FTId=VAR_014783.
+FT   CONFLICT    106    107       QL -> HV (in Ref. 1). {ECO:0000305}.
+SQ   SEQUENCE   354 AA;  40176 MW;  BFF8D50C024F18DA CRC64;
+     MGSGASAEDK ELAKRSKELE KKLQEDADKE AKTVKLLLLG AGESGKSTIV KQMKIIHQDG
+     YSPEECLEFK AIIYGNVLQS ILAIIRAMTT LGIDYAEPSC ADDGRQLNNL ADSIEEGTMP
+     PELVEVIRRL WKDGGVQACF ERAAEYQLND SASYYLNQLE RITDPEYLPS EQDVLRSRVK
+     TTGIIETKFS VKDLNFRMFD VGGQRSERKK WIHCFEGVTC IIFCAALSAY DMVLVEDDEV
+     NRMHESLHLF NSICNHKFFA ATSIVLFLNK KDLFEEKIKK VHLSICFPEY DGNNSYDDAG
+     NYIKSQFLDL NMRKDVKEIY SHMTCATDTQ NVKFVFDAVT DIIIKENLKD CGLF
+//

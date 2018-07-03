@@ -1,0 +1,170 @@
+ID   D4AE68_RAT              Unreviewed;       359 AA.
+AC   D4AE68;
+DT   20-APR-2010, integrated into UniProtKB/TrEMBL.
+DT   03-APR-2013, sequence version 2.
+DT   25-APR-2018, entry version 73.
+DE   SubName: Full=Guanine nucleotide binding protein, alpha q polypeptide, isoform CRA_a {ECO:0000313|EMBL:EDM12961.1};
+DE   SubName: Full=Guanine nucleotide-binding protein G(q) subunit alpha {ECO:0000313|Ensembl:ENSRNOP00000019174};
+GN   Name=Gnaq {ECO:0000313|EMBL:EDM12961.1,
+GN   ECO:0000313|Ensembl:ENSRNOP00000019174, ECO:0000313|RGD:620770};
+GN   ORFNames=rCG_47814 {ECO:0000313|EMBL:EDM12961.1};
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116 {ECO:0000313|Ensembl:ENSRNOP00000019174, ECO:0000313|Proteomes:UP000002494};
+RN   [1] {ECO:0000313|Ensembl:ENSRNOP00000019174, ECO:0000313|Proteomes:UP000002494}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Brown Norway {ECO:0000313|Ensembl:ENSRNOP00000019174,
+RC   ECO:0000313|Proteomes:UP000002494};
+RX   PubMed=15057822; DOI=10.1038/nature02426;
+RG   Rat Genome Sequencing Project Consortium;
+RA   Gibbs R.A., Weinstock G.M., Metzker M.L., Muzny D.M., Sodergren E.J.,
+RA   Scherer S., Scott G., Steffen D., Worley K.C., Burch P.E., Okwuonu G.,
+RA   Hines S., Lewis L., Deramo C., Delgado O., Dugan-Rocha S., Miner G.,
+RA   Morgan M., Hawes A., Gill R., Holt R.A., Adams M.D., Amanatides P.G.,
+RA   Baden-Tillson H., Barnstead M., Chin S., Evans C.A., Ferriera S.,
+RA   Fosler C., Glodek A., Gu Z., Jennings D., Kraft C.L., Nguyen T.,
+RA   Pfannkoch C.M., Sitter C., Sutton G.G., Venter J.C., Woodage T.,
+RA   Smith D., Lee H.-M., Gustafson E., Cahill P., Kana A.,
+RA   Doucette-Stamm L., Weinstock K., Fechtel K., Weiss R.B., Dunn D.M.,
+RA   Green E.D., Blakesley R.W., Bouffard G.G., De Jong P.J., Osoegawa K.,
+RA   Zhu B., Marra M., Schein J., Bosdet I., Fjell C., Jones S.,
+RA   Krzywinski M., Mathewson C., Siddiqui A., Wye N., McPherson J.,
+RA   Zhao S., Fraser C.M., Shetty J., Shatsman S., Geer K., Chen Y.,
+RA   Abramzon S., Nierman W.C., Havlak P.H., Chen R., Durbin K.J., Egan A.,
+RA   Ren Y., Song X.-Z., Li B., Liu Y., Qin X., Cawley S., Cooney A.J.,
+RA   D'Souza L.M., Martin K., Wu J.Q., Gonzalez-Garay M.L., Jackson A.R.,
+RA   Kalafus K.J., McLeod M.P., Milosavljevic A., Virk D., Volkov A.,
+RA   Wheeler D.A., Zhang Z., Bailey J.A., Eichler E.E., Tuzun E.,
+RA   Birney E., Mongin E., Ureta-Vidal A., Woodwark C., Zdobnov E.,
+RA   Bork P., Suyama M., Torrents D., Alexandersson M., Trask B.J.,
+RA   Young J.M., Huang H., Wang H., Xing H., Daniels S., Gietzen D.,
+RA   Schmidt J., Stevens K., Vitt U., Wingrove J., Camara F., Mar Alba M.,
+RA   Abril J.F., Guigo R., Smit A., Dubchak I., Rubin E.M., Couronne O.,
+RA   Poliakov A., Huebner N., Ganten D., Goesele C., Hummel O.,
+RA   Kreitler T., Lee Y.-A., Monti J., Schulz H., Zimdahl H.,
+RA   Himmelbauer H., Lehrach H., Jacob H.J., Bromberg S.,
+RA   Gullings-Handley J., Jensen-Seaman M.I., Kwitek A.E., Lazar J.,
+RA   Pasko D., Tonellato P.J., Twigger S., Ponting C.P., Duarte J.M.,
+RA   Rice S., Goodstadt L., Beatson S.A., Emes R.D., Winter E.E.,
+RA   Webber C., Brandt P., Nyakatura G., Adetobi M., Chiaromonte F.,
+RA   Elnitski L., Eswara P., Hardison R.C., Hou M., Kolbe D., Makova K.,
+RA   Miller W., Nekrutenko A., Riemer C., Schwartz S., Taylor J., Yang S.,
+RA   Zhang Y., Lindpaintner K., Andrews T.D., Caccamo M., Clamp M.,
+RA   Clarke L., Curwen V., Durbin R.M., Eyras E., Searle S.M., Cooper G.M.,
+RA   Batzoglou S., Brudno M., Sidow A., Stone E.A., Payseur B.A.,
+RA   Bourque G., Lopez-Otin C., Puente X.S., Chakrabarti K., Chatterji S.,
+RA   Dewey C., Pachter L., Bray N., Yap V.B., Caspi A., Tesler G.,
+RA   Pevzner P.A., Haussler D., Roskin K.M., Baertsch R., Clawson H.,
+RA   Furey T.S., Hinrichs A.S., Karolchik D., Kent W.J., Rosenbloom K.R.,
+RA   Trumbower H., Weirauch M., Cooper D.N., Stenson P.D., Ma B., Brent M.,
+RA   Arumugam M., Shteynberg D., Copley R.R., Taylor M.S., Riethman H.,
+RA   Mudunuri U., Peterson J., Guyer M., Felsenfeld A., Old S., Mockrin S.,
+RA   Collins F.S.;
+RT   "Genome sequence of the Brown Norway rat yields insights into
+RT   mammalian evolution.";
+RL   Nature 428:493-521(2004).
+RN   [2] {ECO:0000313|EMBL:EDM12961.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=BN {ECO:0000313|EMBL:EDM12961.1};
+RX   PubMed=15632090; DOI=10.1101/gr.2889405;
+RA   Florea L., Di Francesco V., Miller J., Turner R., Yao A., Harris M.,
+RA   Walenz B., Mobarry C., Merkulov G.V., Charlab R., Dew I., Deng Z.,
+RA   Istrail S., Li P., Sutton G.;
+RT   "Gene and alternative splicing annotation with AIR.";
+RL   Genome Res. 15:54-66(2005).
+RN   [3] {ECO:0000313|EMBL:EDM12961.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=BN {ECO:0000313|EMBL:EDM12961.1};
+RA   Mural R.J., Li P.W., Adams M.D., Amanatides P.G., Baden-Tillson H.,
+RA   Barnstead M., Chin S.H., Dew I., Evans C.A., Ferriera S., Flanigan M.,
+RA   Fosler C., Glodek A., Gu Z., Holt R.A., Jennings D., Kraft C.L.,
+RA   Lu F., Nguyen T., Nusskern D.R., Pfannkoch C.M., Sitter C.,
+RA   Sutton G.G., Venter J.C., Wang Z., Woodage T., Zheng X.H., Zhong F.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|Ensembl:ENSRNOP00000019174}
+RP   IDENTIFICATION.
+RC   STRAIN=Brown Norway {ECO:0000313|Ensembl:ENSRNOP00000019174};
+RG   Ensembl;
+RL   Submitted (JUL-2011) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AABR07006435; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH473953; EDM12961.1; -; Genomic_DNA.
+DR   UniGene; Rn.22817; -.
+DR   SMR; D4AE68; -.
+DR   PeptideAtlas; D4AE68; -.
+DR   Ensembl; ENSRNOT00000019174; ENSRNOP00000019174; ENSRNOG00000014183.
+DR   RGD; 620770; Gnaq.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   OMA; WRFTQTN; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   Reactome; R-RNO-399997; Acetylcholine regulates insulin secretion.
+DR   Reactome; R-RNO-416476; G alpha (q) signalling events.
+DR   Reactome; R-RNO-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-RNO-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-RNO-432142; Platelet sensitization by LDL.
+DR   Reactome; R-RNO-434316; Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion.
+DR   Reactome; R-RNO-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Proteomes; UP000002494; Chromosome 1.
+DR   Bgee; ENSRNOG00000014183; -.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0016020; C:membrane; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005096; F:GTPase activator activity; IEA:Ensembl.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0001508; P:action potential; IEA:Ensembl.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0048066; P:developmental pigmentation; IEA:Ensembl.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IEA:Ensembl.
+DR   GO; GO:0021884; P:forebrain neuron development; IEA:Ensembl.
+DR   GO; GO:0007215; P:glutamate receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007507; P:heart development; IEA:Ensembl.
+DR   GO; GO:0042711; P:maternal behavior; IEA:Ensembl.
+DR   GO; GO:0006469; P:negative regulation of protein kinase activity; IEA:Ensembl.
+DR   GO; GO:0016322; P:neuron remodeling; IEA:Ensembl.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0009791; P:post-embryonic development; IEA:Ensembl.
+DR   GO; GO:0050821; P:protein stabilization; IEA:Ensembl.
+DR   GO; GO:0035412; P:regulation of catenin import into nucleus; IEA:Ensembl.
+DR   GO; GO:0045634; P:regulation of melanocyte differentiation; IEA:Ensembl.
+DR   GO; GO:0001501; P:skeletal system development; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002494};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Proteomics identification {ECO:0000213|PeptideAtlas:D4AE68};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002494}.
+FT   COILED       11     35       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   359 AA;  42158 MW;  3BCBA4EE7DADADBF CRC64;
+     MTLESIMACC LSEEAKEARR INDEIERQLR RDKRDARREL KLLLLGTGES GKSTFIKQMR
+     IIHGSGYSDE DKRGFTKLVY QNIFTAMQAM IRAMDTLKIP YKYEHNKAHA QLVREVDVEK
+     VSAFENPYVD AIKSLWNDPG IQECYDRRRE YQLSDSTKYY LNDLDRVADP SYLPTQQDVL
+     RVRVPTTGII EYPFDLQSVI FRMVDVGGQR SERRKWIHCF ENVTSIMFLV ALSEYDQVLV
+     ESDNENRMEE SKALFRTIIT YPWFQNSSVI LFLNKKDLLE EKIMYSHLVD YFPEYDGPQR
+     DAQAAREFIL KMFVDLNPDS DKIIYSHFTC ATDTENIRFV FAAVKDTILQ LNLKEYNLV
+//

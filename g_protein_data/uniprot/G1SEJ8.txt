@@ -1,0 +1,105 @@
+ID   G1SEJ8_RABIT            Unreviewed;       354 AA.
+AC   G1SEJ8;
+DT   19-OCT-2011, integrated into UniProtKB/TrEMBL.
+DT   19-OCT-2011, sequence version 1.
+DT   28-MAR-2018, entry version 48.
+DE   SubName: Full=G protein subunit alpha i1 {ECO:0000313|Ensembl:ENSOCUP00000000882};
+GN   Name=GNAI1 {ECO:0000313|Ensembl:ENSOCUP00000000882};
+OS   Oryctolagus cuniculus (Rabbit).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha; Leporidae;
+OC   Oryctolagus.
+OX   NCBI_TaxID=9986 {ECO:0000313|Ensembl:ENSOCUP00000000882, ECO:0000313|Proteomes:UP000001811};
+RN   [1] {ECO:0000313|Ensembl:ENSOCUP00000000882, ECO:0000313|Proteomes:UP000001811}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Thorbecke {ECO:0000313|Proteomes:UP000001811};
+RX   PubMed=21993624; DOI=10.1038/nature10530;
+RA   Lindblad-Toh K., Garber M., Zuk O., Lin M.F., Parker B.J.,
+RA   Washietl S., Kheradpour P., Ernst J., Jordan G., Mauceli E.,
+RA   Ward L.D., Lowe C.B., Holloway A.K., Clamp M., Gnerre S., Alfoldi J.,
+RA   Beal K., Chang J., Clawson H., Cuff J., Di Palma F., Fitzgerald S.,
+RA   Flicek P., Guttman M., Hubisz M.J., Jaffe D.B., Jungreis I.,
+RA   Kent W.J., Kostka D., Lara M., Martins A.L., Massingham T., Moltke I.,
+RA   Raney B.J., Rasmussen M.D., Robinson J., Stark A., Vilella A.J.,
+RA   Wen J., Xie X., Zody M.C., Baldwin J., Bloom T., Chin C.W., Heiman D.,
+RA   Nicol R., Nusbaum C., Young S., Wilkinson J., Worley K.C., Kovar C.L.,
+RA   Muzny D.M., Gibbs R.A., Cree A., Dihn H.H., Fowler G., Jhangiani S.,
+RA   Joshi V., Lee S., Lewis L.R., Nazareth L.V., Okwuonu G.,
+RA   Santibanez J., Warren W.C., Mardis E.R., Weinstock G.M., Wilson R.K.,
+RA   Delehaunty K., Dooling D., Fronik C., Fulton L., Fulton B., Graves T.,
+RA   Minx P., Sodergren E., Birney E., Margulies E.H., Herrero J.,
+RA   Green E.D., Haussler D., Siepel A., Goldman N., Pollard K.S.,
+RA   Pedersen J.S., Lander E.S., Kellis M.;
+RT   "A high-resolution map of human evolutionary constraint using 29
+RT   mammals.";
+RL   Nature 478:476-482(2011).
+RN   [2] {ECO:0000313|Ensembl:ENSOCUP00000000882}
+RP   IDENTIFICATION.
+RC   STRAIN=Thorbecke {ECO:0000313|Ensembl:ENSOCUP00000000882};
+RG   Ensembl;
+RL   Submitted (SEP-2011) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAGW02038601; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAGW02038602; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAGW02038603; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; XP_002712064.1; XM_002712018.3.
+DR   STRING; 9986.ENSOCUP00000000882; -.
+DR   Ensembl; ENSOCUT00000001020; ENSOCUP00000000882; ENSOCUG00000001020.
+DR   GeneID; 100338391; -.
+DR   KEGG; ocu:100338391; -.
+DR   CTD; 2770; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; G1SEJ8; -.
+DR   KO; K04630; -.
+DR   OMA; RIAQTSY; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000001811; Chromosome 7.
+DR   Bgee; ENSOCUG00000001020; -.
+DR   GO; GO:0099738; C:cell cortex region; IEA:Ensembl.
+DR   GO; GO:0005813; C:centrosome; IEA:Ensembl.
+DR   GO; GO:0030496; C:midbody; IEA:Ensembl.
+DR   GO; GO:0005730; C:nucleolus; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IMP:BHF-UCL.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0051301; P:cell division; IEA:Ensembl.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IMP:BHF-UCL.
+DR   GO; GO:1904778; P:positive regulation of protein localization to cell cortex; IEA:Ensembl.
+DR   GO; GO:0060236; P:regulation of mitotic spindle organization; IEA:Ensembl.
+DR   GO; GO:0043434; P:response to peptide hormone; IMP:BHF-UCL.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001811};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001811};
+KW   Transducer {ECO:0000256|SAAS:SAAS00754915}.
+SQ   SEQUENCE   354 AA;  40347 MW;  9F86FECB46E2D133 CRC64;
+     MGCTLSAEDK AAVERSKMID RNLREDGEKA AREVKLLLLG AGESGKSTIV KQMKIIHEAG
+     YSEEECKQYK AVVYSNTIQS IIAIIRAMGR LKVDFGDSAR ADDARQLFVL AGAAEEGFMT
+     AELAGVIKRL WKDSGVQACF NRSREYQLND SAAYYLNDLD RIAQPNYIPT QQDVLRTRVK
+     TTGIVETHFT FKDLHFKMFD VGGQRSERKK WIHCFEGVTA IIFCVALSDY DLVLAEDEEM
+     NRMHESMKLF DSICNNKWFT DTSIILFLNK KDLFEEKIKK SPLTICYPEY AGSNTYEEAA
+     AYIQCQFEDL NKRKDTKEIY THFTCATDTK NVQFVFDAVT DVIIKNNLKD CGLF
+//

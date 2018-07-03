@@ -5,6 +5,21 @@ gnas2_human:
     chain: A
 -   pdb: 6B3J
     chain: A
+-   pdb: 6GDG
+    chain: D
 gnas2_bovin:
 -   pdb: 3SN6
+    chain: A
+gnai1_human:
+-   pdb: 6DDE
+    chain: A
+-   pdb: 6DDF
+    chain: A
+-   pdb: 6CMO
+    chain: A
+gnai2_human:
+-   pdb: 6D9H
+    chain: A
+gnao_human:
+-   pdb: 6G79
     chain: A

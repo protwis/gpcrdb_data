@@ -1,0 +1,85 @@
+ID   G1LF79_AILME            Unreviewed;       253 AA.
+AC   G1LF79;
+DT   19-OCT-2011, integrated into UniProtKB/TrEMBL.
+DT   19-OCT-2011, sequence version 1.
+DT   28-MAR-2018, entry version 44.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|Ensembl:ENSAMEP00000005567};
+OS   Ailuropoda melanoleuca (Giant panda).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Ursidae;
+OC   Ailuropoda.
+OX   NCBI_TaxID=9646 {ECO:0000313|Ensembl:ENSAMEP00000005567, ECO:0000313|Proteomes:UP000008912};
+RN   [1] {ECO:0000313|Ensembl:ENSAMEP00000005567}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=20010809; DOI=10.1038/nature08696;
+RA   Li R., Fan W., Tian G., Zhu H., He L., Cai J., Huang Q., Cai Q.,
+RA   Li B., Bai Y., Zhang Z., Zhang Y., Wang W., Li J., Wei F., Li H.,
+RA   Jian M., Li J., Zhang Z., Nielsen R., Li D., Gu W., Yang Z., Xuan Z.,
+RA   Ryder O.A., Leung F.C., Zhou Y., Cao J., Sun X., Fu Y., Fang X.,
+RA   Guo X., Wang B., Hou R., Shen F., Mu B., Ni P., Lin R., Qian W.,
+RA   Wang G., Yu C., Nie W., Wang J., Wu Z., Liang H., Min J., Wu Q.,
+RA   Cheng S., Ruan J., Wang M., Shi Z., Wen M., Liu B., Ren X., Zheng H.,
+RA   Dong D., Cook K., Shan G., Zhang H., Kosiol C., Xie X., Lu Z.,
+RA   Zheng H., Li Y., Steiner C.C., Lam T.T., Lin S., Zhang Q., Li G.,
+RA   Tian J., Gong T., Liu H., Zhang D., Fang L., Ye C., Zhang J., Hu W.,
+RA   Xu A., Ren Y., Zhang G., Bruford M.W., Li Q., Ma L., Guo Y., An N.,
+RA   Hu Y., Zheng Y., Shi Y., Li Z., Liu Q., Chen Y., Zhao J., Qu N.,
+RA   Zhao S., Tian F., Wang X., Wang H., Xu L., Liu X., Vinar T., Wang Y.,
+RA   Lam T.W., Yiu S.M., Liu S., Zhang H., Li D., Huang Y., Wang X.,
+RA   Yang G., Jiang Z., Wang J., Qin N., Li L., Li J., Bolund L.,
+RA   Kristiansen K., Wong G.K., Olson M., Zhang X., Li S., Yang H.,
+RA   Wang J., Wang J.;
+RT   "The sequence and de novo assembly of the giant panda genome.";
+RL   Nature 463:311-317(2010).
+RN   [2] {ECO:0000313|Ensembl:ENSAMEP00000005567}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (SEP-2011) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ACTA01104492; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACTA01112492; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACTA01120492; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACTA01128492; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACTA01136492; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   STRING; 9646.ENSAMEP00000005567; -.
+DR   Ensembl; ENSAMET00000005795; ENSAMEP00000005567; ENSAMEG00000005271.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; G1LF79; -.
+DR   OMA; WRFTQTN; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   Proteomes; UP000008912; Unassembled WGS sequence.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   CDD; cd00066; G-alpha; 1.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008912};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008912}.
+SQ   SEQUENCE   253 AA;  29757 MW;  C962A3A321168F1D CRC64;
+     QAHAQLVREV DVEKVSAFEN PYVDAIKSLW NDPGIQECYD RRREYQLSDS TKYYLNDLDR
+     VADPAYLPTQ QDVLRVRVPT TGIIEYPFDL QSVIFRMVDV GGQRSERRKW IHCFENVTSI
+     MFLVALSEYD QVLVESDNEN RMEESKALFR TIITYPWFQN SSVILFLNKK DLLEEKIMYS
+     HLVDYFPEYD GPQRDAQAAR EFILKMFVDL NPDSDKIIYS HFTCATDTEN IRFVFAAVKD
+     TILQLNLKEY NLV
+//

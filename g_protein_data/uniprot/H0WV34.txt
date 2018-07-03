@@ -1,0 +1,91 @@
+ID   H0WV34_OTOGA            Unreviewed;       367 AA.
+AC   H0WV34;
+DT   22-FEB-2012, integrated into UniProtKB/TrEMBL.
+DT   22-FEB-2012, sequence version 1.
+DT   28-MAR-2018, entry version 39.
+DE   SubName: Full=G protein subunit alpha 12 {ECO:0000313|Ensembl:ENSOGAP00000006148};
+GN   Name=GNA12 {ECO:0000313|Ensembl:ENSOGAP00000006148};
+OS   Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Strepsirrhini;
+OC   Lorisiformes; Galagidae; Otolemur.
+OX   NCBI_TaxID=30611 {ECO:0000313|Ensembl:ENSOGAP00000006148, ECO:0000313|Proteomes:UP000005225};
+RN   [1] {ECO:0000313|Ensembl:ENSOGAP00000006148}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RG   The Broad Institute Genome Sequencing Platform;
+RA   Di Palma F., Johnson J., Lander E.S., Lindblad-Toh K., Jaffe D.B.,
+RA   Gnerre S., MacCallum I., Przybylski D., Ribeiro F.J., Burton J.N.,
+RA   Walker B.J., Sharpe T., Hall G.;
+RT   "Version 3 of the genome sequence of Otolemur garnettii (Bushbaby).";
+RL   Submitted (MAR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSOGAP00000006148}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (JAN-2012) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAQR03119860; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAQR03119861; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAQR03119862; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAQR03119863; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAQR03119864; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAQR03119865; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAQR03119866; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAQR03119867; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAQR03119868; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   STRING; 30611.ENSOGAP00000006148; -.
+DR   Ensembl; ENSOGAT00000006874; ENSOGAP00000006148; ENSOGAG00000006871.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; H0WV34; -.
+DR   OMA; KEYQHVI; -.
+DR   OrthoDB; EOG091G0NV2; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000005225; Unassembled WGS sequence.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0030154; P:cell differentiation; IEA:Ensembl.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IEA:Ensembl.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0001701; P:in utero embryonic development; IEA:Ensembl.
+DR   GO; GO:0008360; P:regulation of cell shape; IEA:Ensembl.
+DR   GO; GO:0010762; P:regulation of fibroblast migration; IEA:Ensembl.
+DR   GO; GO:0032434; P:regulation of proteasomal ubiquitin-dependent protein catabolic process; IEA:Ensembl.
+DR   GO; GO:0032006; P:regulation of TOR signaling; IEA:Ensembl.
+DR   GO; GO:0007266; P:Rho protein signal transduction; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000469; Gprotein_alpha_12/13.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00440; GPROTEINA12.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000005225};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000005225}.
+FT   COILED       15     35       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   367 AA;  42838 MW;  DCCF20EFB9584C64 CRC64;
+     MPASRGRPNQ SVGSARDAER EARRRSRDID ALLARERRAV RRLVKILLLG AGESGKSTFL
+     KQMRIIHGRE FDQKALLEFR DTIFDNILKG SRVLVDARDK LGIPWQYSEN EKHGMFLMAF
+     ENKAGLPVEP ATFQLYVPAL SALWRDSGIR EAFSRRSEFQ LGESVKYFLD NLDRIGQLNY
+     FPSKQDILLA RKATKGIVEH DFVIKKIPFK MVDVGGQRSQ RQKWFQCFDG ITSILFMVSS
+     SEYDQVLMED RRTNRLVESM NIFETIVNNK LFFNVSIILF LNKTDLLVEK VKTVSIQKHF
+     SDFRGDPHRL EDVQRYLVQC FDRKRRNRSK PLFHHFTTAI DTENIRFVFH AVKDTILQEN
+     LKDIMLQ
+//

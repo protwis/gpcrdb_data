@@ -1,0 +1,14 @@
+auxiliary_protein: 'T4-Lysozyme'
+construct: 5zbh
+distance: -0.68
+ligand:
+    name: 9AF
+    pubchemId: 9960164
+    role: Antagonist
+    title: BMS-193885
+    type: Small molecule
+pdb: 5ZBH
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

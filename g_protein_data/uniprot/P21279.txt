@@ -1,0 +1,291 @@
+ID   GNAQ_MOUSE              Reviewed;         359 AA.
+AC   P21279; Q6PFF5;
+DT   01-MAY-1991, integrated into UniProtKB/Swiss-Prot.
+DT   07-JUL-2009, sequence version 4.
+DT   05-OCT-2016, entry version 179.
+DE   RecName: Full=Guanine nucleotide-binding protein G(q) subunit alpha;
+DE   AltName: Full=Guanine nucleotide-binding protein alpha-q;
+GN   Name=Gnaq;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=2123549; DOI=10.1073/pnas.87.23.9113;
+RA   Strathmann M., Simon M.I.;
+RT   "G protein diversity: a distinct class of alpha subunits is present in
+RT   vertebrates and invertebrates.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:9113-9117(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 20-27; 61-73; 78-92; 121-133; 159-181; 184-210;
+RP   283-300; 312-338 AND 346-354, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   STRAIN=C57BL/6J; TISSUE=Brain;
+RA   Lubec G., Kang S.U.;
+RL   Submitted (APR-2007) to UniProtKB.
+RN   [4]
+RP   PALMITOYLATION AT CYS-9 AND CYS-10, AND MUTAGENESIS OF CYS-9 AND
+RP   CYS-10.
+RC   TISSUE=Brain;
+RX   PubMed=8227063;
+RA   Wedegaertner P.B., Chu D.H., Wilson P.T., Levis M.J., Bourne H.R.;
+RT   "Palmitoylation is required for signaling functions and membrane
+RT   attachment of Gq alpha and Gs alpha.";
+RL   J. Biol. Chem. 268:25001-25008(1993).
+RN   [5]
+RP   FUNCTION.
+RX   PubMed=17938235; DOI=10.1084/jem.20071267;
+RA   Shi G., Partida-Sanchez S., Misra R.S., Tighe M., Borchers M.T.,
+RA   Lee J.J., Simon M.I., Lund F.E.;
+RT   "Identification of an alternative G{alpha}q-dependent chemokine
+RT   receptor signal transduction pathway in dendritic cells and
+RT   granulocytes.";
+RL   J. Exp. Med. 204:2705-2718(2007).
+RN   [6]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=18802028; DOI=10.1161/CIRCRESAHA.108.176024;
+RA   Wright C.D., Chen Q., Baye N.L., Huang Y., Healy C.L., Kasinathan S.,
+RA   O'Connell T.D.;
+RT   "Nuclear alpha1-adrenergic receptors signal activated ERK localization
+RT   to caveolae in adult cardiac myocytes.";
+RL   Circ. Res. 103:992-1000(2008).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Brain, Brown adipose tissue, Heart, Kidney, Liver, Lung,
+RC   Pancreas, Spleen, and Testis;
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and
+RT   expression.";
+RL   Cell 143:1174-1189(2010).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=20624888; DOI=10.1084/jem.20092735;
+RA   Misra R.S., Shi G., Moreno-Garcia M.E., Thankappan A., Tighe M.,
+RA   Mousseau B., Kusser K., Becker-Herman S., Hudkins K.L., Dunn R.,
+RA   Kehry M.R., Migone T.S., Marshak-Rothstein A., Simon M., Randall T.D.,
+RA   Alpers C.E., Liggitt D., Rawlings D.J., Lund F.E.;
+RT   "G alpha q-containing G proteins regulate B cell selection and
+RT   survival and are required to prevent B cell-dependent autoimmunity.";
+RL   J. Exp. Med. 207:1775-1789(2010).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. Regulates B-cell selection and survival and is
+CC       required to prevent B-cell-dependent autoimmunity. Regulates
+CC       chemotaxis of BM-derived neutrophils and dendritic cells (in
+CC       vitro). {ECO:0000269|PubMed:17938235,
+CC       ECO:0000269|PubMed:20624888}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site. Binds SLC9A3R1. Forms a complex with PECAM1 and BDKRB2.
+CC       Interacts with PECAM1 (By similarity). {ECO:0000250}.
+CC   -!- INTERACTION:
+CC       O08915:Aip; NbExp=2; IntAct=EBI-771975, EBI-6935014;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:18802028}.
+CC       Membrane {ECO:0000269|PubMed:18802028}. Nucleus membrane
+CC       {ECO:0000269|PubMed:18802028}. Note=Colocalizes with the
+CC       adrenergic receptors, ADREN1A and ADREN1B, at the nuclear membrane
+CC       of cardiac myocytes.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(q) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M55412; AAA63306.1; -; mRNA.
+DR   EMBL; BC057583; AAH57583.1; -; mRNA.
+DR   CCDS; CCDS29684.1; -.
+DR   PIR; A38414; RGMSQ.
+DR   RefSeq; NP_032165.3; NM_008139.5.
+DR   UniGene; Mm.439701; -.
+DR   UniGene; Mm.441601; -.
+DR   PDB; 2BCJ; X-ray; 3.06 A; Q=37-359.
+DR   PDB; 2RGN; X-ray; 3.50 A; A/D=37-359.
+DR   PDB; 3AH8; X-ray; 2.90 A; A=37-359.
+DR   PDB; 3OHM; X-ray; 2.70 A; A=35-359.
+DR   PDB; 4EKC; X-ray; 7.40 A; A/C=18-359.
+DR   PDB; 4EKD; X-ray; 2.71 A; A=18-359.
+DR   PDB; 4GNK; X-ray; 4.00 A; A/C=7-359.
+DR   PDB; 4QJ3; X-ray; 3.00 A; A=7-359.
+DR   PDB; 4QJ4; X-ray; 3.30 A; A=7-359.
+DR   PDB; 4QJ5; X-ray; 3.41 A; A=7-359.
+DR   PDB; 5DO9; X-ray; 2.60 A; A/C/E=37-350.
+DR   PDBsum; 2BCJ; -.
+DR   PDBsum; 2RGN; -.
+DR   PDBsum; 3AH8; -.
+DR   PDBsum; 3OHM; -.
+DR   PDBsum; 4EKC; -.
+DR   PDBsum; 4EKD; -.
+DR   PDBsum; 4GNK; -.
+DR   PDBsum; 4QJ3; -.
+DR   PDBsum; 4QJ4; -.
+DR   PDBsum; 4QJ5; -.
+DR   PDBsum; 5DO9; -.
+DR   ProteinModelPortal; P21279; -.
+DR   SMR; P21279; 13-354.
+DR   BioGrid; 199971; 2.
+DR   DIP; DIP-606N; -.
+DR   IntAct; P21279; 5.
+DR   MINT; MINT-4096294; -.
+DR   STRING; 10090.ENSMUSP00000025541; -.
+DR   iPTMnet; P21279; -.
+DR   SwissPalm; P21279; -.
+DR   EPD; P21279; -.
+DR   PaxDb; P21279; -.
+DR   PeptideAtlas; P21279; -.
+DR   PRIDE; P21279; -.
+DR   Ensembl; ENSMUST00000025541; ENSMUSP00000025541; ENSMUSG00000024639.
+DR   GeneID; 14682; -.
+DR   KEGG; mmu:14682; -.
+DR   UCSC; uc008gwt.1; mouse.
+DR   CTD; 2776; -.
+DR   MGI; MGI:95776; Gnaq.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P21279; -.
+DR   KO; K04634; -.
+DR   OMA; FIKELWE; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P21279; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-MMU-399997; Acetylcholine regulates insulin secretion.
+DR   Reactome; R-MMU-416476; G alpha (q) signalling events.
+DR   Reactome; R-MMU-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-MMU-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-MMU-432142; Platelet sensitization by LDL.
+DR   Reactome; R-MMU-434316; Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion.
+DR   Reactome; R-MMU-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   ChiTaRS; Gnaq; mouse.
+DR   EvolutionaryTrace; P21279; -.
+DR   PRO; PR:P21279; -.
+DR   Proteomes; UP000000589; Chromosome 19.
+DR   Bgee; ENSMUSG00000024639; -.
+DR   ExpressionAtlas; P21279; baseline and differential.
+DR   Genevisible; P21279; MM.
+DR   GO; GO:0044297; C:cell body; IDA:MGI.
+DR   GO; GO:0030425; C:dendrite; IDA:MGI.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; TAS:MGI.
+DR   GO; GO:0005765; C:lysosomal membrane; ISO:MGI.
+DR   GO; GO:0016020; C:membrane; IDA:MGI.
+DR   GO; GO:0031965; C:nuclear membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0047391; F:alkylglycerophosphoethanolamine phosphodiesterase activity; ISO:MGI.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005096; F:GTPase activator activity; ISO:MGI.
+DR   GO; GO:0003924; F:GTPase activity; TAS:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0031826; F:type 2A serotonin receptor binding; IBA:GO_Central.
+DR   GO; GO:0001508; P:action potential; IMP:MGI.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IDA:MGI.
+DR   GO; GO:0048066; P:developmental pigmentation; IMP:MGI.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IGI:MGI.
+DR   GO; GO:0021884; P:forebrain neuron development; IMP:MGI.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IMP:MGI.
+DR   GO; GO:0007215; P:glutamate receptor signaling pathway; IMP:MGI.
+DR   GO; GO:0007507; P:heart development; IMP:MGI.
+DR   GO; GO:0042711; P:maternal behavior; IMP:MGI.
+DR   GO; GO:0006469; P:negative regulation of protein kinase activity; ISO:MGI.
+DR   GO; GO:0016322; P:neuron remodeling; IMP:MGI.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IGI:MGI.
+DR   GO; GO:0009791; P:post-embryonic development; IMP:MGI.
+DR   GO; GO:0070208; P:protein heterotrimerization; ISO:MGI.
+DR   GO; GO:0050821; P:protein stabilization; ISO:MGI.
+DR   GO; GO:0035412; P:regulation of catenin import into nucleus; ISO:MGI.
+DR   GO; GO:0050796; P:regulation of insulin secretion; TAS:Reactome.
+DR   GO; GO:0045634; P:regulation of melanocyte differentiation; IMP:MGI.
+DR   GO; GO:0001501; P:skeletal system development; IMP:MGI.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   GTP-binding; Lipoprotein; Magnesium; Membrane; Metal-binding;
+KW   Nucleotide-binding; Nucleus; Palmitate; Reference proteome;
+KW   Transducer.
+FT   CHAIN         1    359       Guanine nucleotide-binding protein G(q)
+FT                                subunit alpha.
+FT                                /FTId=PRO_0000203761.
+FT   NP_BIND      46     53       GTP. {ECO:0000250}.
+FT   NP_BIND     180    186       GTP. {ECO:0000250}.
+FT   NP_BIND     205    209       GTP. {ECO:0000250}.
+FT   NP_BIND     274    277       GTP. {ECO:0000250}.
+FT   METAL        53     53       Magnesium. {ECO:0000250}.
+FT   METAL       186    186       Magnesium. {ECO:0000250}.
+FT   BINDING     331    331       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID         9      9       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:8227063}.
+FT   LIPID        10     10       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:8227063}.
+FT   MUTAGEN       9      9       C->S: Abolishes palmitoylation.
+FT                                {ECO:0000269|PubMed:8227063}.
+FT   MUTAGEN      10     10       C->S: Abolishes palmitoylation.
+FT                                {ECO:0000269|PubMed:8227063}.
+FT   CONFLICT     28     29       QL -> HV (in Ref. 1; AAA63306).
+FT                                {ECO:0000305}.
+FT   CONFLICT     62     62       Missing (in Ref. 2; AAH57583).
+FT                                {ECO:0000305}.
+FT   STRAND       39     45       {ECO:0000244|PDB:5DO9}.
+FT   STRAND       47     51       {ECO:0000244|PDB:4QJ4}.
+FT   HELIX        52     63       {ECO:0000244|PDB:5DO9}.
+FT   HELIX        69     73       {ECO:0000244|PDB:5DO9}.
+FT   HELIX        76     96       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       105    114       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       118    120       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       128    136       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       139    146       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       147    150       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       157    161       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       164    168       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       176    181       {ECO:0000244|PDB:5DO9}.
+FT   STRAND      188    195       {ECO:0000244|PDB:5DO9}.
+FT   STRAND      197    206       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       210    213       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       214    219       {ECO:0000244|PDB:5DO9}.
+FT   STRAND      224    231       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       232    236       {ECO:0000244|PDB:5DO9}.
+FT   STRAND      240    244       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       247    260       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       262    264       {ECO:0000244|PDB:5DO9}.
+FT   STRAND      267    274       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       276    282       {ECO:0000244|PDB:5DO9}.
+FT   TURN        283    285       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       288    290       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       302    314       {ECO:0000244|PDB:5DO9}.
+FT   TURN        318    321       {ECO:0000244|PDB:3OHM}.
+FT   STRAND      324    328       {ECO:0000244|PDB:5DO9}.
+FT   HELIX       334    346       {ECO:0000244|PDB:5DO9}.
+FT   TURN        347    349       {ECO:0000244|PDB:5DO9}.
+SQ   SEQUENCE   359 AA;  42158 MW;  3BCBA4EE7DADADBF CRC64;
+     MTLESIMACC LSEEAKEARR INDEIERQLR RDKRDARREL KLLLLGTGES GKSTFIKQMR
+     IIHGSGYSDE DKRGFTKLVY QNIFTAMQAM IRAMDTLKIP YKYEHNKAHA QLVREVDVEK
+     VSAFENPYVD AIKSLWNDPG IQECYDRRRE YQLSDSTKYY LNDLDRVADP SYLPTQQDVL
+     RVRVPTTGII EYPFDLQSVI FRMVDVGGQR SERRKWIHCF ENVTSIMFLV ALSEYDQVLV
+     ESDNENRMEE SKALFRTIIT YPWFQNSSVI LFLNKKDLLE EKIMYSHLVD YFPEYDGPQR
+     DAQAAREFIL KMFVDLNPDS DKIIYSHFTC ATDTENIRFV FAAVKDTILQ LNLKEYNLV
+//

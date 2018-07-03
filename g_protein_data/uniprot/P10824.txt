@@ -1,0 +1,529 @@
+ID   GNAI1_RAT               Reviewed;         354 AA.
+AC   P10824; Q45QN2;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   25-APR-2018, entry version 184.
+DE   RecName: Full=Guanine nucleotide-binding protein G(i) subunit alpha-1;
+DE   AltName: Full=Adenylate cyclase-inhibiting G alpha protein;
+GN   Name=Gnai1; Synonyms=Gnai-1;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2820999;
+RA   Jones D.T., Reed R.R.;
+RT   "Molecular cloning of five GTP-binding protein cDNA species from rat
+RT   olfactory neuroepithelium.";
+RL   J. Biol. Chem. 262:14241-14249(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=SHR, and Wistar Kyoto;
+RA   Jackson E.K., Zhu C.;
+RT   "Genetic similarity between spontaneously hypertensive rats and
+RT   Wistar-Kyoto rats in the coding regions of signal transduction
+RT   proteins.";
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   INTERACTION WITH GPSM1.
+RX   PubMed=11121039; DOI=10.1073/pnas.97.26.14364;
+RA   de Vries L., Fischer T., Tronchere H., Brothers G.M., Strockbine B.,
+RA   Siderovski D.P., Farquhar M.G.;
+RT   "Activator of G protein signaling 3 is a guanine dissociation
+RT   inhibitor for Galpha i subunits.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:14364-14369(2000).
+RN   [4]
+RP   INTERACTION WITH RGS12 AND RGS14.
+RX   PubMed=11387333; DOI=10.1074/jbc.M103208200;
+RA   Kimple R.J., De Vries L., Tronchere H., Behe C.I., Morris R.A.,
+RA   Gist Farquhar M., Siderovski D.P.;
+RT   "RGS12 and RGS14 GoLoco motifs are G alpha(i) interaction sites with
+RT   guanine nucleotide dissociation inhibitor activity.";
+RL   J. Biol. Chem. 276:29275-29281(2001).
+RN   [5]
+RP   FUNCTION, INTERACTION WITH RGS14, AND SUBCELLULAR LOCATION.
+RX   PubMed=16870394; DOI=10.1016/j.cellsig.2006.06.002;
+RA   Shu F.J., Ramineni S., Amyot W., Hepler J.R.;
+RT   "Selective interactions between Gi alpha1 and Gi alpha3 and the
+RT   GoLoco/GPR domain of RGS14 influence its dynamic subcellular
+RT   localization.";
+RL   Cell. Signal. 19:163-176(2007).
+RN   [6]
+RP   SUBCELLULAR LOCATION, INTERACTION WITH RGS14, AND MUTAGENESIS OF
+RP   GLN-204.
+RX   PubMed=17635935; DOI=10.1083/jcb.200604114;
+RA   Cho H., Kehrl J.H.;
+RT   "Localization of Gi alpha proteins in the centrosomes and at the
+RT   midbody: implication for their role in cell division.";
+RL   J. Cell Biol. 178:245-255(2007).
+RN   [7]
+RP   INTERACTION WITH RGS14 AND RIC8A, MUTAGENESIS OF ASN-149, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=21158412; DOI=10.1021/bi101910n;
+RA   Vellano C.P., Shu F.J., Ramineni S., Yates C.K., Tall G.G.,
+RA   Hepler J.R.;
+RT   "Activation of the regulator of G protein signaling 14-Galphai1-GDP
+RT   signaling complex is regulated by resistance to inhibitors of
+RT   cholinesterase-8A.";
+RL   Biochemistry 50:752-762(2011).
+RN   [8]
+RP   MYRISTOYLATION AT GLY-2, PALMITOYLATION AT CYS-3, AND MUTAGENESIS OF
+RP   GLY-2 AND CYS-3.
+RX   PubMed=26253820; DOI=10.1016/j.bbalip.2015.08.001;
+RA   Alvarez R., Lopez D.J., Casas J., Llado V., Higuera M., Nagy T.,
+RA   Barcelo M., Busquets X., Escriba P.V.;
+RT   "G protein-membrane interactions I: Galphai1 myristoyl and palmitoyl
+RT   modifications in protein-lipid interactions and its implications in
+RT   membrane microdomain localization.";
+RL   Biochim. Biophys. Acta 1851:1511-1520(2015).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) IN COMPLEX WITH GDP.
+RX   PubMed=8073283; DOI=10.1126/science.8073283;
+RA   Coleman D.E., Berghuis A.M., Lee E., Linder M.E., Gilman A.G.,
+RA   Sprang S.R.;
+RT   "Structures of active conformations of Gi alpha 1 and the mechanism of
+RT   GTP hydrolysis.";
+RL   Science 265:1405-1412(1994).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) IN COMPLEX WITH GNB1; GNG2 AND
+RP   GDP, AND SUBUNIT.
+RX   PubMed=8521505; DOI=10.1016/0092-8674(95)90220-1;
+RA   Wall M.A., Coleman D.E., Lee E., Iniguez-Lluhi J.A., Posner B.A.,
+RA   Gilman A.G., Sprang S.R.;
+RT   "The structure of the G protein heterotrimer Gi alpha 1 beta 1 gamma
+RT   2.";
+RL   Cell 83:1047-1058(1995).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) IN COMPLEX WITH RGS4 AND GDP,
+RP   AND INTERACTION WITH RGS4.
+RX   PubMed=9108480; DOI=10.1016/S0092-8674(00)80204-4;
+RA   Tesmer J.J.G., Berman D.M., Gilman A.G., Sprang S.R.;
+RT   "Structure of RGS4 bound to AlF4-activated G(i alpha1): stabilization
+RT   of the transition state for GTP hydrolysis.";
+RL   Cell 89:251-261(1997).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) IN COMPLEX WITH GDP.
+RX   PubMed=9772163; DOI=10.1021/bi9810306;
+RA   Coleman D.E., Sprang S.R.;
+RT   "Crystal structures of the G protein Gi alpha 1 complexed with GDP and
+RT   Mg2+: a crystallographic titration experiment.";
+RL   Biochemistry 37:14376-14385(1998).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 32-346 IN COMPLEX WITH GDP
+RP   AND MAGNESIUM.
+RX   PubMed=9705312; DOI=10.1074/jbc.273.34.21752;
+RA   Posner B.A., Mixon M.B., Wall M.A., Sprang S.R., Gilman A.G.;
+RT   "The A326S mutant of Gialpha1 as an approximation of the receptor-
+RT   bound state.";
+RL   J. Biol. Chem. 273:21752-21758(1998).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 1-348 OF MUTANT ALA-329 IN
+RP   COMPLEXES WITH MAGNESIUM; GDP AND GTP ANALOG, FUNCTION, AND
+RP   MUTAGENESIS OF GLN-204; THR-329 AND VAL-332.
+RX   PubMed=19703466; DOI=10.1016/j.jmb.2009.08.043;
+RA   Kapoor N., Menon S.T., Chauhan R., Sachdev P., Sakmar T.P.;
+RT   "Structural evidence for a sequential release mechanism for activation
+RT   of heterotrimeric G proteins.";
+RL   J. Mol. Biol. 393:882-897(2009).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) IN COMPLEXES WITH GDP AND GTP
+RP   ANALOG, FUNCTION, SUBCELLULAR LOCATION, SUBUNIT, INTERACTION WITH GNB1
+RP   AND GNG1, AND MUTAGENESIS OF GLU-43 AND LYS-345.
+RX   PubMed=24596087; DOI=10.1074/jbc.M113.539064;
+RA   Thaker T.M., Sarwar M., Preininger A.M., Hamm H.E., Iverson T.M.;
+RT   "A transient interaction between the phosphate binding loop and switch
+RT   I contributes to the allosteric network between receptor and
+RT   nucleotide in Galphai1.";
+RL   J. Biol. Chem. 289:11331-11341(2014).
+RN   [16]
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF WILD-TYPE AND MUTANTS
+RP   CYS-336 AND TYR-336 IN COMPLEXES WITH MAGNESIUM; GDP AND GTP ANALOG,
+RP   FUNCTION, SUBUNIT, AND MUTAGENESIS OF PHE-189; PHE-191 AND PHE-336.
+RX   PubMed=25037222; DOI=10.1074/jbc.M114.572875;
+RA   Kaya A.I., Lokits A.D., Gilbert J.A., Iverson T.M., Meiler J.,
+RA   Hamm H.E.;
+RT   "A conserved phenylalanine as a relay between the alpha5 helix and the
+RT   GDP binding region of heterotrimeric Gi protein alpha subunit.";
+RL   J. Biol. Chem. 289:24475-24487(2014).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins)
+CC       function as transducers downstream of G protein-coupled receptors
+CC       (GPCRs) in numerous signaling cascades. The alpha chain contains
+CC       the guanine nucleotide binding site and alternates between an
+CC       active, GTP-bound state and an inactive, GDP-bound state.
+CC       Signaling by an activated GPCR promotes GDP release and GTP
+CC       binding (PubMed:19703466, PubMed:24596087, PubMed:25037222). The
+CC       alpha subunit has a low GTPase activity that converts bound GTP to
+CC       GDP, thereby terminating the signal (PubMed:21158412). Both GDP
+CC       release and GTP hydrolysis are modulated by numerous regulatory
+CC       proteins (PubMed:21158412). Signaling is mediated via effector
+CC       proteins, such as adenylate cyclase. Inhibits adenylate cyclase
+CC       activity, leading to decreased intracellular cAMP levels
+CC       (PubMed:19703466). The inactive GDP-bound form prevents the
+CC       association of RGS14 with centrosomes and is required for the
+CC       translocation of RGS14 from the cytoplasm to the plasma membrane.
+CC       Required for normal cytokinesis during mitosis (PubMed:16870394).
+CC       Required for cortical dynein-dynactin complex recruitment during
+CC       metaphase (By similarity). {ECO:0000250|UniProtKB:P63096,
+CC       ECO:0000269|PubMed:16870394, ECO:0000269|PubMed:19703466,
+CC       ECO:0000269|PubMed:21158412, ECO:0000269|PubMed:24596087,
+CC       ECO:0000269|PubMed:25037222, ECO:0000305}.
+CC   -!- SUBUNIT: Heterotrimeric G proteins are composed of 3 units; alpha,
+CC       beta and gamma. The alpha chain contains the guanine nucleotide
+CC       binding site (PubMed:8521505, PubMed:24596087, PubMed:25037222).
+CC       Part of a spindle orientation complex at least composed of GNAI1,
+CC       GPSM2 and NUMA1 (By similarity). Identified in complex with the
+CC       beta subunit GNB1 and the gamma subunit GNG1 (PubMed:24596087).
+CC       Identified in complex with the beta subunit GNB1 and the gamma
+CC       subunit GNG2 (PubMed:8521505). GTP binding causes dissociation of
+CC       the heterotrimer, liberating the individual subunits so that they
+CC       can interact with downstream effector proteins. Interacts (GDP-
+CC       bound form) with GPSM1; this inhibits guanine nucleotide exchange
+CC       and GTP binding (PubMed:11121039). Interacts (GDP-bound form) with
+CC       GPSM2 (via GoLoco domains); this inhibits guanine nucleotide
+CC       exchange (By similarity). Interacts with RGS10; this strongly
+CC       enhances GTP hydrolysis. Interacts with RGS1 and RGS16 (By
+CC       similarity). Interacts with RGS4 (PubMed:9108480). Interacts with
+CC       RGS12 (PubMed:11387333). Interacts (via active GTP- or inactive
+CC       GDP-bound forms) with RGS14 (via RGS and GoLoco domains)
+CC       (PubMed:11387333, PubMed:16870394, PubMed:17635935,
+CC       PubMed:21158412). Interacts with RGS3, RGS6, RGS7, RGS8, RGS17,
+CC       RGS18 and RGS20 (in vitro) (By similarity). Interacts (GDP-bound
+CC       form) with RIC8A (via C-terminus) (PubMed:21158412).
+CC       {ECO:0000250|UniProtKB:P63096, ECO:0000269|PubMed:11121039,
+CC       ECO:0000269|PubMed:11387333, ECO:0000269|PubMed:16870394,
+CC       ECO:0000269|PubMed:17635935, ECO:0000269|PubMed:21158412,
+CC       ECO:0000269|PubMed:25037222, ECO:0000269|PubMed:8521505,
+CC       ECO:0000269|PubMed:9108480}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus. Cytoplasm
+CC       {ECO:0000269|PubMed:17635935}. Cell membrane
+CC       {ECO:0000269|PubMed:17635935, ECO:0000269|PubMed:21158412};
+CC       Peripheral membrane protein {ECO:0000305|PubMed:24596087,
+CC       ECO:0000305|PubMed:25037222}; Cytoplasmic side {ECO:0000305}.
+CC       Cytoplasm, cytoskeleton, microtubule organizing center, centrosome
+CC       {ECO:0000269|PubMed:17635935}. Cytoplasm, cell cortex
+CC       {ECO:0000250|UniProtKB:P63096}. Membrane
+CC       {ECO:0000250|UniProtKB:P63096}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P63096}. Note=Localizes in the centrosomes
+CC       of interphase and mitotic cells, but not in centrosomes during
+CC       cytokinesis. Detected at the cleavage furrow or the midbody.
+CC       Localized at the plasma membrane throughout mitosis. Colocalizes
+CC       with RIC8A and RGS14 at the plasma membrane.
+CC       {ECO:0000269|PubMed:21158412}.
+CC   -!- PTM: Myristoylation at Gly-2 is required for membrane anchoring
+CC       before palmitoylation. {ECO:0000269|PubMed:26253820}.
+CC   -!- PTM: Palmitoylation at Cys-3 varies with membrane lipid
+CC       composition. {ECO:0000269|PubMed:26253820}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M17527; AAA40825.1; -; mRNA.
+DR   EMBL; DQ120469; AAZ23808.1; -; mRNA.
+DR   EMBL; DQ120470; AAZ23809.1; -; mRNA.
+DR   PIR; A35377; A35377.
+DR   PIR; C27423; RGRTI1.
+DR   RefSeq; NP_037277.1; NM_013145.1.
+DR   UniGene; Rn.11391; -.
+DR   PDB; 1AGR; X-ray; 2.80 A; A/D=2-354.
+DR   PDB; 1AS0; X-ray; 2.00 A; A=2-354.
+DR   PDB; 1AS2; X-ray; 2.80 A; A=2-354.
+DR   PDB; 1AS3; X-ray; 2.40 A; A=2-354.
+DR   PDB; 1BH2; X-ray; 2.10 A; A=32-346.
+DR   PDB; 1BOF; X-ray; 2.20 A; A=2-354.
+DR   PDB; 1CIP; X-ray; 1.50 A; A=2-354.
+DR   PDB; 1FQJ; X-ray; 2.02 A; A/D=220-299.
+DR   PDB; 1FQK; X-ray; 2.30 A; A/C=220-299.
+DR   PDB; 1GDD; X-ray; 2.20 A; A=2-354.
+DR   PDB; 1GFI; X-ray; 2.20 A; A=2-354.
+DR   PDB; 1GG2; X-ray; 2.40 A; A=2-354.
+DR   PDB; 1GIA; X-ray; 2.00 A; A=2-354.
+DR   PDB; 1GIL; X-ray; 2.30 A; A=2-354.
+DR   PDB; 1GIT; X-ray; 2.60 A; A=2-354.
+DR   PDB; 1GP2; X-ray; 2.30 A; A=2-354.
+DR   PDB; 1SHZ; X-ray; 2.85 A; A/D=22-48, A/D=185-353.
+DR   PDB; 1SVK; X-ray; 2.00 A; A=2-354.
+DR   PDB; 1SVS; X-ray; 1.50 A; A=2-354.
+DR   PDB; 2BCJ; X-ray; 3.06 A; Q=1-28.
+DR   PDB; 2ZJY; X-ray; 2.80 A; A=1-354.
+DR   PDB; 2ZJZ; X-ray; 2.60 A; A/B=1-354.
+DR   PDB; 3AH8; X-ray; 2.90 A; A=2-28.
+DR   PDB; 3D7M; X-ray; 2.90 A; A=1-354.
+DR   PDB; 3FFA; X-ray; 2.30 A; A=1-354.
+DR   PDB; 3FFB; X-ray; 2.57 A; A=1-354.
+DR   PDB; 3V00; X-ray; 2.90 A; A/B/C=220-298.
+DR   PDB; 4N0D; X-ray; 1.55 A; A=1-354.
+DR   PDB; 4N0E; X-ray; 2.10 A; A=1-354.
+DR   PDB; 4PAM; X-ray; 2.10 A; A=1-354.
+DR   PDB; 4PAN; X-ray; 2.40 A; A=1-354.
+DR   PDB; 4PAO; X-ray; 2.00 A; A=1-354.
+DR   PDB; 4PAQ; X-ray; 2.00 A; A=1-354.
+DR   PDB; 5KDL; X-ray; 2.67 A; A/B=1-354.
+DR   PDB; 5KDO; X-ray; 1.90 A; A=1-354.
+DR   PDBsum; 1AGR; -.
+DR   PDBsum; 1AS0; -.
+DR   PDBsum; 1AS2; -.
+DR   PDBsum; 1AS3; -.
+DR   PDBsum; 1BH2; -.
+DR   PDBsum; 1BOF; -.
+DR   PDBsum; 1CIP; -.
+DR   PDBsum; 1FQJ; -.
+DR   PDBsum; 1FQK; -.
+DR   PDBsum; 1GDD; -.
+DR   PDBsum; 1GFI; -.
+DR   PDBsum; 1GG2; -.
+DR   PDBsum; 1GIA; -.
+DR   PDBsum; 1GIL; -.
+DR   PDBsum; 1GIT; -.
+DR   PDBsum; 1GP2; -.
+DR   PDBsum; 1SHZ; -.
+DR   PDBsum; 1SVK; -.
+DR   PDBsum; 1SVS; -.
+DR   PDBsum; 2BCJ; -.
+DR   PDBsum; 2ZJY; -.
+DR   PDBsum; 2ZJZ; -.
+DR   PDBsum; 3AH8; -.
+DR   PDBsum; 3D7M; -.
+DR   PDBsum; 3FFA; -.
+DR   PDBsum; 3FFB; -.
+DR   PDBsum; 3V00; -.
+DR   PDBsum; 4N0D; -.
+DR   PDBsum; 4N0E; -.
+DR   PDBsum; 4PAM; -.
+DR   PDBsum; 4PAN; -.
+DR   PDBsum; 4PAO; -.
+DR   PDBsum; 4PAQ; -.
+DR   PDBsum; 5KDL; -.
+DR   PDBsum; 5KDO; -.
+DR   ProteinModelPortal; P10824; -.
+DR   SMR; P10824; -.
+DR   BioGrid; 247715; 1.
+DR   CORUM; P10824; -.
+DR   DIP; DIP-6073N; -.
+DR   IntAct; P10824; 2.
+DR   MINT; P10824; -.
+DR   iPTMnet; P10824; -.
+DR   PhosphoSitePlus; P10824; -.
+DR   SwissPalm; P10824; -.
+DR   World-2DPAGE; 0004:P10824; -.
+DR   PRIDE; P10824; -.
+DR   Ensembl; ENSRNOT00000091004; ENSRNOP00000074036; ENSRNOG00000057096.
+DR   GeneID; 25686; -.
+DR   KEGG; rno:25686; -.
+DR   CTD; 2770; -.
+DR   RGD; 2713; Gnai1.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P10824; -.
+DR   KO; K04630; -.
+DR   OMA; RIAQTSY; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P10824; -.
+DR   Reactome; R-RNO-112043; PLC beta mediated events.
+DR   Reactome; R-RNO-170670; Adenylate cyclase inhibitory pathway.
+DR   Reactome; R-RNO-202040; G-protein activation.
+DR   Reactome; R-RNO-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-RNO-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-RNO-418594; G alpha (i) signalling events.
+DR   Reactome; R-RNO-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   SABIO-RK; P10824; -.
+DR   EvolutionaryTrace; P10824; -.
+DR   PRO; PR:P10824; -.
+DR   Proteomes; UP000002494; Chromosome 4.
+DR   Bgee; ENSRNOG00000057096; -.
+DR   GO; GO:0099738; C:cell cortex region; ISS:UniProtKB.
+DR   GO; GO:0005813; C:centrosome; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:RGD.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; TAS:RGD.
+DR   GO; GO:0005622; C:intracellular; ISO:RGD.
+DR   GO; GO:0005765; C:lysosomal membrane; ISO:RGD.
+DR   GO; GO:0016020; C:membrane; IDA:RGD.
+DR   GO; GO:0045121; C:membrane raft; IDA:RGD.
+DR   GO; GO:0030496; C:midbody; ISS:UniProtKB.
+DR   GO; GO:0005730; C:nucleolus; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IDA:UniProtKB.
+DR   GO; GO:0031821; F:G-protein coupled serotonin receptor binding; IPI:RGD.
+DR   GO; GO:0019003; F:GDP binding; IDA:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IDA:UniProtKB.
+DR   GO; GO:0032794; F:GTPase activating protein binding; IDA:RGD.
+DR   GO; GO:0003924; F:GTPase activity; IDA:UniProtKB.
+DR   GO; GO:0000287; F:magnesium ion binding; IDA:UniProtKB.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0051301; P:cell division; ISS:UniProtKB.
+DR   GO; GO:1904322; P:cellular response to forskolin; IMP:UniProtKB.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IDA:UniProtKB.
+DR   GO; GO:0050805; P:negative regulation of synaptic transmission; IMP:RGD.
+DR   GO; GO:1904778; P:positive regulation of protein localization to cell cortex; ISS:UniProtKB.
+DR   GO; GO:0043949; P:regulation of cAMP-mediated signaling; IMP:UniProtKB.
+DR   GO; GO:0060236; P:regulation of mitotic spindle organization; ISS:UniProtKB.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell cycle; Cell division; Cell membrane;
+KW   Complete proteome; Cytoplasm; Cytoskeleton; GTP-binding; Lipoprotein;
+KW   Magnesium; Membrane; Metal-binding; Mitosis; Myristate;
+KW   Nucleotide-binding; Nucleus; Palmitate; Reference proteome;
+KW   Transducer; Transport.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:26253820}.
+FT   CHAIN         2    354       Guanine nucleotide-binding protein G(i)
+FT                                subunit alpha-1.
+FT                                /FTId=PRO_0000203673.
+FT   NP_BIND      43     48       GTP. {ECO:0000244|PDB:1AS0,
+FT                                ECO:0000244|PDB:1BH2,
+FT                                ECO:0000244|PDB:1GIA,
+FT                                ECO:0000244|PDB:1GIL,
+FT                                ECO:0000244|PDB:3FFA,
+FT                                ECO:0000244|PDB:4N0D,
+FT                                ECO:0000244|PDB:4PAO,
+FT                                ECO:0000244|PDB:4PAQ}.
+FT   NP_BIND     150    151       GTP. {ECO:0000244|PDB:1AS0,
+FT                                ECO:0000244|PDB:1BH2,
+FT                                ECO:0000244|PDB:1GIL,
+FT                                ECO:0000244|PDB:4N0D}.
+FT   NP_BIND     175    178       GTP. {ECO:0000244|PDB:1AS0,
+FT                                ECO:0000244|PDB:1BH2,
+FT                                ECO:0000244|PDB:1GIA,
+FT                                ECO:0000244|PDB:1GIL,
+FT                                ECO:0000244|PDB:3FFA,
+FT                                ECO:0000244|PDB:4N0D,
+FT                                ECO:0000244|PDB:4PAO,
+FT                                ECO:0000244|PDB:4PAQ}.
+FT   NP_BIND     200    204       GTP. {ECO:0000244|PDB:1AS0,
+FT                                ECO:0000244|PDB:1BH2,
+FT                                ECO:0000244|PDB:1GIA,
+FT                                ECO:0000244|PDB:1GIL,
+FT                                ECO:0000244|PDB:3FFA,
+FT                                ECO:0000244|PDB:4N0D,
+FT                                ECO:0000244|PDB:4PAO,
+FT                                ECO:0000244|PDB:4PAQ}.
+FT   NP_BIND     269    272       GTP. {ECO:0000244|PDB:1AS0,
+FT                                ECO:0000244|PDB:1BH2,
+FT                                ECO:0000244|PDB:1GIA,
+FT                                ECO:0000244|PDB:1GIL,
+FT                                ECO:0000244|PDB:3FFA,
+FT                                ECO:0000244|PDB:4N0D,
+FT                                ECO:0000244|PDB:4PAO,
+FT                                ECO:0000244|PDB:4PAQ}.
+FT   METAL        47     47       Magnesium. {ECO:0000244|PDB:1BH2,
+FT                                ECO:0000244|PDB:4PAO,
+FT                                ECO:0000269|PubMed:25037222,
+FT                                ECO:0000269|PubMed:9705312}.
+FT   METAL       181    181       Magnesium. {ECO:0000244|PDB:1BH2,
+FT                                ECO:0000244|PDB:4PAO,
+FT                                ECO:0000269|PubMed:19703466,
+FT                                ECO:0000269|PubMed:25037222,
+FT                                ECO:0000269|PubMed:9705312}.
+FT   BINDING     326    326       GTP; via amide nitrogen.
+FT                                {ECO:0000244|PDB:1AS0,
+FT                                ECO:0000244|PDB:1GIA,
+FT                                ECO:0000244|PDB:1GIL,
+FT                                ECO:0000244|PDB:3FFA,
+FT                                ECO:0000244|PDB:4N0D,
+FT                                ECO:0000244|PDB:4PAO,
+FT                                ECO:0000244|PDB:4PAQ}.
+FT   LIPID         2      2       N-myristoyl glycine.
+FT                                {ECO:0000269|PubMed:26253820}.
+FT   LIPID         3      3       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:26253820}.
+FT   MUTAGEN       2      2       G->A: Abolishes myristoylation and
+FT                                palmitoylation.
+FT                                {ECO:0000269|PubMed:26253820}.
+FT   MUTAGEN       3      3       C->S: Abolishes palmitoylation.
+FT                                {ECO:0000269|PubMed:26253820}.
+FT   MUTAGEN      43     43       E->A: Mildly impairs receptor binding;
+FT                                mildly decreases basal and receptor-
+FT                                stimulated GDP exchange.
+FT                                {ECO:0000269|PubMed:24596087}.
+FT   MUTAGEN     149    149       N->I: Inhibits interaction with RGS14.
+FT                                Does not inhibit interaction with RIC8A.
+FT                                {ECO:0000269|PubMed:21158412}.
+FT   MUTAGEN     189    189       F->Y: Increases basal GDP exchange rate;
+FT                                no effect on receptor-stimulated GDP
+FT                                exchange. {ECO:0000269|PubMed:25037222}.
+FT   MUTAGEN     191    191       F->Y: No effect on basal GDP exchange
+FT                                rate; mildly decreases receptor-
+FT                                stimulated GDP exchange.
+FT                                {ECO:0000269|PubMed:25037222}.
+FT   MUTAGEN     204    204       Q->L: Expected to have lost GTPase
+FT                                activity; inhibits the forskolin-mediated
+FT                                increase of cellular cAMP levels. Does
+FT                                not inhibit interaction with RGS14 at
+FT                                centrosomes.
+FT                                {ECO:0000269|PubMed:17635935,
+FT                                ECO:0000269|PubMed:19703466}.
+FT   MUTAGEN     329    329       T->A: Increases basal GDP exchange rate
+FT                                and inhibits the forskolin-mediated
+FT                                increase of cellular cAMP levels.
+FT                                {ECO:0000269|PubMed:19703466}.
+FT   MUTAGEN     332    332       V->A: Increases basal GDP exchange rate.
+FT                                {ECO:0000269|PubMed:19703466}.
+FT   MUTAGEN     336    336       F->A,C: Increases basal GDP exchange
+FT                                rate; mildly decreases receptor-
+FT                                stimulated GDP exchange.
+FT                                {ECO:0000269|PubMed:25037222}.
+FT   MUTAGEN     336    336       F->Y: Strongly increases basal GDP
+FT                                exchange rate; mildly decreases receptor-
+FT                                stimulated GDP exchange.
+FT                                {ECO:0000269|PubMed:25037222}.
+FT   MUTAGEN     345    345       K->L: Mildly impairs receptor binding;
+FT                                mildly decreases basal and receptor-
+FT                                stimulated GDP exchange.
+FT                                {ECO:0000269|PubMed:24596087}.
+FT   HELIX         8     31       {ECO:0000244|PDB:5KDO}.
+FT   STRAND       33     39       {ECO:0000244|PDB:1CIP}.
+FT   HELIX        46     57       {ECO:0000244|PDB:1CIP}.
+FT   HELIX        63     68       {ECO:0000244|PDB:1CIP}.
+FT   HELIX        70     91       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       100    110       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       111    116       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       121    132       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       134    140       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       141    145       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       152    156       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       159    162       {ECO:0000244|PDB:1CIP}.
+FT   STRAND      164    166       {ECO:0000244|PDB:2ZJY}.
+FT   HELIX       171    175       {ECO:0000244|PDB:1CIP}.
+FT   STRAND      183    191       {ECO:0000244|PDB:1CIP}.
+FT   STRAND      194    201       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       205    214       {ECO:0000244|PDB:1CIP}.
+FT   STRAND      219    226       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       227    231       {ECO:0000244|PDB:1CIP}.
+FT   STRAND      237    241       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       242    254       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       257    259       {ECO:0000244|PDB:1CIP}.
+FT   STRAND      262    269       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       271    278       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       283    285       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       296    308       {ECO:0000244|PDB:1CIP}.
+FT   TURN        314    316       {ECO:0000244|PDB:1CIP}.
+FT   STRAND      319    323       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       329    346       {ECO:0000244|PDB:1CIP}.
+FT   HELIX       348    350       {ECO:0000244|PDB:4N0E}.
+SQ   SEQUENCE   354 AA;  40345 MW;  99E9D11B485C2DE3 CRC64;
+     MGCTLSAEDK AAVERSKMID RNLREDGEKA AREVKLLLLG AGESGKSTIV KQMKIIHEAG
+     YSEEECKQYK AVVYSNTIQS IIAIIRAMGR LKIDFGDAAR ADDARQLFVL AGAAEEGFMT
+     AELAGVIKRL WKDSGVQACF NRSREYQLND SAAYYLNDLD RIAQPNYIPT QQDVLRTRVK
+     TTGIVETHFT FKDLHFKMFD VGGQRSERKK WIHCFEGVTA IIFCVALSDY DLVLAEDEEM
+     NRMHESMKLF DSICNNKWFT DTSIILFLNK KDLFEEKIKK SPLTICYPEY AGSNTYEEAA
+     AYIQCQFEDL NKRKDTKEIY THFTCATDTK NVQFVFDAVT DVIIKNNLKD CGLF
+//

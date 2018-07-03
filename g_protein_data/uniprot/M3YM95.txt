@@ -1,0 +1,84 @@
+ID   M3YM95_MUSPF            Unreviewed;       355 AA.
+AC   M3YM95;
+DT   01-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-2013, sequence version 1.
+DT   28-MAR-2018, entry version 31.
+DE   SubName: Full=G protein subunit alpha 14 {ECO:0000313|Ensembl:ENSMPUP00000012452};
+GN   Name=GNA14 {ECO:0000313|Ensembl:ENSMPUP00000012452};
+OS   Mustela putorius furo (European domestic ferret) (Mustela furo).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Mustelidae;
+OC   Mustelinae; Mustela.
+OX   NCBI_TaxID=9669 {ECO:0000313|Ensembl:ENSMPUP00000012452, ECO:0000313|Proteomes:UP000000715};
+RN   [1] {ECO:0000313|Ensembl:ENSMPUP00000012452}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ID#1420 {ECO:0000313|Ensembl:ENSMPUP00000012452};
+RA   Di Palma F., Alfoldi J., Johnson J., Jaffe D., Berlin A., Gnerre S.,
+RA   Grabherr M., Hall G., Lara M., MacCallum I., Mauceli E.,
+RA   Przyblyski D., Ribeiro F., Russell P., Sharpe T., Turner-Maier J.,
+RA   Walker B.J., Young S., Birren B., Lindblad-Toh K.;
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSMPUP00000012452}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (MAR-2013) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AEYP01078538; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEYP01078539; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEYP01078540; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEYP01078541; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEYP01078542; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEYP01078543; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEYP01078544; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEYP01078545; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEYP01078546; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEYP01078547; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; XP_004772191.1; XM_004772134.2.
+DR   STRING; 9669.ENSMPUP00000012452; -.
+DR   Ensembl; ENSMPUT00000012654; ENSMPUP00000012452; ENSMPUG00000012547.
+DR   GeneID; 101673258; -.
+DR   CTD; 9630; -.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; M3YM95; -.
+DR   OMA; DRIAMPS; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   Proteomes; UP000000715; Unassembled WGS sequence.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000715};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000715}.
+FT   COILED        7     27       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   355 AA;  41545 MW;  D7709AA979AD0E61 CRC64;
+     MAGCCCLSAE EKESQRISAE IERQLRRDKK DARREFKLLL LGTGESGKST FIKQMRIIHG
+     SGYSDEDRKG FTKLVYQNIF TAMQAMIRAM DTLRIHYVCE QNKENAQLIK EVEVDKVCAL
+     SRDQVEAIKQ LWEDPGIQEC YDRRREYQLS DSAKYYLTDI DRIAMPSFVP TQQDVLRVRV
+     PTTGIIEYPF DLENIIFRMV DVGGQRSERR KWIHCFESVT SIIFLVALSE YDQVLAECDN
+     ENRMEESKAL FKTIITYPWF LNSSVILFLN KKDLLEEKIM YSHLISYFPE YTGPKQDVKA
+     ARDFILKLYQ DQNPDKEKVI YSHFTCATDT ENIRFVFAAV KDTILQLNLR EFNLV
+//

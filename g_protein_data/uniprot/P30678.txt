@@ -1,0 +1,155 @@
+ID   GNA15_MOUSE             Reviewed;         374 AA.
+AC   P30678; Q8K1S0;
+DT   01-APR-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1993, sequence version 1.
+DT   05-OCT-2016, entry version 144.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit alpha-15;
+DE            Short=G alpha-15;
+DE            Short=G-protein subunit alpha-15;
+GN   Name=Gna15; Synonyms=Gna-15;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=1946421; DOI=10.1073/pnas.88.22.10049;
+RA   Wilkie T.M., Scherle P.A., Strathmann M.P., Slepak V.Z., Simon M.I.;
+RT   "Characterization of G-protein alpha subunits in the Gq class:
+RT   expression in murine tissues and in stromal and hematopoietic cell
+RT   lines.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:10049-10053(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=129/Sv;
+RX   PubMed=8838318; DOI=10.1006/geno.1996.0059;
+RA   Davignon I., Barnard M., Gavrilova O., Sweet K.K., Wilkie T.M.;
+RT   "Gene structure of murine Gna11 and Gna15: tandemly duplicated Gq
+RT   class G protein alpha subunit genes.";
+RL   Genomics 31:359-366(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE OF 301-374, AND TISSUE SPECIFICITY.
+RX   PubMed=12401211; DOI=10.1016/S0014-5793(02)03409-9;
+RA   Contos J.J.A., Ye X., Sah V.P., Chun J.;
+RT   "Tandem genomic arrangement of a G protein (Gna15) and G protein-
+RT   coupled receptor (s1p(4)/lp(C1)/Edg6) gene.";
+RL   FEBS Lett. 531:99-102(2002).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site.
+CC   -!- TISSUE SPECIFICITY: Expressed primarily in hematopoietic cells.
+CC       Coexpressed with EDG6 at the same relative levels in all tissues
+CC       examined, with the highest levels in adult spleen and lung.
+CC       {ECO:0000269|PubMed:12401211}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(q) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M80632; AAA37713.1; -; mRNA.
+DR   EMBL; U37419; AAB36840.1; -; Genomic_DNA.
+DR   EMBL; U37414; AAB36840.1; JOINED; Genomic_DNA.
+DR   EMBL; U37415; AAB36840.1; JOINED; Genomic_DNA.
+DR   EMBL; U37416; AAB36840.1; JOINED; Genomic_DNA.
+DR   EMBL; U37417; AAB36840.1; JOINED; Genomic_DNA.
+DR   EMBL; U37418; AAB36840.1; JOINED; Genomic_DNA.
+DR   EMBL; BC005439; AAH05439.1; -; mRNA.
+DR   EMBL; BC011098; AAH11098.1; -; mRNA.
+DR   EMBL; AJ489247; CAD33253.1; -; Genomic_DNA.
+DR   CCDS; CCDS24060.1; -.
+DR   PIR; B41534; B41534.
+DR   RefSeq; NP_034434.1; NM_010304.3.
+DR   UniGene; Mm.1546; -.
+DR   ProteinModelPortal; P30678; -.
+DR   SMR; P30678; 16-369, 17-374.
+DR   STRING; 10090.ENSMUSP00000049175; -.
+DR   iPTMnet; P30678; -.
+DR   PaxDb; P30678; -.
+DR   PRIDE; P30678; -.
+DR   Ensembl; ENSMUST00000043709; ENSMUSP00000049175; ENSMUSG00000034792.
+DR   GeneID; 14676; -.
+DR   KEGG; mmu:14676; -.
+DR   UCSC; uc007gij.1; mouse.
+DR   CTD; 2769; -.
+DR   MGI; MGI:95770; Gna15.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P30678; -.
+DR   KO; K04637; -.
+DR   OMA; MYAGCVD; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P30678; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-MMU-399997; Acetylcholine regulates insulin secretion.
+DR   Reactome; R-MMU-416476; G alpha (q) signalling events.
+DR   Reactome; R-MMU-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-MMU-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-MMU-432142; Platelet sensitization by LDL.
+DR   Reactome; R-MMU-434316; Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion.
+DR   Reactome; R-MMU-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   ChiTaRS; Gna15; mouse.
+DR   PRO; PR:P30678; -.
+DR   Proteomes; UP000000589; Chromosome 10.
+DR   Bgee; ENSMUSG00000034792; -.
+DR   CleanEx; MM_GNA15; -.
+DR   Genevisible; P30678; MM.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; NAS:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; TAS:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IGI:UniProtKB.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; TAS:MGI.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007200; P:phospholipase C-activating G-protein coupled receptor signaling pathway; IMP:MGI.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; IGI:UniProtKB.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; GTP-binding; Magnesium; Metal-binding;
+KW   Nucleotide-binding; Reference proteome; Transducer.
+FT   CHAIN         1    374       Guanine nucleotide-binding protein
+FT                                subunit alpha-15.
+FT                                /FTId=PRO_0000203756.
+FT   NP_BIND      49     56       GTP. {ECO:0000250}.
+FT   NP_BIND     183    189       GTP. {ECO:0000250}.
+FT   NP_BIND     208    212       GTP. {ECO:0000250}.
+FT   NP_BIND     277    280       GTP. {ECO:0000250}.
+FT   METAL        56     56       Magnesium. {ECO:0000250}.
+FT   METAL       189    189       Magnesium. {ECO:0000250}.
+FT   BINDING     346    346       GTP; via amide nitrogen. {ECO:0000250}.
+SQ   SEQUENCE   374 AA;  43536 MW;  44F15DC52C8C233E CRC64;
+     MARSLTWGCC PWCLTEEEKT AARIDQEINR ILLEQKKQER EELKLLLLGP GESGKSTFIK
+     QMRIIHGVGY SEEDRRAFRL LIYQNIFVSM QAMIDAMDRL QIPFSRPDSK QHASLVMTQD
+     PYKVSTFEKP YAVAMQYLWR DAGIRACYER RREFHLLDSA VYYLSHLERI SEDSYIPTAQ
+     DVLRSRMPTT GINEYCFSVK KTKLRIVDVG GQRSERRKWI HCFENVIALI YLASLSEYDQ
+     CLEENDQENR MEESLALFST ILELPWFKST SVILFLNKTD ILEDKIHTSH LATYFPSFQG
+     PRRDAEAAKS FILDMYARVY ASCAEPQDGG RKGSRARRFF AHFTCATDTQ SVRSVFKDVR
+     DSVLARYLDE INLL
+//

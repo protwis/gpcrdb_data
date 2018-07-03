@@ -1,0 +1,155 @@
+ID   GNAO_BOVIN              Reviewed;         354 AA.
+AC   P08239; A5PJS0;
+DT   01-AUG-1988, integrated into UniProtKB/Swiss-Prot.
+DT   13-NOV-2007, sequence version 4.
+DT   22-NOV-2017, entry version 146.
+DE   RecName: Full=Guanine nucleotide-binding protein G(o) subunit alpha;
+DE   AltName: Full=GTP-binding protein G39;
+GN   Name=GNAO1;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=3106961; DOI=10.1073/pnas.84.10.3107;
+RA   van Meurs K.P., Angus C.W., Lavu S., Kung H.-F., Czarnecki S.K.,
+RA   Moss J., Vaughan M.;
+RT   "Deduced amino acid sequence of bovine retinal Go alpha: similarities
+RT   to other guanine nucleotide-binding proteins.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 84:3107-3111(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   TISSUE=Cerebellum;
+RA   Ovchinnikov Y.A., Slepak V.Z., Pronin A.N., Shlenskii A.B.,
+RA   Levina N.B., Voeikov V.L., Bystrov N.S., Severtsova I.V., Lipkin V.M.;
+RT   "G39, GTP-binding protein from bovine cerebellum. Amino acid sequence
+RT   and nucleotide sequence of the corresponding cDNA.";
+RL   Dokl. Biochem. 297:404-406(1987).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND PARTIAL PROTEIN SEQUENCE.
+RC   TISSUE=Cerebellum;
+RX   PubMed=3121394; DOI=10.1016/0014-5793(87)80557-4;
+RA   Ovchinnikov Y.A., Slepak V.Z., Pronin A.N., Shlensky A.B.,
+RA   Levina N.B., Voeikov V.L., Lipkin V.M.;
+RT   "Primary structure of bovine cerebellum GTP-binding protein G39 and
+RT   its effect on the adenylate cyclase system.";
+RL   FEBS Lett. 226:91-95(1987).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=Hereford; TISSUE=Basal ganglia;
+RG   NIH - Mammalian Gene Collection (MGC) project;
+RL   Submitted (JUN-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 146-206.
+RX   PubMed=3090546; DOI=10.1073/pnas.83.16.5813;
+RA   Angus C.W., van Meurs K.P., Tsai S.-C., Adamik R., Miedel M.C.,
+RA   Pan Y.-C.E., Kung H.-F., Moss J., Vaughan M.;
+RT   "Identification of the probable site of choleragen-catalyzed ADP-
+RT   ribosylation in a Go alpha-like protein based on cDNA sequence.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 83:5813-5816(1986).
+RN   [6]
+RP   MYRISTOYLATION AT GLY-2.
+RX   PubMed=3113429; DOI=10.1016/0006-291X(87)90780-7;
+RA   Schultz A.M., Tsai S.C., Kung H.F., Oroszlan S., Moss J., Vaughan M.;
+RT   "Hydroxylamine-stable covalent linkage of myristic acid in G0 alpha, a
+RT   guanine nucleotide-binding protein of bovine brain.";
+RL   Biochem. Biophys. Res. Commun. 146:1234-1239(1987).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. The G(o) protein function is not clear.
+CC       Stimulated by RGS14 (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Interacts with RGS14 (By similarity). G proteins are
+CC       composed of 3 units; alpha, beta and gamma. The alpha chain
+CC       contains the guanine nucleotide binding site.
+CC       {ECO:0000250|UniProtKB:P18872}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane
+CC       {ECO:0000250|UniProtKB:P18872}. Membrane
+CC       {ECO:0000250|UniProtKB:P09471}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P09471}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M16116; AAA30530.1; -; mRNA.
+DR   EMBL; X12924; CAA31391.1; -; mRNA.
+DR   EMBL; BC142217; AAI42218.1; -; mRNA.
+DR   EMBL; M14489; AAA30551.1; -; mRNA.
+DR   PIR; S00213; RGBOO1.
+DR   RefSeq; NP_776750.1; NM_174325.1.
+DR   UniGene; Bt.65084; -.
+DR   ProteinModelPortal; P08239; -.
+DR   SMR; P08239; -.
+DR   STRING; 9913.ENSBTAP00000033570; -.
+DR   iPTMnet; P08239; -.
+DR   SwissPalm; P08239; -.
+DR   PaxDb; P08239; -.
+DR   PRIDE; P08239; -.
+DR   GeneID; 281792; -.
+DR   KEGG; bta:281792; -.
+DR   CTD; 2775; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P08239; -.
+DR   KO; K04534; -.
+DR   Proteomes; UP000009136; Unplaced.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0051430; F:corticotropin-releasing hormone receptor 1 binding; IBA:GO_Central.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0031821; F:G-protein coupled serotonin receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0031852; F:mu-type opioid receptor binding; IBA:GO_Central.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007212; P:dopamine receptor signaling pathway; IBA:GO_Central.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Cell membrane; Complete proteome; Direct protein sequencing;
+KW   GTP-binding; Lipoprotein; Magnesium; Membrane; Metal-binding;
+KW   Myristate; Nucleotide-binding; Palmitate; Reference proteome;
+KW   Transducer.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:3113429}.
+FT   CHAIN         2    354       Guanine nucleotide-binding protein G(o)
+FT                                subunit alpha.
+FT                                /FTId=PRO_0000203699.
+FT   NP_BIND      40     47       GTP. {ECO:0000250}.
+FT   NP_BIND     176    182       GTP. {ECO:0000250}.
+FT   NP_BIND     201    205       GTP. {ECO:0000250}.
+FT   NP_BIND     270    273       GTP. {ECO:0000250}.
+FT   METAL        47     47       Magnesium. {ECO:0000250}.
+FT   METAL       182    182       Magnesium. {ECO:0000250}.
+FT   BINDING     326    326       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine.
+FT                                {ECO:0000269|PubMed:3113429}.
+FT   LIPID         3      3       S-palmitoyl cysteine. {ECO:0000250}.
+FT   CONFLICT    253    253       S -> F (in Ref. 2; CAA31391).
+FT                                {ECO:0000305}.
+FT   CONFLICT    263    263       T -> I (in Ref. 1; AAA30530).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   354 AA;  40067 MW;  052FB75F456A89A3 CRC64;
+     MGCTLSAEER AALERSKAIE KNLKEDGISA AKDVKLLLLG AGESGKSTIV KQMKIIHEDG
+     FSGEDVKQYK PVVYSNTIQS LAAIVRAMDT LGIEYGDKER KADAKMVCDV VSRMEDTEPF
+     SPELLSAMMR LWGDSGIQEC FNRSREYQLN DSAKYYLDSL DRIGAADYQP TEQDILRTRV
+     KTTGIVETHF TFKNLHFRLF DVGGQRSERK KWIHCFEDVT AIIFCVALSG YDQVLHEDET
+     TNRMHESLML FDSICNNKFF IDTSIILFLN KKDLFGEKIK KSPLTICFPE YTGSNTYEDA
+     AAYIQAQFES KNRSPNKEIY CHMTCATDTN NIQVVFDAVT DIIIANNLRG CGLY
+//

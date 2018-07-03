@@ -1,0 +1,369 @@
+ID   GNA11_HUMAN             Reviewed;         359 AA.
+AC   P29992; O15109; Q14350; Q6IB00;
+DT   01-APR-1993, integrated into UniProtKB/Swiss-Prot.
+DT   15-JUL-1998, sequence version 2.
+DT   05-OCT-2016, entry version 165.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit alpha-11;
+DE            Short=G alpha-11;
+DE            Short=G-protein subunit alpha-11;
+DE   AltName: Full=Guanine nucleotide-binding protein G(y) subunit alpha;
+GN   Name=GNA11; Synonyms=GA11;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Retina;
+RX   PubMed=1902575; DOI=10.1073/pnas.88.9.3907;
+RA   Jiang M., Pandey S., Tran V.T., Fong H.K.W.;
+RT   "Guanine nucleotide-binding regulatory proteins in retinal pigment
+RT   epithelial cells.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:3907-3911(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Bai X.H., Acharya R., Bai Y.H., Murtagh J.J.;
+RL   Submitted (JUL-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction
+RT   sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J.,
+RA   Lamerdin J.E., Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M.,
+RA   Aerts A., Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E.,
+RA   Caenepeel S., Carrano A.V., Caoile C., Chan Y.M., Christensen M.,
+RA   Cleland C.A., Copeland A., Dalin E., Dehal P., Denys M., Detter J.C.,
+RA   Escobar J., Flowers D., Fotopulos D., Garcia C., Georgescu A.M.,
+RA   Glavina T., Gomez M., Gonzales E., Groza M., Hammon N., Hawkins T.,
+RA   Haydu L., Ho I., Huang W., Israni S., Jett J., Kadner K., Kimball H.,
+RA   Kobayashi A., Larionov V., Leem S.-H., Lopez F., Lou Y., Lowry S.,
+RA   Malfatti S., Martinez D., McCready P.M., Medina C., Morgan J.,
+RA   Nelson K., Nolan M., Ovcharenko I., Pitluck S., Pollard M.,
+RA   Popkie A.P., Predki P., Quan G., Ramirez L., Rash S., Retterer J.,
+RA   Rodriguez A., Rogers S., Salamov A., Salazar A., She X., Smith D.,
+RA   Slezak T., Solovyev V., Thayer N., Tice H., Tsai M., Ustaszewska A.,
+RA   Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J., Dubchak I.,
+RA   Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Pancreas;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   PROTEIN SEQUENCE OF 42-52 AND 159-166, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RC   TISSUE=Cervix carcinoma;
+RA   Bienvenut W.V., Calvo F., Kolch W.;
+RL   Submitted (MAR-2008) to UniProtKB.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 244-337.
+RC   TISSUE=Hematopoietic;
+RX   PubMed=7492305; DOI=10.1042/bj3120151;
+RA   Thomas C.P., Dunn M.J., Mattera R.;
+RT   "Ca2+ signalling in K562 human erythroleukaemia cells: effect of
+RT   dimethyl sulphoxide and role of G-proteins in thrombin- and
+RT   thromboxane A2-activated pathways.";
+RL   Biochem. J. 312:151-158(1995).
+RN   [9]
+RP   INTERACTION WITH RGS22, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RC   TISSUE=Testis;
+RX   PubMed=18703424; DOI=10.1095/biolreprod.107.067504;
+RA   Hu Y., Xing J., Chen L., Guo X., Du Y., Zhao C., Zhu Y., Lin M.,
+RA   Zhou Z., Sha J.;
+RT   "RGS22, a novel testis-specific regulator of G-protein signaling
+RT   involved in human and mouse spermiogenesis along with GNA12/13
+RT   subunits.";
+RL   Biol. Reprod. 79:1021-1029(2008).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [11]
+RP   INTERACTION WITH NTSR1.
+RX   PubMed=21725197; DOI=10.4161/cbt.12.5.15984;
+RA   Heakal Y., Woll M.P., Fox T., Seaton K., Levenson R., Kester M.;
+RT   "Neurotensin receptor-1 inducible palmitoylation is required for
+RT   efficient receptor-mediated mitogenic-signaling within structured
+RT   membrane microdomains.";
+RL   Cancer Biol. Ther. 12:427-435(2011).
+RN   [12]
+RP   PALMITOYLATION AT CYS-9 AND CYS-10.
+RX   PubMed=21044946; DOI=10.1194/jlr.D011106;
+RA   Forrester M.T., Hess D.T., Thompson J.W., Hultman R., Moseley M.A.,
+RA   Stamler J.S., Casey P.J.;
+RT   "Site-specific analysis of protein S-acylation by resin-assisted
+RT   capture.";
+RL   J. Lipid Res. 52:393-398(2011).
+RN   [13]
+RP   DEAMIDATION AT GLN-209 (MICROBIAL INFECTION).
+RX   PubMed=24141704; DOI=10.1038/nsmb.2688;
+RA   Jank T., Bogdanovic X., Wirth C., Haaf E., Spoerner M., Boehmer K.E.,
+RA   Steinemann M., Orth J.H., Kalbitzer H.R., Warscheid B., Hunte C.,
+RA   Aktories K.;
+RT   "A bacterial toxin catalyzing tyrosine glycosylation of Rho and
+RT   deamidation of Gq and Gi proteins.";
+RL   Nat. Struct. Mol. Biol. 20:1273-1280(2013).
+RN   [14]
+RP   VARIANTS HYPOC2 CYS-60 AND TRP-211.
+RX   PubMed=23782177; DOI=10.1056/NEJMp1302941;
+RA   Memtsoudis S.G., Besculides M.C., Mazumdar M.;
+RT   "A rude awakening--the perioperative sleep apnea epidemic.";
+RL   N. Engl. J. Med. 368:2352-2353(2013).
+RN   [15]
+RP   VARIANTS HHC2 GLN-135 AND ILE-200 DEL, VARIANTS HYPOC2 GLN-181 AND
+RP   LEU-341, CHARACTERIZATION OF VARIANTS HHC2 GLN-135 AND ILE-200 DEL,
+RP   AND CHARACTERIZATION OF VARIANTS HYPOC2 GLN-181 AND LEU-341.
+RX   PubMed=23802516; DOI=10.1056/NEJMoa1300253;
+RA   Nesbit M.A., Hannan F.M., Howles S.A., Babinsky V.N., Head R.A.,
+RA   Cranston T., Rust N., Hobbs M.R., Heath H. III, Thakker R.V.;
+RT   "Mutations affecting G-protein subunit alpha11 in hypercalcemia and
+RT   hypocalcemia.";
+RL   N. Engl. J. Med. 368:2476-2486(2013).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. Acts as an activator of phospholipase C.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site. Interacts with RGS22. Interacts with NTSR1.
+CC       {ECO:0000269|PubMed:18703424, ECO:0000269|PubMed:21725197}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000305|PubMed:18703424};
+CC       Lipid-anchor {ECO:0000305|PubMed:18703424}. Cytoplasm
+CC       {ECO:0000269|PubMed:18703424}. Note=In testicular cells, expressed
+CC       exclusively in the cytoplasm.
+CC   -!- TISSUE SPECIFICITY: Expressed in testis.
+CC       {ECO:0000269|PubMed:18703424}.
+CC   -!- PTM: (Microbial infection) Deamidated at Gln-209 by Photorhabdus
+CC       asymbiotica toxin PAU_02230, blocking GTP hydrolysis of
+CC       heterotrimeric GNAQ or GNA11 and G-alphai (GNAI1, GNAI2 or GNAI3)
+CC       proteins, thereby activating RhoA. {ECO:0000269|PubMed:24141704}.
+CC   -!- DISEASE: Hypocalciuric hypercalcemia, familial 2 (HHC2)
+CC       [MIM:145981]: A form of hypocalciuric hypercalcemia, a disorder of
+CC       mineral homeostasis that is transmitted as an autosomal dominant
+CC       trait with a high degree of penetrance. It is characterized
+CC       biochemically by lifelong elevation of serum calcium
+CC       concentrations and is associated with inappropriately low urinary
+CC       calcium excretion and a normal or mildly elevated circulating
+CC       parathyroid hormone level. Hypermagnesemia is typically present.
+CC       Affected individuals are usually asymptomatic and the disorder is
+CC       considered benign. However, chondrocalcinosis and pancreatitis
+CC       occur in some adults. {ECO:0000269|PubMed:23802516}. Note=The
+CC       disease is caused by mutations affecting the gene represented in
+CC       this entry.
+CC   -!- DISEASE: Hypocalcemia, autosomal dominant 2 (HYPOC2) [MIM:615361]:
+CC       A form of hypocalcemia, a disorder of mineral homeostasis
+CC       characterized by blood calcium levels below normal, and low or
+CC       normal serum parathyroid hormone concentrations. Disease
+CC       manifestations include hypocalcemia, paresthesias, carpopedal
+CC       spasm, seizures, hypercalciuria with nephrocalcinosis or kidney
+CC       stones, and ectopic and basal ganglia calcifications.
+CC       {ECO:0000269|PubMed:23782177, ECO:0000269|PubMed:23802516}.
+CC       Note=The disease is caused by mutations affecting the gene
+CC       represented in this entry.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(q) subfamily.
+CC       {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology
+CC       and Haematology;
+CC       URL="http://atlasgeneticsoncology.org/Genes/GNA11ID43272ch19p13.html";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M69013; AAA58624.1; -; mRNA.
+DR   EMBL; AF011497; AAB64303.1; -; mRNA.
+DR   EMBL; AF493900; AAM12614.1; -; mRNA.
+DR   EMBL; CR457004; CAG33285.1; -; mRNA.
+DR   EMBL; AC005262; AAC25615.1; -; Genomic_DNA.
+DR   EMBL; BC089041; AAH89041.1; -; mRNA.
+DR   EMBL; BC096225; AAH96225.1; -; mRNA.
+DR   EMBL; BC096226; AAH96226.1; -; mRNA.
+DR   EMBL; BC096227; AAH96227.1; -; mRNA.
+DR   EMBL; L40630; AAA99949.1; -; mRNA.
+DR   CCDS; CCDS12103.1; -.
+DR   PIR; A39394; RGHUGY.
+DR   RefSeq; NP_002058.2; NM_002067.4.
+DR   UniGene; Hs.650575; -.
+DR   UniGene; Hs.654784; -.
+DR   ProteinModelPortal; P29992; -.
+DR   SMR; P29992; 13-354.
+DR   BioGrid; 109029; 35.
+DR   IntAct; P29992; 6.
+DR   MINT; MINT-4999662; -.
+DR   STRING; 9606.ENSP00000078429; -.
+DR   iPTMnet; P29992; -.
+DR   SwissPalm; P29992; -.
+DR   DMDM; 3041682; -.
+DR   EPD; P29992; -.
+DR   MaxQB; P29992; -.
+DR   PaxDb; P29992; -.
+DR   PeptideAtlas; P29992; -.
+DR   PRIDE; P29992; -.
+DR   Ensembl; ENST00000078429; ENSP00000078429; ENSG00000088256.
+DR   GeneID; 2767; -.
+DR   KEGG; hsa:2767; -.
+DR   UCSC; uc010xhe.5; human.
+DR   CTD; 2767; -.
+DR   GeneCards; GNA11; -.
+DR   HGNC; HGNC:4379; GNA11.
+DR   HPA; HPA048886; -.
+DR   MalaCards; GNA11; -.
+DR   MIM; 139313; gene.
+DR   MIM; 145981; phenotype.
+DR   MIM; 615361; phenotype.
+DR   neXtProt; NX_P29992; -.
+DR   Orphanet; 428; Autosomal dominant hypocalcemia.
+DR   Orphanet; 101049; Familial hypocalciuric hypercalcemia type 2.
+DR   PharmGKB; PA28764; -.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P29992; -.
+DR   KO; K04635; -.
+DR   OMA; CCISEEA; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P29992; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-HSA-399997; Acetylcholine regulates insulin secretion.
+DR   Reactome; R-HSA-416476; G alpha (q) signalling events.
+DR   Reactome; R-HSA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-HSA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-HSA-434316; Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion.
+DR   Reactome; R-HSA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   SIGNOR; P29992; -.
+DR   ChiTaRS; GNA11; human.
+DR   GeneWiki; GNA11; -.
+DR   GenomeRNAi; 2767; -.
+DR   PRO; PR:P29992; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   Bgee; ENSG00000088256; -.
+DR   CleanEx; HS_GNA11; -.
+DR   ExpressionAtlas; P29992; baseline and differential.
+DR   Genevisible; P29992; HS.
+DR   GO; GO:0005737; C:cytoplasm; TAS:ProtInc.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0005765; C:lysosomal membrane; IDA:UniProtKB.
+DR   GO; GO:0001750; C:photoreceptor outer segment; ISS:AgBase.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; TAS:Reactome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0031826; F:type 2A serotonin receptor binding; IBA:GO_Central.
+DR   GO; GO:0001508; P:action potential; IBA:GO_Central.
+DR   GO; GO:0071467; P:cellular response to pH; IEA:Ensembl.
+DR   GO; GO:0048066; P:developmental pigmentation; IEA:Ensembl.
+DR   GO; GO:0009649; P:entrainment of circadian clock; ISS:AgBase.
+DR   GO; GO:0007213; P:G-protein coupled acetylcholine receptor signaling pathway; ISS:AgBase.
+DR   GO; GO:0007507; P:heart development; IEA:Ensembl.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007603; P:phototransduction, visible light; ISS:AgBase.
+DR   GO; GO:0030168; P:platelet activation; TAS:Reactome.
+DR   GO; GO:0045634; P:regulation of melanocyte differentiation; IEA:Ensembl.
+DR   GO; GO:0007165; P:signal transduction; TAS:ProtInc.
+DR   GO; GO:0001501; P:skeletal system development; IEA:Ensembl.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   ADP-ribosylation; Cell membrane; Complete proteome; Cytoplasm;
+KW   Direct protein sequencing; Disease mutation; GTP-binding; Lipoprotein;
+KW   Magnesium; Membrane; Metal-binding; Nucleotide-binding; Palmitate;
+KW   Reference proteome; Transducer.
+FT   CHAIN         1    359       Guanine nucleotide-binding protein
+FT                                subunit alpha-11.
+FT                                /FTId=PRO_0000203746.
+FT   NP_BIND      46     53       GTP. {ECO:0000250|UniProtKB:P63096}.
+FT   NP_BIND     180    186       GTP. {ECO:0000250}.
+FT   NP_BIND     205    209       GTP. {ECO:0000250|UniProtKB:P63096}.
+FT   NP_BIND     274    277       GTP. {ECO:0000250|UniProtKB:P63096}.
+FT   METAL        53     53       Magnesium. {ECO:0000250}.
+FT   METAL       186    186       Magnesium. {ECO:0000250}.
+FT   BINDING     331    331       GTP; via amide nitrogen. {ECO:0000250}.
+FT   MOD_RES     183    183       ADP-ribosylarginine; by cholera toxin.
+FT                                {ECO:0000250}.
+FT   MOD_RES     209    209       Deamidated glutamine; by Photorhabdus
+FT                                PAU_02230. {ECO:0000269|PubMed:24141704}.
+FT   LIPID         9      9       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:21044946}.
+FT   LIPID        10     10       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:21044946}.
+FT   VARIANT      60     60       R -> C (in HYPOC2; dbSNP:rs587777021).
+FT                                {ECO:0000269|PubMed:23782177}.
+FT                                /FTId=VAR_070165.
+FT   VARIANT     135    135       L -> Q (in HHC2; induces a decrease in
+FT                                sensitivity to changes in extracellular
+FT                                calcium concentrations;
+FT                                dbSNP:rs587777019).
+FT                                {ECO:0000269|PubMed:23802516}.
+FT                                /FTId=VAR_070166.
+FT   VARIANT     181    181       R -> Q (in HYPOC2; induces an increase in
+FT                                sensitivity to changes in extracellular
+FT                                calcium concentrations;
+FT                                dbSNP:rs587777020).
+FT                                {ECO:0000269|PubMed:23802516}.
+FT                                /FTId=VAR_070167.
+FT   VARIANT     200    200       Missing (in HHC2; induces a decrease in
+FT                                sensitivity to changes in extracellular
+FT                                calcium concentrations).
+FT                                {ECO:0000269|PubMed:23802516}.
+FT                                /FTId=VAR_070168.
+FT   VARIANT     211    211       S -> W (in HYPOC2; dbSNP:rs587777022).
+FT                                {ECO:0000269|PubMed:23782177}.
+FT                                /FTId=VAR_070169.
+FT   VARIANT     341    341       F -> L (in HYPOC2; induces an increase in
+FT                                sensitivity to changes in extracellular
+FT                                calcium concentrations;
+FT                                dbSNP:rs140749796).
+FT                                {ECO:0000269|PubMed:23802516}.
+FT                                /FTId=VAR_070170.
+FT   CONFLICT      6      6       M -> I (in Ref. 2; AAB64303).
+FT                                {ECO:0000305}.
+FT   CONFLICT    266    266       N -> H (in Ref. 8; AAA99949).
+FT                                {ECO:0000305}.
+FT   CONFLICT    285    285       Y -> H (in Ref. 8; AAA99949).
+FT                                {ECO:0000305}.
+FT   CONFLICT    301    302       DA -> EP (in Ref. 1; AAA58624).
+FT                                {ECO:0000305}.
+FT   CONFLICT    310    310       L -> P (in Ref. 2; AAB64303).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   359 AA;  42123 MW;  DD37176589E66046 CRC64;
+     MTLESMMACC LSDEVKESKR INAEIEKQLR RDKRDARREL KLLLLGTGES GKSTFIKQMR
+     IIHGAGYSEE DKRGFTKLVY QNIFTAMQAM IRAMETLKIL YKYEQNKANA LLIREVDVEK
+     VTTFEHQYVS AIKTLWEDPG IQECYDRRRE YQLSDSAKYY LTDVDRIATL GYLPTQQDVL
+     RVRVPTTGII EYPFDLENII FRMVDVGGQR SERRKWIHCF ENVTSIMFLV ALSEYDQVLV
+     ESDNENRMEE SKALFRTIIT YPWFQNSSVI LFLNKKDLLE DKILYSHLVD YFPEFDGPQR
+     DAQAAREFIL KMFVDLNPDS DKIIYSHFTC ATDTENIRFV FAAVKDTILQ LNLKEYNLV
+//

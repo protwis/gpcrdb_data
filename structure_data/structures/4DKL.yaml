@@ -20,9 +20,6 @@ endogenous_ligand:
 -   iupharId: 1614
     name: met-enkephalin
     type: Peptide
--   iupharId: 1643
-    name: endorphin
-    type: Peptide
 ligand:
 -   name: BF0
     pubchemId: None

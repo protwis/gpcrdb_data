@@ -1,0 +1,78 @@
+ID   A0A0D9RYG1_CHLSB        Unreviewed;       305 AA.
+AC   A0A0D9RYG1;
+DT   27-MAY-2015, integrated into UniProtKB/TrEMBL.
+DT   27-MAY-2015, sequence version 1.
+DT   28-MAR-2018, entry version 14.
+DE   SubName: Full=G protein subunit alpha 12 {ECO:0000313|Ensembl:ENSCSAP00000013650};
+GN   Name=GNA12 {ECO:0000313|Ensembl:ENSCSAP00000013650};
+OS   Chlorocebus sabaeus (Green monkey) (Cercopithecus sabaeus).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+OX   NCBI_TaxID=60711 {ECO:0000313|Ensembl:ENSCSAP00000013650, ECO:0000313|Proteomes:UP000029965};
+RN   [1] {ECO:0000313|Ensembl:ENSCSAP00000013650, ECO:0000313|Proteomes:UP000029965}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Warren W., Wilson R.K.;
+RL   Submitted (MAR-2014) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSCSAP00000013650}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (APR-2015) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AQIB01147468; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AQIB01147469; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AQIB01147470; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AQIB01147471; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; XP_008017022.1; XM_008018831.1.
+DR   Ensembl; ENSCSAT00000015719; ENSCSAP00000013650; ENSCSAG00000017624.
+DR   GeneID; 103246857; -.
+DR   KEGG; csab:103246857; -.
+DR   CTD; 2768; -.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   KO; K04346; -.
+DR   OMA; KEYQHVI; -.
+DR   Proteomes; UP000029965; Chromosome 28.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0030154; P:cell differentiation; IEA:Ensembl.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IEA:Ensembl.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0001701; P:in utero embryonic development; IEA:Ensembl.
+DR   GO; GO:0008360; P:regulation of cell shape; IEA:Ensembl.
+DR   GO; GO:0010762; P:regulation of fibroblast migration; IEA:Ensembl.
+DR   GO; GO:0032434; P:regulation of proteasomal ubiquitin-dependent protein catabolic process; IEA:Ensembl.
+DR   GO; GO:0032006; P:regulation of TOR signaling; IEA:Ensembl.
+DR   GO; GO:0007266; P:Rho protein signal transduction; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000469; Gprotein_alpha_12/13.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00440; GPROTEINA12.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000029965};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000029965}.
+SQ   SEQUENCE   305 AA;  35952 MW;  C16BDC95F8CE2C9B CRC64;
+     MRIIHGREFD QKALLEFRDT IFDNILKGSR VLVDARDKLG IPWQYSENEK HGMFLMAFEN
+     KAGLPVEPAT FQLYVPALSA LWRDSGIREA FSRRSEFQLG ESVKYFLDNL DRIGQLNYFP
+     SKQDILLARK ATKGIVEHDF VIKKIPFKMV DVGGQRSQRQ KWFQCFDGIT SILFMVSSSE
+     YDQVLMEDRR TNRLVESMNI FETIVNNKLF FNVSIILFLN KMDLLVEKVK TVSIKKHFPD
+     FRGDPHRLED VQRYLVQCFD RKRRNRSKPL FHHFTTAIDT ENVRFVFHAV KDTILQENLK
+     DIMLQ
+//

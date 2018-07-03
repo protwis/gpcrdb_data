@@ -1,0 +1,32 @@
+auxiliary_protein: 'scFv16'
+construct: 6dde
+distance: 7.19
+endogenous_ligand:
+-   iupharId: 1643
+    name: endorphin
+    type: Peptide
+-   iupharId: 1620
+    name: dynorphin A
+    type: Peptide
+-   iupharId: 1622
+    name: dynorphin B
+    type: Peptide
+-   iupharId: 1623
+    name: endomorphin-1
+    type: Peptide
+-   iupharId: 1613
+    name: leo-enkephalin
+    type: Peptide
+-   iupharId: 1614
+    name: met-enkephalin
+    type: Peptide
+ligand:
+    name: DAM
+    pubchemId: 5462471
+    role: Agonist
+    title: DAMGO
+    type: Peptide-like
+pdb: 6DDE
+preferred_chain: R
+signaling_protein: Gi
+state: Intermediate

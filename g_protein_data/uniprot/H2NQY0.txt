@@ -1,0 +1,86 @@
+ID   H2NQY0_PONAB            Unreviewed;       354 AA.
+AC   H2NQY0;
+DT   21-MAR-2012, integrated into UniProtKB/TrEMBL.
+DT   09-JAN-2013, sequence version 2.
+DT   28-MAR-2018, entry version 41.
+DE   SubName: Full=G protein subunit alpha o1 {ECO:0000313|Ensembl:ENSPPYP00000008317};
+GN   Name=GNAO1 {ECO:0000313|Ensembl:ENSPPYP00000008317};
+OS   Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Pongo.
+OX   NCBI_TaxID=9601 {ECO:0000313|Ensembl:ENSPPYP00000008317, ECO:0000313|Proteomes:UP000001595};
+RN   [1] {ECO:0000313|Ensembl:ENSPPYP00000008317, ECO:0000313|Proteomes:UP000001595}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Wilson R.K., Mardis E.;
+RT   "A 6x draft sequence assembly of the Pongo pygmaeus abelii genome.";
+RL   Submitted (FEB-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSPPYP00000008317}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (FEB-2012) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ABGA01401063; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01401064; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01401065; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01401066; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01401067; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01401068; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01401069; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01401070; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01401071; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01401072; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; XP_009249013.1; XM_009250738.1.
+DR   STRING; 9601.ENSPPYP00000008317; -.
+DR   Ensembl; ENSPPYT00000008657; ENSPPYP00000008317; ENSPPYG00000007363.
+DR   GeneID; 100454626; -.
+DR   CTD; 2775; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; H2NQY0; -.
+DR   OMA; VARMEDT; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000001595; Chromosome 16.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0043209; C:myelin sheath; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:Ensembl.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0007212; P:dopamine receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007626; P:locomotory behavior; IEA:Ensembl.
+DR   GO; GO:0008016; P:regulation of heart contraction; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001595};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001595};
+KW   Transducer {ECO:0000256|SAAS:SAAS00754915}.
+SQ   SEQUENCE   354 AA;  40066 MW;  B00FD80F0ADFD0B1 CRC64;
+     MGCTKSAEER AALERSKAIE KNLKEDGISA AKDVKLLLLG AGESGKSTIV KQMKIIHEDG
+     FSGEDVKQYK PVVYSNTIQS LAAIVRAMDT LGIEYGDKER KADAKMVCDV VSRMEDTEPF
+     SAELLSAMMR LWGDSGIQEC FNRSREYQLN DSAKYYLDSL DRIGAADYQP TEQDILRTRV
+     KTTGIVETHF TFKNLHFRLF DVGGQRSERK KWIHCFEDVT AIIFCVALSG YDQVLHEDET
+     TNRMHESLML FDSICNNKFF IDTSIILFLN KKDLFGEKIK KSPLTICFPE YTGPNTYEDA
+     AAYIQAQFES KNRSPNKEIY CHMTCATDTN NIQVVFDAVT DIIIANNLRG CGLY
+//

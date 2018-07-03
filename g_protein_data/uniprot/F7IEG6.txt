@@ -1,0 +1,83 @@
+ID   F7IEG6_CALJA            Unreviewed;       355 AA.
+AC   F7IEG6;
+DT   27-JUL-2011, integrated into UniProtKB/TrEMBL.
+DT   27-JUL-2011, sequence version 1.
+DT   28-MAR-2018, entry version 44.
+DE   SubName: Full=G protein subunit alpha 14 {ECO:0000313|Ensembl:ENSCJAP00000005929};
+GN   Name=GNA14 {ECO:0000313|Ensembl:ENSCJAP00000005929};
+OS   Callithrix jacchus (White-tufted-ear marmoset).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Platyrrhini; Cebidae; Callitrichinae; Callithrix; Callithrix.
+OX   NCBI_TaxID=9483 {ECO:0000313|Ensembl:ENSCJAP00000005929, ECO:0000313|Proteomes:UP000008225};
+RN   [1] {ECO:0000313|Ensembl:ENSCJAP00000005929, ECO:0000313|Proteomes:UP000008225}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Warren W., Ye L., Minx P., Worley K., Gibbs R., Wilson R.K.;
+RL   Submitted (MAR-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSCJAP00000005929}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (JUN-2011) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ACFV01061449; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACFV01061450; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACFV01061451; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACFV01061452; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACFV01061453; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACFV01061454; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACFV01061455; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACFV01061456; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACFV01061457; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACFV01061458; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; XP_002742863.1; XM_002742817.3.
+DR   STRING; 9483.ENSCJAP00000005929; -.
+DR   Ensembl; ENSCJAT00000006248; ENSCJAP00000005929; ENSCJAG00000003258.
+DR   GeneID; 100404098; -.
+DR   KEGG; cjc:100404098; -.
+DR   CTD; 9630; -.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; F7IEG6; -.
+DR   KO; K04636; -.
+DR   OMA; DRIAMPS; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000008225; Chromosome 1.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008225};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008225}.
+FT   COILED        7     27       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   355 AA;  41753 MW;  BB948838907EC7B9 CRC64;
+     MARCCCLSAE EKESQRISAE IERQLRRDKK DARRELKLLL LGTGESGKST FIKQMRIIHG
+     SGYSDEDRRG FTKLVYQNIF TAMQSMIRAM DTLRIQYVCE QNKENAQIIR EVEVDKLSML
+     SREQVEAIKQ LWQDPGIQEC YDRRREYQLS DSAKYYLTDI DRIAMPSFVP TQQDVLRVRV
+     PTTGITEYPF DLENIIFRMV DVGGQRSERR KWIHCFESVT SIIFLVALSE YDQVLAECHN
+     ENRMEESKAL FKTIITYPWF LNSSVILFLN KKDLLEEKIM YSHLISYFPE YTGPKQDVKA
+     ARDFILKLYQ DQNPDKQKVI YSHFTCATDT ENIRFVFAAV KDTILQLNLR EFNLV
+//

@@ -1,0 +1,92 @@
+ID   M3W6X3_FELCA            Unreviewed;       338 AA.
+AC   M3W6X3;
+DT   01-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   28-FEB-2018, sequence version 2.
+DT   28-MAR-2018, entry version 36.
+DE   SubName: Full=G protein subunit alpha i2 {ECO:0000313|Ensembl:ENSFCAP00000006501};
+GN   Name=GNAI2 {ECO:0000313|Ensembl:ENSFCAP00000006501};
+OS   Felis catus (Cat) (Felis silvestris catus).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+OC   Felinae; Felis.
+OX   NCBI_TaxID=9685 {ECO:0000313|Ensembl:ENSFCAP00000006501, ECO:0000313|Proteomes:UP000011712};
+RN   [1] {ECO:0000313|Ensembl:ENSFCAP00000006501, ECO:0000313|Proteomes:UP000011712}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Abyssinian {ECO:0000313|Ensembl:ENSFCAP00000006501,
+RC   ECO:0000313|Proteomes:UP000011712};
+RX   PubMed=17975172; DOI=10.1101/gr.6380007;
+RA   Pontius J.U., Mullikin J.C., Smith D.R., Lindblad-Toh K., Gnerre S.,
+RA   Clamp M., Chang J., Stephens R., Neelam B., Volfovsky N.,
+RA   Schaffer A.A., Agarwala R., Narfstrom K., Murphy W.J., Giger U.,
+RA   Roca A.L., Antunes A., Menotti-Raymond M., Yuhki N.,
+RA   Pecon-Slattery J., Johnson W.E., Bourque G., Tesler G., O'Brien S.J.;
+RT   "Initial sequence and comparative analysis of the cat genome.";
+RL   Genome Res. 17:1675-1689(2007).
+RN   [2] {ECO:0000313|Ensembl:ENSFCAP00000006501}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Abyssinian {ECO:0000313|Ensembl:ENSFCAP00000006501};
+RA   Hillier L.W., Warren W., Obrien S., Wilson R.K.;
+RT   "Sequence assembly of the Felis catus genome version 6.2.";
+RL   Submitted (SEP-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|Ensembl:ENSFCAP00000006501}
+RP   IDENTIFICATION.
+RC   STRAIN=breed Abyssinian {ECO:0000313|Ensembl:ENSFCAP00000006501};
+RG   Ensembl;
+RL   Submitted (MAR-2013) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AANG03014385; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AANG03014386; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AANG03014387; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AANG03014388; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AANG03014389; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; XP_011289977.1; XM_011291675.2.
+DR   STRING; 9685.ENSFCAP00000006501; -.
+DR   Ensembl; ENSFCAT00000007010; ENSFCAP00000006501; ENSFCAG00000007008.
+DR   GeneID; 101089679; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; M3W6X3; -.
+DR   OMA; EQGIMPD; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   Proteomes; UP000011712; Chromosome A2.
+DR   Bgee; ENSFCAG00000007008; -.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0001973; P:adenosine receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007193; P:adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007214; P:gamma-aminobutyric acid signaling pathway; IBA:GO_Central.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000011712};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000011712};
+KW   Transducer {ECO:0000256|SAAS:SAAS00754915}.
+SQ   SEQUENCE   338 AA;  38729 MW;  18DE5339BA197EAE CRC64;
+     MIDKNLREDG EKAAREVKLL LLGAGESGKS TIVKQMKIIH EDGYSEEECR QYRAVVYSNT
+     IQSIMAIVKA MGNLQIDFAD PSRADDARQL FALSCTAEEQ GVLPEDLSGV IRRLWADHGV
+     QACFGRSREY QLNDSAAYYL NDLERIAQSD YIPTQQDVLR TRVKTTGIVE THFTFKDLHF
+     KMFDVGGQRS ERKKWIHCFE GVTAIIFCVA LSAYDLVLAE DEEMNRMHES MKLFDSICNN
+     KWFTDTSIIL FLNKKDLFEE KITHSPLTIC FPEYTGANKY DEAASYIQSK FEDLNKRKDT
+     KEIYTHFTCA TDTKNVQFVF DAVTDVIIKN NLKDCGLF
+//

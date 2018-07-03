@@ -1,0 +1,125 @@
+ID   GNAT2_BOVIN             Reviewed;         354 AA.
+AC   P04696;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 148.
+DE   RecName: Full=Guanine nucleotide-binding protein G(t) subunit alpha-2;
+DE   AltName: Full=Transducin alpha-2 chain;
+GN   Name=GNAT2;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=3856323; DOI=10.1126/science.3856323;
+RA   Lochrie M.A., Hurley J.B., Simon M.I.;
+RT   "Sequence of the alpha subunit of photoreceptor G protein: homologies
+RT   between transducin, ras, and elongation factors.";
+RL   Science 228:96-99(1985).
+RN   [2]
+RP   FUNCTION.
+RX   PubMed=6586721;
+RA   Navon S., Fung B.K.-K.;
+RT   "Characterization of transducin from bovine retinal rod outer
+RT   segments. Mechanism and effects of cholera toxin-catalyzed ADP-
+RT   ribosylation.";
+RL   J. Biol. Chem. 259:6686-6693(1984).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. Transducin is an amplifier and one of the
+CC       transducers of a visual impulse that performs the coupling between
+CC       rhodopsin and cGMP-phosphodiesterase.
+CC       {ECO:0000269|PubMed:6586721}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site.
+CC   -!- TISSUE SPECIFICITY: Retinal rod outer segment.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M11116; AAA30790.1; -; mRNA.
+DR   PIR; A94279; RGBOT2.
+DR   RefSeq; NP_776751.1; NM_174326.2.
+DR   UniGene; Bt.472; -.
+DR   ProteinModelPortal; P04696; -.
+DR   STRING; 9913.ENSBTAP00000017305; -.
+DR   PaxDb; P04696; -.
+DR   PRIDE; P04696; -.
+DR   Ensembl; ENSBTAT00000017305; ENSBTAP00000017305; ENSBTAG00000013017.
+DR   GeneID; 281795; -.
+DR   KEGG; bta:281795; -.
+DR   CTD; 2780; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P04696; -.
+DR   KO; K04631; -.
+DR   OMA; ECLEYKA; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-BTA-112043; PLC beta mediated events.
+DR   Reactome; R-BTA-202040; G-protein activation.
+DR   Reactome; R-BTA-4086398; Ca2+ pathway.
+DR   Reactome; R-BTA-418594; G alpha (i) signalling events.
+DR   Reactome; R-BTA-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Proteomes; UP000009136; Chromosome 3.
+DR   Bgee; ENSBTAG00000013017; -.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IBA:GO_Central.
+DR   GO; GO:0001750; C:photoreceptor outer segment; IDA:UniProtKB.
+DR   GO; GO:0042622; C:photoreceptor outer segment membrane; IDA:UniProtKB.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0001580; P:detection of chemical stimulus involved in sensory perception of bitter taste; IBA:GO_Central.
+DR   GO; GO:0050908; P:detection of light stimulus involved in visual perception; IEA:Ensembl.
+DR   GO; GO:0007602; P:phototransduction; IEA:Ensembl.
+DR   GO; GO:0046549; P:retinal cone cell development; IEA:Ensembl.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; GTP-binding; Lipoprotein; Magnesium; Metal-binding;
+KW   Myristate; Nucleotide-binding; Reference proteome;
+KW   Sensory transduction; Transducer; Vision.
+FT   INIT_MET      1      1       Removed.
+FT   CHAIN         2    354       Guanine nucleotide-binding protein G(t)
+FT                                subunit alpha-2.
+FT                                /FTId=PRO_0000203739.
+FT   NP_BIND      40     47       GTP. {ECO:0000250}.
+FT   NP_BIND     175    181       GTP. {ECO:0000250}.
+FT   NP_BIND     200    204       GTP. {ECO:0000250}.
+FT   NP_BIND     269    272       GTP. {ECO:0000250}.
+FT   METAL        47     47       Magnesium. {ECO:0000250}.
+FT   METAL       181    181       Magnesium. {ECO:0000250}.
+FT   BINDING     326    326       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine. {ECO:0000250}.
+SQ   SEQUENCE   354 AA;  40144 MW;  EE13B7B5A660A533 CRC64;
+     MGSGASAEDK ELAKRSKELE KKLQEDADKE AKTVKLLLLG AGESGKSTIV KQMKIIHQDG
+     YSPEECLEYK AIIYGNVLQS ILAIIRAMPT LGIDYAEVSC VDNGRQLNNL ADSIEEGTMP
+     PELVEVIRKL WKDGGVQACF DRAAEYQLND SASYYLNQLD RITAPDYLPN EQDVLRSRVK
+     TTGIIETKFS VKDLNFRMFD VGGQRSERKK WIHCFEGVTC IIFCAALSAY DMVLVEDDEV
+     NRMHESLHLF NSICNHKFFA ATSIVLFLNK KDLFEEKIKK VHLSICFPEY DGNNSYEDAG
+     NYIKSQFLDL NMRKDVKEIY SHMTCATDTQ NVKFVFDAVT DIIIKENLKD CGLF
+//

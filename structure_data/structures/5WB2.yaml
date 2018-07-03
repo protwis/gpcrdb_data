@@ -1,0 +1,12 @@
+auxiliary_protein: 'Nanobody 7, Nanobody B1'
+construct: 5wb2
+ligand:
+-   name: CX3CL1
+    pubchemId: None
+    role: Agonist
+    title: CX3CL1
+    type: Peptide
+pdb: 5WB2
+preferred_chain: A
+signaling_protein: None
+state: Active

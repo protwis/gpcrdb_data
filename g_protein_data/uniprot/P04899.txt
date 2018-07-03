@@ -1,0 +1,479 @@
+ID   GNAI2_HUMAN             Reviewed;         355 AA.
+AC   P04899; B3KTZ0; B4DYA0; B4E2X5; Q6B6N3; Q8IZ71;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 191.
+DE   RecName: Full=Guanine nucleotide-binding protein G(i) subunit alpha-2;
+DE   AltName: Full=Adenylate cyclase-inhibiting G alpha protein;
+GN   Name=GNAI2; Synonyms=GNAI2B;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=3100330; DOI=10.1016/0014-5793(87)81428-X;
+RA   Didsbury J.R., Ho Y.-S., Snyderman R.;
+RT   "Human Gi protein alpha-subunit: deduction of amino acid structure
+RT   from a cloned cDNA.";
+RL   FEBS Lett. 211:160-164(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3120178; DOI=10.1073/pnas.84.22.7886;
+RA   Beals C.R., Wilson C.B., Perlmutter R.M.;
+RT   "A small multigene family encodes Gi signal-transduction proteins.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 84:7886-7890(1987).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2834384;
+RA   Itoh H., Toyama R., Kozasa T., Tsukamoto T., Matsuoka M., Kaziro Y.;
+RT   "Presence of three distinct molecular species of Gi protein alpha
+RT   subunit. Structure of rat cDNAs and human genomic DNAs.";
+RL   J. Biol. Chem. 263:6656-6664(1988).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SGI2), AND FUNCTION (ISOFORM
+RP   SGI2).
+RC   TISSUE=Brain;
+RX   PubMed=17550964; DOI=10.1242/jcs.005611;
+RA   Lopez-Aranda M.F., Acevedo M.J., Gutierrez A., Koulen P., Khan Z.U.;
+RT   "Role of a Galphai2 protein splice variant in the formation of an
+RT   intracellular dopamine D2 receptor pool.";
+RL   J. Cell Sci. 120:2171-2178(2007).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction
+RT   sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 3; 5 AND 6).
+RC   TISSUE=Brain, Teratocarcinoma, Testis, and Uterus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16641997; DOI=10.1038/nature04728;
+RA   Muzny D.M., Scherer S.E., Kaul R., Wang J., Yu J., Sudbrak R.,
+RA   Buhay C.J., Chen R., Cree A., Ding Y., Dugan-Rocha S., Gill R.,
+RA   Gunaratne P., Harris R.A., Hawes A.C., Hernandez J., Hodgson A.V.,
+RA   Hume J., Jackson A., Khan Z.M., Kovar-Smith C., Lewis L.R.,
+RA   Lozado R.J., Metzker M.L., Milosavljevic A., Miner G.R., Morgan M.B.,
+RA   Nazareth L.V., Scott G., Sodergren E., Song X.-Z., Steffen D., Wei S.,
+RA   Wheeler D.A., Wright M.W., Worley K.C., Yuan Y., Zhang Z., Adams C.Q.,
+RA   Ansari-Lari M.A., Ayele M., Brown M.J., Chen G., Chen Z.,
+RA   Clendenning J., Clerc-Blankenburg K.P., Chen R., Chen Z., Davis C.,
+RA   Delgado O., Dinh H.H., Dong W., Draper H., Ernst S., Fu G.,
+RA   Gonzalez-Garay M.L., Garcia D.K., Gillett W., Gu J., Hao B.,
+RA   Haugen E., Havlak P., He X., Hennig S., Hu S., Huang W., Jackson L.R.,
+RA   Jacob L.S., Kelly S.H., Kube M., Levy R., Li Z., Liu B., Liu J.,
+RA   Liu W., Lu J., Maheshwari M., Nguyen B.-V., Okwuonu G.O., Palmeiri A.,
+RA   Pasternak S., Perez L.M., Phelps K.A., Plopper F.J., Qiang B.,
+RA   Raymond C., Rodriguez R., Saenphimmachak C., Santibanez J., Shen H.,
+RA   Shen Y., Subramanian S., Tabor P.E., Verduzco D., Waldron L., Wang J.,
+RA   Wang J., Wang Q., Williams G.A., Wong G.K.-S., Yao Z., Zhang J.,
+RA   Zhang X., Zhao G., Zhou J., Zhou Y., Nelson D., Lehrach H.,
+RA   Reinhardt R., Naylor S.L., Yang H., Olson M., Weinstock G.,
+RA   Gibbs R.A.;
+RT   "The DNA sequence, annotation and analysis of human chromosome 3.";
+RL   Nature 440:1194-1198(2006).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Kidney, and Mammary gland;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-39.
+RX   PubMed=2837412; DOI=10.1016/0014-5793(88)80764-6;
+RA   Weinstein L.S., Spiegel A.M., Carter A.D.;
+RT   "Cloning and characterization of the human gene for the alpha-subunit
+RT   of Gi2, a GTP-binding signal transduction protein.";
+RL   FEBS Lett. 232:333-340(1988).
+RN   [11]
+RP   INTERACTION WITH UNC5B.
+RX   PubMed=12359238; DOI=10.1016/S0006-291X(02)02277-5;
+RA   Komatsuzaki K., Dalvin S., Kinane T.B.;
+RT   "Modulation of G(ialpha(2)) signaling by the axonal guidance molecule
+RT   UNC5H2.";
+RL   Biochem. Biophys. Res. Commun. 297:898-905(2002).
+RN   [12]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=17635935; DOI=10.1083/jcb.200604114;
+RA   Cho H., Kehrl J.H.;
+RT   "Localization of Gi alpha proteins in the centrosomes and at the
+RT   midbody: implication for their role in cell division.";
+RL   J. Cell Biol. 178:245-255(2007).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [14]
+RP   MYRISTOYLATION AT GLY-2, CLEAVAGE OF INITIATOR METHIONINE [LARGE SCALE
+RP   ANALYSIS], AND IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE
+RP   ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.M111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C.,
+RA   Meinnel T., Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [15]
+RP   DEAMIDATION AT GLN-205 (MICROBIAL INFECTION).
+RX   PubMed=24141704; DOI=10.1038/nsmb.2688;
+RA   Jank T., Bogdanovic X., Wirth C., Haaf E., Spoerner M., Boehmer K.E.,
+RA   Steinemann M., Orth J.H., Kalbitzer H.R., Warscheid B., Hunte C.,
+RA   Aktories K.;
+RT   "A bacterial toxin catalyzing tyrosine glycosylation of Rho and
+RT   deamidation of Gq and Gi proteins.";
+RL   Nat. Struct. Mol. Biol. 20:1273-1280(2013).
+RN   [16]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D.,
+RA   Wang L., Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human
+RT   liver phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [17]
+RP   MYRISTOYLATION AT GLY-2, CLEAVAGE OF INITIATOR METHIONINE, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=25255805; DOI=10.1038/ncomms5919;
+RA   Thinon E., Serwa R.A., Broncel M., Brannigan J.A., Brassat U.,
+RA   Wright M.H., Heal W.P., Wilkinson A.J., Mann D.J., Tate E.W.;
+RT   "Global profiling of co- and post-translationally N-myristoylated
+RT   proteomes in human cells.";
+RL   Nat. Commun. 5:4919-4919(2014).
+RN   [18]
+RP   MYRISTOYLATION AT GLY-2, CLEAVAGE OF INITIATOR METHIONINE, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=25807930; DOI=10.1002/anie.201500342;
+RA   Broncel M., Serwa R.A., Ciepla P., Krause E., Dallman M.J.,
+RA   Magee A.I., Tate E.W.;
+RT   "Multifunctional reagents for quantitative proteome-wide analysis of
+RT   protein modification in human cells and dynamic profiling of protein
+RT   lipidation during vertebrate development.";
+RL   Angew. Chem. Int. Ed. 54:5948-5951(2015).
+RN   [19]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M.,
+RA   Ayoub D., Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. The G(i) proteins are involved in hormonal
+CC       regulation of adenylate cyclase: they inhibit the cyclase in
+CC       response to beta-adrenergic stimuli. May play a role in cell
+CC       division. {ECO:0000269|PubMed:17635935}.
+CC   -!- FUNCTION: Isoform sGi2: Regulates the cell surface density of
+CC       dopamine receptors DRD2 by sequestrating them as an intracellular
+CC       pool. {ECO:0000269|PubMed:17550964}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site. Interacts with GPSM1. Interacts with RGS12 and RGS14 (By
+CC       similarity). Interacts with UNC5B. {ECO:0000250,
+CC       ECO:0000269|PubMed:12359238}.
+CC   -!- INTERACTION:
+CC       P32302:CXCR5; NbExp=5; IntAct=EBI-353997, EBI-2835269;
+CC       Q9Y4H4:GPSM3; NbExp=3; IntAct=EBI-353997, EBI-347538;
+CC       Q15323:KRT31; NbExp=3; IntAct=EBI-353997, EBI-948001;
+CC       Q6A162:KRT40; NbExp=3; IntAct=EBI-353997, EBI-10171697;
+CC       P60410:KRTAP10-8; NbExp=3; IntAct=EBI-353997, EBI-10171774;
+CC       Q99750:MDFI; NbExp=5; IntAct=EBI-353997, EBI-724076;
+CC       P14598:NCF1; NbExp=2; IntAct=EBI-353997, EBI-395044;
+CC       P19878:NCF2; NbExp=4; IntAct=EBI-353997, EBI-489611;
+CC       Q7Z3S9:NOTCH2NL; NbExp=3; IntAct=EBI-353997, EBI-945833;
+CC       O76081-6:RGS20; NbExp=3; IntAct=EBI-353997, EBI-10178530;
+CC       Q15654:TRIP6; NbExp=3; IntAct=EBI-353997, EBI-742327;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:17635935}.
+CC       Cytoplasm, cytoskeleton, microtubule organizing center, centrosome
+CC       {ECO:0000269|PubMed:17635935}. Cell membrane
+CC       {ECO:0000269|PubMed:17635935}. Membrane {ECO:0000305}; Lipid-
+CC       anchor {ECO:0000305}. Note=Localizes in the centrosomes of
+CC       interphase and mitotic cells. Detected at the cleavage furrow
+CC       and/or the midbody.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=6;
+CC       Name=1;
+CC         IsoId=P04899-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P04899-2; Sequence=VSP_017497;
+CC       Name=3;
+CC         IsoId=P04899-3; Sequence=VSP_043473;
+CC         Note=No experimental confirmation available.;
+CC       Name=sGi2; Synonyms=sGalphai2;
+CC         IsoId=P04899-4; Sequence=VSP_043903;
+CC       Name=5;
+CC         IsoId=P04899-5; Sequence=VSP_054789;
+CC         Note=No experimental confirmation available.;
+CC       Name=6;
+CC         IsoId=P04899-6; Sequence=VSP_054788;
+CC         Note=No experimental confirmation available.;
+CC   -!- PTM: (Microbial infection) Deamidated at Gln-205 by Photorhabdus
+CC       asymbiotica toxin PAU_02230, blocking GTP hydrolysis of
+CC       heterotrimeric GNAQ or GNA11 and G-alphai (GNAI1, GNAI2 or GNAI3)
+CC       proteins, thereby activating RhoA. {ECO:0000269|PubMed:24141704}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X04828; CAA28512.1; -; mRNA.
+DR   EMBL; J03004; AAA52556.1; ALT_SEQ; mRNA.
+DR   EMBL; M20593; AAA35894.1; -; Genomic_DNA.
+DR   EMBL; M20586; AAA35894.1; JOINED; Genomic_DNA.
+DR   EMBL; M20587; AAA35894.1; JOINED; Genomic_DNA.
+DR   EMBL; M20588; AAA35894.1; JOINED; Genomic_DNA.
+DR   EMBL; M20589; AAA35894.1; JOINED; Genomic_DNA.
+DR   EMBL; M20590; AAA35894.1; JOINED; Genomic_DNA.
+DR   EMBL; M20591; AAA35894.1; JOINED; Genomic_DNA.
+DR   EMBL; M20592; AAA35894.1; JOINED; Genomic_DNA.
+DR   EMBL; AY677118; AAT78421.1; -; mRNA.
+DR   EMBL; AF493906; AAM12620.1; -; mRNA.
+DR   EMBL; AK096299; BAG53252.1; -; mRNA.
+DR   EMBL; AK096595; BAG53334.1; -; mRNA.
+DR   EMBL; AK302330; BAG63662.1; -; mRNA.
+DR   EMBL; AK304473; BAG65287.1; -; mRNA.
+DR   EMBL; AC002077; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; U73166; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; U73169; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471055; EAW65053.1; -; Genomic_DNA.
+DR   EMBL; CH471055; EAW65055.1; -; Genomic_DNA.
+DR   EMBL; CH471055; EAW65056.1; -; Genomic_DNA.
+DR   EMBL; BC012138; AAH12138.1; -; mRNA.
+DR   EMBL; BC016995; AAH16995.1; -; mRNA.
+DR   EMBL; X07854; CAA30703.1; -; Genomic_DNA.
+DR   CCDS; CCDS2813.1; -. [P04899-1]
+DR   CCDS; CCDS54587.1; -. [P04899-3]
+DR   CCDS; CCDS63642.1; -. [P04899-5]
+DR   CCDS; CCDS63644.1; -. [P04899-6]
+DR   PIR; S02319; RGHUI2.
+DR   RefSeq; NP_001159897.1; NM_001166425.1. [P04899-3]
+DR   RefSeq; NP_001269546.1; NM_001282617.1. [P04899-6]
+DR   RefSeq; NP_001269547.1; NM_001282618.1.
+DR   RefSeq; NP_001269548.1; NM_001282619.1. [P04899-2]
+DR   RefSeq; NP_001269549.1; NM_001282620.1. [P04899-5]
+DR   RefSeq; NP_002061.1; NM_002070.3. [P04899-1]
+DR   UniGene; Hs.77269; -.
+DR   ProteinModelPortal; P04899; -.
+DR   SMR; P04899; 6-355.
+DR   BioGrid; 109033; 116.
+DR   DIP; DIP-602N; -.
+DR   IntAct; P04899; 42.
+DR   MINT; MINT-7901704; -.
+DR   STRING; 9606.ENSP00000312999; -.
+DR   iPTMnet; P04899; -.
+DR   SwissPalm; P04899; -.
+DR   DMDM; 121023; -.
+DR   EPD; P04899; -.
+DR   MaxQB; P04899; -.
+DR   PaxDb; P04899; -.
+DR   PeptideAtlas; P04899; -.
+DR   PRIDE; P04899; -.
+DR   DNASU; 2771; -.
+DR   Ensembl; ENST00000266027; ENSP00000266027; ENSG00000114353. [P04899-6]
+DR   Ensembl; ENST00000313601; ENSP00000312999; ENSG00000114353. [P04899-1]
+DR   Ensembl; ENST00000422163; ENSP00000406871; ENSG00000114353. [P04899-5]
+DR   Ensembl; ENST00000440628; ENSP00000395736; ENSG00000114353. [P04899-6]
+DR   Ensembl; ENST00000451956; ENSP00000406369; ENSG00000114353. [P04899-3]
+DR   GeneID; 2771; -.
+DR   KEGG; hsa:2771; -.
+DR   UCSC; uc003cyp.3; human. [P04899-1]
+DR   CTD; 2771; -.
+DR   GeneCards; GNAI2; -.
+DR   H-InvDB; HIX0003320; -.
+DR   HGNC; HGNC:4385; GNAI2.
+DR   HPA; HPA007704; -.
+DR   MalaCards; GNAI2; -.
+DR   MIM; 139360; gene.
+DR   neXtProt; NX_P04899; -.
+DR   PharmGKB; PA24347; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P04899; -.
+DR   KO; K04630; -.
+DR   OMA; YSGANKY; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P04899; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-HSA-112043; PLC beta mediated events.
+DR   Reactome; R-HSA-170670; Adenylate cyclase inhibitory pathway.
+DR   Reactome; R-HSA-202040; G-protein activation.
+DR   Reactome; R-HSA-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-HSA-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-HSA-418555; G alpha (s) signalling events.
+DR   Reactome; R-HSA-418594; G alpha (i) signalling events.
+DR   Reactome; R-HSA-418597; G alpha (z) signalling events.
+DR   Reactome; R-HSA-422356; Regulation of insulin secretion.
+DR   Reactome; R-HSA-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   SignaLink; P04899; -.
+DR   SIGNOR; P04899; -.
+DR   ChiTaRS; GNAI2; human.
+DR   GeneWiki; GNAI2; -.
+DR   GenomeRNAi; 2771; -.
+DR   PRO; PR:P04899; -.
+DR   Proteomes; UP000005640; Chromosome 3.
+DR   Bgee; ENSG00000114353; -.
+DR   CleanEx; HS_GNAI2; -.
+DR   ExpressionAtlas; P04899; baseline and differential.
+DR   Genevisible; P04899; HS.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0005813; C:centrosome; IDA:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; IDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:1903561; C:extracellular vesicle; IDA:UniProtKB.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0016020; C:membrane; IDA:UniProtKB.
+DR   GO; GO:0045121; C:membrane raft; IEA:Ensembl.
+DR   GO; GO:0030496; C:midbody; IDA:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; TAS:Reactome.
+DR   GO; GO:0003924; F:GTPase activity; TAS:Reactome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0000186; P:activation of MAPKK activity; IEA:Ensembl.
+DR   GO; GO:0001973; P:adenosine receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007193; P:adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0051301; P:cell division; IMP:UniProtKB.
+DR   GO; GO:0008283; P:cell proliferation; IEA:Ensembl.
+DR   GO; GO:0007213; P:G-protein coupled acetylcholine receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; TAS:ProtInc.
+DR   GO; GO:0007214; P:gamma-aminobutyric acid signaling pathway; IBA:GO_Central.
+DR   GO; GO:0035556; P:intracellular signal transduction; IEA:Ensembl.
+DR   GO; GO:0007194; P:negative regulation of adenylate cyclase activity; TAS:ProtInc.
+DR   GO; GO:0050805; P:negative regulation of synaptic transmission; IEA:Ensembl.
+DR   GO; GO:0008284; P:positive regulation of cell proliferation; IEA:Ensembl.
+DR   GO; GO:0006457; P:protein folding; TAS:Reactome.
+DR   GO; GO:0051924; P:regulation of calcium ion transport; IEA:Ensembl.
+DR   GO; GO:0007584; P:response to nutrient; TAS:ProtInc.
+DR   GO; GO:0007165; P:signal transduction; TAS:ProtInc.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   ADP-ribosylation; Alternative splicing; Cell cycle; Cell division;
+KW   Cell membrane; Complete proteome; Cytoplasm; Cytoskeleton;
+KW   GTP-binding; Lipoprotein; Magnesium; Membrane; Metal-binding;
+KW   Myristate; Nucleotide-binding; Palmitate; Reference proteome;
+KW   Transducer.
+FT   INIT_MET      1      1       Removed. {ECO:0000244|PubMed:22223895,
+FT                                ECO:0000269|PubMed:22223895,
+FT                                ECO:0000269|PubMed:25255805,
+FT                                ECO:0000269|PubMed:25807930}.
+FT   CHAIN         2    355       Guanine nucleotide-binding protein G(i)
+FT                                subunit alpha-2.
+FT                                /FTId=PRO_0000203679.
+FT   NP_BIND      40     47       GTP. {ECO:0000250|UniProtKB:P63096}.
+FT   NP_BIND     176    182       GTP. {ECO:0000250}.
+FT   NP_BIND     201    205       GTP. {ECO:0000250|UniProtKB:P63096}.
+FT   NP_BIND     270    273       GTP. {ECO:0000250|UniProtKB:P63096}.
+FT   METAL        47     47       Magnesium. {ECO:0000250}.
+FT   METAL       182    182       Magnesium. {ECO:0000250}.
+FT   BINDING     327    327       GTP; via amide nitrogen. {ECO:0000250}.
+FT   MOD_RES     179    179       ADP-ribosylarginine; by cholera toxin.
+FT                                {ECO:0000250}.
+FT   MOD_RES     205    205       Deamidated glutamine; by Photorhabdus
+FT                                PAU_02230. {ECO:0000269|PubMed:24141704}.
+FT   MOD_RES     352    352       ADP-ribosylcysteine; by pertussis toxin.
+FT                                {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine.
+FT                                {ECO:0000269|PubMed:22223895,
+FT                                ECO:0000269|PubMed:25255805,
+FT                                ECO:0000269|PubMed:25807930}.
+FT   LIPID         3      3       S-palmitoyl cysteine. {ECO:0000250}.
+FT   VAR_SEQ       1     52       Missing (in isoform 6).
+FT                                {ECO:0000303|PubMed:14702039}.
+FT                                /FTId=VSP_054788.
+FT   VAR_SEQ       1     39       MGCTVSAEDKAAAERSKMIDKNLREDGEKAAREVKLLLL
+FT                                -> MEYAGHLPASSAQGTILACTSCT (in isoform
+FT                                2). {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_017497.
+FT   VAR_SEQ       1     39       MGCTVSAEDKAAAERSKMIDKNLREDGEKAAREVKLLLL
+FT                                -> MR (in isoform 3).
+FT                                {ECO:0000303|PubMed:14702039}.
+FT                                /FTId=VSP_043473.
+FT   VAR_SEQ       1     39       MGCTVSAEDKAAAERSKMIDKNLREDGEKAAREVKLLLL
+FT                                -> MTEGVKTLGWTKQKGGCHWGRSE (in isoform
+FT                                5). {ECO:0000303|PubMed:14702039}.
+FT                                /FTId=VSP_054789.
+FT   VAR_SEQ     332    355       NVQFVFDAVTDVIIKNNLKDCGLF -> SRKLFRETYLKLS
+FT                                GPDQHPHPSPAPAPPLSSDSVP (in isoform sGi2).
+FT                                {ECO:0000303|PubMed:17550964}.
+FT                                /FTId=VSP_043903.
+SQ   SEQUENCE   355 AA;  40451 MW;  BE6D6FF720CF3DCC CRC64;
+     MGCTVSAEDK AAAERSKMID KNLREDGEKA AREVKLLLLG AGESGKSTIV KQMKIIHEDG
+     YSEEECRQYR AVVYSNTIQS IMAIVKAMGN LQIDFADPSR ADDARQLFAL SCTAEEQGVL
+     PDDLSGVIRR LWADHGVQAC FGRSREYQLN DSAAYYLNDL ERIAQSDYIP TQQDVLRTRV
+     KTTGIVETHF TFKDLHFKMF DVGGQRSERK KWIHCFEGVT AIIFCVALSA YDLVLAEDEE
+     MNRMHESMKL FDSICNNKWF TDTSIILFLN KKDLFEEKIT HSPLTICFPE YTGANKYDEA
+     ASYIQSKFED LNKRKDTKEI YTHFTCATDT KNVQFVFDAV TDVIIKNNLK DCGLF
+//

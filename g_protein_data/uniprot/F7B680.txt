@@ -1,0 +1,101 @@
+ID   F7B680_HORSE            Unreviewed;       350 AA.
+AC   F7B680;
+DT   27-JUL-2011, integrated into UniProtKB/TrEMBL.
+DT   27-JUL-2011, sequence version 1.
+DT   28-MAR-2018, entry version 49.
+DE   SubName: Full=G protein subunit alpha transducin 1 {ECO:0000313|Ensembl:ENSECAP00000016308};
+GN   Name=GNAT1 {ECO:0000313|Ensembl:ENSECAP00000016308};
+OS   Equus caballus (Horse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Perissodactyla; Equidae; Equus.
+OX   NCBI_TaxID=9796 {ECO:0000313|Ensembl:ENSECAP00000016308, ECO:0000313|Proteomes:UP000002281};
+RN   [1] {ECO:0000313|Ensembl:ENSECAP00000016308, ECO:0000313|Proteomes:UP000002281}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Thoroughbred {ECO:0000313|Ensembl:ENSECAP00000016308,
+RC   ECO:0000313|Proteomes:UP000002281};
+RX   PubMed=19892987; DOI=10.1126/science.1178158;
+RG   Broad Institute Genome Sequencing Platform;
+RG   Broad Institute Whole Genome Assembly Team;
+RA   Wade C.M., Giulotto E., Sigurdsson S., Zoli M., Gnerre S., Imsland F.,
+RA   Lear T.L., Adelson D.L., Bailey E., Bellone R.R., Bloecker H.,
+RA   Distl O., Edgar R.C., Garber M., Leeb T., Mauceli E., MacLeod J.N.,
+RA   Penedo M.C.T., Raison J.M., Sharpe T., Vogel J., Andersson L.,
+RA   Antczak D.F., Biagi T., Binns M.M., Chowdhary B.P., Coleman S.J.,
+RA   Della Valle G., Fryc S., Guerin G., Hasegawa T., Hill E.W., Jurka J.,
+RA   Kiialainen A., Lindgren G., Liu J., Magnani E., Mickelson J.R.,
+RA   Murray J., Nergadze S.G., Onofrio R., Pedroni S., Piras M.F.,
+RA   Raudsepp T., Rocchi M., Roeed K.H., Ryder O.A., Searle S., Skow L.,
+RA   Swinburne J.E., Syvaenen A.C., Tozaki T., Valberg S.J., Vaudin M.,
+RA   White J.R., Zody M.C., Lander E.S., Lindblad-Toh K.;
+RT   "Genome sequence, comparative analysis, and population genetics of the
+RT   domestic horse.";
+RL   Science 326:865-867(2009).
+RN   [2] {ECO:0000313|Ensembl:ENSECAP00000016308}
+RP   IDENTIFICATION.
+RC   STRAIN=Thoroughbred {ECO:0000313|Ensembl:ENSECAP00000016308};
+RG   Ensembl;
+RL   Submitted (JUL-2011) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   ProteinModelPortal; F7B680; -.
+DR   SMR; F7B680; -.
+DR   STRING; 9796.ENSECAP00000016308; -.
+DR   PaxDb; F7B680; -.
+DR   Ensembl; ENSECAT00000019891; ENSECAP00000016308; ENSECAG00000018589.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; F7B680; -.
+DR   OMA; MHLADTI; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000002281; Chromosome 16.
+DR   Bgee; ENSECAG00000018589; -.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0016020; C:membrane; ISS:AgBase.
+DR   GO; GO:0032391; C:photoreceptor connecting cilium; IEA:Ensembl.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IEA:Ensembl.
+DR   GO; GO:0001750; C:photoreceptor outer segment; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0008283; P:cell proliferation; IEA:Ensembl.
+DR   GO; GO:0071257; P:cellular response to electrical stimulus; IEA:Ensembl.
+DR   GO; GO:0050908; P:detection of light stimulus involved in visual perception; IEA:Ensembl.
+DR   GO; GO:0042462; P:eye photoreceptor cell development; IEA:Ensembl.
+DR   GO; GO:0007603; P:phototransduction, visible light; IEA:Ensembl.
+DR   GO; GO:0009416; P:response to light stimulus; ISS:AgBase.
+DR   GO; GO:0060041; P:retina development in camera-type eye; IEA:Ensembl.
+DR   GO; GO:0050917; P:sensory perception of umami taste; IBA:GO_Central.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002281};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002281};
+KW   Transducer {ECO:0000256|SAAS:SAAS00754915}.
+SQ   SEQUENCE   350 AA;  39966 MW;  36F0B4630EFBD7DF CRC64;
+     MGAGASAEEK HSRELEKKLK EDAEKDARTV KLLLLGAGES GKSTIVKQMK IIHQDGYSLE
+     ECLEFIAIIY GNTLQSILAI VRAMTTLNIQ YGDSARQDDA RKLMHMADTI EEGTMPKEMS
+     DIIQRLWKDS GIQACFDRAS EYQLNDSAGY YLSDLERLVT PGYVPTEQDV LRSRVKTTGI
+     IETQFSFKDL NFRMFDVGGQ RSERKKWIHC FEGVTCIIFI AALSAYDMVL VEDDEVNRMH
+     ESLHLFNSIC NHRYFATTSI VLFLNKKDVF SEKIKKAHLS ICFPDYNGPN TYEDAGNYIK
+     VQFLELNMRR DVKEIYSHMT CATDTQNVKF VFDAVTDIII KENLKDCGLF
+//

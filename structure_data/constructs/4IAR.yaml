@@ -1,8 +1,1 @@
-deletions: ''
-insertions:
-- name: BRIL
-  positions: [1, 2]
-  sequence: ''
-mutations: ''
-name: 4iar
-protein: 5ht1b_human
+{name: 4iar, protein: 5ht1b_human}

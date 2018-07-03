@@ -7,7 +7,7 @@ endogenous_ligand:
     type: Peptide
 ligand:
 -   chain: B
-    name: BBB
+    name: CX3CL1
     pubchemId: None
     role: Agonist
     title: CX3CL1

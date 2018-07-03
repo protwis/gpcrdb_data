@@ -1,4 +1,4 @@
-auxiliary_protein: None
+auxiliary_protein: ''
 construct: 4xt3
 distance: 8.85
 endogenous_ligand:
@@ -6,11 +6,10 @@ endogenous_ligand:
     name: CX3CL1
     type: Peptide
 ligand:
--   chain: B
-    name: BBB
+-   name: CX3CL1
     pubchemId: None
     role: Agonist
-    title: CX3CL1
+    title: Fractalkine
     type: Peptide
 pdb: 4XT3
 preferred_chain: A

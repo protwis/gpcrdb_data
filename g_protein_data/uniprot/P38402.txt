@@ -1,0 +1,125 @@
+ID   GNAI2_CAVPO             Reviewed;         355 AA.
+AC   P38402;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 121.
+DE   RecName: Full=Guanine nucleotide-binding protein G(i) subunit alpha-2;
+DE   AltName: Full=Adenylate cyclase-inhibiting G alpha protein;
+GN   Name=GNAI2;
+OS   Cavia porcellus (Guinea pig).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+OC   Hystricognathi; Caviidae; Cavia.
+OX   NCBI_TaxID=10141;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Hartley; TISSUE=Lung;
+RX   PubMed=1482697; DOI=10.1016/0167-4889(92)90009-Z;
+RA   Sakanaka C., Izumi T., Nakamura M., Honda Z., Watanabe T., Minami M.,
+RA   Mutoh H., Bito H., Seyama Y., Ui M., Shimizu T.;
+RT   "Three types of Gi alpha protein of the guinea-pig lung: cDNA cloning
+RT   and analysis of their tissue distribution.";
+RL   Biochim. Biophys. Acta 1175:61-66(1992).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. The G(i) proteins are involved in hormonal
+CC       regulation of adenylate cyclase: they inhibit the cyclase in
+CC       response to beta-adrenergic stimuli. May play a role in cell
+CC       division (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site. Interacts with UNC5B. Interacts with GPSM1. Interacts with
+CC       RGS12 and RGS14 (By similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Cytoplasm,
+CC       cytoskeleton, microtubule organizing center, centrosome
+CC       {ECO:0000250}. Cell membrane {ECO:0000250}. Membrane
+CC       {ECO:0000250|UniProtKB:P04899}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P04899}. Note=Localizes in the centrosomes
+CC       of interphase and mitotic cells. Detected at the cleavage furrow
+CC       and/or the midbody (By similarity). {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed. Most abundant in the
+CC       lung and in the spleen.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D21233; BAA04765.1; -; mRNA.
+DR   PIR; S28158; S28158.
+DR   RefSeq; NP_001166425.1; NM_001172954.1.
+DR   RefSeq; XP_005006593.1; XM_005006536.2.
+DR   ProteinModelPortal; P38402; -.
+DR   MINT; MINT-4996703; -.
+DR   STRING; 10141.ENSCPOP00000011948; -.
+DR   PRIDE; P38402; -.
+DR   Ensembl; ENSCPOT00000013401; ENSCPOP00000011948; ENSCPOG00000013273.
+DR   GeneID; 100135529; -.
+DR   CTD; 2771; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P38402; -.
+DR   OMA; YSGANKY; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000005447; Unassembled WGS sequence.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0005813; C:centrosome; ISS:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0030496; C:midbody; ISS:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; ISS:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007193; P:adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0051301; P:cell division; ISS:UniProtKB.
+DR   GO; GO:0008283; P:cell proliferation; IEA:Ensembl.
+DR   GO; GO:0007213; P:G-protein coupled acetylcholine receptor signaling pathway; IEA:Ensembl.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Cell cycle; Cell division; Cell membrane; Complete proteome;
+KW   Cytoplasm; Cytoskeleton; GTP-binding; Lipoprotein; Magnesium;
+KW   Membrane; Metal-binding; Myristate; Nucleotide-binding; Palmitate;
+KW   Reference proteome; Transducer.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P04899}.
+FT   CHAIN         2    355       Guanine nucleotide-binding protein G(i)
+FT                                subunit alpha-2.
+FT                                /FTId=PRO_0000203678.
+FT   NP_BIND      40     47       GTP. {ECO:0000250}.
+FT   NP_BIND     176    182       GTP. {ECO:0000250}.
+FT   NP_BIND     201    205       GTP. {ECO:0000250}.
+FT   NP_BIND     270    273       GTP. {ECO:0000250}.
+FT   METAL        47     47       Magnesium. {ECO:0000250}.
+FT   METAL       182    182       Magnesium. {ECO:0000250}.
+FT   BINDING     327    327       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine.
+FT                                {ECO:0000250|UniProtKB:P04899}.
+FT   LIPID         3      3       S-palmitoyl cysteine. {ECO:0000250}.
+SQ   SEQUENCE   355 AA;  40539 MW;  06CA8FB4C60A5EB6 CRC64;
+     MGCTVSAEDK AAAERSKMID KNLREDGEKA AREVKLLLLG AGESGKSTIV KQMKIIHEDG
+     YSEEECRQYR AVVYSNTIQS IMAIVKAMGN LQIDFADPLR ADDARQLFAL SCTAEEQGML
+     PEDLSGVIRR LWADHGVQAC FSRSREYQLN DSAAYYLNDL DRIAQSDYIP TQQDVLRTRV
+     KTTGIVETHF TFKDLHFKMF DVGGQRSERK KWIHCFEGVT AIIFCVALSA YDLVLAEDEE
+     MNRMHESMKL FDSICNNKWF TDTSIILFLN KKDLFEEKIT HSPLTICFPE YTGANKYDEA
+     ASYIQSKFED LNKRKDTKEI YTHFTCATDT KNVQFVFDAV TDVIIKNNLK DCGLF
+//

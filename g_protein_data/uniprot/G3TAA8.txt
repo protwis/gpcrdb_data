@@ -1,0 +1,86 @@
+ID   G3TAA8_LOXAF            Unreviewed;       373 AA.
+AC   G3TAA8;
+DT   16-NOV-2011, integrated into UniProtKB/TrEMBL.
+DT   16-NOV-2011, sequence version 1.
+DT   28-MAR-2018, entry version 43.
+DE   SubName: Full=G protein subunit alpha 12 {ECO:0000313|Ensembl:ENSLAFP00000010782};
+GN   Name=GNA12 {ECO:0000313|Ensembl:ENSLAFP00000010782};
+OS   Loxodonta africana (African elephant).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Afrotheria; Proboscidea; Elephantidae; Loxodonta.
+OX   NCBI_TaxID=9785 {ECO:0000313|Ensembl:ENSLAFP00000010782, ECO:0000313|Proteomes:UP000007646};
+RN   [1] {ECO:0000313|Ensembl:ENSLAFP00000010782}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Isolate ISIS603380 {ECO:0000313|Ensembl:ENSLAFP00000010782};
+RA   Di Palma F., Heiman D., Young S., Johnson J., Lander E.S.,
+RA   Lindblad-Toh K.;
+RT   "The Genome Sequence of Loxodonta africana (African elephant).";
+RL   Submitted (JUN-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSLAFP00000010782}
+RP   IDENTIFICATION.
+RC   STRAIN=Isolate ISIS603380 {ECO:0000313|Ensembl:ENSLAFP00000010782};
+RG   Ensembl;
+RL   Submitted (SEP-2011) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   RefSeq; XP_003416548.1; XM_003416500.2.
+DR   STRING; 9785.ENSLAFP00000010782; -.
+DR   Ensembl; ENSLAFT00000012894; ENSLAFP00000010782; ENSLAFG00000012896.
+DR   GeneID; 100676444; -.
+DR   KEGG; lav:100676444; -.
+DR   CTD; 2768; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; G3TAA8; -.
+DR   KO; K04346; -.
+DR   OMA; KEYQHVI; -.
+DR   OrthoDB; EOG091G0NV2; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000007646; Unassembled WGS sequence.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0030154; P:cell differentiation; IEA:Ensembl.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IEA:Ensembl.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0001701; P:in utero embryonic development; IEA:Ensembl.
+DR   GO; GO:0008360; P:regulation of cell shape; IEA:Ensembl.
+DR   GO; GO:0010762; P:regulation of fibroblast migration; IEA:Ensembl.
+DR   GO; GO:0032434; P:regulation of proteasomal ubiquitin-dependent protein catabolic process; IEA:Ensembl.
+DR   GO; GO:0032006; P:regulation of TOR signaling; IEA:Ensembl.
+DR   GO; GO:0007266; P:Rho protein signal transduction; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000469; Gprotein_alpha_12/13.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00440; GPROTEINA12.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000007646};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000007646}.
+FT   COILED       21     41       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   373 AA;  43345 MW;  B02C1E6614316CC9 CRC64;
+     MSAVVRTLSR CLLPAEAGGG ARDAEREARR RSRDIDALLA RERRAVRRLV KILLLGAGES
+     GKSTFLKQMR IIHGREFDQK ALLEFRDTIF DNILKGSRVL VDARDKLGIP WQYSENEKHG
+     MFLMAFENKA GLPLEPATFQ LYVPALSALW KDSGIREAFS RRSEFQLGES VKYFLDNLDR
+     IGQLNYFPSK QDILLARKAT KGIVEHDFVI KKIPFKMVDV GGQRSQRQKW FQCFDGITSI
+     LFMVSSSEYD QVLMEDRRTN RLVESMNIFE TIVNNKLFIN VSIILFLNKT DLLVEKVKTV
+     SIKKHFPDFR GDPHRLEDVQ RYLVQCFDRK RRNRSKPLFH HFTTAIDTEN IRFVFHAVKD
+     TILQENLKDI MLQ
+//

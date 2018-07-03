@@ -1,0 +1,20 @@
+auxiliary_protein: ''
+construct: 6d9h
+distance: 9.23
+endogenous ligand:
+    name: ADN
+    pubchemId: 60961
+    role: Agonist
+    title: Adenosine
+    type: Small molecule
+ligand:
+    name: ADN
+    pubchemId: 60961
+    role: Agonist
+    title: Adenosine
+    type: Small molecule
+pdb: 6D9H
+preferred_chain: R
+representative: true
+signaling_protein: Gi2
+state: Active

@@ -1,0 +1,76 @@
+ID   M3XX76_MUSPF            Unreviewed;       374 AA.
+AC   M3XX76;
+DT   01-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-2013, sequence version 1.
+DT   28-MAR-2018, entry version 33.
+DE   SubName: Full=G protein subunit alpha 15 {ECO:0000313|Ensembl:ENSMPUP00000003676};
+GN   Name=GNA15 {ECO:0000313|Ensembl:ENSMPUP00000003676};
+OS   Mustela putorius furo (European domestic ferret) (Mustela furo).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Mustelidae;
+OC   Mustelinae; Mustela.
+OX   NCBI_TaxID=9669 {ECO:0000313|Ensembl:ENSMPUP00000003676, ECO:0000313|Proteomes:UP000000715};
+RN   [1] {ECO:0000313|Ensembl:ENSMPUP00000003676}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ID#1420 {ECO:0000313|Ensembl:ENSMPUP00000003676};
+RA   Di Palma F., Alfoldi J., Johnson J., Jaffe D., Berlin A., Gnerre S.,
+RA   Grabherr M., Hall G., Lara M., MacCallum I., Mauceli E.,
+RA   Przyblyski D., Ribeiro F., Russell P., Sharpe T., Turner-Maier J.,
+RA   Walker B.J., Young S., Birren B., Lindblad-Toh K.;
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSMPUP00000003676}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (MAR-2013) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AEYP01077161; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; XP_004771405.1; XM_004771348.2.
+DR   STRING; 9669.ENSMPUP00000003676; -.
+DR   Ensembl; ENSMPUT00000003744; ENSMPUP00000003676; ENSMPUG00000003706.
+DR   GeneID; 101687308; -.
+DR   CTD; 2769; -.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; M3XX76; -.
+DR   OMA; WRCCPWC; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   Proteomes; UP000000715; Unassembled WGS sequence.
+DR   GO; GO:0005623; C:cell; IEA:GOC.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:Ensembl.
+DR   GO; GO:0007200; P:phospholipase C-activating G-protein coupled receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000715};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000715}.
+SQ   SEQUENCE   374 AA;  43409 MW;  B92D46DF974E14BD CRC64;
+     MARSLTWRCC PWCLTEDEKA AARIDQEINR ILLEQKKRDR GELKLLLLGP GESGKSTFIK
+     QMRIIHGAGY SEEDRKGFRP LVYQNIFVSM RAMIEAMDRL QIPFSRPESG HYASVVMSQD
+     PYKVTTFEKH YAVAIQWLWR DAGIRACYER RREFHLLDSA VYYLSHLERI TEEGYIPTAQ
+     DVLRSRMPTT GINEYCFSVQ KTNLRIVDVG GQKSERKKWI HCFENVIALI YLASLSEYDQ
+     CLEENNQENR MKESLALFGT ILELPWFKST SVILFLNKTD ILEEKIPTSH LATYFPSFRG
+     PKQDAEAAKR FILDMYTGMY AGCVDGADGS RRGPRSRRLF SHYTCATDTQ NIRKVFKDVR
+     DSVLARYLDE INLL
+//

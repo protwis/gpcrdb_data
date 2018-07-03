@@ -1,0 +1,13 @@
+auxiliary_protein: 'Flavodoxin'
+construct: 5zkp
+ligand:
+-   name: 9ER
+    pubchemId: 119368
+    role: Antagonist
+    title: Foropafant
+    type: Small molecule
+pdb: 5ZKP
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

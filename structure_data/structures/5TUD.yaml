@@ -8,7 +8,7 @@ endogenous_ligand:
 ligand:
     name: ERM
     pubchemId: 8223
-    role: agonist
+    role: Agonist
     title: Ergotamine
     type: Small molecule
 pdb: 5TUD

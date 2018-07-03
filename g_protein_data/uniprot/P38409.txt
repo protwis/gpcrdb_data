@@ -1,0 +1,137 @@
+ID   GNA11_BOVIN             Reviewed;         359 AA.
+AC   P38409; Q2TA47;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1995, sequence version 2.
+DT   05-OCT-2016, entry version 123.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit alpha-11;
+DE            Short=G alpha-11;
+DE            Short=G-protein subunit alpha-11;
+DE   AltName: Full=G-protein subunit GL2 alpha;
+GN   Name=GNA11;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Liver;
+RX   PubMed=1905731;
+RA   Nakamura F., Ogata K., Shiozaki K., Kameyama K., Ohara K., Haga T.,
+RA   Nukada T.;
+RT   "Identification of two novel GTP-binding protein alpha-subunits that
+RT   lack apparent ADP-ribosylation sites for pertussis toxin.";
+RL   J. Biol. Chem. 266:12676-12681(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=Crossbred X Angus; TISSUE=Ileum;
+RG   NIH - Mammalian Gene Collection (MGC) project;
+RL   Submitted (MAR-2007) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site. Interacts with RGS22. Interacts with NTSR1 (By similarity).
+CC       {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000250}; Lipid-anchor
+CC       {ECO:0000250}. Cytoplasm {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(q) subfamily.
+CC       {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAI11119.2; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC       Sequence=BAA14350.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D90336; BAA14350.1; ALT_INIT; mRNA.
+DR   EMBL; BC111118; AAI11119.2; ALT_INIT; mRNA.
+DR   PIR; B40891; B40891.
+DR   RefSeq; NP_776747.1; NM_174322.3.
+DR   UniGene; Bt.5511; -.
+DR   ProteinModelPortal; P38409; -.
+DR   STRING; 9913.ENSBTAP00000050620; -.
+DR   PaxDb; P38409; -.
+DR   PRIDE; P38409; -.
+DR   Ensembl; ENSBTAT00000054342; ENSBTAP00000050620; ENSBTAG00000012181.
+DR   GeneID; 281788; -.
+DR   KEGG; bta:281788; -.
+DR   CTD; 2767; -.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P38409; -.
+DR   KO; K04635; -.
+DR   OMA; CCISEEA; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-BTA-112043; PLC beta mediated events.
+DR   Reactome; R-BTA-399997; Acetylcholine regulates insulin secretion.
+DR   Reactome; R-BTA-416476; G alpha (q) signalling events.
+DR   Reactome; R-BTA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-BTA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-BTA-432142; Platelet sensitization by LDL.
+DR   Reactome; R-BTA-434316; Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion.
+DR   Reactome; R-BTA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Proteomes; UP000009136; Chromosome 7.
+DR   Bgee; ENSBTAG00000012181; -.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0005765; C:lysosomal membrane; IEA:Ensembl.
+DR   GO; GO:0016020; C:membrane; ISS:AgBase.
+DR   GO; GO:0001750; C:photoreceptor outer segment; ISS:AgBase.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0031826; F:type 2A serotonin receptor binding; IBA:GO_Central.
+DR   GO; GO:0001508; P:action potential; IBA:GO_Central.
+DR   GO; GO:0071467; P:cellular response to pH; IEA:Ensembl.
+DR   GO; GO:0048066; P:developmental pigmentation; IEA:Ensembl.
+DR   GO; GO:0009649; P:entrainment of circadian clock; ISS:AgBase.
+DR   GO; GO:0007213; P:G-protein coupled acetylcholine receptor signaling pathway; ISS:AgBase.
+DR   GO; GO:0007507; P:heart development; IEA:Ensembl.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007603; P:phototransduction, visible light; ISS:AgBase.
+DR   GO; GO:0045634; P:regulation of melanocyte differentiation; IEA:Ensembl.
+DR   GO; GO:0001501; P:skeletal system development; IEA:Ensembl.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Cell membrane; Complete proteome; Cytoplasm; GTP-binding; Lipoprotein;
+KW   Magnesium; Membrane; Metal-binding; Nucleotide-binding; Palmitate;
+KW   Reference proteome; Transducer.
+FT   CHAIN         1    359       Guanine nucleotide-binding protein
+FT                                subunit alpha-11.
+FT                                /FTId=PRO_0000203744.
+FT   NP_BIND      46     53       GTP. {ECO:0000250}.
+FT   NP_BIND     180    186       GTP. {ECO:0000250}.
+FT   NP_BIND     205    209       GTP. {ECO:0000250}.
+FT   NP_BIND     274    277       GTP. {ECO:0000250}.
+FT   METAL        53     53       Magnesium. {ECO:0000250}.
+FT   METAL       186    186       Magnesium. {ECO:0000250}.
+FT   BINDING     331    331       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID         9      9       S-palmitoyl cysteine. {ECO:0000250}.
+FT   LIPID        10     10       S-palmitoyl cysteine. {ECO:0000250}.
+SQ   SEQUENCE   359 AA;  42070 MW;  B0BAC4FBF5AAE8D5 CRC64;
+     MTLESMMACC LSDEVKESKR INAEIEKQLR RDKRDARREL KLLLLGTGES GKSTFIKQMR
+     IIHGAGYSEE DKRGFTKLVY QNIFTAMQAM IRAMETLKIL YKYEQNKANA LLIREVDVEK
+     VTTFEHRYVS AIKTLWNDPG IQECYDRRRE YQLSDSAKYY LTDVDRIATS GYLPTQQDVL
+     RVRVPTTGII EYPFDLENII FRMVDVGGQR SERRKWIHCF ENVTSIMFLV ALSEYDQVLV
+     ESDNENRMEE SKALFRTIVT YPWFQNSSVI LFLNKKDLLE DKILHSHLVD YFPEFDGPQR
+     DAQAAREFIL KMFVDLNPDS DKIIYSHFTC ATDTENIRFV FAAVKDTILQ LNLKEYNLV
+//
