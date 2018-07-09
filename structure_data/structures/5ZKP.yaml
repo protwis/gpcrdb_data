@@ -1,5 +1,6 @@
 auxiliary_protein: 'Flavodoxin'
 construct: 5zkp
+distance: 15.31
 ligand:
 -   name: 9ER
     pubchemId: 119368
@@ -10,4 +11,4 @@ pdb: 5ZKP
 preferred_chain: A
 representative: true
 signaling_protein: None
-state: Inactive
+state: Active

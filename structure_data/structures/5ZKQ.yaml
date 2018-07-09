@@ -1,6 +1,6 @@
 auxiliary_protein: 'Endolysin'
 construct: 5zkq
-distance: 7.26
+distance: 4.76
 ligand:
 -   name: 9EU
     pubchemId: 154087
@@ -11,4 +11,4 @@ pdb: 5ZKQ
 preferred_chain: B
 representative: true
 signaling_protein: None
-state: Active
+state: Intermediate
