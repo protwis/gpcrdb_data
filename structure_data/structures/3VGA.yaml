@@ -5,7 +5,7 @@ ligand:
 -   name: ZMA
     pubchemId: '176407'
     role: Antagonist
-    type: Antibody
+    type: Small molecule
 pdb: 3VGA
 preferred_chain: A
 signaling_protein: None
