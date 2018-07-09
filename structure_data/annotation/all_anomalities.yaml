@@ -4182,7 +4182,7 @@ fshr_human:
     '5.46': L
 fzd10_human:
     UniProt: fzd10_human
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     Cl: F
     Xtalised: NoXtal
     1x36: ''
@@ -4250,7 +4250,7 @@ fzd1_human:
     '5.46': P
 fzd2_human:
     UniProt: fzd2_human
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     Cl: F
     Xtalised: NoXtal
     1x36: ''
@@ -4284,7 +4284,7 @@ fzd2_human:
     '5.46': P
 fzd3_human:
     UniProt: fzd3_human
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     Cl: F
     Xtalised: NoXtal
     1x36: ''
@@ -4318,7 +4318,7 @@ fzd3_human:
     '5.46': P
 fzd4_human:
     UniProt: fzd4_human
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     Cl: F
     Xtalised: NoXtal
     1x36: ''
@@ -4352,7 +4352,7 @@ fzd4_human:
     '5.46': P
 fzd5_human:
     UniProt: fzd5_human
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     Cl: F
     Xtalised: NoXtal
     1x36: ''
@@ -4454,7 +4454,7 @@ fzd7_human:
     '5.46': P
 fzd8_human:
     UniProt: fzd8_human
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     Cl: F
     Xtalised: NoXtal
     1x36: ''
@@ -4488,7 +4488,7 @@ fzd8_human:
     '5.46': P
 fzd9_human:
     UniProt: fzd9_human
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     Cl: F
     Xtalised: NoXtal
     1x36: ''

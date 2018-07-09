@@ -3320,13 +3320,13 @@ fshr_human:
     8e: 69.0
     Cl: A
 fzd10_human:
-    XtalTempl: q98sw5_xenla
+    XtalTempl: smo_human
     1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 61.0
+    2e: 63.0
     e1b: '-'
     e1e: '-'
     3b: 23.0
@@ -3340,7 +3340,7 @@ fzd10_human:
     5b: 35.0
     5e: 72.0
     6b: 24.0
-    6e: 81.0
+    6e: 78.0
     7b: 34.0
     7e: 57.0
     8b: 47.0
@@ -3374,13 +3374,13 @@ fzd1_human:
     8e: 62.0
     Cl: F
 fzd2_human:
-    XtalTempl: q98sw5_xenla
+    XtalTempl: smo_human
     1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 61.0
+    2e: 63.0
     e1b: '-'
     e1e: '-'
     3b: 23.0
@@ -3394,20 +3394,20 @@ fzd2_human:
     5b: 35.0
     5e: 72.0
     6b: 24.0
-    6e: 81.0
+    6e: 78.0
     7b: 34.0
     7e: 57.0
     8b: 47.0
     8e: 62.0
     Cl: F
 fzd3_human:
-    XtalTempl: q98sw5_xenla
+    XtalTempl: smo_human
     1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 61.0
+    2e: 63.0
     e1b: '-'
     e1e: '-'
     3b: 23.0
@@ -3421,20 +3421,20 @@ fzd3_human:
     5b: 35.0
     5e: 72.0
     6b: 24.0
-    6e: 81.0
+    6e: 78.0
     7b: 34.0
     7e: 57.0
     8b: 47.0
     8e: 62.0
     Cl: F
 fzd4_human:
-    XtalTempl: q98sw5_xenla
+    XtalTempl: smo_human
     1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 61.0
+    2e: 63.0
     e1b: '-'
     e1e: '-'
     3b: 23.0
@@ -3455,13 +3455,13 @@ fzd4_human:
     8e: 62.0
     Cl: F
 fzd5_human:
-    XtalTempl: q98sw5_xenla
+    XtalTempl: smo_human
     1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 61.0
+    2e: 63.0
     e1b: '-'
     e1e: '-'
     3b: 23.0
@@ -3475,7 +3475,7 @@ fzd5_human:
     5b: 35.0
     5e: 72.0
     6b: 24.0
-    6e: 81.0
+    6e: 78.0
     7b: 34.0
     7e: 57.0
     8b: 47.0
@@ -3536,13 +3536,13 @@ fzd7_human:
     8e: 62.0
     Cl: F
 fzd8_human:
-    XtalTempl: q98sw5_xenla
+    XtalTempl: smo_human
     1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 61.0
+    2e: 63.0
     e1b: '-'
     e1e: '-'
     3b: 23.0
@@ -3556,20 +3556,20 @@ fzd8_human:
     5b: 35.0
     5e: 72.0
     6b: 24.0
-    6e: 81.0
+    6e: 78.0
     7b: 34.0
     7e: 57.0
     8b: 47.0
     8e: 62.0
     Cl: F
 fzd9_human:
-    XtalTempl: q98sw5_xenla
+    XtalTempl: smo_human
     1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 61.0
+    2e: 63.0
     e1b: '-'
     e1e: '-'
     3b: 23.0
@@ -3583,7 +3583,7 @@ fzd9_human:
     5b: 35.0
     5e: 72.0
     6b: 24.0
-    6e: 81.0
+    6e: 78.0
     7b: 34.0
     7e: 57.0
     8b: 47.0
