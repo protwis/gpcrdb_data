@@ -1,4 +1,4 @@
-auxiliary_protein: None
+auxiliary_protein: Nanobody
 construct: 4xt1
 distance: 9.02
 endogenous_ligand:
@@ -15,5 +15,5 @@ ligand:
 pdb: 4XT1
 preferred_chain: A
 representative: true
-signaling_protein: SignProtMimic_Nanobody
+signaling_protein: None
 state: Active
