@@ -1,4 +1,4 @@
-auxiliary_protein: Nanobodies
+auxiliary_protein: Nanobody
 construct: 5wb2
 ligand:
 -   name: CX3CL1
