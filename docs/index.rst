@@ -42,6 +42,7 @@ The documentation in organized into four sections:
     signalproteins
     sequences
     structures
+    constructs
     mutations
     sites
     generic_numbering
