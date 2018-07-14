@@ -6149,7 +6149,7 @@ fshr_human:
     6e-7b: 6.0
     7e-8b: 1.0
 fzd10_human:
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     1b: 220.0
     1x: 242.0
     1e: 252.0
@@ -6158,7 +6158,7 @@ fzd10_human:
     i1e: 257.0
     2b: 258.0
     2x: 268.0
-    2e: 279.0
+    2e: 281.0
     e1b: '-'
     e1x: '-'
     e1e: '-'
@@ -6179,7 +6179,7 @@ fzd10_human:
     5e: 427.0
     6b: 434.0
     6x: 460.0
-    6e: 491.0
+    6e: 488.0
     7b: 500.0
     7x: 516.0
     7e: 523.0
@@ -6196,7 +6196,7 @@ fzd10_human:
     4e-e2b: 12.0
     e2e-5b: 4.0
     5e-6b: 7.0
-    6e-7b: 9.0
+    6e-7b: 12.0
     7e-8b: 1.0
 fzd1_human:
     Xtal Templ: smo_human
@@ -6249,7 +6249,7 @@ fzd1_human:
     6e-7b: 18.0
     7e-8b: 1.0
 fzd2_human:
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     1b: 237.0
     1x: 259.0
     1e: 269.0
@@ -6258,7 +6258,7 @@ fzd2_human:
     i1e: 274.0
     2b: 275.0
     2x: 285.0
-    2e: 296.0
+    2e: 298.0
     e1b: '-'
     e1x: '-'
     e1e: '-'
@@ -6279,7 +6279,7 @@ fzd2_human:
     5e: 445.0
     6b: 452.0
     6x: 478.0
-    6e: 509.0
+    6e: 506.0
     7b: 517.0
     7x: 533.0
     7e: 540.0
@@ -6296,10 +6296,10 @@ fzd2_human:
     4e-e2b: 12.0
     e2e-5b: 4.0
     5e-6b: 7.0
-    6e-7b: 8.0
+    6e-7b: 11.0
     7e-8b: 1.0
 fzd3_human:
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     1b: 195.0
     1x: 217.0
     1e: 227.0
@@ -6308,7 +6308,7 @@ fzd3_human:
     i1e: 232.0
     2b: 233.0
     2x: 243.0
-    2e: 254.0
+    2e: 256.0
     e1b: '-'
     e1x: '-'
     e1e: '-'
@@ -6329,7 +6329,7 @@ fzd3_human:
     5e: 404.0
     6b: 411.0
     6x: 437.0
-    6e: 468.0
+    6e: 465.0
     7b: 476.0
     7x: 492.0
     7e: 499.0
@@ -6346,10 +6346,10 @@ fzd3_human:
     4e-e2b: 12.0
     e2e-5b: 4.0
     5e-6b: 7.0
-    6e-7b: 8.0
+    6e-7b: 11.0
     7e-8b: 1.0
 fzd4_human:
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     1b: 212.0
     1x: 234.0
     1e: 244.0
@@ -6358,7 +6358,7 @@ fzd4_human:
     i1e: 249.0
     2b: 250.0
     2x: 260.0
-    2e: 271.0
+    2e: 273.0
     e1b: '-'
     e1x: '-'
     e1e: '-'
@@ -6399,7 +6399,7 @@ fzd4_human:
     6e-7b: 4.0
     7e-8b: 1.0
 fzd5_human:
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     1b: 228.0
     1x: 250.0
     1e: 260.0
@@ -6408,7 +6408,7 @@ fzd5_human:
     i1e: 265.0
     2b: 266.0
     2x: 276.0
-    2e: 287.0
+    2e: 289.0
     e1b: '-'
     e1x: '-'
     e1e: '-'
@@ -6429,7 +6429,7 @@ fzd5_human:
     5e: 433.0
     6b: 440.0
     6x: 466.0
-    6e: 497.0
+    6e: 494.0
     7b: 499.0
     7x: 515.0
     7e: 522.0
@@ -6446,7 +6446,7 @@ fzd5_human:
     4e-e2b: 12.0
     e2e-5b: 4.0
     5e-6b: 7.0
-    6e-7b: 2.0
+    6e-7b: 5.0
     7e-8b: 1.0
 fzd6_human:
     Xtal Templ: smo_human
@@ -6549,7 +6549,7 @@ fzd7_human:
     6e-7b: 11.0
     7e-8b: 1.0
 fzd8_human:
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     1b: 270.0
     1x: 292.0
     1e: 302.0
@@ -6558,7 +6558,7 @@ fzd8_human:
     i1e: 307.0
     2b: 308.0
     2x: 318.0
-    2e: 329.0
+    2e: 331.0
     e1b: '-'
     e1x: '-'
     e1e: '-'
@@ -6579,7 +6579,7 @@ fzd8_human:
     5e: 514.0
     6b: 523.0
     6x: 549.0
-    6e: 580.0
+    6e: 577.0
     7b: 582.0
     7x: 598.0
     7e: 605.0
@@ -6596,10 +6596,10 @@ fzd8_human:
     4e-e2b: 12.0
     e2e-5b: 4.0
     5e-6b: 9.0
-    6e-7b: 2.0
+    6e-7b: 5.0
     7e-8b: 1.0
 fzd9_human:
-    Xtal Templ: q98sw5_xenla
+    Xtal Templ: smo_human
     1b: 224.0
     1x: 246.0
     1e: 256.0
@@ -6608,7 +6608,7 @@ fzd9_human:
     i1e: 261.0
     2b: 262.0
     2x: 272.0
-    2e: 283.0
+    2e: 285.0
     e1b: '-'
     e1x: '-'
     e1e: '-'
@@ -6629,7 +6629,7 @@ fzd9_human:
     5e: 431.0
     6b: 438.0
     6x: 464.0
-    6e: 495.0
+    6e: 492.0
     7b: 506.0
     7x: 522.0
     7e: 529.0
@@ -6646,7 +6646,7 @@ fzd9_human:
     4e-e2b: 12.0
     e2e-5b: 4.0
     5e-6b: 7.0
-    6e-7b: 11.0
+    6e-7b: 14.0
     7e-8b: 1.0
 g137a_human:
     Xtal Templ: agtr1_human
