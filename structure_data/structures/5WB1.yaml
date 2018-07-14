@@ -1,4 +1,4 @@
-auxiliary_protein: 'Nanobody 7'
+auxiliary_protein: Nanobody
 construct: 5wb1
 ligand:
 -   name: None

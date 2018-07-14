@@ -1,4 +1,4 @@
-auxiliary_protein: 'scFv16'
+auxiliary_protein: 'Antibody'
 construct: 6dde
 distance: 7.19
 endogenous_ligand:
