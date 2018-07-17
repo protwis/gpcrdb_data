@@ -29,4 +29,4 @@ ligand:
 pdb: 6DDE
 preferred_chain: R
 signaling_protein: Gi
-state: Intermediate
+state: Active
