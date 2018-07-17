@@ -1,4 +1,4 @@
-auxiliary_protein: T4-Lysozyme
+auxiliary_protein: T4-Lysozyme, Nanobody
 construct: 4qkx
 distance: 9.44
 ligand:
@@ -8,5 +8,5 @@ ligand:
     type: Small molecule
 pdb: 4QKX
 preferred_chain: A
-signaling_protein: SignProtMimic_Nanobody
+signaling_protein: None
 state: Active

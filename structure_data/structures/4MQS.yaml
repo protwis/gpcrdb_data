@@ -1,4 +1,4 @@
-auxiliary_protein: None
+auxiliary_protein: Nanobody
 construct: 4mqs
 distance: 9.14
 endogenous_ligand:
@@ -13,5 +13,5 @@ ligand:
     type: Small molecule
 pdb: 4MQS
 preferred_chain: A
-signaling_protein: Nanobody
+signaling_protein: None
 state: Active
