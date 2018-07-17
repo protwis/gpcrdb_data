@@ -1,0 +1,323 @@
+ID   GNAI2_RAT               Reviewed;         355 AA.
+AC   P04897;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   20-JUN-2018, entry version 166.
+DE   RecName: Full=Guanine nucleotide-binding protein G(i) subunit alpha-2;
+DE   AltName: Full=Adenylate cyclase-inhibiting G alpha protein;
+GN   Name=Gnai2; Synonyms=Gnai-2;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=3086867; DOI=10.1073/pnas.83.11.3776;
+RA   Itoh H., Kozasa T., Nagata S., Nakamura S., Katada T., Ui M., Iwai S.,
+RA   Ohtsuka E., Kawasaki H., Suzuki K., Kaziro Y.;
+RT   "Molecular cloning and sequence determination of cDNAs for alpha
+RT   subunits of the guanine nucleotide-binding proteins Gs, Gi, and Go
+RT   from rat brain.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 83:3776-3780(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2820999;
+RA   Jones D.T., Reed R.R.;
+RT   "Molecular cloning of five GTP-binding protein cDNA species from rat
+RT   olfactory neuroepithelium.";
+RL   J. Biol. Chem. 262:14241-14249(1987).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 12-126.
+RX   PubMed=2159473;
+RA   Linder M.E., Ewald D.A., Miller R.J., Gilman A.G.;
+RT   "Purification and characterization of Go alpha and three types of Gi
+RT   alpha after expression in Escherichia coli.";
+RL   J. Biol. Chem. 265:8243-8251(1990).
+RN   [5]
+RP   INTERACTION WITH GPSM1.
+RX   PubMed=11121039; DOI=10.1073/pnas.97.26.14364;
+RA   de Vries L., Fischer T., Tronchere H., Brothers G.M., Strockbine B.,
+RA   Siderovski D.P., Farquhar M.G.;
+RT   "Activator of G protein signaling 3 is a guanine dissociation
+RT   inhibitor for Galpha i subunits.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:14364-14369(2000).
+RN   [6]
+RP   INTERACTION WITH RGS12 AND RGS14.
+RX   PubMed=11387333; DOI=10.1074/jbc.M103208200;
+RA   Kimple R.J., De Vries L., Tronchere H., Behe C.I., Morris R.A.,
+RA   Gist Farquhar M., Siderovski D.P.;
+RT   "RGS12 and RGS14 GoLoco motifs are G alpha(i) interaction sites with
+RT   guanine nucleotide dissociation inhibitor activity.";
+RL   J. Biol. Chem. 276:29275-29281(2001).
+RN   [7]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=16870394; DOI=10.1016/j.cellsig.2006.06.002;
+RA   Shu F.J., Ramineni S., Amyot W., Hepler J.R.;
+RT   "Selective interactions between Gi alpha1 and Gi alpha3 and the
+RT   GoLoco/GPR domain of RGS14 influence its dynamic subcellular
+RT   localization.";
+RL   Cell. Signal. 19:163-176(2007).
+RN   [8]
+RP   MUTAGENESIS OF MET-82; VAL-85; LYS-86; ASN-90; GLN-92; ALA-96; PRO-98;
+RP   GLN-99; SER-111; CYS-112; PRO-121 AND GLU-122.
+RX   PubMed=15337739; DOI=10.1074/jbc.M407409200;
+RA   Mittal V., Linder M.E.;
+RT   "The RGS14 GoLoco domain discriminates among Galphai isoforms.";
+RL   J. Biol. Chem. 279:46772-46778(2004).
+RN   [9]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=17635935; DOI=10.1083/jcb.200604114;
+RA   Cho H., Kehrl J.H.;
+RT   "Localization of Gi alpha proteins in the centrosomes and at the
+RT   midbody: implication for their role in cell division.";
+RL   J. Cell Biol. 178:245-255(2007).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. The G(i) proteins are involved in hormonal
+CC       regulation of adenylate cyclase: they inhibit the cyclase in
+CC       response to beta-adrenergic stimuli. May play a role in cell
+CC       division.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site. Interacts with UNC5B (By similarity). Interacts with GPSM1.
+CC       Interacts with RGS12 and RGS14. {ECO:0000250,
+CC       ECO:0000269|PubMed:11121039, ECO:0000269|PubMed:11387333}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}. Cell membrane.
+CC       Cytoplasm, cytoskeleton, microtubule organizing center,
+CC       centrosome. Membrane {ECO:0000250|UniProtKB:P04899}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P04899}. Note=Localizes in the centrosomes
+CC       of interphase and mitotic cells. Detected at the cleavage furrow
+CC       and/or the midbody (By similarity). {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M12672; AAA41260.1; -; mRNA.
+DR   EMBL; M17528; AAA40824.1; -; mRNA.
+DR   EMBL; BC078806; AAH78806.1; -; mRNA.
+DR   PIR; D27423; RGRTI2.
+DR   RefSeq; NP_112297.1; NM_031035.3.
+DR   RefSeq; XP_006243920.1; XM_006243858.1.
+DR   UniGene; Rn.3036; -.
+DR   ProteinModelPortal; P04897; -.
+DR   SMR; P04897; -.
+DR   BioGrid; 249564; 2.
+DR   CORUM; P04897; -.
+DR   DIP; DIP-607N; -.
+DR   IntAct; P04897; 2.
+DR   STRING; 10116.ENSRNOP00000022550; -.
+DR   iPTMnet; P04897; -.
+DR   PhosphoSitePlus; P04897; -.
+DR   SwissPalm; P04897; -.
+DR   PaxDb; P04897; -.
+DR   PRIDE; P04897; -.
+DR   Ensembl; ENSRNOT00000022550; ENSRNOP00000022550; ENSRNOG00000016592.
+DR   GeneID; 81664; -.
+DR   KEGG; rno:81664; -.
+DR   UCSC; RGD:620243; rat.
+DR   CTD; 2771; -.
+DR   RGD; 620243; Gnai2.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P04897; -.
+DR   KO; K04630; -.
+DR   OMA; EQGIMPD; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P04897; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-RNO-112043; PLC beta mediated events.
+DR   Reactome; R-RNO-170670; Adenylate cyclase inhibitory pathway.
+DR   Reactome; R-RNO-202040; G-protein activation.
+DR   Reactome; R-RNO-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-RNO-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-RNO-418594; G alpha (i) signalling events.
+DR   Reactome; R-RNO-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   SABIO-RK; P04897; -.
+DR   PRO; PR:P04897; -.
+DR   Proteomes; UP000002494; Chromosome 8.
+DR   Bgee; ENSRNOG00000016592; -.
+DR   ExpressionAtlas; P04897; baseline and differential.
+DR   Genevisible; P04897; RN.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0005813; C:centrosome; ISS:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; IDA:RGD.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0016020; C:membrane; IDA:RGD.
+DR   GO; GO:0045121; C:membrane raft; IDA:RGD.
+DR   GO; GO:0030496; C:midbody; ISS:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; IEA:Ensembl.
+DR   GO; GO:0005634; C:nucleus; IDA:RGD.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0001973; P:adenosine receptor signaling pathway; IDA:RGD.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IMP:RGD.
+DR   GO; GO:0007193; P:adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0051301; P:cell division; ISS:UniProtKB.
+DR   GO; GO:0008283; P:cell proliferation; IEA:Ensembl.
+DR   GO; GO:0007213; P:G-protein coupled acetylcholine receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IDA:RGD.
+DR   GO; GO:0007214; P:gamma-aminobutyric acid signaling pathway; IDA:RGD.
+DR   GO; GO:0140199; P:negative regulation of adenylate cyclase-activating adrenergic receptor signaling pathway involved in heart process; IDA:RGD.
+DR   GO; GO:2001234; P:negative regulation of apoptotic signaling pathway; IMP:RGD.
+DR   GO; GO:0045955; P:negative regulation of calcium ion-dependent exocytosis; IMP:RGD.
+DR   GO; GO:1903614; P:negative regulation of protein tyrosine phosphatase activity; IMP:RGD.
+DR   GO; GO:0050805; P:negative regulation of synaptic transmission; IDA:RGD.
+DR   GO; GO:0030335; P:positive regulation of cell migration; IMP:RGD.
+DR   GO; GO:0008284; P:positive regulation of cell proliferation; IMP:RGD.
+DR   GO; GO:0070374; P:positive regulation of ERK1 and ERK2 cascade; IMP:RGD.
+DR   GO; GO:0046628; P:positive regulation of insulin receptor signaling pathway; IMP:RGD.
+DR   GO; GO:0033864; P:positive regulation of NAD(P)H oxidase activity; IMP:RGD.
+DR   GO; GO:2000179; P:positive regulation of neural precursor cell proliferation; IMP:RGD.
+DR   GO; GO:0035815; P:positive regulation of renal sodium excretion; IMP:RGD.
+DR   GO; GO:0032930; P:positive regulation of superoxide anion generation; IMP:RGD.
+DR   GO; GO:0035810; P:positive regulation of urine volume; IMP:RGD.
+DR   GO; GO:1904707; P:positive regulation of vascular smooth muscle cell proliferation; IMP:RGD.
+DR   GO; GO:0051924; P:regulation of calcium ion transport; IDA:RGD.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Cell cycle; Cell division; Cell membrane; Complete proteome;
+KW   Cytoplasm; Cytoskeleton; Direct protein sequencing; GTP-binding;
+KW   Lipoprotein; Magnesium; Membrane; Metal-binding; Myristate;
+KW   Nucleotide-binding; Palmitate; Polymorphism; Reference proteome;
+KW   Transducer.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P04899}.
+FT   CHAIN         2    355       Guanine nucleotide-binding protein G(i)
+FT                                subunit alpha-2.
+FT                                /FTId=PRO_0000203682.
+FT   NP_BIND      40     47       GTP. {ECO:0000250}.
+FT   NP_BIND     176    182       GTP. {ECO:0000250}.
+FT   NP_BIND     201    205       GTP. {ECO:0000250}.
+FT   NP_BIND     270    273       GTP. {ECO:0000250}.
+FT   METAL        47     47       Magnesium. {ECO:0000250}.
+FT   METAL       182    182       Magnesium. {ECO:0000250}.
+FT   BINDING     327    327       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine.
+FT                                {ECO:0000250|UniProtKB:P04899}.
+FT   LIPID         3      3       S-palmitoyl cysteine. {ECO:0000250}.
+FT   VARIANT     166    167       SD -> PN (in tryptic peptides).
+FT   MUTAGEN      82     82       M->I: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                85; R-86; R-90; K-92; G-96; A-98; A-99;
+FT                                A-111; G-112; T-121 and A-122. Does not
+FT                                increase sensitivity to RGS14 GTPase
+FT                                activity; when associated with I-85 and
+FT                                A-111. {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN      85     85       V->I: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; R-86; R-90; K-92; G-96; A-98; A-99;
+FT                                A-111; G-112; T-121 and A-122. Does not
+FT                                increase sensitivity to RGS14 GTPase
+FT                                activity; when associated with I-82 and
+FT                                A-111. {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN      86     86       K->R: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-90; K-92; G-96; A-98; A-99;
+FT                                A-111; G-112; T-121 and A-122.
+FT                                {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN      90     90       N->R: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-86; K-92; G-96; A-98; A-99;
+FT                                A-111; G-112; T-121 and A-122.
+FT                                {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN      92     92       Q->K: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-86; R-90; G-96; A-98; A-99;
+FT                                A-111; G-112; T-121 and A-122.
+FT                                {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN      96     96       A->G: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-86; R-90; K-92; A-98; A-99;
+FT                                A-111; G-112; T-121 and A-122.
+FT                                {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN      98     98       P->A: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-86; R-90; K-92; G-96; A-99;
+FT                                A-111; G-112; T-121 and A-122.
+FT                                {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN      99     99       Q->A: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-86; R-90; K-92; G-96; A-98;
+FT                                A-111; G-112; T-121 and A-122.
+FT                                {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN     111    111       S->A: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-86; R-90; K-92; G-96; A-98;
+FT                                A-99; G-112; T-121 and A-122. Does not
+FT                                increase sensitivity to RGS14 GTPase
+FT                                activity; when associated with G-112; T-
+FT                                121 and A-122. Does not increase
+FT                                sensitivity to RGS14 GTPase activity;
+FT                                when associated with I-82 and A-85.
+FT                                {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN     112    112       C->G: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-86; R-90; K-92; G-96; A-98;
+FT                                A-99; A-111; T-121 and A-122. Does not
+FT                                increase sensitivity to RGS14 GTPase
+FT                                activity; when associated with G-111; T-
+FT                                121 and A-122.
+FT                                {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN     117    117       Missing: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-86; R-90; K-92; G-96; A-98;
+FT                                A-99; A-111; G-112; T-121 and A-122. Does
+FT                                not increase sensitivity to RGS14 GTPase
+FT                                activity; when associated with G-111; G-
+FT                                112; T-121 and A-122.
+FT   MUTAGEN     121    121       P->T: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-86; R-90; K-92; G-96; A-98;
+FT                                A-99; A-111; G-112 and A-122. Does not
+FT                                increase sensitivity to RGS14 GTPase
+FT                                activity; when associated with G-111; G-
+FT                                112 and A-122.
+FT                                {ECO:0000269|PubMed:15337739}.
+FT   MUTAGEN     122    122       E->A: Increases sensitivity to RGS14
+FT                                GTPase activity; when associated with I-
+FT                                82; I-85; R-86; R-90; K-92; G-96; A-98;
+FT                                A-99; A-111; G-112 and T-121. Does not
+FT                                increase sensitivity to RGS14 GTPase
+FT                                activity; when associated with G-111; G-
+FT                                112 and T-121.
+FT                                {ECO:0000269|PubMed:15337739}.
+SQ   SEQUENCE   355 AA;  40499 MW;  9360ABAC6BDC493E CRC64;
+     MGCTVSAEDK AAAERSKMID KNLREDGEKA AREVKLLLLG AGESGKSTIV KQMKIIHEDG
+     YSEEECRQYR AVVYSNTIQS IMAIVKAMGN LQIDFADPQR ADDARQLFAL SCAAEEQGML
+     PEDLSGVIRR LWADHGVQAC FGRSREYQLN DSAAYYLNDL ERIAQSDYIP TQQDVLRTRV
+     KTTGIVETHF TFKDLHFKMF DVGGQRSERK KWIHCFEGVT AIIFCVALSA YDLVLAEDEE
+     MNRMHESMKL FDSICNNKWF TDTSIILFLN KKDLFEEKIT QSPLTICFPE YTGANKYDEA
+     ASYIQSKFED LNKRKDTKEI YTHFTCATDT KNVQFVFDAV TDVIIKNNLK DCGLF
+//

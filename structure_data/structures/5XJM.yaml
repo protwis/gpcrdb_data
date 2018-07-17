@@ -1,0 +1,14 @@
+auxiliary_protein: 'Soluble cytochrome b562, Fab'
+construct: 5xjm
+distance: 7.86
+ligand:
+    chain: B
+    name: pep
+    pubchemId: 10079601
+    role: Agonist
+    title: (Sar1,Ile8)-angiontensin II
+    type: Peptide-like
+pdb: 5XJM
+preferred_chain: A
+signaling_protein: None
+state: Active
