@@ -52,7 +52,6 @@ h4s6 loop 1 h4s6 Gprotein
 S6 sheet 1 S6 Gprotein
 s6h5 loop 1 s6h5 Gprotein
 H5 helix 1 H5 Gprotein
-H1 helix 1 H1 Arrestin
 ns1 loop 1 ns1 Arrestin
 S1 sheet 1 S1 Arrestin
 s1s2 loop 1 s1s2 Arrestin
