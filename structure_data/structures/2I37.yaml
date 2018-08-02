@@ -6,10 +6,10 @@ endogenous_ligand:
     name: RET
     type: Small molecule
 ligand:
--   name: RET
-    pubchemId: '638015'
-    role: Inverse agonist
-    type: Small molecule
+-   name: None
+    pubchemId: None
+    role: None
+    type: None
 pdb: 2i37
 preferred_chain: A
 signaling_protein: None

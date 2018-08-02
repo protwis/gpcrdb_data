@@ -1,25 +1,45 @@
 gnas2_human: 
 -   pdb: 5UZ7
-    chain: A
+    alpha: A
+    beta: B
+    gamma: G
 -   pdb: 5VAI
-    chain: A
+    alpha: A
+    beta: B
+    gamma: G
 -   pdb: 6B3J
-    chain: A
+    alpha: A
+    beta: B
+    gamma: G
 -   pdb: 6GDG
-    chain: D
+    alpha: D
+    beta: B
+    gamma: C
 gnas2_bovin:
 -   pdb: 3SN6
-    chain: A
+    alpha: A
+    beta: B
+    gamma: G
 gnai1_human:
 -   pdb: 6DDE
-    chain: A
+    alpha: A
+    beta: B
+    gamma: C
 -   pdb: 6DDF
-    chain: A
+    alpha: A
+    beta: B
+    gamma: C
 -   pdb: 6CMO
-    chain: A
+    alpha: A
+    beta: B
+    gamma: G
 gnai2_human:
 -   pdb: 6D9H
-    chain: A
+    alpha: A
+    beta: B
+    gamma: G
 gnao_human:
 -   pdb: 6G79
-    chain: A
+    alpha: A
+    beta: B
+    gamma: G
