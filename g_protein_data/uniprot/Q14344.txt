@@ -1,0 +1,351 @@
+ID   GNA13_HUMAN             Reviewed;         377 AA.
+AC   Q14344; B2R977; B7Z7R0; F5H1G8; Q8TD70;
+DT   01-NOV-1997, integrated into UniProtKB/Swiss-Prot.
+DT   31-OCT-2003, sequence version 2.
+DT   05-OCT-2016, entry version 159.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit alpha-13;
+DE            Short=G alpha-13;
+DE            Short=G-protein subunit alpha-13;
+GN   Name=GNA13;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), AND VARIANT LEU-221.
+RC   TISSUE=Thymus;
+RX   PubMed=7791744; DOI=10.1007/BF00926739;
+RA   Kabouridis P.S., Waters S.T., Escobar S., Stanners J., Tsoukas C.D.;
+RT   "Expression of GTP-binding protein alpha subunits in human
+RT   thymocytes.";
+RL   Mol. Cell. Biochem. 144:45-51(1995).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction
+RT   sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Hippocampus, and Testis;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Melanoma;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [6]
+RP   PALMITOYLATION AT CYS-14 AND CYS-18, AND MUTAGENESIS OF CYS-14 AND
+RP   CYS-18.
+RX   PubMed=10747909; DOI=10.1074/jbc.M000415200;
+RA   Bhattacharyya R., Wedegaertner P.B.;
+RT   "Galpha 13 requires palmitoylation for plasma membrane localization,
+RT   Rho-dependent signaling, and promotion of p115-RhoGEF membrane
+RT   binding.";
+RL   J. Biol. Chem. 275:14992-14999(2000).
+RN   [7]
+RP   PHOSPHORYLATION AT THR-203, AND MUTAGENESIS OF THR-203.
+RX   PubMed=12399457; DOI=10.1074/jbc.M209219200;
+RA   Manganello J.M., Huang J.-S., Kozasa T., Voyno-Yasenetskaya T.A.,
+RA   Le Breton G.C.;
+RT   "PKA-mediated phosphorylation of Galpha 13 switch I region alters the
+RT   Galpha beta gamma 13-GPCR complex and inhibits Rho activation.";
+RL   J. Biol. Chem. 278:124-130(2003).
+RN   [8]
+RP   INTERACTION WITH HAX1.
+RX   PubMed=15339924; DOI=10.1074/jbc.M408836200;
+RA   Radhika V., Onesime D., Ha J.H., Dhanasekaran N.;
+RT   "Galpha13 stimulates cell migration through cortactin-interacting
+RT   protein Hax-1.";
+RL   J. Biol. Chem. 279:49406-49413(2004).
+RN   [9]
+RP   INTERACTION WITH UBXD5.
+RX   PubMed=16202387; DOI=10.1016/j.bbrc.2005.09.097;
+RA   Tateiwa K., Katoh H., Negishi M.;
+RT   "Socius, a novel binding partner of Galpha12/13, promotes the
+RT   Galpha12-induced RhoA activation.";
+RL   Biochem. Biophys. Res. Commun. 337:615-620(2005).
+RN   [10]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RC   TISSUE=Melanoma;
+RX   PubMed=17081065; DOI=10.1021/pr060363j;
+RA   Chi A., Valencia J.C., Hu Z.-Z., Watabe H., Yamaguchi H.,
+RA   Mangini N.J., Huang H., Canfield V.A., Cheng K.C., Yang F., Abe R.,
+RA   Yamagishi S., Shabanowitz J., Hearing V.J., Wu C., Appella E.,
+RA   Hunt D.F.;
+RT   "Proteomic and bioinformatic characterization of the biogenesis and
+RT   function of melanosomes.";
+RL   J. Proteome Res. 5:3135-3144(2006).
+RN   [11]
+RP   INTERACTION WITH RGS22, SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY.
+RC   TISSUE=Testis;
+RX   PubMed=18703424; DOI=10.1095/biolreprod.107.067504;
+RA   Hu Y., Xing J., Chen L., Guo X., Du Y., Zhao C., Zhu Y., Lin M.,
+RA   Zhou Z., Sha J.;
+RT   "RGS22, a novel testis-specific regulator of G-protein signaling
+RT   involved in human and mouse spermiogenesis along with GNA12/13
+RT   subunits.";
+RL   Biol. Reprod. 79:1021-1029(2008).
+RN   [12]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [13]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M.,
+RA   Ayoub D., Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site. Interacts with UBXD5. Interacts with HAX1. Interacts (when
+CC       active) with PPP5C (via TPR repeats); activates PPP5C phosphatase
+CC       activity and translocates PPP5C to the cell membrane. Interacts
+CC       with RGS22. {ECO:0000269|PubMed:15339924,
+CC       ECO:0000269|PubMed:16202387, ECO:0000269|PubMed:18703424}.
+CC   -!- INTERACTION:
+CC       Q92888:ARHGEF1; NbExp=3; IntAct=EBI-465387, EBI-465400;
+CC       P32302:CXCR5; NbExp=9; IntAct=EBI-465387, EBI-2835269;
+CC   -!- SUBCELLULAR LOCATION: Membrane; Lipid-anchor. Melanosome.
+CC       Cytoplasm. Nucleus. Note=Identified by mass spectrometry in
+CC       melanosome fractions from stage I to stage IV. Detected in the
+CC       cytoplasm of Leydig cells and in the seminiferous epithelium,
+CC       including differentiating cells from the spermatogonia to mature
+CC       spermatozoa stages. In round spermatids, also present in the
+CC       nuclei.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=Q14344-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=Q14344-2; Sequence=VSP_055140;
+CC   -!- TISSUE SPECIFICITY: Expressed in testis, including in Leydig cells
+CC       and in the seminiferous epithelium, in differentiating cells from
+CC       the spermatogonia to mature spermatozoa stages and round
+CC       spermatids (at protein level). Expressed in 99.2% of spermatozoa
+CC       from healthy individuals, but only in 28.6% of macrocephalic
+CC       spermatozoa from infertile patients (at protein level).
+CC       {ECO:0000269|PubMed:18703424}.
+CC   -!- PTM: Palmitoylation is critical for proper membrane localization
+CC       and signaling. {ECO:0000269|PubMed:10747909}.
+CC   -!- PTM: Phosphorylation on Thr-203 by PKA destabilizes the
+CC       heterotrimer of alpha, beta and gamma, and inhibits Rho
+CC       activation. {ECO:0000269|PubMed:12399457}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(12) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L22075; AAA74235.1; -; mRNA.
+DR   EMBL; AF493902; AAM12616.1; -; mRNA.
+DR   EMBL; AK302400; BAH13696.1; -; mRNA.
+DR   EMBL; AK313672; BAG36424.1; -; mRNA.
+DR   EMBL; AC037487; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471099; EAW88993.1; -; Genomic_DNA.
+DR   EMBL; BC036756; AAH36756.1; -; mRNA.
+DR   CCDS; CCDS11661.1; -. [Q14344-1]
+DR   CCDS; CCDS62302.1; -. [Q14344-2]
+DR   PIR; I57490; I57490.
+DR   RefSeq; NP_001269354.1; NM_001282425.1. [Q14344-2]
+DR   RefSeq; NP_006563.2; NM_006572.5. [Q14344-1]
+DR   UniGene; Hs.515018; -.
+DR   ProteinModelPortal; Q14344; -.
+DR   SMR; Q14344; 47-372.
+DR   BioGrid; 115914; 54.
+DR   IntAct; Q14344; 9.
+DR   MINT; MINT-85993; -.
+DR   STRING; 9606.ENSP00000400717; -.
+DR   iPTMnet; Q14344; -.
+DR   SwissPalm; Q14344; -.
+DR   DMDM; 38258936; -.
+DR   EPD; Q14344; -.
+DR   MaxQB; Q14344; -.
+DR   PaxDb; Q14344; -.
+DR   PeptideAtlas; Q14344; -.
+DR   PRIDE; Q14344; -.
+DR   DNASU; 10672; -.
+DR   Ensembl; ENST00000439174; ENSP00000400717; ENSG00000120063. [Q14344-1]
+DR   Ensembl; ENST00000541118; ENSP00000439647; ENSG00000120063. [Q14344-2]
+DR   GeneID; 10672; -.
+DR   KEGG; hsa:10672; -.
+DR   UCSC; uc002jfc.4; human. [Q14344-1]
+DR   CTD; 10672; -.
+DR   GeneCards; GNA13; -.
+DR   HGNC; HGNC:4381; GNA13.
+DR   HPA; HPA010087; -.
+DR   MIM; 604406; gene.
+DR   neXtProt; NX_Q14344; -.
+DR   PharmGKB; PA28766; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00770000120503; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; Q14344; -.
+DR   KO; K04639; -.
+DR   OMA; QMFMSVR; -.
+DR   OrthoDB; EOG091G0NV2; -.
+DR   PhylomeDB; Q14344; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-HSA-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-HSA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-HSA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   SignaLink; Q14344; -.
+DR   SIGNOR; Q14344; -.
+DR   ChiTaRS; GNA13; human.
+DR   GeneWiki; GNA13; -.
+DR   GenomeRNAi; 10672; -.
+DR   PRO; PR:Q14344; -.
+DR   Proteomes; UP000005640; Chromosome 17.
+DR   Bgee; ENSG00000120063; -.
+DR   CleanEx; HS_GNA13; -.
+DR   ExpressionAtlas; Q14344; baseline and differential.
+DR   Genevisible; Q14344; HS.
+DR   GO; GO:0031526; C:brush border membrane; IBA:GO_Central.
+DR   GO; GO:0005737; C:cytoplasm; IDA:HPA.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; IDA:UniProtKB.
+DR   GO; GO:0005925; C:focal adhesion; IDA:UniProtKB.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0042470; C:melanosome; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016020; C:membrane; IDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0031752; F:D5 dopamine receptor binding; IBA:GO_Central.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; TAS:Reactome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0031702; F:type 1 angiotensin receptor binding; IBA:GO_Central.
+DR   GO; GO:0031584; P:activation of phospholipase D activity; IBA:GO_Central.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0030154; P:cell differentiation; IEA:Ensembl.
+DR   GO; GO:0001701; P:in utero embryonic development; IEA:Ensembl.
+DR   GO; GO:0006928; P:movement of cell or subcellular component; TAS:ProtInc.
+DR   GO; GO:0001569; P:patterning of blood vessels; IEA:Ensembl.
+DR   GO; GO:0030168; P:platelet activation; TAS:Reactome.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; IEA:Ensembl.
+DR   GO; GO:0030334; P:regulation of cell migration; IEA:Ensembl.
+DR   GO; GO:0008360; P:regulation of cell shape; IEA:Ensembl.
+DR   GO; GO:0007266; P:Rho protein signal transduction; IBA:GO_Central.
+DR   GO; GO:0007165; P:signal transduction; TAS:ProtInc.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000469; Gprotein_alpha_12/13.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00440; GPROTEINA12.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Complete proteome; Cytoplasm; GTP-binding;
+KW   Lipoprotein; Magnesium; Membrane; Metal-binding; Nucleotide-binding;
+KW   Nucleus; Palmitate; Phosphoprotein; Polymorphism; Reference proteome;
+KW   Transducer.
+FT   CHAIN         1    377       Guanine nucleotide-binding protein
+FT                                subunit alpha-13.
+FT                                /FTId=PRO_0000203773.
+FT   NP_BIND      55     62       GTP. {ECO:0000250}.
+FT   NP_BIND     197    203       GTP. {ECO:0000250}.
+FT   NP_BIND     222    226       GTP. {ECO:0000250}.
+FT   NP_BIND     291    294       GTP. {ECO:0000250}.
+FT   METAL        62     62       Magnesium. {ECO:0000250}.
+FT   METAL       203    203       Magnesium. {ECO:0000250}.
+FT   BINDING     349    349       GTP; via amide nitrogen. {ECO:0000250}.
+FT   MOD_RES     203    203       Phosphothreonine; by PKA.
+FT                                {ECO:0000269|PubMed:12399457}.
+FT   LIPID        14     14       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:10747909}.
+FT   LIPID        18     18       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:10747909}.
+FT   VAR_SEQ       1     95       Missing (in isoform 2).
+FT                                {ECO:0000303|PubMed:14702039}.
+FT                                /FTId=VSP_055140.
+FT   VARIANT     221    221       V -> L (in dbSNP:rs1062597).
+FT                                {ECO:0000269|PubMed:7791744}.
+FT                                /FTId=VAR_017160.
+FT   MUTAGEN      14     14       C->S: Fails to localize to plasma
+FT                                membranes and failed to activate Rho-
+FT                                dependent serum response factor-mediated
+FT                                transcription and actin stress fiber
+FT                                formation. {ECO:0000269|PubMed:10747909}.
+FT   MUTAGEN      18     18       C->S: Fails to localize to plasma
+FT                                membranes and failed to activate Rho-
+FT                                dependent serum response factor-mediated
+FT                                transcription and actin stress fiber
+FT                                formation. {ECO:0000269|PubMed:10747909}.
+FT   MUTAGEN     203    203       T->A: Abolishes phosphorylation by PKA;
+FT                                disrupts heterotrimer stability.
+FT                                {ECO:0000269|PubMed:12399457}.
+FT   CONFLICT    211    211       F -> L (in Ref. 3; BAH13696).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   377 AA;  44050 MW;  929B7B6473C54F2E CRC64;
+     MADFLPSRSV LSVCFPGCLL TSGEAEQQRK SKEIDKCLSR EKTYVKRLVK ILLLGAGESG
+     KSTFLKQMRI IHGQDFDQRA REEFRPTIYS NVIKGMRVLV DAREKLHIPW GDNSNQQHGD
+     KMMSFDTRAP MAAQGMVETR VFLQYLPAIR ALWADSGIQN AYDRRREFQL GESVKYFLDN
+     LDKLGEPDYI PSQQDILLAR RPTKGIHEYD FEIKNVPFKM VDVGGQRSER KRWFECFDSV
+     TSILFLVSSS EFDQVLMEDR LTNRLTESLN IFETIVNNRV FSNVSIILFL NKTDLLEEKV
+     QIVSIKDYFL EFEGDPHCLR DVQKFLVECF RNKRRDQQQK PLYHHFTTAI NTENIRLVFR
+     DVKDTILHDN LKQLMLQ
+//

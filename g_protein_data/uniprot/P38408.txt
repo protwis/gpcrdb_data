@@ -1,0 +1,109 @@
+ID   GNA14_BOVIN             Reviewed;         355 AA.
+AC   P38408;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1994, sequence version 1.
+DT   05-OCT-2016, entry version 118.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit alpha-14;
+DE            Short=G alpha-14;
+DE            Short=G-protein subunit alpha-14;
+DE   AltName: Full=G-protein subunit GL1 alpha;
+GN   Name=GNA14;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Liver;
+RX   PubMed=1905731;
+RA   Nakamura F., Ogata K., Shiozaki K., Kameyama K., Ohara K., Haga T.,
+RA   Nukada T.;
+RT   "Identification of two novel GTP-binding protein alpha-subunits that
+RT   lack apparent ADP-ribosylation sites for pertussis toxin.";
+RL   J. Biol. Chem. 266:12676-12681(1991).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(q) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D90335; BAA14349.1; -; mRNA.
+DR   PIR; A40891; A40891.
+DR   RefSeq; NP_776748.1; NM_174323.2.
+DR   UniGene; Bt.4734; -.
+DR   ProteinModelPortal; P38408; -.
+DR   STRING; 9913.ENSBTAP00000028151; -.
+DR   PaxDb; P38408; -.
+DR   PRIDE; P38408; -.
+DR   Ensembl; ENSBTAT00000028151; ENSBTAP00000028151; ENSBTAG00000021127.
+DR   GeneID; 281789; -.
+DR   KEGG; bta:281789; -.
+DR   CTD; 9630; -.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P38408; -.
+DR   KO; K04636; -.
+DR   OMA; DRIAMPS; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-BTA-112043; PLC beta mediated events.
+DR   Reactome; R-BTA-399997; Acetylcholine regulates insulin secretion.
+DR   Reactome; R-BTA-416476; G alpha (q) signalling events.
+DR   Reactome; R-BTA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-BTA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-BTA-432142; Platelet sensitization by LDL.
+DR   Reactome; R-BTA-434316; Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion.
+DR   Reactome; R-BTA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Proteomes; UP000009136; Chromosome 8.
+DR   Bgee; ENSBTAG00000021127; -.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IBA:GO_Central.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; GTP-binding; Magnesium; Metal-binding;
+KW   Nucleotide-binding; Reference proteome; Transducer.
+FT   CHAIN         1    355       Guanine nucleotide-binding protein
+FT                                subunit alpha-14.
+FT                                /FTId=PRO_0000203751.
+FT   NP_BIND      42     49       GTP. {ECO:0000250}.
+FT   NP_BIND     176    182       GTP. {ECO:0000250}.
+FT   NP_BIND     201    205       GTP. {ECO:0000250}.
+FT   NP_BIND     270    273       GTP. {ECO:0000250}.
+FT   METAL        49     49       Magnesium. {ECO:0000250}.
+FT   METAL       182    182       Magnesium. {ECO:0000250}.
+FT   BINDING     327    327       GTP; via amide nitrogen. {ECO:0000250}.
+SQ   SEQUENCE   355 AA;  41499 MW;  60888CC6C9B7243B CRC64;
+     MAGCCCLSAE EKESQRISAE IERQLRRDKK DARRELKLLL LGTGESGKST FIKQMRIIHG
+     SGYSDEDRKG FTKLVYQNIF TAMQAMIRAM DTLKIQYVCE QNKENAQLIR EVEVDKVSTL
+     SRDQVEAIKQ LWQDPGIQEC YDRRREYQLS DSAKYYLTDI DRIAMPAFVP TQQDVLRVRV
+     PTTGIIEYPF DLENIIFRMV DVGGQRSERR KWIHCFESVT SIIFLVALSE YDQVLAECDN
+     ENRMEESKAL FKTIITYPWF LNSSVILFLN KKDLLEEKIM YSHLISYFPE YTGPKQDVKA
+     ARDFILKLYQ DQNPDKEKVI YSHFTCATDT ENIRFVFAAV KDTILQLNLR EFNLV
+//

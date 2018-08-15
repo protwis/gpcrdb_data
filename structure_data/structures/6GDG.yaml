@@ -1,0 +1,13 @@
+auxiliary_protein: TrxA, Nanobody
+construct: 6gdg
+distance: 10.41
+ligand:
+    name: NEC
+    pubchemId: 448222
+    role: Agonist
+    title: NECA
+    type: Small molecule
+pdb: 6GDG
+preferred_chain: A
+signaling_protein: Gs
+state: Active

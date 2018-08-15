@@ -1,0 +1,267 @@
+ID   GNAT1_BOVIN             Reviewed;         350 AA.
+AC   P04695;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 160.
+DE   RecName: Full=Guanine nucleotide-binding protein G(t) subunit alpha-1;
+DE   AltName: Full=Transducin alpha-1 chain;
+GN   Name=GNAT1;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2409555; DOI=10.1073/pnas.82.13.4311;
+RA   Medynski D.C., Sullivan K., Smith D., van Dop C., Chang F.-H.,
+RA   Fung B.K.-K., Seeburg P.H., Bourne H.R.;
+RT   "Amino acid sequence of the alpha subunit of transducin deduced from
+RT   the cDNA sequence.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 82:4311-4315(1985).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2989813; DOI=10.1073/pnas.82.13.4316;
+RA   Yatsunami K., Khorana H.G.;
+RT   "GTPase of bovine rod outer segments: the amino acid sequence of the
+RT   alpha subunit as derived from the cDNA sequence.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 82:4316-4320(1985).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=3923359; DOI=10.1038/315242a0;
+RA   Tanaba T., Nukada T., Nishikawa Y., Sugimoto K., Suzuki H.,
+RA   Takahashi H., Noda M., Haga T., Ichiyama A., Kangawa K., Minamino N.,
+RA   Matsuo H., Numa S.;
+RT   "Primary structure of the alpha-subunit of transducin and its
+RT   relationship to ras proteins.";
+RL   Nature 315:242-245(1985).
+RN   [4]
+RP   PARTIAL PROTEIN SEQUENCE.
+RX   PubMed=3867352;
+RA   Lipkin V.M., Obukhov A.N., Bogachuk A.P., Telezhinskaya I.N.,
+RA   Shemyakin V.V.;
+RT   "Isolation and characteristics of cyanogen bromide peptides of
+RT   transducin alpha and beta subunits.";
+RL   Bioorg. Khim. 11:1481-1492(1985).
+RN   [5]
+RP   MYRISTOYLATION AT GLY-2.
+RX   PubMed=1436039; DOI=10.1038/359749a0;
+RA   Kokame K., Fukada Y., Yoshizawa T., Takao T., Shimonishi Y.;
+RT   "Lipid modification at the N-terminus of photoreceptor G-protein
+RT   alpha-subunit.";
+RL   Nature 359:749-752(1992).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) IN COMPLEX WITH GTP ANALOG.
+RX   PubMed=8259210; DOI=10.1038/366654a0;
+RA   Noel J.P., Hamm H.E., Sigler P.B.;
+RT   "The 2.2 A crystal structure of transducin-alpha complexed with GTP
+RT   gamma S.";
+RL   Nature 366:654-663(1993).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) IN COMPLEX WITH GDP.
+RX   PubMed=8208289; DOI=10.1038/369621a0;
+RA   Lambright D.G., Noel J.P., Hamm H.E., Sigler P.B.;
+RT   "Structural determinants for activation of the alpha-subunit of a
+RT   heterotrimeric G protein.";
+RL   Nature 369:621-628(1994).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) IN COMPLEX WITH GTP ANALOG.
+RX   PubMed=7969474; DOI=10.1038/372276a0;
+RA   Sondek J., Lambright D.G., Noel J.P., Hamm H.E., Sigler P.B.;
+RT   "GTPase mechanism of Gproteins from the 1.7-A crystal structure of
+RT   transducin alpha-GDP-AIF-4.";
+RL   Nature 372:276-279(1994).
+RN   [9]
+RP   STRUCTURE BY NMR OF 340-350.
+RC   TISSUE=Retina;
+RX   PubMed=9539726; DOI=10.1073/pnas.95.8.4270;
+RA   Kisselev O.G., Kao J., Ponder J.W., Fann Y.C., Gautam N.,
+RA   Marshall G.R.;
+RT   "Light-activated rhodopsin induces structural binding motif in G
+RT   protein alpha subunit.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:4270-4275(1998).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (1.94 ANGSTROMS) OF 26-350 IN COMPLEX WITH PDE6G
+RP   AND GNAT1.
+RX   PubMed=11234020; DOI=10.1038/35059138;
+RA   Slep K.C., Kercher M.A., He W., Cowan C.W., Wensel T.G., Sigler P.B.;
+RT   "Structural determinants for regulation of phosphodiesterase by a G
+RT   protein at 2.0 A.";
+RL   Nature 409:1071-1077(2001).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. Transducin is an amplifier and one of the
+CC       transducers of a visual impulse that performs the coupling between
+CC       rhodopsin and cGMP-phosphodiesterase.
+CC   -!- SUBUNIT: Interacts (when myristoylated) with UNC119; interaction
+CC       is required for localization in sensory neurons (By similarity). G
+CC       proteins are composed of 3 units; alpha, beta and gamma. The alpha
+CC       chain contains the guanine nucleotide binding site. {ECO:0000250,
+CC       ECO:0000269|PubMed:11234020, ECO:0000269|PubMed:7969474,
+CC       ECO:0000269|PubMed:8208289, ECO:0000269|PubMed:8259210}.
+CC   -!- INTERACTION:
+CC       Q28181:CNGB1; NbExp=4; IntAct=EBI-7052221, EBI-6979031;
+CC   -!- TISSUE SPECIFICITY: Rod.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; K03253; AAA30787.1; -; mRNA.
+DR   EMBL; K03254; AAA30791.1; -; mRNA.
+DR   EMBL; X02440; CAA26285.1; -; mRNA.
+DR   PIR; A22244; RGBOT1.
+DR   RefSeq; NP_851365.1; NM_181022.2.
+DR   RefSeq; XP_010815966.1; XM_010817664.2.
+DR   UniGene; Bt.4774; -.
+DR   PDB; 1AQG; NMR; -; A=340-350.
+DR   PDB; 1FQJ; X-ray; 2.02 A; A/D=26-215, A/D=295-350.
+DR   PDB; 1FQK; X-ray; 2.30 A; A/C=26-215, A/C=295-350.
+DR   PDB; 1GOT; X-ray; 2.00 A; A=1-350.
+DR   PDB; 1LVZ; NMR; -; A=340-350.
+DR   PDB; 1TAD; X-ray; 1.70 A; A/B/C=27-350.
+DR   PDB; 1TAG; X-ray; 1.80 A; A=27-350.
+DR   PDB; 1TND; X-ray; 2.20 A; A/B/C=27-350.
+DR   PDB; 2X72; X-ray; 3.00 A; B=340-350.
+DR   PDB; 3DQB; X-ray; 3.20 A; B=340-350.
+DR   PDB; 3PQR; X-ray; 2.85 A; B=340-350.
+DR   PDB; 3V00; X-ray; 2.90 A; A/B/C=1-215, A/B/C=295-350.
+DR   PDB; 4BEY; X-ray; 2.90 A; B=340-350.
+DR   PDB; 4J4Q; X-ray; 2.65 A; B=340-350.
+DR   PDBsum; 1AQG; -.
+DR   PDBsum; 1FQJ; -.
+DR   PDBsum; 1FQK; -.
+DR   PDBsum; 1GOT; -.
+DR   PDBsum; 1LVZ; -.
+DR   PDBsum; 1TAD; -.
+DR   PDBsum; 1TAG; -.
+DR   PDBsum; 1TND; -.
+DR   PDBsum; 2X72; -.
+DR   PDBsum; 3DQB; -.
+DR   PDBsum; 3PQR; -.
+DR   PDBsum; 3V00; -.
+DR   PDBsum; 4BEY; -.
+DR   PDBsum; 4J4Q; -.
+DR   DisProt; DP00273; -.
+DR   ProteinModelPortal; P04695; -.
+DR   BioGrid; 159108; 1.
+DR   DIP; DIP-29226N; -.
+DR   IntAct; P04695; 5.
+DR   STRING; 9913.ENSBTAP00000023990; -.
+DR   iPTMnet; P04695; -.
+DR   PaxDb; P04695; -.
+DR   PRIDE; P04695; -.
+DR   Ensembl; ENSBTAT00000023990; ENSBTAP00000023990; ENSBTAG00000018020.
+DR   GeneID; 281794; -.
+DR   KEGG; bta:281794; -.
+DR   CTD; 2779; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P04695; -.
+DR   KO; K04631; -.
+DR   OMA; CYERASE; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-BTA-112043; PLC beta mediated events.
+DR   Reactome; R-BTA-202040; G-protein activation.
+DR   Reactome; R-BTA-2485179; Activation of the phototransduction cascade.
+DR   Reactome; R-BTA-2514859; Inactivation, recovery and regulation of the phototransduction cascade.
+DR   Reactome; R-BTA-418594; G alpha (i) signalling events.
+DR   Reactome; R-BTA-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   EvolutionaryTrace; P04695; -.
+DR   Proteomes; UP000009136; Chromosome 22.
+DR   Bgee; ENSBTAG00000018020; -.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0032391; C:photoreceptor connecting cilium; IEA:Ensembl.
+DR   GO; GO:0097381; C:photoreceptor disc membrane; TAS:Reactome.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IEA:Ensembl.
+DR   GO; GO:0042622; C:photoreceptor outer segment membrane; IDA:UniProtKB.
+DR   GO; GO:0000035; F:acyl binding; IDA:UniProtKB.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0019003; F:GDP binding; IDA:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IDA:UniProtKB.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0019901; F:protein kinase binding; IDA:UniProtKB.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0008283; P:cell proliferation; IEA:Ensembl.
+DR   GO; GO:0071257; P:cellular response to electrical stimulus; IEA:Ensembl.
+DR   GO; GO:0050908; P:detection of light stimulus involved in visual perception; IEA:Ensembl.
+DR   GO; GO:0042462; P:eye photoreceptor cell development; IEA:Ensembl.
+DR   GO; GO:0051344; P:negative regulation of cyclic-nucleotide phosphodiesterase activity; IDA:UniProtKB.
+DR   GO; GO:0007602; P:phototransduction; NAS:UniProtKB.
+DR   GO; GO:0022400; P:regulation of rhodopsin mediated signaling pathway; TAS:Reactome.
+DR   GO; GO:0009416; P:response to light stimulus; IDA:UniProtKB.
+DR   GO; GO:0060041; P:retina development in camera-type eye; IEA:Ensembl.
+DR   GO; GO:0016056; P:rhodopsin mediated signaling pathway; TAS:Reactome.
+DR   GO; GO:0050917; P:sensory perception of umami taste; IBA:GO_Central.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   GTP-binding; Lipoprotein; Myristate; Nucleotide-binding;
+KW   Phosphoprotein; Reference proteome; Sensory transduction; Transducer;
+KW   Vision.
+FT   INIT_MET      1      1       Removed.
+FT   CHAIN         2    350       Guanine nucleotide-binding protein G(t)
+FT                                subunit alpha-1.
+FT                                /FTId=PRO_0000203735.
+FT   NP_BIND      36     43       GTP.
+FT   NP_BIND     196    200       GTP.
+FT   NP_BIND     265    268       GTP.
+FT   MOD_RES     142    142       Phosphotyrosine.
+FT                                {ECO:0000250|UniProtKB:P11488}.
+FT   LIPID         2      2       N-myristoyl glycine.
+FT                                {ECO:0000269|PubMed:1436039}.
+FT   HELIX         7     27       {ECO:0000244|PDB:1GOT}.
+FT   STRAND       28     35       {ECO:0000244|PDB:1TAD}.
+FT   HELIX        42     53       {ECO:0000244|PDB:1TAD}.
+FT   HELIX        59     86       {ECO:0000244|PDB:1TAD}.
+FT   HELIX        96    109       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       117    128       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       130    137       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       138    141       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       148    152       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       155    158       {ECO:0000244|PDB:1TAD}.
+FT   STRAND      160    162       {ECO:0000244|PDB:3V00}.
+FT   HELIX       167    172       {ECO:0000244|PDB:1TAD}.
+FT   STRAND      181    187       {ECO:0000244|PDB:1TAD}.
+FT   STRAND      190    196       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       201    204       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       205    210       {ECO:0000244|PDB:1TAD}.
+FT   STRAND      215    222       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       223    227       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       238    250       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       253    255       {ECO:0000244|PDB:1TAD}.
+FT   STRAND      258    265       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       267    273       {ECO:0000244|PDB:1TAD}.
+FT   TURN        274    276       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       279    281       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       292    304       {ECO:0000244|PDB:1TAD}.
+FT   TURN        308    312       {ECO:0000244|PDB:1TAD}.
+FT   STRAND      316    319       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       325    341       {ECO:0000244|PDB:1TAD}.
+FT   HELIX       342    345       {ECO:0000244|PDB:1AQG}.
+FT   TURN        346    348       {ECO:0000244|PDB:1AQG}.
+SQ   SEQUENCE   350 AA;  39966 MW;  36F0B4630EFBD7DF CRC64;
+     MGAGASAEEK HSRELEKKLK EDAEKDARTV KLLLLGAGES GKSTIVKQMK IIHQDGYSLE
+     ECLEFIAIIY GNTLQSILAI VRAMTTLNIQ YGDSARQDDA RKLMHMADTI EEGTMPKEMS
+     DIIQRLWKDS GIQACFDRAS EYQLNDSAGY YLSDLERLVT PGYVPTEQDV LRSRVKTTGI
+     IETQFSFKDL NFRMFDVGGQ RSERKKWIHC FEGVTCIIFI AALSAYDMVL VEDDEVNRMH
+     ESLHLFNSIC NHRYFATTSI VLFLNKKDVF SEKIKKAHLS ICFPDYNGPN TYEDAGNYIK
+     VQFLELNMRR DVKEIYSHMT CATDTQNVKF VFDAVTDIII KENLKDCGLF
+//

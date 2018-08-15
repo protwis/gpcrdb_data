@@ -1,0 +1,107 @@
+ID   D2HET3_AILME            Unreviewed;       350 AA.
+AC   D2HET3;
+DT   09-FEB-2010, integrated into UniProtKB/TrEMBL.
+DT   09-FEB-2010, sequence version 1.
+DT   28-FEB-2018, entry version 56.
+DE   SubName: Full=G protein subunit alpha transducin 1 {ECO:0000313|Ensembl:ENSAMEP00000012515};
+DE   Flags: Fragment;
+GN   Name=GNAT1 {ECO:0000313|Ensembl:ENSAMEP00000012515};
+GN   ORFNames=PANDA_009326 {ECO:0000313|EMBL:EFB13914.1};
+OS   Ailuropoda melanoleuca (Giant panda).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Ursidae;
+OC   Ailuropoda.
+OX   NCBI_TaxID=9646 {ECO:0000313|EMBL:EFB13914.1};
+RN   [1] {ECO:0000313|EMBL:EFB13914.1, ECO:0000313|Ensembl:ENSAMEP00000012515}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=20010809; DOI=10.1038/nature08696;
+RA   Li R., Fan W., Tian G., Zhu H., He L., Cai J., Huang Q., Cai Q.,
+RA   Li B., Bai Y., Zhang Z., Zhang Y., Wang W., Li J., Wei F., Li H.,
+RA   Jian M., Li J., Zhang Z., Nielsen R., Li D., Gu W., Yang Z., Xuan Z.,
+RA   Ryder O.A., Leung F.C., Zhou Y., Cao J., Sun X., Fu Y., Fang X.,
+RA   Guo X., Wang B., Hou R., Shen F., Mu B., Ni P., Lin R., Qian W.,
+RA   Wang G., Yu C., Nie W., Wang J., Wu Z., Liang H., Min J., Wu Q.,
+RA   Cheng S., Ruan J., Wang M., Shi Z., Wen M., Liu B., Ren X., Zheng H.,
+RA   Dong D., Cook K., Shan G., Zhang H., Kosiol C., Xie X., Lu Z.,
+RA   Zheng H., Li Y., Steiner C.C., Lam T.T., Lin S., Zhang Q., Li G.,
+RA   Tian J., Gong T., Liu H., Zhang D., Fang L., Ye C., Zhang J., Hu W.,
+RA   Xu A., Ren Y., Zhang G., Bruford M.W., Li Q., Ma L., Guo Y., An N.,
+RA   Hu Y., Zheng Y., Shi Y., Li Z., Liu Q., Chen Y., Zhao J., Qu N.,
+RA   Zhao S., Tian F., Wang X., Wang H., Xu L., Liu X., Vinar T., Wang Y.,
+RA   Lam T.W., Yiu S.M., Liu S., Zhang H., Li D., Huang Y., Wang X.,
+RA   Yang G., Jiang Z., Wang J., Qin N., Li L., Li J., Bolund L.,
+RA   Kristiansen K., Wong G.K., Olson M., Zhang X., Li S., Yang H.,
+RA   Wang J., Wang J.;
+RT   "The sequence and de novo assembly of the giant panda genome.";
+RL   Nature 463:311-317(2010).
+RN   [2] {ECO:0000313|Ensembl:ENSAMEP00000012515}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (SEP-2011) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ACTA01162585; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACTA01170583; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; GL192765; EFB13914.1; -; Genomic_DNA.
+DR   RefSeq; XP_002920573.1; XM_002920527.3.
+DR   STRING; 9646.ENSAMEP00000012515; -.
+DR   Ensembl; ENSAMET00000013049; ENSAMEP00000012515; ENSAMEG00000011894.
+DR   GeneID; 100472264; -.
+DR   KEGG; aml:100472264; -.
+DR   CTD; 2779; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   KO; K04631; -.
+DR   OMA; MHLADTI; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000008912; Unassembled WGS sequence.
+DR   GO; GO:0016020; C:membrane; ISS:AgBase.
+DR   GO; GO:0032391; C:photoreceptor connecting cilium; IEA:Ensembl.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IEA:Ensembl.
+DR   GO; GO:0001750; C:photoreceptor outer segment; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:Ensembl.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:Ensembl.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0008283; P:cell proliferation; IEA:Ensembl.
+DR   GO; GO:0071257; P:cellular response to electrical stimulus; IEA:Ensembl.
+DR   GO; GO:0050908; P:detection of light stimulus involved in visual perception; IEA:Ensembl.
+DR   GO; GO:0042462; P:eye photoreceptor cell development; IEA:Ensembl.
+DR   GO; GO:0007603; P:phototransduction, visible light; IEA:Ensembl.
+DR   GO; GO:0009416; P:response to light stimulus; ISS:AgBase.
+DR   GO; GO:0060041; P:retina development in camera-type eye; IEA:Ensembl.
+DR   GO; GO:0050917; P:sensory perception of umami taste; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008912};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008912};
+KW   Transducer {ECO:0000256|SAAS:SAAS00754915}.
+FT   NON_TER     350    350       {ECO:0000313|EMBL:EFB13914.1}.
+SQ   SEQUENCE   350 AA;  40034 MW;  50658A70B27B3635 CRC64;
+     MGAGASAEEK HSRELEKKLK EDAEKDARTV KLLLLGAGES GKSTIVKQMK IIHQDGYSLE
+     ECLEFIAIIY SNTLQSILAI VRAMTTLNIQ YGDSARQDDA RKLMHMADTI EEGTMPKEMS
+     DIIQRLWKDS GIQACFERAS EYQLNDSAGY YLSDLERLVT PGYVPTEQDV LRSRVKTTGI
+     IETQFSFKDL HFRMFDVGGQ RSERKKWIHC FEGVTCIIFI AALSAYDMVL VEDDEVNRMH
+     ESLHLFNSIC NHRYFATTSI VLFLNKKDVF SEKIKKAHLS ICFPDYDGPN TYEDAGNYIK
+     VQFLELNMRR DVKEIYSHMT CATDTQNVKF VFDAVTDIII KENLKDCGLF
+//

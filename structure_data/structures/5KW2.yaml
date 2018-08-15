@@ -1,0 +1,13 @@
+auxiliary_protein: 'T4-Lysozyme'
+construct: 5kw2
+distance: 4.17
+ligand:
+    name: 6XQ
+    pubchemId: None
+    role: Antagonist
+    title: (3~{S})-3-cyclopropyl-3-[2-[1-[2-[2,2-dimethylpropyl-(6-methylpyridin-2-yl)carbamoyl]-5-methoxy-phenyl]piperidin-4-yl]-1-benzofuran-6-yl]propanoic acid
+    type: Small molecule
+pdb: 5KW2
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

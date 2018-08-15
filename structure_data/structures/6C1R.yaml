@@ -1,0 +1,18 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 6c1r
+distance: -1.37
+ligand:
+-   name: PMX
+    pubchemId: 6918468
+    role: Antagonist
+    title: PMX53
+    type: Peptide
+-   name: EFD
+    pubchemId: 49841217
+    role: Antagonist
+    title: Avacopan
+    type: Small molecule
+pdb: 6C1R
+preferred_chain: B
+signaling_protein: None
+state: Inactive

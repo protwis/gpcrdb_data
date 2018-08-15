@@ -1,0 +1,202 @@
+ID   GNA14_MOUSE             Reviewed;         355 AA.
+AC   P30677; Q8R2X9;
+DT   01-APR-1993, integrated into UniProtKB/Swiss-Prot.
+DT   27-JUL-2011, sequence version 2.
+DT   05-OCT-2016, entry version 135.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit alpha-14;
+DE            Short=G alpha-14;
+DE            Short=G-protein subunit alpha-14;
+GN   Name=Gna14; Synonyms=Gna-14;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=1946421; DOI=10.1073/pnas.88.22.10049;
+RA   Wilkie T.M., Scherle P.A., Strathmann M.P., Slepak V.Z., Simon M.I.;
+RT   "Characterization of G-protein alpha subunits in the Gq class:
+RT   expression in murine tissues and in stromal and hematopoietic cell
+RT   lines.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:10049-10053(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=C57BL/6J; TISSUE=Head, and Stomach;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Adams M.D., Myers E.W., Smith H.O., Venter J.C.;
+RL   Submitted (APR-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=FVB/N-3; TISSUE=Mammary tumor;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 57-69; 74-88; 163-177 AND 199-206, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   STRAIN=C57BL/6J; TISSUE=Brain;
+RA   Lubec G., Kang S.U.;
+RL   Submitted (APR-2007) to UniProtKB.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 217-267.
+RX   PubMed=2508088; DOI=10.1073/pnas.86.19.7407;
+RA   Strathmann M., Wilkie T.M., Simon M.I.;
+RT   "Diversity of the G-protein family: sequences from five additional
+RT   alpha subunits in the mouse.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 86:7407-7409(1989).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Kidney, and Testis;
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and
+RT   expression.";
+RL   Cell 143:1174-1189(2010).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(q) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M80631; AAA83222.1; -; mRNA.
+DR   EMBL; AK160808; BAE36026.1; -; mRNA.
+DR   EMBL; AK168498; BAE40384.1; -; mRNA.
+DR   EMBL; CH466534; EDL41541.1; -; Genomic_DNA.
+DR   EMBL; BC027015; AAH27015.1; -; mRNA.
+DR   EMBL; M57616; AAA63304.1; -; mRNA.
+DR   CCDS; CCDS29685.1; -.
+DR   PIR; A41534; A41534.
+DR   RefSeq; NP_032163.3; NM_008137.4.
+DR   UniGene; Mm.313181; -.
+DR   ProteinModelPortal; P30677; -.
+DR   SMR; P30677; 14-350.
+DR   STRING; 10090.ENSMUSP00000025602; -.
+DR   iPTMnet; P30677; -.
+DR   SwissPalm; P30677; -.
+DR   MaxQB; P30677; -.
+DR   PaxDb; P30677; -.
+DR   PeptideAtlas; P30677; -.
+DR   PRIDE; P30677; -.
+DR   Ensembl; ENSMUST00000025602; ENSMUSP00000025602; ENSMUSG00000024697.
+DR   GeneID; 14675; -.
+DR   KEGG; mmu:14675; -.
+DR   UCSC; uc008gwu.2; mouse.
+DR   CTD; 9630; -.
+DR   MGI; MGI:95769; Gna14.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P30677; -.
+DR   KO; K04636; -.
+DR   OMA; DRIAMPS; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-MMU-399997; Acetylcholine regulates insulin secretion.
+DR   Reactome; R-MMU-416476; G alpha (q) signalling events.
+DR   Reactome; R-MMU-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-MMU-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-MMU-432142; Platelet sensitization by LDL.
+DR   Reactome; R-MMU-434316; Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion.
+DR   Reactome; R-MMU-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   PRO; PR:P30677; -.
+DR   Proteomes; UP000000589; Chromosome 19.
+DR   Bgee; ENSMUSG00000024697; -.
+DR   CleanEx; MM_GNA14; -.
+DR   Genevisible; P30677; MM.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; ISA:MGI.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; ISA:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; ISA:MGI.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IBA:GO_Central.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Complete proteome; Direct protein sequencing; GTP-binding; Magnesium;
+KW   Metal-binding; Nucleotide-binding; Reference proteome; Transducer.
+FT   CHAIN         1    355       Guanine nucleotide-binding protein
+FT                                subunit alpha-14.
+FT                                /FTId=PRO_0000203753.
+FT   NP_BIND      42     49       GTP. {ECO:0000250}.
+FT   NP_BIND     176    182       GTP. {ECO:0000250}.
+FT   NP_BIND     201    205       GTP. {ECO:0000250}.
+FT   NP_BIND     270    273       GTP. {ECO:0000250}.
+FT   METAL        49     49       Magnesium. {ECO:0000250}.
+FT   METAL       182    182       Magnesium. {ECO:0000250}.
+FT   BINDING     327    327       GTP; via amide nitrogen. {ECO:0000250}.
+FT   CONFLICT     24     25       QL -> HV (in Ref. 1; AAA83222).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   355 AA;  41528 MW;  D34B39ACD179AE82 CRC64;
+     MAGCCCLSAE EKESQRISAE IERQLRRDKK DARRELKLLL LGTGESGKST FIKQMRIIHG
+     SGYSDEDRKG FTKLVYQNIF TAMQAMIRAM DTLRIQYMCE QNKENAQIIR EVEVDKVTAL
+     SRDQVAAIKQ LWLDPGIQEC YDRRREYQLS DSAKYYLTDI ERIAMPSFVP TQQDVLRVRV
+     PTTGIIEYPF DLENIIFRMV DVGGQRSERR KWIHCFESVT SIIFLVALSE YDQVLAECDN
+     ENRMEESKAL FRTIITYPWF LNSSVILFLN KKDLLEEKIM YSHLISYFPE YTGPKQDVKA
+     ARDFILKLYQ DQNPDKEKVI YSHFTCATDT ENIRFVFAAV KDTILQLNLR EFNLV
+//

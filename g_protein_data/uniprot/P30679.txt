@@ -1,0 +1,240 @@
+ID   GNA15_HUMAN             Reviewed;         374 AA.
+AC   P30679; E9KL40; E9KL47; O75247; Q53XK2;
+DT   01-APR-1993, integrated into UniProtKB/Swiss-Prot.
+DT   02-NOV-2010, sequence version 2.
+DT   05-OCT-2016, entry version 170.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit alpha-15;
+DE            Short=G alpha-15;
+DE            Short=G-protein subunit alpha-15;
+DE   AltName: Full=Epididymis tissue protein Li 17E;
+DE   AltName: Full=Guanine nucleotide-binding protein subunit alpha-16;
+DE            Short=G alpha-16;
+DE            Short=G-protein subunit alpha-16;
+GN   Name=GNA15; Synonyms=GNA16;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANT CYS-147.
+RX   PubMed=1905813; DOI=10.1073/pnas.88.13.5587;
+RA   Amatruda T.T. III, Steele D.A., Slepak V.Z., Simon M.I.;
+RT   "G alpha 16, a G protein alpha subunit specifically expressed in
+RT   hematopoietic cells.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:5587-5591(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], TISSUE SPECIFICITY, AND VARIANT CYS-147.
+RC   TISSUE=Epididymis;
+RX   PubMed=20736409; DOI=10.1074/mcp.M110.001719;
+RA   Li J., Liu F., Wang H., Liu X., Liu J., Li N., Wan F., Wang W.,
+RA   Zhang C., Jin S., Liu J., Zhu P., Liu Y.;
+RT   "Systematic mapping and functional analysis of a family of human
+RT   epididymal secretory sperm-located proteins.";
+RL   Mol. Cell. Proteomics 9:2517-2528(2010).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT CYS-147.
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction
+RT   sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT CYS-147.
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor
+RT   vector.";
+RL   Submitted (AUG-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15057824; DOI=10.1038/nature02399;
+RA   Grimwood J., Gordon L.A., Olsen A.S., Terry A., Schmutz J.,
+RA   Lamerdin J.E., Hellsten U., Goodstein D., Couronne O., Tran-Gyamfi M.,
+RA   Aerts A., Altherr M., Ashworth L., Bajorek E., Black S., Branscomb E.,
+RA   Caenepeel S., Carrano A.V., Caoile C., Chan Y.M., Christensen M.,
+RA   Cleland C.A., Copeland A., Dalin E., Dehal P., Denys M., Detter J.C.,
+RA   Escobar J., Flowers D., Fotopulos D., Garcia C., Georgescu A.M.,
+RA   Glavina T., Gomez M., Gonzales E., Groza M., Hammon N., Hawkins T.,
+RA   Haydu L., Ho I., Huang W., Israni S., Jett J., Kadner K., Kimball H.,
+RA   Kobayashi A., Larionov V., Leem S.-H., Lopez F., Lou Y., Lowry S.,
+RA   Malfatti S., Martinez D., McCready P.M., Medina C., Morgan J.,
+RA   Nelson K., Nolan M., Ovcharenko I., Pitluck S., Pollard M.,
+RA   Popkie A.P., Predki P., Quan G., Ramirez L., Rash S., Retterer J.,
+RA   Rodriguez A., Rogers S., Salamov A., Salazar A., She X., Smith D.,
+RA   Slezak T., Solovyev V., Thayer N., Tice H., Tsai M., Ustaszewska A.,
+RA   Vo N., Wagner M., Wheeler J., Wu K., Xie G., Yang J., Dubchak I.,
+RA   Furey T.S., DeJong P., Dickson M., Gordon D., Eichler E.E.,
+RA   Pennacchio L.A., Richardson P., Stubbs L., Rokhsar D.S., Myers R.M.,
+RA   Rubin E.M., Lucas S.M.;
+RT   "The DNA sequence and biology of human chromosome 19.";
+RL   Nature 428:529-535(2004).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA], AND VARIANT CYS-147.
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA], AND VARIANT CYS-147.
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D.,
+RA   Wang L., Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human
+RT   liver phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M.,
+RA   Ayoub D., Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site.
+CC   -!- TISSUE SPECIFICITY: Specifically expressed in hematopoietic cells.
+CC       Expressed in epididymis (at protein level).
+CC       {ECO:0000269|PubMed:20736409}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(q) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M63904; AAA35860.1; -; mRNA.
+DR   EMBL; GU727637; ADU87639.1; -; mRNA.
+DR   EMBL; GU727645; ADU87646.1; -; mRNA.
+DR   EMBL; AF493904; AAM12618.1; -; mRNA.
+DR   EMBL; BT009850; AAP88852.1; -; mRNA.
+DR   EMBL; AC005264; AAC25612.1; -; Genomic_DNA.
+DR   EMBL; AC005262; AAC25616.1; -; Genomic_DNA.
+DR   EMBL; CH471139; EAW69338.1; -; Genomic_DNA.
+DR   EMBL; BC013585; AAH13585.1; -; mRNA.
+DR   CCDS; CCDS12104.1; -.
+DR   PIR; A41096; A41096.
+DR   RefSeq; NP_002059.3; NM_002068.3.
+DR   UniGene; Hs.73797; -.
+DR   ProteinModelPortal; P30679; -.
+DR   SMR; P30679; 15-374, 16-369.
+DR   BioGrid; 109031; 8.
+DR   IntAct; P30679; 9.
+DR   STRING; 9606.ENSP00000262958; -.
+DR   BindingDB; P30679; -.
+DR   iPTMnet; P30679; -.
+DR   SwissPalm; P30679; -.
+DR   BioMuta; GNA15; -.
+DR   DMDM; 311033388; -.
+DR   EPD; P30679; -.
+DR   MaxQB; P30679; -.
+DR   PaxDb; P30679; -.
+DR   PeptideAtlas; P30679; -.
+DR   PRIDE; P30679; -.
+DR   DNASU; 2769; -.
+DR   Ensembl; ENST00000262958; ENSP00000262958; ENSG00000060558.
+DR   GeneID; 2769; -.
+DR   KEGG; hsa:2769; -.
+DR   UCSC; uc002lxf.3; human.
+DR   CTD; 2769; -.
+DR   GeneCards; GNA15; -.
+DR   HGNC; HGNC:4383; GNA15.
+DR   HPA; HPA043113; -.
+DR   MIM; 139314; gene.
+DR   neXtProt; NX_P30679; -.
+DR   PharmGKB; PA28768; -.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P30679; -.
+DR   KO; K04637; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P30679; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-HSA-399997; Acetylcholine regulates insulin secretion.
+DR   Reactome; R-HSA-416476; G alpha (q) signalling events.
+DR   Reactome; R-HSA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-HSA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-HSA-434316; Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion.
+DR   Reactome; R-HSA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   ChiTaRS; GNA15; human.
+DR   GenomeRNAi; 2769; -.
+DR   PRO; PR:P30679; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   Bgee; ENSG00000060558; -.
+DR   CleanEx; HS_GNA15; -.
+DR   ExpressionAtlas; P30679; baseline and differential.
+DR   Genevisible; P30679; HS.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; NAS:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; TAS:Reactome.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IGI:UniProtKB.
+DR   GO; GO:0007202; P:activation of phospholipase C activity; TAS:ProtInc.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007207; P:phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway; TAS:ProtInc.
+DR   GO; GO:0030168; P:platelet activation; TAS:Reactome.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; IGI:UniProtKB.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   ADP-ribosylation; Complete proteome; GTP-binding; Magnesium;
+KW   Metal-binding; Nucleotide-binding; Polymorphism; Reference proteome;
+KW   Transducer.
+FT   CHAIN         1    374       Guanine nucleotide-binding protein
+FT                                subunit alpha-15.
+FT                                /FTId=PRO_0000203755.
+FT   NP_BIND      49     56       GTP. {ECO:0000250}.
+FT   NP_BIND     183    189       GTP. {ECO:0000250}.
+FT   NP_BIND     208    212       GTP. {ECO:0000250}.
+FT   NP_BIND     277    280       GTP. {ECO:0000250}.
+FT   METAL        56     56       Magnesium. {ECO:0000250}.
+FT   METAL       189    189       Magnesium. {ECO:0000250}.
+FT   BINDING     346    346       GTP; via amide nitrogen. {ECO:0000250}.
+FT   MOD_RES     186    186       ADP-ribosylarginine; by cholera toxin.
+FT                                {ECO:0000250}.
+FT   VARIANT     147    147       Y -> C (in dbSNP:rs310680).
+FT                                {ECO:0000269|PubMed:15489334,
+FT                                ECO:0000269|PubMed:1905813,
+FT                                ECO:0000269|PubMed:20736409,
+FT                                ECO:0000269|Ref.3, ECO:0000269|Ref.4,
+FT                                ECO:0000269|Ref.6}.
+FT                                /FTId=VAR_028000.
+SQ   SEQUENCE   374 AA;  43568 MW;  F32F8C9198FDC26A CRC64;
+     MARSLTWRCC PWCLTEDEKA AARVDQEINR ILLEQKKQDR GELKLLLLGP GESGKSTFIK
+     QMRIIHGAGY SEEERKGFRP LVYQNIFVSM RAMIEAMERL QIPFSRPESK HHASLVMSQD
+     PYKVTTFEKR YAAAMQWLWR DAGIRAYYER RREFHLLDSA VYYLSHLERI TEEGYVPTAQ
+     DVLRSRMPTT GINEYCFSVQ KTNLRIVDVG GQKSERKKWI HCFENVIALI YLASLSEYDQ
+     CLEENNQENR MKESLALFGT ILELPWFKST SVILFLNKTD ILEEKIPTSH LATYFPSFQG
+     PKQDAEAAKR FILDMYTRMY TGCVDGPEGS KKGARSRRLF SHYTCATDTQ NIRKVFKDVR
+     DSVLARYLDE INLL
+//

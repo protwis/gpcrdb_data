@@ -1,0 +1,105 @@
+ID   H2PSG4_PONAB            Unreviewed;       359 AA.
+AC   H2PSG4;
+DT   21-MAR-2012, integrated into UniProtKB/TrEMBL.
+DT   21-MAR-2012, sequence version 1.
+DT   25-APR-2018, entry version 47.
+DE   SubName: Full=G protein subunit alpha q {ECO:0000313|Ensembl:ENSPPYP00000021633};
+GN   Name=GNAQ {ECO:0000313|Ensembl:ENSPPYP00000021633};
+OS   Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Pongo.
+OX   NCBI_TaxID=9601 {ECO:0000313|Ensembl:ENSPPYP00000021633, ECO:0000313|Proteomes:UP000001595};
+RN   [1] {ECO:0000313|Ensembl:ENSPPYP00000021633, ECO:0000313|Proteomes:UP000001595}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Wilson R.K., Mardis E.;
+RT   "A 6x draft sequence assembly of the Pongo pygmaeus abelii genome.";
+RL   Submitted (FEB-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSPPYP00000021633}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (FEB-2012) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ABGA01245185; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01245186; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01245187; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01245188; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01245189; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01245190; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01245191; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01245192; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01245193; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ABGA01245194; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; XP_002819934.1; XM_002819888.2.
+DR   ProteinModelPortal; H2PSG4; -.
+DR   STRING; 9601.ENSPPYP00000021633; -.
+DR   Ensembl; ENSPPYT00000022518; ENSPPYP00000021633; ENSPPYG00000019311.
+DR   GeneID; 100458686; -.
+DR   KEGG; pon:100458686; -.
+DR   CTD; 2776; -.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; H2PSG4; -.
+DR   KO; K04634; -.
+DR   OMA; WRFTQTN; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000001595; Chromosome 9.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0016020; C:membrane; ISS:AgBase.
+DR   GO; GO:0001750; C:photoreceptor outer segment; ISS:AgBase.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005096; F:GTPase activator activity; IEA:Ensembl.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0001508; P:action potential; IEA:Ensembl.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0048066; P:developmental pigmentation; IEA:Ensembl.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IEA:Ensembl.
+DR   GO; GO:0009649; P:entrainment of circadian clock; ISS:AgBase.
+DR   GO; GO:0021884; P:forebrain neuron development; IEA:Ensembl.
+DR   GO; GO:0007213; P:G-protein coupled acetylcholine receptor signaling pathway; ISS:AgBase.
+DR   GO; GO:0007215; P:glutamate receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007507; P:heart development; IEA:Ensembl.
+DR   GO; GO:0042711; P:maternal behavior; IEA:Ensembl.
+DR   GO; GO:0006469; P:negative regulation of protein kinase activity; IEA:Ensembl.
+DR   GO; GO:0016322; P:neuron remodeling; IEA:Ensembl.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007603; P:phototransduction, visible light; ISS:AgBase.
+DR   GO; GO:0009791; P:post-embryonic development; IEA:Ensembl.
+DR   GO; GO:0050821; P:protein stabilization; IEA:Ensembl.
+DR   GO; GO:0035412; P:regulation of catenin import into nucleus; IEA:Ensembl.
+DR   GO; GO:0045634; P:regulation of melanocyte differentiation; IEA:Ensembl.
+DR   GO; GO:0001501; P:skeletal system development; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001595};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001595}.
+SQ   SEQUENCE   359 AA;  42142 MW;  6F69C4F617DFA7C7 CRC64;
+     MTLESIMACC LSEEAKEARR INDEIERQLR RDKRDARREL KLLLLGTGES GKSTFIKQMR
+     IIHGSGYSDE DKRGFTKLVY QNIFTAMQAM IRAMDTLKIP YKYEHNKAHA QLVREVDVEK
+     VSAFENPYVD AIKSLWNDPG IQECYDRRRE YQLSDSTKYY LNDLDRVADP AYLPTQQDVL
+     RVRVPTTGII EYPFDLQSVI FRMVDVGGQR SERRKWIHCF ENVTSIMFLV ALSEYDQVLV
+     ESDNENRMEE SKALFRTIIT YPWFQNSSVI LFLNKKDLLE EKIMYSHLVD YFPEYDGPQR
+     DAQAAREFIL KMFVDLNPDS DKIIYSHFTC ATDTENIRFV FAAVKDTILQ LNLKEYNLV
+//

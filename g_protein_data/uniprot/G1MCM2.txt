@@ -1,0 +1,102 @@
+ID   G1MCM2_AILME            Unreviewed;       354 AA.
+AC   G1MCM2;
+DT   19-OCT-2011, integrated into UniProtKB/TrEMBL.
+DT   19-OCT-2011, sequence version 1.
+DT   28-MAR-2018, entry version 49.
+DE   SubName: Full=G protein subunit alpha i1 {ECO:0000313|Ensembl:ENSAMEP00000017100};
+GN   Name=GNAI1 {ECO:0000313|Ensembl:ENSAMEP00000017100};
+OS   Ailuropoda melanoleuca (Giant panda).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Ursidae;
+OC   Ailuropoda.
+OX   NCBI_TaxID=9646 {ECO:0000313|Ensembl:ENSAMEP00000017100, ECO:0000313|Proteomes:UP000008912};
+RN   [1] {ECO:0000313|Ensembl:ENSAMEP00000017100}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=20010809; DOI=10.1038/nature08696;
+RA   Li R., Fan W., Tian G., Zhu H., He L., Cai J., Huang Q., Cai Q.,
+RA   Li B., Bai Y., Zhang Z., Zhang Y., Wang W., Li J., Wei F., Li H.,
+RA   Jian M., Li J., Zhang Z., Nielsen R., Li D., Gu W., Yang Z., Xuan Z.,
+RA   Ryder O.A., Leung F.C., Zhou Y., Cao J., Sun X., Fu Y., Fang X.,
+RA   Guo X., Wang B., Hou R., Shen F., Mu B., Ni P., Lin R., Qian W.,
+RA   Wang G., Yu C., Nie W., Wang J., Wu Z., Liang H., Min J., Wu Q.,
+RA   Cheng S., Ruan J., Wang M., Shi Z., Wen M., Liu B., Ren X., Zheng H.,
+RA   Dong D., Cook K., Shan G., Zhang H., Kosiol C., Xie X., Lu Z.,
+RA   Zheng H., Li Y., Steiner C.C., Lam T.T., Lin S., Zhang Q., Li G.,
+RA   Tian J., Gong T., Liu H., Zhang D., Fang L., Ye C., Zhang J., Hu W.,
+RA   Xu A., Ren Y., Zhang G., Bruford M.W., Li Q., Ma L., Guo Y., An N.,
+RA   Hu Y., Zheng Y., Shi Y., Li Z., Liu Q., Chen Y., Zhao J., Qu N.,
+RA   Zhao S., Tian F., Wang X., Wang H., Xu L., Liu X., Vinar T., Wang Y.,
+RA   Lam T.W., Yiu S.M., Liu S., Zhang H., Li D., Huang Y., Wang X.,
+RA   Yang G., Jiang Z., Wang J., Qin N., Li L., Li J., Bolund L.,
+RA   Kristiansen K., Wong G.K., Olson M., Zhang X., Li S., Yang H.,
+RA   Wang J., Wang J.;
+RT   "The sequence and de novo assembly of the giant panda genome.";
+RL   Nature 463:311-317(2010).
+RN   [2] {ECO:0000313|Ensembl:ENSAMEP00000017100}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (SEP-2011) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ACTA01040128; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACTA01048128; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACTA01056128; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; ACTA01064128; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; XP_002918306.1; XM_002918260.3.
+DR   RefSeq; XP_011221994.1; XM_011223692.2.
+DR   STRING; 9646.ENSAMEP00000017100; -.
+DR   Ensembl; ENSAMET00000017800; ENSAMEP00000017100; ENSAMEG00000016192.
+DR   GeneID; 100484933; -.
+DR   KEGG; aml:100484933; -.
+DR   CTD; 2770; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; G1MCM2; -.
+DR   KO; K04630; -.
+DR   OMA; RIAQTSY; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000008912; Unassembled WGS sequence.
+DR   GO; GO:0099738; C:cell cortex region; IEA:Ensembl.
+DR   GO; GO:0005813; C:centrosome; IEA:Ensembl.
+DR   GO; GO:0030496; C:midbody; IEA:Ensembl.
+DR   GO; GO:0005730; C:nucleolus; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0051301; P:cell division; IEA:Ensembl.
+DR   GO; GO:1904778; P:positive regulation of protein localization to cell cortex; IEA:Ensembl.
+DR   GO; GO:0060236; P:regulation of mitotic spindle organization; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008912};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008912};
+KW   Transducer {ECO:0000256|SAAS:SAAS00754915}.
+SQ   SEQUENCE   354 AA;  40377 MW;  3E683115FCE62DE7 CRC64;
+     MGCTLSAEDK AAVERSKMID RNLREDGEKA AREVKLLLLG AGESGKSTIV KQMKIIHEAG
+     YSEEECKQYK AVVYSNTIQS IIAIIRAMGR LKIDFGDSSR ADDARQLFVL AGAAEEGFMT
+     AELAGVIKRL WKDSGVQACF NRSREYQLND SAAYYLNDLD RIAQPNYIPT QQDVLRTRVK
+     TTGIVETHFT FKDLHFKMFD VGGQRSERKK WIHCFEGVTA IIFCVALSDY DLVLAEDEEM
+     NRMHESMKLF DSICNNKWFT DTSIILFLNK KDLFEEKIKK SPLTICYPEY AGSNTYEEAA
+     AYIQCQFEDL NKRKDTKEIY THFTCATDTK NVQFVFDAVT DVIIKNNLKD CGLF
+//

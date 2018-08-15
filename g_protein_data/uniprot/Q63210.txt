@@ -1,0 +1,141 @@
+ID   GNA12_RAT               Reviewed;         379 AA.
+AC   Q63210;
+DT   15-JUL-1999, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 128.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit alpha-12;
+DE            Short=G alpha-12;
+DE            Short=G-protein subunit alpha-12;
+GN   Name=Gna12;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain;
+RA   Mitsui H., Exton J.;
+RT   "Molecular cloning of rat G alpha 12.";
+RL   Submitted (JUN-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   FUNCTION, INTERACTION WITH PPP5C, SUBCELLULAR LOCATION, AND
+RP   MUTAGENESIS OF GLN-229.
+RX   PubMed=12176367; DOI=10.1016/S0960-9822(02)01034-5;
+RA   Yamaguchi Y., Katoh H., Mori K., Negishi M.;
+RT   "Galpha(12) and Galpha(13) interact with Ser/Thr protein phosphatase
+RT   type 5 and stimulate its phosphatase activity.";
+RL   Curr. Biol. 12:1353-1358(2002).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. May play a role in the control of cell
+CC       migration through the TOR signaling cascade.
+CC       {ECO:0000269|PubMed:12176367}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site. Interacts with UBXD5. Interacts (when active) with PPP5C
+CC       (via TPR repeats); activates PPP5C phosphatase activity and
+CC       translocates PPP5C to the cell membrane. Interacts with RGS22 (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000269|PubMed:12176367};
+CC       Lipid-anchor {ECO:0000269|PubMed:12176367}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(12) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D85760; BAA12867.1; -; mRNA.
+DR   RefSeq; NP_112296.1; NM_031034.2.
+DR   UniGene; Rn.10497; -.
+DR   ProteinModelPortal; Q63210; -.
+DR   MINT; MINT-132109; -.
+DR   STRING; 10116.ENSRNOP00000001654; -.
+DR   PaxDb; Q63210; -.
+DR   PRIDE; Q63210; -.
+DR   Ensembl; ENSRNOT00000001654; ENSRNOP00000001654; ENSRNOG00000001235.
+DR   GeneID; 81663; -.
+DR   KEGG; rno:81663; -.
+DR   UCSC; RGD:71018; rat.
+DR   CTD; 2768; -.
+DR   RGD; 71018; Gna12.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00770000120503; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; Q63210; -.
+DR   KO; K04346; -.
+DR   OMA; GISEHIF; -.
+DR   OrthoDB; EOG091G0NV2; -.
+DR   PhylomeDB; Q63210; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-RNO-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-RNO-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   PRO; PR:Q63210; -.
+DR   Proteomes; UP000002494; Chromosome 12.
+DR   Bgee; ENSRNOG00000001235; -.
+DR   ExpressionAtlas; Q63210; baseline and differential.
+DR   Genevisible; Q63210; RN.
+DR   GO; GO:0031526; C:brush border membrane; IDA:RGD.
+DR   GO; GO:0005925; C:focal adhesion; IEA:Ensembl.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; TAS:RGD.
+DR   GO; GO:0031752; F:D5 dopamine receptor binding; IPI:RGD.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0030154; P:cell differentiation; IEA:Ensembl.
+DR   GO; GO:0007212; P:dopamine receptor signaling pathway; TAS:RGD.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IEA:Ensembl.
+DR   GO; GO:0001701; P:in utero embryonic development; IEA:Ensembl.
+DR   GO; GO:0008360; P:regulation of cell shape; IEA:Ensembl.
+DR   GO; GO:0010762; P:regulation of fibroblast migration; ISS:UniProtKB.
+DR   GO; GO:0032434; P:regulation of proteasomal ubiquitin-dependent protein catabolic process; ISS:UniProtKB.
+DR   GO; GO:0032006; P:regulation of TOR signaling; ISS:UniProtKB.
+DR   GO; GO:0042493; P:response to drug; IEP:RGD.
+DR   GO; GO:0007266; P:Rho protein signal transduction; IBA:GO_Central.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000469; Gprotein_alpha_12/13.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00440; GPROTEINA12.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Complete proteome; GTP-binding; Lipoprotein; Magnesium; Membrane;
+KW   Metal-binding; Nucleotide-binding; Palmitate; Reference proteome;
+KW   Transducer.
+FT   CHAIN         1    379       Guanine nucleotide-binding protein
+FT                                subunit alpha-12.
+FT                                /FTId=PRO_0000203772.
+FT   NP_BIND      62     69       GTP. {ECO:0000250}.
+FT   NP_BIND     200    206       GTP. {ECO:0000250}.
+FT   NP_BIND     225    229       GTP. {ECO:0000250}.
+FT   NP_BIND     294    297       GTP. {ECO:0000250}.
+FT   METAL        69     69       Magnesium. {ECO:0000250}.
+FT   METAL       206    206       Magnesium. {ECO:0000250}.
+FT   BINDING     351    351       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID        11     11       S-palmitoyl cysteine. {ECO:0000250}.
+FT   MUTAGEN     229    229       Q->L: Constitutively active. Interacts
+FT                                with PPP5C, activates its phosphatase
+FT                                activity and translocates PPP5C to the
+FT                                plasma membrane.
+FT                                {ECO:0000269|PubMed:12176367}.
+SQ   SEQUENCE   379 AA;  44065 MW;  D178524AD7A0A9FF CRC64;
+     MSGVVRTLSR CLLPAEAGAR ERRAGAARDA EREARRRSRD IDALLARERR AVRRLVKILL
+     LGAGESGKST FLKQMRIIHG REFDQKALLE FRDTIFDNIL KGSRVLVDAR DKLGIPWQHS
+     ENEKHGMFLM AFENKAGLPV EPATFQLYVP ALSALWRDSG IREAFSRRSE FQLGESVKYF
+     LDNLDRIGQL NYFPSKQDIL LARKATKGIV EHDFVIKKIP FKMVDVGGQR SQRQKWFQCF
+     DGITSILFMV SSSEYDQVLM EDRRTNRLVE SMNIFETIVN NKLFFNVSII LFLNKMDLLV
+     EKVKSVSIKK HFPDFKGDPH RLEDVQRYLV QCFDRKRRNR GKPLFHHFTT AIDTENIRFV
+     FHAVKDTILQ ENLKDIMLQ
+//

@@ -1,0 +1,220 @@
+ID   GNAI3_RAT               Reviewed;         354 AA.
+AC   P08753;
+DT   01-NOV-1988, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 154.
+DE   RecName: Full=Guanine nucleotide-binding protein G(k) subunit alpha;
+DE   AltName: Full=G(i) alpha-3;
+GN   Name=Gnai3; Synonyms=Gnai-3;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2834384;
+RA   Itoh H., Toyama R., Kozasa T., Tsukamoto T., Matsuoka M., Kaziro Y.;
+RT   "Presence of three distinct molecular species of Gi protein alpha
+RT   subunit. Structure of rat cDNAs and human genomic DNAs.";
+RL   J. Biol. Chem. 263:6656-6664(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RX   PubMed=2820999;
+RA   Jones D.T., Reed R.R.;
+RT   "Molecular cloning of five GTP-binding protein cDNA species from rat
+RT   olfactory neuroepithelium.";
+RL   J. Biol. Chem. 262:14241-14249(1987).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 111-125, FUNCTION, AND SUBUNIT.
+RX   PubMed=2159473;
+RA   Linder M.E., Ewald D.A., Miller R.J., Gilman A.G.;
+RT   "Purification and characterization of Go alpha and three types of Gi
+RT   alpha after expression in Escherichia coli.";
+RL   J. Biol. Chem. 265:8243-8251(1990).
+RN   [4]
+RP   INTERACTION WITH GPSM1.
+RX   PubMed=11121039; DOI=10.1073/pnas.97.26.14364;
+RA   de Vries L., Fischer T., Tronchere H., Brothers G.M., Strockbine B.,
+RA   Siderovski D.P., Farquhar M.G.;
+RT   "Activator of G protein signaling 3 is a guanine dissociation
+RT   inhibitor for Galpha i subunits.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:14364-14369(2000).
+RN   [5]
+RP   INTERACTION WITH RGS12 AND RGS14.
+RX   PubMed=11387333; DOI=10.1074/jbc.M103208200;
+RA   Kimple R.J., De Vries L., Tronchere H., Behe C.I., Morris R.A.,
+RA   Gist Farquhar M., Siderovski D.P.;
+RT   "RGS12 and RGS14 GoLoco motifs are G alpha(i) interaction sites with
+RT   guanine nucleotide dissociation inhibitor activity.";
+RL   J. Biol. Chem. 276:29275-29281(2001).
+RN   [6]
+RP   INTERACTION WITH RGS14.
+RX   PubMed=16870394; DOI=10.1016/j.cellsig.2006.06.002;
+RA   Shu F.J., Ramineni S., Amyot W., Hepler J.R.;
+RT   "Selective interactions between Gi alpha1 and Gi alpha3 and the
+RT   GoLoco/GPR domain of RGS14 influence its dynamic subcellular
+RT   localization.";
+RL   Cell. Signal. 19:163-176(2007).
+CC   -!- FUNCTION: Heterotrimeric guanine nucleotide-binding proteins (G
+CC       proteins) function as transducers downstream of G protein-coupled
+CC       receptors (GPCRs) in numerous signaling cascades. The alpha chain
+CC       contains the guanine nucleotide binding site and alternates
+CC       between an active, GTP-bound state and an inactive, GDP-bound
+CC       state. Signaling by an activated GPCR promotes GDP release and GTP
+CC       binding. The alpha subunit has a low GTPase activity that converts
+CC       bound GTP to GDP, thereby terminating the signal (PubMed:2159473).
+CC       Both GDP release and GTP hydrolysis are modulated by numerous
+CC       regulatory proteins. Signaling is mediated via effector proteins,
+CC       such as adenylate cyclase. Inhibits adenylate cyclase activity,
+CC       leading to decreased intracellular cAMP levels. Stimulates the
+CC       activity of receptor-regulated K(+) channels. The active GTP-bound
+CC       form prevents the association of RGS14 with centrosomes and is
+CC       required for the translocation of RGS14 from the cytoplasm to the
+CC       plasma membrane. May play a role in cell division.
+CC       {ECO:0000250|UniProtKB:P08754, ECO:0000269|PubMed:2159473}.
+CC   -!- SUBUNIT: Heterotrimeric G proteins are composed of 3 units; alpha,
+CC       beta and gamma. The alpha subunit contains the guanine nucleotide
+CC       binding site (PubMed:2159473). GTP binding causes dissociation of
+CC       the heterotrimer, liberating the individual subunits so that they
+CC       can interact with downstream effector proteins. Interacts with
+CC       GPSM1 (PubMed:11121039). Interacts (GDP-bound form) with GPSM2
+CC       (via GoLoco domains). Does not interact with RGS2. Interacts with
+CC       RGS8 and RGS10; this strongly enhances the intrinsic GTPase
+CC       activity (By similarity). Interacts with RGS12 (PubMed:11387333).
+CC       Interacts with RGS16; this strongly enhances the intrinsic GTPase
+CC       activity (By similarity). Interacts (via active GTP- or inactive
+CC       GDP-bound form) with RGS14 (PubMed:11387333, PubMed:16870394).
+CC       {ECO:0000250|UniProtKB:P08754, ECO:0000250|UniProtKB:Q9DC51,
+CC       ECO:0000269|PubMed:11121039, ECO:0000269|PubMed:11387333,
+CC       ECO:0000269|PubMed:16870394, ECO:0000269|PubMed:2159473}.
+CC   -!- INTERACTION:
+CC       P49795:RGS19 (xeno); NbExp=4; IntAct=EBI-874897, EBI-874907;
+CC       Q5BJU7:Wasf1; NbExp=2; IntAct=EBI-874897, EBI-7269229;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:P08754}.
+CC       Cell membrane {ECO:0000250|UniProtKB:P08754}. Cytoplasm,
+CC       cytoskeleton, microtubule organizing center, centrosome
+CC       {ECO:0000250|UniProtKB:P08754}. Membrane
+CC       {ECO:0000250|UniProtKB:P08754}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P08754}. Note=Localizes in the centrosomes
+CC       of interphase and mitotic cells. Detected at the cleavage furrow
+CC       and/or the midbody. {ECO:0000250|UniProtKB:P08754}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:2820999}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J03219; AAA41224.1; -; mRNA.
+DR   EMBL; M20713; AAA40823.1; -; mRNA.
+DR   PIR; E27423; RGRTI3.
+DR   RefSeq; NP_037238.1; NM_013106.1.
+DR   UniGene; Rn.4368; -.
+DR   ProteinModelPortal; P08753; -.
+DR   DIP; DIP-608N; -.
+DR   IntAct; P08753; 2.
+DR   MINT; MINT-1795694; -.
+DR   STRING; 10116.ENSRNOP00000026710; -.
+DR   iPTMnet; P08753; -.
+DR   SwissPalm; P08753; -.
+DR   PaxDb; P08753; -.
+DR   PRIDE; P08753; -.
+DR   Ensembl; ENSRNOT00000026710; ENSRNOP00000026710; ENSRNOG00000019465.
+DR   GeneID; 25643; -.
+DR   KEGG; rno:25643; -.
+DR   UCSC; RGD:2714; rat.
+DR   CTD; 2773; -.
+DR   RGD; 2714; Gnai3.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P08753; -.
+DR   KO; K04630; -.
+DR   OMA; TKEVYTH; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-RNO-112043; PLC beta mediated events.
+DR   Reactome; R-RNO-170670; Adenylate cyclase inhibitory pathway.
+DR   Reactome; R-RNO-202040; G-protein activation.
+DR   Reactome; R-RNO-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-RNO-418594; G alpha (i) signalling events.
+DR   Reactome; R-RNO-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   SABIO-RK; P08753; -.
+DR   PRO; PR:P08753; -.
+DR   Proteomes; UP000002494; Chromosome 2.
+DR   Bgee; ENSRNOG00000019465; -.
+DR   Genevisible; P08753; RN.
+DR   GO; GO:0005813; C:centrosome; ISS:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0000139; C:Golgi membrane; TAS:UniProtKB.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0005765; C:lysosomal membrane; IEA:Ensembl.
+DR   GO; GO:0016020; C:membrane; IDA:RGD.
+DR   GO; GO:0045121; C:membrane raft; IDA:RGD.
+DR   GO; GO:0030496; C:midbody; ISS:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0042588; C:zymogen granule; IDA:RGD.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0031821; F:G-protein coupled serotonin receptor binding; IPI:RGD.
+DR   GO; GO:0019003; F:GDP binding; ISS:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0032794; F:GTPase activating protein binding; IPI:RGD.
+DR   GO; GO:0003924; F:GTPase activity; ISS:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0019904; F:protein domain specific binding; IPI:RGD.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007193; P:adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0051301; P:cell division; ISS:UniProtKB.
+DR   GO; GO:0007212; P:dopamine receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0046039; P:GTP metabolic process; ISS:UniProtKB.
+DR   GO; GO:0051048; P:negative regulation of secretion; TAS:UniProtKB.
+DR   GO; GO:0006906; P:vesicle fusion; IDA:RGD.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Cell cycle; Cell division; Cell membrane; Complete proteome;
+KW   Cytoplasm; Cytoskeleton; Direct protein sequencing; GTP-binding;
+KW   Lipoprotein; Magnesium; Membrane; Metal-binding; Myristate;
+KW   Nucleotide-binding; Palmitate; Reference proteome; Transducer.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P08754}.
+FT   CHAIN         2    354       Guanine nucleotide-binding protein G(k)
+FT                                subunit alpha.
+FT                                /FTId=PRO_0000203694.
+FT   NP_BIND      43     48       GTP. {ECO:0000250|UniProtKB:P08754}.
+FT   NP_BIND     150    151       GTP. {ECO:0000250|UniProtKB:P08754}.
+FT   NP_BIND     175    181       GTP. {ECO:0000250|UniProtKB:P08754}.
+FT   NP_BIND     200    204       GTP. {ECO:0000250|UniProtKB:P08754}.
+FT   NP_BIND     269    272       GTP. {ECO:0000250|UniProtKB:P08754}.
+FT   METAL        47     47       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P08754}.
+FT   METAL       181    181       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P08754}.
+FT   BINDING     326    326       GTP; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P08754}.
+FT   LIPID         2      2       N-myristoyl glycine.
+FT                                {ECO:0000250|UniProtKB:P08754}.
+FT   LIPID         3      3       S-palmitoyl cysteine. {ECO:0000250}.
+SQ   SEQUENCE   354 AA;  40522 MW;  A65D63CE5A32C777 CRC64;
+     MGCTLSAEDK AAVERSKMID RNLREDGEKA AKEVKLLLLG AGESGKSTIV KQMKIIHEDG
+     YSEDECKQYK VVVYSNTIQS IIAIIRAMGR LKIDFGEAAR ADDARQLFVL AGSAEEGVMT
+     SELAGVIKRL WRDGGVQACF SRSREYQLND SASYYLNDLD RISQTNYIPT QQDVLRTRVK
+     TTGIVETHFT FKELYFKMFD VGGQRSERKK WIHCFEGVTA IIFCVALSDY DLVLAEDEEM
+     NRMHESMKLF DSICNNKWFT DTSIILFLNK KDLFEEKIKR SPLTICYPEY TGSNTYEEAA
+     AYIQCQFEDL NRRKDTKEVY THFTCATDTK NVQFVFDAVT DVIIKNNLKE CGLY
+//

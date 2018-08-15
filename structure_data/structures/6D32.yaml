@@ -1,0 +1,17 @@
+auxiliary_protein: Cytochrome b562
+construct: 6d32
+distance: -2.2
+endogenous_ligand:
+-   name: constitutive
+    type: Constitutive
+ligand:
+-   name: CY8
+    pubchemId: 442972
+    role: Antagonist
+    title: Cyclopamine
+    type: Small molecule
+pdb: 6D32
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

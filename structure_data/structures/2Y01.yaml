@@ -5,7 +5,7 @@ ligand:
 -   name: Y00
     pubchemId: 65082
     role: Agonist (partial)
-    title: dobutamine
+    title: Dobutamine
     type: Small molecule
 pdb: 2Y01
 preferred_chain: A

@@ -1,0 +1,200 @@
+ID   GNAI1_BOVIN             Reviewed;         354 AA.
+AC   P63097; P04898; P11015; P31871; Q2KJC0;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   05-OCT-2016, entry version 106.
+DE   RecName: Full=Guanine nucleotide-binding protein G(i) subunit alpha-1;
+DE   AltName: Full=Adenylate cyclase-inhibiting G alpha protein;
+GN   Name=GNAI1;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2419165; DOI=10.1016/0014-5793(86)80347-7;
+RA   Nukada T., Tanabe T., Takahashi H., Noda M., Haga K., Haga T.,
+RA   Ichiyama A., Kangawa K., Hiranaga M., Matsuo H., Numa S.;
+RT   "Primary structure of the alpha-subunit of bovine adenylate cyclase-
+RT   inhibiting G-protein deduced from the cDNA sequence.";
+RL   FEBS Lett. 197:305-310(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   STRAIN=Hereford; TISSUE=Hypothalamus;
+RG   NIH - Mammalian Gene Collection (MGC) project;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 106-354.
+RX   PubMed=3094012; DOI=10.1073/pnas.83.20.7663;
+RA   Michel T., Winslow J.W., Smith J.A., Seidman J.G., Neer E.J.;
+RT   "Molecular cloning and characterization of cDNA encoding the GTP-
+RT   binding protein alpha i and identification of a related protein, alpha
+RT   h.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 83:7663-7667(1986).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins)
+CC       function as transducers downstream of G protein-coupled receptors
+CC       (GPCRs) in numerous signaling cascades. The alpha chain contains
+CC       the guanine nucleotide binding site and alternates between an
+CC       active, GTP-bound state and an inactive, GDP-bound state.
+CC       Signaling by an activated GPCR promotes GDP release and GTP
+CC       binding. The alpha subunit has a low GTPase activity that converts
+CC       bound GTP to GDP, thereby terminating the signal. Both GDP release
+CC       and GTP hydrolysis are modulated by numerous regulatory proteins
+CC       (By similarity). Signaling is mediated via effector proteins, such
+CC       as adenylate cyclase. Inhibits adenylate cyclase activity, leading
+CC       to decreased intracellular cAMP levels (By similarity). The
+CC       inactive GDP-bound form prevents the association of RGS14 with
+CC       centrosomes and is required for the translocation of RGS14 from
+CC       the cytoplasm to the plasma membrane. Required for normal
+CC       cytokinesis during mitosis (By similarity).
+CC       {ECO:0000250|UniProtKB:P10824, ECO:0000250|UniProtKB:P63096}.
+CC   -!- SUBUNIT: Heterotrimeric G proteins are composed of 3 units; alpha,
+CC       beta and gamma. The alpha chain contains the guanine nucleotide
+CC       binding site. Identified in complex with the beta subunit GNB1 and
+CC       the gamma subunit GNG1. Identified in complex with the beta
+CC       subunit GNB1 and the gamma subunit GNG2. GTP binding causes
+CC       dissociation of the heterotrimer, liberating the individual
+CC       subunits so that they can interact with downstream effector
+CC       proteins (By similarity). Interacts (GDP-bound form) with GPSM1;
+CC       this inhibits guanine nucleotide exchange and GTP binding (By
+CC       similarity). Interacts (GDP-bound form) with GPSM2 (via GoLoco
+CC       domains); this inhibits guanine nucleotide exchange. Interacts
+CC       with RGS10; this strongly enhances GTP hydrolysis. Interacts with
+CC       RGS1 and RGS16; this strongly enhances GTPase activity. Interacts
+CC       with RGS4. Interacts with RGS12. Interacts (via active GTP- or
+CC       inactive GDP-bound forms) with RGS14 (via RGS and GoLoco domains).
+CC       Interacts with RGS3, RGS6, RGS7, RGS8, RGS17, RGS18 and RGS20 (in
+CC       vitro) (By similarity). Interacts (GDP-bound form) with RIC8A (via
+CC       C-terminus) (By similarity). {ECO:0000250|UniProtKB:P10824,
+CC       ECO:0000250|UniProtKB:P63096}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000250|UniProtKB:P10824}.
+CC       Cytoplasm {ECO:0000250|UniProtKB:P10824}. Cell membrane
+CC       {ECO:0000250|UniProtKB:P10824}; Peripheral membrane protein
+CC       {ECO:0000250|UniProtKB:P10824}; Cytoplasmic side
+CC       {ECO:0000250|UniProtKB:P10824}. Cytoplasm, cytoskeleton,
+CC       microtubule organizing center, centrosome
+CC       {ECO:0000250|UniProtKB:P10824}. Membrane
+CC       {ECO:0000250|UniProtKB:P63096}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P63096}. Note=Localizes in the centrosomes
+CC       of interphase and mitotic cells, but not in centrosomes during
+CC       cytokinesis. Detected at the cleavage furrow or the midbody (By
+CC       similarity). Localized at the plasma membrane throughout mitosis.
+CC       Colocalizes with RIC8A and RGS14 at the plasma membrane (By
+CC       similarity). {ECO:0000250, ECO:0000250|UniProtKB:P10824}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X03642; CAA27288.1; -; mRNA.
+DR   EMBL; BC105419; AAI05420.1; -; mRNA.
+DR   EMBL; M14207; AAA30561.1; -; mRNA.
+DR   PIR; A23631; RGBOI1.
+DR   RefSeq; NP_776749.1; NM_174324.2.
+DR   RefSeq; XP_015324318.1; XM_015468832.1.
+DR   UniGene; Bt.5546; -.
+DR   ProteinModelPortal; P63097; -.
+DR   SMR; P63097; 6-354.
+DR   BioGrid; 159104; 1.
+DR   DIP; DIP-41168N; -.
+DR   MINT; MINT-236328; -.
+DR   STRING; 9913.ENSBTAP00000003515; -.
+DR   PaxDb; P63097; -.
+DR   PRIDE; P63097; -.
+DR   Ensembl; ENSBTAT00000003515; ENSBTAP00000003515; ENSBTAG00000002714.
+DR   GeneID; 281790; -.
+DR   KEGG; bta:281790; -.
+DR   CTD; 2770; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P63097; -.
+DR   KO; K04630; -.
+DR   OMA; SARAXYL; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-BTA-112043; PLC beta mediated events.
+DR   Reactome; R-BTA-170670; Adenylate cyclase inhibitory pathway.
+DR   Reactome; R-BTA-202040; G-protein activation.
+DR   Reactome; R-BTA-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-BTA-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-BTA-418594; G alpha (i) signalling events.
+DR   Reactome; R-BTA-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Proteomes; UP000009136; Chromosome 4.
+DR   Bgee; ENSBTAG00000002714; -.
+DR   GO; GO:0005813; C:centrosome; ISS:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0005765; C:lysosomal membrane; IEA:Ensembl.
+DR   GO; GO:0030496; C:midbody; ISS:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005886; C:plasma membrane; ISS:UniProtKB.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; ISS:UniProtKB.
+DR   GO; GO:0031821; F:G-protein coupled serotonin receptor binding; IBA:GO_Central.
+DR   GO; GO:0019003; F:GDP binding; ISS:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; ISS:UniProtKB.
+DR   GO; GO:0003924; F:GTPase activity; ISS:UniProtKB.
+DR   GO; GO:0000287; F:magnesium ion binding; ISS:UniProtKB.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0051301; P:cell division; ISS:UniProtKB.
+DR   GO; GO:1904322; P:cellular response to forskolin; ISS:UniProtKB.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0043949; P:regulation of cAMP-mediated signaling; ISS:UniProtKB.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Cell cycle; Cell division; Cell membrane; Complete proteome;
+KW   Cytoplasm; Cytoskeleton; GTP-binding; Lipoprotein; Magnesium;
+KW   Membrane; Metal-binding; Myristate; Nucleotide-binding; Nucleus;
+KW   Palmitate; Reference proteome; Transducer.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P63096}.
+FT   CHAIN         2    354       Guanine nucleotide-binding protein G(i)
+FT                                subunit alpha-1.
+FT                                /FTId=PRO_0000203669.
+FT   NP_BIND      43     48       GTP. {ECO:0000250|UniProtKB:P10824}.
+FT   NP_BIND     150    151       GTP. {ECO:0000250|UniProtKB:P10824}.
+FT   NP_BIND     175    178       GTP. {ECO:0000250|UniProtKB:P10824}.
+FT   NP_BIND     200    204       GTP. {ECO:0000250|UniProtKB:P10824}.
+FT   NP_BIND     269    272       GTP. {ECO:0000250|UniProtKB:P10824}.
+FT   METAL        47     47       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P10824}.
+FT   METAL       181    181       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P10824}.
+FT   BINDING     326    326       GTP; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P10824}.
+FT   LIPID         2      2       N-myristoyl glycine.
+FT                                {ECO:0000250|UniProtKB:P63096}.
+FT   LIPID         3      3       S-palmitoyl cysteine. {ECO:0000250}.
+FT   CONFLICT    113    113       A -> S (in Ref. 3; AAA30561).
+FT                                {ECO:0000305}.
+FT   CONFLICT    330    330       K -> N (in Ref. 3; AAA30561).
+FT                                {ECO:0000305}.
+FT   CONFLICT    337    337       D -> E (in Ref. 3; AAA30561).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   354 AA;  40361 MW;  9F88311B46E62DE3 CRC64;
+     MGCTLSAEDK AAVERSKMID RNLREDGEKA AREVKLLLLG AGESGKSTIV KQMKIIHEAG
+     YSEEECKQYK AVVYSNTIQS IIAIIRAMGR LKIDFGDSAR ADDARQLFVL AGAAEEGFMT
+     AELAGVIKRL WKDSGVQACF NRSREYQLND SAAYYLNDLD RIAQPNYIPT QQDVLRTRVK
+     TTGIVETHFT FKDLHFKMFD VGGQRSERKK WIHCFEGVTA IIFCVALSDY DLVLAEDEEM
+     NRMHESMKLF DSICNNKWFT DTSIILFLNK KDLFEEKIKK SPLTICYPEY AGSNTYEEAA
+     AYIQCQFEDL NKRKDTKEIY THFTCATDTK NVQFVFDAVT DVIIKNNLKD CGLF
+//

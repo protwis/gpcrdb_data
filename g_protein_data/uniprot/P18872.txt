@@ -1,0 +1,240 @@
+ID   GNAO_MOUSE              Reviewed;         354 AA.
+AC   P18872; P18873;
+DT   01-NOV-1990, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 171.
+DE   RecName: Full=Guanine nucleotide-binding protein G(o) subunit alpha;
+GN   Name=Gnao1; Synonyms=Gna0, Gnao;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS ALPHA-1 AND ALPHA-2).
+RC   TISSUE=Brain, and Spermatid;
+RX   PubMed=1697681; DOI=10.1073/pnas.87.17.6477;
+RA   Strathmann M., Wilkie T.M., Simon M.I.;
+RT   "Alternative splicing produces transcripts encoding two forms of the
+RT   alpha subunit of GTP-binding protein Go.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:6477-6481(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM ALPHA-1).
+RC   STRAIN=C57BL/6J; TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 22-32; 36-46; 55-100; 106-143; 146-177; 182-193;
+RP   199-206 AND 244-272, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   STRAIN=C57BL/6J; TISSUE=Brain, and Hippocampus;
+RA   Lubec G., Klug S., Kang S.U.;
+RL   Submitted (APR-2007) to UniProtKB.
+RN   [4]
+RP   FUNCTION, AND INTERACTION WITH RGS14.
+RX   PubMed=10926822; DOI=10.1042/0264-6021:3500019;
+RA   Traver S., Bidot C., Spassky N., Baltauss T., De Tand M.F.,
+RA   Thomas J.L., Zalc B., Janoueix-Lerosey I., Gunzburg J.D.;
+RT   "RGS14 is a novel Rap effector that preferentially regulates the
+RT   GTPase activity of galphao.";
+RL   Biochem. J. 350:19-29(2000).
+RN   [5]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=15585744; DOI=10.1124/mol.104.003913;
+RA   Nakata H., Kozasa T.;
+RT   "Functional characterization of Galphao signaling through G protein-
+RT   regulated inducer of neurite outgrowth 1.";
+RL   Mol. Pharmacol. 67:695-702(2005).
+RN   [6]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Brain, Brown adipose tissue, Heart, Kidney, Liver, Lung, and
+RC   Testis;
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and
+RT   expression.";
+RL   Cell 143:1174-1189(2010).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. Stimulated by RGS14. The G(o) protein function
+CC       is not clear. {ECO:0000269|PubMed:10926822}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site. Interacts with RGS14. {ECO:0000269|PubMed:10926822}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:15585744}.
+CC       Membrane {ECO:0000250|UniProtKB:P09471}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P09471}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=Alpha-1;
+CC         IsoId=P18872-1; Sequence=Displayed;
+CC       Name=Alpha-2;
+CC         IsoId=P18872-2, P18873-1;
+CC         Sequence=VSP_031251;
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M36777; AAA37645.1; -; mRNA.
+DR   EMBL; M36778; AAA74566.1; -; mRNA.
+DR   EMBL; BC051989; AAH51989.1; -; mRNA.
+DR   CCDS; CCDS22532.1; -. [P18872-1]
+DR   PIR; A36038; RGMSO1.
+DR   PIR; B36038; RGMSO2.
+DR   RefSeq; NP_001106855.1; NM_001113384.1. [P18872-2]
+DR   RefSeq; NP_034438.1; NM_010308.3. [P18872-1]
+DR   UniGene; Mm.251445; -.
+DR   PDB; 3C7K; X-ray; 2.90 A; A/C=22-354.
+DR   PDBsum; 3C7K; -.
+DR   ProteinModelPortal; P18872; -.
+DR   SMR; P18872; 35-346.
+DR   BioGrid; 199970; 8.
+DR   DIP; DIP-29921N; -.
+DR   IntAct; P18872; 9.
+DR   MINT; MINT-89378; -.
+DR   STRING; 10090.ENSMUSP00000034198; -.
+DR   iPTMnet; P18872; -.
+DR   SwissPalm; P18872; -.
+DR   PaxDb; P18872; -.
+DR   PeptideAtlas; P18872; -.
+DR   PRIDE; P18872; -.
+DR   Ensembl; ENSMUST00000034198; ENSMUSP00000034198; ENSMUSG00000031748. [P18872-1]
+DR   Ensembl; ENSMUST00000125716; ENSMUSP00000114144; ENSMUSG00000031748. [P18872-1]
+DR   GeneID; 14681; -.
+DR   KEGG; mmu:14681; -.
+DR   UCSC; uc009mvk.2; mouse. [P18872-2]
+DR   UCSC; uc009mvl.1; mouse. [P18872-1]
+DR   CTD; 2775; -.
+DR   MGI; MGI:95775; Gnao1.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P18872; -.
+DR   KO; K04534; -.
+DR   OMA; DSKMVCD; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P18872; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-MMU-112043; PLC beta mediated events.
+DR   Reactome; R-MMU-202040; G-protein activation.
+DR   Reactome; R-MMU-4086398; Ca2+ pathway.
+DR   Reactome; R-MMU-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   ChiTaRS; Gnao1; mouse.
+DR   EvolutionaryTrace; P18872; -.
+DR   PRO; PR:P18872; -.
+DR   Proteomes; UP000000589; Chromosome 8.
+DR   Bgee; ENSMUSG00000031748; -.
+DR   CleanEx; MM_GNAO1; -.
+DR   ExpressionAtlas; P18872; baseline and differential.
+DR   Genevisible; P18872; MM.
+DR   GO; GO:0044297; C:cell body; IDA:MGI.
+DR   GO; GO:0030425; C:dendrite; IDA:MGI.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; TAS:MGI.
+DR   GO; GO:0016020; C:membrane; TAS:MGI.
+DR   GO; GO:0043209; C:myelin sheath; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0051430; F:corticotropin-releasing hormone receptor 1 binding; IBA:GO_Central.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0031821; F:G-protein coupled serotonin receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IMP:MGI.
+DR   GO; GO:0003924; F:GTPase activity; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0031852; F:mu-type opioid receptor binding; IBA:GO_Central.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007568; P:aging; IEA:Ensembl.
+DR   GO; GO:0009987; P:cellular process; IMP:MGI.
+DR   GO; GO:0007212; P:dopamine receptor signaling pathway; IMP:MGI.
+DR   GO; GO:0030900; P:forebrain development; IEA:Ensembl.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IMP:MGI.
+DR   GO; GO:0007626; P:locomotory behavior; IMP:MGI.
+DR   GO; GO:0051926; P:negative regulation of calcium ion transport; IEA:Ensembl.
+DR   GO; GO:0031175; P:neuron projection development; IEA:Ensembl.
+DR   GO; GO:0043547; P:positive regulation of GTPase activity; IEA:Ensembl.
+DR   GO; GO:0008016; P:regulation of heart contraction; IMP:MGI.
+DR   GO; GO:0034097; P:response to cytokine; IEA:Ensembl.
+DR   GO; GO:0042493; P:response to drug; IEA:Ensembl.
+DR   GO; GO:0042542; P:response to hydrogen peroxide; IEA:Ensembl.
+DR   GO; GO:0043278; P:response to morphine; IEA:Ensembl.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell membrane; Complete proteome;
+KW   Direct protein sequencing; GTP-binding; Lipoprotein; Magnesium;
+KW   Membrane; Metal-binding; Myristate; Nucleotide-binding; Palmitate;
+KW   Reference proteome; Transducer.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P08239}.
+FT   CHAIN         2    354       Guanine nucleotide-binding protein G(o)
+FT                                subunit alpha.
+FT                                /FTId=PRO_0000203704.
+FT   NP_BIND      40     47       GTP. {ECO:0000250}.
+FT   NP_BIND     176    182       GTP. {ECO:0000250}.
+FT   NP_BIND     201    205       GTP. {ECO:0000250}.
+FT   NP_BIND     270    273       GTP. {ECO:0000250}.
+FT   METAL        47     47       Magnesium. {ECO:0000250}.
+FT   METAL       182    182       Magnesium. {ECO:0000250}.
+FT   BINDING     326    326       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine.
+FT                                {ECO:0000250|UniProtKB:P09471}.
+FT   LIPID         3      3       S-palmitoyl cysteine. {ECO:0000250}.
+FT   VAR_SEQ     249    354       MLFDSICNNKFFIDTSIILFLNKKDLFGEKIKKSPLTICFP
+FT                                EYPGSNTYEDAAAYIQTQFESKNRSPNKEIYCHMTCATDTN
+FT                                NIQVVFDAVTDIIIANNLRGCGLY -> KLFDSICNNKWFT
+FT                                DTSIILFLNKKDIFEEKIKKSPLTICFPEYTGPSAFTEAVA
+FT                                HIQGQYESKNKSAHKEVYSHVTCATDTNNIQFVFDAVTDVI
+FT                                IAKNLRGCGLY (in isoform Alpha-2).
+FT                                {ECO:0000303|PubMed:1697681}.
+FT                                /FTId=VSP_031251.
+FT   STRAND       36     41       {ECO:0000244|PDB:3C7K}.
+FT   TURN         46     49       {ECO:0000244|PDB:3C7K}.
+FT   HELIX        50     52       {ECO:0000244|PDB:3C7K}.
+FT   HELIX        63     91       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       100    113       {ECO:0000244|PDB:3C7K}.
+FT   TURN        114    116       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       122    131       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       135    141       {ECO:0000244|PDB:3C7K}.
+FT   TURN        142    145       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       153    157       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       160    163       {ECO:0000244|PDB:3C7K}.
+FT   TURN        172    176       {ECO:0000244|PDB:3C7K}.
+FT   STRAND      186    188       {ECO:0000244|PDB:3C7K}.
+FT   STRAND      199    201       {ECO:0000244|PDB:3C7K}.
+FT   TURN        206    208       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       209    212       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       214    216       {ECO:0000244|PDB:3C7K}.
+FT   STRAND      220    225       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       228    232       {ECO:0000244|PDB:3C7K}.
+FT   STRAND      239    242       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       243    255       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       258    260       {ECO:0000244|PDB:3C7K}.
+FT   STRAND      263    268       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       272    279       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       284    286       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       297    310       {ECO:0000244|PDB:3C7K}.
+FT   HELIX       329    344       {ECO:0000244|PDB:3C7K}.
+SQ   SEQUENCE   354 AA;  40085 MW;  B73A84F3BDB09F2C CRC64;
+     MGCTLSAEER AALERSKAIE KNLKEDGISA AKDVKLLLLG AGESGKSTIV KQMKIIHEDG
+     FSGEDVKQYK PVVYSNTIQS LAAIVRAMDT LGVEYGDKER KTDSKMVCDV VSRMEDTEPF
+     SAELLSAMMR LWGDSGIQEC FNRSREYQLN DSAKYYLDSL DRIGAGDYQP TEQDILRTRV
+     KTTGIVETHF TFKNLHFRLF DVGGQRSERK KWIHCFEDVT AIIFCVALSG YDQVLHEDET
+     TNRMHESLML FDSICNNKFF IDTSIILFLN KKDLFGEKIK KSPLTICFPE YPGSNTYEDA
+     AAYIQTQFES KNRSPNKEIY CHMTCATDTN NIQVVFDAVT DIIIANNLRG CGLY
+//

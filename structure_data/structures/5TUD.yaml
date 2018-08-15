@@ -1,4 +1,4 @@
-auxiliary_protein: BRIL, Antibody Fab fragment
+auxiliary_protein: BRIL, Antibody
 construct: 5tud
 distance: 8.66
 endogenous_ligand:
@@ -8,7 +8,7 @@ endogenous_ligand:
 ligand:
     name: ERM
     pubchemId: 8223
-    role: agonist
+    role: Agonist
     title: Ergotamine
     type: Small molecule
 pdb: 5TUD

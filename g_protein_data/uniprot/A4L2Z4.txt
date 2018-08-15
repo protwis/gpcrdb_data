@@ -1,0 +1,97 @@
+ID   A4L2Z4_PIG              Unreviewed;       355 AA.
+AC   A4L2Z4; F1SIL3;
+DT   01-MAY-2007, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-2007, sequence version 1.
+DT   25-APR-2018, entry version 88.
+DE   SubName: Full=Guanine nucleotide-binding protein alpha 14 {ECO:0000313|EMBL:ABO48458.1};
+GN   Name=GNA14 {ECO:0000313|Ensembl:ENSSSCP00000044240};
+OS   Sus scrofa (Pig).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+OC   Sus.
+OX   NCBI_TaxID=9823 {ECO:0000313|EMBL:ABO48458.1};
+RN   [1] {ECO:0000313|EMBL:ABO48458.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=18330691; DOI=10.1007/s10528-008-9158-6;
+RA   Chen H., Yao W., Jin D., Xia T., Chen X., Lei T., Zhou L., Yang Z.;
+RT   "Cloning, expression pattern, chromosomal localization, and evolution
+RT   analysis of Porcine gnaq, gna11, and gna14.";
+RL   Biochem. Genet. 46:398-405(2008).
+RN   [2] {ECO:0000313|Ensembl:ENSSSCP00000044240, ECO:0000313|Proteomes:UP000008227}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Duroc {ECO:0000313|Ensembl:ENSSSCP00000044240,
+RC   ECO:0000313|Proteomes:UP000008227};
+RG   Porcine genome sequencing project;
+RL   Submitted (NOV-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|Ensembl:ENSSSCP00000044240}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (OCT-2017) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AEMK02000005; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; EF423616; ABO48458.1; -; mRNA.
+DR   RefSeq; NP_001090987.1; NM_001097518.1.
+DR   UniGene; Ssc.32187; -.
+DR   STRING; 9823.ENSSSCP00000005675; -.
+DR   PeptideAtlas; A4L2Z4; -.
+DR   Ensembl; ENSSSCT00000058701; ENSSSCP00000044240; ENSSSCG00000005284.
+DR   GeneID; 100048958; -.
+DR   KEGG; ssc:100048958; -.
+DR   CTD; 9630; -.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   KO; K04636; -.
+DR   OMA; DRIAMPS; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-SSC-399997; Acetylcholine regulates insulin secretion.
+DR   Reactome; R-SSC-416476; G alpha (q) signalling events.
+DR   Reactome; R-SSC-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-SSC-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-SSC-432142; Platelet sensitization by LDL.
+DR   Reactome; R-SSC-434316; Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion.
+DR   Reactome; R-SSC-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Proteomes; UP000008227; Chromosome 1.
+DR   Bgee; ENSSSCG00000005284; -.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IBA:GO_Central.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008227};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008227}.
+FT   COILED        7     27       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   355 AA;  41514 MW;  36BE73BFFEC8693F CRC64;
+     MAGCCCLSAE EKESQRISAE IERQLRRDKK DARRELKLLL LGTGESGKST FIKQMRIIHG
+     SGYSDEDRKG FTKLVYQNIF TAMQAMIRAM DTLRIQYVCE QNKENAQLIR EVEVDKVSAL
+     SRDQVEAIKE LWQDPGIQEC YDRRREYQLS DSAKYYLTDI DRIAMPSFVP TQQDVLRVRV
+     PTTGIIEYPF DLENIIFRMV DVGGQRSERR KWIHCFESVT SIIFLVALSE YDQVLAECDN
+     ENRMEESKAL FKTIITYPWF LNSSVILFLN KKDLLEEKIM YSHLISYFPE YTGPKQDVKA
+     ARDFILKLYQ DQNPDKEKVI YSHFTCATDT ENIRFVFAAV KDTILQLNLR EFNLV
+//

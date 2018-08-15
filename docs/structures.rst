@@ -23,10 +23,16 @@ in the Δ distance (Å) column.
 ==== ==== ==== ==== =====  ========  ============  ======
 TM2  TM6  TM3  TM7  Class  Inactive  Intermediate  Active
 ==== ==== ==== ==== =====  ========  ============  ======
-2x41 6x38 3x44 7x52 A      <2        2<=x<=7.5     >7.5
+2x41 6x38 3x44 7x52 A      <2        2<=x<=7.15    >7.15
 2x41 6x33 3x44 7x51 B      <2.5      2.5<=x<=6     >6
 ==== ==== ==== ==== =====  ========  ============  ======
 All Class C and F structures are, so far, in the inactive state.
+
+This definition is an approach more based on structure than function. The Δ distance resembles a general openness of the intracellular side
+of the receptor where coupling of a signaling protein can occur. There are structures where based on ligand properties the structure should
+be identified as inactive, however due to a fusion protein on the intracellular side of the receptor, the conformation is more similar to an active
+structure (e.g. 5NDD, 5NJ6). Another unusual example is one of the Platelet-activating factor receptor structures (5ZKP), where H8 turns inward the
+helical bundle, blocking the chance of signal protein coupling while pushing TM2 outwards.
 
 Structure statistics
 --------------------

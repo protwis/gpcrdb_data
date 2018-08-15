@@ -1,0 +1,96 @@
+ID   F1N2V3_BOVIN            Unreviewed;       374 AA.
+AC   F1N2V3;
+DT   03-MAY-2011, integrated into UniProtKB/TrEMBL.
+DT   03-MAY-2011, sequence version 1.
+DT   28-MAR-2018, entry version 52.
+DE   SubName: Full=G protein subunit alpha 15 {ECO:0000313|Ensembl:ENSBTAP00000026624};
+GN   Name=GNA15 {ECO:0000313|Ensembl:ENSBTAP00000026624,
+GN   ECO:0000313|VGNC:VGNC:29448};
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913 {ECO:0000313|Ensembl:ENSBTAP00000026624, ECO:0000313|Proteomes:UP000009136};
+RN   [1] {ECO:0000313|Ensembl:ENSBTAP00000026624, ECO:0000313|Proteomes:UP000009136}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Hereford {ECO:0000313|Ensembl:ENSBTAP00000026624,
+RC   ECO:0000313|Proteomes:UP000009136};
+RX   PubMed=19393038; DOI=10.1186/gb-2009-10-4-r42;
+RA   Zimin A.V., Delcher A.L., Florea L., Kelley D.R., Schatz M.C.,
+RA   Puiu D., Hanrahan F., Pertea G., Van Tassell C.P., Sonstegard T.S.,
+RA   Marcais G., Roberts M., Subramanian P., Yorke J.A., Salzberg S.L.;
+RT   "A whole-genome assembly of the domestic cow, Bos taurus.";
+RL   Genome Biol. 10:R42.01-R42.10(2009).
+RN   [2] {ECO:0000313|Ensembl:ENSBTAP00000026624}
+RP   IDENTIFICATION.
+RC   STRAIN=Hereford {ECO:0000313|Ensembl:ENSBTAP00000026624};
+RG   Ensembl;
+RL   Submitted (MAR-2016) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DAAA02019664; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; DAAA02019665; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; NP_001179643.1; NM_001192714.1.
+DR   UniGene; Bt.27662; -.
+DR   STRING; 9913.ENSBTAP00000026624; -.
+DR   PaxDb; F1N2V3; -.
+DR   Ensembl; ENSBTAT00000026624; ENSBTAP00000026624; ENSBTAG00000019988.
+DR   GeneID; 532029; -.
+DR   KEGG; bta:532029; -.
+DR   CTD; 2769; -.
+DR   VGNC; VGNC:29448; GNA15.
+DR   eggNOG; KOG0085; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; F1N2V3; -.
+DR   KO; K04637; -.
+DR   OMA; WRCCPWC; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-BTA-399997; Acetylcholine regulates insulin secretion.
+DR   Reactome; R-BTA-416476; G alpha (q) signalling events.
+DR   Reactome; R-BTA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-BTA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-BTA-432142; Platelet sensitization by LDL.
+DR   Reactome; R-BTA-434316; Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion.
+DR   Reactome; R-BTA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Proteomes; UP000009136; Chromosome 7.
+DR   Bgee; ENSBTAG00000019988; -.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000009136};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000009136}.
+SQ   SEQUENCE   374 AA;  43604 MW;  8C026087C6643489 CRC64;
+     MARSLTWRCC PWCLTEDEKS AARIDQEINK ILLEQKKRDR GELKLLLLGP GESGKSTFIK
+     QMRIIHGAGY SEEDRKNFRP LVYQNIFISM RSMIEAMERL QIPFSWPESK HHASVIMSQD
+     PYKVTKFEKR HAVAMQWLWE DTGIRACYER RREFHLLDSA VYYLSNLDRI TEEGYIPTAQ
+     DVLRSRMPTT GINEYCFSVQ KTNLRIVDVG GQKSERKKWI HCFENVIALI YLASLSEYDQ
+     CLEENNQENR MKESLALFGT ILELPWFKST SVILFLNKTD ILEEKIPTSH LATYFPSFRG
+     PKQDAEAAKK FILDMYTRMY AGCVDGADGG RKGPRSRRLF SHYTCATDTQ NIRKVFKDVR
+     DSVLARYLDE INLL
+//

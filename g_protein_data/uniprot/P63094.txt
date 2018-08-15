@@ -1,0 +1,384 @@
+ID   GNAS2_MOUSE             Reviewed;         394 AA.
+AC   P63094; A2A611; A2A612; A2A613; P04894; P08755; Q3KQM5; Q3TFV3;
+AC   Q3TWS9; Q3UI70; Q58E62; Q6P7U9; Q80ZK6; Q8K5E1; Q9Z1R7;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   13-AUG-1987, sequence version 1.
+DT   05-OCT-2016, entry version 139.
+DE   RecName: Full=Guanine nucleotide-binding protein G(s) subunit alpha isoforms short;
+DE   AltName: Full=Adenylate cyclase-stimulating G alpha protein;
+GN   Name=Gnas; Synonyms=Gnas1; ORFNames=MNCb-5546;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM GNAS-1), AND VARIANT PRO-389.
+RC   STRAIN=BALB/cJ;
+RX   PubMed=2826231; DOI=10.1016/0014-5793(87)80486-6;
+RA   Rall T., Harris B.A.;
+RT   "Identification of the lesion in the stimulatory GTP-binding protein
+RT   of the uncoupled S49 lymphoma.";
+RL   FEBS Lett. 224:365-371(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM GNAS-2).
+RX   PubMed=3092218; DOI=10.1073/pnas.83.18.6687;
+RA   Sullivan K.A., Liao Y.-C., Alborzi A., Beiderman B., Chang F.-H.,
+RA   Masters S.B., Levinson A.D., Bourne H.R.;
+RT   "Inhibitory and stimulatory G proteins of adenylate cyclase: cDNA and
+RT   amino acid sequences of the alpha chains.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 83:6687-6691(1986).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM GNAS-3).
+RC   STRAIN=C57BL/6J;
+RA   Wang Y.Z., Kehlenbach R.H., Huttner W.B.;
+RT   "Molecular characterization of XL2, a neuroendocrine-specific luminal
+RT   Golgi-resident protein.";
+RL   Submitted (NOV-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS GNAS-1 AND GNAS-2).
+RC   STRAIN=C57BL/6J; TISSUE=Stomach;
+RX   PubMed=16141072; DOI=10.1126/science.1112014;
+RA   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda N.,
+RA   Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa K.,
+RA   Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+RA   Davis M.J., Wilming L.G., Aidinis V., Allen J.E.,
+RA   Ambesi-Impiombato A., Apweiler R., Aturaliya R.N., Bailey T.L.,
+RA   Bansal M., Baxter L., Beisel K.W., Bersano T., Bono H., Chalk A.M.,
+RA   Chiu K.P., Choudhary V., Christoffels A., Clutterbuck D.R.,
+RA   Crowe M.L., Dalla E., Dalrymple B.P., de Bono B., Della Gatta G.,
+RA   di Bernardo D., Down T., Engstrom P., Fagiolini M., Faulkner G.,
+RA   Fletcher C.F., Fukushima T., Furuno M., Futaki S., Gariboldi M.,
+RA   Georgii-Hemming P., Gingeras T.R., Gojobori T., Green R.E.,
+RA   Gustincich S., Harbers M., Hayashi Y., Hensch T.K., Hirokawa N.,
+RA   Hill D., Huminiecki L., Iacono M., Ikeo K., Iwama A., Ishikawa T.,
+RA   Jakt M., Kanapin A., Katoh M., Kawasawa Y., Kelso J., Kitamura H.,
+RA   Kitano H., Kollias G., Krishnan S.P., Kruger A., Kummerfeld S.K.,
+RA   Kurochkin I.V., Lareau L.F., Lazarevic D., Lipovich L., Liu J.,
+RA   Liuni S., McWilliam S., Madan Babu M., Madera M., Marchionni L.,
+RA   Matsuda H., Matsuzawa S., Miki H., Mignone F., Miyake S., Morris K.,
+RA   Mottagui-Tabar S., Mulder N., Nakano N., Nakauchi H., Ng P.,
+RA   Nilsson R., Nishiguchi S., Nishikawa S., Nori F., Ohara O.,
+RA   Okazaki Y., Orlando V., Pang K.C., Pavan W.J., Pavesi G., Pesole G.,
+RA   Petrovsky N., Piazza S., Reed J., Reid J.F., Ring B.Z., Ringwald M.,
+RA   Rost B., Ruan Y., Salzberg S.L., Sandelin A., Schneider C.,
+RA   Schoenbach C., Sekiguchi K., Semple C.A., Seno S., Sessa L., Sheng Y.,
+RA   Shibata Y., Shimada H., Shimada K., Silva D., Sinclair B.,
+RA   Sperling S., Stupka E., Sugiura K., Sultana R., Takenaka Y., Taki K.,
+RA   Tammoja K., Tan S.L., Tang S., Taylor M.S., Tegner J., Teichmann S.A.,
+RA   Ueda H.R., van Nimwegen E., Verardo R., Wei C.L., Yagi K.,
+RA   Yamanishi H., Zabarovsky E., Zhu S., Zimmer A., Hide W., Bult C.,
+RA   Grimmond S.M., Teasdale R.D., Liu E.T., Brusic V., Quackenbush J.,
+RA   Wahlestedt C., Mattick J.S., Hume D.A., Kai C., Sasaki D., Tomaru Y.,
+RA   Fukuda S., Kanamori-Katayama M., Suzuki M., Aoki J., Arakawa T.,
+RA   Iida J., Imamura K., Itoh M., Kato T., Kawaji H., Kawagashira N.,
+RA   Kawashima T., Kojima M., Kondo S., Konno H., Nakano K., Ninomiya N.,
+RA   Nishio T., Okada M., Plessy C., Shibata K., Shiraki T., Suzuki S.,
+RA   Tagami M., Waki K., Watahiki A., Okamura-Oho Y., Suzuki H., Kawai J.,
+RA   Hayashizaki Y.;
+RT   "The transcriptional landscape of the mammalian genome.";
+RL   Science 309:1559-1563(2005).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=C57BL/6J;
+RX   PubMed=19468303; DOI=10.1371/journal.pbio.1000112;
+RA   Church D.M., Goodstadt L., Hillier L.W., Zody M.C., Goldstein S.,
+RA   She X., Bult C.J., Agarwala R., Cherry J.L., DiCuccio M., Hlavina W.,
+RA   Kapustin Y., Meric P., Maglott D., Birtle Z., Marques A.C., Graves T.,
+RA   Zhou S., Teague B., Potamousis K., Churas C., Place M., Herschleb J.,
+RA   Runnheim R., Forrest D., Amos-Landgraf J., Schwartz D.C., Cheng Z.,
+RA   Lindblad-Toh K., Eichler E.E., Ponting C.P.;
+RT   "Lineage-specific biology revealed by a finished genome assembly of
+RT   the mouse.";
+RL   PLoS Biol. 7:E1000112-E1000112(2009).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS GNAS-1 AND GNAS-2).
+RC   STRAIN=129, C57BL/6J, Czech II, and FVB/N;
+RC   TISSUE=Brain, Mammary tumor, and Salivary gland;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 73-394 (ISOFORM GNAS-1).
+RC   STRAIN=C57BL/6J; TISSUE=Brain;
+RA   Osada N., Kusuda J., Tanuma R., Ito A., Hirata M., Sugano S.,
+RA   Hashimoto K.;
+RT   "Isolation of full-length cDNA clones from mouse brain cDNA library
+RT   made by oligo-capping method.";
+RL   Submitted (APR-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   PROTEIN SEQUENCE OF 266-274 AND 284-293, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RC   STRAIN=C57BL/6J; TISSUE=Brain;
+RA   Lubec G., Kang S.U.;
+RL   Submitted (APR-2007) to UniProtKB.
+RN   [9]
+RP   SUBCELLULAR LOCATION, PALMITOYLATION AT CYS-3, AND MUTAGENESIS OF
+RP   CYS-3.
+RX   PubMed=8227063;
+RA   Wedegaertner P.B., Chu D.H., Wilson P.T., Levis M.J., Bourne H.R.;
+RT   "Palmitoylation is required for signaling functions and membrane
+RT   attachment of Gq alpha and Gs alpha.";
+RL   J. Biol. Chem. 268:25001-25008(1993).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Brain, Brown adipose tissue, Heart, Kidney, Liver, Lung,
+RC   Pancreas, Spleen, and Testis;
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and
+RT   expression.";
+RL   Cell 143:1174-1189(2010).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins)
+CC       function as transducers in numerous signaling pathways controlled
+CC       by G protein-coupled receptors (GPCRs). Signaling involves the
+CC       activation of adenylyl cyclases, resulting in increased levels of
+CC       the signaling molecule cAMP. GNAS functions downstream of several
+CC       GPCRs, including beta-adrenergic receptors. Stimulates the Ras
+CC       signaling pathway via RAPGEF2. {ECO:0000250|UniProtKB:P63092}.
+CC   -!- SUBUNIT: Heterotrimeric G proteins are composed of 3 units; alpha,
+CC       beta and gamma. The alpha chain contains the guanine nucleotide
+CC       binding site (By similarity). Interacts with CRY1; the interaction
+CC       may block GPCR-mediated regulation of cAMP concentrations.
+CC       Interacts with ADCY6 and stimulates its adenylyl cyclase activity
+CC       (By similarity). Interacts with ADCY2 and ADCY5 (By similarity).
+CC       Stimulates the ADCY5 adenylyl cyclase activity (By similarity).
+CC       {ECO:0000250|UniProtKB:P04896, ECO:0000250|UniProtKB:P63092}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:8227063};
+CC       Lipid-anchor {ECO:0000269|PubMed:8227063}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=9;
+CC       Name=Gnas-1;
+CC         IsoId=P63094-1; Sequence=Displayed;
+CC       Name=Gnas-2;
+CC         IsoId=P63094-2; Sequence=VSP_011567;
+CC       Name=Gnas-3; Synonyms=NTas;
+CC         IsoId=P63094-3; Sequence=VSP_021153;
+CC       Name=XLas-1; Synonyms=XXL;
+CC         IsoId=Q6R0H7-1; Sequence=External;
+CC       Name=XLas-2; Synonyms=XXLb1;
+CC         IsoId=Q6R0H7-2; Sequence=External;
+CC       Name=XLas-3; Synonyms=XXLb2;
+CC         IsoId=Q6R0H7-3; Sequence=External;
+CC       Name=XLas-4;
+CC         IsoId=Q6R0H7-4; Sequence=External;
+CC       Name=Nesp55-1;
+CC         IsoId=Q9Z0F1-1; Sequence=External;
+CC         Note=Shares no sequence similarity with other isoforms (except
+CC         isoform Nesp55-2) due to a novel first exon containing the
+CC         entire reading frame spliced to shared exon 2 so that exons 2-13
+CC         make up the 3'-UTR.;
+CC       Name=Nesp55-2;
+CC         IsoId=Q9Z0F1-2; Sequence=External;
+CC         Note=Shares no sequence similarity with other isoforms (except
+CC         isoform Nesp55-1) due to a novel first exon containing the
+CC         entire reading frame spliced to shared exon 2 so that exons 2-13
+CC         make up the 3'-UTR.;
+CC   -!- MISCELLANEOUS: This protein is produced by a bicistronic gene
+CC       which also produces the ALEX protein from an overlapping reading
+CC       frame.
+CC   -!- MISCELLANEOUS: The GNAS locus is imprinted in a complex manner,
+CC       giving rise to distinct paternally, maternally and biallelically
+CC       expressed proteins. The XLas isoforms are paternally derived, the
+CC       Gnas isoforms are biallelically derived and the Nesp55 isoforms
+CC       are maternally derived.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(s) subfamily.
+CC       {ECO:0000305}.
+CC   -!- CAUTION: It was found (PubMed:8227063) that in engineered, C3S-
+CC       mutagenized sequence expressed in HEK293 cells there was no
+CC       radiolabeling by either S- or N-palmitoylation. This result is
+CC       incompatible with a prediction for N-palmitoylation unless N-
+CC       palmitoylation depends on S-palmitoylation occurring first or N-
+CC       palmitoylation did not occur in the experimental expression
+CC       system. {ECO:0000305|PubMed:8227063}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=BAB93551.1; Type=Miscellaneous discrepancy; Evidence={ECO:0000305};
+CC       Sequence=CAM24410.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y00703; CAA68695.1; -; mRNA.
+DR   EMBL; M13964; AAA37745.1; -; mRNA.
+DR   EMBL; AF107848; AAD11807.1; -; mRNA.
+DR   EMBL; AK147051; BAE27636.1; -; mRNA.
+DR   EMBL; AK159563; BAE35187.1; -; mRNA.
+DR   EMBL; AK168996; BAE40795.1; -; mRNA.
+DR   EMBL; AL593857; CAM24410.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AL593857; CAM24411.1; -; Genomic_DNA.
+DR   EMBL; AL593857; CAM24412.1; -; Genomic_DNA.
+DR   EMBL; BC038067; AAH38067.1; -; mRNA.
+DR   EMBL; BC048834; AAH48834.1; -; mRNA.
+DR   EMBL; BC061496; AAH61496.1; -; mRNA.
+DR   EMBL; BC062654; AAH62654.1; -; mRNA.
+DR   EMBL; BC080816; AAH80816.1; -; mRNA.
+DR   EMBL; BC092055; AAH92055.1; -; mRNA.
+DR   EMBL; BC106133; AAI06134.1; -; mRNA.
+DR   EMBL; AB041808; BAB93551.1; ALT_SEQ; mRNA.
+DR   CCDS; CCDS38356.1; -. [P63094-1]
+DR   CCDS; CCDS38357.1; -. [P63094-2]
+DR   PIR; A25889; RGMSA1.
+DR   PIR; S03075; RGMSA2.
+DR   RefSeq; NP_001070978.1; NM_001077510.4. [P63094-2]
+DR   RefSeq; NP_001297012.1; NM_001310083.1. [P63094-1]
+DR   RefSeq; NP_963910.1; NM_201616.2. [P63094-1]
+DR   UniGene; Mm.125770; -.
+DR   UniGene; Mm.394046; -.
+DR   ProteinModelPortal; P63094; -.
+DR   SMR; P63094; 39-388.
+DR   BioGrid; 199972; 2.
+DR   IntAct; P63094; 4.
+DR   MINT; MINT-1522537; -.
+DR   iPTMnet; P63094; -.
+DR   SwissPalm; P63094; -.
+DR   EPD; P63094; -.
+DR   MaxQB; P63094; -.
+DR   PeptideAtlas; P63094; -.
+DR   PRIDE; P63094; -.
+DR   Ensembl; ENSMUST00000087871; ENSMUSP00000085179; ENSMUSG00000027523. [P63094-1]
+DR   Ensembl; ENSMUST00000109085; ENSMUSP00000104713; ENSMUSG00000027523. [P63094-2]
+DR   Ensembl; ENSMUST00000109087; ENSMUSP00000104715; ENSMUSG00000027523. [P63094-1]
+DR   GeneID; 14683; -.
+DR   KEGG; mmu:14683; -.
+DR   UCSC; uc008oey.1; mouse. [P63094-1]
+DR   UCSC; uc033hrs.1; mouse. [P63094-2]
+DR   CTD; 2778; -.
+DR   MGI; MGI:95777; Gnas.
+DR   GeneTree; ENSGT00770000120503; -.
+DR   HOVERGEN; HBG063184; -.
+DR   KO; K04632; -.
+DR   Reactome; R-MMU-163359; Glucagon signaling in metabolic regulation.
+DR   Reactome; R-MMU-164378; PKA activation in glucagon signalling.
+DR   Reactome; R-MMU-381676; Glucagon-like Peptide-1 (GLP1) regulates insulin secretion.
+DR   Reactome; R-MMU-392851; Prostacyclin signalling through prostacyclin receptor.
+DR   Reactome; R-MMU-418555; G alpha (s) signalling events.
+DR   Reactome; R-MMU-420092; Glucagon-type ligand receptors.
+DR   Reactome; R-MMU-432040; Vasopressin regulates renal water homeostasis via Aquaporins.
+DR   Reactome; R-MMU-5610787; Hedgehog 'off' state.
+DR   ChiTaRS; Gnas; mouse.
+DR   Proteomes; UP000000589; Chromosome 2.
+DR   Bgee; ENSMUSG00000027523; -.
+DR   ExpressionAtlas; P63094; baseline and differential.
+DR   Genevisible; P63094; MM.
+DR   GO; GO:0005829; C:cytosol; ISO:MGI.
+DR   GO; GO:0030425; C:dendrite; IDA:MGI.
+DR   GO; GO:0070062; C:extracellular exosome; ISO:MGI.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; ISA:MGI.
+DR   GO; GO:0016020; C:membrane; IDA:MGI.
+DR   GO; GO:0047391; F:alkylglycerophosphoethanolamine phosphodiesterase activity; ISO:MGI.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; ISA:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; ISS:UniProtKB.
+DR   GO; GO:0071880; P:adenylate cyclase-activating adrenergic receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0007191; P:adenylate cyclase-activating dopamine receptor signaling pathway; IGI:MGI.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IDA:MGI.
+DR   GO; GO:0060348; P:bone development; ISO:MGI.
+DR   GO; GO:0051216; P:cartilage development; IMP:MGI.
+DR   GO; GO:0050890; P:cognition; ISO:MGI.
+DR   GO; GO:0048589; P:developmental growth; ISO:MGI.
+DR   GO; GO:0006306; P:DNA methylation; IMP:MGI.
+DR   GO; GO:0048701; P:embryonic cranial skeleton morphogenesis; IMP:MGI.
+DR   GO; GO:0035116; P:embryonic hindlimb morphogenesis; IMP:MGI.
+DR   GO; GO:0001958; P:endochondral ossification; IMP:MGI.
+DR   GO; GO:0006112; P:energy reserve metabolic process; IMP:MGI.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; TAS:MGI.
+DR   GO; GO:0071514; P:genetic imprinting; IMP:MGI.
+DR   GO; GO:0060789; P:hair follicle placode formation; ISO:MGI.
+DR   GO; GO:0035264; P:multicellular organism growth; IMP:MGI.
+DR   GO; GO:0070527; P:platelet aggregation; ISO:MGI.
+DR   GO; GO:0030819; P:positive regulation of cAMP biosynthetic process; ISS:UniProtKB.
+DR   GO; GO:0043950; P:positive regulation of cAMP-mediated signaling; ISS:UniProtKB.
+DR   GO; GO:0043547; P:positive regulation of GTPase activity; ISS:UniProtKB.
+DR   GO; GO:0045669; P:positive regulation of osteoblast differentiation; IMP:MGI.
+DR   GO; GO:0045672; P:positive regulation of osteoclast differentiation; IMP:MGI.
+DR   GO; GO:0040032; P:post-embryonic body morphogenesis; IMP:MGI.
+DR   GO; GO:0009791; P:post-embryonic development; IMP:MGI.
+DR   GO; GO:2000828; P:regulation of parathyroid hormone secretion; IMP:MGI.
+DR   GO; GO:0042493; P:response to drug; IMP:MGI.
+DR   GO; GO:0001501; P:skeletal system development; IMP:MGI.
+DR   GO; GO:0043588; P:skin development; IMP:MGI.
+DR   GO; GO:0001894; P:tissue homeostasis; IMP:MGI.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000367; Gprotein_alpha_S.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 2.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00443; GPROTEINAS.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell membrane; Complete proteome;
+KW   Direct protein sequencing; GTP-binding; Isopeptide bond; Lipoprotein;
+KW   Magnesium; Membrane; Metal-binding; Nucleotide-binding; Palmitate;
+KW   Phosphoprotein; Polymorphism; Reference proteome; Transducer;
+KW   Ubl conjugation.
+FT   CHAIN         1    394       Guanine nucleotide-binding protein G(s)
+FT                                subunit alpha isoforms short.
+FT                                /FTId=PRO_0000203723.
+FT   NP_BIND      47     55       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   NP_BIND     197    204       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   NP_BIND     223    227       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   NP_BIND     292    295       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   METAL        54     54       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   METAL       204    204       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   BINDING     366    366       GTP; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   MOD_RES     352    352       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P63092}.
+FT   LIPID         2      2       N-palmitoyl glycine.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   LIPID         3      3       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:8227063}.
+FT   CROSSLNK    300    300       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in ubiquitin).
+FT                                {ECO:0000250|UniProtKB:P63092}.
+FT   VAR_SEQ       1     46       MGCLGNSKTEDQRNEEKAQREANKKIEKQLQKDKQVYRATH
+FT                                RLLLL -> MGDSVQILLVFMDK (in isoform Gnas-
+FT                                3). {ECO:0000303|Ref.3}.
+FT                                /FTId=VSP_021153.
+FT   VAR_SEQ      71     86       EGGEEDPQAARSNSDG -> DS (in isoform Gnas-
+FT                                2). {ECO:0000303|PubMed:15489334,
+FT                                ECO:0000303|PubMed:16141072,
+FT                                ECO:0000303|PubMed:3092218}.
+FT                                /FTId=VSP_011567.
+FT   VARIANT     389    389       R -> P (in unc mutant; uncouples
+FT                                receptors from adenylyl cyclases).
+FT                                {ECO:0000269|PubMed:2826231}.
+FT   MUTAGEN       3      3       C->S: Abolishes S-palmitoylation.
+FT                                {ECO:0000269|PubMed:8227063}.
+FT   CONFLICT      1     15       MGCLGNSKTEDQRNE -> MAARGAAGLRGGG (in Ref.
+FT                                2; AAA37745). {ECO:0000305}.
+FT   CONFLICT     64     64       H -> L (in Ref. 4; BAE35187).
+FT                                {ECO:0000305}.
+FT   CONFLICT     97     97       N -> H (in Ref. 4; BAE35187).
+FT                                {ECO:0000305}.
+FT   CONFLICT    130    130       Y -> C (in Ref. 6; AAI06134).
+FT                                {ECO:0000305}.
+FT   CONFLICT    137    137       V -> L (in Ref. 2; AAA37745 and 3;
+FT                                AAD11807). {ECO:0000305}.
+FT   CONFLICT    139    139       N -> D (in Ref. 1; CAA68695).
+FT                                {ECO:0000305}.
+FT   CONFLICT    160    160       R -> P (in Ref. 7; BAB93551).
+FT                                {ECO:0000305}.
+FT   CONFLICT    326    326       P -> L (in Ref. 4; BAE40795 and 6;
+FT                                AAI06134). {ECO:0000305}.
+SQ   SEQUENCE   394 AA;  45664 MW;  20341187BE4412ED CRC64;
+     MGCLGNSKTE DQRNEEKAQR EANKKIEKQL QKDKQVYRAT HRLLLLGAGE SGKSTIVKQM
+     RILHVNGFNG EGGEEDPQAA RSNSDGEKAT KVQDIKNNLK EAIETIVAAM SNLVPPVELA
+     NPENQFRVDY ILSVMNVPNF DFPPEFYEHA KALWEDEGVR ACYERSNEYQ LIDCAQYFLD
+     KIDVIKQADY VPSDQDLLRC RVLTSGIFET KFQVDKVNFH MFDVGGQRDE RRKWIQCFND
+     VTAIIFVVAS SSYNMVIRED NQTNRLQEAL NLFKSIWNNR WLRTISVILF LNKQDLLAEK
+     VLAGKSKIED YFPEFARYTT PEDATPEPGE DPRVTRAKYF IRDEFLRIST ASGDGRHYCY
+     PHFTCAVDTE NIRRVFNDCR DIIQRMHLRQ YELL
+//

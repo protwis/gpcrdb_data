@@ -1,0 +1,164 @@
+ID   GNAL_MOUSE              Reviewed;         381 AA.
+AC   Q8CGK7; Q61020; Q61589;
+DT   15-MAR-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2003, sequence version 1.
+DT   28-FEB-2018, entry version 125.
+DE   RecName: Full=Guanine nucleotide-binding protein G(olf) subunit alpha;
+DE   AltName: Full=Adenylate cyclase-stimulating G alpha protein, olfactory type;
+GN   Name=Gnal;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=C57BL/6J;
+RA   Von Dannecker L.E.C., Malnic B.;
+RT   "The mouse G protein Golf alpha subunit full length coding sequence.";
+RL   Submitted (NOV-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   PROTEIN SEQUENCE OF 45-55, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   STRAIN=C57BL/6J; TISSUE=Brain;
+RA   Lubec G., Kang S.U.;
+RL   Submitted (APR-2007) to UniProtKB.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 209-373.
+RC   STRAIN=CF-1 / Harlan; TISSUE=Brain;
+RX   PubMed=8858601;
+RX   DOI=10.1002/(SICI)1098-2795(199607)44:3<315::AID-MRD5>3.0.CO;2-P;
+RA   Williams C.J., Schultz R.M., Kopf G.S.;
+RT   "G protein gene expression during mouse oocyte growth and maturation,
+RT   and preimplantation embryo development.";
+RL   Mol. Reprod. Dev. 44:315-323(1996).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 216-276.
+RC   TISSUE=Brain;
+RX   PubMed=2508088; DOI=10.1073/pnas.86.19.7407;
+RA   Strathmann M., Wilkie T.M., Simon M.I.;
+RT   "Diversity of the G-protein family: sequences from five additional
+RT   alpha subunits in the mouse.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 86:7407-7409(1989).
+RN   [5]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-178, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Brain;
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and
+RT   expression.";
+RL   Cell 143:1174-1189(2010).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. G(olf) alpha mediates signal transduction
+CC       within the olfactory neuroepithelium and the basal ganglia. May be
+CC       involved in some aspect of visual transduction, and in mediating
+CC       the effect of one or more hormones/neurotransmitters (By
+CC       similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(s) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY179169; AAO03564.1; -; mRNA.
+DR   EMBL; U38503; AAB01734.1; -; mRNA.
+DR   EMBL; M57635; AAA63300.1; -; mRNA.
+DR   CCDS; CCDS29318.1; -.
+DR   PIR; A33833; A33833.
+DR   RefSeq; NP_034437.1; NM_010307.3.
+DR   UniGene; Mm.440746; -.
+DR   ProteinModelPortal; Q8CGK7; -.
+DR   SMR; Q8CGK7; -.
+DR   BioGrid; 199969; 1.
+DR   STRING; 10090.ENSMUSP00000025402; -.
+DR   iPTMnet; Q8CGK7; -.
+DR   PhosphoSitePlus; Q8CGK7; -.
+DR   SwissPalm; Q8CGK7; -.
+DR   MaxQB; Q8CGK7; -.
+DR   PaxDb; Q8CGK7; -.
+DR   PRIDE; Q8CGK7; -.
+DR   Ensembl; ENSMUST00000076605; ENSMUSP00000075908; ENSMUSG00000024524.
+DR   GeneID; 14680; -.
+DR   KEGG; mmu:14680; -.
+DR   UCSC; uc008flt.2; mouse.
+DR   CTD; 2774; -.
+DR   MGI; MGI:95774; Gnal.
+DR   eggNOG; KOG0099; Eukaryota.
+DR   eggNOG; ENOG410XPC4; LUCA.
+DR   GeneTree; ENSGT00910000144108; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; Q8CGK7; -.
+DR   KO; K04633; -.
+DR   OMA; QENRATC; -.
+DR   PhylomeDB; Q8CGK7; -.
+DR   Reactome; R-MMU-170660; Adenylate cyclase activating pathway.
+DR   Reactome; R-MMU-170670; Adenylate cyclase inhibitory pathway.
+DR   Reactome; R-MMU-381753; Olfactory Signaling Pathway.
+DR   ChiTaRS; Gnal; mouse.
+DR   PRO; PR:Q8CGK7; -.
+DR   Proteomes; UP000000589; Chromosome 18.
+DR   Bgee; ENSMUSG00000024524; -.
+DR   ExpressionAtlas; Q8CGK7; baseline and differential.
+DR   Genevisible; Q8CGK7; MM.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; ISA:MGI.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; ISA:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007190; P:activation of adenylate cyclase activity; IDA:MGI.
+DR   GO; GO:0007191; P:adenylate cyclase-activating dopamine receptor signaling pathway; IGI:MGI.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IDA:MGI.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; ISA:MGI.
+DR   GO; GO:0001975; P:response to amphetamine; IMP:MGI.
+DR   GO; GO:0031000; P:response to caffeine; IMP:MGI.
+DR   GO; GO:0007608; P:sensory perception of smell; IMP:MGI.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000367; Gprotein_alpha_S.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00443; GPROTEINAS.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Complete proteome; Direct protein sequencing; GTP-binding;
+KW   Lipoprotein; Magnesium; Metal-binding; Nucleotide-binding; Palmitate;
+KW   Phosphoprotein; Reference proteome; Transducer.
+FT   INIT_MET      1      1       Removed.
+FT   CHAIN         2    381       Guanine nucleotide-binding protein G(olf)
+FT                                subunit alpha.
+FT                                /FTId=PRO_0000203733.
+FT   NP_BIND      49     56       GTP. {ECO:0000250}.
+FT   NP_BIND     185    191       GTP. {ECO:0000250}.
+FT   NP_BIND     210    214       GTP. {ECO:0000250}.
+FT   NP_BIND     279    282       GTP. {ECO:0000250}.
+FT   METAL        56     56       Magnesium. {ECO:0000250}.
+FT   METAL       191    191       Magnesium. {ECO:0000250}.
+FT   BINDING     353    353       GTP; via amide nitrogen. {ECO:0000250}.
+FT   MOD_RES     178    178       Phosphothreonine.
+FT                                {ECO:0000244|PubMed:21183079}.
+FT   LIPID         2      2       N-palmitoyl glycine.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   LIPID         3      3       S-palmitoyl cysteine. {ECO:0000250}.
+SQ   SEQUENCE   381 AA;  44308 MW;  F707E668EC279033 CRC64;
+     MGCLGNSSKT AEDQGVDEKE RREANKKIEK QLQKERLAYK ATHRLLLLGA GESGKSTIVK
+     QMRILHVNGF NPEEKKQKIL DIRKNVKDAI VTIVSAMSTI IPPVPLANPE NQFRSDYIKS
+     IAPITDFEYS QEFFDHVKKL WDDEGVKACF ERSNEYQLID CAQYFLERID SVSLVDYTPT
+     DQDLLRCRVL TSGIFETRFQ VDKVNFHMFD VGGQRDERRK WIQCFNDVTA IIYVAACSSY
+     NMVIREDNNT NRLRESLDLF ESIWNNRWLR TISIILFLNK QDMLAEKVLA GKSKIEDYFP
+     EYANYTVPED ATPDAGEDPK VTRAKFFIRD LFLRISTATG DGKHYCYPHF TCAVDTENIR
+     RVFNDCRDII QRMHLKQYEL L
+//

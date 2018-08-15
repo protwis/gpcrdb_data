@@ -1,0 +1,111 @@
+ID   Q06AS6_PIG              Unreviewed;       355 AA.
+AC   Q06AS6;
+DT   31-OCT-2006, integrated into UniProtKB/TrEMBL.
+DT   31-OCT-2006, sequence version 1.
+DT   25-APR-2018, entry version 85.
+DE   SubName: Full=GBI2 {ECO:0000313|EMBL:ABI97194.1};
+GN   Name=GNAI2 {ECO:0000313|Ensembl:ENSSSCP00000012152};
+OS   Sus scrofa (Pig).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae;
+OC   Sus.
+OX   NCBI_TaxID=9823 {ECO:0000313|EMBL:ABI97194.1};
+RN   [1] {ECO:0000313|EMBL:ABI97194.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Liu G.Y.;
+RL   Submitted (AUG-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSSSCP00000012152, ECO:0000313|Proteomes:UP000008227}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Duroc {ECO:0000313|Ensembl:ENSSSCP00000012152,
+RC   ECO:0000313|Proteomes:UP000008227};
+RG   Porcine genome sequencing project;
+RL   Submitted (NOV-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|Ensembl:ENSSSCP00000012152}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (JUL-2011) to UniProtKB.
+RN   [4] {ECO:0000313|Ensembl:ENSSSCP00000058450}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (OCT-2017) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AEMK02000086; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; DQ917649; ABI97194.1; -; mRNA.
+DR   RefSeq; NP_001116588.1; NM_001123116.1.
+DR   RefSeq; XP_005669625.1; XM_005669568.1.
+DR   UniGene; Ssc.93322; -.
+DR   UniGene; Ssc.95915; -.
+DR   STRING; 9823.ENSSSCP00000012152; -.
+DR   PeptideAtlas; Q06AS6; -.
+DR   Ensembl; ENSSSCT00000012477; ENSSSCP00000012152; ENSSSCG00000011399.
+DR   Ensembl; ENSSSCT00000046586; ENSSSCP00000058450; ENSSSCG00000011399.
+DR   GeneID; 397523; -.
+DR   KEGG; ssc:397523; -.
+DR   CTD; 2771; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   KO; K04630; -.
+DR   OMA; EQGIMPD; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-SSC-112043; PLC beta mediated events.
+DR   Reactome; R-SSC-170670; Adenylate cyclase inhibitory pathway.
+DR   Reactome; R-SSC-202040; G-protein activation.
+DR   Reactome; R-SSC-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-SSC-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-SSC-418594; G alpha (i) signalling events.
+DR   Reactome; R-SSC-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Proteomes; UP000008227; Chromosome 13.
+DR   Bgee; ENSSSCG00000011399; -.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0005813; C:centrosome; IEA:Ensembl.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0030496; C:midbody; IEA:Ensembl.
+DR   GO; GO:0005654; C:nucleoplasm; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0001973; P:adenosine receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007193; P:adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0051301; P:cell division; IEA:Ensembl.
+DR   GO; GO:0008283; P:cell proliferation; IEA:Ensembl.
+DR   GO; GO:0007213; P:G-protein coupled acetylcholine receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007214; P:gamma-aminobutyric acid signaling pathway; IBA:GO_Central.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008227};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Proteomics identification {ECO:0000213|PeptideAtlas:Q06AS6};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008227};
+KW   Transducer {ECO:0000256|SAAS:SAAS00754915}.
+SQ   SEQUENCE   355 AA;  40465 MW;  D8B65254FAF2091F CRC64;
+     MGCTVSAEDK AAAERSKMID KNLREDGEKA AREVKLLLLG AGESGKSTIV KQMKIIHEDG
+     YSEEECRQYR AVVYSNTIQS IMAIVKAMGN LQIDFADPSR ADDARQLFAL SCTAEEQGVL
+     PEDLSGVIRR LWADHGVQAC FGRSREYQLN DSAAYYLNDL ERIAQSDYIP TQQDVLRTRV
+     KTTGIVETHF TFKDLHFKMF DVGGQRSERK KWIHCFEGVT AIIFCVALSA YDLVLAEDEE
+     MNRMHESMKL FDSICNNKWF TDTSIILFLN KKDLFEEKIT HSPLTICFPE YTGANKYDEA
+     ASYIQSKFED LNKRKDTKEI YTHFTCATDT KNVQFVFDAV TDVIIKNNLK DCGLF
+//

@@ -1,0 +1,277 @@
+ID   GNAT3_RAT               Reviewed;         354 AA.
+AC   P29348;
+DT   01-DEC-1992, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 138.
+DE   RecName: Full=Guanine nucleotide-binding protein G(t) subunit alpha-3;
+DE   AltName: Full=Gustducin alpha-3 chain;
+GN   Name=Gnat3; Synonyms=Gnat-3;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, AND TISSUE SPECIFICITY.
+RC   STRAIN=Sprague-Dawley; TISSUE=Tongue;
+RX   PubMed=1608467; DOI=10.1038/357563a0;
+RA   McLaughlin S.K., McKinnon P.J., Margolskee R.F.;
+RT   "Gustducin is a taste-cell-specific G protein closely related to the
+RT   transducins.";
+RL   Nature 357:563-569(1992).
+RN   [2]
+RP   FUNCTION.
+RX   PubMed=7626029; DOI=10.1042/bj3090629;
+RA   Hoon M.A., Northup J.K., Margolskee R.F., Ryba N.J.P.;
+RT   "Functional expression of the taste specific G-protein, alpha-
+RT   gustducin.";
+RL   Biochem. J. 309:629-636(1995).
+RN   [3]
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=7596440; DOI=10.1038/376080a0;
+RA   Ruiz-Avila L., McLaughlin S.K., Wildman D., McKinnon P.J.,
+RA   Robichon A., Spickofsky N., Margolskee R.F.;
+RT   "Coupling of bitter receptor to phosphodiesterase through transducin
+RT   in taste receptor cells.";
+RL   Nature 376:80-85(1995).
+RN   [4]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=8692869; DOI=10.1073/pnas.93.13.6631;
+RA   Hoefer D., Pueschel B., Drenckhahn D.;
+RT   "Taste receptor-like cells in the rat gut identified by expression of
+RT   alpha-gustducin.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 93:6631-6634(1996).
+RN   [5]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=9092606;
+RA   Boughter J.D. Jr., Pumplin D.W., Yu C., Christy R.C., Smith D.V.;
+RT   "Differential expression of alpha-gustducin in taste bud populations
+RT   of the rat and hamster.";
+RL   J. Neurosci. 17:2852-2858(1997).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=10052456; DOI=10.1016/S0092-8674(00)80658-3;
+RA   Hoon M.A., Adler E., Lindemeier J., Battey J.F., Ryba N.J.P.,
+RA   Zuker C.S.;
+RT   "Putative mammalian taste receptors: a class of taste-specific GPCRs
+RT   with distinct topographic selectivity.";
+RL   Cell 96:541-551(1999).
+RN   [7]
+RP   DEVELOPMENTAL STAGE.
+RX   PubMed=10576254; DOI=10.1093/chemse/24.5.469;
+RA   Sbarbati A., Crescimanno C., Bernardi P., Osculati F.;
+RT   "Alpha-gustducin-immunoreactive solitary chemosensory cells in the
+RT   developing chemoreceptorial epithelium of the rat vallate papilla.";
+RL   Chem. Senses 24:469-472(1999).
+RN   [8]
+RP   TRANSGENE.
+RX   PubMed=10407021;
+RA   Wong G.T., Ruiz-Avila L., Margolskee R.F.;
+RT   "Directing gene expression to gustducin-positive taste receptor
+RT   cells.";
+RL   J. Neurosci. 19:5802-5809(1999).
+RN   [9]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=10940948;
+RX   DOI=10.1002/1096-9861(20000911)425:1<139::AID-CNE12>3.0.CO;2-#;
+RA   Yang R., Tabata S., Crowley H.H., Margolskee R.F., Kinnamon J.C.;
+RT   "Ultrastructural localization of gustducin immunoreactivity in
+RT   microvilli of type II taste cells in the rat.";
+RL   J. Comp. Neurol. 425:139-151(2000).
+RN   [10]
+RP   FUNCTION, AND MUTAGENESIS OF GLY-352.
+RX   PubMed=11447270; DOI=10.1073/pnas.151235798;
+RA   Ruiz-Avila L., Wong G.T., Damak S., Margolskee R.F.;
+RT   "Dominant loss of responsiveness to sweet and bitter compounds caused
+RT   by a single mutation in alpha-gustducin.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:8868-8873(2001).
+RN   [11]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=15654652; DOI=10.1007/s00441-004-1007-2;
+RA   Merigo F., Benati D., Tizzano M., Osculati F., Sbarbati A.;
+RT   "Alpha-gustducin immunoreactivity in the airways.";
+RL   Cell Tissue Res. 319:211-219(2005).
+RN   [12]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=15561439; DOI=10.1016/j.neuroscience.2004.09.017;
+RA   Shen T., Kaya N., Zhao F.-L., Lu S.-G., Cao Y., Herness S.;
+RT   "Co-expression patterns of the neuropeptides vasoactive intestinal
+RT   peptide and cholecystokinin with the transduction molecules alpha-
+RT   gustducin and T1R2 in rat taste receptor cells.";
+RL   Neuroscience 130:229-238(2005).
+RN   [13]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=17021831; DOI=10.1007/s00359-006-0168-8;
+RA   Fehr J., Meyer D., Widmayer P., Borth H.C., Ackermann F., Wilhelm B.,
+RA   Gudermann T., Boekhoff I.;
+RT   "Expression of the G-protein alpha-subunit gustducin in mammalian
+RT   spermatozoa.";
+RL   J. Comp. Physiol. A 193:21-34(2007).
+CC   -!- FUNCTION: Guanine nucleotide-binding protein (G protein) alpha
+CC       subunit playing a prominent role in bitter and sweet taste
+CC       transduction as well as in umami (monosodium glutamate,
+CC       monopotassium glutamate, and inosine monophosphate) taste
+CC       transduction. Transduction by this alpha subunit involves coupling
+CC       of specific cell-surface receptors with a cGMP-phosphodiesterase;
+CC       Activation of phosphodiesterase lowers intracellular levels of
+CC       cAMP and cGMP which may open a cyclic nucleotide-suppressible
+CC       cation channel leading to influx of calcium, ultimately leading to
+CC       release of neurotransmitter. Indeed, denatonium and strychnine
+CC       induce transient reduction in cAMP and cGMP in taste tissue,
+CC       whereas this decrease is inhibited by GNAT3 antibody. Gustducin
+CC       heterotrimer transduces response to bitter and sweet compounds via
+CC       regulation of phosphodiesterase for alpha subunit, as well as via
+CC       activation of phospholipase C for beta and gamma subunits, with
+CC       ultimate increase inositol trisphosphate and increase of
+CC       intracellular Calcium. GNAT3 can functionally couple to taste
+CC       receptors to transmit intracellular signal: receptor heterodimer
+CC       TAS1R2/TAS1R3 senses sweetness and TAS1R1/TAS1R3 transduces umami
+CC       taste, whereas the T2R family GPCRs act as bitter sensors.
+CC       Functions also as lumenal sugar sensors in the gut to control the
+CC       expression of the Na+-glucose transporter SGLT1 in response to
+CC       dietaty sugar, as well as the secretion of Glucagon-like peptide-
+CC       1, GLP-1 and glucose-dependent insulinotropic polypeptide, GIP.
+CC       Thus, may modulate the gut capacity to absorb sugars, with
+CC       implications for the prevention and treatment of malabsorption
+CC       syndromes and diet-related disorders including diabetes and
+CC       obesity. {ECO:0000269|PubMed:10052456,
+CC       ECO:0000269|PubMed:11447270, ECO:0000269|PubMed:1608467,
+CC       ECO:0000269|PubMed:7596440, ECO:0000269|PubMed:7626029}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma, respectively GNAT3, GNB1 and GNG13 for Gustducin
+CC       heterotrimer for bitter taste transduction. The alpha chain
+CC       contains the guanine nucleotide binding site. Gustducin
+CC       heterotrimer may also be composed of GNAT3, GNB3 and GNG13.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000269|PubMed:10940948}.
+CC       Note=Associated with microvilli, the presumed sites of sensory
+CC       transduction in taste cells.
+CC   -!- TISSUE SPECIFICITY: Expressed in taste buds (sensory organs of
+CC       clustered epithelial cells) of the circumvallate, foliate and
+CC       fungiform papillae of the tongue, as well as in nasoincisor,
+CC       palatal and epiglottal taste buds at protein level. Expressed in
+CC       enteroendocrine of the gut, in the lumenal pole of a subset of
+CC       brush cells lining the stomach and the intestine at protein level.
+CC       Detected in solitary cells throughout the respiratory track.
+CC       Expressed also in spermatozoa. {ECO:0000269|PubMed:15561439,
+CC       ECO:0000269|PubMed:15654652, ECO:0000269|PubMed:1608467,
+CC       ECO:0000269|PubMed:17021831, ECO:0000269|PubMed:8692869,
+CC       ECO:0000269|PubMed:9092606}.
+CC   -!- DEVELOPMENTAL STAGE: Expressed in scattered solitary ovoid or
+CC       bipolar cells among the oral epithelium from day 1-7, but with
+CC       higher frequency in the soft palate as compared with the
+CC       nasoincisor, circumvallate, and foliate papillae at day 1. During
+CC       the second week, the solitary cells could no longer be recognized
+CC       while cells expressing GNAT3 within the taste buds gradually
+CC       increased. The onset of taste transduction accomplished by the
+CC       palatal taste buds developed earlier than that achieved by taste
+CC       buds in the circumvallate and foliate papillae.
+CC       {ECO:0000269|PubMed:10576254}.
+CC   -!- INDUCTION: By bitter compounds denatonium and quinine.
+CC       {ECO:0000269|PubMed:7596440}.
+CC   -!- PTM: Potential N-myristoylation may anchor alpha-subunit to the
+CC       inner surface of plasma membrane.
+CC   -!- MISCELLANEOUS: Transgenic expression of GNAT3 restores
+CC       responsiveness of GNAT3 deficient mice to both bitter and sweet
+CC       compounds, whereas expression of mutated Gly-352 transgene do not.
+CC       Furthermore, in wild-type mice, this mutated transgene acts as
+CC       dominant-negative by inhibition of endogenous GNAT3 interactions
+CC       with taste receptors.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X65747; CAA46650.1; -; mRNA.
+DR   PIR; S24352; S24352.
+DR   RefSeq; NP_775162.1; NM_173139.1.
+DR   UniGene; Rn.10456; -.
+DR   ProteinModelPortal; P29348; -.
+DR   STRING; 10116.ENSRNOP00000007032; -.
+DR   iPTMnet; P29348; -.
+DR   PaxDb; P29348; -.
+DR   PRIDE; P29348; -.
+DR   Ensembl; ENSRNOT00000007032; ENSRNOP00000007032; ENSRNOG00000005268.
+DR   GeneID; 286924; -.
+DR   KEGG; rno:286924; -.
+DR   CTD; 346562; -.
+DR   RGD; 727817; Gnat3.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P29348; -.
+DR   KO; K19729; -.
+DR   OMA; KVHLSVC; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P29348; -.
+DR   Reactome; R-RNO-112043; PLC beta mediated events.
+DR   Reactome; R-RNO-170670; Adenylate cyclase inhibitory pathway.
+DR   Reactome; R-RNO-202040; G-protein activation.
+DR   Reactome; R-RNO-381771; Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1).
+DR   Reactome; R-RNO-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-RNO-418594; G alpha (i) signalling events.
+DR   Reactome; R-RNO-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   PRO; PR:P29348; -.
+DR   Proteomes; UP000002494; Chromosome 4.
+DR   Bgee; ENSRNOG00000005268; -.
+DR   Genevisible; P29348; RN.
+DR   GO; GO:0001669; C:acrosomal vesicle; IDA:RGD.
+DR   GO; GO:0016324; C:apical plasma membrane; IDA:RGD.
+DR   GO; GO:0005930; C:axoneme; IDA:RGD.
+DR   GO; GO:0005737; C:cytoplasm; IDA:RGD.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IDA:RGD.
+DR   GO; GO:0003924; F:GTPase activity; IDA:RGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0035094; P:response to nicotine; IEP:RGD.
+DR   GO; GO:0050913; P:sensory perception of bitter taste; IEA:Ensembl.
+DR   GO; GO:0050916; P:sensory perception of sweet taste; IBA:GO_Central.
+DR   GO; GO:0050917; P:sensory perception of umami taste; IEA:Ensembl.
+DR   GO; GO:0007601; P:visual perception; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Complete proteome; Cytoplasm; GTP-binding; Lipoprotein; Magnesium;
+KW   Metal-binding; Myristate; Nucleotide-binding; Reference proteome;
+KW   Sensory transduction; Taste; Transducer; Vision.
+FT   INIT_MET      1      1       Removed.
+FT   CHAIN         2    354       Guanine nucleotide-binding protein G(t)
+FT                                subunit alpha-3.
+FT                                /FTId=PRO_0000203743.
+FT   NP_BIND      40     47       GTP. {ECO:0000250}.
+FT   NP_BIND     175    181       GTP. {ECO:0000250}.
+FT   NP_BIND     200    204       GTP. {ECO:0000250}.
+FT   NP_BIND     269    272       GTP. {ECO:0000250}.
+FT   METAL        47     47       Magnesium. {ECO:0000250}.
+FT   METAL       181    181       Magnesium. {ECO:0000250}.
+FT   BINDING     326    326       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine. {ECO:0000250}.
+FT   MUTAGEN     352    352       G->P: Loss of activation by both bitter
+FT                                and sweet compounds due to disruption of
+FT                                interaction with taste receptors.
+FT                                {ECO:0000269|PubMed:11447270}.
+SQ   SEQUENCE   354 AA;  40294 MW;  3B7260BBCB0448D6 CRC64;
+     MGSGISSESK ESAKRSKELE KKLQEDAERD ARTVKLLLLG AGESGKSTIV KQMKIIHKNG
+     YSKQECMEFK AVVYSNTLQS ILAIVKAMTT LGIDYVNPRS REDQQLLLSM ANTLEDGDMT
+     PQLAEIIKRL WGDPGIQACF ERASEYQLND SAAYYLNDLD RLTAPGYVPN EQDVLHSRVK
+     TTGIIETQFS FKDLNFRMFD VGGQRSERKK WIHCFEGVTC IIFCAALSAY DMVLVEDEEV
+     NRMHESLHLF NSICNHKYFA TTSIVLFLNK KDLFQEKVTK VHLSICFPEY TGPNTFEDAG
+     NYIKNQFLDL NLKKEDKEIY SHMTCATDTQ NVKFVFDAVT DIIIKENLKD CGLF
+//

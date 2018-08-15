@@ -1,0 +1,96 @@
+ID   W5PS49_SHEEP            Unreviewed;       301 AA.
+AC   W5PS49;
+DT   16-APR-2014, integrated into UniProtKB/TrEMBL.
+DT   16-APR-2014, sequence version 1.
+DT   28-MAR-2018, entry version 22.
+DE   SubName: Full=G protein subunit alpha q {ECO:0000313|Ensembl:ENSOARP00000013278};
+GN   Name=GNAQ {ECO:0000313|Ensembl:ENSOARP00000013278};
+OS   Ovis aries (Sheep).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Caprinae; Ovis.
+OX   NCBI_TaxID=9940 {ECO:0000313|Ensembl:ENSOARP00000013278, ECO:0000313|Proteomes:UP000002356};
+RN   [1] {ECO:0000313|Ensembl:ENSOARP00000013278, ECO:0000313|Proteomes:UP000002356}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Texel {ECO:0000313|Ensembl:ENSOARP00000013278};
+RX   PubMed=20809919; DOI=10.1111/j.1365-2052.2010.02100.x;
+RA   Archibald A.L., Cockett N.E., Dalrymple B.P., Faraut T., Kijas J.W.,
+RA   Maddox J.F., McEwan J.C., Hutton Oddy V., Raadsma H.W., Wade C.,
+RA   Wang J., Wang W., Xun X.;
+RT   "The sheep genome reference sequence: a work in progress.";
+RL   Anim. Genet. 41:449-453(2010).
+RN   [2] {ECO:0000313|Ensembl:ENSOARP00000013278}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (FEB-2014) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AMGL01049237; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AMGL01049238; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AMGL01049239; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AMGL01049240; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AMGL01049241; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AMGL01049242; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AMGL01049243; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AMGL01049244; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AMGL01049245; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AMGL01049246; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   Ensembl; ENSOART00000013473; ENSOARP00000013278; ENSOARG00000012393.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   OMA; WRFTQTN; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   Proteomes; UP000002356; Chromosome 2.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0005622; C:intracellular; IEA:GOC.
+DR   GO; GO:0016020; C:membrane; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0005096; F:GTPase activator activity; IEA:Ensembl.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0001508; P:action potential; IEA:Ensembl.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0048066; P:developmental pigmentation; IEA:Ensembl.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IEA:Ensembl.
+DR   GO; GO:0021884; P:forebrain neuron development; IEA:Ensembl.
+DR   GO; GO:0007215; P:glutamate receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007507; P:heart development; IEA:Ensembl.
+DR   GO; GO:0042711; P:maternal behavior; IEA:Ensembl.
+DR   GO; GO:0006469; P:negative regulation of protein kinase activity; IEA:Ensembl.
+DR   GO; GO:0016322; P:neuron remodeling; IEA:Ensembl.
+DR   GO; GO:0060158; P:phospholipase C-activating dopamine receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0009791; P:post-embryonic development; IEA:Ensembl.
+DR   GO; GO:0050821; P:protein stabilization; IEA:Ensembl.
+DR   GO; GO:0035412; P:regulation of catenin import into nucleus; IEA:Ensembl.
+DR   GO; GO:0045634; P:regulation of melanocyte differentiation; IEA:Ensembl.
+DR   GO; GO:0001501; P:skeletal system development; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000654; Gprotein_alpha_Q.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00442; GPROTEINAQ.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002356};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002356}.
+SQ   SEQUENCE   301 AA;  35422 MW;  0CB22D4CC93DBBD3 CRC64;
+     MRIIHGSGYS DEDKRGFTKL VYQNIFTAMQ AMIRAMDTLK IPYKYEHNKA HAQLVREVDV
+     EKVSAFENPY VDAIKSLWND PGIQECYDRR REYQLSDSTK YYLNDLDRVA DPAYLPTQQD
+     VLRVRVPTTG IIEYPFDLQS VIFRMVDVGG QRSERRKWIH CFENVTSIMF LVALSEYDQV
+     LVESDNENRM EESKALFRTI ITYPWFQNSS VILFLNKKDL LEEKIMYSHL VDYFPEYDGP
+     QRDAQAAREF ILKMFVDLNP DSDKIIYSHF TCATDTENIR FVFAAVKDTI LQLNLKEYNL
+     V
+//

@@ -1,0 +1,85 @@
+ID   G3W0S8_SARHA            Unreviewed;       390 AA.
+AC   G3W0S8;
+DT   16-NOV-2011, integrated into UniProtKB/TrEMBL.
+DT   16-NOV-2011, sequence version 1.
+DT   28-MAR-2018, entry version 42.
+DE   SubName: Full=G protein subunit alpha L {ECO:0000313|Ensembl:ENSSHAP00000009033};
+GN   Name=GNAL {ECO:0000313|Ensembl:ENSSHAP00000009033};
+OS   Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Metatheria; Dasyuromorphia; Dasyuridae; Sarcophilus.
+OX   NCBI_TaxID=9305 {ECO:0000313|Ensembl:ENSSHAP00000009033, ECO:0000313|Proteomes:UP000007648};
+RN   [1] {ECO:0000313|Ensembl:ENSSHAP00000009033}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=21709235; DOI=10.1073/pnas.1102838108;
+RA   Miller W., Hayes V.M., Ratan A., Petersen D.C., Wittekindt N.E.,
+RA   Miller J., Walenz B., Knight J., Qi J., Zhao F., Wang Q.,
+RA   Bedoya-Reina O.C., Katiyar N., Tomsho L.P., Kasson L.M., Hardie R.A.,
+RA   Woodbridge P., Tindall E.A., Bertelsen M.F., Dixon D., Pyecroft S.,
+RA   Helgen K.M., Lesk A.M., Pringle T.H., Patterson N., Zhang Y.,
+RA   Kreiss A., Woods G.M., Jones M.E., Schuster S.C.;
+RT   "Genetic diversity and population structure of the endangered
+RT   marsupial Sarcophilus harrisii (Tasmanian devil).";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:12348-12353(2011).
+RN   [2] {ECO:0000313|Ensembl:ENSSHAP00000009033}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (SEP-2011) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AEFK01061497; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEFK01061498; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEFK01061499; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEFK01061500; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEFK01061501; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEFK01061502; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEFK01061503; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEFK01061504; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEFK01061505; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AEFK01061506; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   STRING; 9305.ENSSHAP00000009033; -.
+DR   Ensembl; ENSSHAT00000009108; ENSSHAP00000009033; ENSSHAG00000007821.
+DR   eggNOG; KOG0099; Eukaryota.
+DR   eggNOG; ENOG410XPC4; LUCA.
+DR   GeneTree; ENSGT00910000144108; -.
+DR   InParanoid; G3W0S8; -.
+DR   OMA; QENRATC; -.
+DR   OrthoDB; EOG091G0CAY; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000007648; Unassembled WGS sequence.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000367; Gprotein_alpha_S.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00443; GPROTEINAS.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000007648};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000007648}.
+FT   COILED       14     34       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   390 AA;  45394 MW;  44958115DDA53F3E CRC64;
+     MGCLGNSKTE DQRLDEKERR EANKKIEKQL QKERLAYKAT HRLLLLGAGE SGKSTIVKQM
+     RILHVNGFNP EEKKQKILDI RKNVKDAIVT IVSAMSTLIP PVPLANPDNQ FRSDYIKSIA
+     PLSDFDYSQE FFDHVKKLWD DEGVKACFER SNEYQLIDCA QYFLERIDSV SLIDYTPTDQ
+     DLLRCRVLTS GIFETRFQVD KVNFHMFDVG GQRDERRKWI QCFNDVTAII YVAACSSYNM
+     VIREDNNTNR LRESLDLFKS IWNNRWLRTI SIILFLNKQD MLAEKVLAGK SKIEDYFPEY
+     ANYTVPEDAT PDAGEDPKVT RAKFFIRDEF LRISTATGDG KHYCYPHFTC AVDTENIRRV
+     FNDCRDIIQR MHLKHLCTLN LKTGHSPSHY
+//

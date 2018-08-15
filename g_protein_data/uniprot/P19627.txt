@@ -1,0 +1,132 @@
+ID   GNAZ_RAT                Reviewed;         355 AA.
+AC   P19627;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 146.
+DE   RecName: Full=Guanine nucleotide-binding protein G(z) subunit alpha;
+DE   AltName: Full=G(x) alpha chain;
+DE   AltName: Full=Gz-alpha;
+GN   Name=Gnaz;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2456569; DOI=10.1073/pnas.85.15.5384;
+RA   Matsuoka M., Itoh H., Kozasa T., Kaziro Y.;
+RT   "Sequence analysis of cDNA and genomic DNA for a putative pertussis
+RT   toxin-insensitive guanine nucleotide-binding regulatory protein alpha
+RT   subunit.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 85:5384-5388(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Chang P.-Y., Poncz M., Zhang H., Brass L.F., Manning D.R.;
+RT   "Rat alpha-z gene.";
+RL   Submitted (NOV-1996) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site.
+CC   -!- SUBCELLULAR LOCATION: Membrane; Lipid-anchor.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; J03773; AAA41304.1; -; mRNA.
+DR   EMBL; U77485; AAD09877.1; -; Genomic_DNA.
+DR   EMBL; U77484; AAD09877.1; JOINED; Genomic_DNA.
+DR   PIR; A31316; RGRTGX.
+DR   RefSeq; NP_037321.1; NM_013189.2.
+DR   RefSeq; XP_008771088.1; XM_008772866.1.
+DR   RefSeq; XP_008771089.1; XM_008772867.1.
+DR   UniGene; Rn.10943; -.
+DR   ProteinModelPortal; P19627; -.
+DR   BioGrid; 247768; 1.
+DR   STRING; 10116.ENSRNOP00000001779; -.
+DR   iPTMnet; P19627; -.
+DR   SwissPalm; P19627; -.
+DR   PaxDb; P19627; -.
+DR   PRIDE; P19627; -.
+DR   Ensembl; ENSRNOT00000001779; ENSRNOP00000001779; ENSRNOG00000001313.
+DR   GeneID; 25740; -.
+DR   KEGG; rno:25740; -.
+DR   UCSC; RGD:2717; rat.
+DR   CTD; 2781; -.
+DR   RGD; 2717; Gnaz.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P19627; -.
+DR   KO; K04535; -.
+DR   OMA; NIVETGK; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P19627; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-RNO-112043; PLC beta mediated events.
+DR   Reactome; R-RNO-202040; G-protein activation.
+DR   Reactome; R-RNO-418597; G alpha (z) signalling events.
+DR   Reactome; R-RNO-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   PRO; PR:P19627; -.
+DR   Proteomes; UP000002494; Chromosome 20.
+DR   Bgee; ENSRNOG00000001313; -.
+DR   Genevisible; P19627; RN.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0005829; C:cytosol; IDA:RGD.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; TAS:RGD.
+DR   GO; GO:0005886; C:plasma membrane; IDA:RGD.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0031821; F:G-protein coupled serotonin receptor binding; IPI:RGD.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; TAS:RGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007193; P:adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway; IMP:RGD.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IMP:RGD.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; GTP-binding; Lipoprotein; Magnesium; Membrane;
+KW   Metal-binding; Myristate; Nucleotide-binding; Palmitate;
+KW   Reference proteome; Transducer.
+FT   INIT_MET      1      1       Removed. {ECO:0000305}.
+FT   CHAIN         2    355       Guanine nucleotide-binding protein G(z)
+FT                                subunit alpha.
+FT                                /FTId=PRO_0000203698.
+FT   NP_BIND      40     47       GTP. {ECO:0000250}.
+FT   NP_BIND     176    182       GTP. {ECO:0000250}.
+FT   NP_BIND     201    205       GTP. {ECO:0000250}.
+FT   NP_BIND     270    273       GTP. {ECO:0000250}.
+FT   METAL        47     47       Magnesium. {ECO:0000250}.
+FT   METAL       182    182       Magnesium. {ECO:0000250}.
+FT   BINDING     327    327       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine. {ECO:0000250}.
+FT   LIPID         3      3       S-palmitoyl cysteine. {ECO:0000250}.
+SQ   SEQUENCE   355 AA;  40880 MW;  0C268D8A3DDF8136 CRC64;
+     MGCRQSSEEK EAARRSRRID RHLRSESQRQ RREIKLLLLG TSNSGKSTIV KQMKIIHSGG
+     FNLEACKEYK PLIIYNAIDS LTRIIRALAA LKIDFHNPDR AYDAVQLFAL TGPAESKGEI
+     TPELLGVMRR LWADPGAQAC FGRSSEYHLE DNAAYYLNDL ERIAAPDYIP TVEDILRSRD
+     MTTGIVENKF TFKELTFKMV DVGGQRSERK KWIHCFEGVT AIIFCVELSG YDLKLYEDNQ
+     TSRMAESLRL FDSICNNNWF INTSLILFLN KKDLLSEKIR RIPLSVCFPE YKGQNTYEEA
+     AVYIQRQFED LNRNKETKEI YSHFTCATDT SNIQFVFDAV TDVIIQNNLK YIGLC
+//

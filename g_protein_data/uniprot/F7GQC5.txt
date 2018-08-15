@@ -1,0 +1,133 @@
+ID   F7GQC5_MACMU            Unreviewed;       354 AA.
+AC   F7GQC5;
+DT   27-JUL-2011, integrated into UniProtKB/TrEMBL.
+DT   27-JUL-2011, sequence version 1.
+DT   25-APR-2018, entry version 60.
+DE   SubName: Full=G protein subunit alpha o1 {ECO:0000313|Ensembl:ENSMMUP00000026158};
+DE   SubName: Full=Guanine nucleotide-binding protein G(O) subunit alpha isoform a {ECO:0000313|EMBL:AFE63412.1};
+GN   Name=GNAO1 {ECO:0000313|EMBL:AFE63412.1,
+GN   ECO:0000313|Ensembl:ENSMMUP00000026158};
+OS   Macaca mulatta (Rhesus macaque).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+OX   NCBI_TaxID=9544 {ECO:0000313|Ensembl:ENSMMUP00000026158, ECO:0000313|Proteomes:UP000006718};
+RN   [1] {ECO:0000313|Ensembl:ENSMMUP00000026158, ECO:0000313|Proteomes:UP000006718}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=17573 {ECO:0000313|Ensembl:ENSMMUP00000026158,
+RC   ECO:0000313|Proteomes:UP000006718};
+RX   PubMed=17431167; DOI=10.1126/science.1139247;
+RA   Gibbs R.A., Rogers J., Katze M.G., Bumgarner R., Weinstock G.M.,
+RA   Mardis E.R., Remington K.A., Strausberg R.L., Venter J.C.,
+RA   Wilson R.K., Batzer M.A., Bustamante C.D., Eichler E.E., Hahn M.W.,
+RA   Hardison R.C., Makova K.D., Miller W., Milosavljevic A., Palermo R.E.,
+RA   Siepel A., Sikela J.M., Attaway T., Bell S., Bernard K.E., Buhay C.J.,
+RA   Chandrabose M.N., Dao M., Davis C., Delehaunty K.D., Ding Y.,
+RA   Dinh H.H., Dugan-Rocha S., Fulton L.A., Gabisi R.A., Garner T.T.,
+RA   Godfrey J., Hawes A.C., Hernandez J., Hines S., Holder M., Hume J.,
+RA   Jhangiani S.N., Joshi V., Khan Z.M., Kirkness E.F., Cree A.,
+RA   Fowler R.G., Lee S., Lewis L.R., Li Z., Liu Y.-S., Moore S.M.,
+RA   Muzny D., Nazareth L.V., Ngo D.N., Okwuonu G.O., Pai G., Parker D.,
+RA   Paul H.A., Pfannkoch C., Pohl C.S., Rogers Y.-H.C., Ruiz S.J.,
+RA   Sabo A., Santibanez J., Schneider B.W., Smith S.M., Sodergren E.,
+RA   Svatek A.F., Utterback T.R., Vattathil S., Warren W., White C.S.,
+RA   Chinwalla A.T., Feng Y., Halpern A.L., Hillier L.W., Huang X.,
+RA   Minx P., Nelson J.O., Pepin K.H., Qin X., Sutton G.G., Venter E.,
+RA   Walenz B.P., Wallis J.W., Worley K.C., Yang S.-P., Jones S.M.,
+RA   Marra M.A., Rocchi M., Schein J.E., Baertsch R., Clarke L., Csuros M.,
+RA   Glasscock J., Harris R.A., Havlak P., Jackson A.R., Jiang H., Liu Y.,
+RA   Messina D.N., Shen Y., Song H.X.-Z., Wylie T., Zhang L., Birney E.,
+RA   Han K., Konkel M.K., Lee J., Smit A.F.A., Ullmer B., Wang H., Xing J.,
+RA   Burhans R., Cheng Z., Karro J.E., Ma J., Raney B., She X., Cox M.J.,
+RA   Demuth J.P., Dumas L.J., Han S.-G., Hopkins J., Karimpour-Fard A.,
+RA   Kim Y.H., Pollack J.R., Vinar T., Addo-Quaye C., Degenhardt J.,
+RA   Denby A., Hubisz M.J., Indap A., Kosiol C., Lahn B.T., Lawson H.A.,
+RA   Marklein A., Nielsen R., Vallender E.J., Clark A.G., Ferguson B.,
+RA   Hernandez R.D., Hirani K., Kehrer-Sawatzki H., Kolb J., Patil S.,
+RA   Pu L.-L., Ren Y., Smith D.G., Wheeler D.A., Schenck I., Ball E.V.,
+RA   Chen R., Cooper D.N., Giardine B., Hsu F., Kent W.J., Lesk A.,
+RA   Nelson D.L., O'brien W.E., Pruefer K., Stenson P.D., Wallace J.C.,
+RA   Ke H., Liu X.-M., Wang P., Xiang A.P., Yang F., Barber G.P.,
+RA   Haussler D., Karolchik D., Kern A.D., Kuhn R.M., Smith K.E.,
+RA   Zwieg A.S.;
+RT   "Evolutionary and biomedical insights from the rhesus macaque
+RT   genome.";
+RL   Science 316:222-234(2007).
+RN   [2] {ECO:0000313|Ensembl:ENSMMUP00000026158}
+RP   IDENTIFICATION.
+RC   STRAIN=17573 {ECO:0000313|Ensembl:ENSMMUP00000026158};
+RG   Ensembl;
+RL   Submitted (JUL-2011) to UniProtKB.
+RN   [3] {ECO:0000313|EMBL:AFE63412.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   TISSUE=Caudate {ECO:0000313|EMBL:AFE63412.1};
+RX   PubMed=25319552; DOI=10.1186/1745-6150-9-20;
+RA   Zimin A.V., Cornish A.S., Maudhoo M.D., Gibbs R.M., Zhang X.,
+RA   Pandey S., Meehan D.T., Wipfler K., Bosinger S.E., Johnson Z.P.,
+RA   Tharp G.K., Marcais G., Roberts M., Ferguson B., Fox H.S.,
+RA   Treangen T., Salzberg S.L., Yorke J.A., Norgren R.B.Jr.;
+RT   "A new rhesus macaque assembly and annotation for next-generation
+RT   sequencing analyses.";
+RL   Biol. Direct 9:20-20(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JSUE03026258; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; JU319656; AFE63412.1; -; mRNA.
+DR   EMBL; JU319657; AFE63413.1; -; mRNA.
+DR   RefSeq; NP_001182358.1; NM_001195429.1.
+DR   RefSeq; XP_014981639.1; XM_015126153.1.
+DR   UniGene; Mmu.4426; -.
+DR   SMR; F7GQC5; -.
+DR   STRING; 9544.ENSMMUP00000026158; -.
+DR   Ensembl; ENSMMUT00000027960; ENSMMUP00000026158; ENSMMUG00000019900.
+DR   GeneID; 574394; -.
+DR   KEGG; mcc:574394; -.
+DR   CTD; 2775; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   KO; K04534; -.
+DR   OMA; VARMEDT; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000006718; Chromosome 20.
+DR   Bgee; ENSMMUG00000019900; -.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0043209; C:myelin sheath; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:Ensembl.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0007212; P:dopamine receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007626; P:locomotory behavior; IEA:Ensembl.
+DR   GO; GO:0008016; P:regulation of heart contraction; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006718};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006718};
+KW   Transducer {ECO:0000256|SAAS:SAAS00754915}.
+SQ   SEQUENCE   354 AA;  40051 MW;  4F182926A8106E3E CRC64;
+     MGCTLSAEER AALERSKAIE KNLKEDGISA AKDVKLLLLG AGESGKSTIV KQMKIIHEDG
+     FSGEDVKQYK PVVYSNTIQS LAAIVRAMDT LGIEYGDKER KADAKMVCDV VSRMEDTEPF
+     SAELLSAMMR LWGDSGIQEC FNRSREYQLN DSAKYYLDSL DRIGAADYQP TEQDILRTRV
+     KTTGIVETHF TFKNLHFRLF DVGGQRSERK KWIHCFEDVT AIIFCVALSG YDQVLHEDET
+     TNRMHESLML FDSICNNKFF IDTSIILFLN KKDLFGEKIK KSPLTICFPE YTGPNTYEDA
+     AAYIQAQFES KNRSPNKEIY CHMTCATDTN NIQVVFDAVT DIIIANNLRG CGLY
+//

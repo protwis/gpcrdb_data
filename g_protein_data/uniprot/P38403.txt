@@ -1,0 +1,147 @@
+ID   GNAI3_CAVPO             Reviewed;         354 AA.
+AC   P38403;
+DT   01-OCT-1994, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 122.
+DE   RecName: Full=Guanine nucleotide-binding protein G(k) subunit alpha;
+DE   AltName: Full=G(i) alpha-3;
+GN   Name=GNAI3;
+OS   Cavia porcellus (Guinea pig).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+OC   Hystricognathi; Caviidae; Cavia.
+OX   NCBI_TaxID=10141;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND TISSUE SPECIFICITY.
+RC   STRAIN=Hartley; TISSUE=Lung;
+RX   PubMed=1482697; DOI=10.1016/0167-4889(92)90009-Z;
+RA   Sakanaka C., Izumi T., Nakamura M., Honda Z., Watanabe T., Minami M.,
+RA   Mutoh H., Bito H., Seyama Y., Ui M., Shimizu T.;
+RT   "Three types of Gi alpha protein of the guinea-pig lung: cDNA cloning
+RT   and analysis of their tissue distribution.";
+RL   Biochim. Biophys. Acta 1175:61-66(1992).
+CC   -!- FUNCTION: Heterotrimeric guanine nucleotide-binding proteins (G
+CC       proteins) function as transducers downstream of G protein-coupled
+CC       receptors (GPCRs) in numerous signaling cascades. The alpha chain
+CC       contains the guanine nucleotide binding site and alternates
+CC       between an active, GTP-bound state and an inactive, GDP-bound
+CC       state. Signaling by an activated GPCR promotes GDP release and GTP
+CC       binding. The alpha subunit has a low GTPase activity that converts
+CC       bound GTP to GDP, thereby terminating the signal. Both GDP release
+CC       and GTP hydrolysis are modulated by numerous regulatory proteins.
+CC       Signaling is mediated via effector proteins, such as adenylate
+CC       cyclase. Inhibits adenylate cyclase activity, leading to decreased
+CC       intracellular cAMP levels. Stimulates the activity of receptor-
+CC       regulated K(+) channels. The active GTP-bound form prevents the
+CC       association of RGS14 with centrosomes and is required for the
+CC       translocation of RGS14 from the cytoplasm to the plasma membrane.
+CC       May play a role in cell division. {ECO:0000250|UniProtKB:P08754}.
+CC   -!- SUBUNIT: Heterotrimeric G proteins are composed of 3 units; alpha,
+CC       beta and gamma. The alpha subunit contains the guanine nucleotide
+CC       binding site. GTP binding causes dissociation of the heterotrimer,
+CC       liberating the individual subunits so that they can interact with
+CC       downstream effector proteins. Interacts with GPSM1 (By
+CC       similarity). Interacts (GDP-bound form) with GPSM2 (via GoLoco
+CC       domains). Does not interact with RGS2. Interacts with RGS8 and
+CC       RGS10; this strongly enhances the intrinsic GTPase activity.
+CC       Interacts with RGS12 (By similarity). Interacts with RGS16; this
+CC       strongly enhances the intrinsic GTPase activity (By similarity).
+CC       Interacts (via active GTP- or inactive GDP-bound form) with RGS14
+CC       (By similarity). {ECO:0000250|UniProtKB:P08753,
+CC       ECO:0000250|UniProtKB:P08754, ECO:0000250|UniProtKB:Q9DC51}.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250|UniProtKB:P08754}.
+CC       Cell membrane {ECO:0000250|UniProtKB:P08754}. Cytoplasm,
+CC       cytoskeleton, microtubule organizing center, centrosome
+CC       {ECO:0000250|UniProtKB:P08754}. Membrane
+CC       {ECO:0000250|UniProtKB:P08754}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P08754}. Note=Localizes in the centrosomes
+CC       of interphase and mitotic cells. Detected at the cleavage furrow
+CC       and/or the midbody. {ECO:0000250|UniProtKB:P08754}.
+CC   -!- TISSUE SPECIFICITY: Ubiquitously expressed.
+CC       {ECO:0000269|PubMed:1482697}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D21234; BAA04766.1; -; mRNA.
+DR   PIR; S28159; S28159.
+DR   RefSeq; NP_001166426.1; NM_001172955.1.
+DR   RefSeq; XP_005007809.1; XM_005007752.2.
+DR   ProteinModelPortal; P38403; -.
+DR   STRING; 10141.ENSCPOP00000010346; -.
+DR   PRIDE; P38403; -.
+DR   Ensembl; ENSCPOT00000011611; ENSCPOP00000010346; ENSCPOG00000011504.
+DR   GeneID; 100135530; -.
+DR   CTD; 2773; -.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P38403; -.
+DR   OMA; TKEVYTH; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000005447; Unassembled WGS sequence.
+DR   GO; GO:0005813; C:centrosome; ISS:UniProtKB.
+DR   GO; GO:0005737; C:cytoplasm; ISS:UniProtKB.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0005794; C:Golgi apparatus; IEA:Ensembl.
+DR   GO; GO:0005765; C:lysosomal membrane; IEA:Ensembl.
+DR   GO; GO:0030496; C:midbody; ISS:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; ISS:UniProtKB.
+DR   GO; GO:0019003; F:GDP binding; ISS:UniProtKB.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; ISS:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007193; P:adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0051301; P:cell division; ISS:UniProtKB.
+DR   GO; GO:0007212; P:dopamine receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0046039; P:GTP metabolic process; ISS:UniProtKB.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Cell cycle; Cell division; Cell membrane; Complete proteome;
+KW   Cytoplasm; Cytoskeleton; GTP-binding; Lipoprotein; Magnesium;
+KW   Membrane; Metal-binding; Myristate; Nucleotide-binding; Palmitate;
+KW   Reference proteome; Transducer.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P08754}.
+FT   CHAIN         2    354       Guanine nucleotide-binding protein G(k)
+FT                                subunit alpha.
+FT                                /FTId=PRO_0000203690.
+FT   NP_BIND      43     48       GTP. {ECO:0000250|UniProtKB:P08754}.
+FT   NP_BIND     150    151       GTP. {ECO:0000250|UniProtKB:P08754}.
+FT   NP_BIND     175    181       GTP. {ECO:0000250|UniProtKB:P08754}.
+FT   NP_BIND     200    204       GTP. {ECO:0000250|UniProtKB:P08754}.
+FT   NP_BIND     269    272       GTP. {ECO:0000250|UniProtKB:P08754}.
+FT   METAL        47     47       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P08754}.
+FT   METAL       181    181       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P08754}.
+FT   BINDING     326    326       GTP; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P08754}.
+FT   LIPID         2      2       N-myristoyl glycine.
+FT                                {ECO:0000250|UniProtKB:P08754}.
+FT   LIPID         3      3       S-palmitoyl cysteine. {ECO:0000250}.
+SQ   SEQUENCE   354 AA;  40604 MW;  CE913BFF010C5C30 CRC64;
+     MGCTLSAEDK AAVERSKMID RNLREDGEKA AKEVKLLLLG AGESGKSTIV KQMKIIHEDG
+     YSEEECKQYK VVVYSNTIQS IIAIIRAMGR LKIDFGEPAR ADDARQLFVL AGSAEEGLMT
+     SELAGVIRRL WRDGGVQACF SRSREYQLND SASYYLNDLD RISQTNYIPT QQDVLRTRVK
+     TTGIVETHFT FKDLYFKMFD VGGQRSERKK WIHCFEGVTA IIFCVALSDY DLVLAEDEEM
+     NRMHESMKLF DSICNNKWFT DTSIILFLNK KDLFEEKIKR SPLTICYPEY TGSNTYEEAA
+     AYIQCQFEDL NRRKDTKEIY THFTCATDTK NVQFVFDAVT DVIIKNNLKE CGLY
+//

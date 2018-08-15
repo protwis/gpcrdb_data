@@ -1,0 +1,77 @@
+ID   M3YT04_MUSPF            Unreviewed;       284 AA.
+AC   M3YT04;
+DT   01-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-2013, sequence version 1.
+DT   28-MAR-2018, entry version 32.
+DE   SubName: Full=G protein subunit alpha 13 {ECO:0000313|Ensembl:ENSMPUP00000014464};
+GN   Name=GNA13 {ECO:0000313|Ensembl:ENSMPUP00000014464};
+OS   Mustela putorius furo (European domestic ferret) (Mustela furo).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Mustelidae;
+OC   Mustelinae; Mustela.
+OX   NCBI_TaxID=9669 {ECO:0000313|Ensembl:ENSMPUP00000014464, ECO:0000313|Proteomes:UP000000715};
+RN   [1] {ECO:0000313|Ensembl:ENSMPUP00000014464}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ID#1420 {ECO:0000313|Ensembl:ENSMPUP00000014464};
+RA   Di Palma F., Alfoldi J., Johnson J., Jaffe D., Berlin A., Gnerre S.,
+RA   Grabherr M., Hall G., Lara M., MacCallum I., Mauceli E.,
+RA   Przyblyski D., Ribeiro F., Russell P., Sharpe T., Turner-Maier J.,
+RA   Walker B.J., Young S., Birren B., Lindblad-Toh K.;
+RL   Submitted (APR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSMPUP00000014464}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (MAR-2013) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AEYP01025611; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   STRING; 9669.ENSMPUP00000014464; -.
+DR   Ensembl; ENSMPUT00000014697; ENSMPUP00000014464; ENSMPUG00000014575.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   InParanoid; M3YT04; -.
+DR   OMA; CFPGCVL; -.
+DR   OrthoDB; EOG091G0NV2; -.
+DR   Proteomes; UP000000715; Unassembled WGS sequence.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0001569; P:branching involved in blood vessel morphogenesis; IEA:Ensembl.
+DR   GO; GO:0030154; P:cell differentiation; IEA:Ensembl.
+DR   GO; GO:0001701; P:in utero embryonic development; IEA:Ensembl.
+DR   GO; GO:0030168; P:platelet activation; IEA:Ensembl.
+DR   GO; GO:0030334; P:regulation of cell migration; IEA:Ensembl.
+DR   GO; GO:0008360; P:regulation of cell shape; IEA:Ensembl.
+DR   GO; GO:0007266; P:Rho protein signal transduction; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000469; Gprotein_alpha_12/13.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00440; GPROTEINA12.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000000715};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000000715}.
+SQ   SEQUENCE   284 AA;  33328 MW;  5A0FF73C9EEA6583 CRC64;
+     KGMRVLVDAR EKLHIPWGDN SNQANGDKMM AFDTRSSSAS QGMVETQVFL QYLPVIRALW
+     ADSGIQNAYD RRREFQLGES VKYFLDNLDK LGEADYIPSQ QDILLARRPT KGIHEYDFEI
+     KNVPFKMVDV GGQRSERKRW FECFDSVTSI LFLVSSSEFD QVLMEDRLTN RLTESLNIFE
+     TIVNNRVFSN VSIILFLNKT DLLEEKVQIV SIKDYFLEFE GDPHCLRDVQ KFLVECFRNK
+     RRDQQQKPLY HHFTTAINTE NIRLVFRDVK DTILHDNLKQ LMLQ
+//

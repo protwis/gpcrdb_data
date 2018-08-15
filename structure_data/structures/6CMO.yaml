@@ -1,0 +1,13 @@
+auxiliary_protein: 'Fab'
+construct: 6cmo
+distance: 9.40
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 6CMO
+preferred_chain: R
+signaling_protein: Gi
+state: Active

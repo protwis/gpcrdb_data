@@ -1,0 +1,145 @@
+ID   GNAT2_MOUSE             Reviewed;         354 AA.
+AC   P50149;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   05-OCT-2016, entry version 143.
+DE   RecName: Full=Guanine nucleotide-binding protein G(t) subunit alpha-2;
+DE   AltName: Full=Transducin alpha-2 chain;
+GN   Name=Gnat2;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=BALB/cJ; TISSUE=Retina;
+RX   PubMed=8013366; DOI=10.1210/en.135.1.31;
+RA   Zigman J.M., Westermark G.T., LaMendola J., Steiner D.F.;
+RT   "Expression of cone transducin, Gz alpha, and other G-protein alpha-
+RT   subunit messenger ribonucleic acids in pancreatic islets.";
+RL   Endocrinology 135:31-37(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Eye;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. Transducin is an amplifier and one of the
+CC       transducers of a visual impulse that performs the coupling between
+CC       rhodopsin and cGMP-phosphodiesterase.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site.
+CC   -!- TISSUE SPECIFICITY: Retinal rod outer segment.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L10666; AAC37650.1; -; mRNA.
+DR   EMBL; BC016272; AAH16272.1; -; mRNA.
+DR   CCDS; CCDS17750.1; -.
+DR   RefSeq; NP_032167.1; NM_008141.3.
+DR   RefSeq; XP_006501071.1; XM_006501008.2.
+DR   UniGene; Mm.439652; -.
+DR   ProteinModelPortal; P50149; -.
+DR   SMR; P50149; 1-354.
+DR   IntAct; P50149; 2.
+DR   STRING; 10090.ENSMUSP00000053818; -.
+DR   iPTMnet; P50149; -.
+DR   EPD; P50149; -.
+DR   MaxQB; P50149; -.
+DR   PaxDb; P50149; -.
+DR   PRIDE; P50149; -.
+DR   Ensembl; ENSMUST00000058669; ENSMUSP00000053818; ENSMUSG00000009108.
+DR   GeneID; 14686; -.
+DR   KEGG; mmu:14686; -.
+DR   UCSC; uc008qyc.2; mouse.
+DR   CTD; 2780; -.
+DR   MGI; MGI:95779; Gnat2.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   HOGENOM; HOG000038730; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P50149; -.
+DR   KO; K04631; -.
+DR   OMA; ECLEYKA; -.
+DR   OrthoDB; EOG091G0VUT; -.
+DR   PhylomeDB; P50149; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-MMU-112043; PLC beta mediated events.
+DR   Reactome; R-MMU-202040; G-protein activation.
+DR   Reactome; R-MMU-4086398; Ca2+ pathway.
+DR   Reactome; R-MMU-418594; G alpha (i) signalling events.
+DR   Reactome; R-MMU-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   PRO; PR:P50149; -.
+DR   Proteomes; UP000000589; Chromosome 3.
+DR   Bgee; ENSMUSG00000009108; -.
+DR   ExpressionAtlas; P50149; baseline and differential.
+DR   Genevisible; P50149; MM.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; TAS:MGI.
+DR   GO; GO:0016020; C:membrane; TAS:MGI.
+DR   GO; GO:0001917; C:photoreceptor inner segment; ISO:MGI.
+DR   GO; GO:0001750; C:photoreceptor outer segment; ISO:MGI.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; TAS:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0001580; P:detection of chemical stimulus involved in sensory perception of bitter taste; IBA:GO_Central.
+DR   GO; GO:0050908; P:detection of light stimulus involved in visual perception; IMP:MGI.
+DR   GO; GO:0007199; P:G-protein coupled receptor signaling pathway coupled to cGMP nucleotide second messenger; TAS:MGI.
+DR   GO; GO:0007602; P:phototransduction; IMP:MGI.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; IEA:Ensembl.
+DR   GO; GO:0009642; P:response to light intensity; IEA:Ensembl.
+DR   GO; GO:0046549; P:retinal cone cell development; IMP:MGI.
+DR   GO; GO:0007601; P:visual perception; IMP:MGI.
+DR   GO; GO:0007223; P:Wnt signaling pathway, calcium modulating pathway; TAS:Reactome.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Complete proteome; GTP-binding; Lipoprotein; Magnesium; Metal-binding;
+KW   Myristate; Nucleotide-binding; Reference proteome;
+KW   Sensory transduction; Transducer; Vision.
+FT   INIT_MET      1      1       Removed.
+FT   CHAIN         2    354       Guanine nucleotide-binding protein G(t)
+FT                                subunit alpha-2.
+FT                                /FTId=PRO_0000203741.
+FT   NP_BIND      40     47       GTP. {ECO:0000250}.
+FT   NP_BIND     175    181       GTP. {ECO:0000250}.
+FT   NP_BIND     200    204       GTP. {ECO:0000250}.
+FT   NP_BIND     269    272       GTP. {ECO:0000250}.
+FT   METAL        47     47       Magnesium. {ECO:0000250}.
+FT   METAL       181    181       Magnesium. {ECO:0000250}.
+FT   BINDING     326    326       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID         2      2       N-myristoyl glycine. {ECO:0000250}.
+SQ   SEQUENCE   354 AA;  40118 MW;  6A14B9B152F14F4E CRC64;
+     MGSGISAEDK ELARRSKELE KKLQEDADKE AKTVKLLLLG AGESGKSTIV KQMKIIHQDG
+     YSPEECLEFK SVIYGNVLQS ILAIIRAMST LGIDYAEPSC ADAGRQLNNL ADSTEEGTMP
+     PELVDVIRKL WKDGGVQACF DRAAEFQLND SASYYLNQLD RITDPNYLPN EQDVLRSRVK
+     TTGIIETKFS VKDLNFRMFD VGGQRSERKK WIHCFEGVTC IIFCAALSAY DMVLVEDDEV
+     NRMHESLHLF NSICNHKFFA ATSIVLFLNK KDLFEEKIKK VHLSICFPEY DGNNSYEDAG
+     NYIKSQFLDL NMRKDVKEIY SHMTCATDTQ NVKFVFDAVT DIIIKENLKD CGLF
+//

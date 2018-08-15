@@ -1,0 +1,66 @@
+ID   A0A0D9S6I7_CHLSB        Unreviewed;       357 AA.
+AC   A0A0D9S6I7;
+DT   27-MAY-2015, integrated into UniProtKB/TrEMBL.
+DT   27-MAY-2015, sequence version 1.
+DT   28-MAR-2018, entry version 13.
+DE   SubName: Full=G protein subunit alpha transducin 2 {ECO:0000313|Ensembl:ENSCSAP00000016476};
+GN   Name=GNAT2 {ECO:0000313|Ensembl:ENSCSAP00000016476};
+OS   Chlorocebus sabaeus (Green monkey) (Cercopithecus sabaeus).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+OX   NCBI_TaxID=60711 {ECO:0000313|Ensembl:ENSCSAP00000016476, ECO:0000313|Proteomes:UP000029965};
+RN   [1] {ECO:0000313|Ensembl:ENSCSAP00000016476, ECO:0000313|Proteomes:UP000029965}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Warren W., Wilson R.K.;
+RL   Submitted (MAR-2014) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|Ensembl:ENSCSAP00000016476}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (APR-2015) to UniProtKB.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AQIB01086106; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   Ensembl; ENSCSAT00000016981; ENSCSAP00000016476; ENSCSAG00000001551.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   OMA; SICNHRF; -.
+DR   Proteomes; UP000029965; Chromosome 20.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IEA:Ensembl.
+DR   GO; GO:0001750; C:photoreceptor outer segment; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:UniProtKB-KW.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0050908; P:detection of light stimulus involved in visual perception; IEA:Ensembl.
+DR   GO; GO:0007602; P:phototransduction; IEA:Ensembl.
+DR   GO; GO:0046549; P:retinal cone cell development; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000029965};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000029965};
+KW   Transducer {ECO:0000256|SAAS:SAAS00754915}.
+SQ   SEQUENCE   357 AA;  40448 MW;  62B9097165797307 CRC64;
+     MGSGASAEDK ELAKRSKELE KKLQEDADKE AKTVKLLLLG AGESGKSTIV KQMKIIHQDG
+     YSPEECLEFK AIIYGNVLQS ILAIIRAMTT LGIDYAESSC ADDGRQLNNL ADSIEEGTMP
+     PELVEVIRRL WKDGGVQACF ERAAEYQLND SASYYLNQLE RITDPEYLPS EQDVLRSRVK
+     TTGIIETKFS VKDLNFRMFD VGGQRSERKK WIHCFEGVTC IIFCAALSAY DMVLVEDDEV
+     NRMHESLHLF NSICNHKFFA ATSIVLFLNK KDLFEEKIKK VHLSICFPEY DGKPGNNSYD
+     DAGNYIKSQF LDLNMRKDVK EIYSHMTCAT DTQNVKFVFD AVTDIIIKEN LKDCGLF
+//

@@ -1,0 +1,206 @@
+ID   GNA12_MOUSE             Reviewed;         379 AA.
+AC   P27600;
+DT   01-AUG-1992, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   05-OCT-2016, entry version 153.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit alpha-12;
+DE            Short=G alpha-12;
+DE            Short=G-protein subunit alpha-12;
+GN   Name=Gna12; Synonyms=Gna-12;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=1905812; DOI=10.1073/pnas.88.13.5582;
+RA   Strathmann M.P., Simon M.I.;
+RT   "G alpha 12 and G alpha 13 subunits define a fourth class of G protein
+RT   alpha subunits.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 88:5582-5586(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 232-292.
+RX   PubMed=2508088; DOI=10.1073/pnas.86.19.7407;
+RA   Strathmann M., Wilkie T.M., Simon M.I.;
+RT   "Diversity of the G-protein family: sequences from five additional
+RT   alpha subunits in the mouse.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 86:7407-7409(1989).
+RN   [3]
+RP   PALMITOYLATION AT CYS-11, AND MUTAGENESIS OF SER-2; ARG-6 AND CYS-11.
+RX   PubMed=9485474; DOI=10.1021/bi972253j;
+RA   Jones T.L., Gutkind J.S.;
+RT   "Galpha12 requires acylation for its transforming activity.";
+RL   Biochemistry 37:3196-3202(1998).
+RN   [4]
+RP   FUNCTION IN TOR SIGNALING.
+RX   PubMed=22609986; DOI=10.1038/ncb2507;
+RA   Gan X., Wang J., Wang C., Sommer E., Kozasa T., Srinivasula S.,
+RA   Alessi D., Offermanns S., Simon M.I., Wu D.;
+RT   "PRR5L degradation promotes mTORC2-mediated PKC-delta phosphorylation
+RT   and cell migration downstream of Galpha12.";
+RL   Nat. Cell Biol. 14:686-696(2012).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as modulators or transducers in various transmembrane
+CC       signaling systems. May play a role in the control of cell
+CC       migration through the TOR signaling cascade.
+CC       {ECO:0000269|PubMed:22609986}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and
+CC       gamma. The alpha chain contains the guanine nucleotide binding
+CC       site. Interacts with UBXD5. Interacts (when active) with PPP5C
+CC       (via TPR repeats); activates PPP5C phosphatase activity and
+CC       translocates PPP5C to the cell membrane (By similarity). Interacts
+CC       with RGS22 (By similarity). {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Membrane; Lipid-anchor.
+CC   -!- PTM: Myristoylation of mutated N-terminus in place of original
+CC       palmitoylation restores the transformation activity.
+CC       {ECO:0000269|PubMed:9485474}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(12) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M63659; AAA37648.1; -; mRNA.
+DR   EMBL; M57618; AAA63302.1; -; mRNA.
+DR   CCDS; CCDS19825.1; -.
+DR   PIR; A41095; A41095.
+DR   PIR; C33833; C33833.
+DR   RefSeq; NP_034432.1; NM_010302.2.
+DR   UniGene; Mm.370185; -.
+DR   PDB; 1ZCA; X-ray; 2.90 A; A/B=48-379.
+DR   PDBsum; 1ZCA; -.
+DR   ProteinModelPortal; P27600; -.
+DR   SMR; P27600; 54-374.
+DR   IntAct; P27600; 3.
+DR   MINT; MINT-4096224; -.
+DR   STRING; 10090.ENSMUSP00000000153; -.
+DR   iPTMnet; P27600; -.
+DR   SwissPalm; P27600; -.
+DR   MaxQB; P27600; -.
+DR   PaxDb; P27600; -.
+DR   PeptideAtlas; P27600; -.
+DR   PRIDE; P27600; -.
+DR   Ensembl; ENSMUST00000000153; ENSMUSP00000000153; ENSMUSG00000000149.
+DR   GeneID; 14673; -.
+DR   KEGG; mmu:14673; -.
+DR   UCSC; uc009aih.1; mouse.
+DR   CTD; 2768; -.
+DR   MGI; MGI:95767; Gna12.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00770000120503; -.
+DR   HOGENOM; HOG000038729; -.
+DR   HOVERGEN; HBG063184; -.
+DR   InParanoid; P27600; -.
+DR   KO; K04346; -.
+DR   OMA; GISEHIF; -.
+DR   OrthoDB; EOG091G0NV2; -.
+DR   PhylomeDB; P27600; -.
+DR   TreeFam; TF300673; -.
+DR   Reactome; R-MMU-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-MMU-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   EvolutionaryTrace; P27600; -.
+DR   PRO; PR:P27600; -.
+DR   Proteomes; UP000000589; Chromosome 5.
+DR   Bgee; ENSMUSG00000000149; -.
+DR   CleanEx; MM_GNA12; -.
+DR   ExpressionAtlas; P27600; baseline and differential.
+DR   Genevisible; P27600; MM.
+DR   GO; GO:0031526; C:brush border membrane; IBA:GO_Central.
+DR   GO; GO:0005925; C:focal adhesion; ISO:MGI.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; TAS:MGI.
+DR   GO; GO:0031752; F:D5 dopamine receptor binding; IBA:GO_Central.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; ISA:MGI.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0004871; F:signal transducer activity; IBA:GO_Central.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G-protein coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0030154; P:cell differentiation; IDA:MGI.
+DR   GO; GO:0042733; P:embryonic digit morphogenesis; IGI:MGI.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; ISA:MGI.
+DR   GO; GO:0001701; P:in utero embryonic development; IGI:MGI.
+DR   GO; GO:0035556; P:intracellular signal transduction; IDA:MGI.
+DR   GO; GO:0008360; P:regulation of cell shape; IDA:MGI.
+DR   GO; GO:0010762; P:regulation of fibroblast migration; IMP:UniProtKB.
+DR   GO; GO:0032434; P:regulation of proteasomal ubiquitin-dependent protein catabolic process; IMP:UniProtKB.
+DR   GO; GO:0032006; P:regulation of TOR signaling; IMP:UniProtKB.
+DR   GO; GO:0042493; P:response to drug; IEA:Ensembl.
+DR   GO; GO:0007266; P:Rho protein signal transduction; IDA:MGI.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 2.
+DR   InterPro; IPR000469; Gprotein_alpha_12/13.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00440; GPROTEINA12.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; GTP-binding; Lipoprotein; Magnesium;
+KW   Membrane; Metal-binding; Nucleotide-binding; Palmitate;
+KW   Reference proteome; Transducer.
+FT   CHAIN         1    379       Guanine nucleotide-binding protein
+FT                                subunit alpha-12.
+FT                                /FTId=PRO_0000203771.
+FT   NP_BIND      62     69       GTP. {ECO:0000250}.
+FT   NP_BIND     200    206       GTP. {ECO:0000250}.
+FT   NP_BIND     225    229       GTP. {ECO:0000250}.
+FT   NP_BIND     294    297       GTP. {ECO:0000250}.
+FT   METAL        69     69       Magnesium. {ECO:0000250}.
+FT   METAL       206    206       Magnesium. {ECO:0000250}.
+FT   BINDING     351    351       GTP; via amide nitrogen. {ECO:0000250}.
+FT   LIPID        11     11       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:9485474}.
+FT   MUTAGEN       2      2       S->G: Results in myristoylation of G-2,
+FT                                which restores the transformation
+FT                                activity; when associated with S-6.
+FT                                {ECO:0000269|PubMed:9485474}.
+FT   MUTAGEN       6      6       R->S: Results in myristoylation of G-2,
+FT                                which restores the transformation
+FT                                activity; when associated with G-2.
+FT                                {ECO:0000269|PubMed:9485474}.
+FT   MUTAGEN      11     11       C->S: Abolishes palmitoylation and
+FT                                transformation activity.
+FT                                {ECO:0000269|PubMed:9485474}.
+FT   STRAND       56     67       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX        68     79       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX        85    112       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       120    122       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       123    130       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       142    157       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       159    166       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       168    170       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       176    182       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       184    187       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       196    201       {ECO:0000244|PDB:1ZCA}.
+FT   STRAND      208    216       {ECO:0000244|PDB:1ZCA}.
+FT   STRAND      219    226       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       230    233       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       234    238       {ECO:0000244|PDB:1ZCA}.
+FT   TURN        239    242       {ECO:0000244|PDB:1ZCA}.
+FT   STRAND      244    251       {ECO:0000244|PDB:1ZCA}.
+FT   STRAND      260    266       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       267    279       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       282    284       {ECO:0000244|PDB:1ZCA}.
+FT   STRAND      287    294       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       296    305       {ECO:0000244|PDB:1ZCA}.
+FT   TURN        309    311       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       322    335       {ECO:0000244|PDB:1ZCA}.
+FT   STRAND      346    348       {ECO:0000244|PDB:1ZCA}.
+FT   HELIX       354    370       {ECO:0000244|PDB:1ZCA}.
+SQ   SEQUENCE   379 AA;  44095 MW;  647C524AD7A0B5E2 CRC64;
+     MSGVVRTLSR CLLPAEAGAR ERRAGAARDA EREARRRSRD IDALLARERR AVRRLVKILL
+     LGAGESGKST FLKQMRIIHG REFDQKALLE FRDTIFDNIL KGSRVLVDAR DKLGIPWQHS
+     ENEKHGMFLM AFENKAGLPV EPATFQLYVP ALSALWRDSG IREAFSRRSE FQLGESVKYF
+     LDNLDRIGQL NYFPSKQDIL LARKATKGIV EHDFVIKKIP FKMVDVGGQR SQRQKWFQCF
+     DGITSILFMV SSSEYDQVLM EDRRTNRLVE SMNIFETIVN NKLFFNVSII LFLNKMDLLV
+     EKVKSVSIKK HFPDFKGDPH RLEDVQRYLV QCFDRKRRNR SKPLFHHFTT AIDTENIRFV
+     FHAVKDTILQ ENLKDIMLQ
+//

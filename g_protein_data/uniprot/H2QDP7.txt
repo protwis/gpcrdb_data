@@ -1,0 +1,99 @@
+ID   K7B5J5_PANTR            Unreviewed;       377 AA.
+AC   K7B5J5; H2QDP7;
+DT   09-JAN-2013, integrated into UniProtKB/TrEMBL.
+DT   09-JAN-2013, sequence version 1.
+DT   25-APR-2018, entry version 29.
+DE   SubName: Full=G protein subunit alpha 13 {ECO:0000313|Ensembl:ENSPTRP00000016220};
+DE   SubName: Full=Guanine nucleotide binding protein (G protein), alpha 13 {ECO:0000313|EMBL:JAA15478.1};
+GN   Name=GNA13 {ECO:0000313|EMBL:JAA15478.1,
+GN   ECO:0000313|Ensembl:ENSPTRP00000016220, ECO:0000313|VGNC:VGNC:9304};
+OS   Pan troglodytes (Chimpanzee).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Pan.
+OX   NCBI_TaxID=9598 {ECO:0000313|EMBL:JAA15478.1};
+RN   [1] {ECO:0000313|Ensembl:ENSPTRP00000016220, ECO:0000313|Proteomes:UP000002277}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16136131; DOI=10.1038/nature04072;
+RG   Chimpanzee sequencing and analysis consortium;
+RT   "Initial sequence of the chimpanzee genome and comparison with the
+RT   human genome.";
+RL   Nature 437:69-87(2005).
+RN   [2] {ECO:0000313|Ensembl:ENSPTRP00000016220}
+RP   IDENTIFICATION.
+RG   Ensembl;
+RL   Submitted (FEB-2012) to UniProtKB.
+RN   [3] {ECO:0000313|EMBL:JAA15478.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   TISSUE=Adipose stromal {ECO:0000313|EMBL:JAA02666.1},
+RC   Skeletal muscle {ECO:0000313|EMBL:JAA35486.1},
+RC   Skin {ECO:0000313|EMBL:JAA25951.1}, and
+RC   Smooth vascular {ECO:0000313|EMBL:JAA15478.1};
+RA   Maudhoo M.D., Meehan D.T., Norgren R.B.Jr.;
+RT   "De novo assembly of the reference chimpanzee transcriptome from
+RT   NextGen mRNA sequences.";
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AACZ04070127; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; GABC01008672; JAA02666.1; -; mRNA.
+DR   EMBL; GABF01006667; JAA15478.1; -; mRNA.
+DR   EMBL; GABD01007149; JAA25951.1; -; mRNA.
+DR   EMBL; GABE01009253; JAA35486.1; -; mRNA.
+DR   RefSeq; XP_511632.3; XM_511632.4.
+DR   STRING; 9598.ENSPTRP00000016220; -.
+DR   Ensembl; ENSPTRT00000017511; ENSPTRP00000016220; ENSPTRG00000009551.
+DR   GeneID; 454827; -.
+DR   CTD; 10672; -.
+DR   VGNC; VGNC:9304; GNA13.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   eggNOG; ENOG410XNVQ; LUCA.
+DR   GeneTree; ENSGT00760000118851; -.
+DR   OMA; CFPGCVL; -.
+DR   OrthoDB; EOG091G0NV2; -.
+DR   TreeFam; TF300673; -.
+DR   Proteomes; UP000002277; Chromosome 17.
+DR   Bgee; ENSPTRG00000009551; -.
+DR   GO; GO:0005829; C:cytosol; IEA:Ensembl.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0001664; F:G-protein coupled receptor binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0004871; F:signal transducer activity; IEA:InterPro.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0001569; P:branching involved in blood vessel morphogenesis; IEA:Ensembl.
+DR   GO; GO:0030154; P:cell differentiation; IEA:Ensembl.
+DR   GO; GO:0001701; P:in utero embryonic development; IEA:Ensembl.
+DR   GO; GO:0030168; P:platelet activation; IEA:Ensembl.
+DR   GO; GO:0030334; P:regulation of cell migration; IEA:Ensembl.
+DR   GO; GO:0008360; P:regulation of cell shape; IEA:Ensembl.
+DR   GO; GO:0007266; P:Rho protein signal transduction; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000469; Gprotein_alpha_12/13.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00440; GPROTEINA12.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   2: Evidence at transcript level;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002277};
+KW   GTP-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Nucleotide-binding {ECO:0000256|SAAS:SAAS00645304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002277}.
+SQ   SEQUENCE   377 AA;  44032 MW;  829B7BD473C54F59 CRC64;
+     MADFLPSRSV LSVCFPGCLL TSGEAEQQRK SKEIDKCLSR EKTYVKRLVK ILLLGAGESG
+     KSTFLKQMRI IHGQDFDQRA REEFRPTIYS NVIKGMRVLV DAREKLHIPW GDNSNQQHGD
+     KMMSFDTRAP LAAQGMVETR VFLQYLPAIR ALWADSGIQN AYDRRREFQL GESVKYFLDN
+     LDKLGEPDYI PSQQDILLAR RPTKGIHEYD FEIKNVPFKM VDVGGQRSER KRWFECFDSV
+     TSILFLVSSS EFDQVLMEDR LTNRLTESLN IFETIVNNRV FSNVSIILFL NKTDLLEEKV
+     QIVSIKDYFL EFEGDPHCLR DVQKFLVECF RNKRRDQQQK PLYHHFTTAI NTENIRLVFR
+     DVKDTILHDN LKQLMLQ
+//
