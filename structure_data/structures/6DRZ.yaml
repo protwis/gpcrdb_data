@@ -1,0 +1,13 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 6drz
+distance: 4.19
+ligand:
+    name: H8J
+    pubchemId: 9681
+    role: Antagonist
+    title: Methysergide
+    type: Small molecule
+pdb: 6DRZ
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

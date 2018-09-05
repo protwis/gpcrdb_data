@@ -1,0 +1,13 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 6drx
+distance: 2.67
+ligand:
+    name: H8G
+    pubchemId: 28864
+    role: Antagonist
+    title: Lisuride
+    type: Small molecule
+pdb: 6DRX
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

@@ -1,0 +1,13 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 6ds0
+distance: 3.21
+ligand:
+    name: H8M
+    pubchemId: 92460087
+    role: Antagonist
+    title: LY266097
+    type: Small molecule
+pdb: 6DS0
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

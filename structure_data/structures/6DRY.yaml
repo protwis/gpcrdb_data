@@ -1,0 +1,13 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 6dry
+distance: 4.34
+ligand:
+    name: H8D
+    pubchemId: 8226
+    role: Agonist
+    title: Methylergonovine
+    type: Small molecule
+pdb: 6DRY
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

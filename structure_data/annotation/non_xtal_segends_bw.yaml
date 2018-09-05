@@ -162,7 +162,7 @@
     Cl: A
 5ht2b_human:
     XtalTempl: 5ht2b_human
-    1b: 32.0
+    1b: 31.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -5130,7 +5130,7 @@ gpr20_human:
     Cl: A
 gpr21_human:
     XtalTempl: 5ht2b_human
-    1b: 32.0
+    1b: 31.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -5562,7 +5562,7 @@ gpr4_human:
     Cl: A
 gpr52_human:
     XtalTempl: 5ht2b_human
-    1b: 32.0
+    1b: 31.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
