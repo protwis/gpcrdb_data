@@ -1,0 +1,271 @@
+ID   GBB1_RAT                Reviewed;         340 AA.
+AC   P54311; Q6Q8B1; Q9QWG8;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   20-JUN-2018, entry version 157.
+DE   RecName: Full=Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1;
+DE   AltName: Full=Transducin beta chain 1;
+GN   Name=Gnb1;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Sprague-Dawley; TISSUE=Brain;
+RA   Kuroda S., Tokunaga C., Konishi H., Kikkawa U.;
+RL   Submitted (AUG-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Sprague-Dawley;
+RX   PubMed=9221795;
+RA   Wang X.B., Funada M., Imai Y., Revay R.S., Ujike H., Vandenbergh D.J.,
+RA   Uhl G.R.;
+RT   "rGbeta1: a psychostimulant-regulated gene essential for establishing
+RT   cocaine sensitization.";
+RL   J. Neurosci. 17:5993-6000(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=Wistar; TISSUE=Brain;
+RA   Puhl H.L. III, Ikeda S.R.;
+RT   "Cloning and characterization of the rat G-protein beta 1 subunit.";
+RL   Submitted (FEB-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Lung;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 58-78; 90-96; 138-150; 198-209; 284-301 AND
+RP   257-280, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RC   STRAIN=Sprague-Dawley; TISSUE=Brain, and Hippocampus;
+RA   Lubec G., Diao W., Afjehi-Sadat L., Chen W.-Q., Kang S.U.;
+RL   Submitted (JUL-2007) to UniProtKB.
+RN   [6]
+RP   ACETYLATION AT SER-2, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RA   Lubec G., Chen W.-Q.;
+RL   Submitted (FEB-2007) to UniProtKB.
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-2, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22673903; DOI=10.1038/ncomms1871;
+RA   Lundby A., Secher A., Lage K., Nordsborg N.B., Dmytriyev A.,
+RA   Lundby C., Olsen J.V.;
+RT   "Quantitative maps of protein phosphorylation sites across 14
+RT   different rat organs and tissues.";
+RL   Nat. Commun. 3:876-876(2012).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as a modulator or transducer in various transmembrane
+CC       signaling systems. The beta and gamma chains are required for the
+CC       GTPase activity, for replacement of GDP by GTP, and for G protein-
+CC       effector interaction.
+CC   -!- SUBUNIT: G proteins are composed of 3 units, alpha, beta and
+CC       gamma. Interacts with ARHGEF18 and RASD2. The heterodimer formed
+CC       by GNB1 and GNG2 interacts with ARHGEF5 (By similarity).
+CC       {ECO:0000250|UniProtKB:P62873}.
+CC   -!- INTERACTION:
+CC       Q5BJU7:Wasf1; NbExp=2; IntAct=EBI-917779, EBI-7269229;
+CC   -!- PTM: Phosphorylation at His-266 by NDKB contributes to G protein
+CC       activation by increasing the high energetic phosphate transfer
+CC       onto GDP. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the WD repeat G protein beta family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U34958; AAC72249.1; -; mRNA.
+DR   EMBL; U88324; AAD00650.1; -; mRNA.
+DR   EMBL; AY552805; AAS59143.1; -; mRNA.
+DR   EMBL; BC078809; AAH78809.1; -; mRNA.
+DR   RefSeq; NP_112249.2; NM_030987.2.
+DR   RefSeq; XP_006239579.1; XM_006239517.3.
+DR   RefSeq; XP_008762557.1; XM_008764335.2.
+DR   RefSeq; XP_017448634.1; XM_017593145.1.
+DR   RefSeq; XP_017448635.1; XM_017593146.1.
+DR   RefSeq; XP_017448636.1; XM_017593147.1.
+DR   RefSeq; XP_017448637.1; XM_017593148.1.
+DR   RefSeq; XP_017448638.1; XM_017593149.1.
+DR   UniGene; Rn.126047; -.
+DR   PDB; 3SN6; X-ray; 3.20 A; B=2-340.
+DR   PDB; 5TDH; X-ray; 3.00 A; B/J=1-340.
+DR   PDB; 5VAI; EM; 4.10 A; B=2-340.
+DR   PDBsum; 3SN6; -.
+DR   PDBsum; 5TDH; -.
+DR   PDBsum; 5VAI; -.
+DR   ProteinModelPortal; P54311; -.
+DR   SMR; P54311; -.
+DR   BioGrid; 246567; 5.
+DR   CORUM; P54311; -.
+DR   DIP; DIP-37029N; -.
+DR   IntAct; P54311; 6.
+DR   MINT; P54311; -.
+DR   STRING; 10116.ENSRNOP00000044340; -.
+DR   iPTMnet; P54311; -.
+DR   PhosphoSitePlus; P54311; -.
+DR   PaxDb; P54311; -.
+DR   PRIDE; P54311; -.
+DR   Ensembl; ENSRNOT00000041789; ENSRNOP00000044340; ENSRNOG00000016638.
+DR   GeneID; 24400; -.
+DR   KEGG; rno:24400; -.
+DR   CTD; 2782; -.
+DR   RGD; 2718; Gnb1.
+DR   eggNOG; KOG0286; Eukaryota.
+DR   eggNOG; ENOG410XQUX; LUCA.
+DR   GeneTree; ENSGT00760000119239; -.
+DR   HOGENOM; HOG000176356; -.
+DR   HOVERGEN; HBG000188; -.
+DR   InParanoid; P54311; -.
+DR   KO; K04536; -.
+DR   OMA; TCNVWDT; -.
+DR   OrthoDB; EOG091G0A7T; -.
+DR   PhylomeDB; P54311; -.
+DR   TreeFam; TF106149; -.
+DR   Reactome; R-RNO-1296041; Activation of G protein gated Potassium channels.
+DR   Reactome; R-RNO-202040; G-protein activation.
+DR   Reactome; R-RNO-2485179; Activation of the phototransduction cascade.
+DR   Reactome; R-RNO-381676; Glucagon-like Peptide-1 (GLP1) regulates insulin secretion.
+DR   Reactome; R-RNO-381753; Olfactory Signaling Pathway.
+DR   Reactome; R-RNO-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-RNO-392451; G beta:gamma signalling through PI3Kgamma.
+DR   Reactome; R-RNO-392851; Prostacyclin signalling through prostacyclin receptor.
+DR   Reactome; R-RNO-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-RNO-4086398; Ca2+ pathway.
+DR   Reactome; R-RNO-416476; G alpha (q) signalling events.
+DR   Reactome; R-RNO-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-RNO-418217; G beta:gamma signalling through PLC beta.
+DR   Reactome; R-RNO-418555; G alpha (s) signalling events.
+DR   Reactome; R-RNO-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-RNO-418594; G alpha (i) signalling events.
+DR   Reactome; R-RNO-418597; G alpha (z) signalling events.
+DR   Reactome; R-RNO-420092; Glucagon-type ligand receptors.
+DR   Reactome; R-RNO-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-RNO-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Reactome; R-RNO-500657; Presynaptic function of Kainate receptors.
+DR   Reactome; R-RNO-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Reactome; R-RNO-997272; Inhibition of voltage gated Ca2+ channels via Gbeta/gamma subunits.
+DR   EvolutionaryTrace; P54311; -.
+DR   PRO; PR:P54311; -.
+DR   Proteomes; UP000002494; Chromosome 5.
+DR   Bgee; ENSRNOG00000016638; -.
+DR   Genevisible; P54311; RN.
+DR   GO; GO:0044297; C:cell body; IDA:RGD.
+DR   GO; GO:0030425; C:dendrite; IDA:RGD.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IDA:RGD.
+DR   GO; GO:0043209; C:myelin sheath; IEA:Ensembl.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IDA:RGD.
+DR   GO; GO:0042622; C:photoreceptor outer segment membrane; IDA:RGD.
+DR   GO; GO:0047391; F:alkylglycerophosphoethanolamine phosphodiesterase activity; IDA:MGI.
+DR   GO; GO:0003924; F:GTPase activity; IEA:Ensembl.
+DR   GO; GO:0051020; F:GTPase binding; IEA:Ensembl.
+DR   GO; GO:0044877; F:protein-containing complex binding; IEA:Ensembl.
+DR   GO; GO:0030507; F:spectrin binding; IDA:MGI.
+DR   GO; GO:0010659; P:cardiac muscle cell apoptotic process; IDA:MGI.
+DR   GO; GO:0008283; P:cell proliferation; IEA:Ensembl.
+DR   GO; GO:0071456; P:cellular response to hypoxia; IDA:MGI.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IMP:RGD.
+DR   GO; GO:0007200; P:phospholipase C-activating G-protein coupled receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; IMP:RGD.
+DR   GO; GO:0070208; P:protein heterotrimerization; IDA:MGI.
+DR   GO; GO:0060041; P:retina development in camera-type eye; IEA:Ensembl.
+DR   GO; GO:0050909; P:sensory perception of taste; IEA:Ensembl.
+DR   Gene3D; 2.130.10.10; -; 1.
+DR   InterPro; IPR020472; G-protein_beta_WD-40_rep.
+DR   InterPro; IPR001632; Gprotein_B.
+DR   InterPro; IPR016346; Guanine_nucleotide-bd_bsu.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   InterPro; IPR001680; WD40_repeat.
+DR   InterPro; IPR019775; WD40_repeat_CS.
+DR   InterPro; IPR017986; WD40_repeat_dom.
+DR   InterPro; IPR036322; WD40_repeat_dom_sf.
+DR   PANTHER; PTHR19850; PTHR19850; 1.
+DR   Pfam; PF00400; WD40; 7.
+DR   PRINTS; PR00319; GPROTEINB.
+DR   PRINTS; PR00320; GPROTEINBRPT.
+DR   SMART; SM00320; WD40; 7.
+DR   SUPFAM; SSF50978; SSF50978; 1.
+DR   PROSITE; PS00678; WD_REPEATS_1; 3.
+DR   PROSITE; PS50082; WD_REPEATS_2; 6.
+DR   PROSITE; PS50294; WD_REPEATS_REGION; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Complete proteome;
+KW   Direct protein sequencing; Phosphoprotein; Reference proteome; Repeat;
+KW   Transducer; WD repeat.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|Ref.6}.
+FT   CHAIN         2    340       Guanine nucleotide-binding protein
+FT                                G(I)/G(S)/G(T) subunit beta-1.
+FT                                /FTId=PRO_0000127690.
+FT   REPEAT       53     83       WD 1.
+FT   REPEAT       95    125       WD 2.
+FT   REPEAT      141    170       WD 3.
+FT   REPEAT      182    212       WD 4.
+FT   REPEAT      224    254       WD 5.
+FT   REPEAT      268    298       WD 6.
+FT   REPEAT      310    340       WD 7.
+FT   MOD_RES       2      2       N-acetylserine. {ECO:0000269|Ref.6}.
+FT   MOD_RES       2      2       Phosphoserine.
+FT                                {ECO:0000244|PubMed:22673903}.
+FT   MOD_RES     266    266       Phosphohistidine.
+FT                                {ECO:0000250|UniProtKB:P62871}.
+FT   CONFLICT    208    208       A -> V (in Ref. 2; AAD00650).
+FT                                {ECO:0000305}.
+FT   CONFLICT    277    277       S -> P (in Ref. 2; AAD00650).
+FT                                {ECO:0000305}.
+FT   CONFLICT    287    287       A -> G (in Ref. 2; AAD00650).
+FT                                {ECO:0000305}.
+FT   CONFLICT    301    301       K -> N (in Ref. 2; AAD00650).
+FT                                {ECO:0000305}.
+FT   CONFLICT    307    307       V -> D (in Ref. 1; AAC72249).
+FT                                {ECO:0000305}.
+FT   HELIX         2     25       {ECO:0000244|PDB:5TDH}.
+FT   HELIX        30     33       {ECO:0000244|PDB:5TDH}.
+FT   TURN         34     36       {ECO:0000244|PDB:5TDH}.
+FT   STRAND       47     51       {ECO:0000244|PDB:5TDH}.
+FT   STRAND       58     63       {ECO:0000244|PDB:5TDH}.
+FT   STRAND       67     74       {ECO:0000244|PDB:5TDH}.
+FT   TURN         75     77       {ECO:0000244|PDB:5TDH}.
+FT   STRAND       78     83       {ECO:0000244|PDB:5TDH}.
+FT   TURN         84     87       {ECO:0000244|PDB:5TDH}.
+FT   STRAND       88     94       {ECO:0000244|PDB:5TDH}.
+FT   STRAND       96     98       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      102    105       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      109    115       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      121    125       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      129    132       {ECO:0000244|PDB:3SN6}.
+FT   STRAND      134    139       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      146    153       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      156    161       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      166    170       {ECO:0000244|PDB:5TDH}.
+FT   TURN        171    174       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      175    180       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      187    192       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      196    203       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      208    212       {ECO:0000244|PDB:5TDH}.
+FT   TURN        213    216       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      217    222       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      229    234       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      238    245       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      250    254       {ECO:0000244|PDB:5TDH}.
+FT   TURN        255    258       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      259    264       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      273    278       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      280    282       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      284    289       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      294    298       {ECO:0000244|PDB:5TDH}.
+FT   TURN        299    301       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      304    308       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      315    320       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      327    331       {ECO:0000244|PDB:5TDH}.
+FT   STRAND      336    339       {ECO:0000244|PDB:5TDH}.
+SQ   SEQUENCE   340 AA;  37377 MW;  896CBD32D2686598 CRC64;
+     MSELDQLRQE AEQLKNQIRD ARKACADATL SQITNNIDPV GRIQMRTRRT LRGHLAKIYA
+     MHWGTDSRLL VSASQDGKLI IWDSYTTNKV HAIPLRSSWV MTCAYAPSGN YVACGGLDNI
+     CSIYNLKTRE GNVRVSRELA GHTGYLSCCR FLDDNQIVTS SGDTTCALWD IETGQQTTTF
+     TGHTGDVMSL SLAPDTRLFV SGACDASAKL WDVREGMCRQ TFTGHESDIN AICFFPNGNA
+     FATGSDDATC RLFDLRADQE LMTYSHDNII CGITSVSFSK SGRLLLAGYD DFNCNVWDAL
+     KADRAGVLAG HDNRVSCLGV TDDGMAVATG SWDSFLKIWN
+//

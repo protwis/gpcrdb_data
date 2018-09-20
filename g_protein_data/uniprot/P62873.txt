@@ -1,0 +1,676 @@
+ID   GBB1_HUMAN              Reviewed;         340 AA.
+AC   P62873; B1AJZ7; P04697; P04901; Q1RMY8;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   18-JUL-2018, entry version 163.
+DE   RecName: Full=Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1;
+DE   AltName: Full=Transducin beta chain 1;
+GN   Name=GNB1 {ECO:0000312|HGNC:HGNC:4396};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RC   TISSUE=Liver;
+RX   PubMed=3095147; DOI=10.1016/0014-5793(86)81486-7;
+RA   Codina J., Stengel D., Woo S.L.C., Birnbaumer L.;
+RT   "Beta-subunits of the human liver Gs/Gi signal-transducing proteins
+RT   and those of bovine retinal rod cell transducin are identical.";
+RL   FEBS Lett. 207:187-192(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction
+RT   sequenced by the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor
+RT   vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D.,
+RA   Dunham A., Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A.,
+RA   Jones M.C., Gillson C., Searle S., Zhou Y., Kokocinski F.,
+RA   McDonald L., Evans R., Phillips K., Atkinson A., Cooper R., Jones C.,
+RA   Hall R.E., Andrews T.D., Lloyd C., Ainscough R., Almeida J.P.,
+RA   Ambrose K.D., Anderson F., Andrew R.W., Ashwell R.I.S., Aubin K.,
+RA   Babbage A.K., Bagguley C.L., Bailey J., Beasley H., Bethel G.,
+RA   Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J., Buckley D.,
+RA   Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y., Clarke G.,
+RA   Clee C., Cobley V., Collier R.E., Corby N., Coville G.J., Davies J.,
+RA   Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R.,
+RA   Hammond S., Harrison E.S.I., Hart E., Haugen E., Heath P.D.,
+RA   Holmes S., Holt K., Howden P.J., Hunt A.R., Hunt S.E., Hunter G.,
+RA   Isherwood J., James R., Johnson C., Johnson D., Joy A., Kay M.,
+RA   Kershaw J.K., Kibukawa M., Kimberley A.M., King A., Knights A.J.,
+RA   Lad H., Laird G., Lawlor S., Leongamornlert D.A., Lloyd D.M.,
+RA   Loveland J., Lovell J., Lush M.J., Lyne R., Martin S.,
+RA   Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W., McLaren S.,
+RA   Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C.,
+RA   Subramanian S., Sycamore N., Tracey A., Tromans A., Van Helmond Z.,
+RA   Wall M., Wallis J.M., White S., Whitehead S.L., Wilkinson J.E.,
+RA   Willey D.L., Williams H., Wilming L., Wray P.W., Wu Z., Coulson A.,
+RA   Vaudin M., Sulston J.E., Durbin R.M., Hubbard T., Wooster R.,
+RA   Dunham I., Carter N.P., McVean G., Ross M.T., Harrow J., Olson M.V.,
+RA   Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L.,
+RA   Mobarry C.M., Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R.,
+RA   Flanigan M.J., Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V.,
+RA   Hannenhalli S., Turner R., Yooseph S., Lu F., Nusskern D.R.,
+RA   Shue B.C., Zheng X.H., Zhong F., Delcher A.L., Huson D.H.,
+RA   Kravitz S.A., Mouchard L., Reinert K., Remington K.A., Clark A.G.,
+RA   Waterman M.S., Eichler E.E., Adams M.D., Hunkapiller M.W., Myers E.W.,
+RA   Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2).
+RC   TISSUE=Brain, Muscle, and Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   PROTEIN SEQUENCE OF 2-15; 58-89; 284-301 AND 305-314, CLEAVAGE OF
+RP   INITIATOR METHIONINE, ACETYLATION AT SER-2, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RC   TISSUE=B-cell lymphoma, and Melanoma;
+RA   Bienvenut W.V., Quadroni M.;
+RL   Submitted (JUL-2005) to UniProtKB.
+RN   [9]
+RP   PROTEIN SEQUENCE OF 2-8; 69-78 AND 90-96, CLEAVAGE OF INITIATOR
+RP   METHIONINE, ACETYLATION AT SER-2, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RC   TISSUE=Ovarian carcinoma;
+RA   Bienvenut W.V., Lilla S., von Kriegsheim A., Lempens A., Kolch W.;
+RL   Submitted (DEC-2008) to UniProtKB.
+RN   [10]
+RP   PROTEIN SEQUENCE OF 23-42; 58-78; 138-150; 198-209 AND 315-337, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   TISSUE=Fetal brain cortex;
+RA   Lubec G., Chen W.-Q., Sun Y.;
+RL   Submitted (DEC-2008) to UniProtKB.
+RN   [11]
+RP   INTERACTION WITH ARHGEF18.
+RX   PubMed=14512443; DOI=10.1161/01.RES.0000097607.14733.0C;
+RA   Niu J., Profirovic J., Pan H., Vaiskunaite R., Voyno-Yasenetskaya T.;
+RT   "G Protein betagamma subunits stimulate p114RhoGEF, a guanine
+RT   nucleotide exchange factor for RhoA and Rac1: regulation of cell shape
+RT   and reactive oxygen species production.";
+RL   Circ. Res. 93:848-856(2003).
+RN   [12]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19413330; DOI=10.1021/ac9004309;
+RA   Gauci S., Helbig A.O., Slijper M., Krijgsveld J., Heck A.J.,
+RA   Mohammed S.;
+RT   "Lys-N and trypsin cover complementary parts of the phosphoproteome in
+RT   a refined SCX-based approach.";
+RL   Anal. Chem. 81:4493-4501(2009).
+RN   [13]
+RP   INTERACTION WITH RASD2.
+RX   PubMed=19255495; DOI=10.1159/000204075;
+RA   Hill C., Goddard A., Ladds G., Davey J.;
+RT   "The cationic region of Rhes mediates its interactions with specific
+RT   Gbeta subunits.";
+RL   Cell. Physiol. Biochem. 23:1-8(2009).
+RN   [14]
+RP   INTERACTION WITH ARHGEF5.
+RX   PubMed=19713215; DOI=10.1074/jbc.M109.047282;
+RA   Wang Z., Kumamoto Y., Wang P., Gan X., Lehmann D., Smrcka A.V.,
+RA   Cohn L., Iwasaki A., Li L., Wu D.;
+RT   "Regulation of immature dendritic cell migration by RhoA guanine
+RT   nucleotide exchange factor Arhgef5.";
+RL   J. Biol. Chem. 284:28599-28606(2009).
+RN   [15]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+RA   Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [16]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22223895; DOI=10.1074/mcp.M111.015131;
+RA   Bienvenut W.V., Sumpton D., Martinez A., Lilla S., Espagne C.,
+RA   Meinnel T., Giglione C.;
+RT   "Comparative large-scale characterisation of plant vs. mammal proteins
+RT   reveals similar and idiosyncratic N-alpha acetylation features.";
+RL   Mol. Cell. Proteomics 11:M111.015131-M111.015131(2012).
+RN   [17]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-2, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Cervix carcinoma;
+RX   PubMed=23186163; DOI=10.1021/pr300630k;
+RA   Zhou H., Di Palma S., Preisinger C., Peng M., Polat A.N., Heck A.J.,
+RA   Mohammed S.;
+RT   "Toward a comprehensive characterization of a human cancer cell
+RT   phosphoproteome.";
+RL   J. Proteome Res. 12:260-271(2013).
+RN   [18]
+RP   ACETYLATION [LARGE SCALE ANALYSIS] AT SER-2, CLEAVAGE OF INITIATOR
+RP   METHIONINE [LARGE SCALE ANALYSIS], AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M.,
+RA   Ayoub D., Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [19]
+RP   INVOLVEMENT IN MRD42, AND VARIANTS MRD42 GLU-76; GLY-76; SER-77;
+RP   ARG-78; ASN-80; THR-80; PRO-95; VAL-101 AND THR-326.
+RX   PubMed=27108799; DOI=10.1016/j.ajhg.2016.03.011;
+RG   University of Washington Center for Mendelian Genomics;
+RA   Petrovski S., Kuery S., Myers C.T., Anyane-Yeboa K., Cogne B.,
+RA   Bialer M., Xia F., Hemati P., Riviello J., Mehaffey M., Besnard T.,
+RA   Becraft E., Wadley A., Politi A.R., Colombo S., Zhu X., Ren Z.,
+RA   Andrews I., Dudding-Byth T., Schneider A.L., Wallace G., Rosen A.B.,
+RA   Schelley S., Enns G.M., Corre P., Dalton J., Mercier S., Latypova X.,
+RA   Schmitt S., Guzman E., Moore C., Bier L., Heinzen E.L.,
+RA   Karachunski P., Shur N., Grebe T., Basinger A., Nguyen J.M.,
+RA   Bezieau S., Wierenga K., Bernstein J.A., Scheffer I.E.,
+RA   Rosenfeld J.A., Mefford H.C., Isidor B., Goldstein D.B.;
+RT   "Germline de novo mutations in GNB1 cause severe neurodevelopmental
+RT   disability, hypotonia, and seizures.";
+RL   Am. J. Hum. Genet. 98:1001-1010(2016).
+RN   [20]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) IN COMPLEX WITH GNG2.
+RX   PubMed=18611381; DOI=10.1016/j.str.2008.04.010;
+RA   Johnston C.A., Kimple A.J., Giguere P.M., Siderovski D.P.;
+RT   "Structure of the parathyroid hormone receptor C terminus bound to the
+RT   G-protein dimer Gbeta1gamma2.";
+RL   Structure 16:1086-1094(2008).
+RN   [21]
+RP   ERRATUM, AND RETRACTION.
+RX   PubMed=21827955; DOI=10.1016/j.str.2011.07.010;
+RA   Johnston C.A., Kimple A.J., Giguere P.M., Siderovski D.P.;
+RL   Structure 19:1200-1200(2011).
+RN   [22]
+RP   CHARACTERIZATION VARIANTS MRD42 ASN-80 AND THR-80.
+RX   PubMed=25485910; DOI=10.1038/nm.3751;
+RA   Yoda A., Adelmant G., Tamburini J., Chapuy B., Shindoh N., Yoda Y.,
+RA   Weigert O., Kopp N., Wu S.C., Kim S.S., Liu H., Tivey T.,
+RA   Christie A.L., Elpek K.G., Card J., Gritsman K., Gotlib J.,
+RA   Deininger M.W., Makishima H., Turley S.J., Javidi-Sharifi N.,
+RA   Maciejewski J.P., Jaiswal S., Ebert B.L., Rodig S.J., Tyner J.W.,
+RA   Marto J.A., Weinstock D.M., Lane A.A.;
+RT   "Mutations in G protein beta subunits promote transformation and
+RT   kinase inhibitor resistance.";
+RL   Nat. Med. 21:71-75(2015).
+RN   [23]
+RP   VARIANT MRD42 GLY-118.
+RX   PubMed=27668284; DOI=10.1212/NXG.0000000000000106;
+RA   Steinruecke S., Lohmann K., Domingo A., Rolfs A., Baeumer T.,
+RA   Spiegler J., Hartmann C., Muenchau A.;
+RT   "Novel GNB1 missense mutation in a patient with generalized dystonia,
+RT   hypotonia, and intellectual disability.";
+RL   Neurol. Genet. 2:E106-E106(2016).
+RN   [24]
+RP   VARIANTS MRD42 PHE-30; GLY-52; VAL-64; ARG-91; THR-92; SER-94; LEU-96;
+RP   THR-106; GLY-118 AND GLN-337, AND CHARACTERIZATION OF VARIANTS MRD42
+RP   PHE-30; GLY-52; VAL-64; ARG-91; THR-92; SER-94; LEU-96; THR-106;
+RP   GLY-118 AND GLN-337.
+RX   PubMed=28087732; DOI=10.1093/hmg/ddx018;
+RA   Lohmann K., Masuho I., Patil D.N., Baumann H., Hebert E.,
+RA   Steinruecke S., Trujillano D., Skamangas N.K., Dobricic V.,
+RA   Huening I., Gillessen-Kaesbach G., Westenberger A.,
+RA   Savic-Pavicevic D., Muenchau A., Oprea G., Klein C., Rolfs A.,
+RA   Martemyanov K.A.;
+RT   "Novel GNB1 mutations disrupt assembly and function of G protein
+RT   heterotrimers and cause global developmental delay in humans.";
+RL   Hum. Mol. Genet. 26:1078-1086(2017).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as a modulator or transducer in various transmembrane
+CC       signaling systems. The beta and gamma chains are required for the
+CC       GTPase activity, for replacement of GDP by GTP, and for G protein-
+CC       effector interaction.
+CC   -!- SUBUNIT: G proteins are composed of 3 units, alpha, beta and
+CC       gamma. Interacts with ARHGEF18 and RASD2 (PubMed:14512443,
+CC       PubMed:19255495). The heterodimer formed by GNB1 and GNG2
+CC       interacts with ARHGEF5 (PubMed:19713215).
+CC       {ECO:0000269|PubMed:14512443, ECO:0000269|PubMed:19255495,
+CC       ECO:0000269|PubMed:19713215}.
+CC   -!- INTERACTION:
+CC       P59768:GNG2; NbExp=4; IntAct=EBI-357130, EBI-602681;
+CC       P19878:NCF2; NbExp=2; IntAct=EBI-357130, EBI-489611;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P62873-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P62873-2; Sequence=VSP_055232;
+CC         Note=No experimental confirmation available.;
+CC   -!- PTM: Phosphorylation at His-266 by NDKB contributes to G protein
+CC       activation by increasing the high energetic phosphate transfer
+CC       onto GDP. {ECO:0000250}.
+CC   -!- DISEASE: Mental retardation, autosomal dominant 42 (MRD42)
+CC       [MIM:616973]: A form of mental retardation, a disorder
+CC       characterized by significantly below average general intellectual
+CC       functioning associated with impairments in adaptive behavior and
+CC       manifested during the developmental period. MRD42 patients
+CC       manifest global developmental delay commonly accompanied by
+CC       hypotonia, seizures of various types, ophthalmological
+CC       manifestations, and poor growth. {ECO:0000269|PubMed:25485910,
+CC       ECO:0000269|PubMed:27108799, ECO:0000269|PubMed:27668284,
+CC       ECO:0000269|PubMed:28087732}. Note=The disease is caused by
+CC       mutations affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the WD repeat G protein beta family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X04526; CAA28207.1; -; mRNA.
+DR   EMBL; AF501882; AAM15918.1; -; mRNA.
+DR   EMBL; BT007305; AAP35969.1; -; mRNA.
+DR   EMBL; CR456784; CAG33065.1; -; mRNA.
+DR   EMBL; AL031282; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL109917; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CH471183; EAW56147.1; -; Genomic_DNA.
+DR   EMBL; BC004186; AAH04186.1; -; mRNA.
+DR   EMBL; BC005888; AAH05888.1; -; mRNA.
+DR   EMBL; BC008991; AAH08991.1; -; mRNA.
+DR   EMBL; BC114618; AAI14619.1; -; mRNA.
+DR   EMBL; M36430; AAA63265.1; -; mRNA.
+DR   CCDS; CCDS34.1; -. [P62873-1]
+DR   PIR; A24853; RGHUB1.
+DR   RefSeq; NP_001269467.1; NM_001282538.1.
+DR   RefSeq; NP_001269468.1; NM_001282539.1. [P62873-1]
+DR   RefSeq; NP_002065.1; NM_002074.4. [P62873-1]
+DR   RefSeq; XP_016856548.1; XM_017001059.1. [P62873-1]
+DR   RefSeq; XP_016856549.1; XM_017001060.1. [P62873-1]
+DR   RefSeq; XP_016856550.1; XM_017001061.1. [P62873-1]
+DR   UniGene; Hs.430425; -.
+DR   UniGene; Hs.721030; -.
+DR   PDB; 4KFM; X-ray; 3.45 A; B=1-340.
+DR   PDB; 4PNK; X-ray; 2.56 A; B=1-340.
+DR   PDB; 5HE0; X-ray; 2.56 A; B=2-340.
+DR   PDB; 5HE1; X-ray; 3.15 A; B=2-340.
+DR   PDB; 5HE2; X-ray; 2.79 A; B=2-340.
+DR   PDB; 5HE3; X-ray; 2.74 A; B=2-340.
+DR   PDB; 5UKK; X-ray; 2.60 A; B=2-340.
+DR   PDB; 5UKL; X-ray; 2.15 A; B=2-340.
+DR   PDB; 5UKM; X-ray; 3.03 A; B=2-340.
+DR   PDB; 5UZ7; EM; 4.10 A; B=2-340.
+DR   PDB; 6B3J; EM; 3.30 A; B=2-340.
+DR   PDB; 6GDG; EM; 4.11 A; B=2-340.
+DR   PDBsum; 4KFM; -.
+DR   PDBsum; 4PNK; -.
+DR   PDBsum; 5HE0; -.
+DR   PDBsum; 5HE1; -.
+DR   PDBsum; 5HE2; -.
+DR   PDBsum; 5HE3; -.
+DR   PDBsum; 5UKK; -.
+DR   PDBsum; 5UKL; -.
+DR   PDBsum; 5UKM; -.
+DR   PDBsum; 5UZ7; -.
+DR   PDBsum; 6B3J; -.
+DR   PDBsum; 6GDG; -.
+DR   ProteinModelPortal; P62873; -.
+DR   SMR; P62873; -.
+DR   BioGrid; 109044; 109.
+DR   CORUM; P62873; -.
+DR   DIP; DIP-599N; -.
+DR   IntAct; P62873; 53.
+DR   MINT; P62873; -.
+DR   STRING; 9606.ENSP00000367869; -.
+DR   ChEMBL; CHEMBL3883319; -.
+DR   TCDB; 8.A.92.1.1; the g-protein AlphaBetaGama complex (gpc) family.
+DR   iPTMnet; P62873; -.
+DR   PhosphoSitePlus; P62873; -.
+DR   SwissPalm; P62873; -.
+DR   DMDM; 51317302; -.
+DR   OGP; P62873; -.
+DR   REPRODUCTION-2DPAGE; IPI00026268; -.
+DR   EPD; P62873; -.
+DR   MaxQB; P62873; -.
+DR   PaxDb; P62873; -.
+DR   PeptideAtlas; P62873; -.
+DR   PRIDE; P62873; -.
+DR   ProteomicsDB; 57441; -.
+DR   DNASU; 2782; -.
+DR   Ensembl; ENST00000378609; ENSP00000367872; ENSG00000078369. [P62873-1]
+DR   Ensembl; ENST00000610897; ENSP00000481878; ENSG00000078369. [P62873-1]
+DR   GeneID; 2782; -.
+DR   KEGG; hsa:2782; -.
+DR   UCSC; uc001aif.5; human. [P62873-1]
+DR   CTD; 2782; -.
+DR   DisGeNET; 2782; -.
+DR   EuPathDB; HostDB:ENSG00000078369.17; -.
+DR   GeneCards; GNB1; -.
+DR   HGNC; HGNC:4396; GNB1.
+DR   HPA; HPA040736; -.
+DR   MalaCards; GNB1; -.
+DR   MIM; 139380; gene.
+DR   MIM; 616973; phenotype.
+DR   neXtProt; NX_P62873; -.
+DR   OpenTargets; ENSG00000078369; -.
+DR   PharmGKB; PA28776; -.
+DR   eggNOG; KOG0286; Eukaryota.
+DR   eggNOG; ENOG410XQUX; LUCA.
+DR   GeneTree; ENSGT00760000119239; -.
+DR   HOGENOM; HOG000176356; -.
+DR   HOVERGEN; HBG000188; -.
+DR   InParanoid; P62873; -.
+DR   KO; K04536; -.
+DR   OMA; TCNVWDT; -.
+DR   OrthoDB; EOG091G0A7T; -.
+DR   PhylomeDB; P62873; -.
+DR   TreeFam; TF106149; -.
+DR   Reactome; R-HSA-1296041; Activation of G protein gated Potassium channels.
+DR   Reactome; R-HSA-163359; Glucagon signaling in metabolic regulation.
+DR   Reactome; R-HSA-202040; G-protein activation.
+DR   Reactome; R-HSA-2485179; Activation of the phototransduction cascade.
+DR   Reactome; R-HSA-2514859; Inactivation, recovery and regulation of the phototransduction cascade.
+DR   Reactome; R-HSA-381676; Glucagon-like Peptide-1 (GLP1) regulates insulin secretion.
+DR   Reactome; R-HSA-381753; Olfactory Signaling Pathway.
+DR   Reactome; R-HSA-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-HSA-392451; G beta:gamma signalling through PI3Kgamma.
+DR   Reactome; R-HSA-392851; Prostacyclin signalling through prostacyclin receptor.
+DR   Reactome; R-HSA-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-HSA-4086398; Ca2+ pathway.
+DR   Reactome; R-HSA-416476; G alpha (q) signalling events.
+DR   Reactome; R-HSA-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-HSA-418217; G beta:gamma signalling through PLC beta.
+DR   Reactome; R-HSA-418555; G alpha (s) signalling events.
+DR   Reactome; R-HSA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-HSA-418594; G alpha (i) signalling events.
+DR   Reactome; R-HSA-418597; G alpha (z) signalling events.
+DR   Reactome; R-HSA-420092; Glucagon-type ligand receptors.
+DR   Reactome; R-HSA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-HSA-432040; Vasopressin regulates renal water homeostasis via Aquaporins.
+DR   Reactome; R-HSA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Reactome; R-HSA-500657; Presynaptic function of Kainate receptors.
+DR   Reactome; R-HSA-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Reactome; R-HSA-997272; Inhibition of voltage gated Ca2+ channels via Gbeta/gamma subunits.
+DR   SignaLink; P62873; -.
+DR   SIGNOR; P62873; -.
+DR   ChiTaRS; GNB1; human.
+DR   EvolutionaryTrace; P62873; -.
+DR   GeneWiki; GNB1; -.
+DR   GenomeRNAi; 2782; -.
+DR   PRO; PR:P62873; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   Bgee; ENSG00000078369; -.
+DR   CleanEx; HS_GNB1; -.
+DR   ExpressionAtlas; P62873; baseline and differential.
+DR   Genevisible; P62873; HS.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:1903561; C:extracellular vesicle; HDA:UniProtKB.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IDA:MGI.
+DR   GO; GO:0005622; C:intracellular; ISS:BHF-UCL.
+DR   GO; GO:0005765; C:lysosomal membrane; HDA:UniProtKB.
+DR   GO; GO:0016020; C:membrane; ISS:BHF-UCL.
+DR   GO; GO:0043209; C:myelin sheath; IEA:Ensembl.
+DR   GO; GO:0097381; C:photoreceptor disc membrane; TAS:Reactome.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IEA:Ensembl.
+DR   GO; GO:0042622; C:photoreceptor outer segment membrane; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0047391; F:alkylglycerophosphoethanolamine phosphodiesterase activity; IEA:Ensembl.
+DR   GO; GO:0003924; F:GTPase activity; IDA:MGI.
+DR   GO; GO:0051020; F:GTPase binding; IPI:UniProtKB.
+DR   GO; GO:0044877; F:protein-containing complex binding; IDA:MGI.
+DR   GO; GO:0030507; F:spectrin binding; IEA:Ensembl.
+DR   GO; GO:0031702; F:type 1 angiotensin receptor binding; IEA:Ensembl.
+DR   GO; GO:0007191; P:adenylate cyclase-activating dopamine receptor signaling pathway; ISS:BHF-UCL.
+DR   GO; GO:0010659; P:cardiac muscle cell apoptotic process; IEA:Ensembl.
+DR   GO; GO:0008283; P:cell proliferation; IEA:Ensembl.
+DR   GO; GO:0071870; P:cellular response to catecholamine stimulus; ISS:BHF-UCL.
+DR   GO; GO:0071456; P:cellular response to hypoxia; IEA:Ensembl.
+DR   GO; GO:0071380; P:cellular response to prostaglandin E stimulus; ISS:BHF-UCL.
+DR   GO; GO:0007213; P:G-protein coupled acetylcholine receptor signaling pathway; TAS:ProtInc.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; TAS:Reactome.
+DR   GO; GO:0007200; P:phospholipase C-activating G-protein coupled receptor signaling pathway; IEA:Ensembl.
+DR   GO; GO:0030168; P:platelet activation; TAS:Reactome.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; IEA:Ensembl.
+DR   GO; GO:0006457; P:protein folding; TAS:Reactome.
+DR   GO; GO:0070208; P:protein heterotrimerization; IEA:Ensembl.
+DR   GO; GO:0007265; P:Ras protein signal transduction; TAS:ProtInc.
+DR   GO; GO:0060041; P:retina development in camera-type eye; IEA:Ensembl.
+DR   GO; GO:0016056; P:rhodopsin mediated signaling pathway; TAS:Reactome.
+DR   GO; GO:0050909; P:sensory perception of taste; IEA:Ensembl.
+DR   GO; GO:0007165; P:signal transduction; TAS:ProtInc.
+DR   GO; GO:0007223; P:Wnt signaling pathway, calcium modulating pathway; TAS:Reactome.
+DR   Gene3D; 2.130.10.10; -; 1.
+DR   InterPro; IPR020472; G-protein_beta_WD-40_rep.
+DR   InterPro; IPR001632; Gprotein_B.
+DR   InterPro; IPR016346; Guanine_nucleotide-bd_bsu.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   InterPro; IPR001680; WD40_repeat.
+DR   InterPro; IPR019775; WD40_repeat_CS.
+DR   InterPro; IPR017986; WD40_repeat_dom.
+DR   InterPro; IPR036322; WD40_repeat_dom_sf.
+DR   PANTHER; PTHR19850; PTHR19850; 1.
+DR   Pfam; PF00400; WD40; 7.
+DR   PRINTS; PR00319; GPROTEINB.
+DR   PRINTS; PR00320; GPROTEINBRPT.
+DR   SMART; SM00320; WD40; 7.
+DR   SUPFAM; SSF50978; SSF50978; 1.
+DR   PROSITE; PS00678; WD_REPEATS_1; 3.
+DR   PROSITE; PS50082; WD_REPEATS_2; 6.
+DR   PROSITE; PS50294; WD_REPEATS_REGION; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Alternative splicing; Complete proteome;
+KW   Direct protein sequencing; Disease mutation; Mental retardation;
+KW   Phosphoprotein; Reference proteome; Repeat; Transducer; WD repeat.
+FT   INIT_MET      1      1       Removed. {ECO:0000244|PubMed:19413330,
+FT                                ECO:0000244|PubMed:22223895,
+FT                                ECO:0000244|PubMed:25944712,
+FT                                ECO:0000269|Ref.8, ECO:0000269|Ref.9}.
+FT   CHAIN         2    340       Guanine nucleotide-binding protein
+FT                                G(I)/G(S)/G(T) subunit beta-1.
+FT                                /FTId=PRO_0000127687.
+FT   REPEAT       53     83       WD 1.
+FT   REPEAT       95    125       WD 2.
+FT   REPEAT      141    170       WD 3.
+FT   REPEAT      182    212       WD 4.
+FT   REPEAT      224    254       WD 5.
+FT   REPEAT      268    298       WD 6.
+FT   REPEAT      310    340       WD 7.
+FT   MOD_RES       2      2       N-acetylserine.
+FT                                {ECO:0000244|PubMed:19413330,
+FT                                ECO:0000244|PubMed:22223895,
+FT                                ECO:0000244|PubMed:25944712,
+FT                                ECO:0000269|Ref.8, ECO:0000269|Ref.9}.
+FT   MOD_RES       2      2       Phosphoserine.
+FT                                {ECO:0000244|PubMed:23186163}.
+FT   MOD_RES     266    266       Phosphohistidine.
+FT                                {ECO:0000250|UniProtKB:P62871}.
+FT   VAR_SEQ     329    340       TGSWDSFLKIWN -> SVLG (in isoform 2).
+FT                                {ECO:0000303|PubMed:15489334}.
+FT                                /FTId=VSP_055232.
+FT   VARIANT      30     30       L -> F (in MRD42; unknown pathological
+FT                                significance; no effect on protein
+FT                                abundance; no effect on complex formation
+FT                                with gamma subunit; no effect on trimer
+FT                                formation with alpha and gamma subunits;
+FT                                no effect on receptor-driven G protein
+FT                                activation; dbSNP:rs764997309).
+FT                                {ECO:0000269|PubMed:28087732}.
+FT                                /FTId=VAR_078279.
+FT   VARIANT      52     52       R -> G (in MRD42; decreases receptor-
+FT                                driven G protein activation; no effect on
+FT                                protein abundance; no effect on complex
+FT                                formation with gamma subunit; decreases
+FT                                trimer formation with alpha and gamma
+FT                                subunit). {ECO:0000269|PubMed:28087732}.
+FT                                /FTId=VAR_078280.
+FT   VARIANT      64     64       G -> V (in MRD42; decreases receptor-
+FT                                driven G protein activation; decreases
+FT                                protein abundance; decreases complex
+FT                                formation with gamma subunit; decreases
+FT                                trimer formation with alpha and gamma
+FT                                subunit). {ECO:0000269|PubMed:28087732}.
+FT                                /FTId=VAR_078281.
+FT   VARIANT      76     76       D -> E (in MRD42; dbSNP:rs869312822).
+FT                                {ECO:0000269|PubMed:27108799}.
+FT                                /FTId=VAR_076644.
+FT   VARIANT      76     76       D -> G (in MRD42; dbSNP:rs869312821).
+FT                                {ECO:0000269|PubMed:27108799}.
+FT                                /FTId=VAR_076643.
+FT   VARIANT      77     77       G -> S (in MRD42; dbSNP:rs758432471).
+FT                                {ECO:0000269|PubMed:27108799}.
+FT                                /FTId=VAR_076645.
+FT   VARIANT      78     78       K -> R (in MRD42; dbSNP:rs869312823).
+FT                                {ECO:0000269|PubMed:27108799}.
+FT                                /FTId=VAR_076646.
+FT   VARIANT      80     80       I -> N (in MRD42; also found in patients
+FT                                with acute lymphoblastic T-cell leukemia;
+FT                                reduces interaction with GNAI2, GNAI3,
+FT                                GNA13 and GNA11; induces activation of
+FT                                PI3K-AKT-mTOR and MAPK pathways;
+FT                                dbSNP:rs752746786).
+FT                                {ECO:0000269|PubMed:25485910,
+FT                                ECO:0000269|PubMed:27108799}.
+FT                                /FTId=VAR_076647.
+FT   VARIANT      80     80       I -> T (in MRD42; also found in patient
+FT                                with hematologic malignancies; reduces
+FT                                interaction with GNAI2, GNAI3, GNA13 and
+FT                                GNA11; induces activation of PI3K-AKT-
+FT                                mTOR and MAPK pathways;
+FT                                dbSNP:rs752746786).
+FT                                {ECO:0000269|PubMed:25485910,
+FT                                ECO:0000269|PubMed:27108799}.
+FT                                /FTId=VAR_076648.
+FT   VARIANT      91     91       H -> R (in MRD42; unknown pathological
+FT                                significance; no effect on protein
+FT                                abundance; no effect on complex formation
+FT                                with gamma subunit; no effect on trimer
+FT                                formation with apha and gamma subunits;
+FT                                no effect on receptor-driven G protein
+FT                                activation).
+FT                                {ECO:0000269|PubMed:28087732}.
+FT                                /FTId=VAR_078282.
+FT   VARIANT      92     92       A -> T (in MRD42; decreases receptor-
+FT                                driven G protein activation; increases
+FT                                trimer formation with alpha and gamma
+FT                                subunits; no effect on protein abundance;
+FT                                no effect on complex formation with gamma
+FT                                subunit). {ECO:0000269|PubMed:28087732}.
+FT                                /FTId=VAR_078283.
+FT   VARIANT      94     94       P -> S (in MRD42; decreases receptor-
+FT                                driven G protein activation; decreases
+FT                                trimer formation with alpha and gamma
+FT                                subunit; no effect on protein
+FT                                abundance;no effect on complex formation
+FT                                with gamma subunit).
+FT                                {ECO:0000269|PubMed:28087732}.
+FT                                /FTId=VAR_078284.
+FT   VARIANT      95     95       L -> P (in MRD42; dbSNP:rs869312824).
+FT                                {ECO:0000269|PubMed:27108799}.
+FT                                /FTId=VAR_076649.
+FT   VARIANT      96     96       R -> L (in MRD42; decreases receptor-
+FT                                driven G protein activation; decreases
+FT                                trimer formation with alpha and gamma
+FT                                subunit; no effect on protein abundance;
+FT                                no effect on complex formation with gamma
+FT                                subunit). {ECO:0000269|PubMed:28087732}.
+FT                                /FTId=VAR_078285.
+FT   VARIANT     101    101       M -> V (in MRD42; dbSNP:rs869312825).
+FT                                {ECO:0000269|PubMed:27108799}.
+FT                                /FTId=VAR_076650.
+FT   VARIANT     106    106       A -> T (in MRD42; decreases receptor-
+FT                                driven G protein activation; decreases
+FT                                complex formation with gamma subunit;
+FT                                decreases trimer formation with alpha and
+FT                                gamma subunit; no effect on protein
+FT                                abundance).
+FT                                {ECO:0000269|PubMed:28087732}.
+FT                                /FTId=VAR_078286.
+FT   VARIANT     118    118       D -> G (in MRD42; decreases receptor-
+FT                                driven G protein activation; no effect on
+FT                                protein abundance; no effect on complex
+FT                                formation with gamma subunit; no effect
+FT                                on trimer formation with alpha and gamma
+FT                                subunits). {ECO:0000269|PubMed:27668284,
+FT                                ECO:0000269|PubMed:28087732}.
+FT                                /FTId=VAR_078287.
+FT   VARIANT     326    326       A -> T (in MRD42; dbSNP:rs869312826).
+FT                                {ECO:0000269|PubMed:27108799}.
+FT                                /FTId=VAR_076651.
+FT   VARIANT     337    337       K -> Q (in MRD42; unknown pathological
+FT                                significance; no effect on protein
+FT                                abundance; no effect on complex formation
+FT                                with gamma subunit; no effect on trimer
+FT                                formation with alpha and gamma subunits;
+FT                                no effect on receptor-driven G protein
+FT                                activation).
+FT                                {ECO:0000269|PubMed:28087732}.
+FT                                /FTId=VAR_078288.
+FT   HELIX         3     24       {ECO:0000244|PDB:5UKL}.
+FT   HELIX        30     34       {ECO:0000244|PDB:5UKL}.
+FT   STRAND       35     37       {ECO:0000244|PDB:4PNK}.
+FT   STRAND       46     51       {ECO:0000244|PDB:5UKL}.
+FT   STRAND       58     63       {ECO:0000244|PDB:5UKL}.
+FT   STRAND       67     74       {ECO:0000244|PDB:5UKL}.
+FT   STRAND       77     83       {ECO:0000244|PDB:5UKL}.
+FT   TURN         84     86       {ECO:0000244|PDB:5UKL}.
+FT   STRAND       89     94       {ECO:0000244|PDB:5UKL}.
+FT   STRAND       96     98       {ECO:0000244|PDB:4PNK}.
+FT   STRAND      100    105       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      109    116       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      121    127       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      129    131       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      134    139       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      146    153       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      156    161       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      166    170       {ECO:0000244|PDB:5UKL}.
+FT   TURN        171    174       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      175    180       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      187    192       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      196    203       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      208    212       {ECO:0000244|PDB:5UKL}.
+FT   TURN        213    215       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      218    222       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      229    234       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      238    245       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      250    254       {ECO:0000244|PDB:5UKL}.
+FT   TURN        255    258       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      259    264       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      273    278       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      282    289       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      294    298       {ECO:0000244|PDB:5UKL}.
+FT   TURN        299    301       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      304    308       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      315    320       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      327    331       {ECO:0000244|PDB:5UKL}.
+FT   STRAND      336    340       {ECO:0000244|PDB:5UKL}.
+SQ   SEQUENCE   340 AA;  37377 MW;  896CBD32D2686598 CRC64;
+     MSELDQLRQE AEQLKNQIRD ARKACADATL SQITNNIDPV GRIQMRTRRT LRGHLAKIYA
+     MHWGTDSRLL VSASQDGKLI IWDSYTTNKV HAIPLRSSWV MTCAYAPSGN YVACGGLDNI
+     CSIYNLKTRE GNVRVSRELA GHTGYLSCCR FLDDNQIVTS SGDTTCALWD IETGQQTTTF
+     TGHTGDVMSL SLAPDTRLFV SGACDASAKL WDVREGMCRQ TFTGHESDIN AICFFPNGNA
+     FATGSDDATC RLFDLRADQE LMTYSHDNII CGITSVSFSK SGRLLLAGYD DFNCNVWDAL
+     KADRAGVLAG HDNRVSCLGV TDDGMAVATG SWDSFLKIWN
+//
