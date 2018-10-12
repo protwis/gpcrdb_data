@@ -8,7 +8,10 @@ The structure table shows an annotated list of published GPCR structures. The ta
 column by clicking on the header. The search fields below each header can be used to filter the structures, e.g.
 show only those with a co-crystallized agonist or X-ray resolution < 2.5 Å.
 
-To view an alignment of the structures' sequences, click the "View alignment" button.
+To view an alignment of the selected structures' sequences, click the "Align" button. Downloading multiple structures
+at the same time is available with the "Download" button. The "Show representative" button will filter the table by
+only showing structures that are the representative structures for the given receptor in each state. These structures
+are the one that have the most GPCRdb generic numbered positions present in the structure and have high resolution.
 
 Structure state
 ---------------

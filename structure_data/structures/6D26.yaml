@@ -1,0 +1,13 @@
+auxiliary_protein: Endolysin
+construct: 6d26
+distance: -1.4
+ligand:
+-   name: FSY
+    pubchemId: 23582412
+    role: Antagonist
+    title: fevipiprant
+    type: Small molecule
+pdb: 6D26
+preferred_chain: A
+signaling_protein: None
+state: Inactive

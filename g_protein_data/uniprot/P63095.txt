@@ -1,0 +1,263 @@
+ID   GNAS2_RAT               Reviewed;         394 AA.
+AC   P63095; P04894; P08755; Q05087; Q45QM7; Q9Z1R8;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   13-AUG-1987, sequence version 1.
+DT   12-SEP-2018, entry version 128.
+DE   RecName: Full=Guanine nucleotide-binding protein G(s) subunit alpha isoforms short;
+DE   AltName: Full=Adenylate cyclase-stimulating G alpha protein;
+DE   AltName: Full=G-alpha-8;
+GN   Name=Gnas; Synonyms=Gnas1;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM GNAS-1).
+RX   PubMed=3086867; DOI=10.1073/pnas.83.11.3776;
+RA   Itoh H., Kozasa T., Nagata S., Nakamura S., Katada T., Ui M., Iwai S.,
+RA   Ohtsuka E., Kawasaki H., Suzuki K., Kaziro Y.;
+RT   "Molecular cloning and sequence determination of cDNAs for alpha
+RT   subunits of the guanine nucleotide-binding proteins Gs, Gi, and Go
+RT   from rat brain.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 83:3776-3780(1986).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM GNAS-1).
+RX   PubMed=2820999;
+RA   Jones D.T., Reed R.R.;
+RT   "Molecular cloning of five GTP-binding protein cDNA species from rat
+RT   olfactory neuroepithelium.";
+RL   J. Biol. Chem. 262:14241-14249(1987).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM GNAS-3), AND TISSUE SPECIFICITY.
+RC   TISSUE=Thyroid;
+RX   PubMed=8486667;
+RA   Crawford J.A., Mutchler K.J., Sullivan B.E., Lanigan T.M., Clark M.S.,
+RA   Russo A.F.;
+RT   "Neural expression of a novel alternatively spliced and polyadenylated
+RT   Gsa alpha transcript.";
+RL   J. Biol. Chem. 268:9879-9885(1993).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM GNAS-2).
+RC   STRAIN=New England Deaconess Hospital;
+RA   Wang Y.Z., Kehlenbach R.H., Huttner W.B.;
+RT   "Molecular characterization of XL2, a neuroendocrine-specific luminal
+RT   Golgi-resident protein.";
+RL   Submitted (NOV-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM GNAS-1).
+RC   STRAIN=SHR, and Wistar Kyoto;
+RA   Jackson E.K., Zhu C.;
+RT   "Genetic similarity between spontaneously hypertensive rats and
+RT   Wistar-Kyoto rats in the coding regions of signal transduction
+RT   proteins.";
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM GNAS-1).
+RC   TISSUE=Prostate;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-352, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22673903; DOI=10.1038/ncomms1871;
+RA   Lundby A., Secher A., Lage K., Nordsborg N.B., Dmytriyev A.,
+RA   Lundby C., Olsen J.V.;
+RT   "Quantitative maps of protein phosphorylation sites across 14
+RT   different rat organs and tissues.";
+RL   Nat. Commun. 3:876-876(2012).
+RN   [8]
+RP   STRUCTURE BY NMR OF 81-209.
+RX   PubMed=7500342; DOI=10.1006/jmbi.1995.0647;
+RA   Benjamin D.R., Markby D.W., Bourne H.R., Kuntz I.D.;
+RT   "Solution structure of the GTPase activating domain of alpha s.";
+RL   J. Mol. Biol. 254:681-691(1995).
+RN   [9]
+RP   PALMITOYLATION AT CYS-3, AND MUTAGENESIS OF CYS-3.
+RX   PubMed=8347607; DOI=10.1021/bi00083a001;
+RA   Degtyarev M.Y., Spiegel A.M., Jones T.L.Z.;
+RT   "The G protein alpha s subunit incorporates [3H]palmitic acid and
+RT   mutation of cysteine-3 prevents this modification.";
+RL   Biochemistry 32:8057-8061(1993).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins)
+CC       function as transducers in numerous signaling pathways controlled
+CC       by G protein-coupled receptors (GPCRs). Signaling involves the
+CC       activation of adenylyl cyclases, resulting in increased levels of
+CC       the signaling molecule cAMP. GNAS functions downstream of several
+CC       GPCRs, including beta-adrenergic receptors. Stimulates the Ras
+CC       signaling pathway via RAPGEF2. {ECO:0000250|UniProtKB:P63092}.
+CC   -!- SUBUNIT: Heterotrimeric G proteins are composed of 3 units; alpha,
+CC       beta and gamma. The alpha chain contains the guanine nucleotide
+CC       binding site (By similarity). Interacts with CRY1; the interaction
+CC       may block GPCR-mediated regulation of cAMP concentrations.
+CC       Interacts with ADCY6 and stimulates its adenylyl cyclase activity
+CC       (By similarity). Interacts with ADCY2 and ADCY5 (By similarity).
+CC       Stimulates the ADCY5 adenylyl cyclase activity (By similarity).
+CC       {ECO:0000250|UniProtKB:P04896, ECO:0000250|UniProtKB:P63092}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane
+CC       {ECO:0000250|UniProtKB:P63094}; Lipid-anchor
+CC       {ECO:0000250|UniProtKB:P63094}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=5;
+CC       Name=Gnas-1;
+CC         IsoId=P63095-1; Sequence=Displayed;
+CC       Name=Gnas-2;
+CC         IsoId=P63095-2; Sequence=VSP_021154;
+CC       Name=Gnas-3; Synonyms=GsaN1;
+CC         IsoId=P63095-3; Sequence=VSP_021155, VSP_021156;
+CC       Name=XLas-1;
+CC         IsoId=Q63803-1; Sequence=External;
+CC       Name=Nesp55;
+CC         IsoId=Q792G6-1; Sequence=External;
+CC         Note=Shares no sequence similarity with other isoforms due to a
+CC         novel first exon containing the entire reading frame spliced to
+CC         shared exon 2 so that exons 2-13 make up the 3'-UTR.;
+CC   -!- TISSUE SPECIFICITY: Isoform Gnas-3 is abundant in brain with
+CC       intermediate levels in skeletal muscle and very low levels in
+CC       other tissues. {ECO:0000269|PubMed:8486667}.
+CC   -!- MISCELLANEOUS: This protein is produced by a bicistronic gene
+CC       which also produces the ALEX protein from an overlapping reading
+CC       frame.
+CC   -!- MISCELLANEOUS: The GNAS locus is imprinted in a complex manner,
+CC       giving rise to distinct paternally, maternally and biallelically
+CC       expressed proteins. The XLas isoforms are paternally derived, the
+CC       Gnas isoforms are biallelically derived and the Nesp55 isoforms
+CC       are maternally derived.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(s) subfamily.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M12673; AAA41261.1; -; mRNA.
+DR   EMBL; M17525; AAA40827.1; -; mRNA.
+DR   EMBL; L10326; AAA41664.1; -; mRNA.
+DR   EMBL; AF107844; AAD11802.1; -; mRNA.
+DR   EMBL; DQ120475; AAZ23814.1; -; mRNA.
+DR   EMBL; DQ120476; AAZ23815.1; -; mRNA.
+DR   EMBL; BC061967; AAH61967.1; -; mRNA.
+DR   PIR; A27423; RGRTA2.
+DR   PIR; A46685; A46685.
+DR   RefSeq; NP_062005.1; NM_019132.1. [P63095-1]
+DR   UniGene; Rn.127731; -.
+DR   UniGene; Rn.31; -.
+DR   ProteinModelPortal; P63095; -.
+DR   SMR; P63095; -.
+DR   BioGrid; 247005; 1.
+DR   IntAct; P63095; 1.
+DR   iPTMnet; P63095; -.
+DR   PhosphoSitePlus; P63095; -.
+DR   SwissPalm; P63095; -.
+DR   PRIDE; P63095; -.
+DR   GeneID; 24896; -.
+DR   CTD; 2778; -.
+DR   RGD; 2716; Gnas.
+DR   HOVERGEN; HBG063184; -.
+DR   Proteomes; UP000002494; Unplaced.
+DR   GO; GO:0005737; C:cytoplasm; IDA:RGD.
+DR   GO; GO:0005829; C:cytosol; IDA:BHF-UCL.
+DR   GO; GO:0005768; C:endosome; IDA:RGD.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IDA:BHF-UCL.
+DR   GO; GO:0016020; C:membrane; IDA:BHF-UCL.
+DR   GO; GO:0045121; C:membrane raft; IDA:RGD.
+DR   GO; GO:0043025; C:neuronal cell body; IDA:RGD.
+DR   GO; GO:0048471; C:perinuclear region of cytoplasm; IDA:RGD.
+DR   GO; GO:0005886; C:plasma membrane; IDA:RGD.
+DR   GO; GO:0055037; C:recycling endosome; IDA:RGD.
+DR   GO; GO:0001726; C:ruffle; IDA:RGD.
+DR   GO; GO:0047391; F:alkylglycerophosphoethanolamine phosphodiesterase activity; IDA:MGI.
+DR   GO; GO:0043014; F:alpha-tubulin binding; IDA:RGD.
+DR   GO; GO:0031698; F:beta-2 adrenergic receptor binding; IPI:RGD.
+DR   GO; GO:0051430; F:corticotropin-releasing hormone receptor 1 binding; IPI:RGD.
+DR   GO; GO:0031748; F:D1 dopamine receptor binding; IPI:RGD.
+DR   GO; GO:0001965; F:G-protein alpha-subunit binding; IPI:RGD.
+DR   GO; GO:0031681; F:G-protein beta-subunit binding; IDA:RGD.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IEA:InterPro.
+DR   GO; GO:0005525; F:GTP binding; IDA:RGD.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0005159; F:insulin-like growth factor receptor binding; IPI:RGD.
+DR   GO; GO:0035255; F:ionotropic glutamate receptor binding; IPI:RGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0031852; F:mu-type opioid receptor binding; IDA:RGD.
+DR   GO; GO:0019904; F:protein domain specific binding; IPI:RGD.
+DR   GO; GO:0071880; P:adenylate cyclase-activating adrenergic receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0007191; P:adenylate cyclase-activating dopamine receptor signaling pathway; IDA:BHF-UCL.
+DR   GO; GO:0007189; P:adenylate cyclase-activating G-protein coupled receptor signaling pathway; IDA:RGD.
+DR   GO; GO:0055074; P:calcium ion homeostasis; IMP:RGD.
+DR   GO; GO:0071870; P:cellular response to catecholamine stimulus; IDA:BHF-UCL.
+DR   GO; GO:0071380; P:cellular response to prostaglandin E stimulus; IDA:BHF-UCL.
+DR   GO; GO:0007186; P:G-protein coupled receptor signaling pathway; IMP:RGD.
+DR   GO; GO:0045776; P:negative regulation of blood pressure; IMP:RGD.
+DR   GO; GO:0035814; P:negative regulation of renal sodium excretion; IMP:RGD.
+DR   GO; GO:0043950; P:positive regulation of cAMP-mediated signaling; ISS:UniProtKB.
+DR   GO; GO:0008284; P:positive regulation of cell proliferation; IDA:RGD.
+DR   GO; GO:0120162; P:positive regulation of cold-induced thermogenesis; ISS:YuBioLab.
+DR   GO; GO:0043547; P:positive regulation of GTPase activity; ISS:UniProtKB.
+DR   GO; GO:0001934; P:positive regulation of protein phosphorylation; IMP:RGD.
+DR   GO; GO:0010765; P:positive regulation of sodium ion transport; IMP:RGD.
+DR   GO; GO:0006357; P:regulation of transcription by RNA polymerase II; IMP:RGD.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   InterPro; IPR000367; Gprotein_alpha_S.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00443; GPROTEINAS.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 2.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Cell membrane; Complete proteome; GTP-binding;
+KW   Isopeptide bond; Lipoprotein; Magnesium; Membrane; Metal-binding;
+KW   Nucleotide-binding; Palmitate; Phosphoprotein; Reference proteome;
+KW   Transducer; Ubl conjugation.
+FT   INIT_MET      1      1       Removed. {ECO:0000250|UniProtKB:P04896}.
+FT   CHAIN         2    394       Guanine nucleotide-binding protein G(s)
+FT                                subunit alpha isoforms short.
+FT                                /FTId=PRO_0000203725.
+FT   NP_BIND      47     55       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   NP_BIND     197    204       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   NP_BIND     223    227       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   NP_BIND     292    295       GTP. {ECO:0000250|UniProtKB:P04896}.
+FT   METAL        54     54       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   METAL       204    204       Magnesium.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   BINDING     366    366       GTP; via amide nitrogen.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   MOD_RES     352    352       Phosphoserine.
+FT                                {ECO:0000244|PubMed:22673903}.
+FT   LIPID         2      2       N-palmitoyl glycine.
+FT                                {ECO:0000250|UniProtKB:P04896}.
+FT   LIPID         3      3       S-palmitoyl cysteine.
+FT                                {ECO:0000269|PubMed:8347607}.
+FT   CROSSLNK    300    300       Glycyl lysine isopeptide (Lys-Gly)
+FT                                (interchain with G-Cter in ubiquitin).
+FT                                {ECO:0000250|UniProtKB:P63092}.
+FT   VAR_SEQ       1     46       MGCLGNSKTEDQRNEEKAQREANKKIEKQLQKDKQVYRATH
+FT                                RLLLL -> MGDSVQILLVFMDK (in isoform Gnas-
+FT                                2). {ECO:0000303|Ref.4}.
+FT                                /FTId=VSP_021154.
+FT   VAR_SEQ      87     91       EKATK -> VYYPH (in isoform Gnas-3).
+FT                                {ECO:0000303|PubMed:8486667}.
+FT                                /FTId=VSP_021155.
+FT   VAR_SEQ      92    394       Missing (in isoform Gnas-3).
+FT                                {ECO:0000303|PubMed:8486667}.
+FT                                /FTId=VSP_021156.
+FT   MUTAGEN       3      3       C->A: Abolishes S-palmitoylation.
+FT                                {ECO:0000269|PubMed:8347607}.
+SQ   SEQUENCE   394 AA;  45664 MW;  20341187BE4412ED CRC64;
+     MGCLGNSKTE DQRNEEKAQR EANKKIEKQL QKDKQVYRAT HRLLLLGAGE SGKSTIVKQM
+     RILHVNGFNG EGGEEDPQAA RSNSDGEKAT KVQDIKNNLK EAIETIVAAM SNLVPPVELA
+     NPENQFRVDY ILSVMNVPNF DFPPEFYEHA KALWEDEGVR ACYERSNEYQ LIDCAQYFLD
+     KIDVIKQADY VPSDQDLLRC RVLTSGIFET KFQVDKVNFH MFDVGGQRDE RRKWIQCFND
+     VTAIIFVVAS SSYNMVIRED NQTNRLQEAL NLFKSIWNNR WLRTISVILF LNKQDLLAEK
+     VLAGKSKIED YFPEFARYTT PEDATPEPGE DPRVTRAKYF IRDEFLRIST ASGDGRHYCY
+     PHFTCAVDTE NIRRVFNDCR DIIQRMHLRQ YELL
+//

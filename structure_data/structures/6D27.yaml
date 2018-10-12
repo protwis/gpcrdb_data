@@ -1,0 +1,13 @@
+auxiliary_protein: Endolysin
+construct: 6d27
+distance: -1.73
+ligand:
+-   name: FT4
+    pubchemId: 25817650
+    role: Antagonist
+    title: CAY10471
+    type: Small molecule
+pdb: 6D27
+preferred_chain: A
+signaling_protein: None
+state: Inactive

@@ -63,3 +63,15 @@ advantage that it can be applied to targets for which no (homologous) crystal st
 the class A G protein-coupled receptors can be targeted with at least four-element pharmacophores. The fragment
 libraries can also be used to grow known ligands or for rotamer refinement of homology models. Researchers can download
 the complete fragment library or a subset matching their receptor of interest using our new tool in GPCRdb.
+
+Sodium ion site
+---------------
+
+In many GPCRs, a sodium ion acts as an allosteric modulator stabilising the inactive state. The sodium ion site involves a 
+number of direct and indirect polar interactions. The receptor residues D2x50 and S3x39 are known to interact frequently 
+and directly with the sodium ion, and mutation of these residues causes loss of G protein mediated signalling (White et al., *Structure*, **2018**; `10.1016/j.str.2017.12.013`_). 
+In the "Structure Browser" under the "Receptors" menu, users can find a "Sodium ion site" column section with two columns. 
+The first shows whether D2x50 and S3x39 are present in the wild type sequence of the structure, the second shows whether 
+there is a sodium ion interacting with the two residues in the given structure.   
+
+.. _10.1016/j.str.2017.12.013: https://doi.org/10.1016/j.str.2017.12.013
