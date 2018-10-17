@@ -371,7 +371,7 @@ Class A (Rhodopsin) | gpcrdba
 Class B1 (Secretin) | gpcrdbb
     Peptide receptors
         Calcitonin receptors
-            "gpcr","11","Calcitonin receptors","43","CT receptor","","","","CTRI1-|CTR2|C1A/C1B|CT-R|calcitonin receptor|CTR","1440","CALCR","calcitonin receptor","7q21.3","NM_001742","NP_001733|NP_001158209","P30988-2","799","621001","Calcr","calcitonin receptor","4q13","NM_001034015|NM_053816","NP_001029187|NP_446268","P32214","116506","MGI:101950","Calcr","calcitonin receptor","6 A1","NM_007588","NP_031614","Q60755","12311"
+            "gpcr","11","Calcitonin receptors","43","CT receptor","","","","CTRI1-|CTR2|C1A/C1B|CT-R|calcitonin receptor|CTR","1440","CALCR","calcitonin receptor","7q21.3","NM_001742","NP_001733|NP_001158209","P30988","799","621001","Calcr","calcitonin receptor","4q13","NM_001034015|NM_053816","NP_001029187|NP_446268","P32214","116506","MGI:101950","Calcr","calcitonin receptor","6 A1","NM_007588","NP_031614","Q60755","12311"
             "gpcr","11","Calcitonin receptors","44","AMY<sub>1</sub> receptor","RAMP1|CT receptor","","","CTR/RAMP1","","","","","","","","","","","","","","","","","","","","","","","",""
             "gpcr","11","Calcitonin receptors","45","AMY<sub>2</sub> receptor","RAMP2|CT receptor","","","","","","","","","","","","","","","","","","","","","","","","","","",""
             "gpcr","11","Calcitonin receptors","46","AMY<sub>3</sub> receptor","RAMP3|CT receptor","","","","","","","","","","","","","","","","","","","","","","","","","","",""

@@ -285,7 +285,7 @@ taar3_human,Q9P1P4,TAAR3P,GPR57;TAAR3,Class A (Rhodopsin),Orphan receptors,Class
 taar5_human,O14804,TAAR5,PNR,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,
 taar6_human,Q96RI8,TAAR6,TA4;TAR4;TRAR4,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,
 taar9_human,Q96RI9,TAAR9,TA3;TAR3;TRAR3,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,
-calcr_human,P30988-2,CALCR,,Class B1 (Secretin),Peptide receptors,Calcitonin receptors,43.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,15692146|14623894|25815174|11459804|8732687|25815174|1646739
+calcr_human,P30988,CALCR,,Class B1 (Secretin),Peptide receptors,Calcitonin receptors,43.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,15692146|14623894|25815174|11459804|8732687|25815174|1646739
 calrl_human,Q16602,CALCRL,CGRPR,Class B1 (Secretin),Peptide receptors,Calcitonin receptors,,,,,,
 crfr1_human,P34998-2,CRHR1,CRFR;CRFR1;CRHR,Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors,212.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,7692441|8274282|8243338|8243652|8536612|9326293|9863624|9851694|11145609|11711031|14761672|8536612|15450949
 crfr2_human,Q13324,CRHR2,CRF2R;CRH2R,Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors,213.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,9326293|7846062|7755719|11416224|7565810|8536644|9199241|9717834|10336722|15450949
