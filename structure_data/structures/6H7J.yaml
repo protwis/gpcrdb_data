@@ -1,0 +1,13 @@
+auxiliary_protein: 'Camelid antibody fragment Nb80, Thioredoxin 1'
+construct: 6h7j
+distance: 9.27
+ligand:
+-   name: 5FW
+    pubchemId: 443372
+    role: Agonist
+    title: ISOPRENALINE
+    type: Small molecule
+pdb: 6H7J
+preferred_chain: A
+signaling_protein: None
+state: Active

@@ -1,0 +1,13 @@
+auxiliary_protein: Rubredoxin
+construct: 6aky
+distance: 0.4
+ligand:
+-   name: A4X
+    pubchemId: None
+    role: Antagonist
+    title: 4,4-difluoro-N-[(1S)-3-{(3-exo)-3-[3-methyl-5-(propan-2-yl)-4H-1,2,4-triazol-4-yl]-8-azabicyclo[3.2.1]octan-8-yl}-1-(thiophen-3-yl)propyl]cyclohexane-1-carboxamide
+    type: Small molecule
+pdb: 6AKY
+preferred_chain: A
+signaling_protein: None
+state: Inactive

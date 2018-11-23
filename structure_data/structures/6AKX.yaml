@@ -1,0 +1,13 @@
+auxiliary_protein: Rubredoxin
+construct: 6akx
+distance: 0.71
+ligand:
+-   name: A4R
+    pubchemId: None
+    role: Antagonist
+    title: N-[(1S)-3-{(3-exo)-3-[3-methyl-5-(propan-2-yl)-4H-1,2,4-triazol-4-yl]-8-azabicyclo[3.2.1]octan-8-yl}-1-(thiophen-2-yl)propyl]cyclopentanecarboxamide
+    type: Small molecule
+pdb: 6AKX
+preferred_chain: B
+signaling_protein: None
+state: Inactive

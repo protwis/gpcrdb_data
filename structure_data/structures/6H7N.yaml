@@ -1,0 +1,14 @@
+auxiliary_protein: 'Camelid antibody fragment Nb6B9, Thioredoxin 1'
+construct: 6h7n
+distance: 9.29
+ligand:
+-   name: FVK
+    pubchemId: 12681891
+    role: Agonist
+    title: Xamoterol
+    type: Small molecule
+pdb: 6H7N
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Active

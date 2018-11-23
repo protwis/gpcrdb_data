@@ -1,0 +1,13 @@
+auxiliary_protein: 'Camelid antibody fragment Nb6B9, Thioredoxin 1'
+construct: 6h7m
+distance: 9.3
+ligand:
+-   name: 68H
+    pubchemId: 123600
+    role: Agonist
+    title: SALBUTAMOL
+    type: Small molecule
+pdb: 6H7M
+preferred_chain: A
+signaling_protein: None
+state: Active
