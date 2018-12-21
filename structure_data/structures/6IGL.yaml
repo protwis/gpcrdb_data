@@ -1,0 +1,14 @@
+auxiliary_protein: 'Endolysin'
+construct: 6igl
+distance: 0.16
+ligand:
+    name: PEP
+    chain: B
+    pubchemId: 16133819
+    role: Partial agonist
+    title: IRL1620
+    type: Peptide
+pdb: 6IGL
+preferred_chain: A
+signaling_protein: None
+state: Inactive

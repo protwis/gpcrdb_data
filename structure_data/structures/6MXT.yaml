@@ -1,23 +1,13 @@
-auxiliary_protein: ''
+auxiliary_protein: 'Nanobody 71, Endolysin'
 construct: 6mxt
-distance: 8.27
+distance: 8.22
 ligand:
--   name: P33
-    pubchemId: None
-    role: '.nan'
-    title: 3,6,9,12,15,18-HEXAOXAICOSANE-1,20-DIOL
-    type: None
--   name: K5Y
-    pubchemId: None
-    role: '.nan'
-    title: salmeterol
-    type: None
--   name: HTO
-    pubchemId: None
-    role: '.nan'
-    title: HEPTANE-1,2,3-TRIOL
-    type: None
-pdb: 6MXT
+-   name: F9S
+    pubchemId: 5152
+    role: Agonist
+    title: Salmeterol
+    type: Small molecule
+pdb: 6CSY
 preferred_chain: A
 signaling_protein: None
 state: Active

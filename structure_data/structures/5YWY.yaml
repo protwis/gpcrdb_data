@@ -1,0 +1,14 @@
+auxiliary_protein: 'Fab'
+construct: 5ywy
+distance: -0.97
+ligand:
+    name: 7UR
+    pubchemId: 92978378
+    role: Antagonist
+    title: ONO-AE3-208
+    type: Small molecule
+pdb: 5YWY
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

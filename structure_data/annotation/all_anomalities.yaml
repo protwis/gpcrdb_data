@@ -2550,9 +2550,9 @@ calcr_human:
     '5.46': P
 calrl_human:
     UniProt: calrl_human
-    Xtal Templ: calcr_human
+    Xtal Templ: calrl_human
     Cl: B1
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: ''
@@ -11050,9 +11050,9 @@ par4_human:
     '5.46': G
 pd2r2_human:
     UniProt: pd2r2_human
-    Xtal Templ: agtr2_human
+    Xtal Templ: pd2r2_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: ''

@@ -1,0 +1,14 @@
+auxiliary_protein: 'Endolysin'
+construct: 6igk
+distance: 2.18
+ligand:
+    name: PEP
+    chain: B
+    pubchemId: 16219334
+    role: Agonist
+    title: Endothelin-3
+    type: Peptide
+pdb: 6IGK
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

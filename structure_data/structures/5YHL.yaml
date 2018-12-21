@@ -1,0 +1,13 @@
+auxiliary_protein: 'Fab'
+construct: 5yhl
+distance: -0.94
+ligand:
+    name: 8VL
+    pubchemId: None
+    role: Antagonist
+    title: ONO-AE3-208-Br
+    type: Small molecule
+pdb: 5YHL
+preferred_chain: A
+signaling_protein: None
+state: Inactive

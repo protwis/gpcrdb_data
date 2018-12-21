@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin chimera'
+construct: 6m9t
+distance: 7.00
+ligand:
+    name: J9P
+    pubchemId: 9820635
+    role: Antagonist
+    title: misoprostol-FA
+    type: Small molecule
+pdb: 6M9T
+preferred_chain: A
+signaling_protein: None
+state: Active

@@ -1,16 +1,17 @@
-auxiliary_protein: T4-Lysozyme
-construct: 3uon
-distance: -1.5
+auxiliary_protein: 'Redesigned apo-cytochrome b562'
+construct: 5yc8
+distance: 1.05
 endogenous_ligand:
 -   iupharId: 294
     name: Acetylcholine
     type: Small molecule
 ligand:
--   name: QNB
-    pubchemId: '688566'
+    name: 3C0
+    pubchemId: 71183
     role: Antagonist
+    title: N-methyl scopolamine
     type: Small molecule
-pdb: 3UON
+pdb: 5YC8
 preferred_chain: A
 signaling_protein: None
 state: Inactive
