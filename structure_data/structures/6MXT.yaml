@@ -7,7 +7,7 @@ ligand:
     role: Agonist
     title: Salmeterol
     type: Small molecule
-pdb: 6CSY
+pdb: 6MXT
 preferred_chain: A
 signaling_protein: None
 state: Active

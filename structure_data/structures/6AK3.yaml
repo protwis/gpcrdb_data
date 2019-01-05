@@ -9,5 +9,6 @@ ligand:
     type: Small molecule
 pdb: 6AK3
 preferred_chain: B
+representative: true
 signaling_protein: None
 state: Active
