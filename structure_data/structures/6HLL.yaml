@@ -1,0 +1,13 @@
+auxiliary_protein: 'GIgA glycogen synthase'
+construct: 6hll
+distance: 1.05
+ligand:
+    name: GBK
+    pubchemId: 5311057
+    role: Antagonist
+    title: CP-99,994
+    type: Small molecule
+pdb: 6HLL
+preferred_chain: A
+signaling_protein: None
+state: Inactive

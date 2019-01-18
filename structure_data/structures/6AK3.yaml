@@ -1,0 +1,14 @@
+auxiliary_protein: Soluble cytochrome b562
+construct: 6ak3
+distance: 7.57
+ligand:
+-   name: P2E
+    pubchemId: 5280360
+    role: Agonist
+    title: Prostaglandin E2
+    type: Small molecule
+pdb: 6AK3
+preferred_chain: B
+representative: true
+signaling_protein: None
+state: Active

@@ -1,0 +1,13 @@
+auxiliary_protein: Rubredoxin
+construct: 6gps
+distance: 0.82
+ligand:
+    name: F7N
+    pubchemId: 53316397
+    role: Antagonist
+    title: MK-0812
+    type: Small molecule
+pdb: 6GPS
+preferred_chain: A
+signaling_protein: None
+state: Inactive

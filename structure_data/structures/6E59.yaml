@@ -1,0 +1,13 @@
+auxiliary_protein: 'GlgA glycogen synthase'
+construct: 6e59
+distance: -0.46
+ligand:
+    name: L76
+    pubchemId: 9809077
+    role: Antagonist
+    title: L760735
+    type: Small molecule
+pdb: 6E59
+preferred_chain: A
+signaling_protein: None
+state: Inactive

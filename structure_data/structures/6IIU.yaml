@@ -1,0 +1,13 @@
+auxiliary_protein: Soluble cytochrome b562, Rubredoxin
+construct: 6iiu
+distance: 1.01
+ligand:
+    name: A8X
+    pubchemId: 123879
+    role: Antagonist
+    title: Ramatroban
+    type: Small molecule
+pdb: 6IIU
+preferred_chain: A
+signaling_protein: None
+state: Inactive

@@ -1,0 +1,13 @@
+auxiliary_protein: 'Camelid antibody fragment Nb6B9, Thioredoxin 1'
+construct: 6h7l
+distance: 9.24
+ligand:
+-   name: Y00
+    pubchemId: 667531
+    role: Agonist
+    title: DOBUTAMINE
+    type: Small molecule
+pdb: 6H7L
+preferred_chain: A
+signaling_protein: None
+state: Active

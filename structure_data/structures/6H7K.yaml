@@ -1,0 +1,13 @@
+auxiliary_protein: 'Camelid antibody fragment Nb80, Thioredoxin 1'
+construct: 6h7k
+distance: 9.32
+ligand:
+-   name: FVN
+    pubchemId: 3034756
+    role: Agonist
+    title: Formoterol
+    type: Small molecule
+pdb: 6H7K
+preferred_chain: A
+signaling_protein: None
+state: Active

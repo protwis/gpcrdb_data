@@ -1,0 +1,13 @@
+auxiliary_protein: 'Thioredoxin 1, Carmelid antibody fragment Nb80'
+construct: 6ibl
+distance: 9.42
+ligand:
+-   name: H98
+    pubchemId: 3083544
+    role: Agonist
+    title: Formoterol
+    type: Small molecule
+pdb: 6IBL
+preferred_chain: A
+signaling_protein: None
+state: Active

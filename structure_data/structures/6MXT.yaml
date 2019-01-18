@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody 71, Endolysin'
+construct: 6mxt
+distance: 8.22
+ligand:
+-   name: F9S
+    pubchemId: 5152
+    role: Agonist
+    title: Salmeterol
+    type: Small molecule
+pdb: 6MXT
+preferred_chain: A
+signaling_protein: None
+state: Active
