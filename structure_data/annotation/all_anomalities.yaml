@@ -13192,9 +13192,9 @@ ta2r9_human:
     '5.46': G
 ta2r_human:
     UniProt: ta2r_human
-    Xtal Templ: pe2r3_human
+    Xtal Templ: ta2r_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: ''
@@ -13209,7 +13209,7 @@ ta2r_human:
     5x421: ''
     5x431: ''
     5x461: ''
-    6x461: ''
+    6x461: 6x461
     7x44: 7x44
     7x521: ''
     '2.50': D

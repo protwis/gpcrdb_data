@@ -1,0 +1,14 @@
+auxiliary_protein: Soluble cytochrome b562, Rubredoxin
+construct: 6iiv
+distance: 1.0
+ligand:
+    name: A90
+    pubchemId: 54343
+    role: Antagonist
+    title: Daltroban
+    type: Small molecule
+pdb: 6IIV
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

@@ -5,6 +5,7 @@ ligand:
 -   chain: B
     name: NTS
     pubchemId: '44363934'
+    title: Neurotensin(8-13)
     role: Agonist
     type: Peptide
 pdb: 4GRV
