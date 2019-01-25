@@ -1,0 +1,12 @@
+auxiliary_protein: None
+construct: 6niy
+distance: 7.8
+ligand:
+-   name: PEP
+    pubchemId: None
+    role: Agonist
+    type: Peptide
+pdb: 6NIY
+preferred_chain: R
+signaling_protein: Gs
+state: Active

@@ -1,0 +1,13 @@
+auxiliary_protein: 'Rubredoxin'
+construct: 6bd4
+distance: -4.31
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 6BD4
+preferred_chain: A
+signaling_protein: None
+state: Inactive
