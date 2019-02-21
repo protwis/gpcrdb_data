@@ -1,5 +1,6 @@
 auxiliary_protein: Nanobody
 construct: 5wb1
+distance: 9.12
 ligand:
 -   name: None
     pubchemId: None

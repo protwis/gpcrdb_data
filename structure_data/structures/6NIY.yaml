@@ -8,5 +8,6 @@ ligand:
     type: Peptide
 pdb: 6NIY
 preferred_chain: R
+representative: true
 signaling_protein: Gs
 state: Active

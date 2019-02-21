@@ -2,11 +2,11 @@ auxiliary_protein: 'Nanobody 43'
 construct: 6n51
 distance: 5.53
 ligand:
-    name: None
-    pubchemId: None
-    role: '.nan'
-    title: None
-    type: None
+    name: QUS
+    pubchemId: 40539
+    role: Agonist
+    title: Quisqualic acid
+    type: Small molecule
 pdb: 6N51
 preferred_chain: B
 signaling_protein: None

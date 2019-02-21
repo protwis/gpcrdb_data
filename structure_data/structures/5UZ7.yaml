@@ -8,6 +8,5 @@ ligand:
     type: None
 pdb: 5UZ7
 preferred_chain: R
-representative: true
 signaling_protein: Gs
 state: Active

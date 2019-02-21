@@ -1,0 +1,14 @@
+auxiliary_protein: Endolysin
+construct: 5zty
+distance: -0.5
+ligand:
+-   name: 9JU
+    pubchemId: 137321161
+    role: Antagonist
+    title: AM10257
+    type: Small molecule
+pdb: 5ZTY
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

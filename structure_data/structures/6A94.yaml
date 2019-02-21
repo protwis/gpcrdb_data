@@ -1,0 +1,14 @@
+auxiliary_protein: Soluble cytochrome b562
+construct: 6a94
+distance: -0.82
+ligand:
+-   name: ZOT
+    pubchemId: 5736
+    role: Antagonist
+    title: Zotepine
+    type: Small molecule
+pdb: 6A94
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

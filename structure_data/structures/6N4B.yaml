@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 6n4b
+distance: 8.26
+ligand:
+    name: KCA
+    pubchemId: 119025665
+    role: Agonist
+    title: Fub-mdmb
+    type: Small molecule
+pdb: 6N4B
+preferred_chain: R
+representative: true
+signaling_protein: Gi
+state: Active

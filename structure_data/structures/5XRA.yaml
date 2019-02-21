@@ -8,6 +8,5 @@ ligand:
     type: Small molecule
 pdb: 5XRA
 preferred_chain: A
-representative: true
 signaling_protein: None
 state: Active

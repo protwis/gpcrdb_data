@@ -1,0 +1,13 @@
+auxiliary_protein: 'Soluble cytochrome b562, Nanobody Nb.AT110i1'
+construct: 6do1
+distance: 8.03
+ligand:
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: Angiotensin-like peptide S1I8
+    type: peptide
+pdb: 6DO1
+preferred_chain: A
+signaling_protein: None
+state: Active
