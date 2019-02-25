@@ -3,9 +3,9 @@ construct: 5olg
 distance: -0.73
 ligand:
 -   name: ZMA
-    pubchemId: None
+    pubchemId: 176407
     role: Antagonist
-    title: ZM 241385
+    title: ZM241385
     type: Small molecule
 pdb: 5OLG
 preferred_chain: A

@@ -1,12 +1,12 @@
-auxiliary_protein: BRIL
+auxiliary_protein: Soluble cytochrome b562
 construct: 5nlx
 distance: -0.71
 ligand:
-    name: None
-    pubchemId: None
-    role: '.nan'
-    title: None
-    type: None
+    name: ZMA
+    pubchemId: 176407
+    role: Antagonist
+    title: ZM 241385
+    type: Small molecule
 pdb: 5NLX
 preferred_chain: A
 signaling_protein: None

@@ -1,10 +1,11 @@
-auxiliary_protein: BRIL
+auxiliary_protein: Soluble cytochrome b562
 construct: 5nm4
 distance: -0.8
 ligand:
     name: ZMA
     pubchemId: 176407
     role: Antagonist
+    title: ZM 241385
     type: Small molecule
 pdb: 5NM4
 preferred_chain: A
