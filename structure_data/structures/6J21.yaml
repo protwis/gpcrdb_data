@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6j21
+distance: 0.35
+ligand:
+    name: GBQ
+    pubchemId: 135413536
+    role: Antagonist
+    title: Aprepitant
+    type: Small molecule
+pdb: 6J21
+preferred_chain: A
+signaling_protein: None
+state: Inactive
