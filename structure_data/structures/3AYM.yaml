@@ -11,6 +11,6 @@ ligand:
     role: Agonist
     type: Small molecule
 pdb: 3AYM
-preferred_chain: A,B
+preferred_chain: B
 signaling_protein: None
 state: Inactive

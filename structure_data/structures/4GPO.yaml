@@ -7,6 +7,6 @@ ligand:
     role: .nan
     type: Small molecule
 pdb: 4GPO
-preferred_chain: A,B
+preferred_chain: B
 signaling_protein: None
 state: Inactive

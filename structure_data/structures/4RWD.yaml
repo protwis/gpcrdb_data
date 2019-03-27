@@ -9,6 +9,6 @@ ligand:
     title: DIPP-NH2
     type: Peptide-like
 pdb: 4RWD
-preferred_chain: A,B
+preferred_chain: A
 signaling_protein: None
 state: Inactive
