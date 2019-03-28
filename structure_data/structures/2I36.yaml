@@ -11,6 +11,6 @@ ligand:
     role: None
     type: None
 pdb: 2I36
-preferred_chain: A,B,C
+preferred_chain: A
 signaling_protein: None
 state: Inactive

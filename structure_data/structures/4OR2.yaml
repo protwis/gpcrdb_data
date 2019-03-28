@@ -12,7 +12,7 @@ ligand:
     title: FITM
     type: Small molecule
 pdb: 4OR2
-preferred_chain: A,B
+preferred_chain: B
 representative: true
 signaling_protein: None
 state: Inactive

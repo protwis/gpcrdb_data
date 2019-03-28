@@ -7,6 +7,6 @@ ligand:
     role: Agonist
     type: Small molecule
 pdb: 4UG2
-preferred_chain: A,B
+preferred_chain: B
 signaling_protein: None
 state: Intermediate
