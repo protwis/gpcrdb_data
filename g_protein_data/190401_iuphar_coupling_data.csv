@@ -1,0 +1,399 @@
+,Unnamed: 0,Unnamed: 0.1,EntryName,Uniprot,Gene,GeneAlternative,Class,Ligandtype,Family,IupharTargetId,PrimaryTransducer,SecondaryTransducer,PrimaryEffectors,SecondaryEffectors,primary_PMID,secondary_PMID,num_prim_pmids
+0,0,0,5ht1a_human,P08908,HTR1A,ADRB2RL1;ADRBRL1,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,1.0,Gi/Go family,,Adenylate cyclase inhibition,Phospholipase C stimulation,2549039|10585418|12145108,2549039,3.0
+1,1,1,5ht1b_human,P28222,HTR1B,HTR1DB,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,2.0,Gi/Go family,,Adenylate cyclase inhibition,,9840417|12145108,,2.0
+2,2,2,5ht1d_human,P28221,HTR1D,HTR1DA;HTRL,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,3.0,Gi/Go family,,Adenylate cyclase inhibition,,12145108|1652050,,2.0
+3,3,3,5ht1e_human,P28566,HTR1E,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,4.0,Gi/Go family,,Adenylate cyclase inhibition,,7984278,,1.0
+4,4,4,5ht1f_human,P30939,HTR1F,HTR1EL,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,5.0,Gi/Go family,,Adenylate cyclase inhibition,,8133900,,1.0
+5,5,5,5ht2a_human,P28223,HTR2A,HTR2,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,6.0,Gq/G11 family,Gi/Go family,Phospholipase C stimulation,Adenylate cyclase inhibition,11976386|7651356,7651356,2.0
+6,6,6,5ht2b_human,P41595,HTR2B,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,7.0,Gq/G11 family,,,,8621713|7700243,,2.0
+7,7,7,5ht2c_human,P28335,HTR2C,HTR1C,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,8.0,Gq/G11 family,Gi/Go family,Phospholipase C stimulation,Adenylate cyclase inhibition,8809227|11976386|2940597,8809227,3.0
+8,8,8,5ht4r_human,Q13639,HTR4,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,9.0,Gs family,G12/G13 family,"Adenylate cyclase stimulation, Calcium channel, Other - See Comments",Other - See Comments,2849052|2314390|1319906|2169944|1311410|7965722|12819788,11923294,7.0
+9,9,9,5ht5a_human,P47898,HTR5A,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,10.0,Gi/Go family,Gq/G11 family,Adenylate cyclase inhibition,Phospholipase C stimulation,9720796|9865521,12558985,2.0
+10,10,10,5ht6r_human,P50406,HTR6,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,11.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,12860470,12860470,1.0
+11,11,11,5ht7r_human,P34969,HTR7,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors,12.0,Gs family,,Adenylate cyclase stimulation,,9651336,,1.0
+12,12,12,acm1_human,P11229,CHRM1,,Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic),13.0,Gq/G11 family,,Phospholipase C stimulation,,8441322|8626481|8925880|2841607,,4.0
+13,13,13,acm2_human,P08172,CHRM2,,Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic),14.0,Gi/Go family,"Gs family, Gq/G11 family",Adenylate cyclase inhibition,"Adenylate cyclase stimulation, Phospholipase C stimulation",7608168|2841607,17065363|17392404,2.0
+14,14,14,drd2_human,P14416,DRD2,,Class A (Rhodopsin),Aminergic receptors,Dopamine receptors,215.0,"Gi/Go family, G protein independent mechanism",,"Adenylate cyclase inhibition, Other - See Comments","Potassium channel, Other - See Comments",11248120|1849644|6344565,2552081,3.0
+15,15,15,acm3_human,P20309,CHRM3,,Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic),15.0,Gq/G11 family,,Phospholipase C stimulation,,8925880|2841607,,2.0
+16,16,16,acm4_human,P08173,CHRM4,,Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic),16.0,Gi/Go family,,Adenylate cyclase inhibition,,7608168|2841607,,2.0
+17,17,17,acm5_human,P08912,CHRM5,,Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic),17.0,Gq/G11 family,,Phospholipase C stimulation,,8925880,,1.0
+18,18,18,ada1a_human,P35348,ADRA1A,ADRA1C,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,22.0,Gq/G11 family,G12/G13 family,"Phospholipase C stimulation, Calcium channel, Other - See Comments","Phospholipase A2 stimulation, Phospholipase D stimulation, Other - See Comments",14609720|11337028,14609720|14761886|11337028|14736339,2.0
+19,19,19,ada1b_human,P35368,ADRA1B,,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,23.0,Gq/G11 family,,"Phospholipase C stimulation, Calcium channel, Other - See Comments","Phospholipase D stimulation, Other - See Comments",11337028|14609720,11337028|14609720,2.0
+20,20,20,ada1d_human,P25100,ADRA1D,ADRA1A,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,24.0,Gq/G11 family,,"Phospholipase C stimulation, Calcium channel, Other - See Comments","Phospholipase D stimulation, Other - See Comments",11337028|14609720,11337028|14609720,2.0
+21,21,21,ada2a_human,P08913,ADRA2A,ADRA2R;ADRAR,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,25.0,Gi/Go family,Gs family,"Adenylate cyclase inhibition, Potassium channel, Calcium channel, Phospholipase A2 stimulation",Adenylate cyclase stimulation,2553931|2840317|1847497,1322406,3.0
+22,22,22,ada2b_human,P18089,ADRA2B,ADRA2L1;ADRA2RL1,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,26.0,Gi/Go family,Gs family,"Adenylate cyclase inhibition, Potassium channel, Calcium channel",Adenylate cyclase stimulation,2553931|2840317,1322406,2.0
+23,23,23,ada2c_human,P18825,ADRA2C,ADRA2L2;ADRA2RL2,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,27.0,Gi/Go family,Gs family,"Adenylate cyclase inhibition, Potassium channel, Calcium channel",Adenylate cyclase stimulation,2553931|2840317,1322406,2.0
+24,24,24,adrb1_human,P08588,ADRB1,ADRB1R;B1AR,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,28.0,Gs family,Gi/Go family,Adenylate cyclase stimulation,Guanylate cyclase stimulation,12106601|6143332,14711933,2.0
+25,25,25,adrb2_human,P07550,ADRB2,ADRB2R;B2AR,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,29.0,Gs family,Gi/Go family,Adenylate cyclase stimulation,Guanylate cyclase stimulation,9716378|14711933|12106601|6143332,14711933,4.0
+26,26,26,adrb3_human,P13945,ADRB3,ADRB3R;B3AR,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors,30.0,Gs family,Gi/Go family,Adenylate cyclase stimulation,"Adenylate cyclase inhibition, Guanylate cyclase stimulation",14551227|9717730|b3-adrenergic regulation of cardiac L-type Ca2+ current in human atrial myocytes.,14711933|10974023|10498836,3.0
+27,27,27,drd1_human,P21728,DRD1,,Class A (Rhodopsin),Aminergic receptors,Dopamine receptors,214.0,Gs family,Gs family,Adenylate cyclase stimulation,"Calcium channel, Other - See Comments",4401122,17318879|12466426,1.0
+28,28,28,drd3_human,P35462,DRD3,,Class A (Rhodopsin),Aminergic receptors,Dopamine receptors,216.0,Gi/Go family,,"Adenylate cyclase inhibition, Potassium channel",,8302280|7957635|7907363|1330688|8890457,,5.0
+29,29,29,drd4_human,P21917,DRD4,,Class A (Rhodopsin),Aminergic receptors,Dopamine receptors,217.0,Gi/Go family,,Adenylate cyclase inhibition,,10432116,,1.0
+30,30,30,drd5_human,P21918,DRD5,DRD1B;DRD1L2,Class A (Rhodopsin),Aminergic receptors,Dopamine receptors,218.0,Gs family,,Adenylate cyclase stimulation,,1826762|1831904|1834671,,3.0
+31,31,31,hrh1_human,P35367,HRH1,,Class A (Rhodopsin),Aminergic receptors,Histamine receptors,262.0,Gq/G11 family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,16189696,7695921,1.0
+32,32,32,hrh2_human,P25021,HRH2,,Class A (Rhodopsin),Aminergic receptors,Histamine receptors,263.0,Gq/G11 family,Gs family,Phospholipase C stimulation,Adenylate cyclase stimulation,8961278|2553705,8961278|2553705,2.0
+33,33,33,hrh3_human,Q9Y5N1,HRH3,GPCR97,Class A (Rhodopsin),Aminergic receptors,Histamine receptors,264.0,Gi/Go family,,Adenylate cyclase inhibition,,8838460|8023737,,2.0
+34,34,34,hrh4_human,Q9H3N8,HRH4,GPCR105,Class A (Rhodopsin),Aminergic receptors,Histamine receptors,265.0,Gi/Go family,,Phospholipase C stimulation,,12626656,,1.0
+35,35,35,taar1_human,Q96RJ0,TAAR1,TA1;TAR1;TRAR1,Class A (Rhodopsin),Aminergic receptors,Trace amine receptors,364.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,,11459929|11723224|15718104,,3.0
+36,36,36,agtr1_human,P30556,AGTR1,AGTR1A;AGTR1B;AT2R1;AT2R1B,Class A (Rhodopsin),Peptide receptors,Angiotensin receptors,34.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation, Calcium channel, Phospholipase A2 stimulation, Phospholipase D stimulation, Other - See Comments",,10977869,,1.0
+37,37,37,agtr2_human,P50052,AGTR2,,Class A (Rhodopsin),Peptide receptors,Angiotensin receptors,35.0,Gi/Go family,Gi/Go family,"Phospholipase A2 stimulation, Other - See Comments",Other - See Comments,9892143|8106454|8663053,,3.0
+38,38,38,apj_human,P35414,APLNR,AGTRL1;APJ,Class A (Rhodopsin),Peptide receptors,Apelin receptors,36.0,Gi/Go family,,Adenylate cyclase inhibition,,10777510|10525157|11779205|10871767|15385434,,5.0
+39,39,39,nmbr_human,P28336,NMBR,,Class A (Rhodopsin),Peptide receptors,Bombesin receptors,38.0,Gq/G11 family,,Phospholipase C stimulation,,1336112,,1.0
+40,40,40,grpr_human,P30550,GRPR,,Class A (Rhodopsin),Peptide receptors,Bombesin receptors,39.0,Gq/G11 family,G protein (identity unknown),"Phospholipase C stimulation, Phospholipase A2 stimulation, Phospholipase D stimulation","Adenylate cyclase stimulation, Phospholipase A2 stimulation, Phospholipase D stimulation",23220008|17349623|9530154|9688642|8842515|10347243,8129732|1532578|9194577,6.0
+41,41,41,brs3_human,P32247,BRS3,,Class A (Rhodopsin),Peptide receptors,Bombesin receptors,40.0,Gq/G11 family,G protein (identity unknown),"Phospholipase C stimulation, Phospholipase D stimulation, Other - See Comments",Other - See Comments,20467915|22127929|9593699|9765358|10689196,,5.0
+42,42,42,bkrb1_human,P46663,BDKRB1,BRADYB1,Class A (Rhodopsin),Peptide receptors,Bradykinin receptors,41.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation",,9111052,,1.0
+43,43,43,bkrb2_human,P30411,BDKRB2,BKR2,Class A (Rhodopsin),Peptide receptors,Bradykinin receptors,42.0,"Gs family, Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation, Phospholipase A2 stimulation",,1657928|8458876|8227332|7946358|10422787|2560387|2159473|10364236,,8.0
+44,44,44,cckar_human,P32238,CCKAR,CCKRA,Class A (Rhodopsin),Peptide receptors,Cholecystokinin receptors,76.0,Gq/G11 family,Gs family,Phospholipase C stimulation,Adenylate cyclase stimulation,8503909|8343165,7678554,2.0
+45,45,45,gasr_human,P32239,CCKBR,CCKRB,Class A (Rhodopsin),Peptide receptors,Cholecystokinin receptors,77.0,Gq/G11 family,,Phospholipase C stimulation,,7681836,,1.0
+46,46,46,c3ar_human,Q16581,C3AR1,AZ3B;C3R1;HNFAG09,Class A (Rhodopsin),Peptide receptors,Complement peptide receptors,31.0,G protein (identity unknown),,Other - See Comments,,21799898|21589858,,2.0
+47,47,47,c5ar1_human,P21730,C5AR1,C5AR;C5R1,Class A (Rhodopsin),Peptide receptors,Complement peptide receptors,32.0,"Gi/Go family, G protein (identity unknown)",Gq/G11 family,"Phospholipase C stimulation, Other - See Comments",Phospholipase C stimulation,2123189,7870028,1.0
+48,48,48,c5ar2_human,Q9P296,C5AR2,C5L2;GPR77,Class A (Rhodopsin),Peptide receptors,Complement peptide receptors,33.0,,,Other - See Comments,,,,
+49,49,49,ednra_human,P25101,EDNRA,ETA;ETRA,Class A (Rhodopsin),Peptide receptors,Endothelin receptors,219.0,Gq/G11 family,,"Phospholipase C stimulation, Phospholipase A2 stimulation, Phospholipase D stimulation",,7882989|9226297|Cell signalling by endothelin peptides.|Endothelin receptors and signalling mechanisms.,,4.0
+50,50,50,ednrb_human,P24530,EDNRB,ETRB,Class A (Rhodopsin),Peptide receptors,Endothelin receptors,220.0,"Gs family, Gi/Go family, Gq/G11 family",,"Phospholipase C stimulation, Phospholipase A2 stimulation, Phospholipase D stimulation",,9226297|Endothelin receptors and signalling mechanisms.|Cell signalling by endothelin peptides.|7882989,,4.0
+51,51,51,fpr1_human,P21462,FPR1,,Class A (Rhodopsin),Peptide receptors,Formylpeptide receptors,222.0,Gi/Go family,,"Adenylate cyclase inhibition, Phospholipase C stimulation, Phospholipase A2 stimulation, Phospholipase D stimulation",Calcium channel,7499283|3113327|8315346|18453106,11128053|558197|11689885|6310757,4.0
+52,52,52,fpr2_human,P25090,FPR2,FPRH1;FPRL1;LXA4R,Class A (Rhodopsin),Peptide receptors,Formylpeptide receptors,223.0,Gi/Go family,Gq/G11 family,"Phospholipase C stimulation, Phospholipase A2 stimulation, Phospholipase D stimulation","Phospholipase C stimulation, Phospholipase A2 stimulation, Phospholipase D stimulation, Other - See Comments",8006586|8389617|8662841|2983319|11689885|17191385,11689885|17191385,6.0
+53,53,53,fpr3_human,P25089,FPR3,FPRH1;FPRL2,Class A (Rhodopsin),Peptide receptors,Formylpeptide receptors,224.0,Gi/Go family,,Phospholipase A2 stimulation,,,,
+54,54,54,galr1_human,P47211,GALR1,GALNR;GALNR1,Class A (Rhodopsin),Peptide receptors,Galanin receptors,243.0,Gi/Go family,,"Adenylate cyclase inhibition, Potassium channel",,9578534|7524088|8750821|9722565,,4.0
+55,55,55,galr2_human,O43603,GALR2,GALNR2,Class A (Rhodopsin),Peptide receptors,Galanin receptors,244.0,Gq/G11 family,"Gi/Go family, G12/G13 family",Phospholipase C stimulation,"Adenylate cyclase inhibition, Other - See Comments",9880084|9578584|9685625|9427506|9832122|9305929|10980593,9578584|9685625|9281594,7.0
+56,56,56,galr3_human,O60755,GALR3,GALNR3,Class A (Rhodopsin),Peptide receptors,Galanin receptors,245.0,Gi/Go family,,"Adenylate cyclase inhibition, Potassium channel",,9832121|9722565,,2.0
+57,57,57,ghsr_human,Q92847,GHSR,,Class A (Rhodopsin),Peptide receptors,Ghrelin receptors,246.0,Gq/G11 family,"Gi/Go family, G12/G13 family, G protein independent mechanism",Phospholipase C stimulation,Other - See Comments,22117076|20556829,22117076|15905359|21402696,2.0
+58,58,58,gnrhr_human,P30968,GNRHR,GRHR,Class A (Rhodopsin),Peptide receptors,Gonadotrophin-releasing hormone receptors,256.0,Gq/G11 family,Gi/Go family,Phospholipase C stimulation,Other - See Comments,8898346|8058044,15082521,2.0
+59,59,59,kissr_human,Q969F8,KISS1R,AXOR12;GPR54,Class A (Rhodopsin),Peptide receptors,Kisspeptin receptors,266.0,Gq/G11 family,,Phospholipase C stimulation,,15596153|11414709|11457843|11387329,,4.0
+60,60,60,mchr1_human,Q99705,MCHR1,GPR24;SLC1,Class A (Rhodopsin),Peptide receptors,Melanin-concentrating hormone,280.0,"Gs family, Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation",,10421368|11108264|12865333|11708774,,4.0
+61,61,61,mchr2_human,Q969V1,MCHR2,GPR145;SLT,Class A (Rhodopsin),Peptide receptors,Melanin-concentrating hormone,281.0,Gq/G11 family,,"Adenylate cyclase inhibition, Phospholipase C stimulation",,11404457,,1.0
+62,62,62,mshr_human,Q01726,MC1R,MSHR,Class A (Rhodopsin),Peptide receptors,Melanocortin receptors,282.0,Gs family,G protein (identity unknown),Adenylate cyclase stimulation,Other - See Comments,8187950,11161002,1.0
+63,63,63,acthr_human,Q01718,MC2R,ACTHR,Class A (Rhodopsin),Peptide receptors,Melanocortin receptors,283.0,Gs family,G protein (identity unknown),Adenylate cyclase stimulation,Calcium channel,9175632,2579947,1.0
+64,64,64,mc3r_human,P41968,MC3R,,Class A (Rhodopsin),Peptide receptors,Melanocortin receptors,284.0,Gs family,G protein (identity unknown),Adenylate cyclase stimulation,Other - See Comments,8463333,11161002|12906838,1.0
+65,65,65,mc4r_human,P32245,MC4R,,Class A (Rhodopsin),Peptide receptors,Melanocortin receptors,285.0,Gs family,G protein (identity unknown),Adenylate cyclase stimulation,Other - See Comments,8463333|7854347,11161002,2.0
+66,66,66,mc5r_human,P33032,MC5R,,Class A (Rhodopsin),Peptide receptors,Melanocortin receptors,286.0,Gs family,G protein (identity unknown),Adenylate cyclase stimulation,Other - See Comments,8161509,11161002,1.0
+67,67,67,mtlr_human,O43193,MLNR,GPR38;MTLR;MTLR1,Class A (Rhodopsin),Peptide receptors,Motilin receptors,297.0,"Gq/G11 family, G12/G13 family",,Phospholipase C stimulation,,,,
+68,68,68,nmur1_human,Q9HB89,NMUR1,GPR66,Class A (Rhodopsin),Peptide receptors,Neuromedin U receptors,298.0,Gq/G11 family,,Phospholipase C stimulation,,15292653|15331768|22832358|10899166|10811630|22493291,,6.0
+69,69,69,nmur2_human,Q9GZQ4,NMUR2,NMU2R;TGR1,Class A (Rhodopsin),Peptide receptors,Neuromedin U receptors,299.0,Gq/G11 family,,Phospholipase C stimulation,,15292653|15331768|22832358|10899166|11010960|10811630|22493291,,7.0
+70,70,70,npff1_human,Q9GZQ6,NPFFR1,GPR147;NPFF1,Class A (Rhodopsin),Peptide receptors,Neuropeptide FF/neuropeptide AF receptors,300.0,Gi/Go family,,"Adenylate cyclase inhibition, Calcium channel, Other - See Comments",,16488058|12242085,,2.0
+71,71,71,npff2_human,Q9Y5X5,NPFFR2,GPR74;NPFF2;NPGPR,Class A (Rhodopsin),Peptide receptors,Neuropeptide FF/neuropeptide AF receptors,301.0,Gi/Go family,,"Adenylate cyclase inhibition, Calcium channel, Other - See Comments",,12242085|15608144,,2.0
+72,72,72,npsr1_human,Q6W5P4,NPSR1,GPR154;GPRA;PGR14,Class A (Rhodopsin),Peptide receptors,Neuropeptide S receptors,302.0,Gq/G11 family,Gs family,Phospholipase C stimulation,Adenylate cyclase stimulation,16790440|17696420|15312648,14757815|16144971,3.0
+73,73,73,npbw1_human,P48145,NPBWR1,GPR7,Class A (Rhodopsin),Peptide receptors,Neuropeptide W/neuropeptide B receptors,303.0,Gi/Go family,,Adenylate cyclase inhibition,,12130646|12118011|12401809|12719537,,4.0
+74,74,74,npbw2_human,P48146,NPBWR2,GPR8,Class A (Rhodopsin),Peptide receptors,Neuropeptide W/neuropeptide B receptors,304.0,Gi/Go family,,Adenylate cyclase inhibition,,12130646|12401809|12719537,,3.0
+75,75,75,npy1r_human,P25929,NPY1R,NPYR;NPYY1,Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors,305.0,Gi/Go family,,Adenylate cyclase inhibition,,1316999|1321422|7623780|15308651,,4.0
+76,76,76,cxcr1_human,P25024,CXCR1,CMKAR1;IL8RA,Class A (Rhodopsin),Protein receptors,Chemokine receptors,68.0,Gi/Go family,Gq/G11 family,"Adenylate cyclase inhibition, Calcium channel","Calcium channel, Phospholipase D stimulation, Other - See Comments",9915816|10188995|12627953,10188995|8692878,3.0
+77,77,77,npy2r_human,P49146,NPY2R,,Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors,306.0,Gi/Go family,Gq/G11 family,"Adenylate cyclase inhibition, Calcium channel",Phospholipase C stimulation,8132619|15308651,15308651,2.0
+78,78,78,npy4r_human,P50391,NPY4R,PPYR1,Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors,307.0,Gi/Go family,Gq/G11 family,Adenylate cyclase inhibition,Phospholipase C stimulation,15308651|10640301|9210181,15308651,3.0
+79,79,79,npy5r_human,Q15761,NPY5R,NPYR5,Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors,308.0,Gi/Go family,,Adenylate cyclase inhibition,,11287093,,1.0
+80,80,80,npy6r_human,Q99463,NPY6R,NPY1RL;Y2B,Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors,,,,,,,,
+81,81,81,ntr1_human,P30989,NTSR1,NTRR,Class A (Rhodopsin),Peptide receptors,Neurotensin receptors,309.0,Gq/G11 family,"Gs family, Gi/Go family",Phospholipase C stimulation,"Adenylate cyclase stimulation, Adenylate cyclase inhibition, Guanylate cyclase stimulation, Other - See Comments",1331689|11042263|1328536|3011505|8528577|3018165|3040912,11042263|8380559|8528577|2988544|6329783|3010077,7.0
+82,82,82,ntr2_human,O95665,NTSR2,,Class A (Rhodopsin),Peptide receptors,Neurotensin receptors,310.0,Gq/G11 family,,Phospholipase C stimulation,,9080465|8795617,12084713|15361549,2.0
+83,83,83,oprd_human,P41143,OPRD1,OPRD,Class A (Rhodopsin),Peptide receptors,Opioid receptors,317.0,Gi/Go family,,"Adenylate cyclase inhibition, Phospholipase C stimulation, Potassium channel, Calcium channel, Other - See Comments",,12558970|10836142|15155836|15464054,,4.0
+84,84,84,oprk_human,P41145,OPRK1,OPRK,Class A (Rhodopsin),Peptide receptors,Opioid receptors,318.0,Gi/Go family,"Gi/Go family, G12/G13 family","Adenylate cyclase inhibition, Potassium channel, Calcium channel","Adenylate cyclase inhibition, Phospholipase C stimulation, Other - See Comments",7700253|7700508|8103800|2828959|8381004|2906610|7902584|7931552,8863832|7494457|9572309|7875310|10646507|15070904,8.0
+85,85,85,oprm_human,P35372,OPRM1,MOR1,Class A (Rhodopsin),Peptide receptors,Opioid receptors,319.0,Gi/Go family,Gq/G11 family,"Adenylate cyclase stimulation, Adenylate cyclase inhibition, Phospholipase C stimulation, Potassium channel, Calcium channel, Phospholipase A2 stimulation, Phospholipase D stimulation, Other - See Comments",Phospholipase C stimulation,9030567|8643659|8097884|7595566|10323586|8752140|8637576|12519790|12496346|7643119|8863832|2440052|8863841|7746271|7996199|7494457|8700117,12077485|9572309,17.0
+86,86,86,oprx_human,P41146,OPRL1,OOR;ORL1,Class A (Rhodopsin),Peptide receptors,Opioid receptors,320.0,Gi/Go family,Gi/Go family,"Adenylate cyclase inhibition, Potassium channel, Calcium channel, Other - See Comments",Adenylate cyclase inhibition,7566152|7481766|9353393|11027224|8735615,,5.0
+87,87,87,ox1r_human,O43613,HCRTR1,,Class A (Rhodopsin),Peptide receptors,Orexin receptors,321.0,"Gs family, Gi/Go family, Gq/G11 family",,"Adenylate cyclase stimulation, Adenylate cyclase inhibition, Phospholipase C stimulation",,12606634|12702704|12208495|18488139|27237973|26582739|Intracellular Signal Pathways Utilized by the Hypocretin/Orexin Receptors.|14691055|10880509|16430869|15683363|17050705|9491897|10498827|20002100|22550093|18198212,,17.0
+88,88,88,ox2r_human,O43614,HCRTR2,,Class A (Rhodopsin),Peptide receptors,Orexin receptors,322.0,"Gs family, Gi/Go family, Gq/G11 family",,"Adenylate cyclase stimulation, Adenylate cyclase inhibition, Phospholipase C stimulation",,12606634|21378163|12702704|12208495|11549701|11600545|9491897|18599270,,8.0
+89,89,89,qrfpr_human,Q96P65,QRFPR,GPR103,Class A (Rhodopsin),Peptide receptors,Peptide P518 receptors,333.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation",,12960173|12714592,,2.0
+90,90,90,prlhr_human,P49683,PRLHR,GPR10;GR3,Class A (Rhodopsin),Peptide receptors,Prolactin-releasing peptide receptors,,,,,,,,
+91,91,91,par1_human,P25116,F2R,CF2R;PAR1;TR,Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors,,,,,,,,
+92,92,92,par2_human,P55085,F2RL1,GPR11;PAR2,Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors,,,,,,,,
+93,93,93,par3_human,O00254,F2RL2,PAR3,Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors,,,,,,,,
+94,94,94,par4_human,Q96RI0,F2RL3,PAR4,Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors,,,,,,,,
+95,95,95,rxfp1_human,Q9HBX9,RXFP1,LGR7,Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors,351.0,"Gs family, Gi/Go family","Gs family, Gi/Go family","Adenylate cyclase stimulation, Adenylate cyclase inhibition","Guanylate cyclase stimulation, Other - See Comments",17509748|11517286|15956719|16569707|20664520|19029286|18805799|10935549|11809971|10235632|15956721|15604116|12595573,22835547|24098703|15215200|17522128|9622136|22936987|12522118|15289446|19289144|22510373|19073841|12646076|23704950|11967993,13.0
+96,96,96,rxfp2_human,Q8WXD0,RXFP2,GPR106;GREAT;LGR8,Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors,352.0,"Gs family, Gi/Go family",,"Adenylate cyclase stimulation, Adenylate cyclase inhibition",,16569707|15649866|11809971|15123806|12114498|12506116,,6.0
+97,97,97,rl3r1_human,Q9NSD7,RXFP3,RLN3R1;SALPR,Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors,353.0,Gi/Go family,,"Adenylate cyclase inhibition, Other - See Comments",,23303914|15367576|15465925|14522968|15525639,,5.0
+98,98,98,rl3r2_human,Q8TDU9,RXFP4,GPR100;RLN3R2,Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors,354.0,Gi/Go family,Gi/Go family,"Adenylate cyclase inhibition, Other - See Comments","Calcium channel, Other - See Comments",27243554|15465925|14522967|15525639,27243554|15525639|25514935,4.0
+99,99,99,ssr1_human,P30872,SSTR1,,Class A (Rhodopsin),Peptide receptors,Somatostatin receptors,355.0,Gi/Go family,G protein (identity unknown),Adenylate cyclase inhibition,Other - See Comments,8144617|8405411|10598790,7907795|8144617|12566440,3.0
+100,100,100,ssr2_human,P30874,SSTR2,,Class A (Rhodopsin),Peptide receptors,Somatostatin receptors,356.0,Gi/Go family,,"Adenylate cyclase inhibition, Potassium channel, Calcium channel",,8144617|8405411|7538774|10598790,,4.0
+101,101,101,ssr3_human,P32745,SSTR3,,Class A (Rhodopsin),Peptide receptors,Somatostatin receptors,357.0,Gi/Go family,,Adenylate cyclase inhibition,,8405411|10598790|1328199,,3.0
+102,102,102,ssr4_human,P31391,SSTR4,,Class A (Rhodopsin),Peptide receptors,Somatostatin receptors,358.0,Gi/Go family,"Gi/Go family, G protein (identity unknown)",Adenylate cyclase inhibition,"Potassium channel, Calcium channel, Other - See Comments",8175684|8100352|7905265|10598790,8175684|25483286|20573967|24810884|9426226|9809748|12566440|18385315|25445035|10347203|9831922|10486283|24743707,4.0
+103,103,103,ssr5_human,P35346,SSTR5,,Class A (Rhodopsin),Peptide receptors,Somatostatin receptors,359.0,Gi/Go family,,"Adenylate cyclase inhibition, Potassium channel, Calcium channel",,23418396|10598790,,2.0
+104,104,104,nk1r_human,P25103,TACR1,NK1R;TAC1R,Class A (Rhodopsin),Peptide receptors,Tachykinin receptors,360.0,"Gs family, Gq/G11 family",,"Adenylate cyclase stimulation, Phospholipase C stimulation",,20504688|2461321|12065752|1370820|8903968,,5.0
+105,105,105,nk2r_human,P21452,TACR2,NK2R;NKNAR;TAC2R,Class A (Rhodopsin),Peptide receptors,Tachykinin receptors,361.0,"Gs family, Gq/G11 family",,"Adenylate cyclase stimulation, Phospholipase C stimulation",,11459843|9826060|8903968,,3.0
+106,106,106,nk3r_human,P29371,TACR3,NK3R;TAC3R,Class A (Rhodopsin),Peptide receptors,Tachykinin receptors,362.0,Gq/G11 family,,Phospholipase C stimulation,,8903968,,1.0
+107,107,107,cxcr2_human,P25025,CXCR2,IL8RB,Class A (Rhodopsin),Protein receptors,Chemokine receptors,69.0,Gi/Go family,,"Adenylate cyclase inhibition, Calcium channel","Calcium channel, Other - See Comments",9405640|10188995|12627953,8692878,3.0
+108,108,108,trfr_human,P34981,TRHR,,Class A (Rhodopsin),Peptide receptors,Thyrotropin-releasing hormone receptors,363.0,Gq/G11 family,,Phospholipase C stimulation,,1334076|1333052,,2.0
+109,109,109,ur2r_human,Q9UKP6,UTS2R,GPR14,Class A (Rhodopsin),Peptide receptors,Urotensin receptors,365.0,Gq/G11 family,,Phospholipase C stimulation,,12381671|11020490|12842917|11435331|12503613,,5.0
+110,110,110,v1ar_human,P37288,AVPR1A,AVPR1,Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors,366.0,Gq/G11 family,,Phospholipase C stimulation,,10026824,,1.0
+111,111,111,v1br_human,P47901,AVPR1B,AVPR3;VPR3,Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors,367.0,Gq/G11 family,,Phospholipase C stimulation,,10026824,,1.0
+112,112,112,v2r_human,P30518,AVPR2,ADHR;DIR;DIR3;V2R,Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors,368.0,Gs family,,Adenylate cyclase stimulation,,10026824,,1.0
+113,113,113,oxyr_human,P30559,OXTR,,Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors,369.0,Gq/G11 family,Gi/Go family,Phospholipase C stimulation,Adenylate cyclase inhibition,9575824|10795906,9575824|9176188,2.0
+114,114,114,cml1_human,Q99788,CMKLR1,CHEMR23;DEZ,Class A (Rhodopsin),Protein receptors,Chemerin receptor,79.0,Gi/Go family,,Adenylate cyclase inhibition,,14530373,,1.0
+115,115,115,ccr1_human,P32246,CCR1,CMKBR1;CMKR1;SCYAR1,Class A (Rhodopsin),Protein receptors,Chemokine receptors,58.0,Gi/Go family,Gi/Go family,Calcium channel,Phospholipase C stimulation,16226254,11943214,1.0
+116,116,116,ccr2_human,P41597,CCR2,CMKBR2,Class A (Rhodopsin),Protein receptors,Chemokine receptors,59.0,Gi/Go family,,,,12920215,,1.0
+117,117,117,ccr3_human,P51677,CCR3,CMKBR3,Class A (Rhodopsin),Protein receptors,Chemokine receptors,60.0,Gi/Go family,,Calcium channel,,,,
+118,118,118,ccr4_human,P51679,CCR4,CMKBR4,Class A (Rhodopsin),Protein receptors,Chemokine receptors,61.0,Gi/Go family,,Calcium channel,,11880151,,1.0
+119,119,119,ccr5_human,P51681,CCR5,CMKBR5,Class A (Rhodopsin),Protein receptors,Chemokine receptors,62.0,Gi/Go family,Gi/Go family,Calcium channel,Adenylate cyclase inhibition,11880151,9303305,1.0
+120,120,120,ccr6_human,P51684,CCR6,CKRL3;CMKBR6;GPR29;STRL22,Class A (Rhodopsin),Protein receptors,Chemokine receptors,63.0,Gi/Go family,,Calcium channel,,9893054,,1.0
+121,121,121,ccr7_human,P32248,CCR7,CMKBR7;EBI1;EVI1,Class A (Rhodopsin),Protein receptors,Chemokine receptors,64.0,Gi/Go family,Gi/Go family,Calcium channel,Other - See Comments,15059845|15778365|10512740,15054093,3.0
+122,122,122,ccr8_human,P51685,CCR8,CKRL1;CMKBR8;CMKBRL2,Class A (Rhodopsin),Protein receptors,Chemokine receptors,65.0,Gi/Go family,,Calcium channel,,9207005,,1.0
+123,123,123,ccr9_human,P51686,CCR9,GPR28,Class A (Rhodopsin),Protein receptors,Chemokine receptors,66.0,Gi/Go family,,Calcium channel,,10229797|10544196|10498628,,3.0
+124,124,124,ccr10_human,P46092,CCR10,GPR2,Class A (Rhodopsin),Protein receptors,Chemokine receptors,67.0,Gi/Go family,,Calcium channel,,,,
+125,125,125,cxcr3_human,P49682,CXCR3,GPR9,Class A (Rhodopsin),Protein receptors,Chemokine receptors,70.0,Gi/Go family,,Calcium channel,,9842912|10825390|12782716|15150261,,4.0
+126,126,126,cxcr4_human,P61073,CXCR4,,Class A (Rhodopsin),Protein receptors,Chemokine receptors,71.0,Gi/Go family,,Calcium channel,,9295051|11880151,,2.0
+127,127,127,cxcr5_human,P32302,CXCR5,BLR1;MDR15,Class A (Rhodopsin),Protein receptors,Chemokine receptors,72.0,Gi/Go family,Gi/Go family,Calcium channel,Other - See Comments,,,
+128,128,128,cxcr6_human,O00574,CXCR6,BONZO;STRL33;TYMSTR,Class A (Rhodopsin),Protein receptors,Chemokine receptors,73.0,Gi/Go family,,,,11017100|14625285,,2.0
+129,129,129,cx3c1_human,P49238,CX3CR1,CMKBRL1;GPR13,Class A (Rhodopsin),Protein receptors,Chemokine receptors,74.0,Gi/Go family,,Calcium channel,,11880151,,1.0
+130,130,130,xcr1_human,P46094,XCR1,CCXCR1;GPR5,Class A (Rhodopsin),Protein receptors,Chemokine receptors,75.0,Gi/Go family,,Calcium channel,,9632725,,1.0
+131,131,131,ackr1_human,Q16570,ACKR1,DARC;FY;GPD,Class A (Rhodopsin),Protein receptors,Chemokine receptors,,,,,,,,
+132,132,132,ackr2_human,O00590,ACKR2,CCBP2;CCR10;CMKBR9;D6,Class A (Rhodopsin),Protein receptors,Chemokine receptors,,,,,,,,
+133,133,133,ackr3_human,P25106,ACKR3,CMKOR1;CXCR7;GPR159;RDC1,Class A (Rhodopsin),Protein receptors,Chemokine receptors,,,,,,,,
+134,134,134,ackr4_human,Q9NPB9,ACKR4,CCBP2;CCR11;CCRL1;VSHK1,Class A (Rhodopsin),Protein receptors,Chemokine receptors,,,,,,,,
+135,135,135,ccrl2_human,O00421,CCRL2,CCR11;CCR6;CKRX;CRAM;HCR,Class A (Rhodopsin),Protein receptors,Chemokine receptors,,,,,,,,
+136,136,136,fshr_human,P23945,FSHR,LGR1,Class A (Rhodopsin),Protein receptors,Glycoprotein hormone receptors,253.0,"Gs family, Gi/Go family, Gq/G11 family",,Adenylate cyclase stimulation,,22666216,,1.0
+137,137,137,lshr_human,P22888,LHCGR,LCGR;LGR2;LHRHR,Class A (Rhodopsin),Protein receptors,Glycoprotein hormone receptors,254.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,8702611|10493819,15919743|10493819,2.0
+138,138,138,tshr_human,P16473,TSHR,LGR3,Class A (Rhodopsin),Protein receptors,Glycoprotein hormone receptors,255.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,8188646,8188646,1.0
+139,139,139,pkr1_human,Q8TCW9,PROKR1,GPR73;PKR1,Class A (Rhodopsin),Protein receptors,Prokineticin receptors,335.0,Gq/G11 family,Gs family,Phospholipase C stimulation,Adenylate cyclase stimulation,12427552|11886876|16299550,15772293,3.0
+140,140,140,pkr2_human,Q8NFJ6,PROKR2,GPR73L1;PKR2,Class A (Rhodopsin),Protein receptors,Prokineticin receptors,336.0,Gq/G11 family,"Gs family, Gi/Go family",Phospholipase C stimulation,"Adenylate cyclase stimulation, Other - See Comments",15772293|18826963,15772293|11751915,2.0
+141,141,141,ffar1_human,O14842,FFAR1,GPR40,Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors,225.0,Gq/G11 family,"Gs family, Gi/Go family","Adenylate cyclase inhibition, Phospholipase C stimulation","Adenylate cyclase stimulation, Phospholipase C stimulation, Phospholipase A2 stimulation",12496284|12565875|12629551,16254037|15695516,3.0
+142,142,142,ffar2_human,O15552,FFAR2,FFA2;GPCR43;GPR43,Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors,226.0,Gq/G11 family,Gi/Go family,Phospholipase C stimulation,Adenylate cyclase inhibition,12496283|12684041|12711604,12496283|12684041|12711604,3.0
+143,143,143,ffar3_human,O14843,FFAR3,GPR41,Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors,227.0,Gi/Go family,,Adenylate cyclase inhibition,,14722361,,1.0
+144,144,144,ffar4_human,Q5NUL3,FFAR4,GPR120;GPR129;O3FAR1;PGR4,Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors,127.0,Gq/G11 family,,,,21618241|18827341|15774482,,3.0
+145,145,145,gpr42_human,O15529,GPR42,GPR42P,Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors,228.0,,,,,,,
+146,146,146,lt4r1_human,Q15722,LTB4R,BLT;BLT1;BLTR;CMKRL1;GPR16;P2RY7,Class A (Rhodopsin),Lipid receptors,Leukotriene receptors,267.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation, Other - See Comments",,12615958|9504401|9742207|10601267|15363951|9177352,,6.0
+147,147,147,lt4r2_human,Q9NPC1,LTB4R2,BLT2R;BLTR2,Class A (Rhodopsin),Lipid receptors,Leukotriene receptors,268.0,Gi/Go family,Gq/G11 family,Adenylate cyclase inhibition,Phospholipase C stimulation,10889186|10913347|10934230,10889186|10913347|10934230,3.0
+148,148,148,cltr1_human,Q9Y271,CYSLTR1,CYSLT1,Class A (Rhodopsin),Lipid receptors,Leukotriene receptors,269.0,Gq/G11 family,Gi/Go family,Phospholipase C stimulation,Phospholipase C stimulation,10391245|10462554,14518564|1964390|2174431,2.0
+149,149,149,cltr2_human,Q9NS75,CYSLTR2,CYSLT2;CYSLT2R;PSEC0146,Class A (Rhodopsin),Lipid receptors,Leukotriene receptors,270.0,Gq/G11 family,Gi/Go family,Phospholipase C stimulation,Other - See Comments,21753081|10851239,13679572,2.0
+150,150,150,oxer1_human,Q8TDS5,OXER1,GPR170;TG1019,Class A (Rhodopsin),Lipid receptors,Leukotriene receptors,271.0,Gi/Go family,Gi/Go family,Phospholipase C stimulation,"Adenylate cyclase inhibition, Phospholipase A2 stimulation, Other - See Comments",22634634|16039985,22634634|12065583|16039985|8663432,2.0
+151,151,151,lpar1_human,Q92633,LPAR1,EDG2;LPA1,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,272.0,"Gi/Go family, Gq/G11 family, G12/G13 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation, Phospholipase A2 stimulation, Other - See Comments",,9600933|11040035,,2.0
+152,152,152,lpar2_human,Q9HBW0,LPAR2,EDG4;LPA2,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,273.0,"Gi/Go family, Gq/G11 family, G12/G13 family","Gi/Go family, Gq/G11 family, G12/G13 family","Adenylate cyclase inhibition, Phospholipase A2 stimulation",,11040035,,1.0
+153,153,153,lpar3_human,Q9UBY5,LPAR3,EDG7;LPA3,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,274.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase A2 stimulation",,11040035,,1.0
+154,154,154,lpar4_human,Q99677,LPAR4,GPR23;LPA4;P2RY9,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,94.0,"Gs family, Gi/Go family, Gq/G11 family, G12/G13 family",,Adenylate cyclase stimulation,,12724320,,1.0
+155,155,155,lpar5_human,Q9H1C0,LPAR5,GPR92;GPR93,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,124.0,"Gq/G11 family, G12/G13 family",,Other - See Comments,,16774927,,1.0
+156,156,156,lpar6_human,P43657,LPAR6,P2RY5,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors,163.0,"Gs family, Gi/Go family, G12/G13 family",,"Adenylate cyclase stimulation, Phospholipase C stimulation, Other - See Comments",,19679818|18297070|19386608,,3.0
+157,157,157,s1pr1_human,P21453,S1PR1,CHEDG1;EDG1,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors,275.0,Gi/Go family,,"Adenylate cyclase inhibition, Phospholipase C stimulation, Calcium channel, Phospholipase D stimulation, Other - See Comments",,16554657|10446161|9765227,,3.0
+158,158,158,s1pr2_human,O95136,S1PR2,EDG5,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors,276.0,"Gs family, Gq/G11 family, G12/G13 family",,"Adenylate cyclase stimulation, Phospholipase C stimulation, Calcium channel",,9854026|17283075,,2.0
+159,159,159,s1pr3_human,Q99500,S1PR3,EDG3,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors,277.0,"Gi/Go family, Gq/G11 family, G12/G13 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation",,10383399|10488065,,2.0
+160,160,160,s1pr4_human,O95977,S1PR4,EDG6,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors,278.0,"Gi/Go family, G12/G13 family",,Adenylate cyclase inhibition,,12761884|12875654,,2.0
+161,161,161,s1pr5_human,Q9H228,S1PR5,EDG8,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors,279.0,"Gi/Go family, G12/G13 family",,Adenylate cyclase inhibition,,10799507|11069896,,2.0
+162,162,162,cnr1_human,P21554,CNR1,CNR,Class A (Rhodopsin),Lipid receptors,Cannabinoid receptors,56.0,Gi/Go family,Gs family,"Adenylate cyclase inhibition, Potassium channel, Calcium channel, Other - See Comments",Adenylate cyclase stimulation,1902257|2869405|1315042|8781498|10362691|7472417|9242259|7777206|8954083|7775459|7556170,9751186|9204917,11.0
+163,163,163,cnr2_human,P34972,CNR2,CB2A;CB2B,Class A (Rhodopsin),Lipid receptors,Cannabinoid receptors,57.0,Gi/Go family,Gs family,"Adenylate cyclase inhibition, Other - See Comments",Adenylate cyclase stimulation,7565624|7651369|8819477|8647116|8679694|12037135|12084572,9751186|12037135,7.0
+164,164,164,gpr18_human,Q14330,GPR18,GPCRW,Class A (Rhodopsin),Lipid receptors,"GPR18, GPR55 and GPR119",89.0,"Gi/Go family, Gq/G11 family",,,,16844083|22266325,,2.0
+165,165,165,gpr55_human,Q9Y2T6,GPR55,,Class A (Rhodopsin),Lipid receptors,"GPR18, GPR55 and GPR119",109.0,"Gq/G11 family, G12/G13 family",,"Phospholipase C stimulation, Other - See Comments",Phospholipase C stimulation,17876302,21718301|18445684,1.0
+166,166,166,gp119_human,Q8TDV5,GPR119,,Class A (Rhodopsin),Lipid receptors,"GPR18, GPR55 and GPR119",126.0,Gs family,,Adenylate cyclase stimulation,,15607732,,1.0
+167,167,167,ptafr_human,P25105,PTAFR,PAFR,Class A (Rhodopsin),Lipid receptors,Platelet-activating factor receptors,334.0,"Gi/Go family, Gq/G11 family, G protein independent mechanism",,"Adenylate cyclase stimulation, Other - See Comments",,16920964|14617636|11309383|14500680|22570732,,5.0
+168,168,168,pd2r_human,Q13258,PTGDR,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,338.0,Gs family,,Adenylate cyclase stimulation,,12649388,,1.0
+169,169,169,pd2r2_human,Q9Y5Y4,PTGDR2,CRTH2;DL1R;GPR44,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,339.0,Gi/Go family,,Adenylate cyclase inhibition,,12466225|12721327,,2.0
+170,170,170,pe2r1_human,P34995,PTGER1,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,340.0,Gq/G11 family,Gi/Go family,Other - See Comments,Adenylate cyclase inhibition,7766667,7532011,1.0
+171,171,171,pe2r2_human,P43116,PTGER2,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,341.0,Gs family,,Adenylate cyclase stimulation,,7532011|14607240,,2.0
+172,172,172,pe2r3_human,P43115,PTGER3,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,342.0,Gi/Go family,Gq/G11 family,Adenylate cyclase inhibition,Phospholipase C stimulation,7981210|7532011|10082673|9013884,7981210|19769944,4.0
+173,173,173,p2y14_human,Q15391,P2RY14,GPR105;KIAA0001,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,330.0,Gi/Go family,Gi/Go family,Adenylate cyclase inhibition,Phospholipase C stimulation,15997228,14559350|15850653,1.0
+174,174,174,pe2r4_human,P35408,PTGER4,PTGER2,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,343.0,Gs family,Gi/Go family,Adenylate cyclase stimulation,Other - See Comments,9013884,12566441|15855407|22002714|22012553,1.0
+175,175,175,pf2r_human,P43088,PTGFR,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,344.0,Gq/G11 family,Gs family,Phospholipase C stimulation,,9462300|8179609,,2.0
+176,176,176,pi2r_human,P43119,PTGIR,PRIPR,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,345.0,Gs family,"Gi/Go family, Gq/G11 family",Adenylate cyclase stimulation,"Adenylate cyclase inhibition, Phospholipase C stimulation",7511597|7532011,12016224|7532011,2.0
+177,177,177,ta2r_human,P21731,TBXA2R,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors,346.0,Gq/G11 family,,Phospholipase C stimulation,,9152406,,1.0
+178,178,178,mtr1a_human,P48039,MTNR1A,,Class A (Rhodopsin),Melatonin receptors,Melatonin,287.0,Gi/Go family,Gq/G11 family,Adenylate cyclase inhibition,"Phospholipase C stimulation, Potassium channel, Calcium channel",7946354|15695169|11698691|12957828|11992626,10531408|11698691|12957828|11992626,5.0
+179,179,179,mtr1b_human,P49286,MTNR1B,,Class A (Rhodopsin),Melatonin receptors,Melatonin,288.0,Gi/Go family,,"Adenylate cyclase inhibition, Phospholipase C stimulation",Other - See Comments,7568007|11698691|12957828|11992626|11121382,10413300,5.0
+180,180,180,aa1r_human,P30542,ADORA1,,Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors,18.0,Gi/Go family,"Gs family, Gq/G11 family",Adenylate cyclase inhibition,"Adenylate cyclase stimulation, Phospholipase C stimulation",7798201|15302686,15302686,2.0
+181,181,181,aa2ar_human,P29274,ADORA2A,ADORA2,Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors,19.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,"Adenylate cyclase stimulation, Phospholipase C stimulation",8995267,15306230,1.0
+182,182,182,aa2br_human,P29275,ADORA2B,,Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors,20.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,10496952|7560091,10496952|7560091,2.0
+183,183,183,aa3r_human,P0DMS8,ADORA3,,Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors,21.0,Gi/Go family,Gi/Go family,Adenylate cyclase inhibition,Phospholipase C stimulation,1323836|7622506,10496952|12817016,2.0
+184,184,184,p2ry1_human,P47900,P2RY1,,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,323.0,Gq/G11 family,Gi/Go family,Phospholipase C stimulation,Potassium channel,15509659|14742685,16957090|18689674,2.0
+185,185,185,p2ry2_human,P41231,P2RY2,P2RU1,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,324.0,Gq/G11 family,"Gi/Go family, G12/G13 family",Phospholipase C stimulation,Other - See Comments,17609252|17291397,16186116|17452627,2.0
+186,186,186,p2ry4_human,P51582,P2RY4,NRU,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,325.0,Gq/G11 family,,Phospholipase C stimulation,Phospholipase A2 stimulation,,16839719,
+187,187,187,p2ry6_human,Q15077,P2RY6,PP2891,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,326.0,Gq/G11 family,G12/G13 family,Phospholipase C stimulation,Other - See Comments,,19008857|19011163,
+188,188,188,p2y11_human,Q96G91,P2RY11,,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,327.0,Gq/G11 family,Gs family,Phospholipase C stimulation,Adenylate cyclase stimulation,11156592,11156592|10578132,1.0
+189,189,189,p2y12_human,Q9H244,P2RY12,HORK3,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,328.0,,,Adenylate cyclase inhibition,"Adenylate cyclase inhibition, Other - See Comments",14573771,,1.0
+190,190,190,p2y13_human,Q9BPV8,P2RY13,GPR86;GPR94;FKSG77,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors,329.0,Gi/Go family,,Adenylate cyclase inhibition,Other - See Comments,11546776,,1.0
+191,191,191,gpbar_human,Q8TDU6,GPBAR1,TGR5,Class A (Rhodopsin),Steroid receptors,Bile acid receptors,37.0,Gs family,,Adenylate cyclase stimulation,,12524422,,1.0
+192,192,192,gper1_human,Q99527,GPER1,CEPR;CMKRL2;DRY12;GPER;GPR30,Class A (Rhodopsin),Steroid receptors,Estrogen (G protein-coupled) receptors,221.0,Gi/Go family,Gs family,Phospholipase C stimulation,Adenylate cyclase stimulation,15705806|11043579|15090535,15539556|11773440,3.0
+193,193,193,hcar1_human,Q9BXC0,HCAR1,GPR104;GPR81;HCA1;FKSG80,Class A (Rhodopsin),Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,311.0,Gi/Go family,,,,,,
+194,194,194,hcar2_human,Q8TDS4,HCAR2,GPR109A;HCA2;HM74A;NIACR1,Class A (Rhodopsin),Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,312.0,Gi/Go family,,"Adenylate cyclase inhibition, Phospholipase A2 stimulation",,17452318|16674924|12563315|12522134,,4.0
+195,195,195,hcar3_human,P49019,HCAR3,GPR109B;HCA3;HM74B;NIACR2,Class A (Rhodopsin),Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors,313.0,Gi/Go family,,"Adenylate cyclase inhibition, Other - See Comments",,17358052|16389067|15929991|12522134,,4.0
+196,196,196,oxgr1_human,Q96P68,OXGR1,GPR80;GPR99;P2RY15;P2Y15,Class A (Rhodopsin),Alicarboxylic acid receptors,Oxoglutarate receptors,162.0,Gq/G11 family,,Phospholipase C stimulation,,15141213,,1.0
+197,197,197,sucr1_human,Q9BXA5,SUCNR1,GPR91,Class A (Rhodopsin),Alicarboxylic acid receptors,Succinate receptors,166.0,Gi/Go family,Gq/G11 family,"Adenylate cyclase inhibition, Phospholipase C stimulation, Other - See Comments",Phospholipase C stimulation,26386312|15141213|23770096,15141213,3.0
+198,198,198,opsd_human,P08100,RHO,OPN2,Class A (Rhodopsin),Sensory receptors,Opsins,,,,,,,,
+199,199,199,opn4_human,Q9UHM6,OPN4,MOP,Class A (Rhodopsin),Sensory receptors,Opsins,2758.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation",,23554393,,1.0
+200,200,200,opn3_human,Q9H1Y3,OPN3,ECPN,Class A (Rhodopsin),Sensory receptors,Opsins,,,,,,,,
+201,201,201,opn5_human,Q6U736,OPN5,GPR136;PGR12;TMEM13,Class A (Rhodopsin),Sensory receptors,Opsins,161.0,Gi/Go family,,,,22043319,,1.0
+202,202,202,opsb_human,P03999,OPN1SW,BCP,Class A (Rhodopsin),Sensory receptors,Opsins,,,,,,,,
+203,203,203,opsg_human,P04001,OPN1MW,GCP,Class A (Rhodopsin),Sensory receptors,Opsins,,,,,,,,
+204,204,204,opsr_human,P04000,OPN1LW,RCP,Class A (Rhodopsin),Sensory receptors,Opsins,,,,,,,,
+205,205,205,gpr1_human,P46091,GPR1,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+206,206,206,gpr3_human,P46089,GPR3,ACCA,Class A (Rhodopsin),Orphan receptors,Class A orphans,83.0,Gs family,,Adenylate cyclase stimulation,,7639700,,1.0
+207,207,207,gpr4_human,P46093,GPR4,GPR19,Class A (Rhodopsin),Orphan receptors,Class A orphans,84.0,"Gs family, Gi/Go family, Gq/G11 family, G12/G13 family",,"Adenylate cyclase stimulation, Phospholipase C stimulation",,15221007,,1.0
+208,208,208,gpr6_human,P46095,GPR6,,Class A (Rhodopsin),Orphan receptors,Class A orphans,85.0,"Gs family, Gi/Go family",,"Adenylate cyclase stimulation, Adenylate cyclase inhibition",,12574419|19059244,,2.0
+209,209,209,gpr12_human,P47775,GPR12,,Class A (Rhodopsin),Orphan receptors,Class A orphans,86.0,"Gs family, Gi/Go family",,"Adenylate cyclase stimulation, Adenylate cyclase inhibition",,12574419|17078925|17284443|12220620,,4.0
+210,210,210,gpr15_human,P49685,GPR15,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+211,211,211,gpr17_human,Q13304,GPR17,,Class A (Rhodopsin),Orphan receptors,Class A orphans,88.0,Gi/Go family,Gq/G11 family,Adenylate cyclase inhibition,Phospholipase C stimulation,21773766|16990797|19625605,16990797|19625605,3.0
+212,212,212,gpr19_human,Q15760,GPR19,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+213,213,213,gpr20_human,Q99678,GPR20,,Class A (Rhodopsin),Orphan receptors,Class A orphans,91.0,Gi/Go family,,Adenylate cyclase inhibition,,18347022,,1.0
+214,214,214,gpr21_human,Q99679,GPR21,,Class A (Rhodopsin),Orphan receptors,Class A orphans,92.0,,,,,15090189,,1.0
+215,215,215,gpr22_human,Q99680,GPR22,,Class A (Rhodopsin),Orphan receptors,Class A orphans,93.0,Gi/Go family,,Adenylate cyclase inhibition,,18539757,,1.0
+216,216,216,gpr25_human,O00155,GPR25,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+217,217,217,gpr26_human,Q8NDV2,GPR26,,Class A (Rhodopsin),Orphan receptors,Class A orphans,96.0,Gs family,,Adenylate cyclase stimulation,,17363172,,1.0
+218,218,218,gpr27_human,Q9NS67,GPR27,SREB1,Class A (Rhodopsin),Orphan receptors,Class A orphans,97.0,Gq/G11 family,,Phospholipase C stimulation,,,,
+219,219,219,gpr31_human,O00270,GPR31,,Class A (Rhodopsin),Orphan receptors,Class A orphans,98.0,Gi/Go family,,,,21712392,,1.0
+220,220,220,gpr32_human,O75388,GPR32,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+221,221,221,gpr33_human,Q49SQ1,GPR33,,Class A (Rhodopsin),Orphan receptors,Class A orphans,100.0,Gi/Go family,,Adenylate cyclase inhibition,,16720677|15987686|16595170,,3.0
+222,222,222,gpr34_human,Q9UPC5,GPR34,,Class A (Rhodopsin),Orphan receptors,Class A orphans,101.0,Gi/Go family,,Phospholipase A2 stimulation,,22343749|17628210,,2.0
+223,223,223,gpr35_human,Q9HC97,GPR35,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+224,224,224,gpr37_human,O15354,GPR37,,Class A (Rhodopsin),Orphan receptors,Class A orphans,103.0,Gi/Go family,,Adenylate cyclase inhibition,,16443751,,1.0
+225,225,225,etbr2_human,O60883,GPR37L1,ETBRLP2,Class A (Rhodopsin),Orphan receptors,Class A orphans,104.0,Gi/Go family,,Adenylate cyclase inhibition,,,,
+226,226,226,gpr39_human,O43194,GPR39,,Class A (Rhodopsin),Orphan receptors,Class A orphans,105.0,Gq/G11 family,"Gs family, G12/G13 family",Phospholipase C stimulation,Adenylate cyclase stimulation,15383539,15383539,1.0
+227,227,227,gpr45_human,Q9Y5Y3,GPR45,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+228,228,228,mtr1l_human,Q13585,GPR50,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+229,229,229,gpr52_human,Q9Y2T5,GPR52,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+230,230,230,gpr61_human,Q9BZJ8,GPR61,BALGR,Class A (Rhodopsin),Orphan receptors,Class A orphans,110.0,,,,,19025769,,1.0
+231,231,231,gpr62_human,Q9BZJ7,GPR62,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+232,232,232,gpr63_human,Q9BZJ6,GPR63,PSP24B,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+233,233,233,psyr_human,Q8IYL9,GPR65,TDAG8,Class A (Rhodopsin),Orphan receptors,Class A orphans,113.0,Gs family,,Adenylate cyclase stimulation,,15618224|19234222|15665078|15326175,,4.0
+234,234,234,ogr1_human,Q15743,GPR68,OGR1,Class A (Rhodopsin),Orphan receptors,Class A orphans,114.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation",,20622109|21907704|12069813|16787916,,4.0
+235,235,235,gpr75_human,O95800,GPR75,,Class A (Rhodopsin),Orphan receptors,Class A orphans,115.0,Gq/G11 family,,Phospholipase C stimulation,,17001303,,1.0
+236,236,236,gpr78_human,Q96P69,GPR78,UNQ5925/PRO19818,Class A (Rhodopsin),Orphan receptors,Class A orphans,116.0,Gs family,,Adenylate cyclase stimulation,,17363172,,1.0
+237,237,237,gpr82_human,Q96P67,GPR82,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+238,238,238,gpr83_human,Q9NYM4,GPR83,GPR72;KIAA1540,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+239,239,239,gpr84_human,Q9NQS5,GPR84,EX33,Class A (Rhodopsin),Orphan receptors,Class A orphans,120.0,Gi/Go family,,,,16966319,,1.0
+240,240,240,gpr85_human,P60893,GPR85,SREB2,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+241,241,241,gpr87_human,Q9BY21,GPR87,GPR95;FKSG78,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+242,242,242,gpr88_human,Q9GZN0,GPR88,STRG,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+243,243,243,gp101_human,Q96P66,GPR101,,Class A (Rhodopsin),Orphan receptors,Class A orphans,125.0,Gs family,,Adenylate cyclase stimulation,,16647048,,1.0
+244,244,244,gp132_human,Q9UNW8,GPR132,G2A,Class A (Rhodopsin),Orphan receptors,Class A orphans,128.0,,,Other - See Comments,,12586833|10951580,,2.0
+245,245,245,gp135_human,Q8IZ08,GPR135,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+246,246,246,gp139_human,Q6DWJ6,GPR139,GPRG1;PGR3,Class A (Rhodopsin),Orphan receptors,Class A orphans,130.0,Gq/G11 family,,Other - See Comments,,15845401,,1.0
+247,247,247,gp141_human,Q7Z602,GPR141,PGR13,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+248,248,248,gp142_human,Q7Z601,GPR142,PGR2,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+249,249,249,gp146_human,Q96CH1,GPR146,PGR8,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+250,250,250,gp148_human,Q8TDV2,GPR148,BTR;PGR6,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+251,251,251,gp149_human,Q86SP6,GPR149,PGR10,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+252,252,252,gp150_human,Q8NGU9,GPR150,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+253,253,253,gp151_human,Q8TDV0,GPR151,PGR7,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+254,254,254,gp152_human,Q8TDT2,GPR152,PGR5,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+255,255,255,gp153_human,Q6NV75,GPR153,PGR1,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+256,256,256,gp160_human,Q9UJ42,GPR160,GPCR150,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+257,257,257,gp161_human,Q8N6U8,GPR161,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+258,258,258,gp162_human,Q16538,GPR162,GRCA,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+259,259,259,gp171_human,O14626,GPR171,H963,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+260,260,260,gp173_human,Q9NS66,GPR173,SREB3,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+261,261,261,gp174_human,Q9BXC1,GPR174,FKSG79;GPCR17,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+262,262,262,gp176_human,Q14439,GPR176,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+263,263,263,gp182_human,O15218,GPR182,ADMR,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+264,264,264,gp183_human,P32249,GPR183,EBI2,Class A (Rhodopsin),Orphan receptors,Class A orphans,81.0,Gi/Go family,,Adenylate cyclase inhibition,,21796212|21844396|21796211|16540462,,4.0
+265,265,265,lgr4_human,Q9BXB1,LGR4,GPR48,Class A (Rhodopsin),Orphan receptors,Class A orphans,147.0,,,Adenylate cyclase inhibition,,19605502|18424556,,2.0
+266,266,266,lgr5_human,O75473,LGR5,GPR49;GPR67,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+267,267,267,taar8_human,Q969N4,TAAR8,GPR102;TA5;TAR5;TRAR5,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+268,268,268,lgr6_human,Q9HBX8,LGR6,UNQ6427/PRO21331;VTS20631,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+269,269,269,mas_human,P04201,MAS1,MAS,Class A (Rhodopsin),Orphan receptors,Class A orphans,150.0,"Gi/Go family, Gq/G11 family",,"Phospholipase C stimulation, Other - See Comments",,22003054,,1.0
+270,270,270,mas1l_human,P35410,MAS1L,MRG,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+271,271,271,mrgrd_human,Q8TDS7,MRGPRD,MRGD,Class A (Rhodopsin),Orphan receptors,Class A orphans,152.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation",,17442834|15037631,,2.0
+272,272,272,mrgre_human,Q86SM8,MRGPRE,GPR167;MRGE,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+273,273,273,mrgrf_human,Q96AM1,MRGPRF,GPR140;GPR168;MRGF;PSEC0142,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+274,274,274,mrgrg_human,Q86SM5,MRGPRG,GPR169;MRGG,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+275,275,275,mrgx1_human,Q96LB2,MRGPRX1,MRGX1;SNSR3;SNSR4,Class A (Rhodopsin),Orphan receptors,Class A orphans,156.0,Gq/G11 family,,Phospholipase C stimulation,,12397184,,1.0
+276,276,276,mrgx2_human,Q96LB1,MRGPRX2,MRGX2,Class A (Rhodopsin),Orphan receptors,Class A orphans,157.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation",,15823563|12915402|16979137,,3.0
+277,277,277,mrgx3_human,Q96LB0,MRGPRX3,MRGX3;SNSR1;SNSR2,Class A (Rhodopsin),Orphan receptors,Class A orphans,158.0,Gq/G11 family,,Phospholipase C stimulation,,16284629,,1.0
+278,278,278,mrgx4_human,Q96LA9,MRGPRX4,MRGX4;SNSR5;SNSR6,Class A (Rhodopsin),Orphan receptors,Class A orphans,159.0,Gq/G11 family,,Phospholipase C stimulation,,16284629,,1.0
+279,279,279,p2ry8_human,Q86VZ1,P2RY8,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+280,280,280,p2y10_human,O00398,P2RY10,,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+281,281,281,taar2_human,Q9P1P5,TAAR2,GPR58,Class A (Rhodopsin),Orphan receptors,Class A orphans,167.0,,,,,16878137,,1.0
+282,282,282,taar3_human,Q9P1P4,TAAR3P,GPR57;TAAR3,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+283,283,283,taar5_human,O14804,TAAR5,PNR,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+284,284,284,taar6_human,Q96RI8,TAAR6,TA4;TAR4;TRAR4,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+285,285,285,taar9_human,Q96RI9,TAAR9,TA3;TAR3;TRAR3,Class A (Rhodopsin),Orphan receptors,Class A orphans,,,,,,,,
+286,286,286,calcr_human,P30988-2,CALCR,,Class B1 (Secretin),Peptide receptors,Calcitonin receptors,43.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,15692146|14623894|25815174,11459804|8732687|25815174|1646739,3.0
+287,287,287,calrl_human,Q16602,CALCRL,CGRPR,Class B1 (Secretin),Peptide receptors,Calcitonin receptors,,,,,,,,
+288,288,288,crfr1_human,P34998-2,CRHR1,CRFR;CRFR1;CRHR,Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors,212.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,7692441|8274282|8243338|8243652|8536612|9326293|9863624|9851694|11145609|11711031|14761672,8536612|15450949,11.0
+289,289,289,crfr2_human,Q13324,CRHR2,CRF2R;CRH2R,Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors,213.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,9326293|7846062|7755719|11416224|7565810|8536644|9199241|9717834|10336722,15450949,9.0
+290,290,290,ghrhr_human,Q02643,GHRHR,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family,247.0,Gs family,,"Adenylate cyclase stimulation, Calcium channel",,11867632,,1.0
+291,291,291,gipr_human,P48546,GIPR,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family,248.0,Gs family,,Adenylate cyclase stimulation,Phospholipase A2 stimulation,,11323439,
+292,292,292,glp1r_human,P43220,GLP1R,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family,249.0,Gs family,,Adenylate cyclase stimulation,,10909973,,1.0
+293,293,293,glp2r_human,O95838,GLP2R,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family,250.0,,,Adenylate cyclase stimulation,,,,
+294,294,294,glr_human,P47871,GCGR,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family,251.0,Gs family,,Adenylate cyclase stimulation,,6309844,,1.0
+295,295,295,sctr_human,P47872,SCTR,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family,252.0,,,"Adenylate cyclase stimulation, Calcium channel",,,,
+296,296,296,pth1r_human,Q03431,PTH1R,PTHR;PTHR1,Class B1 (Secretin),Peptide receptors,Parathyroid hormone receptors,331.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,8732687|8082781|9704578|17040990,8732687|9054374|9704578|10856878,4.0
+297,297,297,pth2r_human,P49190,PTH2R,PTHR2,Class B1 (Secretin),Peptide receptors,Parathyroid hormone receptors,,,,,,,,
+298,298,298,pacr_human,P41586,ADCYAP1R1,,Class B1 (Secretin),Peptide receptors,VIP and PACAP receptors,370.0,"Gs family, Gq/G11 family",G protein (identity unknown),Adenylate cyclase stimulation,Phospholipase C stimulation,7796937|8663363,7796937,2.0
+299,299,299,vipr1_human,P32241,VIPR1,,Class B1 (Secretin),Peptide receptors,VIP and PACAP receptors,371.0,Gs family,"Gi/Go family, Gq/G11 family, G protein (identity unknown)",Adenylate cyclase stimulation,"Phospholipase C stimulation, Phospholipase D stimulation",8390245|8074647|208077|8791009,8993443|9223629|11353814,4.0
+300,300,300,vipr2_human,P41587,VIPR2,VIP2R,Class B1 (Secretin),Peptide receptors,VIP and PACAP receptors,372.0,Gs family,G protein (identity unknown),Adenylate cyclase stimulation,"Phospholipase C stimulation, Phospholipase D stimulation",,8993443|11181537|11353814,
+301,301,301,agrl1_human,O94910,ADGRL1,KIAA0821;,Class B2 (Adhesion),Adhesion receptors,ADGRL,206.0,Gq/G11 family,G protein (identity unknown),"Phospholipase C stimulation, Potassium channel, Calcium channel",Adenylate cyclase stimulation,9799228|16301314|9261169|10212487|19124473|21724987|15483624,9261169,7.0
+302,302,302,agrl2_human,O95490,ADGRL2,KIAA0786;LEC1;LPHH1;LPHN2,Class B2 (Adhesion),Adhesion receptors,ADGRL,,,,,,,,
+303,303,303,agrl3_human,Q9HAR2,ADGRL3,KIAA0768;,Class B2 (Adhesion),Adhesion receptors,ADGRL,,,,,,,,
+304,304,304,agrl4_human,Q9HBW9,ADGRL4,ELTD1;ETL;UNQ202/PRO228,Class B2 (Adhesion),Adhesion receptors,ADGRL,,,,,,,,
+305,305,305,agre1_human,Q14246,ADGRE1,EMR1;TM7LN3,Class B2 (Adhesion),Adhesion receptors,ADGRE,,,,,,,,
+306,306,306,agre2_human,Q9UHX3,ADGRE2,EMR2,Class B2 (Adhesion),Adhesion receptors,ADGRE,183.0,Gq/G11 family,,,,22575658,,1.0
+307,307,307,agre3_human,Q9BY15,ADGRE3,EMR3;UNQ683/PRO1562,Class B2 (Adhesion),Adhesion receptors,ADGRE,,,,,,,,
+308,308,308,agre4_human,Q86SQ3,ADGRE4P,EMR4;EMR4P;GPR127;PGR16,Class B2 (Adhesion),Adhesion receptors,ADGRE,,,,,,,,
+309,309,309,cd97_human,P48960,CD97,,Class B2 (Adhesion),Adhesion receptors,ADGRE,177.0,G12/G13 family,,,,22797060|21978933,,2.0
+310,310,310,agra1_human,Q86SQ6,ADGRA1,GPR123;KIAA1828,Class B2 (Adhesion),Adhesion receptors,ADGRA,197.0,G protein (identity unknown),G protein (identity unknown),,,,,
+311,311,311,agra2_human,Q96PE1,ADGRA2,GPR124;KIAA1531;,Class B2 (Adhesion),Adhesion receptors,ADGRA,198.0,G protein (identity unknown),G protein (identity unknown),,,,,
+312,312,312,agra3_human,Q8IWK6,ADGRA3,GPR125;UNQ556/PRO1113,Class B2 (Adhesion),Adhesion receptors,ADGRA,199.0,G protein (identity unknown),G protein (identity unknown),,,,,
+313,313,313,celr1_human,Q9NYQ6,CELSR1,CDHF9;FMI2,Class B2 (Adhesion),Adhesion receptors,ADGRC,178.0,,,Other - See Comments,,,,
+314,314,314,celr2_human,Q9HCU4,CELSR2,CDHF10;EGFL2;KIAA0279;MEGF3,Class B2 (Adhesion),Adhesion receptors,ADGRC,179.0,,,Other - See Comments,,,,
+315,315,315,celr3_human,Q9NYQ7,CELSR3,CDHF11;EGFL1;FMI1;KIAA0812;MEGF2,Class B2 (Adhesion),Adhesion receptors,ADGRC,180.0,,,Other - See Comments,,,,
+316,316,316,agrd1_human,Q6QNK2,ADGRD1,GPR133;PGR25,Class B2 (Adhesion),Adhesion receptors,ADGRD,202.0,Gs family,Gs family,Adenylate cyclase stimulation,Adenylate cyclase stimulation,22025619,22025619,1.0
+317,317,317,agrd2_human,Q7Z7M1,ADGRD2,GPR144;PGR24,Class B2 (Adhesion),Adhesion receptors,ADGRD,204.0,G protein (identity unknown),G protein (identity unknown),,,,,
+318,318,318,agrf1_human,Q5T601,ADGRF1,GPR110;PGR19,Class B2 (Adhesion),Adhesion receptors,ADGRF,,,,,,,,
+319,319,319,agrf2_human,Q8IZF7,ADGRF2,GPR111;PGR20,Class B2 (Adhesion),Adhesion receptors,ADGRF,,,,,,,,
+320,320,320,agrf3_human,Q8IZF5,ADGRF3,GPR113;PGR23;UNQ9196/PRO34000,Class B2 (Adhesion),Adhesion receptors,ADGRF,,,,,,,,
+321,321,321,agrf4_human,Q8IZF3,ADGRF4,GPR115;PGR18,Class B2 (Adhesion),Adhesion receptors,ADGRF,,,,,,,,
+322,322,322,agrf5_human,Q8IZF2,ADGRF5,GPR116;KIAA0758,Class B2 (Adhesion),Adhesion receptors,ADGRF,,,,,,,,
+323,323,323,bai1_human,O14514,BAI1,,Class B2 (Adhesion),Adhesion receptors,ADGRB,,,,,,,,
+324,324,324,agrb2_human,O60241,ADGRB2,BAI2,Class B2 (Adhesion),Adhesion receptors,ADGRB,175.0,,,,,,,
+325,325,325,agrb3_human,O60242,ADGRB3,BAI3;KIAA0550,Class B2 (Adhesion),Adhesion receptors,ADGRB,,,,,,,,
+326,326,326,agrg1_human,Q9Y653,ADGRG1,GPR56;TM7LN4;TM7XN1;UNQ540/PRO1083,Class B2 (Adhesion),Adhesion receptors,ADGRG,186.0,"Gq/G11 family, G12/G13 family",,Other - See Comments,Other - See Comments,21768377|23001883,23001883,2.0
+327,327,327,agrg2_human,Q8IZP9,ADGRG2,GPR64;HE6;TM7LN2,Class B2 (Adhesion),Adhesion receptors,ADGRG,187.0,,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,16442214,,1.0
+328,328,328,agrg3_human,Q86Y34,ADGRG3,GPR97;PGR26,Class B2 (Adhesion),Adhesion receptors,ADGRG,188.0,Gi/Go family,,,,22575658,,1.0
+329,329,329,agrg4_human,Q8IZF6,ADGRG4,GPR112,Class B2 (Adhesion),Adhesion receptors,ADGRG,,,,,,,,
+330,330,330,agrg5_human,Q8IZF4,ADGRG5,GPR114;PGR27;UNQ2524/PRO6017,Class B2 (Adhesion),Adhesion receptors,ADGRG,,,,,,,,
+331,331,331,agrg6_human,Q86SQ4,ADGRG6,DREG;GPR126;VIGR,Class B2 (Adhesion),Adhesion receptors,ADGRG,,,,,,,,
+332,332,332,agrg7_human,Q96K78,ADGRG7,GPR128,Class B2 (Adhesion),Adhesion receptors,ADGRG,,,,,,,,
+333,333,333,gpr98_human,Q8WXG9,GPR98,KIAA0686;KIAA1943;MASS1;VLGR1,Class B2 (Adhesion),Adhesion receptors,ADGRV,,,,,,,,
+334,334,334,casr_human,P41180,CASR,GPRC2A;PCAR1,Class C (Glutamate),Ion receptors,Calcium-sensing receptors,54.0,"Gi/Go family, Gq/G11 family, G12/G13 family","Gq/G11 family, G protein (identity unknown)","Adenylate cyclase inhibition, Phospholipase C stimulation, Phospholipase D stimulation","Adenylate cyclase stimulation, Potassium channel, Phospholipase A2 stimulation, Phospholipase D stimulation, Other - See Comments",9556057|3755106|9144337|2462488|12954603,11278341|10217268|9614133|9144337|11208605|9422777|11038250|8806675,5.0
+335,335,335,gabr1_human,Q9UBS5,GABBR1,GPRC3A,Class C (Glutamate),Amino acid receptors,GABA<sub>B</sub> receptors,240.0,,,,,15240800,,1.0
+336,336,336,gabr2_human,O75899,GABBR2,GPR51;GPRC3B,Class C (Glutamate),Amino acid receptors,GABA<sub>B</sub> receptors,241.0,,,,,2579700|8388192,,2.0
+337,337,337,grm1_human,Q13255,GRM1,GPRC1A;MGLUR1,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,289.0,Gq/G11 family,"Gs family, Gi/Go family, G protein independent mechanism",Phospholipase C stimulation,"Adenylate cyclase stimulation, Adenylate cyclase inhibition, Phospholipase A2 stimulation, Phospholipase D stimulation, Other - See Comments",9974152|9131252|19112153|7623957,9974152|9131252|19112153|7623957,4.0
+338,338,338,grm2_human,Q14416,GRM2,GPRC1B;MGLUR2,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,290.0,Gi/Go family,,"Adenylate cyclase inhibition, Potassium channel",,7620613|10221750,,2.0
+339,339,339,grm3_human,Q14832,GRM3,GPRC1C;MGLUR3,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,291.0,Gi/Go family,,"Adenylate cyclase inhibition, Potassium channel, Calcium channel",,11168538,,1.0
+340,340,340,grm4_human,Q14833,GRM4,GPRC1D;MGLUR4,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,292.0,Gi/Go family,,Adenylate cyclase inhibition,,7623957|10530808,,2.0
+341,341,341,grm5_human,P41594,GRM5,GPRC1E;MGLUR5,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,293.0,Gq/G11 family,"Gs family, Gi/Go family",Phospholipase C stimulation,"Adenylate cyclase stimulation, Potassium channel, Calcium channel, Phospholipase A2 stimulation, Phospholipase D stimulation, Other - See Comments",7623957|9131252,9974152|9131252|7623957,2.0
+342,342,342,grm6_human,O15303,GRM6,GPRC1F;MGLUR6,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,294.0,Gi/Go family,Gi/Go family,Other - See Comments,Adenylate cyclase inhibition,9407094|11124982,8389366|9215706,2.0
+343,343,343,grm7_human,Q14831,GRM7,GPRC1G;MGLUR7,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,295.0,Gi/Go family,Gi/Go family,"Adenylate cyclase inhibition, Calcium channel",Phospholipase C stimulation,8145723|8288585|9473604|11050109,11050109,4.0
+344,344,344,grm8_human,O00222,GRM8,GPRC1H;MGLUR8,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors,296.0,Gi/Go family,,Adenylate cyclase inhibition,,9016353|7722646|9473604,,3.0
+345,345,345,ts1r1_human,Q7RTX1,TAS1R1,GPR70;T1R1;TR1;GM148,Class C (Glutamate),Sensory receptors,Taste 1 receptors,,,,,,,,
+346,346,346,ts1r2_human,Q8TE23,TAS1R2,GPR71;T1R2;TR2,Class C (Glutamate),Sensory receptors,Taste 1 receptors,,,,,,,,
+347,347,347,ts1r3_human,Q7RTX0,TAS1R3,T1R3;TR3,Class C (Glutamate),Sensory receptors,Taste 1 receptors,,,,,,,,
+348,348,348,gp156_human,Q8NFN8,GPR156,GABABL;PGR28,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
+349,349,349,gp158_human,Q5T848,GPR158,KIAA1136,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
+350,350,350,gp179_human,Q6PRD1,GPR179,GPR158L;GPR158L1,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
+351,351,351,rai3_human,Q8NFJ5,GPRC5A,GPCR5A;RAI3;RAIG1,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
+352,352,352,gpc5b_human,Q9NZH0,GPRC5B,RAIG2,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
+353,353,353,gpc5c_human,Q9NQ84,GPRC5C,RAIG3;PSEC0087,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
+354,354,354,gpc5d_human,Q9NZD1,GPRC5D,,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
+355,355,355,gpc6a_human,Q5T6X5,GPRC6A,,Class C (Glutamate),Orphan receptors,Class C Orphans,55.0,Gq/G11 family,,Phospholipase C stimulation,,24008333|15576628,,2.0
+356,356,356,fzd3_human,Q9NPG1,FZD3,,Class F (Frizzled),Protein receptors,Frizzled,231.0,"Gs family, G protein (identity unknown)",,,,17804197|18420933,,2.0
+357,357,357,fzd1_human,Q9UP38,FZD1,,Class F (Frizzled),Protein receptors,Frizzled,229.0,,"Gi/Go family, Gq/G11 family",Other - See Comments,"Phospholipase C stimulation, Other - See Comments",10557084|15923619|16672224|17595165,16672224|17595165,4.0
+358,358,358,fzd2_human,Q14332,FZD2,,Class F (Frizzled),Protein receptors,Frizzled,230.0,"Gi/Go family, G protein (identity unknown)",,"Calcium channel, Other - See Comments",,12471263|16920709|17684012,,3.0
+359,359,359,fzd4_human,Q9ULV1,FZD4,,Class F (Frizzled),Protein receptors,Frizzled,232.0,G12/G13 family,G12/G13 family,,,17614820|16602827,27458145,2.0
+360,360,360,fzd5_human,Q13467,FZD5,C2orf31,Class F (Frizzled),Protein receptors,Frizzled,233.0,,,,,,,
+361,361,361,fzd6_human,O60353,FZD6,,Class F (Frizzled),Protein receptors,Frizzled,234.0,"Gi/Go family, Gq/G11 family, G protein independent mechanism",Gi/Go family,,Other - See Comments,16936075,21128903,1.0
+362,362,362,fzd7_human,O75084,FZD7,,Class F (Frizzled),Protein receptors,Frizzled,235.0,"Gs family, Gi/Go family",,,Other - See Comments,24032637,24032637,1.0
+363,363,363,fzd8_human,Q9H461,FZD8,,Class F (Frizzled),Protein receptors,Frizzled,236.0,G protein (identity unknown),,Other - See Comments,,,,
+364,364,364,fzd9_human,O00144,FZD9,FZD3,Class F (Frizzled),Protein receptors,Frizzled,237.0,Gi/Go family,,,,27402827,,1.0
+365,365,365,fzd10_human,Q9ULW2,FZD10,,Class F (Frizzled),Protein receptors,Frizzled,238.0,,G12/G13 family,,,,28126591,
+366,366,366,smo_human,Q99835,SMO,SMOH,Class F (Frizzled),Protein receptors,Frizzled,239.0,"Gi/Go family, G12/G13 family",,,Phospholipase A2 stimulation,14723707|16885213,,2.0
+367,367,367,ta2r9_human,Q9NYW1,TAS2R9,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+368,368,368,t2r10_human,Q9NYW0,TAS2R10,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+369,369,369,ta2r8_human,Q9NYW2,TAS2R8,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+370,370,370,ta2r1_human,Q9NYW7,TAS2R1,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+371,371,371,ta2r3_human,Q9NYW6,TAS2R3,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+372,372,372,ta2r4_human,Q9NYW5,TAS2R4,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+373,373,373,ta2r5_human,Q9NYW4,TAS2R5,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+374,374,374,ta2r7_human,Q9NYW3,TAS2R7,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+375,375,375,t2r13_human,Q9NYV9,TAS2R13,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+376,376,376,t2r14_human,Q9NYV8,TAS2R14,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+377,377,377,t2r16_human,Q9NYV7,TAS2R16,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+378,378,378,t2r19_human,P59542,TAS2R19,TAS2R23;TAS2R48,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+379,379,379,t2r20_human,P59543,TAS2R20,TAS2R49,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+380,380,380,t2r30_human,P59541,TAS2R30,TAS2R47,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+381,381,381,t2r31_human,P59538,TAS2R31,TAS2R44,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+382,382,382,t2r38_human,P59533,TAS2R38,PTC,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+383,383,383,t2r39_human,P59534,TAS2R39,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+384,384,384,t2r40_human,P59535,TAS2R40,GPR60,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+385,385,385,t2r41_human,P59536,TAS2R41,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+386,386,386,t2r42_human,Q7RTR8,TAS2R42,TAS2R55,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+387,387,387,t2r43_human,P59537,TAS2R43,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+388,388,388,t2r45_human,P59539,TAS2R45,GPR59,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+389,389,389,t2r46_human,P59540,TAS2R46,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+390,390,390,t2r50_human,P59544,TAS2R50,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+391,391,391,t2r60_human,P59551,TAS2R60,,Taste 2,Sensory receptors,Taste 2 receptors,,,,,,,,
+392,392,392,gp107_human,Q5VW38,GPR107,KIAA1624;LUSTR1,Other GPCRs,Orphan receptors,Other GPCR orphans,,,,,,,,
+393,393,393,g137a_human,Q96N19,GPR137,C11orf4;GPR137A;TM7SF1L1,Other GPCRs,Orphan receptors,Other GPCR orphans,,,,,,,,
+394,394,394,o51e1_human,Q8TCB6,OR51E1,GPR164;OR51E1P;OR52A3P;POGR;PSGR2,Other GPCRs,Orphan receptors,Other GPCR orphans,,,,,,,,
+395,395,395,tpra1_human,Q86W33,TPRA1,GPR175;TMEM227;PP6566,Other GPCRs,Orphan receptors,Other GPCR orphans,,,,,,,,
+396,396,396,gp143_human,P51810,GPR143,OA1,Other GPCRs,Orphan receptors,Other GPCR orphans,,,,,,,,
+397,397,397,gp157_human,Q5UAW9,GPR157,,Other GPCRs,Orphan receptors,Other GPCR orphans,,,,,,,,
