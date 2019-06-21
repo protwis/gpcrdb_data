@@ -1,6 +1,6 @@
-auxiliary_protein: Nanobody
-construct: 4mqs
-distance: 9.14
+auxiliary_protein: ''
+construct: 6oik
+distance: 8.54
 endogenous_ligand:
 -   iupharId: 294
     name: Acetylcholine
@@ -11,7 +11,12 @@ ligand:
     role: Agonist
     title: Iperoxo
     type: Small molecule
-pdb: 4MQS
-preferred_chain: A
-signaling_protein: None
+-   name: 2CU
+    pubchemId: 57664406
+    role: Agonist
+    title: LY2119620
+    type: None
+pdb: 6OIK
+preferred_chain: R
+signaling_protein: Go
 state: Active

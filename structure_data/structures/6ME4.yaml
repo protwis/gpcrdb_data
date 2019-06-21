@@ -1,0 +1,13 @@
+auxiliary_protein: 'GlgA glycogen synthase'
+construct: 6me4
+distance: -1.28
+ligand:
+    name: ML2
+    pubchemId: 115348
+    role: Agonist
+    title: 2-Iodomelatonin
+    type: Small molecule
+pdb: 6ME4
+preferred_chain: A
+signaling_protein: None
+state: Inactive

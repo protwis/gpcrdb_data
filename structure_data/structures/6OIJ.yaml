@@ -1,6 +1,6 @@
-auxiliary_protein: Nanobody
-construct: 4mqs
-distance: 9.14
+auxiliary_protein: 'Antibody fragment'
+construct: 6oij
+distance: 9.48
 endogenous_ligand:
 -   iupharId: 294
     name: Acetylcholine
@@ -11,7 +11,8 @@ ligand:
     role: Agonist
     title: Iperoxo
     type: Small molecule
-pdb: 4MQS
-preferred_chain: A
-signaling_protein: None
+pdb: 6OIJ
+preferred_chain: R
+representative: true
+signaling_protein: G11
 state: Active

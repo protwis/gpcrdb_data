@@ -48,6 +48,30 @@ gnas2_bovin:
     gamma:
         chain: G
         protein: gbg2_bovin
+-   pdb: 6NBF
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_rat
+    gamma:
+        chain: G
+        protein: gbg2_bovin
+-   pdb: 6NBH
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_rat
+    gamma:
+        chain: G
+        protein: gbg2_bovin
+-   pdb: 6NBI
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_rat
+    gamma:
+        chain: G
+        protein: gbg2_bovin
 gnai1_human:
 -   pdb: 6DDE
     alpha: A
@@ -92,6 +116,15 @@ gnai2_human:
         protein: gbg2_human
 gnao_human:
 -   pdb: 6G79
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+gna11_human:
+-   pdb: 6OIK
     alpha: A
     beta:
         chain: B

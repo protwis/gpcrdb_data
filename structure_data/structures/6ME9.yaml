@@ -1,0 +1,13 @@
+auxiliary_protein: Soluble cytochrome b562, Rubredoxin
+construct: 6me9
+distance: -0.52
+ligand:
+    name: JEV
+    pubchemId: 208902
+    role: Agonist
+    title: Ramelteon
+    type: Small molecule
+pdb: 6ME9
+preferred_chain: B
+signaling_protein: None
+state: Inactive

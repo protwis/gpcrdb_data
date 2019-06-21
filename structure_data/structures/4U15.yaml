@@ -12,6 +12,5 @@ ligand:
     type: Small molecule
 pdb: 4U15
 preferred_chain: B
-representative: true
 signaling_protein: None
 state: Inactive

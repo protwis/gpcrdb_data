@@ -1,0 +1,18 @@
+auxiliary_protein: 'Endolysin'
+construct: 5zhp
+distance: 0.86
+endogenous_ligand:
+-   iupharId: 294
+    name: Acetylcholine
+    type: Small molecule
+ligand:
+-   name: 9EC
+    pubchemId: 134828589
+    role: Antagonist
+    title: (1R,2R,4S,5S,7s)-7-({[4-fluoro-2-(thiophen-2-yl)phenyl]carbamoyl}oxy)-9,9-dimethyl-3-oxa-9-azatricyclo[3.3.1.0~2,4~]nonan-9-ium
+    type: Small molecule
+pdb: 5ZHP
+preferred_chain: B
+representative: true
+signaling_protein: None
+state: Inactive

@@ -1,0 +1,13 @@
+auxiliary_protein: 'GIgA glycogen synthase'
+construct: 6me3
+distance: -0.66
+ligand:
+    name: JEY
+    pubchemId: 4018512
+    role: Agonist
+    title: 2-Phenylmelatonin
+    type: Small molecule
+pdb: 6ME3
+preferred_chain: A
+signaling_protein: None
+state: Inactive

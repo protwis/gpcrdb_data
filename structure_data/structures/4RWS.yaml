@@ -3,7 +3,7 @@ construct: 4rws
 distance: -0.91
 ligand:
 -   chain: C
-    name: pep
+    name: PEP
     pubchemId: None
     role: Antagonist
     title: vMIP-II

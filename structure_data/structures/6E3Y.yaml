@@ -1,15 +1,12 @@
-auxiliary_protein: 'Nanobody 35, RAMP1'
+auxiliary_protein: ''
 construct: 6e3y
-distance: 6.86
 ligand:
-    chain: P
-    name: PEP
-    pubchemId: 56841902
-    role: Agonist
-    title: Calcitonin gene-related peptide
-    type: Peptide
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
 pdb: 6E3Y
 preferred_chain: R
-representative: true
-signaling_protein: Gs
-state: Active
+signaling_protein: None
+state: Inactive

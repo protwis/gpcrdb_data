@@ -1,0 +1,13 @@
+auxiliary_protein: Soluble cytochrome b562, Rubredoxin
+construct: 6me7
+distance: -1.01
+ligand:
+    name: JEY
+    pubchemId: 4018512
+    role: Agonist
+    title: 2-Phenylmelatonin
+    type: Small molecule
+pdb: 6ME7
+preferred_chain: A
+signaling_protein: None
+state: Inactive

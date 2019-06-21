@@ -6,7 +6,7 @@ ligand:
     pubchemId: None
     role: Agonist
     title: Angiotensin-like peptide S1I8
-    type: peptide
+    type: Peptide
 pdb: 6DO1
 preferred_chain: A
 signaling_protein: None

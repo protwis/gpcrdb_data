@@ -3,7 +3,7 @@ construct: 5xjm
 distance: 7.86
 ligand:
     chain: B
-    name: pep
+    name: PEP
     pubchemId: 10079601
     role: Agonist
     title: (Sar1,Ile8)-angiontensin II
