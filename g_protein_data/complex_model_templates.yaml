@@ -1,4 +1,12 @@
 gnas2_human: 
+-   pdb: 5G53
+    alpha: C
+    beta:
+        chain: None
+        protein: None
+    gamma:
+        chain: None
+        protein: None
 -   pdb: 5UZ7
     alpha: A
     beta: 
@@ -105,6 +113,14 @@ gnai1_human:
     gamma:
         chain: C
         protein: gbg2_human
+-   pdb: 6OT0
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
 gnai2_human:
 -   pdb: 6D9H
     alpha: A
@@ -115,6 +131,14 @@ gnai2_human:
         chain: G
         protein: gbg2_human
 gnao_human:
+-   pdb: 6FUF
+    alpha: B
+    beta:
+        chain: None
+        protein: None
+    gamma:
+        chain: None
+        protein: None
 -   pdb: 6G79
     alpha: A
     beta:
@@ -123,8 +147,16 @@ gnao_human:
     gamma:
         chain: G
         protein: gbg2_human
-gna11_human:
 -   pdb: 6OIK
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+gna11_human:
+-   pdb: 6OIJ
     alpha: A
     beta:
         chain: B

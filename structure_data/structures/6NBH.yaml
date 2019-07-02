@@ -6,7 +6,7 @@ ligand:
     name: PEP
     pubchemId: None
     role: Agonist
-    title: Long-acting parathyroid hormone analog	
+    title: Long-acting parathyroid hormone analog
     type: Peptide
 pdb: 6NBH
 preferred_chain: R
