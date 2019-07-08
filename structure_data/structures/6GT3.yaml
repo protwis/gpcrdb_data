@@ -1,0 +1,13 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 6gt3
+distance: -0.83
+ligand:
+    name: F9Q
+    pubchemId: 86676119
+    role: Antagonist
+    title: AZD4635
+    type: Small molecule
+pdb: 6GT3
+preferred_chain: A
+signaling_protein: None
+state: Inactive
