@@ -1,12 +1,18 @@
-auxiliary_protein: ''
+auxiliary_protein: 'Soluble cytochrome b562'
 construct: 4ib4
+distance: 3.08
+endogenous_ligand:
+    iupharId: 5
+    name: Serotonin
+    type: Small molecule
 ligand:
-    name: None
-    pubchemId: None
-    role: '.nan'
-    title: None
-    type: None
+    name: ERM
+    pubchemId: 8223
+    role: Agonist
+    title: Ergotamine
+    type: Small molecule
 pdb: 4IB4
 preferred_chain: A
+representative: true
 signaling_protein: None
-state: Inactive
+state: Intermediate

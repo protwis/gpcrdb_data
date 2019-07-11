@@ -121,6 +121,30 @@ gnai1_human:
     gamma:
         chain: G
         protein: gbg2_human
+-   pdb: 6OS9
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: C
+        protein: gbg2_human
+-   pdb: 6OSA
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: C
+        protein: gbg2_human
+-   pdb: 6QNO
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_bovin
+    gamma:
+        chain: G
+        protein: gbg1_bovin
 gnai2_human:
 -   pdb: 6D9H
     alpha: A

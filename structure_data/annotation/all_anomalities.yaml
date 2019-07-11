@@ -9724,9 +9724,9 @@ npy6r_human:
     '5.46': Q
 ntr1_human:
     UniProt: ntr1_human
-    Xtal Templ: ntr1_rat
+    Xtal Templ: ntr1_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: 2x551

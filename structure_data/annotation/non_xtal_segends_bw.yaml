@@ -3857,7 +3857,7 @@ ghsr_human:
     7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 62.0
     Cl: A
 gipr_human:
     XtalTempl: glr_human
@@ -5450,7 +5450,7 @@ gpr39_human:
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 62.0
     Cl: A
 gpr3_human:
     XtalTempl: lpar1_human
@@ -7205,7 +7205,7 @@ mtlr_human:
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 62.0
     Cl: A
 mtr1a_human:
     XtalTempl: mtr1a_human
@@ -7421,7 +7421,7 @@ nmur1_human:
     7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 62.0
     Cl: A
 nmur2_human:
     XtalTempl: ntr1_rat
@@ -7448,7 +7448,7 @@ nmur2_human:
     7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 62.0
     Cl: A
 npbw1_human:
     XtalTempl: oprd_human
@@ -7721,8 +7721,8 @@ npy6r_human:
     8e: 58.0
     Cl: A
 ntr1_human:
-    XtalTempl: ntr1_rat
-    1b: 29.0
+    XtalTempl: ntr1_human
+    1b: 28.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -7738,14 +7738,14 @@ ntr1_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 32.0
+    5b: 31.0
     5e: 76.0
     6b: 24.0
     6e: 61.0
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 62.0
     Cl: A
 ntr1_rat:
     XtalTempl: ntr1_rat
@@ -7772,7 +7772,7 @@ ntr1_rat:
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 62.0
     Cl: A
 ntr2_human:
     XtalTempl: ntr1_rat
@@ -7799,7 +7799,7 @@ ntr2_human:
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 62.0
     Cl: A
 ogr1_human:
     XtalTempl: ptafr_human
