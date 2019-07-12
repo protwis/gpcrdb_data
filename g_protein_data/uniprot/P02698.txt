@@ -1,0 +1,230 @@
+ID   GBG1_BOVIN              Reviewed;          74 AA.
+AC   P02698;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   05-JUN-2019, entry version 168.
+DE   RecName: Full=Guanine nucleotide-binding protein G(T) subunit gamma-T1;
+DE   AltName: Full=Transducin gamma chain;
+DE   Flags: Precursor;
+GN   Name=GNGT1;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+OC   Pecora; Bovidae; Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=6438626; DOI=10.1073/pnas.81.22.6948;
+RA   Hurley J.B., Fong H.K.W., Teplow D.B., Dreyer W.J., Simon M.I.;
+RT   "Isolation and characterization of a cDNA clone for the gamma subunit
+RT   of bovine retinal transducin.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 81:6948-6952(1984).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2984674; DOI=10.1073/pnas.82.7.1936;
+RA   Yatsunami K., Pandya B.V., Oprian D.D., Khorana H.G.;
+RT   "cDNA-derived amino acid sequence of the gamma subunit of GTPase from
+RT   bovine rod outer segments.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 82:1936-1940(1985).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8500562; DOI=10.1006/exer.1993.1063;
+RA   Tao L., Pandey S., Simon M.I., Fong H.K.;
+RT   "Structure of the bovine transducin gamma subunit gene and analysis of
+RT   promoter function in transgenic mice.";
+RL   Exp. Eye Res. 56:497-507(1993).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-40.
+RX   PubMed=6149748;
+RA   van Dop C., Medynski D.C., Sullivan K., Wu A.M., Fung B.K.-K.,
+RA   Bourne H.R.;
+RT   "Partial cDNA sequence of the gamma subunit of transducin.";
+RL   Biochem. Biophys. Res. Commun. 124:250-255(1984).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 2-70.
+RX   PubMed=3917402; DOI=10.1016/0014-5793(85)80201-5;
+RA   Ovchinnikov Y.A., Lipkin V.M., Shuvaeva T.M., Bogachuk A.P.,
+RA   Shemyakin V.V.;
+RT   "Complete amino acid sequence of gamma-subunit of the GTP-binding
+RT   protein from cattle retina.";
+RL   FEBS Lett. 179:107-110(1985).
+RN   [6]
+RP   ISOPRENYLATION AT CYS-71, AND METHYLATION AT CYS-71.
+RX   PubMed=2385292; DOI=10.1038/346658a0;
+RA   Fukuda Y., Takao T., Ohguro H., Yoshizawa T., Akino T., Shimonishi Y.;
+RT   "Farnesylated gamma-subunit of photoreceptor G protein indispensable
+RT   for GTP-binding.";
+RL   Nature 346:658-660(1990).
+RN   [7]
+RP   ISOPRENYLATION AT CYS-71.
+RX   PubMed=1903391;
+RA   Sanford J., Codina J., Birnbaumer L.;
+RT   "Gamma-subunits of G proteins, but not their alpha- or beta-subunits,
+RT   are polyisoprenylated. Studies on post-translational modifications
+RT   using in vitro translation with rabbit reticulocyte lysates.";
+RL   J. Biol. Chem. 266:9570-9579(1991).
+RN   [8]
+RP   ISOPRENYLATION AT CYS-71.
+RX   PubMed=2217200; DOI=10.1073/pnas.87.19.7673;
+RA   Lai R.K., Perez-Sala D., Canada F.J., Rando R.R.;
+RT   "The gamma subunit of transducin is farnesylated.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:7673-7677(1990).
+RN   [9]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF BETA-GAMMA DIMER.
+RX   PubMed=8552196; DOI=10.1038/379369a0;
+RA   Sondek J., Bohm A., Lambright D.G., Hamm H.E., Sigler P.B.;
+RT   "Crystal structure of a G-protein beta gamma dimer at 2.1-A
+RT   resolution.";
+RL   Nature 379:369-374(1996).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF COMPLEX WITH PHOSDUCIN.
+RX   PubMed=9739091; DOI=10.1016/S0969-2126(98)00102-6;
+RA   Loew A., Ho Y.K., Blundell T., Bax B.;
+RT   "Phosducin induces a structural change in transducin beta gamma.";
+RL   Structure 6:1007-1019(1998).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are
+CC       involved as a modulator or transducer in various transmembrane
+CC       signaling systems. The beta and gamma chains are required for the
+CC       GTPase activity, for replacement of GDP by GTP, and for G protein-
+CC       effector interaction.
+CC   -!- SUBUNIT: G proteins are composed of 3 units, alpha, beta and
+CC       gamma.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000305}; Lipid-anchor
+CC       {ECO:0000305}; Cytoplasmic side {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Retinal rod outer segment.
+CC   -!- SIMILARITY: Belongs to the G protein gamma family. {ECO:0000305}.
+CC   -!- CAUTION: In PubMed:3917402 the authors propose that Cys-36 and
+CC       Cys-37 are disulfide bonded because they could not be observed
+CC       during peptide sequencing, but were observed after reduction by
+CC       dithiothreitol and reaction with labeled iodoacetamide. The
+CC       crystallographic structures do not support these cysteines being
+CC       disulfide bonded. Artifactual oxidation and some other cysteine
+CC       modifications might be consistent with these observations.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; K03255; AAA30794.1; -; mRNA.
+DR   EMBL; K02199; AAA30793.1; -; mRNA.
+DR   EMBL; S62031; AAB26895.1; -; Genomic_DNA.
+DR   EMBL; S62029; AAB26895.1; JOINED; Genomic_DNA.
+DR   EMBL; K02436; AAA30788.1; -; mRNA.
+DR   PIR; I46939; RGBOGT.
+DR   RefSeq; NP_776752.1; NM_174327.3.
+DR   RefSeq; XP_010802285.1; XM_010803983.2.
+DR   PDB; 1A0R; X-ray; 2.80 A; G=2-66.
+DR   PDB; 1B9X; X-ray; 3.00 A; B=1-68.
+DR   PDB; 1B9Y; X-ray; 3.00 A; B=1-68.
+DR   PDB; 1GOT; X-ray; 2.00 A; G=2-66.
+DR   PDB; 1MF6; NMR; -; A=60-71.
+DR   PDB; 1TBG; X-ray; 2.10 A; E/F/G/H=2-68.
+DR   PDB; 2TRC; X-ray; 2.40 A; G=1-68.
+DR   PDB; 5KDO; X-ray; 1.90 A; G=1-74.
+DR   PDB; 6B20; X-ray; 2.34 A; C/D=7-66.
+DR   PDBsum; 1A0R; -.
+DR   PDBsum; 1B9X; -.
+DR   PDBsum; 1B9Y; -.
+DR   PDBsum; 1GOT; -.
+DR   PDBsum; 1MF6; -.
+DR   PDBsum; 1TBG; -.
+DR   PDBsum; 2TRC; -.
+DR   PDBsum; 5KDO; -.
+DR   PDBsum; 6B20; -.
+DR   SMR; P02698; -.
+DR   CORUM; P02698; -.
+DR   DIP; DIP-29228N; -.
+DR   IntAct; P02698; 1.
+DR   MINT; P02698; -.
+DR   STRING; 9913.ENSBTAP00000003465; -.
+DR   PaxDb; P02698; -.
+DR   PRIDE; P02698; -.
+DR   Ensembl; ENSBTAT00000003465; ENSBTAP00000003465; ENSBTAG00000002674.
+DR   Ensembl; ENSBTAT00000082378; ENSBTAP00000060879; ENSBTAG00000002674.
+DR   GeneID; 281796; -.
+DR   KEGG; bta:281796; -.
+DR   CTD; 2792; -.
+DR   VGNC; VGNC:29470; GNGT1.
+DR   eggNOG; KOG4119; Eukaryota.
+DR   eggNOG; ENOG41122JF; LUCA.
+DR   GeneTree; ENSGT00960000186591; -.
+DR   HOGENOM; HOG000231034; -.
+DR   InParanoid; P02698; -.
+DR   KO; K04548; -.
+DR   OMA; TSKCCEE; -.
+DR   OrthoDB; 1573820at2759; -.
+DR   TreeFam; TF319909; -.
+DR   Reactome; R-BTA-1296041; Activation of G protein gated Potassium channels.
+DR   Reactome; R-BTA-202040; G-protein activation.
+DR   Reactome; R-BTA-2485179; Activation of the phototransduction cascade.
+DR   Reactome; R-BTA-381676; Glucagon-like Peptide-1 (GLP1) regulates insulin secretion.
+DR   Reactome; R-BTA-381753; Olfactory Signaling Pathway.
+DR   Reactome; R-BTA-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-BTA-392451; G beta:gamma signalling through PI3Kgamma.
+DR   Reactome; R-BTA-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-BTA-4086398; Ca2+ pathway.
+DR   Reactome; R-BTA-416476; G alpha (q) signalling events.
+DR   Reactome; R-BTA-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-BTA-418217; G beta:gamma signalling through PLC beta.
+DR   Reactome; R-BTA-418555; G alpha (s) signalling events.
+DR   Reactome; R-BTA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-BTA-418594; G alpha (i) signalling events.
+DR   Reactome; R-BTA-418597; G alpha (z) signalling events.
+DR   Reactome; R-BTA-420092; Glucagon-type ligand receptors.
+DR   Reactome; R-BTA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-BTA-432040; Vasopressin regulates renal water homeostasis via Aquaporins.
+DR   Reactome; R-BTA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Reactome; R-BTA-500657; Presynaptic function of Kainate receptors.
+DR   Reactome; R-BTA-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Reactome; R-BTA-8964315; G beta:gamma signalling through BTK.
+DR   Reactome; R-BTA-8964616; G beta:gamma signalling through CDC42.
+DR   Reactome; R-BTA-9009391; Non-genomic estrogen signaling.
+DR   Reactome; R-BTA-997272; Inhibition of voltage gated Ca2+ channels via Gbeta/gamma subunits.
+DR   EvolutionaryTrace; P02698; -.
+DR   Proteomes; UP000009136; Chromosome 4.
+DR   Bgee; ENSBTAG00000002674; Expressed in 6 organ(s), highest expression level in testis.
+DR   GO; GO:0031680; C:G-protein beta/gamma-subunit complex; IBA:GO_Central.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0097381; C:photoreceptor disc membrane; TAS:Reactome.
+DR   GO; GO:0031681; F:G-protein beta-subunit binding; IBA:GO_Central.
+DR   GO; GO:0003924; F:GTPase activity; IEA:InterPro.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IBA:GO_Central.
+DR   CDD; cd00068; GGL; 1.
+DR   Gene3D; 4.10.260.10; -; 1.
+DR   InterPro; IPR015898; G-protein_gamma-like_dom.
+DR   InterPro; IPR036284; GGL_sf.
+DR   InterPro; IPR001770; Gprotein-gamma.
+DR   PANTHER; PTHR13809; PTHR13809; 1.
+DR   Pfam; PF00631; G-gamma; 1.
+DR   PRINTS; PR00321; GPROTEING.
+DR   SMART; SM00224; GGL; 1.
+DR   SUPFAM; SSF48670; SSF48670; 1.
+DR   PROSITE; PS50058; G_PROTEIN_GAMMA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Complete proteome;
+KW   Direct protein sequencing; Lipoprotein; Membrane; Methylation;
+KW   Prenylation; Reference proteome; Transducer.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:3917402}.
+FT   CHAIN         2     71       Guanine nucleotide-binding protein G(T)
+FT                                subunit gamma-T1.
+FT                                /FTId=PRO_0000012601.
+FT   PROPEP       72     74       Removed in mature form.
+FT                                /FTId=PRO_0000012602.
+FT   MOD_RES      71     71       Cysteine methyl ester.
+FT                                {ECO:0000269|PubMed:2385292}.
+FT   LIPID        71     71       S-farnesyl cysteine.
+FT                                {ECO:0000269|PubMed:1903391,
+FT                                ECO:0000269|PubMed:2217200,
+FT                                ECO:0000269|PubMed:2385292}.
+FT   HELIX         3      5       {ECO:0000244|PDB:1TBG}.
+FT   HELIX         6      8       {ECO:0000244|PDB:1A0R}.
+FT   HELIX        11     25       {ECO:0000244|PDB:5KDO}.
+FT   HELIX        33     45       {ECO:0000244|PDB:5KDO}.
+FT   HELIX        48     50       {ECO:0000244|PDB:5KDO}.
+FT   HELIX        52     55       {ECO:0000244|PDB:5KDO}.
+FT   HELIX        59     61       {ECO:0000244|PDB:5KDO}.
+FT   HELIX        62     70       {ECO:0000244|PDB:1MF6}.
+SQ   SEQUENCE   74 AA;  8544 MW;  B12B580FABDB1C05 CRC64;
+     MPVINIEDLT EKDKLKMEVD QLKKEVTLER MLVSKCCEEF RDYVEERSGE DPLVKGIPED
+     KNPFKELKGG CVIS
+//
