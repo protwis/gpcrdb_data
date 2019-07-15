@@ -272,7 +272,7 @@ acm2_human__wt:
     3ei2b: 1.0
 acm3_rat__wt:
     Key: acm3_rat__wt
-    1b: 29.0
+    1b: 28.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -295,7 +295,7 @@ acm3_rat__wt:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 60.0
     Cl: A
     RF: Acetylcholine(muscarinic)
     1ei1b: 1.0
@@ -1290,6 +1290,74 @@ lpar1_human__wt:
     2e3b: 38.0
     e1e3b: 1.0
     3ei2b: 1.0
+mtr1a_human__wt:
+    Key: mtr1a_human__wt
+    1b: 28.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 68.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 35.0
+    5e: 72.0
+    6b: 24.0
+    6e: 61.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 63.0
+    Cl: A
+    RF: Melatonin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 34.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+mtr1b_human__wt:
+    Key: mtr1b_human__wt
+    1b: 30.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 68.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 35.0
+    5e: 72.0
+    6b: 24.0
+    6e: 61.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 63.0
+    Cl: A
+    RF: Melatonin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 34.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 nk1r_human__wt:
     Key: nk1r_human__wt
     1b: 28.0
@@ -1358,6 +1426,40 @@ npy1r_human__wt:
     2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 15
+ntr1_human__wt:
+    Key: ntr1_human__wt
+    1b: 28.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 34.0
+    2e: 68.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 31.0
+    5e: 76.0
+    6b: 24.0
+    6e: 61.0
+    7b: 24.0
+    7e: 56.0
+    8b: 47.0
+    8e: 62.0
+    Cl: A
+    RF: Neurotensin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 3.0
+    2e3b: 36.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 ntr1_rat__wt:
     Key: ntr1_rat__wt
     1b: 29.0
@@ -1383,7 +1485,7 @@ ntr1_rat__wt:
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 62.0
     Cl: A
     RF: Neurotensin
     1ei1b: 1.0
@@ -2006,7 +2108,7 @@ ptafr_human__wt:
     3ei2b: 1.0
 pth1r_human__wt:
     Key: pth1r_human__wt
-    1b: 27.0
+    1b: 21.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -2022,7 +2124,7 @@ pth1r_human__wt:
     4e: 68.0
     e2b: 50.0
     e2e: 52.0
-    5b: 38.0
+    5b: 37.0
     5e: 69.0
     6b: 25.0
     6e: 54.0
@@ -2219,10 +2321,10 @@ smo_human__wt:
     e1b: '-'
     e1e: '-'
     3b: 23.0
-    3e: 59.0
+    3e: 56.0
     i2b: '-'
     i2e: '-'
-    4b: 38.0
+    4b: 41.0
     4e: 63.0
     e2b: 50.0
     e2e: 52.0

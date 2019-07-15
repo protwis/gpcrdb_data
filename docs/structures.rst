@@ -28,8 +28,9 @@ TM2  TM6  TM3  TM7  Class  Inactive  Intermediate  Active
 ==== ==== ==== ==== =====  ========  ============  ======
 2x41 6x38 3x44 7x52 A      <2        2<=x<=7.15    >7.15
 2x41 6x33 3x44 7x51 B      <2.5      2.5<=x<=6     >6
+2x41 6x38 3x44 7x52 F      <0        0<=x<=2       >2
 ==== ==== ==== ==== =====  ========  ============  ======
-All Class C and F structures are, so far, in the inactive state.
+All Class C structures are, so far, in the inactive state.
 
 This definition is an approach more based on structure than function. The Δ distance resembles a general openness of the intracellular side
 of the receptor where coupling of a signaling protein can occur. There are structures where based on ligand properties the structure should

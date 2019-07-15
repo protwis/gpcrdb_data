@@ -1,0 +1,17 @@
+auxiliary_protein: Fab light chain, Fab heavy chain
+construct: 6ot0
+distance: 5.12
+endogenous_ligand:
+-   name: constitutive
+    type: Constitutive
+ligand:
+-   name: CO1
+    pubchemId: 3247059
+    role: Agonist
+    title: 24,25-Epoxy-cholesterol
+    type: Small molecule
+pdb: 6OT0
+preferred_chain: R
+representative: true
+signaling_protein: Gi
+state: Active

@@ -9,7 +9,7 @@ ligand:
 -   name: IXO
     pubchemId: 10104167
     role: Agonist
-    title: iperoxo
+    title: Iperoxo
     type: Small molecule
 pdb: 4MQS
 preferred_chain: A

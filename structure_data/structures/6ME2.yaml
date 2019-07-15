@@ -1,0 +1,14 @@
+auxiliary_protein: 'GIgA glycogen synthase'
+construct: 6me2
+distance: -0.56
+ligand:
+    name: JEV
+    pubchemId: 208902
+    role: Agonist
+    title: Ramelteon
+    type: Small molecule
+pdb: 6ME2
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

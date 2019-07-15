@@ -9,3 +9,4 @@ gpcrdbc GPCRdb(C) "GPCRdb (Class C)"    pin
 gpcrdbf GPCRdb(F) "GPCRdb (Class F)"    wang
 oli Oliveira    "Oliveira"
 bs  BS  "Baldwin-Schwartz"
+ecd ECD "Class B GPCR Extracellular domain"

@@ -1,0 +1,13 @@
+auxiliary_protein: 'GlgA glycogen synthase'
+construct: 6me5
+distance: -0.79
+ligand:
+    name: AWY
+    pubchemId: 82148
+    role: Agonist
+    title: Agomelatine
+    type: Small molecule
+pdb: 6ME5
+preferred_chain: A
+signaling_protein: None
+state: Inactive

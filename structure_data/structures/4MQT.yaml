@@ -5,7 +5,7 @@ ligand:
 -   name: IXO
     pubchemId: 10104167
     role: Agonist
-    title: iperoxo
+    title: Iperoxo
     type: Small molecule
 -   name: 2CU
     pubchemId: 57664406

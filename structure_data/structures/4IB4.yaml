@@ -1,14 +1,15 @@
-auxiliary_protein: BRIL
+auxiliary_protein: 'Soluble cytochrome b562'
 construct: 4ib4
 distance: 3.08
 endogenous_ligand:
--   iupharId: 5
+    iupharId: 5
     name: Serotonin
     type: Small molecule
 ligand:
--   name: ERM
-    pubchemId: '8223'
+    name: ERM
+    pubchemId: 8223
     role: Agonist
+    title: Ergotamine
     type: Small molecule
 pdb: 4IB4
 preferred_chain: A

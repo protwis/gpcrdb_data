@@ -1,0 +1,22 @@
+auxiliary_protein: ''
+construct: 6oik
+distance: 8.54
+endogenous_ligand:
+-   iupharId: 294
+    name: Acetylcholine
+    type: Small molecule
+ligand:
+-   name: IXO
+    pubchemId: 10104167
+    role: Agonist
+    title: Iperoxo
+    type: Small molecule
+-   name: 2CU
+    pubchemId: 57664406
+    role: Agonist
+    title: LY2119620
+    type: None
+pdb: 6OIK
+preferred_chain: R
+signaling_protein: Go
+state: Active

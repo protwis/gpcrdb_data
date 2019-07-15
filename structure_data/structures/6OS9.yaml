@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 6os9
+distance: 7.04
+ligand:
+    chain: L
+    name: PEP
+    pubchemId: 164415
+    role: Agonist
+    title: JMV449
+    type: Peptide
+pdb: 6OS9
+preferred_chain: R
+signaling_protein: Gi
+state: Intermediate

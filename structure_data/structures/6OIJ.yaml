@@ -1,0 +1,18 @@
+auxiliary_protein: 'Antibody fragment'
+construct: 6oij
+distance: 9.48
+endogenous_ligand:
+-   iupharId: 294
+    name: Acetylcholine
+    type: Small molecule
+ligand:
+-   name: IXO
+    pubchemId: 10104167
+    role: Agonist
+    title: Iperoxo
+    type: Small molecule
+pdb: 6OIJ
+preferred_chain: R
+representative: true
+signaling_protein: G11
+state: Active

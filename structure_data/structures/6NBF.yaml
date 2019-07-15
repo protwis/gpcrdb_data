@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 6nbf
+distance: 6.99
+ligand:
+    name: PEP
+    chain: P
+    pubchemId: None
+    role: Agonist
+    title: Long-acting parathyroid hormone analog
+    type: Peptide
+pdb: 6NBF
+preferred_chain: R
+signaling_protein: Gs
+state: Active

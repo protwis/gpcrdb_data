@@ -5,6 +5,7 @@ ligand:
 -   name: ZMA
     pubchemId: '176407'
     role: Antagonist
+    title: ZM241385
     type: Small molecule
 pdb: 5K2C
 preferred_chain: A

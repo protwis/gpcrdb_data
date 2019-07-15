@@ -1,0 +1,13 @@
+auxiliary_protein: Endolysin
+construct: 6e67
+distance: 9.88
+ligand:
+    name: P0G
+    pubchemId: 49837874
+    role: Agonist
+    title: 5-Hydroxy-8-[(1R)-1-hydroxy-2-[[2-methyl-1-(2-methylphenyl)propan-2-yl]amino]ethyl]-4H-1,4-benzoxazin-3-one
+    type: Small molecule
+pdb: 6E67
+preferred_chain: B
+signaling_protein: Fused partial Gs
+state: Active

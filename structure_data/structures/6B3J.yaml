@@ -2,7 +2,7 @@ auxiliary_protein: None
 construct: 6b3j
 distance: 6.78
 ligand:
--   name: pep
+-   name: PEP
     pubchemId: None
     role: Agonist
     title: Exendin-P5
