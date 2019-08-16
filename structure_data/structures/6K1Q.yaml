@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6k1q
+distance: -1.99
+ligand:
+    name: D2U
+    pubchemId: 5311192
+    role: Inverse agonist
+    title: IRL2500
+    type: Small molecule
+pdb: 6K1Q
+preferred_chain: A
+signaling_protein: None
+state: Inactive

@@ -179,6 +179,23 @@ gnao_human:
     gamma:
         chain: G
         protein: gbg2_human
+gnat1_bovin:
+-   pdb: 6OY9
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_bovin
+    gamma:
+        chain: G
+        protein: gbg1_bovin
+-   pdb: 6OYA
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_bovin
+    gamma:
+        chain: G
+        protein: gbg1_bovin
 gna11_human:
 -   pdb: 6OIJ
     alpha: A

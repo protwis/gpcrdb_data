@@ -1430,8 +1430,8 @@ ntr1_human__wt:
     Key: ntr1_human__wt
     1b: 28.0
     1e: 60.0
-    i1b: 48.0
-    i1e: 51.0
+    i1b: '-'
+    i1e: '-'
     2b: 34.0
     2e: 68.0
     e1b: 49.0
@@ -1454,8 +1454,8 @@ ntr1_human__wt:
     8e: 62.0
     Cl: A
     RF: Neurotensin
-    1ei1b: 1.0
-    i1e2b: 1.0
+    1ei1b: 15
+    i1e2b: 15
     2e-e1b: 3.0
     2e3b: 36.0
     e1e3b: 1.0
@@ -1464,8 +1464,8 @@ ntr1_rat__wt:
     Key: ntr1_rat__wt
     1b: 29.0
     1e: 60.0
-    i1b: 48.0
-    i1e: 51.0
+    i1b: '-'
+    i1e: '-'
     2b: 34.0
     2e: 68.0
     e1b: 49.0
@@ -1488,8 +1488,8 @@ ntr1_rat__wt:
     8e: 62.0
     Cl: A
     RF: Neurotensin
-    1ei1b: 1.0
-    i1e2b: 1.0
+    1ei1b: 15
+    i1e2b: 15
     2e-e1b: 3.0
     2e3b: 36.0
     e1e3b: 1.0
@@ -1684,7 +1684,7 @@ opsd_bovin__wt:
     e2e: 52.0
     5b: 34.0
     5e: 72.0
-    6b: 24.0
+    6b: 23.0
     6e: 61.0
     7b: 31.0
     7e: 56.0

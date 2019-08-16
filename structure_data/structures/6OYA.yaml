@@ -1,0 +1,17 @@
+auxiliary_protein: 'Camelid antibody VHH fragment'
+construct: 6oya
+distance: 8.5
+endogenous_ligand:
+-   iupharId: 6669
+    name: RET
+    type: Small molecule
+ligand:
+    name: RET
+    pubchemId: 638015
+    role: Inverse agonist
+    title: Retinal
+    type: Small molecule
+pdb: 6OYA
+preferred_chain: R
+signaling_protein: Gt
+state: Active

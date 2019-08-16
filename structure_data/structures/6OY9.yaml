@@ -1,0 +1,17 @@
+auxiliary_protein: ''
+construct: 6oy9
+distance: 8.7
+endogenous_ligand:
+-   iupharId: 6669
+    name: RET
+    type: Small molecule
+ligand:
+    name: RET
+    pubchemId: 638015
+    role: Inverse agonist
+    title: Retinal
+    type: Small molecule
+pdb: 6OY9
+preferred_chain: R
+signaling_protein: Gt
+state: Active
