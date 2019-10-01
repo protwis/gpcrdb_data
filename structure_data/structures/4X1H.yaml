@@ -8,7 +8,7 @@ endogenous_ligand:
 ligand:
 -   name: BNG
     pubchemId: '155448'
-    role: Inverse agonist
+    role: Agonist
     type: Small molecule
 pdb: 4X1H
 preferred_chain: A
