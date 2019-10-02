@@ -7,6 +7,7 @@ endogenous_ligand:
     type: Small molecule
 ligand:
 -   name: RET
+    title: Retinal (all-trans)
     pubchemId: '638015'
     role: Agonist
     type: Small molecule

@@ -4,7 +4,7 @@ distance: 7.11
 ligand:
     name: J9P
     pubchemId: 9820635
-    role: Antagonist
+    role: Agonist
     title: misoprostol-FA
     type: Small molecule
 pdb: 6M9T

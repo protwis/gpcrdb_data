@@ -3,6 +3,7 @@ construct: 3c9m
 distance: -0.2
 ligand:
 -   name: RET
+    title: Retinal (11-cis)
     pubchemId: '638015'
     role: Inverse agonist
     type: Small molecule
