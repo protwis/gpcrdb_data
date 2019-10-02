@@ -1,0 +1,13 @@
+auxiliary_protein: 'Sialidase NanA'
+construct: 6qzh
+distance: 0.00
+ligand:
+    name: JLW
+    pubchemId: 136165388
+    role: Antagonist
+    title: SCHEMBL13407377
+    type: Small molecule
+pdb: 6QZH
+preferred_chain: A
+signaling_protein: None
+state: Inactive

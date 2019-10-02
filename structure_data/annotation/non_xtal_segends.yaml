@@ -4249,8 +4249,8 @@ ccr6_human:
     6e-7b: 3.0
     7e-8b: 1.0
 ccr7_human:
-    Xtal Templ: ccr9_human
-    1b: 53.0
+    Xtal Templ: ccr7_human
+    1b: 55.0
     1x: 76.0
     1e: 86.0
     i1b: 87.0
@@ -4285,7 +4285,7 @@ ccr7_human:
     7e: 329.0
     8b: 330.0
     8x: 333.0
-    8e: 350.0
+    8e: 342.0
     Cl: A
     1e-i1b: 1.0
     i1e-2b: 1.0

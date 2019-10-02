@@ -1,0 +1,18 @@
+auxiliary_protein: ''
+construct: 6ofj
+distance: 2.48
+endogenous_ligand:
+-   iupharId: 6669
+    name: RET
+    type: Small molecule
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 6OFJ
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Intermediate

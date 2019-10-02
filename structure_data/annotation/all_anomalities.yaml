@@ -2890,9 +2890,9 @@ ccr6_human:
     '5.46': G
 ccr7_human:
     UniProt: ccr7_human
-    Xtal Templ: ccr9_human
+    Xtal Templ: ccr7_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: ''
