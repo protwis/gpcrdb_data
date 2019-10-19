@@ -13,5 +13,5 @@ ligand:
 pdb: 6OT0
 preferred_chain: R
 representative: true
-signaling_protein: Gi
+signaling_protein: Gi1
 state: Active

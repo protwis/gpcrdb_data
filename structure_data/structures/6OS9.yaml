@@ -10,5 +10,5 @@ ligand:
     type: Peptide
 pdb: 6OS9
 preferred_chain: R
-signaling_protein: Gi
+signaling_protein: Gi1
 state: Intermediate

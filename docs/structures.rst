@@ -16,10 +16,10 @@ are the one that have the most GPCRdb generic numbered positions present in the 
 Structure state
 ---------------
 
-A Δ distance was determined for all class A structure templates by subtracting the 3x44-7x52 C alpha distance from the 2x41-6x38 
+A 7TM Open IC was determined for all class A structure templates by subtracting the 3x44-7x52 C alpha distance from the 2x41-6x38 
 C alpha distance and for all class B structure templates by subtracting the 3x44-7x51 C alpha distance from the 2x41-6x33 C alpha distance. 
 These values are now provided in the Structure Browser (`gpcrdb.org/structure`_) 
-in the Δ distance (Å) column.
+in the 7TM Open IC (Å) column.
 
 .. _gpcrdb.org/structure: http://gpcrdb.org/structure
 
@@ -32,7 +32,7 @@ TM2  TM6  TM3  TM7  Class  Inactive  Intermediate  Active
 ==== ==== ==== ==== =====  ========  ============  ======
 All Class C structures are, so far, in the inactive state.
 
-This definition is an approach more based on structure than function. The Δ distance resembles a general openness of the intracellular side
+This definition is an approach more based on structure than function. The 7TM Open IC resembles a general openness of the intracellular side
 of the receptor where coupling of a signaling protein can occur. There are structures where based on ligand properties the structure should
 be identified as inactive, however due to a fusion protein on the intracellular side of the receptor, the conformation is more similar to an active
 structure (e.g. 5NDD, 5NJ6). Another unusual example is one of the Platelet-activating factor receptor structures (5ZKP), where H8 turns inward the

@@ -13,5 +13,5 @@ ligand:
     type: Small molecule
 pdb: 6QNO
 preferred_chain: R
-signaling_protein: Gi
+signaling_protein: Gi1
 state: Active

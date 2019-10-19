@@ -11,5 +11,5 @@ ligand:
 pdb: 6OSA
 preferred_chain: R
 representative: true
-signaling_protein: Gi
+signaling_protein: Gi1
 state: Intermediate

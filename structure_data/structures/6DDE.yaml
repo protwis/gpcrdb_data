@@ -28,5 +28,5 @@ ligand:
     type: Peptide-like
 pdb: 6DDE
 preferred_chain: R
-signaling_protein: Gi
+signaling_protein: Gi1
 state: Active

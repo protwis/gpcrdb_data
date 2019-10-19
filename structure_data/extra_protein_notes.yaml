@@ -1,0 +1,66 @@
+6OSA: 
+    note: Non-canonical conformation
+6FUF: 
+    note: mini-Go
+6E67: 
+    note: Fused partial Gs
+    chain: B
+    prot: GNAS2
+    category: G alpha
+    length: 17
+5G53: 
+    note: Engineered G protein
+5WKT: 
+    note: Only H5
+    chain: B
+    prot: GNAT1
+    category: G alpha
+    length: 11
+5EN0: 
+    note: Only H5
+    chain: B
+    prot: GNAT3
+    category: G alpha
+    length: 11
+4X1H: 
+    note: Only H5
+    chain: C
+    prot: GNAT1
+    category: G alpha
+    length: 11
+4J4Q: 
+    note: Only H5
+    chain: B
+    prot: GNAT1
+    category: G alpha
+    length: 11
+4BEY: 
+    note: Only H5
+    chain: B
+    prot: GNAT1
+    category: G alpha
+    length: 11
+4A4M: 
+    note: Only H5
+    chain: B
+    prot: GNAT3
+    category: G alpha
+    length: 11
+2X72: 
+    note: Only H5
+    chain: B
+    prot: GNAT1
+    category: G alpha
+    length: 11
+3PQR: 
+    note: Only H5
+    chain: B
+    prot: GNAT1
+    category: G alpha
+    length: 11
+3DQB: 
+    note: Only H5
+    chain: B
+    prot: GNAT1
+    category: G alpha
+    length: 11
