@@ -64,3 +64,27 @@
     prot: GNAT1
     category: G alpha
     length: 11
+5W0P:
+    note:
+    chain: D
+    prot: arrs_mouse
+    category: Arrestin
+    length: 351
+5DGY:
+    note:
+    chain: A
+    prot: arrs_mouse
+    category: Arrestin
+    length: 347
+4ZWJ:
+    note:
+    chain: A
+    prot: arrs_mouse
+    category: Arrestin
+    length: 347
+4PXF:
+    note: Fragment
+    chain: B
+    prot: arrs_mouse
+    category: Arrestin
+    length: 11

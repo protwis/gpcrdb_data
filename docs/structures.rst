@@ -30,10 +30,12 @@ TM2  TM6  TM3  TM7  Class  Inactive  Intermediate  Active
 2x41 6x33 3x44 7x51 B      <2.5      2.5<=x<=6     >6
 2x41 6x38 3x44 7x52 F      <0        0<=x<=2       >2
 ==== ==== ==== ==== =====  ========  ============  ======
+
 All Class C structures are, so far, in the inactive state.
 
 This definition is an approach more based on structure than function. The 7TM Open IC resembles a general openness of the intracellular side
-of the receptor where coupling of a signaling protein can occur. There are structures where based on ligand properties the structure should
+of the receptor where coupling of a signaling protein can occur. 
+**Exceptions:** There are structures where based on ligand properties the structure should
 be identified as inactive, however due to a fusion protein on the intracellular side of the receptor, the conformation is more similar to an active
 structure (e.g. 5NDD, 5NJ6). Another unusual example is one of the Platelet-activating factor receptor structures (5ZKP), where H8 turns inward the
 helical bundle, blocking the chance of signal protein coupling while pushing TM2 outwards.
