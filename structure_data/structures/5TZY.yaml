@@ -11,7 +11,7 @@ ligand:
     type: Small molecule
 -   name: 7OS
     pubchemId: '127053597'
-    role: Agonist
+    role: PAM
     type: Small molecule
 pdb: 5TZY
 preferred_chain: A

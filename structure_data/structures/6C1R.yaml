@@ -9,7 +9,7 @@ ligand:
     type: Peptide
 -   name: EFD
     pubchemId: 49841217
-    role: Antagonist
+    role: NAM
     title: Avacopan
     type: Small molecule
 pdb: 6C1R
