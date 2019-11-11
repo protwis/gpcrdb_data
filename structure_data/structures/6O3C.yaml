@@ -7,11 +7,6 @@ ligand:
     role: Agonist
     title: SAG21k
     type: Small molecule
--   name: CLR
-    pubchemId: 5997
-    role: PAM
-    title: Cholesterol
-    type: Small molecule
 pdb: 6O3C
 preferred_chain: A
 representative: true

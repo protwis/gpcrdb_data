@@ -3162,9 +3162,9 @@ celr3_human:
     '5.46': P
 cltr1_human:
     UniProt: cltr1_human
-    Xtal Templ: p2ry1_human
+    Xtal Templ: cltr1_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: ''
@@ -12136,6 +12136,40 @@ smo_human:
     '4.59': A
     '4.60': I
     '5.46': P
+smo_mouse:
+    UniProt: smo_mouse
+    Xtal Templ: smo_mouse
+    Cl: F
+    Xtalised: Xtal
+    1x36: ''
+    1x411: ''
+    2x551: ''
+    2x581: ''
+    23x501: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: ''
+    5x411: ''
+    5x421: 5x421
+    5x431: ''
+    5x461: ''
+    6x461: ''
+    7x44: ''
+    7x521: ''
+    '2.50': A
+    '2.56': S
+    '2.57': I
+    '2.58': G
+    '2.59': W
+    '2.60': L
+    '4.56': L
+    '4.57': T
+    '4.58': V
+    '4.59': A
+    '4.60': I
+    '5.46': P
 ssr1_human:
     UniProt: ssr1_human
     Xtal Templ: oprk_human
@@ -12339,6 +12373,40 @@ sucr1_human:
     '4.58': L
     '4.59': P
     '4.60': I
+    '5.46': G
+sucr1_rat:
+    UniProt: sucr1_rat
+    Xtal Templ: sucr1_rat
+    Cl: A
+    Xtalised: Xtal
+    1x36: ''
+    1x411: ''
+    2x551: ''
+    2x581: ''
+    23x501: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: 4x58
+    5x411: ''
+    5x421: ''
+    5x431: ''
+    5x461: 5x461
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': D
+    '2.56': T
+    '2.57': L
+    '2.58': P
+    '2.59': M
+    '2.60': L
+    '4.56': E
+    '4.57': V
+    '4.58': L
+    '4.59': P
+    '4.60': M
     '5.46': G
 t2r10_human:
     UniProt: t2r10_human
