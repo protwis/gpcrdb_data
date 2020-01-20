@@ -43,8 +43,7 @@ Branches
 
 Before doing any changes to the code, create and check out a new branch::
 
-    git branch my_feature_branch
-    git checkout my_feature_branch
+    git checkout -b feature/branch-name-describes-ticket
 
 You can always see which branch you are on by typing::
 
@@ -58,7 +57,7 @@ Once you have made changes on your branch, add them to the index and commit them
     git add my_file.py
     git commit -m "Optimized the performance of my_file"
 
-ALWAYS add a commit message with the -m flag.
+*ALWAYS* add a commit message with the -m flag.
 
 Note that only files that have been added to the index will be committed, and you can add all modified or new files
 with::
@@ -69,7 +68,7 @@ Keeping your branch up to date
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 While you work on your branch, other developers may push their commits to the master branch. It is important that you
-keep your repository updated with the latest changes. Do this DAILY.
+keep your repository updated with the latest changes. Do this *DAILY*.
 
 To fetch the latest changes, checkout the master branch (make sure to commit all changes to your branch first) and pull
 from upstream::
@@ -105,10 +104,10 @@ When the changes on your feature branch are ready, merge them into master::
     git checkout master
     git merge my_feature_branch
 
-Pushing changes to Bitbucket and sending a pull request
+Pushing changes to Github and sending a pull request
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-After merging your changes into master, you should push them to your fork on Bitbucket (origin) and send a pull request
+After merging your changes into master, you should push them to your fork on Github (origin) and send a pull request
 (PR) to the main repository::
 
     git push origin master
