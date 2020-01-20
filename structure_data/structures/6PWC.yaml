@@ -1,0 +1,14 @@
+auxiliary_protein: 'Fab30 heavy chain, Fab30 light chain'
+construct: 6pwc
+distance: 8.19
+ligand:
+    name: PEP
+    pubchemId: 25078013
+    role: Agonist
+    title: Neurotensin
+    type: Peptide
+pdb: 6PWC
+preferred_chain: R
+representative: true
+signaling_protein: Beta-arrestin-1
+state: Active

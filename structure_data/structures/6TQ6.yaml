@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6tq6
+distance: -0.91
+ligand:
+-   name: NVH
+    pubchemId: None
+    role: Antagonist
+    title: 2-(5-methylsulfonylpyridin-3-yl)-1,1-bis(oxidanylidene)-4-[[2,4,6-tris(fluoranyl)phenyl]methyl]pyrido[2,3-e][1,2,4]thiadiazin-3-one
+    type: Small molecule
+pdb: 6TQ6
+preferred_chain: B
+signaling_protein: None
+state: Inactive

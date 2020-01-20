@@ -9,6 +9,5 @@ ligand:
     type: Peptide
 pdb: 4XES
 preferred_chain: A
-representative: true
 signaling_protein: None
 state: Intermediate

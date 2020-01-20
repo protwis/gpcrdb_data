@@ -1,0 +1,13 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 6rz9
+distance: 7.82
+ligand:
+-   name: KO5
+    pubchemId: 145704685
+    role: Antagonist
+    title: ONO-2770372
+    type: Small molecule
+pdb: 6RZ9
+preferred_chain: A
+signaling_protein: None
+state: Active

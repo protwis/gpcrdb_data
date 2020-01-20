@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6ps4
+distance: -1.16
+ligand:
+    name: JRZ
+    pubchemId: 5311179
+    role: Antagonist
+    title: ICI-118551
+    type: Small molecule
+pdb: 6PS4
+preferred_chain: A
+signaling_protein: None
+state: Inactive

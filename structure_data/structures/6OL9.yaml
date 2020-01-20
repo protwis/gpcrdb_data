@@ -1,0 +1,14 @@
+auxiliary_protein: 'T4 Lysozyme'
+construct: 6ol9
+distance: 0.16
+ligand:
+-   name: 0HK
+    pubchemId: 5487427
+    role: Inverse agonist
+    title: Tiotropium
+    type: Small molecule
+pdb: 6OL9
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

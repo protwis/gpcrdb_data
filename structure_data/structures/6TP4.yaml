@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6tp4
+distance: -1.05
+ligand:
+-   name: NRZ
+    pubchemId: 40924317
+    role: Antagonist
+    title: ACT-462206
+    type: None
+pdb: 6TP4
+preferred_chain: B
+signaling_protein: None
+state: Inactive

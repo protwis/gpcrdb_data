@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6tp3
+distance: -1.05
+ligand:
+-   name: NS2
+    pubchemId: 91801202
+    role: Antagonist
+    title: Nemorexant
+    type: Small molecule
+pdb: 6TP3
+preferred_chain: A
+signaling_protein: None
+state: Inactive

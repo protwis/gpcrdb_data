@@ -35,9 +35,10 @@ endogenous_ligand:
 ligand:
 -   name: 5P7
     pubchemId: None
+    chain: B
     role: Antagonist
     title: 5P7-CCL5
-    type: Peptide
+    type: Protein
 pdb: 5UIW
 preferred_chain: A
 representative: true

@@ -1,6 +1,6 @@
 auxiliary_protein: 'Nanobody6'
 construct: 6ibb
-distance: 0.00
+distance: 8.61
 ligand:
     name: None
     pubchemId: None
@@ -10,4 +10,4 @@ ligand:
 pdb: 6IBB
 preferred_chain: A
 signaling_protein: None
-state: Inactive
+state: Active

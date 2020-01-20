@@ -30,6 +30,5 @@ ligand:
     type: Small molecule
 pdb: 4EJ4
 preferred_chain: A
-representative: true
 signaling_protein: None
 state: Inactive

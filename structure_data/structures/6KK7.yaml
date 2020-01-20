@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6kk7
+distance: -4.95
+ligand:
+    name: 97Y
+    pubchemId: 68178630
+    role: NAM
+    title: N-{4-[(R)-(3,3-dimethylcyclobutyl)({6-[4-(trifluoromethyl)-1H-imidazol-1-yl]pyridin-3-yl}amino)methyl]benzene-1-carbonyl}-beta-alanine
+    type: Small molecule
+pdb: 6KK7
+preferred_chain: B
+signaling_protein: None
+state: Inactive

@@ -37,7 +37,7 @@ ligand:
     pubchemId: None
     role: Antagonist
     title: Envelope glycoprotein gp160
-    type: Peptide
+    type: Protein
 pdb: 6MEO
 preferred_chain: B
 signaling_protein: None
