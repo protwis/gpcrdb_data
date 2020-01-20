@@ -13,7 +13,7 @@ ligand:
     type: Small molecule
 -   name: 2CU
     pubchemId: 57664406
-    role: Agonist
+    role: PAM
     title: LY2119620
     type: None
 pdb: 6OIK

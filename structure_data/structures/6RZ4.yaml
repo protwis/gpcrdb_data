@@ -1,0 +1,14 @@
+auxiliary_protein: 'Soluble cytochrome b562'
+construct: 6rz4
+distance: 6.35
+ligand:
+    name: KNT
+    pubchemId: 4887
+    role: Antagonist
+    title: Pranlukast
+    type: Small molecule
+pdb: 6RZ4
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Intermediate

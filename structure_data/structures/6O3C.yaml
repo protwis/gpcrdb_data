@@ -1,0 +1,14 @@
+auxiliary_protein: 'NbSmo8'
+construct: 6o3c
+distance: 0.00
+ligand:
+-   name: LKD
+    pubchemId: None
+    role: Agonist
+    title: SAG21k
+    type: Small molecule
+pdb: 6O3C
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive
