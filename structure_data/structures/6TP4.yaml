@@ -6,7 +6,7 @@ ligand:
     pubchemId: 40924317
     role: Antagonist
     title: ACT-462206
-    type: None
+    type: Small molecule
 pdb: 6TP4
 preferred_chain: B
 signaling_protein: None

@@ -2,7 +2,7 @@ auxiliary_protein: ''
 construct: 6tq9
 distance: -0.77
 ligand:
--   name: NVN
+    name: NVN
     pubchemId: 4331799
     role: Antagonist
     title: SB-408124

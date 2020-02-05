@@ -1,6 +1,6 @@
 auxiliary_protein: 'Soluble cytochrome b562'
 construct: 6rz9
-distance: 7.82
+distance: 5.09
 ligand:
 -   name: KO5
     pubchemId: 145704685
@@ -9,5 +9,6 @@ ligand:
     type: Small molecule
 pdb: 6RZ9
 preferred_chain: A
+representative: true
 signaling_protein: None
-state: Active
+state: Intermediate

@@ -1,6 +1,6 @@
 auxiliary_protein: ''
 construct: 6tp6
-distance: -0.97
+distance: -0.98
 ligand:
 -   name: NT5
     pubchemId: 25128145

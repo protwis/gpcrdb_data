@@ -1,8 +1,8 @@
 auxiliary_protein: ''
 construct: 6to7
-distance: -0.66
+distance: -0.68
 ligand:
--   name: SUV
+    name: SUV
     pubchemId: 24965990
     role: Antagonist
     title: Suvorexant

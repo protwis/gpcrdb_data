@@ -275,6 +275,11 @@ Class A (Rhodopsin) | gpcrdba
             "gpcr","","Short-wave-sensitive opsin 1","","Short-wave-sensitive opsin 1","","","","","","","","","","","P03999","","","","","","","","","","","","","","","","",""
             "gpcr","","Medium-wave-sensitive opsin 1","","Medium-wave-sensitive opsin 1","","","","","","","","","","","P04001","","","","","","","","","","","","","","","","",""
             "gpcr","","Long-wave-sensitive opsin 1","","Long-wave-sensitive opsin 1","","","","","","","","","","","P04000","","","","","","","","","","","","","","","","",""
+    Olfactory receptors
+        Olfactory
+            "gpcr","","Olfactory receptors","","Olfactory receptor 1A1","","","","","","","","","","","Q9P1Q5","","","","","","","","","","","","","","","","",""
+            "gpcr","","Olfactory receptors","","Olfactory receptor 1G1","","","","","","","","","","","P47890","","","","","","","","","","","","","","","","",""
+            "gpcr","","Olfactory receptors","","Olfactory receptor 2T11","","","","","","","","","","","Q8NH01","","","","","","","","","","","","","","","","",""
     Orphan receptors
         Class A orphans
             "gpcr","16","Class A Orphans","82","<i>GPR1</i>","","","","G protein-coupled receptor 1","4463","GPR1","G protein-coupled receptor 1","2q33.3","NM_005279","NP_005270","P46091","2825","2728","Gpr1","G protein-coupled receptor 1","9q31","NM_012961","NP_037093","P46090","25457","MGI:2385324","Gpr1","G protein-coupled receptor 1","1 C2","NM_146250","NP_666362","Q8K087","241070"

@@ -1,8 +1,8 @@
 auxiliary_protein: ''
 construct: 6tq7
-distance: -1.10
+distance: -1.09
 ligand:
--   name: NVK
+    name: NVK
     pubchemId: 6604926
     role: Antagonist
     title: SB-334867

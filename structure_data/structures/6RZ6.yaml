@@ -1,6 +1,6 @@
 auxiliary_protein: 'Soluble cytochrome b562'
 construct: 6rz6
-distance: 7.79
+distance: 5.04
 ligand:
 -   name: KNW
     pubchemId: 145704683
@@ -11,4 +11,4 @@ pdb: 6RZ6
 preferred_chain: A
 representative: true
 signaling_protein: None
-state: Active
+state: Intermediate
