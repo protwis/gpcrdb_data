@@ -2038,6 +2038,40 @@ p2y12_human__wt:
     2e3b: 36.0
     e1e3b: 15
     3ei2b: 1.0
+pacr_human__wt:
+    Key: pacr_human__wt
+    1b: 21.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 64.0
+    e1b: '-'
+    e1e: '-'
+    3b: 22.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 40.0
+    4e: 68.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 36.0
+    5e: 69.0
+    6b: 25.0
+    6e: 54.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 72.0
+    Cl: B1
+    RF: VIPandPACAP
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 41.0
+    e1e3b: 15
+    3ei2b: 15
 par1_human__wt:
     Key: par1_human__wt
     1b: 29.0

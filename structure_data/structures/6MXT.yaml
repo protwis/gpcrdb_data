@@ -2,7 +2,7 @@ auxiliary_protein: 'Nanobody 71, Endolysin'
 construct: 6mxt
 distance: 8.22
 ligand:
--   name: F9S
+-   name: K5Y
     pubchemId: 5152
     role: Agonist
     title: Salmeterol

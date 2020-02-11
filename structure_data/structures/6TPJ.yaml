@@ -1,0 +1,13 @@
+auxiliary_protein: GlgA glycogen synthase, Hypocretin receptor-2
+construct: 6tpj
+distance: -0.89
+ligand:
+    name: SUV
+    pubchemId: 24965990
+    role: Antagonist
+    title: Suvorexant
+    type: Small molecule
+pdb: 6TPJ
+preferred_chain: A
+signaling_protein: None
+state: Inactive

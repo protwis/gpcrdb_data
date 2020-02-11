@@ -1,0 +1,15 @@
+auxiliary_protein: 'Nanobody 35'
+construct: 6p9y
+distance: 6.58
+ligand:
+    chain: P
+    name: PEP
+    pubchemId: 44566111
+    role: Agonist
+    title: Pituitary adenylate cyclase-activating polypeptide
+    type: Peptide
+pdb: 6P9Y
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active

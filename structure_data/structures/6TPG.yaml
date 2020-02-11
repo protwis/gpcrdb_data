@@ -1,0 +1,13 @@
+auxiliary_protein: GlgA glycogen synthase, Hypocretin receptor-2
+construct: 6tpg
+distance: -0.89
+ligand:
+    name: 7MA
+    pubchemId: 9981404
+    role: Antagonist
+    title: Empa
+    type: Small molecule
+pdb: 6TPG
+preferred_chain: A
+signaling_protein: None
+state: Inactive
