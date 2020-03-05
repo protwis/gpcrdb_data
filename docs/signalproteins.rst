@@ -1,8 +1,8 @@
 Signal proteins
-=================
+===============
 
 Signal protein page
------------------
+-------------------
 
 The selection page allows users to find a signal protein or family (grouped in the 4 main G protein families) by searching or browsing.
 
@@ -14,7 +14,7 @@ The page displays basic information about the selected protein and a sequence vi
 The diagrams can be colored by properties, receptor interface and barcode information.
 
 GPCR-G protein coupling
------------------
+-----------------------
 
 The page shows statistics on known coupling preferences as extracted from Guide to PHARMACOLOGY as:
 
@@ -40,7 +40,7 @@ well as generic numbers (CGN numbering), hover the mouse over it. At the bottom 
 conservation statistics for amino acids and chemical features are displayed.
 
 Interface mapping
---------------------
+-----------------
 
 Maps the β2-Gαs complex (PDB: 3SN6) interaction interface onto a snake plot of a selected receptor and highlights 
 conserved and accessible interactions.
