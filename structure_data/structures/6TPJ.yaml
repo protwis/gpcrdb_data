@@ -1,6 +1,6 @@
 auxiliary_protein: GlgA glycogen synthase, Hypocretin receptor-2
 construct: 6tpj
-distance: -0.89
+distance: -0.83
 ligand:
     name: SUV
     pubchemId: 24965990

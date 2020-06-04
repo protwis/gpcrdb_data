@@ -1,0 +1,14 @@
+auxiliary_protein: 'Fab30 light chain, Fab30 heavy chain'
+construct: 6u1n
+distance: 6.35
+ligand:
+    name: 2CU
+    pubchemId: 57664406
+    role: Agonist
+    title: 3-Amino-5-chloro-N-cyclopropyl-4-methyl-6-[2-(4-methylpiperazin-1-yl)-2-oxoethoxy]thieno[2,3-b]pyridine-2-carboxamide
+    type: Small molecule
+pdb: 6U1N
+preferred_chain: R
+representative: true
+signaling_protein: Beta-arrestin-1
+state: Intermediate

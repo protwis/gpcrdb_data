@@ -1,0 +1,13 @@
+auxiliary_protein: 'scFv16'
+construct: 6kpg
+distance: 7.89
+ligand:
+    name: 8D0
+    pubchemId: 102336704
+    role: Agonist
+    title: (6Ar,9R,10aR)-9-(hydroxymethyl)-3-(8-isothiocyanato-2-methyloctan-2-yl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol
+    type: Small molecule
+pdb: 6KPG
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

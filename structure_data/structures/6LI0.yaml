@@ -1,0 +1,13 @@
+auxiliary_protein: 'Flavodoxin'
+construct: 6li0
+distance: -0.82
+ligand:
+-   name: EN6
+    pubchemId: 69921479
+    role: Agonist
+    title: c17
+    type: Small molecule
+pdb: 6LI0
+preferred_chain: A
+signaling_protein: None
+state: Inactive

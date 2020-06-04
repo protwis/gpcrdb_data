@@ -1,0 +1,14 @@
+auxiliary_protein: 'Unidentified peptide'
+construct: 6up7
+distance: 7.96
+ligand:
+    chain: C
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: ARG-ARG-PRO-TYR-ILE-LEU
+    type: Peptide
+pdb: 6UP7
+preferred_chain: R
+signaling_protein: Beta-arrestin-1
+state: Active

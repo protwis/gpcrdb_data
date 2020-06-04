@@ -1,0 +1,740 @@
+ID   GPA1_YEAST              Reviewed;         472 AA.
+AC   P08539; D3DKU8;
+DT   01-AUG-1988, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   22-APR-2020, entry version 215.
+DE   RecName: Full=Guanine nucleotide-binding protein alpha-1 subunit;
+DE   AltName: Full=GP1-alpha;
+GN   Name=GPA1; Synonyms=CDC70, DAC1, SCG1; OrderedLocusNames=YHR005C;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes;
+OC   Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3031665; DOI=10.1073/pnas.84.8.2140;
+RA   Nakafuku M., Itoh H., Nakamura S., Kaziro Y.;
+RT   "Occurrence in Saccharomyces cerevisiae of a gene homologous to the cDNA
+RT   coding for the alpha subunit of mammalian G proteins.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 84:2140-2144(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND FUNCTION.
+RX   PubMed=3113738; DOI=10.1016/0092-8674(87)90166-8;
+RA   Dietzel C., Kurjan J.;
+RT   "The yeast SCG1 gene: a G alpha-like protein implicated in the a- and
+RT   alpha-factor response pathway.";
+RL   Cell 50:1001-1010(1987).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=8091229; DOI=10.1126/science.8091229;
+RA   Johnston M., Andrews S., Brinkman R., Cooper J., Ding H., Dover J., Du Z.,
+RA   Favello A., Fulton L., Gattung S., Geisel C., Kirsten J., Kucaba T.,
+RA   Hillier L.W., Jier M., Johnston L., Langston Y., Latreille P., Louis E.J.,
+RA   Macri C., Mardis E., Menezes S., Mouser L., Nhan M., Rifkin L., Riles L.,
+RA   St Peter H., Trevaskis E., Vaughan K., Vignati D., Wilcox L., Wohldman P.,
+RA   Waterston R., Wilson R., Vaudin M.;
+RT   "Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+RT   VIII.";
+RL   Science 265:2077-2082(1994).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M., Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A., Raphael J.,
+RA   Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F., Williamson J.,
+RA   Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G., Kolodner R.D.,
+RA   LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-encoding
+RT   clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=3136318; DOI=10.1128/mcb.8.6.2484;
+RA   Jahng K.-Y., Ferguson J., Reed S.I.;
+RT   "Mutations in a gene encoding the alpha subunit of a Saccharomyces
+RT   cerevisiae G protein indicate a role in mating pheromone signaling.";
+RL   Mol. Cell. Biol. 8:2484-2493(1988).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=2644047; DOI=10.1016/0092-8674(89)90250-x;
+RA   Blinder D., Bouvier S., Jenness D.D.;
+RT   "Constitutive mutants in the yeast pheromone response: ordered function of
+RT   the gene products.";
+RL   Cell 56:479-486(1989).
+RN   [8]
+RP   FUNCTION.
+RX   PubMed=2494429; DOI=10.1128/mcb.9.1.152;
+RA   Fujimura H.A.;
+RT   "The yeast G-protein homolog is involved in the mating pheromone signal
+RT   transduction system.";
+RL   Mol. Cell. Biol. 9:152-158(1989).
+RN   [9]
+RP   FUNCTION, AND MUTAGENESIS OF GLY-50.
+RX   PubMed=2548076; DOI=10.1128/mcb.9.6.2289;
+RA   Miyajima I., Arai K., Matsumoto K.;
+RT   "GPA1Val-50 mutation in the mating-factor signaling pathway in
+RT   Saccharomyces cerevisiae.";
+RL   Mol. Cell. Biol. 9:2289-2297(1989).
+RN   [10]
+RP   FUNCTION.
+RX   PubMed=2107073; DOI=10.1002/j.1460-2075.1990.tb08161.x;
+RA   Nomoto S., Nakayama N., Arai K., Matsumoto K.;
+RT   "Regulation of the yeast pheromone response pathway by G protein
+RT   subunits.";
+RL   EMBO J. 9:691-696(1990).
+RN   [11]
+RP   FUNCTION.
+RX   PubMed=2105453; DOI=10.1128/mcb.10.2.510;
+RA   Cole G.M., Stone D.E., Reed S.I.;
+RT   "Stoichiometry of G protein subunits affects the Saccharomyces cerevisiae
+RT   mating pheromone signal transduction pathway.";
+RL   Mol. Cell. Biol. 10:510-517(1990).
+RN   [12]
+RP   FUNCTION, AND MUTAGENESIS OF GLY-50; GLY-322; GLU-355; GLU-364 AND GLY-470.
+RX   PubMed=2117698; DOI=10.1128/mcb.10.9.4439;
+RA   Stone D.E., Reed S.I.;
+RT   "G protein mutations that alter the pheromone response in Saccharomyces
+RT   cerevisiae.";
+RL   Mol. Cell. Biol. 10:4439-4446(1990).
+RN   [13]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=2161538; DOI=10.1073/pnas.87.11.4363;
+RA   Blumer K.J., Thorner J.;
+RT   "Beta and gamma subunits of a yeast guanine nucleotide-binding protein are
+RT   not essential for membrane association of the alpha subunit but are
+RT   required for receptor coupling.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:4363-4367(1990).
+RN   [14]
+RP   MUTAGENESIS OF LYS-467 AND LYS-468.
+RX   PubMed=1848203; DOI=10.1101/gad.5.3.467;
+RA   Hirsch J.P., Dietzel C., Kurjan J.;
+RT   "The carboxyl terminus of Scg1, the G alpha subunit involved in yeast
+RT   mating, is implicated in interactions with the pheromone receptors.";
+RL   Genes Dev. 5:467-474(1991).
+RN   [15]
+RP   FUNCTION, AND MUTAGENESIS OF GLY-50; GLY-322; ASN-388 AND ASP-391.
+RX   PubMed=1900495; DOI=10.1101/gad.5.3.475;
+RA   Kurjan J., Hirsch J.P., Dietzel C.;
+RT   "Mutations in the guanine nucleotide-binding domains of a yeast G alpha
+RT   protein confer a constitutive or uninducible state to the pheromone
+RT   response pathway.";
+RL   Genes Dev. 5:475-483(1991).
+RN   [16]
+RP   MYRISTOYLATION AT GLY-2.
+RX   PubMed=1936988; DOI=10.1101/gad.5.11.1969;
+RA   Stone D.E., Cole G.M., de Barros Lopes M., Goebl M., Reed S.I.;
+RT   "N-myristoylation is required for function of the pheromone-responsive G
+RT   alpha protein of yeast: conditional activation of the pheromone response by
+RT   a temperature-sensitive N-myristoyl transferase.";
+RL   Genes Dev. 5:1969-1981(1991).
+RN   [17]
+RP   INTERACTION WITH STE4.
+RX   PubMed=8417317; DOI=10.1128/mcb.13.1.1;
+RA   Clark K.L., Dignard D., Thomas D.Y., Whiteway M.;
+RT   "Interactions among the subunits of the G protein involved in Saccharomyces
+RT   cerevisiae mating.";
+RL   Mol. Cell. Biol. 13:1-8(1993).
+RN   [18]
+RP   FUNCTION.
+RX   PubMed=8231812; DOI=10.1111/j.1365-2958.1993.tb01740.x;
+RA   Zhang M., Tipper D.J.;
+RT   "Suppression of a dominant G-protein beta-subunit mutation in yeast by G
+RT   alpha protein expression.";
+RL   Mol. Microbiol. 9:813-821(1993).
+RN   [19]
+RP   MYRISTOYLATION AT GLY-2.
+RX   PubMed=8415763; DOI=10.1073/pnas.90.20.9688;
+RA   Dohlman H.G., Goldsmith P., Spiegel A.M., Thorner J.;
+RT   "Pheromone action regulates G-protein alpha-subunit myristoylation in the
+RT   yeast Saccharomyces cerevisiae.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 90:9688-9692(1993).
+RN   [20]
+RP   PALMITOYLATION AT CYS-3, AND MUTAGENESIS OF GLY-2 AND CYS-3.
+RX   PubMed=8942643; DOI=10.1021/bi961846b;
+RA   Song J., Dohlman H.G.;
+RT   "Partial constitutive activation of pheromone responses by a
+RT   palmitoylation-site mutant of a G protein alpha subunit in yeast.";
+RL   Biochemistry 35:14806-14817(1996).
+RN   [21]
+RP   MYRISTOYLATION AT GLY-2, MUTAGENESIS OF GLY-2, AND SUBCELLULAR LOCATION.
+RX   PubMed=8702760; DOI=10.1074/jbc.271.34.20273;
+RA   Song J., Hirschman J., Gunn K., Dohlman H.G.;
+RT   "Regulation of membrane and subunit interactions by N-myristoylation of a G
+RT   protein alpha subunit in yeast.";
+RL   J. Biol. Chem. 271:20273-20283(1996).
+RN   [22]
+RP   INTERACTION WITH SST2.
+RX   PubMed=8756677; DOI=10.1128/mcb.16.9.5194;
+RA   Dohlman H.G., Song J., Ma D., Courchesne W.E., Thorner J.;
+RT   "Sst2, a negative regulator of pheromone signaling in the yeast
+RT   Saccharomyces cerevisiae: Expression, localization, and genetic interaction
+RT   and physical association with Gpa1 (the G-protein alpha subunit).";
+RL   Mol. Cell. Biol. 16:5194-5209(1996).
+RN   [23]
+RP   FUNCTION, AND MUTAGENESIS OF GLY-322; GLU-364 AND ASN-388.
+RX   PubMed=8887662; DOI=10.1128/mcb.16.11.6325;
+RA   Stratton H.F., Zhou J., Reed S.I., Stone D.E.;
+RT   "The mating-specific G(alpha) protein of Saccharomyces cerevisiae
+RT   downregulates the mating signal by a mechanism that is dependent on
+RT   pheromone and independent of G(beta)(gamma) sequestration.";
+RL   Mol. Cell. Biol. 16:6325-6337(1996).
+RN   [24]
+RP   FUNCTION, AND INTERACTION WITH SST2.
+RX   PubMed=9537998; DOI=10.1021/bi9729965;
+RA   Apanovitch D.M., Slep K.C., Sigler P.B., Dohlman H.G.;
+RT   "Sst2 is a GTPase-activating protein for Gpa1: purification and
+RT   characterization of a cognate RGS-Galpha protein pair in yeast.";
+RL   Biochemistry 37:4815-4822(1998).
+RN   [25]
+RP   MUTAGENESIS OF GLY-302.
+RX   PubMed=9488712; DOI=10.1074/jbc.273.10.5780;
+RA   DiBello P.R., Garrison T.R., Apanovitch D.M., Hoffman G., Shuey D.J.,
+RA   Mason K., Cockett M.I., Dohlman H.G.;
+RT   "Selective uncoupling of RGS action by a single point mutation in the G
+RT   protein alpha-subunit.";
+RL   J. Biol. Chem. 273:5780-5784(1998).
+RN   [26]
+RP   MUTAGENESIS OF LYS-54; ARG-327 AND LEU-353.
+RX   PubMed=9786851; DOI=10.1074/jbc.273.44.28597;
+RA   Apanovitch D.M., Iiri T., Karasawa T., Bourne H.R., Dohlman H.G.;
+RT   "Second site suppressor mutations of a GTPase-deficient G-protein alpha-
+RT   subunit.";
+RL   J. Biol. Chem. 273:28597-28602(1998).
+RN   [27]
+RP   MUTAGENESIS OF GLY-321 AND GLN-323.
+RX   PubMed=9604890; DOI=10.1007/s004380050695;
+RA   DeSimone S.M., Kurjan J.;
+RT   "Switch-domain mutations in the Saccharomyces cerevisiae G protein alpha-
+RT   subunit Gpa1p identify a receptor subtype-biased mating defect.";
+RL   Mol. Gen. Genet. 257:662-671(1998).
+RN   [28]
+RP   FUNCTION.
+RX   PubMed=10356642; DOI=10.1007/bf02738067;
+RA   Zhou J., Arora M., Stone D.E.;
+RT   "The yeast pheromone-responsive G alpha protein stimulates recovery from
+RT   chronic pheromone treatment by two mechanisms that are activated at
+RT   distinct levels of stimulus.";
+RL   Cell Biochem. Biophys. 30:193-212(1999).
+RN   [29]
+RP   PALMITOYLATION AT CYS-3, AND MUTAGENESIS OF GLY-2 AND CYS-3.
+RX   PubMed=10712512; DOI=10.1091/mbc.11.3.957;
+RA   Manahan C.L., Patnana M., Blumer K.J., Linder M.E.;
+RT   "Dual lipid modification motifs in G(alpha) and G(gamma) subunits are
+RT   required for full activity of the pheromone response pathway in
+RT   Saccharomyces cerevisiae.";
+RL   Mol. Biol. Cell 11:957-968(2000).
+RN   [30]
+RP   MUTAGENESIS OF ALA-345, AND FORMATION OF PREACTIVATION COMPLEXES.
+RX   PubMed=10866688; DOI=10.1128/mcb.20.14.5321-5329.2000;
+RA   Dosil M., Schandel K.A., Gupta E., Jenness D.D., Konopka J.B.;
+RT   "The C terminus of the Saccharomyces cerevisiae alpha-factor receptor
+RT   contributes to the formation of preactivation complexes with its cognate G
+RT   protein.";
+RL   Mol. Cell. Biol. 20:5321-5329(2000).
+RN   [31]
+RP   MUTAGENESIS OF GLY-50.
+RX   PubMed=10705368;
+RX   DOI=10.1002/(sici)1097-0061(20000330)16:5<387::aid-yea525>3.0.co;2-u;
+RA   Kallal L., Fishel R.;
+RT   "The GTP hydrolysis defect of the Saccharomyces cerevisiae mutant G-protein
+RT   Gpa1(G50V).";
+RL   Yeast 16:387-400(2000).
+RN   [32]
+RP   MUTAGENESIS OF GLU-364 AND ASN-388.
+RX   PubMed=11394869; DOI=10.1006/bbrc.2001.4959;
+RA   Cismowski M.J., Metodiev M.V., Draper E., Stone D.E.;
+RT   "Biochemical analysis of yeast G(alpha) mutants that enhance adaptation to
+RT   pheromone.";
+RL   Biochem. Biophys. Res. Commun. 284:247-254(2001).
+RN   [33]
+RP   UBIQUITINATION AT LYS-165, MUTAGENESIS OF LYS-165, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY.
+RX   PubMed=11955054; DOI=10.1021/bi015940q;
+RA   Marotti L.A. Jr., Newitt R., Wang Y., Aebersold R., Dohlman H.G.;
+RT   "Direct identification of a G protein ubiquitination site by mass
+RT   spectrometry.";
+RL   Biochemistry 41:5067-5074(2002).
+RN   [34]
+RP   DEPALMITOYLATION.
+RX   PubMed=12080046; DOI=10.1074/jbc.m202505200;
+RA   Duncan J.A., Gilman A.G.;
+RT   "Characterization of Saccharomyces cerevisiae acyl-protein thioesterase 1,
+RT   the enzyme responsible for G protein alpha subunit deacylation in vivo.";
+RL   J. Biol. Chem. 277:31740-31752(2002).
+RN   [35]
+RP   FUNCTION, INTERACTION WITH FUS3, MUTAGENESIS OF 21-LYS-ARG-22, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=12029138; DOI=10.1126/science.1070540;
+RA   Metodiev M.V., Matheos D., Rose M.D., Stone D.E.;
+RT   "Regulation of MAPK function by direct interaction with the mating-specific
+RT   G(alpha) in yeast.";
+RL   Science 296:1483-1486(2002).
+RN   [36]
+RP   FUNCTION, AND INTERACTION WITH SCP160.
+RX   PubMed=14536090; DOI=10.1016/s1097-2765(03)00307-1;
+RA   Guo M., Aston C., Burchett S.A., Dyke C., Fields S., Rajarao S.J.R.,
+RA   Uetz P., Wang Y., Young K., Dohlman H.G.;
+RT   "The yeast G protein alpha subunit Gpa1 transmits a signal through an RNA
+RT   binding effector protein Scp160.";
+RL   Mol. Cell 12:517-524(2003).
+RN   [37]
+RP   FUNCTION.
+RX   PubMed=12556475; DOI=10.1128/mcb.23.4.1135-1150.2003;
+RA   Blackwell E., Halatek I.M., Kim H.-J.N., Ellicott A.T., Obukhov A.A.,
+RA   Stone D.E.;
+RT   "Effect of the pheromone-responsive G(alpha) and phosphatase proteins of
+RT   Saccharomyces cerevisiae on the subcellular localization of the Fus3
+RT   mitogen-activated protein kinase.";
+RL   Mol. Cell. Biol. 23:1135-1150(2003).
+RN   [38]
+RP   SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562095; DOI=10.1038/nature02026;
+RA   Huh W.-K., Falvo J.V., Gerke L.C., Carroll A.S., Howson R.W.,
+RA   Weissman J.S., O'Shea E.K.;
+RT   "Global analysis of protein localization in budding yeast.";
+RL   Nature 425:686-691(2003).
+RN   [39]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A., Dephoure N.,
+RA   O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [40]
+RP   FUNCTION.
+RX   PubMed=12960402; DOI=10.1073/pnas.1834247100;
+RA   Yi T.-M., Kitano H., Simon M.I.;
+RT   "A quantitative characterization of the yeast heterotrimeric G protein
+RT   cycle.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 100:10764-10769(2003).
+RN   [41]
+RP   MUTAGENESIS OF ASN-388.
+RX   PubMed=15197187; DOI=10.1074/jbc.m404896200;
+RA   Wu Y.-L., Hooks S.B., Harden T.K., Dohlman H.G.;
+RT   "Dominant-negative inhibition of pheromone receptor signaling by a single
+RT   point mutation in the G protein alpha subunit.";
+RL   J. Biol. Chem. 279:35287-35297(2004).
+RN   [42]
+RP   ERRATUM OF PUBMED:15197187.
+RA   Wu Y.-L., Hooks S.B., Harden T.K., Dohlman H.G.;
+RL   J. Biol. Chem. 280:29988-29988(2005).
+RN   [43]
+RP   MUTAGENESIS OF ASP-15; PHE-17; LEU-18 AND LYS-54.
+RX   PubMed=14767760; DOI=10.1007/s00438-004-0975-y;
+RA   Roginskaya M., Connelly S.M., Kim K.S., Patel D., Dumont M.E.;
+RT   "Effects of mutations in the N terminal region of the yeast G protein
+RT   alpha-subunit Gpa1p on signaling by pheromone receptors.";
+RL   Mol. Genet. Genomics 271:237-248(2004).
+RN   [44]
+RP   FUNCTION OF UBIQUITINATION.
+RX   PubMed=15519996; DOI=10.1074/jbc.m411624200;
+RA   Wang Y., Marotti L.A. Jr., Lee M.J., Dohlman H.G.;
+RT   "Differential regulation of G protein alpha subunit trafficking by
+RT   mono- and polyubiquitination.";
+RL   J. Biol. Chem. 280:284-291(2005).
+RN   [45]
+RP   FUNCTION, INTERACTION WITH VPS15 AND VPS34, AND SUBCELLULAR LOCATION.
+RX   PubMed=16839886; DOI=10.1016/j.cell.2006.04.045;
+RA   Slessareva J.E., Routt S.M., Temple B., Bankaitis V.A., Dohlman H.G.;
+RT   "Activation of the phosphatidylinositol 3-kinase Vps34 by a G protein alpha
+RT   subunit at the endosome.";
+RL   Cell 126:191-203(2006).
+RN   [46]
+RP   INTERACTION WITH MDM1; RAX1; RGS2 AND SST2, AND ACTIVITY REGULATION.
+RX   PubMed=16467474; DOI=10.1128/ec.5.2.330-346.2006;
+RA   Chasse S.A., Flanary P., Parnell S.C., Hao N., Cha J.Y., Siderovski D.P.,
+RA   Dohlman H.G.;
+RT   "Genome-scale analysis reveals Sst2 as the principal regulator of mating
+RT   pheromone signaling in the yeast Saccharomyces cerevisiae.";
+RL   Eukaryot. Cell 5:330-346(2006).
+RN   [47]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   STRAIN=ADR376;
+RX   PubMed=17330950; DOI=10.1021/pr060559j;
+RA   Li X., Gerber S.A., Rudner A.D., Beausoleil S.A., Haas W., Villen J.,
+RA   Elias J.E., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of alpha-factor-arrested
+RT   Saccharomyces cerevisiae.";
+RL   J. Proteome Res. 6:1190-1197(2007).
+RN   [48]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19779198; DOI=10.1126/science.1172867;
+RA   Holt L.J., Tuch B.B., Villen J., Johnson A.D., Gygi S.P., Morgan D.O.;
+RT   "Global analysis of Cdk1 substrate phosphorylation sites provides insights
+RT   into evolution.";
+RL   Science 325:1682-1686(2009).
+RN   [49]
+RP   3D-STRUCTURE MODELING.
+RA   Gaitatzes C.G., Neer E.J., Smith T.F.;
+RL   Submitted (FEB-1998) to the PDB data bank.
+CC   -!- FUNCTION: Alpha subunit of the heterotrimeric guanine nucleotide-
+CC       binding protein (G protein) that mediates mating pheromone signal
+CC       transduction. Binding of alpha-factor or a-factor to its cognate
+CC       transmembrane receptor STE2 and STE3, respectively, allows the receptor
+CC       to serve as a guanine nucleotide exchange factor (GEF) on GPA1. The
+CC       exchange of GDP for GTP on the G protein alpha subunit alters its
+CC       interaction with the G protein beta subunit STE4, leading to
+CC       dissociation of the G protein beta-gamma dimer STE4-STE18. The
+CC       dissociated subunits activate downstream effectors to activate the
+CC       mating response pathway and induce changes necessary to produce mating-
+CC       competent cells. STE4-STE18 activate the downstream pheromone signaling
+CC       MAP kinase cascade leading to expression of mating-specific genes,
+CC       inducing cell cycle arrest in G1, promoting polarized cell growth to
+CC       form mating projections (shmoos), and establishing the changes in
+CC       plasma membrane, cell wall and nuclear envelope to permit cell-cell
+CC       fusion (plasmogamy) and fusion of the two haploid nuclei (karyogamy).
+CC       GPA1 transmits a signal that requires direct binding to the effector
+CC       enzyme PI3K located at the endosome, promoting increased PI3
+CC       production. The intrinsic GTPase activity of GPA1 determines the
+CC       duration of signaling, and is dramatically accelerated by the RGS
+CC       protein SST2. In unstimulated cells, GDP-bound GPA1 sequesters the G
+CC       protein beta-gamma subunit STE4-STE18, preventing it from activating
+CC       the downstream effectors. Also down-regulates the signal by inhibiting
+CC       the pheromone-induced accumulation of FUS3 in the nucleus.
+CC       {ECO:0000269|PubMed:10356642, ECO:0000269|PubMed:12029138,
+CC       ECO:0000269|PubMed:12556475, ECO:0000269|PubMed:12960402,
+CC       ECO:0000269|PubMed:14536090, ECO:0000269|PubMed:15519996,
+CC       ECO:0000269|PubMed:16839886, ECO:0000269|PubMed:1900495,
+CC       ECO:0000269|PubMed:2105453, ECO:0000269|PubMed:2107073,
+CC       ECO:0000269|PubMed:2117698, ECO:0000269|PubMed:2161538,
+CC       ECO:0000269|PubMed:2494429, ECO:0000269|PubMed:2548076,
+CC       ECO:0000269|PubMed:2644047, ECO:0000269|PubMed:3113738,
+CC       ECO:0000269|PubMed:3136318, ECO:0000269|PubMed:8231812,
+CC       ECO:0000269|PubMed:8887662, ECO:0000269|PubMed:9537998}.
+CC   -!- ACTIVITY REGULATION: Alternates between an inactive form bound to GDP
+CC       and an active form bound to GTP. Activated by the G protein coupled
+CC       receptors (GPCRs) STE2 and STE3, which serve as guanine nucleotide-
+CC       exchange factors (GEFs), and inactivated by SST2, probably acting as a
+CC       GTPase-activating protein (GAP). {ECO:0000269|PubMed:16467474}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and gamma. The
+CC       alpha chain contains the guanine nucleotide binding site. In its GDP-
+CC       bound form, binds to the G protein beta-gamma dimer STE4-STE18.
+CC       Directly interacts with the beta subunit STE4. Probably forms
+CC       preactivation complexes with unligated receptors STE2 and STE3.
+CC       Interacts with FUS3. Pheromone-induced activation of GPA1 increases its
+CC       association with FUS3. Interacts with SCP160. SCP160 binds specifically
+CC       to the GTP-bound form of GPA1. Interacts with the phoshpatidylinositol
+CC       3-kinase (PI3K) subunits VPS15 and VPS34 at the endosome. The GTP-bound
+CC       form of GPA1 binds directly and selectively to the catalytic subunit
+CC       VPS34, while the GDP-bound form binds to VPS15, which appears to
+CC       function as an alternative G protein beta subunit for GPA1. Interacts
+CC       with regulators of G protein signaling (RGS) proteins MDM1, RAX1, RGS2
+CC       and SST2, but SST2 alone binds preferentially to the transition state
+CC       conformation of GPA1, indicating that it acts as a GAP for this G
+CC       protein. {ECO:0000269|PubMed:12029138, ECO:0000269|PubMed:14536090,
+CC       ECO:0000269|PubMed:16467474, ECO:0000269|PubMed:16839886,
+CC       ECO:0000269|PubMed:8417317, ECO:0000269|PubMed:8756677,
+CC       ECO:0000269|PubMed:9537998}.
+CC   -!- INTERACTION:
+CC       P08539; P11972: SST2; NbExp=3; IntAct=EBI-7376, EBI-18232;
+CC       P08539; P18851: STE4; NbExp=8; IntAct=EBI-7376, EBI-7390;
+CC       P08539; P22219: VPS15; NbExp=2; IntAct=EBI-7376, EBI-20347;
+CC       P08539; P22543: VPS34; NbExp=3; IntAct=EBI-7376, EBI-20405;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Lipid-anchor; Cytoplasmic side.
+CC       Endosome membrane; Lipid-anchor; Cytoplasmic side. Note=Localizes
+CC       predominantly to the plasma membrane in its inactive, GDP-bound form,
+CC       and is directed to endosomes once in its active, GTP-bound form.
+CC       Concentrates at the tip of the mating projections.
+CC   -!- DOMAIN: Contains an 'insertion' sequence of 109 residues which is not
+CC       present in other G-protein alpha chains.
+CC   -!- PTM: N-myristoylation by NMT1 is pheromone-stimulated and required for
+CC       palmitoylation of Cys-3. This lipid modification anchors the protein to
+CC       membranes. Depalmitoylated by YLR118C/APT1.
+CC       {ECO:0000269|PubMed:10712512, ECO:0000269|PubMed:1936988,
+CC       ECO:0000269|PubMed:8415763, ECO:0000269|PubMed:8702760,
+CC       ECO:0000269|PubMed:8942643}.
+CC   -!- PTM: Monoubiquitination targets the protein for degradation to the
+CC       vacuole, and polyubiquitination tags the protein for degradation by the
+CC       proteasome. This may be an additional signaling regulation mechanism.
+CC       {ECO:0000269|PubMed:11955054}.
+CC   -!- MISCELLANEOUS: Present with 9920 molecules/cell in log phase SD medium.
+CC       {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(q) subfamily.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M15867; AAA34650.1; -; Genomic_DNA.
+DR   EMBL; M17414; AAA18403.1; -; Unassigned_DNA.
+DR   EMBL; U10555; AAB68432.1; -; Genomic_DNA.
+DR   EMBL; AY692963; AAT92982.1; -; Genomic_DNA.
+DR   EMBL; BK006934; DAA06692.1; -; Genomic_DNA.
+DR   PIR; A25906; A25906.
+DR   RefSeq; NP_011868.1; NM_001179135.1.
+DR   PDB; 1SCG; Model; -; A=1-472.
+DR   PDBsum; 1SCG; -.
+DR   SMR; P08539; -.
+DR   BioGrid; 36430; 54.
+DR   ComplexPortal; CPX-1646; G protein heterotrimer.
+DR   DIP; DIP-15N; -.
+DR   IntAct; P08539; 17.
+DR   MINT; P08539; -.
+DR   STRING; 4932.YHR005C; -.
+DR   iPTMnet; P08539; -.
+DR   SwissPalm; P08539; -.
+DR   MaxQB; P08539; -.
+DR   PaxDb; P08539; -.
+DR   PRIDE; P08539; -.
+DR   DNASU; 856394; -.
+DR   EnsemblFungi; YHR005C_mRNA; YHR005C; YHR005C.
+DR   GeneID; 856394; -.
+DR   KEGG; sce:YHR005C; -.
+DR   EuPathDB; FungiDB:YHR005C; -.
+DR   SGD; S000001047; GPA1.
+DR   HOGENOM; CLU_014184_2_0_1; -.
+DR   InParanoid; P08539; -.
+DR   KO; K19860; -.
+DR   OMA; QVIWADA; -.
+DR   BioCyc; YEAST:G3O-31070-MONOMER; -.
+DR   Reactome; R-SCE-112043; PLC beta mediated events.
+DR   Reactome; R-SCE-202040; G-protein activation.
+DR   Reactome; R-SCE-416482; G alpha (12/13) signalling events.
+DR   PRO; PR:P08539; -.
+DR   Proteomes; UP000002311; Chromosome VIII.
+DR   RNAct; P08539; protein.
+DR   GO; GO:0005829; C:cytosol; HDA:SGD.
+DR   GO; GO:0005768; C:endosome; IDA:SGD.
+DR   GO; GO:0010008; C:endosome membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IDA:SGD.
+DR   GO; GO:0005886; C:plasma membrane; IDA:SGD.
+DR   GO; GO:0001664; F:G protein-coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0031681; F:G-protein beta-subunit binding; IPI:SGD.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IDA:SGD.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000754; P:adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion; IMP:SGD.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G protein-coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0048017; P:inositol lipid-mediated signaling; IMP:SGD.
+DR   GO; GO:0000742; P:karyogamy involved in conjugation with cellular fusion; IMP:SGD.
+DR   GO; GO:0000743; P:nuclear migration involved in conjugation with cellular fusion; IMP:SGD.
+DR   GO; GO:0000750; P:pheromone-dependent signal transduction involved in conjugation with cellular fusion; IMP:SGD.
+DR   GO; GO:0071701; P:regulation of MAPK export from nucleus; IMP:SGD.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 2.
+DR   InterPro; IPR002975; Fungi_Gprotein_alpha.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 2.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR01241; GPROTEINAFNG.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   PROSITE; PS51882; G_ALPHA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cell membrane; Endosome; GTP-binding; Isopeptide bond;
+KW   Lipoprotein; Magnesium; Membrane; Metal-binding; Myristate;
+KW   Nucleotide-binding; Palmitate; Pheromone response; Reference proteome;
+KW   Transducer; Ubl conjugation.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT   CHAIN           2..472
+FT                   /note="Guanine nucleotide-binding protein alpha-1 subunit"
+FT                   /id="PRO_0000203616"
+FT   DOMAIN          40..472
+FT                   /note="G-alpha"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   NP_BIND         48..55
+FT                   /note="GTP"
+FT                   /evidence="ECO:0000250"
+FT   NP_BIND         294..300
+FT                   /note="GTP"
+FT                   /evidence="ECO:0000250"
+FT   NP_BIND         319..323
+FT                   /note="GTP"
+FT                   /evidence="ECO:0000250"
+FT   NP_BIND         388..391
+FT                   /note="GTP"
+FT                   /evidence="ECO:0000250"
+FT   REGION          43..56
+FT                   /note="G1 motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   REGION          127..235
+FT                   /note="Insert; not present in other G-proteins"
+FT   REGION          292..300
+FT                   /note="G2 motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   REGION          315..324
+FT                   /note="G3 motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   REGION          384..391
+FT                   /note="G4 motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   REGION          442..447
+FT                   /note="G5 motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   METAL           55
+FT                   /note="Magnesium"
+FT                   /evidence="ECO:0000250"
+FT   METAL           300
+FT                   /note="Magnesium"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         444
+FT                   /note="GTP; via amide nitrogen"
+FT                   /evidence="ECO:0000250"
+FT   LIPID           2
+FT                   /note="N-myristoyl glycine"
+FT                   /evidence="ECO:0000269|PubMed:1936988,
+FT                   ECO:0000269|PubMed:8415763, ECO:0000269|PubMed:8702760"
+FT   LIPID           3
+FT                   /note="S-palmitoyl cysteine"
+FT                   /evidence="ECO:0000269|PubMed:10712512,
+FT                   ECO:0000269|PubMed:8942643"
+FT   CROSSLNK        165
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:11955054"
+FT   MUTAGEN         2
+FT                   /note="G->A: Abolishes both palmitoylation and N-
+FT                   myristoylation."
+FT                   /evidence="ECO:0000269|PubMed:10712512,
+FT                   ECO:0000269|PubMed:8702760, ECO:0000269|PubMed:8942643"
+FT   MUTAGEN         3
+FT                   /note="C->A: Abolishes palmitoylation but not N-
+FT                   myristoylation."
+FT                   /evidence="ECO:0000269|PubMed:10712512,
+FT                   ECO:0000269|PubMed:8942643"
+FT   MUTAGEN         15
+FT                   /note="D->V: Slightly reduces ligand-dependent pheromone
+FT                   signaling."
+FT                   /evidence="ECO:0000269|PubMed:14767760"
+FT   MUTAGEN         17
+FT                   /note="F->L: Leads to a hypersensitive signaling phenotype
+FT                   resulting in greatly enhanced signal at low alpha-factor
+FT                   concentrations."
+FT                   /evidence="ECO:0000269|PubMed:14767760"
+FT   MUTAGEN         18
+FT                   /note="L->P,Q: Reduces ligand-dependent pheromone
+FT                   signaling."
+FT                   /evidence="ECO:0000269|PubMed:14767760"
+FT   MUTAGEN         21..22
+FT                   /note="KR->EE: Impairs interaction with FUS3."
+FT                   /evidence="ECO:0000269|PubMed:12029138"
+FT   MUTAGEN         50
+FT                   /note="G->D: Confers insensitivity to pheromone."
+FT                   /evidence="ECO:0000269|PubMed:10705368,
+FT                   ECO:0000269|PubMed:1900495, ECO:0000269|PubMed:2117698,
+FT                   ECO:0000269|PubMed:2548076"
+FT   MUTAGEN         50
+FT                   /note="G->V: Has increased GTP occupancy and moderately
+FT                   reduces hydrolysis of GTP, resulting in a constitutively
+FT                   active form that down-regulates the pheromone response and
+FT                   causes hyperadaptation to pheromone."
+FT                   /evidence="ECO:0000269|PubMed:10705368,
+FT                   ECO:0000269|PubMed:1900495, ECO:0000269|PubMed:2117698,
+FT                   ECO:0000269|PubMed:2548076"
+FT   MUTAGEN         54
+FT                   /note="K->E,I: Prevents GDP to GTP exchange; suppressor of
+FT                   L-323."
+FT                   /evidence="ECO:0000269|PubMed:14767760,
+FT                   ECO:0000269|PubMed:9786851"
+FT   MUTAGEN         165
+FT                   /note="K->R: Substantial decrease in ubiquitination."
+FT                   /evidence="ECO:0000269|PubMed:11955054"
+FT   MUTAGEN         297
+FT                   /note="R->H: Slows hydrolysis of GTP."
+FT   MUTAGEN         302
+FT                   /note="G->S: In GPA1(SST); weakens interaction to SST2 and
+FT                   blocks its negative regulatory effect."
+FT                   /evidence="ECO:0000269|PubMed:9488712"
+FT   MUTAGEN         321
+FT                   /note="G->T: Causes a specific mating defect in alpha
+FT                   cells."
+FT                   /evidence="ECO:0000269|PubMed:9604890"
+FT   MUTAGEN         322
+FT                   /note="G->A,E,R: Confers insensitivity to pheromone."
+FT                   /evidence="ECO:0000269|PubMed:1900495,
+FT                   ECO:0000269|PubMed:2117698, ECO:0000269|PubMed:8887662"
+FT   MUTAGEN         323
+FT                   /note="Q->L: Prevents hydrolysis of GTP; eliminates the
+FT                   interaction with STE4 and constitutively activates the
+FT                   pheromone response pathway."
+FT                   /evidence="ECO:0000269|PubMed:9604890"
+FT   MUTAGEN         327
+FT                   /note="R->S: Suppressor of L-323; does not prevent GTP
+FT                   binding to GPA1."
+FT                   /evidence="ECO:0000269|PubMed:9786851"
+FT   MUTAGEN         345
+FT                   /note="A->T: Suppressor of a STE2-L236H mutant."
+FT                   /evidence="ECO:0000269|PubMed:10866688"
+FT   MUTAGEN         353
+FT                   /note="Missing: Suppressor of L-323."
+FT                   /evidence="ECO:0000269|PubMed:9786851"
+FT   MUTAGEN         355
+FT                   /note="E->K: Confers insensitivity to pheromone."
+FT                   /evidence="ECO:0000269|PubMed:2117698"
+FT   MUTAGEN         364
+FT                   /note="E->K: Enhances the rate of GDP for GTP exchange and
+FT                   slows hydrolysis of GTP, resulting in a constitutively
+FT                   active form that down-regulates the pheromone response
+FT                   independently of the pheromone receptor."
+FT                   /evidence="ECO:0000269|PubMed:11394869,
+FT                   ECO:0000269|PubMed:2117698, ECO:0000269|PubMed:8887662"
+FT   MUTAGEN         388
+FT                   /note="N->D: Forms a nondissociable complex with the
+FT                   pheromone receptor in response to receptor activation,
+FT                   resulting in reduced pheromone responsiveness."
+FT                   /evidence="ECO:0000269|PubMed:11394869,
+FT                   ECO:0000269|PubMed:15197187, ECO:0000269|PubMed:1900495,
+FT                   ECO:0000269|PubMed:8887662"
+FT   MUTAGEN         388
+FT                   /note="N->K: Causes constitutive activation of the
+FT                   pheromone response pathway."
+FT                   /evidence="ECO:0000269|PubMed:11394869,
+FT                   ECO:0000269|PubMed:15197187, ECO:0000269|PubMed:1900495,
+FT                   ECO:0000269|PubMed:8887662"
+FT   MUTAGEN         391
+FT                   /note="D->A: Causes constitutive activation of the
+FT                   pheromone response pathway."
+FT                   /evidence="ECO:0000269|PubMed:1900495"
+FT   MUTAGEN         467
+FT                   /note="K->P: Impairs pheromone signaling in a and alpha
+FT                   cells."
+FT                   /evidence="ECO:0000269|PubMed:1848203"
+FT   MUTAGEN         468
+FT                   /note="K->P: Impairs pheromone signaling specifically in a
+FT                   cells."
+FT                   /evidence="ECO:0000269|PubMed:1848203"
+FT   MUTAGEN         470
+FT                   /note="G->D: Confers insensitivity to pheromone."
+FT                   /evidence="ECO:0000269|PubMed:2117698"
+FT   CONFLICT        82
+FT                   /note="W -> R (in Ref. 2; AAA18403)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        194
+FT                   /note="A -> V (in Ref. 2; AAA18403)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        226
+FT                   /note="R -> K (in Ref. 2; AAA18403)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        246
+FT                   /note="K -> R (in Ref. 2; AAA18403)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        469
+FT                   /note="I -> S (in Ref. 2; AAA18403)"
+FT                   /evidence="ECO:0000305"
+SQ   SEQUENCE   472 AA;  54076 MW;  2E87C546E133D6E5 CRC64;
+     MGCTVSTQTI GDESDPFLQN KRANDVIEQS LQLEKQRDKN EIKLLLLGAG ESGKSTVLKQ
+     LKLLHQGGFS HQERLQYAQV IWADAIQSMK ILIIQARKLG IQLDCDDPIN NKDLFACKRI
+     LLKAKALDYI NASVAGGSDF LNDYVLKYSE RYETRRRVQS TGRAKAAFDE DGNISNVKSD
+     TDRDAETVTQ NEDADRNNSS RINLQDICKD LNQEGDDQMF VRKTSREIQG QNRRNLIHED
+     IAKAIKQLWN NDKGIKQCFA RSNEFQLEGS AAYYFDNIEK FASPNYVCTD EDILKGRIKT
+     TGITETEFNI GSSKFKVLDA GGQRSERKKW IHCFEGITAV LFVLAMSEYD QMLFEDERVN
+     RMHESIMLFD TLLNSKWFKD TPFILFLNKI DLFEEKVKSM PIRKYFPDYQ GRVGDAEAGL
+     KYFEKIFLSL NKTNKPIYVK RTCATDTQTM KFVLSAVTDL IIQQNLKKIG II
+//

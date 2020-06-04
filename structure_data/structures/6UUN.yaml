@@ -1,0 +1,14 @@
+auxiliary_protein: 'Receptor activity-modifying protein 2, Nanobody 35'
+construct: 6uun
+distance: 6.39
+ligand:
+    chain: P
+    name: PEP
+    pubchemId: 56841671
+    role: Agonist
+    title: Adrenomedullin
+    type: Peptide
+pdb: 6UUN
+preferred_chain: R
+signaling_protein: Gs
+state: Active

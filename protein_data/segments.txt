@@ -1,8 +1,12 @@
 N-term terminus 0 "N-terminus" GPCR
+D1S1 sheet 1 "Class D1 sheet 1" GPCR
+D1T1 turn 1 "Class D1 turn 1" GPCR
+D1S2 sheet 1 "Class D1 sheet 2" GPCR
 TM1 helix 1 "Transmembrane helix 1" GPCR
 ICL1 loop 0 "Intracellular loop 1" GPCR
 TM2 helix 1 "Transmembrane helix 2" GPCR
 ECL1 loop 0 "Extracellular loop 1" GPCR
+D1e1 loop 0 "Class D1 Extracellular loop 1" GPCR
 TM3 helix 1 "Transmembrane helix 3" GPCR
 ICL2 loop 0 "Intracellular loop 2" GPCR
 TM4 helix 1 "Transmembrane helix 4" GPCR

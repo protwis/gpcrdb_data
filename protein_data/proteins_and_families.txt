@@ -479,6 +479,10 @@ Class C (Glutamate) | gpcrdbc
             "gpcr","18","Class C Orphans","260","<i>GPRC5C</i>","","","","RAIG<sub>3</sub>|retinoic acid-induced gene 3 protein|G protein-coupled receptor, family C, group 5, member C|G protein-coupled receptor, class C, group 5, member C|G protein-coupled receptor","13309","GPRC5C","G protein-coupled receptor class C group 5 member C","17q25.1-q25.3","NM_018653","NP_061123","Q9NQ84","55890","1311408","Gprc5c","G protein-coupled receptor, class C, group 5, member C","10q32.2","","NP_001178520","Q3KRC4","287805","MGI:1917605","Gprc5c","G protein-coupled receptor, family C, group 5, member C","11 E2","NM_147217","NP_671750","Q8K3J9","70355"
             "gpcr","18","Class C Orphans","261","<i>GPRC5D</i>","","","","RAIG<sub>4</sub>|G protein-coupled receptor, class C, group 5, member D|G protein-coupled receptor","13310","GPRC5D","G protein-coupled receptor class C group 5 member D","12p13.3","NM_018654","NP_061124","Q9NZD1","55507","1563887","Gprc5d","G protein-coupled receptor, class C, group 5, member D","4q43","NM_001109254","NP_001102724","","500349","MGI:1935037","Gprc5d","G protein-coupled receptor, family C, group 5, member D","6 G1","NM_053118","NP_444348","Q9JIL6","93746"
             "gpcr","18","Class C Orphans","55","GPRC6 receptor","","","","GPCR6A|G protein-coupled receptor, family C, group 6, member A|G protein-coupled receptor, class C, group 6, member A|G protein-coupled receptor","18510","GPRC6A","G protein-coupled receptor class C group 6 member A","6q22.31","NM_148963","NP_683766","Q5T6X5","222545","735077","Gprc6a","G protein-coupled receptor, class C, group 6, member A","20q11","","","Q70VB1","294394","MGI:2429498","Gprc6a","G protein-coupled receptor, family C, group 6, member A","10 B3","NM_153071","NP_694711","Q8K4Z6","210198"
+Class D1 (Ste2-like fungal pheromone) | gpcrdbd
+    Ste2-like receptors
+        STE2
+            "gpcr","","Ste2-like receptors","","STE2","","","","Pheromone alpha factor receptor","","STE2","","","","","D6VTK4","","","","","","","","","","","","","","","","",""
 Class F (Frizzled) | gpcrdbf
     Protein receptors
         Frizzled
@@ -493,7 +497,7 @@ Class F (Frizzled) | gpcrdbf
             "gpcr","25","Class Frizzled GPCRs","237","FZD<sub>9</sub>","","","","CD349|FZD3|frizzled family receptor 9|FZD9","4047","FZD9","frizzled class receptor 9","7q11.23","NM_003508","NP_003499","O00144","8326","628817","Fzd9","frizzled class receptor 9","12q12","NM_153305","NP_695217","Q8K4C8","266608","MGI:1313278","Fzd9","frizzled class receptor 9","5 G2","NM_010246","NP_034376","Q9R216","14371"
             "gpcr","25","Class Frizzled GPCRs","238","FZD<sub>10</sub>","","","","CD350|Fz-10","4039","FZD10","frizzled class receptor 10","12q24.33","NM_007197","NP_009128","Q9ULW2","11211","","","","","","","","","MGI:2136761","Fzd10","frizzled class receptor 10","5 G1.3","NM_175284","NP_780493","Q8BKG4","93897"
             "gpcr","25","Class Frizzled GPCRs","239","SMO","","","","SMOH|FZD11|frizzled family member 11|bnb|smoothened, frizzled class receptor|smoothened","11119","SMO","smoothened, frizzled class receptor","7q32.3","NM_005631","NP_005622","Q99835","6608","3726","Smo","smoothened, frizzled class receptor","4q22","NM_012807","NP_036939","P97698","25273","MGI:108075","Smo","smoothened, frizzled class receptor","6 A3.3","NM_176996","NP_795970","P56726","319757"
-Taste 2 | gpcrdba
+Class T (Taste 2) | gpcrdba
     Sensory receptors
         Taste 2 receptors
             "gpcr","117","Taste 2 receptors","659","<i>TAS2R1</i>","","","","T2R1|TRB7|taste receptor, type 2, member 1","14909","TAS2R1","taste 2 receptor member 1","","NM_019599","","Q9NYW7","50834","","","","","","","","","","","","","","","",""

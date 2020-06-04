@@ -1,0 +1,14 @@
+auxiliary_protein: 'GlgA glycogen synthase'
+construct: 6kp6
+distance: -0.39
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 6KP6
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

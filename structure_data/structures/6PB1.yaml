@@ -1,0 +1,15 @@
+auxiliary_protein: 'Nanobody 35'
+construct: 6pb1
+distance: 6.06
+ligand:
+    chain: U
+    name: PEP
+    pubchemId: 44321641
+    role: Agonist
+    title: Urocortin
+    type: Peptide
+pdb: 6PB1
+preferred_chain: P
+representative: true
+signaling_protein: Gs
+state: Active

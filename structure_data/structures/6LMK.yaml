@@ -1,0 +1,15 @@
+auxiliary_protein: 'Nanobody 35'
+construct: 6lmk
+distance: 6.61
+ligand:
+    chain: E
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: Glucagon
+    type: Peptide
+pdb: 6LMK
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active

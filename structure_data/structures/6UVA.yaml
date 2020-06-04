@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody 35, Receptor activity-modifying protein 3'
+construct: 6uva
+distance: 6.36
+ligand:
+    chain: P
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: Adrenomedullin-2
+    type: Peptide
+pdb: 6UVA
+preferred_chain: R
+signaling_protein: Gs
+state: Active
