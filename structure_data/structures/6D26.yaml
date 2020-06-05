@@ -5,7 +5,7 @@ ligand:
 -   name: FSY
     pubchemId: 23582412
     role: Antagonist
-    title: fevipiprant
+    title: Fevipiprant
     type: Small molecule
 pdb: 6D26
 preferred_chain: A

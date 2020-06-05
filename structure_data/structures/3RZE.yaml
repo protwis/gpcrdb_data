@@ -9,6 +9,7 @@ ligand:
 -   name: 5EH
     pubchemId: '667477'
     role: Antagonist
+    title: Doxepin
     type: Small molecule
 pdb: 3RZE
 preferred_chain: A

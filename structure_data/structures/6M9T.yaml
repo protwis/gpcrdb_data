@@ -5,7 +5,7 @@ ligand:
     name: J9P
     pubchemId: 9820635
     role: Agonist
-    title: misoprostol-FA
+    title: Misoprostol-FA
     type: Small molecule
 pdb: 6M9T
 preferred_chain: A

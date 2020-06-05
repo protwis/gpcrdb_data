@@ -5,7 +5,7 @@ ligand:
 -   name: XQC
     pubchemId: 44328881
     role: Agonist
-    title: hydroxybenzylisoproterenol
+    title: Hydroxybenzylisoproterenol
     type: Small molecule
 pdb: 4LDL
 preferred_chain: A

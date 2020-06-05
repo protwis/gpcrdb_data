@@ -5,7 +5,12 @@ endogenous_ligand:
 -   iupharId: 1681
     name: nociceptin/orphanin FQ
     type: Peptide
-ligand: None
+ligand:
+    name: DGV
+    pubchemId: 25001412
+    role: Antagonist
+    title: C-35
+    type: Small molecule
 pdb: 5DHG
 preferred_chain: A
 representative: true

@@ -5,6 +5,7 @@ ligand:
 -   name: 2GM
     pubchemId: '10531'
     role: Agonist
+    title: Dihydroergotamine
     type: Small molecule
 pdb: 4IAQ
 preferred_chain: A

@@ -1,4 +1,4 @@
-auxiliary_protein: None
+auxiliary_protein: 'Antibody fab fragment light chain, Antibody fab fragment heavy chain'
 construct: 3vg9
 distance: -1.2
 ligand:

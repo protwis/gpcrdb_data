@@ -5,7 +5,7 @@ ligand:
 -   name: G90
     pubchemId: 12619631
     role: Agonist
-    title: bucindolol
+    title: Bucindolol
     type: Small molecule
 pdb: 4AMI
 preferred_chain: A

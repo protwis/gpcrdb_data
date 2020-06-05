@@ -5,7 +5,12 @@ endogenous_ligand:
 -   iupharId: 1681
     name: nociceptin/orphanin FQ
     type: Peptide
-ligand: None
+ligand: 
+    name: DGW
+    pubchemId: 10047612
+    role: Antagonist
+    title: SB-612111
+    type: Small molecule
 pdb: 5DHH
 preferred_chain: A
 signaling_protein: None

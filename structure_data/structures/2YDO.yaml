@@ -5,6 +5,7 @@ ligand:
 -   name: ADN
     pubchemId: '60961'
     role: Agonist
+    title: Adenosine
     type: Small molecule
 pdb: 2YDO
 preferred_chain: A
