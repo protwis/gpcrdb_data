@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody 6'
+construct: 6vi4
+distance: -0.87
+ligand:
+    name: JDC
+    pubchemId: 9956146
+    role: Antagonist
+    title: JDTic
+    type: Small molecule
+pdb: 6VI4
+preferred_chain: B
+representative: true
+signaling_protein: None
+state: Inactive

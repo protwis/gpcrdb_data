@@ -1,6 +1,6 @@
 auxiliary_protein: 'Sialidase NanA'
 construct: 6qzh
-distance: 0.00
+distance: -0.49
 ligand:
     name: JLW
     pubchemId: 136165388
@@ -9,5 +9,6 @@ ligand:
     type: Small molecule
 pdb: 6QZH
 preferred_chain: A
+representative: true
 signaling_protein: None
 state: Inactive

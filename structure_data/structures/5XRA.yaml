@@ -1,8 +1,8 @@
-auxiliary_protein: Flavodoxin
+auxiliary_protein: 'Flavodoxin'
 construct: 5xra
 distance: 7.95
 ligand:
--   name: 8D3
+    name: 8D3
     pubchemId: 53318931
     role: Agonist
     type: Small molecule

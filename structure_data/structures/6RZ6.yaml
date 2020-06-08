@@ -1,0 +1,14 @@
+auxiliary_protein: BRIL
+construct: 6rz6
+distance: 5.04
+ligand:
+-   name: KNW
+    pubchemId: 145704683
+    role: Antagonist
+    title: ONO-2570366 (C2221 space group)
+    type: Small molecule
+pdb: 6RZ6
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Intermediate

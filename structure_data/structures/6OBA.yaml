@@ -1,0 +1,18 @@
+auxiliary_protein: 'T4-Lysozyme'
+construct: 6oba
+distance: -0.85
+ligand:
+-   name: JTZ
+    pubchemId: 204665
+    role: Antagonist
+    title: (S)-Alprenolol
+    type: Small molecule
+-   name: M3J
+    pubchemId: 145998261
+    role: NAM
+    title: 6-bromo-N~2~-phenylquinazoline-2,4-diamine
+    type: Small molecule
+pdb: 6OBA
+preferred_chain: A
+signaling_protein: None
+state: Inactive

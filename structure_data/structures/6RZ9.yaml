@@ -1,0 +1,14 @@
+auxiliary_protein: BRIL
+construct: 6rz9
+distance: 5.09
+ligand:
+-   name: KO5
+    pubchemId: 145704685
+    role: Antagonist
+    title: ONO-2770372
+    type: Small molecule
+pdb: 6RZ9
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Intermediate

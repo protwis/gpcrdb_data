@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6tos
+distance: -0.96
+ligand:
+-   name: NRE
+    pubchemId: 44463491
+    role: Antagonist
+    title: GSK1059865
+    type: Small molecule
+pdb: 6TOS
+preferred_chain: B
+signaling_protein: None
+state: Inactive

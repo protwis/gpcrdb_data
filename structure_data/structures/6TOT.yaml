@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6tot
+distance: -0.88
+ligand:
+-   name: NRK
+    pubchemId: 56944144
+    role: Antagonist
+    title: Lemborexant
+    type: Small molecule
+pdb: 6TOT
+preferred_chain: B
+signaling_protein: None
+state: Inactive

@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6tq7
+distance: -1.09
+ligand:
+    name: NVK
+    pubchemId: 6604926
+    role: Antagonist
+    title: SB-334867
+    type: Small molecule
+pdb: 6TQ7
+preferred_chain: A
+signaling_protein: None
+state: Inactive

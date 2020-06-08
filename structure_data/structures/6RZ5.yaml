@@ -1,0 +1,13 @@
+auxiliary_protein: BRIL
+construct: 6rz5
+distance: 6.77
+ligand:
+-   name: ZLK
+    pubchemId: 5717
+    role: Antagonist
+    title: Zafirlukast
+    type: Small molecule
+pdb: 6RZ5
+preferred_chain: B
+signaling_protein: None
+state: Intermediate

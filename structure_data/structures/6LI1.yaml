@@ -1,0 +1,14 @@
+auxiliary_protein: 'Flavodoxin'
+construct: 6li1
+distance: -1.84
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 6LI1
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

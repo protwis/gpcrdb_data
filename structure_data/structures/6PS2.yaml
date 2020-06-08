@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6ps2
+distance: -1.23
+ligand:
+    name: JTZ
+    pubchemId: 204665
+    role: Antagonist
+    title: (S)-Alprenolol
+    type: Small molecule
+pdb: 6PS2
+preferred_chain: A
+signaling_protein: None
+state: Inactive

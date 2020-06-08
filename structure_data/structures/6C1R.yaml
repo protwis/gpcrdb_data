@@ -1,4 +1,4 @@
-auxiliary_protein: 'Soluble cytochrome b562'
+auxiliary_protein: BRIL
 construct: 6c1r
 distance: -1.37
 ligand:
@@ -9,7 +9,7 @@ ligand:
     type: Peptide
 -   name: EFD
     pubchemId: 49841217
-    role: Antagonist
+    role: NAM
     title: Avacopan
     type: Small molecule
 pdb: 6C1R

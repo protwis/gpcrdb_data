@@ -21,7 +21,7 @@ endogenous_ligand:
     name: met-enkephalin
     type: Peptide
 ligand:
--   name: 4V0
+-   name: 4VO
     pubchemId: 11487194
     role: Agonist
     type: Small molecule

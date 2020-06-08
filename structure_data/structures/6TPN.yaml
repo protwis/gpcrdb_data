@@ -1,0 +1,13 @@
+auxiliary_protein: 'GlgA glycogen synthase'
+construct: 6tpn
+distance: -0.89
+ligand:
+    name: NU8
+    pubchemId: 72707143
+    role: Antagonist
+    title: HTL6641
+    type: Small molecule
+pdb: 6TPN
+preferred_chain: A
+signaling_protein: None
+state: Inactive

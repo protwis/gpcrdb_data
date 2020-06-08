@@ -1,8 +1,8 @@
-auxiliary_protein: Soluble cytochrome b562
+auxiliary_protein: BRIL
 construct: 6bqh
 distance: 0.08
 ligand:
-    name: RIT
+    name: E2J
     pubchemId: 5074
     role: Inverse agonist
     title: Ritanserin

@@ -13,6 +13,5 @@ ligand:
     type: Peptide
 pdb: 5VAI
 preferred_chain: R
-representative: true
 signaling_protein: Gs
 state: Active

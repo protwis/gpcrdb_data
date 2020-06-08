@@ -311,7 +311,41 @@ acm4_human__wt:
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 67.0
+    2e: 68.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 69.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 35.0
+    5e: 75.0
+    6b: 24.0
+    6e: 61.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 61.0
+    Cl: A
+    RF: Acetylcholine(muscarinic)
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 34.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+acm5_human__wt:
+    Key: acm5_human__wt
+    1b: 28.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 68.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -334,8 +368,8 @@ acm4_human__wt:
     RF: Acetylcholine(muscarinic)
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 2.0
-    2e3b: 35.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 adrb1_melga__wt:
@@ -413,7 +447,7 @@ agtr1_human__wt:
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 66.0
+    2e: 67.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -436,8 +470,8 @@ agtr1_human__wt:
     RF: Angiotensin
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 3.0
-    2e3b: 36.0
+    2e-e1b: 2.0
+    2e3b: 35.0
     e1e3b: 1.0
     3ei2b: 1.0
 agtr2_human__wt:
@@ -746,6 +780,74 @@ ccr9_human__wt:
     2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
+cltr1_human__wt:
+    Key: cltr1_human__wt
+    1b: 20.0
+    1e: 60.0
+    i1b: '-'
+    i1e: '-'
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 63.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 28.0
+    5e: 67.0
+    6b: 26.0
+    6e: 64.0
+    7b: 24.0
+    7e: 56.0
+    8b: 47.0
+    8e: 59.0
+    Cl: A
+    RF: Leukotriene
+    1ei1b: 15
+    i1e2b: 15
+    2e-e1b: 2.0
+    2e3b: 35.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+cltr2_human__wt:
+    Key: cltr2_human__wt
+    1b: 25.0
+    1e: 60.0
+    i1b: '-'
+    i1e: '-'
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 63.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 32.0
+    5e: 68.0
+    6b: 24.0
+    6e: 62.0
+    7b: 28.0
+    7e: 56.0
+    8b: 47.0
+    8e: 60.0
+    Cl: A
+    RF: Leukotriene
+    1ei1b: 15
+    i1e2b: 15
+    2e-e1b: 2.0
+    2e3b: 35.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 cnr1_human__wt:
     Key: cnr1_human__wt
     1b: 28.0
@@ -800,7 +902,7 @@ cnr2_human__wt:
     e2e: '-'
     5b: 36.0
     5e: 74.0
-    6b: 21.0
+    6b: 28.0
     6e: 61.0
     7b: 28.0
     7e: 56.0
@@ -836,7 +938,7 @@ crfr1_human__wt:
     5e: 69.0
     6b: 25.0
     6e: 53.0
-    7b: 29.0
+    7b: 28.0
     7e: 56.0
     8b: 47.0
     8e: 72.0
@@ -846,6 +948,40 @@ crfr1_human__wt:
     i1e2b: 1.0
     2e-e1b: 15
     2e3b: 38.0
+    e1e3b: 15
+    3ei2b: 15
+crfr2_human__wt:
+    Key: crfr2_human__wt
+    1b: 19.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 63.0
+    e1b: '-'
+    e1e: '-'
+    3b: 22.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 41.0
+    4e: 68.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 39.0
+    5e: 71.0
+    6b: 25.0
+    6e: 53.0
+    7b: 28.0
+    7e: 56.0
+    8b: 47.0
+    8e: 72.0
+    Cl: B1
+    RF: Corticotropin-releasingfact
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 37.0
     e1e3b: 15
     3ei2b: 15
 cxcr4_human__wt:
@@ -1052,6 +1188,40 @@ ffar1_human__wt:
     2e3b: 35.0
     e1e3b: 1.0
     3ei2b: 1.0
+fpr2_human__wt:
+    Key: fpr2_human__wt
+    1b: 25.0
+    1e: 61.0
+    i1b: '-'
+    i1e: '-'
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 23.0
+    5e: 69.0
+    6b: 31.0
+    6e: 61.0
+    7b: 28.0
+    7e: 56.0
+    8b: 47.0
+    8e: 58.0
+    Cl: A
+    RF: Formylpeptide
+    1ei1b: 15
+    i1e2b: 15
+    2e-e1b: 2.0
+    2e3b: 35.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 fzd4_human__wt:
     Key: fzd4_human__wt
     1b: 28.0
@@ -1104,7 +1274,7 @@ g1sgd4_rabit__wt:
     4e: 68.0
     e2b: 50.0
     e2e: 52.0
-    5b: 39.0
+    5b: 36.0
     5e: 71.0
     6b: 30.0
     6e: 53.0
@@ -1172,7 +1342,7 @@ glr_human__wt:
     4e: 68.0
     e2b: 50.0
     e2e: 52.0
-    5b: 36.0
+    5b: 35.0
     5e: 71.0
     6b: 28.0
     6e: 53.0
@@ -1188,6 +1358,40 @@ glr_human__wt:
     2e3b: 46.0
     e1e3b: 15
     3ei2b: 15
+gpr52_human__wt:
+    Key: gpr52_human__wt
+    1b: 32.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 52.0
+    2b: 37.0
+    2e: 67.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 62.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 36.0
+    5e: 74.0
+    6b: 21.0
+    6e: 61.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 67.0
+    Cl: A
+    RF: ClassAorphans
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 35.0
+    e1e3b: 15
+    3ei2b: 1.0
 grm1_human__wt:
     Key: grm1_human__wt
     1b: 34.0
@@ -1807,7 +2011,7 @@ ox1r_human__wt:
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 67.0
+    2e: 68.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -1818,20 +2022,20 @@ ox1r_human__wt:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 32.0
+    5b: 33.0
     5e: 71.0
     6b: 20.0
     6e: 61.0
-    7b: 28.0
+    7b: 27.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 63.0
     Cl: A
     RF: Orexin
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 2.0
-    2e3b: 35.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 ox2r_human__wt:
@@ -1859,7 +2063,7 @@ ox2r_human__wt:
     7b: 27.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 63.0
     Cl: A
     RF: Orexin
     1ei1b: 1.0
@@ -1936,6 +2140,40 @@ p2y12_human__wt:
     2e3b: 36.0
     e1e3b: 15
     3ei2b: 1.0
+pacr_human__wt:
+    Key: pacr_human__wt
+    1b: 21.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 64.0
+    e1b: '-'
+    e1e: '-'
+    3b: 22.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 40.0
+    4e: 68.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 36.0
+    5e: 69.0
+    6b: 25.0
+    6e: 54.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 72.0
+    Cl: B1
+    RF: VIPandPACAP
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 41.0
+    e1e3b: 15
+    3ei2b: 15
 par1_human__wt:
     Key: par1_human__wt
     1b: 29.0
@@ -2359,12 +2597,12 @@ smo_human__wt:
     i2b: '-'
     i2e: '-'
     4b: 41.0
-    4e: 63.0
+    4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
     5e: 72.0
-    6b: 24.0
+    6b: 20.0
     6e: 78.0
     7b: 34.0
     7e: 57.0
@@ -2378,6 +2616,74 @@ smo_human__wt:
     2e3b: 54.0
     e1e3b: 15
     3ei2b: 15
+smo_mouse__wt:
+    Key: smo_mouse__wt
+    1b: 28.0
+    1e: 60.0
+    i1b: 47.0
+    i1e: 51.0
+    2b: 39.0
+    2e: 63.0
+    e1b: '-'
+    e1e: '-'
+    3b: 23.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 41.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 35.0
+    5e: 72.0
+    6b: 20.0
+    6e: 78.0
+    7b: 34.0
+    7e: 57.0
+    8b: 47.0
+    8e: 62.0
+    Cl: F
+    RF: Frizzled
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 54.0
+    e1e3b: 15
+    3ei2b: 15
+sucr1_rat__wt:
+    Key: sucr1_rat__wt
+    1b: 20.0
+    1e: 61.0
+    i1b: '-'
+    i1e: '-'
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 67.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 31.0
+    5e: 68.0
+    6b: 24.0
+    6e: 63.0
+    7b: 26.0
+    7e: 56.0
+    8b: 47.0
+    8e: 65.0
+    Cl: A
+    RF: Succinate
+    1ei1b: 15
+    i1e2b: 15
+    2e-e1b: 1.0
+    2e3b: 34.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 ta2r_human__wt:
     Key: ta2r_human__wt
     1b: 35.0

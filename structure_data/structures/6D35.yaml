@@ -1,15 +1,15 @@
-auxiliary_protein: Cytochrome b562
+auxiliary_protein: BRIL
 construct: 6d35
 distance: -2.2
 endogenous_ligand:
 -   name: constitutive
     type: Constitutive
 ligand:
--   name: None
-    pubchemId: None
-    role: '.nan'
-    title: None
-    type: None
+-   name: CLR
+    pubchemId: 5997
+    role: Agonist
+    title: Cholesterol
+    type: Small molecule
 pdb: 6D35
 preferred_chain: A
 signaling_protein: None

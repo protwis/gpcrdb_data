@@ -1,0 +1,18 @@
+auxiliary_protein: 'GlgA glycogen synthase'
+construct: 6kqi
+distance: -2.24
+ligand:
+-   name: 9GF
+    pubchemId: 104895
+    role: Agonist
+    title: CP55940
+    type: Small molecule
+-   name: 9GL
+    pubchemId: 44828492
+    role: NAM
+    title: ORG27569
+    type: Small molecule
+pdb: 6KQI
+preferred_chain: A
+signaling_protein: None
+state: Inactive

@@ -9,6 +9,7 @@ ligand:
 -   name: 7LD
     pubchemId: '5761'
     role: Agonist
+    title: LSD
     type: Small molecule
 pdb: 5TVN
 preferred_chain: A

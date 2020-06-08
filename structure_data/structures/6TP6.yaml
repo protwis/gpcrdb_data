@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6tp6
+distance: -0.98
+ligand:
+-   name: NT5
+    pubchemId: 25128145
+    role: Antagonist
+    title: Filorexant
+    type: Small molecule
+pdb: 6TP6
+preferred_chain: B
+signaling_protein: None
+state: Inactive

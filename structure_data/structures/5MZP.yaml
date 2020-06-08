@@ -1,4 +1,4 @@
-auxiliary_protein: ''
+auxiliary_protein: 'BRIL'
 construct: 5mzp
 distance: -0.75
 ligand:

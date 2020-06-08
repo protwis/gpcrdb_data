@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6ps5
+distance: -1.31
+ligand:
+    name: SNP
+    pubchemId: 91536
+    role: Antagonist
+    title: (S)-Propranolol
+    type: Small molecule
+pdb: 6PS5
+preferred_chain: A
+signaling_protein: None
+state: Inactive

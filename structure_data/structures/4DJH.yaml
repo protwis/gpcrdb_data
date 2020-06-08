@@ -9,9 +9,9 @@ ligand:
 -   name: JDC
     pubchemId: '9956146'
     role: Antagonist
+    title: JDTic
     type: Small molecule
 pdb: 4DJH
 preferred_chain: A
-representative: true
 signaling_protein: None
 state: Inactive

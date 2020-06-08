@@ -1,0 +1,14 @@
+auxiliary_protein: 'BRIL, Nanobody Nb.AT110i1_le'
+construct: 6os1
+distance: 8.02
+ligand:
+    chain: B
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: TRV023
+    type: Peptide
+pdb: 6OS1
+preferred_chain: A
+signaling_protein: None
+state: Active

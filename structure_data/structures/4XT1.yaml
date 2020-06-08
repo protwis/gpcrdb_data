@@ -14,6 +14,5 @@ ligand:
     type: Peptide
 pdb: 4XT1
 preferred_chain: A
-representative: true
 signaling_protein: None
 state: Active

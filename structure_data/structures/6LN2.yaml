@@ -1,0 +1,13 @@
+auxiliary_protein: 'Fab7F38 light chain, Fab7F38 heavy chain'
+construct: 6ln2
+distance: -4.85
+ligand:
+    name: 97Y
+    pubchemId: 68178630
+    role: NAM
+    title: PF-06372222
+    type: Small molecule
+pdb: 6LN2
+preferred_chain: A
+signaling_protein: None
+state: Inactive

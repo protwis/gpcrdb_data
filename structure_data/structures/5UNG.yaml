@@ -8,6 +8,5 @@ ligand:
     type: Small molecule
 pdb: 5UNG
 preferred_chain: B
-representative: true
 signaling_protein: None
 state: Active

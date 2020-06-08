@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6ps3
+distance: -1.13
+ligand:
+    name: CVD
+    pubchemId: 185395
+    role: Antagonist
+    title: (S)-Carvedilol
+    type: Small molecule
+pdb: 6PS3
+preferred_chain: A
+signaling_protein: None
+state: Inactive

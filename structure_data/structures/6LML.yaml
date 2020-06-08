@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 6lml
+distance: 5.84
+ligand:
+    chain: E
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: Glucagon
+    type: Peptide
+pdb: 6LML
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

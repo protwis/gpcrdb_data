@@ -1,0 +1,14 @@
+auxiliary_protein: 'BRIL, Nanobody Nb.AT110i1'
+construct: 6os0
+distance: 8.04
+ligand:
+    chain: B
+    name: PEP
+    pubchemId: 16133225
+    role: Agonist
+    title: Angiotensinogen
+    type: Peptide
+pdb: 6OS0
+preferred_chain: A
+signaling_protein: None
+state: Active

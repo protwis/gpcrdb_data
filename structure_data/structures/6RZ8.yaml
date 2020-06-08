@@ -1,0 +1,13 @@
+auxiliary_protein: BRIL
+construct: 6rz8
+distance: 4.87
+ligand:
+    name: KNZ
+    pubchemId: 145704684
+    role: Antagonist
+    title: ONO-2080365
+    type: Small molecule
+pdb: 6RZ8
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

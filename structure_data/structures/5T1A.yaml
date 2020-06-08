@@ -8,7 +8,7 @@ ligand:
     type: Small molecule
 -   name: VT5
     pubchemId: '12093170'
-    role: Antagonist
+    role: NAM
     type: Small molecule
 pdb: 5T1A
 preferred_chain: A

@@ -7,7 +7,7 @@ ligand:
     pubchemId: None
     role: Antagonist
     title: vMIP-II
-    type: Peptide
+    type: Protein
 pdb: 4RWS
 preferred_chain: A
 signaling_protein: None

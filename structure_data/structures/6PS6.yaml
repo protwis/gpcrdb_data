@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6ps6
+distance: -1.23
+ligand:
+    name: TIM
+    pubchemId: 33624
+    role: Antagonist
+    title: Timolol
+    type: Small molecule
+pdb: 6PS6
+preferred_chain: A
+signaling_protein: None
+state: Inactive

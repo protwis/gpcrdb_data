@@ -1,0 +1,14 @@
+auxiliary_protein: 'BRIL'
+construct: 6lw5
+distance: 9.33
+ligand:
+    chain: B
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: WKYMVm
+    type: Peptide
+pdb: 6LW5
+preferred_chain: A
+signaling_protein: None
+state: Active

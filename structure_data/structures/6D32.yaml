@@ -1,4 +1,4 @@
-auxiliary_protein: Cytochrome b562
+auxiliary_protein: BRIL
 construct: 6d32
 distance: -2.2
 endogenous_ligand:
@@ -7,11 +7,10 @@ endogenous_ligand:
 ligand:
 -   name: CY8
     pubchemId: 442972
-    role: Antagonist
+    role: Partial agonist
     title: Cyclopamine
     type: Small molecule
 pdb: 6D32
 preferred_chain: A
-representative: true
 signaling_protein: None
 state: Inactive

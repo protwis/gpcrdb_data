@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 6ps0
+distance: -1.4
+ligand:
+    name: CAU
+    pubchemId: 71739
+    role: Antagonist
+    title: (S)-Carazolol
+    type: Small molecule
+pdb: 6PS0
+preferred_chain: A
+signaling_protein: None
+state: Inactive

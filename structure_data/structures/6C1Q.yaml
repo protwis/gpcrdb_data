@@ -1,4 +1,4 @@
-auxiliary_protein: 'Soluble cytochrome b562'
+auxiliary_protein: BRIL
 construct: 6c1q
 distance: -1.37
 ligand:
@@ -9,7 +9,7 @@ ligand:
     type: Peptide
 -   name: 9P2
     pubchemId: 10210160
-    role: Antagonist
+    role: NAM
     title: H94Wrl71FP
     type: Small molecule
 pdb: 6C1Q

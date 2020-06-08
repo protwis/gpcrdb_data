@@ -64,6 +64,8 @@
     prot: GNAT1
     category: G alpha
     length: 11
+6LI3:
+    note: Mini-Gs
 5W0P:
     note:
     chain: D
@@ -88,3 +90,9 @@
     prot: arrs_mouse
     category: Arrestin
     length: 11
+6UP7:
+    note: Truncated
+    chain: B
+    prot: arrb1_human
+    category: Arrestin
+    length: 348
