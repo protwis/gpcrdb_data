@@ -233,7 +233,7 @@ gnai1_human:
     gamma:
         chain: C
         protein: gbg2_human
--   pdb: 6KPF	
+-   pdb: 6KPF
     alpha: A
     beta:
         chain: B
