@@ -5,7 +5,7 @@ ligand:
     name: PEP
     chain: B
     pubchemId: 16133819
-    role: Partial agonist
+    role: Agonist (partial)
     title: IRL1620
     type: Peptide
 pdb: 6IGL
