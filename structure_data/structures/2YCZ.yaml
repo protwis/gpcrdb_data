@@ -7,8 +7,9 @@ endogenous_ligand:
     type: Small molecule
 ligand:
 -   name: I32
-    pubchemId: '33624'
+    pubchemId: 52918356
     role: Antagonist
+    title: Iodocyanopindolol
     type: Small molecule
 pdb: 2YCZ
 preferred_chain: B

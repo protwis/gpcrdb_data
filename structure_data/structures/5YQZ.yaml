@@ -8,7 +8,7 @@ endogenous_ligand:
 ligand:
     name: NNC1702
     pubchemId: None
-    role: Partial agonist
+    role: Agonist (partial)
     title: NNC1702
     type: Peptide
 pdb: 5YQZ

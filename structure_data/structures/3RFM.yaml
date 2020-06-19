@@ -5,6 +5,7 @@ ligand:
 -   name: CFF
     pubchemId: '2519'
     role: Antagonist
+    title: Caffeine
     type: Small molecule
 pdb: 3RFM
 preferred_chain: A

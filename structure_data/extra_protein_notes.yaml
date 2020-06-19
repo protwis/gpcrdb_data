@@ -96,3 +96,93 @@
     prot: arrb1_human
     category: Arrestin
     length: 348
+6N48:
+    note: Antibody
+    chain: B
+    category: Antibody
+6DO1:
+    note: Antibody
+    chain: C
+    category: Antibody
+6IBL:
+    note: Antibody
+    chain: C
+    category: Antibody
+6MXT:
+    note: Antibody
+    chain: N
+    category: Antibody
+6H7N:
+    note: Antibody
+    chain: C
+    category: Antibody
+6H7O:
+    note: Antibody
+    chain: C
+    category: Antibody
+6H7L:
+    note: Antibody
+    chain: C
+    category: Antibody
+6H7J:
+    note: Antibody
+    chain: C
+    category: Antibody
+6H7M:
+    note: Antibody
+    chain: C
+    category: Antibody
+5WB2:
+    note: Antibody
+    chain: A
+    category: Antibody
+5WB1:
+    note: Antibody
+    chain: A
+    category: Antibody
+6B73:
+    note: Antibody
+    chain: D
+    category: Antibody
+5JQH:
+    note: Antibody
+    chain: D
+    category: Antibody
+5C1M:
+    note: Antibody
+    chain: B
+    category: Antibody
+4XT1:
+    note: Antibody
+    chain: C
+    category: Antibody
+4QKX:
+    note: Antibody
+    chain: B
+    category: Antibody
+4MQT:
+    note: Antibody
+    chain: B
+    category: Antibody
+4MQS:
+    note: Antibody
+    chain: B
+    category: Antibody
+4LDO:
+    note: Antibody
+    chain: B
+    category: Antibody
+4LDE:
+    note: Antibody
+    chain: B
+    category: Antibody
+4LDL:
+    note: Antibody
+    chain: B
+    category: Antibody
+3P0G:
+    note: Antibody
+    chain: B
+    category: Antibody
+
+

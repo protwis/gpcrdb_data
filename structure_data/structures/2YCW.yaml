@@ -3,8 +3,9 @@ construct: 2ycw
 distance: -1.08
 ligand:
 -   name: CAU
-    pubchemId: '33624'
-    role: Inverse agonist
+    pubchemId: 13023332
+    role: Antagonist
+    title: (S)-Carazolol
     type: Small molecule
 pdb: 2YCW
 preferred_chain: A

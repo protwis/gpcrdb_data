@@ -5,6 +5,7 @@ ligand:
 -   name: TIM
     pubchemId: '33624'
     role: Inverse agonist
+    title: Timolol
     type: Small molecule
 pdb: 3D4S
 preferred_chain: A

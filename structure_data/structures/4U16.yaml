@@ -5,6 +5,7 @@ ligand:
 -   name: 3C0
     pubchemId: '71183'
     role: Antagonist
+    title: Methscopolamine
     type: Small molecule
 pdb: 4U16
 preferred_chain: B

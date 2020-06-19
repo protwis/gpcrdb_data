@@ -9,6 +9,7 @@ ligand:
 -   name: ERM
     pubchemId: '8223'
     role: Agonist
+    title: Ergotamine
     type: Small molecule
 pdb: 4IAR
 preferred_chain: A

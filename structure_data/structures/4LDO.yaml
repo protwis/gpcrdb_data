@@ -5,6 +5,7 @@ ligand:
 -   name: ALE
     pubchemId: '5816'
     role: Agonist
+    title: Epinephrine
     type: Small molecule
 pdb: 4LDO
 preferred_chain: A

@@ -5,6 +5,7 @@ ligand:
 -   name: T4G
     pubchemId: '56844240'
     role: Antagonist
+    title: 6-(2,6-Dimethylpyridin-4-yl)-5-phenyl-1,2,4-triazin-3-amine
     type: Small molecule
 pdb: 3UZA
 preferred_chain: A
