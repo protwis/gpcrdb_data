@@ -30,7 +30,7 @@ and contributors at each of the biannual GLISTEN meetings. The local organisers 
 practical coordination. Furthermore, the GLISTEN financial support made possible a number of in- and outgoing
 short-term scientific visits to set-up and build collaborations.
 
-.. _GLISTEN: http://www.glisten-gpcr.eu/
+.. _GLISTEN: https://www.cost.eu/actions/CM1207
 
 A big thanks goes Andrzej Bojarski and his group to whom we own thanks for most of the work behind the GPCRdb structure
 tools and phylogenetic trees. You generously shared so much of your time, and arranged for short- and long-term visits
