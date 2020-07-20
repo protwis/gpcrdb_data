@@ -1785,5 +1785,5 @@
 1783,single nucleotide variant,HTR2A,5ht2a_human,Benign,not specified,germline,"criteria provided, single submitter",34,Ser,=,S,Class A (Rhodopsin),5-Hydroxytryptamine receptors,Aminergic receptors,,N-term
 1784,single nucleotide variant,HTR2A,5ht2a_human,Likely benign,not specified,germline,"criteria provided, single submitter",34,Ser,=,S,Class A (Rhodopsin),5-Hydroxytryptamine receptors,Aminergic receptors,,N-term
 1785,single nucleotide variant,ADGRL1,agrl1_human,Uncertain significance,Inborn genetic diseases,germline,"criteria provided, single submitter",596,Arg,His,R,Class B2 (Adhesion),ADGRL,Adhesion receptors,,N-term
-1786,single nucleotide variant,GPR37L1,etbr2_human,Uncertain significance,not provided,germline,no assertion criteria provided,349,Lys,Asn,K,Class A (Rhodopsin),Class A orphans,Orphan receptors,6.25x25,TM6
+1786,single nucleotide variant,GPR37L1,g37l1_human,Uncertain significance,not provided,germline,no assertion criteria provided,349,Lys,Asn,K,Class A (Rhodopsin),Class A orphans,Orphan receptors,6.25x25,TM6
 1787,single nucleotide variant,GPR15,gpr15_human,Uncertain significance,not provided,germline,"criteria provided, single submitter",65,Arg,Gln,R,Class A (Rhodopsin),Class A orphans,Orphan receptors,,ICL1
