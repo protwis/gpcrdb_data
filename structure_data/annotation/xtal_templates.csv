@@ -36,7 +36,7 @@ agrf5_human,crfr1_human
 agrg4_human,pth1r_human
 agrg6_human,crfr2_human
 agrg2_human,pacr_human
-gpr98_human,crfr1_human
+agrv1_human,crfr1_human
 agra1_human,pacr_human
 agra2_human,crfr1_human
 agra3_human,crfr2_human
@@ -47,11 +47,11 @@ agrl2_human,crfr2_human
 agrb3_human,crfr1_human
 agrl1_human,crfr2_human
 agrb2_human,crfr1_human
-bai1_human,crfr1_human
+agrb1_human,crfr1_human
 agrf2_human,calrl_human
 g137a_human,fpr2_human
 tpra1_human,pe2r4_human
-cd97_human,glp1r_human
+agre5_human,glp1r_human
 celr3_human,crfr2_human
 gp157_human,5ht2c_human
 t2r40_human,5ht2a_human
@@ -188,7 +188,7 @@ ednrb_human,ednrb_human
 ednra_human,ednrb_human
 grpr_human,ednrb_human
 gpr37_human,ednrb_human
-etbr2_human,ednrb_human
+g37l1_human,ednrb_human
 nmbr_human,ednrb_human
 ffar1_human,ffar1_human
 ffar2_human,par2_human
