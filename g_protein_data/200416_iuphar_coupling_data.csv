@@ -224,7 +224,7 @@
 222,222,222,gpr34_human,Q9UPC5,GPR34,,Class A (Rhodopsin),Orphan receptors,Class A orphans,101.0,Gi/Go family,,Phospholipase A2 stimulation,,22343749|17628210,,2.0
 223,223,223,gpr35_human,Q9HC97,GPR35,,Class A (Rhodopsin),Orphan receptors,Class A orphans,102.0,,,,,,,
 224,224,224,gpr37_human,O15354,GPR37,,Class A (Rhodopsin),Orphan receptors,Class A orphans,103.0,Gi/Go family,,Adenylate cyclase inhibition,,16443751,,1.0
-225,225,225,etbr2_human,O60883,GPR37L1,ETBRLP2,Class A (Rhodopsin),Orphan receptors,Class A orphans,104.0,Gi/Go family,,Adenylate cyclase inhibition,,,,
+225,225,225,g37l1_human,O60883,GPR37L1,ETBRLP2,Class A (Rhodopsin),Orphan receptors,Class A orphans,104.0,Gi/Go family,,Adenylate cyclase inhibition,,,,
 226,226,226,gpr39_human,O43194,GPR39,,Class A (Rhodopsin),Orphan receptors,Class A orphans,105.0,Gq/G11 family,"Gs family, G12/G13 family",Phospholipase C stimulation,Adenylate cyclase stimulation,15383539,15383539,1.0
 227,227,227,gpr45_human,Q9Y5Y3,GPR45,,Class A (Rhodopsin),Orphan receptors,Class A orphans,106.0,,,,,,,
 228,228,228,mtr1l_human,Q13585,GPR50,,Class A (Rhodopsin),Orphan receptors,Class A orphans,107.0,,,,,,,
@@ -308,7 +308,7 @@
 306,306,306,agre2_human,Q9UHX3,ADGRE2,EMR2,Class B2 (Adhesion),Adhesion receptors,ADGRE,183.0,Gq/G11 family,,,,22575658,,1.0
 307,307,307,agre3_human,Q9BY15,ADGRE3,EMR3;UNQ683/PRO1562,Class B2 (Adhesion),Adhesion receptors,ADGRE,184.0,,,,,,,
 308,308,308,agre4_human,Q86SQ3,ADGRE4P,EMR4;EMR4P;GPR127;PGR16,Class B2 (Adhesion),Adhesion receptors,ADGRE,185.0,,,,,,,
-309,309,309,cd97_human,P48960,CD97,,Class B2 (Adhesion),Adhesion receptors,ADGRE,177.0,G12/G13 family,,,,22797060|21978933,,2.0
+309,309,309,agre5_human,P48960,CD97,,Class B2 (Adhesion),Adhesion receptors,ADGRE,177.0,G12/G13 family,,,,22797060|21978933,,2.0
 310,310,310,agra1_human,Q86SQ6,ADGRA1,GPR123;KIAA1828,Class B2 (Adhesion),Adhesion receptors,ADGRA,197.0,G protein (identity unknown),G protein (identity unknown),,,,,
 311,311,311,agra2_human,Q96PE1,ADGRA2,GPR124;KIAA1531;,Class B2 (Adhesion),Adhesion receptors,ADGRA,198.0,G protein (identity unknown),G protein (identity unknown),,,,,
 312,312,312,agra3_human,Q8IWK6,ADGRA3,GPR125;UNQ556/PRO1113,Class B2 (Adhesion),Adhesion receptors,ADGRA,199.0,G protein (identity unknown),G protein (identity unknown),,,,,
@@ -322,7 +322,7 @@
 320,320,320,agrf3_human,Q8IZF5,ADGRF3,GPR113;PGR23;UNQ9196/PRO34000,Class B2 (Adhesion),Adhesion receptors,ADGRF,193.0,,,,,,,
 321,321,321,agrf4_human,Q8IZF3,ADGRF4,GPR115;PGR18,Class B2 (Adhesion),Adhesion receptors,ADGRF,195.0,,,,,,,
 322,322,322,agrf5_human,Q8IZF2,ADGRF5,GPR116;KIAA0758,Class B2 (Adhesion),Adhesion receptors,ADGRF,196.0,,,,,,,
-323,323,323,bai1_human,O14514,BAI1,,Class B2 (Adhesion),Adhesion receptors,ADGRB,174.0,,,,,,,
+323,323,323,agrb1_human,O14514,BAI1,,Class B2 (Adhesion),Adhesion receptors,ADGRB,174.0,,,,,,,
 324,324,324,agrb2_human,O60241,ADGRB2,BAI2,Class B2 (Adhesion),Adhesion receptors,ADGRB,175.0,,,,,,,
 325,325,325,agrb3_human,O60242,ADGRB3,BAI3;KIAA0550,Class B2 (Adhesion),Adhesion receptors,ADGRB,176.0,,,,,,,
 326,326,326,agrg1_human,Q9Y653,ADGRG1,GPR56;TM7LN4;TM7XN1;UNQ540/PRO1083,Class B2 (Adhesion),Adhesion receptors,ADGRG,186.0,"Gq/G11 family, G12/G13 family",,Other - See Comments,Other - See Comments,21768377|23001883,23001883,2.0
@@ -332,7 +332,7 @@
 330,330,330,agrg5_human,Q8IZF4,ADGRG5,GPR114;PGR27;UNQ2524/PRO6017,Class B2 (Adhesion),Adhesion receptors,ADGRG,194.0,,,,,,,
 331,331,331,agrg6_human,Q86SQ4,ADGRG6,DREG;GPR126;VIGR,Class B2 (Adhesion),Adhesion receptors,ADGRG,,,,,,,,
 332,332,332,agrg7_human,Q96K78,ADGRG7,GPR128,Class B2 (Adhesion),Adhesion receptors,ADGRG,201.0,,,,,,,
-333,333,333,gpr98_human,Q8WXG9,GPR98,KIAA0686;KIAA1943;MASS1;VLGR1,Class B2 (Adhesion),Adhesion receptors,ADGRV,,,,,,,,
+333,333,333,agrv1_human,Q8WXG9,GPR98,KIAA0686;KIAA1943;MASS1;VLGR1,Class B2 (Adhesion),Adhesion receptors,ADGRV,,,,,,,,
 334,334,334,casr_human,P41180,CASR,GPRC2A;PCAR1,Class C (Glutamate),Ion receptors,Calcium-sensing receptors,54.0,"Gi/Go family, Gq/G11 family, G12/G13 family","Gq/G11 family, G protein (identity unknown)","Adenylate cyclase inhibition, Phospholipase C stimulation, Phospholipase D stimulation","Adenylate cyclase stimulation, Potassium channel, Phospholipase A2 stimulation, Phospholipase D stimulation, Other - See Comments",9556057|3755106|9144337|2462488|12954603,11278341|10217268|9614133|9144337|11208605|9422777|11038250|8806675,5.0
 335,335,335,gabr1_human,Q9UBS5,GABBR1,GPRC3A,Class C (Glutamate),Amino acid receptors,GABA<sub>B</sub> receptors,240.0,,,,,15240800,,1.0
 336,336,336,gabr2_human,O75899,GABBR2,GPR51;GPRC3B,Class C (Glutamate),Amino acid receptors,GABA<sub>B</sub> receptors,241.0,,,,,2579700|8388192,,2.0

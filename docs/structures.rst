@@ -21,7 +21,7 @@ C alpha distance and for all class B structure templates by subtracting the 3x44
 These values are now provided in the Structure Browser (`gpcrdb.org/structure`_) 
 in the 7TM Open IC (Å) column.
 
-.. _gpcrdb.org/structure: http://gpcrdb.org/structure
+.. _gpcrdb.org/structure: https://gpcrdb.org/structure
 
 ==== ==== ==== ==== =====  ========  ============  ======
 TM2  TM6  TM3  TM7  Class  Inactive  Intermediate  Active
@@ -75,8 +75,8 @@ atoms will be annotated with Ballesteros-Weinstein scheme.
 
 On the structure download page, users can download scripts to visualize the generic numbers in `PyMOL`_ and `Maestro`_.
 
-.. _PyMOL: http://pymol.org
-.. _Maestro: http://www.schrodinger.com/Maestro
+.. _PyMOL: https://pymol.org
+.. _Maestro: https://www.schrodinger.com/Maestro
 
 Template selection
 ------------------

@@ -8,7 +8,7 @@ for swift analysis of structures, sequence similarities, receptor relationships,
 illustrate receptor sequences (snake-plot and helix box diagrams) and relationships (phylogenetic trees). A visual
 overview can be seen in the `GPCRdb poster`_.
 
-.. _GPCRdb poster: http://files.gpcrdb.org/GPCRdb_Poster.pdf
+.. _GPCRdb poster: https://files.gpcrdb.org/GPCRdb_Poster.pdf
 
 Background and development
 --------------------------
@@ -18,4 +18,4 @@ stewardship of GPCRdb was transferred to the `David Gloriam group`_ at the Unive
 international team of contributors and developers from the EU COST Action ‘`GLISTEN`_’.
 
 .. _David Gloriam group: http://gloriamgroup.org
-.. _GLISTEN: http://www.glisten-gpcr.eu/
+.. _GLISTEN: https://www.cost.eu/actions/CM1207
