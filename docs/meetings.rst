@@ -1,14 +1,51 @@
 Meetings with GPCRdb representation
 ===================================
 
+2020
+----
+
+*   March,
+    `2nd ERNEST meeting`_ Online, hosted from Istambul, Turkey.
+
+.. _2nd ERNEST meeting: https://ernest-gpcr.eu/second-ernest-meeting-new-perspectives-in-signal-transduction-gpcrs-and-beyond-istanbul-28-30-march-2020
+
+2019
+----
+
+*   Dec 1-5,
+    `GPCR Worshop`_ in Hawaii, USA.
+
+*   Oct 28-30,
+    `1st ERNEST meeting`_ in Belfast, Ireland.
+
+.. _GPCR Workshop: https://www.gpcrworkshop.com
+.. _1st ERNEST meeting: https://ernest-gpcr.eu/first-ernest-meeting-gpcr-pharmacology-activation-signalling-and-drug-design-belfast-28-30-oct-2019
+
+2018
+----
+
+*   Jul,
+    `9th GLISTEN meeting`_ in Berlin, Germany.
+
+2017
+----
+
+*   Mar 29-31,
+    `8th GLISTEN meeting`_ in Porto, Portugal.
+
+.. _8th GLISTEN meeting: https://glistensymposium.wordpress.com  
+
 2016
 ----
 
+*   Sep 26-27,
+    `7th GLISTEN meeting`_ in Prague, Czech Republic.
 *   Apr 6-8,
     `6th GLISTEN meeting`_ in Erlangen, Germany.
 *   Feb 21-25,
     `G Protein-Coupled Receptors\: Structure, Signaling and Drug Discovery`_ in Keystone, USA.
 
+.. _7th GLISTEN meeting: http://www.glisten2016.cz  
 .. _6th GLISTEN meeting: http://www.grk1910.de/glisten-2016.html
 .. _G Protein-Coupled Receptors\: Structure, Signaling and Drug Discovery: https://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1368
 
@@ -55,8 +92,5 @@ Meetings with GPCRdb representation
 *   Oct 7-9,
     `1st GLISTEN meeting`_ in Warsaw, Poland.
 
-<<<<<<< .merge_file_DY1J7d
 .. _1st GLISTEN meeting: http://www.biomodellab.eu/1glisten/welcome/
-=======
-.. _1st GLISTEN meeting: http://www.biomodellab.eu/1glisten/welcome/
->>>>>>> .merge_file_uujUNu
+
