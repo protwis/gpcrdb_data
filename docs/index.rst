@@ -6,7 +6,7 @@ Users can browse all GPCR crystal structures and the largest collections of rece
 Diagrams can be produced and downloaded to illustrate receptor residues (snake-plot and helix box diagrams) and
 relationships (phylogenetic trees). Reference (crystal) structure-based sequence alignments take into account helix
 bulges and constrictions, display statistics of amino acid conservation and have been assigned generic
-residue numbering for equivalent residues in different receptors
+residue numbering for equivalent residues in different receptors.
 
 The `source code`_ and `source data`_ are freely available on `GitHub`_.
 
@@ -14,14 +14,14 @@ The `source code`_ and `source data`_ are freely available on `GitHub`_.
 .. _source data: https://github.com/protwis/gpcrdb_data
 .. _GitHub: http://github.com
 
-The documentation in organized into four sections:
+The documentation is organized into four sections:
 
 * :ref:`tutorial`
 * :ref:`user-docs`
 * :ref:`dev-docs`
 * :ref:`about-docs`
 
-.. tutorial:
+.. _tutorial:
 
 .. toctree::
     :maxdepth: 2

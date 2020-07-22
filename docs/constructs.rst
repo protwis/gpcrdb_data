@@ -1,15 +1,15 @@
 Structure Constructs
-=================
+====================
 
 Data
------------------
-Structure construct data was parsed from PDB files, which were fetched from RCSB PDB (www.rcsb.org). Deleted receptor regions were identified from the missing ranges in the DBREF lines. The PDB file protein sequence was matched to the wild-type sequence as a final validation of deletions and mutations. Residue annotations, including mutations, and additional protein sequences, such as linkers and fusion proteins, were imported from the SIFTS database. Thereafter we fetched data on structure experimental values (resolution, crystal growth, r-factor and method) from the PDBe REST API (http://www.ebi.ac.uk/pdbe/api/pdb/entry/experiment/pdb_code), which also aided the manual annotation effort. We manually annotated a comprehensive collection of GPCR structure experiment methods and reagents from structure publications into a Microsoft Excel file, which was imported to GPCRdb. 
+----
+Structure construct data was parsed from PDB files, which were fetched from RCSB PDB (www.rcsb.org). Deleted receptor regions were identified from the missing ranges in the DBREF lines. The PDB file protein sequence was matched to the wild-type sequence as a final validation of deletions and mutations. Residue annotations, including mutations, and additional protein sequences, such as linkers and fusion proteins, were imported from the SIFTS database. Thereafter we fetched data on structure experimental values (resolution, crystal growth, r-factor and method) from the PDBe REST API (https://www.ebi.ac.uk/pdbe/api/pdb/entry/experiment/pdb_code), which also aided the manual annotation effort. We manually annotated a comprehensive collection of GPCR structure experiment methods and reagents from structure publications into a Microsoft Excel file, which was imported to GPCRdb. 
 
 Furthermore, inserts not present in the final structure construct and therefore not available from the PDB and the effects of receptor mutations were also annotated and imported in the same way through separate spreadsheets. The completed integrated data can be retrieved at the GPCRdb repository (https://github.com/protwis/gpcrdb_data/tree/master/structure_data/construct_data).
 
 
 Construct alignments
------------------
+--------------------
 Construct alignments allow for quickly browse different constructs. There are three main views:
 1. Browser -- In a table format it allows for quickly sorting and filtering the dataset. Upon sorting/filtering it is possible to switch back to the schematic views with the subset of data. 
 2. WT (Wild-type) schematic -- This view takes the perspective of the wild-type sequence so it becomes clear to see what parts of the proteins have been deleted and mutated.
@@ -26,7 +26,7 @@ If one wants to analyse the sequences themselves, it is possible to select sever
 
 
 Construct design tool
------------------
+---------------------
 
 ..  figure:: _static/construct_design_snakeplot.png
     :alt: Example snakeplot representation of a construct under construction.
@@ -74,12 +74,12 @@ The two scanning applications, i.e. 1-2, contain the option to automatically sel
 
 
 Experiment browser
------------------
+------------------
 The experiment browser shows all the annotated experimental values for constructs. Since there are so many it is possible to toggle the visiblity of several types of data (Expression, Solubilization, Purification and Structure determination). Similarly to other views, it is possible to filter by almost any column to narrow down the dataset to the most relevant. 
 
 
 Truncation & Fusion analysis
------------------
+----------------------------
 These pages are used for detailed analysis for different key features for construct design. It shows the distribution of differnet cut sites in N-term, C-term and the loops (with and without fusion proteins).
 
 
