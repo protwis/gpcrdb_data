@@ -40,7 +40,7 @@ The whole GuideToPharmacology `team`_ is acknowledged for its openness to settin
 cross-linking, web services and GPCRdb’s adoption of the official receptor nomenclature. You have served as a true
 inspiration from a much larger resource that has walked many of the paths of database development and curation before.
 
-.. _team: http://www.guidetopharmacology.org/about.jsp
+.. _team: https://www.guidetopharmacology.org/about.jsp
 
 Finally, we would like to extend thanks to newly established collaborations. Xavier Deupi and his lab are acknowledged
 for choosing to work with GPCRdb, while sharing the local expertise. We thank Raymond C. Stevens and Michael Hanson
