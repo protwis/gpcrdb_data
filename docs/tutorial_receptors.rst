@@ -17,7 +17,7 @@ This video demonstrates how to use the receptor pages.
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/receptors1.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/receptors1.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 
@@ -47,7 +47,7 @@ This video demonstrates how to build a structure-based sequence alignment.
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/sequences1.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/sequences1.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 
@@ -72,7 +72,7 @@ This video demonstrates how to perform similarity search with a reference recept
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/sequences2.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/sequences2.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 

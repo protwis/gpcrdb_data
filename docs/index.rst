@@ -12,7 +12,7 @@ The `source code`_ and `source data`_ are freely available on `GitHub`_.
 
 .. _source code: https://github.com/protwis/protwis
 .. _source data: https://github.com/protwis/gpcrdb_data
-.. _GitHub: http://github.com
+.. _GitHub: https://github.com
 
 The documentation is organized into four sections:
 
