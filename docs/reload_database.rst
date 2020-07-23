@@ -11,7 +11,7 @@ Reload database from dump
 
 * [Optional] Download the newest dump from gpcrdb::
 
-    curl http://files.gpcrdb.org/protwis_sp.sql.gz > ~/protwis.sql.gz
+    curl https://files.gpcrdb.org/protwis_sp.sql.gz > ~/protwis.sql.gz
     gunzip ~/protwis.sql.gz
 
 * Load the dump (Either from default location or a location of your choosing)::

@@ -40,7 +40,7 @@ For all types of construct modifications the presented suggestions are ranked by
 Data from N-terminal protein fusions, with e.g. T4L or BRIL, are excluded unless the user has selected a fusion in this region. Fusion protein sites: Reflecting the structures obtained hitherto, loop fusions are placed in the second and third intracellular loops for the classes B and C, and A and F, respectively using the GPCRdb generic residue numbering scheme. If the user did not select a loop fusion, long ICL3 loops (>8 residues) are instead assigned suggestions of deletion sites from non-fused and N-terminally fused constructs.
 
 
-The suggestions of stabilising mutations span a number of specific design rules (http://files.gpcrdb.org/mutation_rules.html) which are both data- and rationale-driven and cover five overall concepts: 
+The suggestions of stabilising mutations span a number of specific design rules (https://github.com/protwis/gpcrdb_data/raw/master/structure_data/Mutation_Rules.xlsx) which are both data- and rationale-driven and cover five overall concepts: 
 
 1.  Homology: This concept infers a mutant position and amino acid if the target is the same receptor or a member of the same receptor family. For the classes B-F, which are smaller and have less data than class A, mutations will also be informed from any member of the same class.
 

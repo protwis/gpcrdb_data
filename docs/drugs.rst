@@ -52,4 +52,4 @@ The search fields below each header can be used to filter the structures.
 
 *  Hauser, A. S., Misty, A, Mathias, R., Schiöth, H. B., Gloriam, D. E., "Trends in GPCR drug discovery: new agents, targets and indications", **2017**, *Nature Reviews Drug Discovery*, *in print*, `10.1038/nrd.2017.178`_
 
-.. _10.1038/nrd.2017.178: http://dx.doi.org/10.1038/nrd.2017.178
+.. _10.1038/nrd.2017.178: https://dx.doi.org/10.1038/nrd.2017.178

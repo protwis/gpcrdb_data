@@ -1,5 +1,5 @@
 Sites
-==========
+=====
 
 Ligand interactions
 -------------------
@@ -17,7 +17,7 @@ uploading your own file.
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/interactions1.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/interactions1.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 
@@ -46,7 +46,7 @@ The resulting site definition can be used to search for receptors with a similar
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/interactions2.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/interactions2.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 

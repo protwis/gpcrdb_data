@@ -47,7 +47,7 @@ The tool is based on the following paper:
 K Fidom, V Isberg, A Hauser, S Mordalski, T Lehto, AJ Bojarski, DE Gloriam, "A New Crystal Structure Fragment-Based
 Pharmacophore Method for G Protein-Coupled Receptors", **2015**, *Methods*, 71, 104–112. `10.1016/j.ymeth.2014.09.009`_
 
-.. _10.1016/j.ymeth.2014.09.009: http://dx.doi.org/10.1016/j.ymeth.2014.09.009
+.. _10.1016/j.ymeth.2014.09.009: https://dx.doi.org/10.1016/j.ymeth.2014.09.009
 
 Abstract
 ^^^^^^^^

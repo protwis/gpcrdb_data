@@ -8,7 +8,7 @@ API reference
 
 Each endpoint is described in the `API reference`_.
 
-.. _API reference: http://gpcrdb.org/services/reference/
+.. _API reference: https://gpcrdb.org/services/reference/
 
 Examples
 --------
@@ -16,23 +16,23 @@ Examples
 Python 3 with requests
 ^^^^^^^^^^^^^^^^^^^^^^
 
-This is the recommended approach. Requires installation of `requests module`_.
+This is the recommended approach. Requires installation of the `requests library`_.
 
-.. _requests module: http://docs.python-requests.org/en/latest/
+.. _requests library: https://requests.readthedocs.io
 
 ::
 
     import requests
 
     # fetch a protein
-    url = 'http://gpcrdb.org/services/protein/adrb2_human/'
+    url = 'https://gpcrdb.org/services/protein/adrb2_human/'
     response = requests.get(url)
     protein_data = response.json()
     print(protein_data)
     print(protein_data['sequence'])
 
     # fetch an alignment
-    url = 'http://gpcrdb.org/services/alignment/protein/adrb1_human,adrb2_human,adrb3_human/TM3,TM5,TM6/'
+    url = 'https://gpcrdb.org/services/alignment/protein/adrb1_human,adrb2_human,adrb3_human/TM3,TM5,TM6/'
     response = requests.get(url)
     alignment_data = response.json()
     for protein, sequence in alignment_data.items():
@@ -48,14 +48,14 @@ Python 3 with urllib
     import json
 
     # fetch a protein
-    url = 'http://gpcrdb.org/services/protein/adrb2_human/'
+    url = 'https://gpcrdb.org/services/protein/adrb2_human/'
     response = urlopen(url)
     protein_data = json.loads(response.read().decode('utf-8'))
     print(protein_data)
     print(protein_data['sequence'])
 
     # fetch an alignment
-    url = 'http://gpcrdb.org/services/alignment/protein/adrb1_human,adrb2_human,adrb3_human/TM3,TM5,TM6/'
+    url = 'https://gpcrdb.org/services/alignment/protein/adrb1_human,adrb2_human,adrb3_human/TM3,TM5,TM6/'
     response = urlopen(url)
     alignment_data = json.loads(response.read().decode('utf-8'))
     for protein, sequence in alignment_data.items():
@@ -71,14 +71,14 @@ Python 2 with urllib2
     import json
 
     # fetch a protein
-    url = 'http://gpcrdb.org/services/protein/adrb2_human/'
+    url = 'https://gpcrdb.org/services/protein/adrb2_human/'
     response = urlopen(url)
     protein_data = json.loads(response.read())
     print protein_data
     print protein_data['sequence']
 
     # fetch an alignment
-    url = 'http://gpcrdb.org/services/alignment/protein/adrb1_human,adrb2_human,adrb3_human/TM3,TM5,TM6/'
+    url = 'https://gpcrdb.org/services/alignment/protein/adrb1_human,adrb2_human,adrb3_human/TM3,TM5,TM6/'
     response = urlopen(url)
     alignment_data = json.loads(response.read())
     for protein, sequence in alignment_data.iteritems():

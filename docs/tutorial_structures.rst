@@ -6,7 +6,7 @@ Structure statistics
 
 This video demonstrates how to view statistics based on available structure data in GPCRdb.
 
-* The statistics are automatically generated, and always reflect the lates version of the database.
+* The statistics are automatically generated, and always reflect the latest version of the database.
 
 * By moving the pointer over the plot, more information can be displayed.
 
@@ -15,7 +15,7 @@ This video demonstrates how to view statistics based on available structure data
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/structures1.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/structures1.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 
@@ -27,9 +27,9 @@ Question
 Structure browser
 -----------------
 
-This video demonstrates how to use the structure browser to gain an overview of the available structure data in GPCRdb.
+This video demonstrates how to use the structure browser to gain an overview of the available structural data in GPCRdb.
 
-* The structure data is displayed in a table format.
+* The structural data is displayed in a table format.
 
 * The table can be filtered and sorted on any column.
 
@@ -43,7 +43,7 @@ This video demonstrates how to use the structure browser to gain an overview of 
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/structures2.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/structures2.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 
@@ -73,7 +73,7 @@ Example 1
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/structures3.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/structures3.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 
@@ -93,7 +93,7 @@ Example 2
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/structures4.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/structures4.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 
@@ -111,7 +111,7 @@ Example 3
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/structures5.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/structures5.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 
@@ -136,6 +136,6 @@ PyMOL.
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/structures6.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/structures6.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>

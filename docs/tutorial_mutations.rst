@@ -1,5 +1,5 @@
 Mutations
-==========
+=========
 
 Mutation browser
 ----------------
@@ -19,7 +19,7 @@ This video demonstrates how use the mutation browser to search for and visualize
 .. raw:: html
 
     <video width="1024" height="768" controls>
-      <source src="http://files.gpcrdb.org/video/mutations1.mp4" type="video/mp4">
+      <source src="https://files.gpcrdb.org/video/mutations1.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 

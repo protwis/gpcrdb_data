@@ -14,18 +14,18 @@ Please refer to the `git documentation`_ as needed, and create small demo reposi
 applying them on to the Protwis repository. If in doubt, you are always welcome to contact members of the
 :doc:`Protwis team <contact>`.
 
-.. _git documentation: http://git-scm.com/documentation
+.. _git documentation: https://git-scm.com/doc
 
 
 Prerequisites
 -------------
 If you have followed the :doc:`setup guide <local_installation>`, you should already have created a fork of the Protwis repository, and cloned the
 fork to your computer. This means that you have access to three different repositories, all containing the same code.
-From your perspective, these repository are referred to as:
+From your perspective, these repositories are referred to as:
 
-* upstream (the main Protwis repository, where you have read only access)
+* upstream (the main protwis repository, where you have read only access)
 * origin (your fork of protwis, where you have full write access)
-* local (the repository your work on locally)
+* local (the repository you work on locally)
 
 Configuring the upstream repository
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
