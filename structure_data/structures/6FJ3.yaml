@@ -5,7 +5,7 @@ ligand:
 -   name: Pep
     chain: B
     pubchemId: None
-    role: Agonist
+    role: Agonist (partial)
     title: ePTH
     type: Peptide
 pdb: 6FJ3

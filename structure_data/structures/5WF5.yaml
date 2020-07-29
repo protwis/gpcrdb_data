@@ -5,7 +5,7 @@ ligand:
     name: UKA
     pubchemId: 9833519
     role: Agonist
-    title: UK-432,097
+    title: UK-432097
     type: Small molecule
 pdb: 5WF5
 preferred_chain: A

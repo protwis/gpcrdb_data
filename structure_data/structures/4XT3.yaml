@@ -6,11 +6,11 @@ endogenous_ligand:
     name: CX3CL1
     type: Peptide
 ligand:
--   name: CX3CL1
+-   name: Fractalkine
     pubchemId: None
-    role: Agonist
+    role: Inverse agonist
     title: Fractalkine
-    type: Peptide
+    type: Protein
 pdb: 4XT3
 preferred_chain: A
 signaling_protein: None

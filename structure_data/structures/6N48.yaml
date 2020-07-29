@@ -5,7 +5,7 @@ ligand:
 -   name: P0G
     pubchemId: 49837874
     role: Agonist
-    title: BI167107
+    title: BI-167107
     type: Small molecule
 pdb: 6N48
 preferred_chain: A
