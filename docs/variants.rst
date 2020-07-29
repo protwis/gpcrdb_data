@@ -1,15 +1,15 @@
 Genetic variants
-=================
+================
 
 Variation statistics
------------------
+--------------------
 
 The statistics page shows an overview of all non-olfactory receptors with their absolute and relative 
 numbers of reported genetic missense variants. The average density (absolute count divided by length of receptor) is 
 presented for each receptor family, ligandtype and class.
 
 Receptor variant browser
---------------------
+------------------------
 
 The selection page allows users to find a receptor by searching or browsing. 
 The browser displays all missense and loss of function mutations for the selected receptor. Additional information

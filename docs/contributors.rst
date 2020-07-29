@@ -1,5 +1,5 @@
 Contributors of data and development
-=======
+====================================
 
 +-------------------------------------+-------------+-------------------------+--------------------------+-----------------------+
 | University / Institute              | Country     | Collaborators           | Data                     | Development           |

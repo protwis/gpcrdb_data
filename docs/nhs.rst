@@ -1,8 +1,8 @@
 Sales and prescription (NHS)
-=================
+============================
 
 NHS sales 
------------------
+---------
 
 Every month, the National Health Service (NHS) in the UK publishes anonymised data about the drugs prescribed by general practitioners. NHS data were retrieved from openprescribing.net (DataLab-EBM, 2017, https://openprescribing.net/) (08/2017) for the list of drugs targeting GPCRs and mapped back to their reported target of therapeutic action. From the 475 queried FDA-approved drugs, data were available for 279 drugs targeting 92 distinct GPCRs (not all FDA-approved drugs are prescribed in the UK due to alternative treatments). 
 The actual cost is the estimated cost to the NHS, which is usually lower than Net Ingredient Cost (“the basic price of a drug, i.e. the price listed in the Drug Tariff or price lists”). Openprescribing.net provides the actual cost by subtracting the average percentage discount per item received by pharmacists based on the previous month from the Net Ingredient Cost, but adding in the value of a container allowance for each prescription item (DataLab-EBM, 2017). 
@@ -13,7 +13,7 @@ Drugs with NHS information can be filtered via the drug browser (column on the f
 Sales and variation information per drug is presented within the *Estimated economic burden* page. Here, sales and prescription averages are presented along with aggrgated counts of putative and known functional site variants of all receptors targeted by the drug.
 
 Estimated economic burden
---------------------
+-------------------------
 
 The economic burden estimate was calculated using the following formula:
 

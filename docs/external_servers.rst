@@ -8,7 +8,7 @@ GPCRM is a novel method for fast and accurate generation of GPCR models using av
 and profile-profile comparison. In particular, GPCRM is the first GPCR structure predictor incorporating two distinct
 loop modeling techniques: Modeller and Rosetta together with the filtering of models based on the Z-coordinate.
 
-.. _GPCRM: http://gpcrm.biomodellab.eu/
+.. _GPCRM: https://gpcrm.biomodellab.eu/
 
 `scPDB`_
 --------
@@ -18,7 +18,7 @@ the docking of a drug-like ligand and we have so created a database called sc-PD
 separated MOL2 files for the ligand, its binding site and the corresponding protein chain(s). Ions and cofactors at the
 vicinity of the ligand are included in the protein.
 
-.. _scPDB: http://cheminfo.u-strasbg.fr/scPDB/
+.. _scPDB: http://bioinfo-pharma.u-strasbg.fr/scPDB/
 
 `GPCR-SSFE`_
 ------------

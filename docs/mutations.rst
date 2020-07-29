@@ -4,7 +4,7 @@ Mutations
 Mutation browser
 ----------------
 
-The mutant browser allows users to view mutant data for a receptor or receptor family and hightlight mutants on
+The mutant browser allows users to view mutant data for a receptor or receptor family and highlight mutants on
 receptor diagrams. Using the tool is a two step process.
 
 1.  The user is first presented with a receptor selection page. Receptors can be selected individually or by family.
@@ -39,8 +39,8 @@ enter your data by following the instructions included in each cell and email th
 A few examples of entered mutant data are `available here`_ and if in doubt please contact Kasper Harpsøe (kasper.harpsoe@sund.ku.dk) via
 e-mail.
 
-.. _Please download it here: http://files.gpcrdb.org/excel_file_for_reporting_mutants.xlsx
-.. _available here: http://files.gpcrdb.org/excel_file_for_reporting_mutants_examples.xlsx
+.. _Please download it here: https://files.gpcrdb.org/excel_file_for_reporting_mutants.xlsx
+.. _available here: https://files.gpcrdb.org/excel_file_for_reporting_mutants_examples.xlsx
 .. _Kasper Harpsøe: mailto:kasper.harpsoe@sund.ku.dk
 
 Type of mutation data

@@ -13,7 +13,7 @@ Meetings with GPCRdb representation
 ----
 
 *   Dec 1-5,
-    `GPCR Worshop`_ in Hawaii, USA.
+    `GPCR Workshop`_ in Hawaii, USA.
 
 *   Oct 28-30,
     `1st ERNEST meeting`_ in Belfast, Ireland.
@@ -25,7 +25,7 @@ Meetings with GPCRdb representation
 ----
 
 *   Jul,
-    `9th GLISTEN meeting`_ in Berlin, Germany.
+    9th GLISTEN meeting in Berlin, Germany.
 
 2017
 ----

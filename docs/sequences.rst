@@ -40,8 +40,8 @@ button.
 
 The trees are generated using `PHYLIP`_ and `jsPhyloSVG`_.
 
-.. _PHYLIP: http://evolution.genetics.washington.edu/phylip.html
-.. _jsPhyloSVG: http://www.jsphylosvg.com/
+.. _PHYLIP: https://evolution.genetics.washington.edu/phylip.html
+.. _jsPhyloSVG: https://github.com/guyleonard/jsPhyloSVG
 
 Similarity search - GPCRdb
 --------------------------
@@ -90,6 +90,6 @@ all sequences in a receptor family, or a custom selected group of receptors. Usi
     select one or more sequence segments, and/or expand each segment to select the residues within it individually.
     Residues selected individually are grouped into a custom sequence segment.
 
-The results are shown as a table of identities and similarites, color-coded in a red-yellow-green color scale ranging
+The results are shown as a table of identities and similarities, color-coded in a red-yellow-green color scale ranging
 from low to high identity/similarity. Identities are shown in the lower-left half of the table, and similarites in the
 upper-right half.
