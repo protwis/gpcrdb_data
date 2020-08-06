@@ -1,8 +1,8 @@
-Welcome to GPCRdb's documentation
-=================================
+Welcome to the GPCRdb documentation
+===================================
 
-GPCRdb contains data, diagrams and web tools for G protein-coupled receptors (GPCRs).
-Users can browse all GPCR crystal structures and the largest collections of receptor mutants.
+The GPCRdb contains data, diagrams and web tools for G protein-coupled receptors (GPCRs).
+Users can browse all GPCR crystal structures and the largest collection of receptor mutants.
 Diagrams can be produced and downloaded to illustrate receptor residues (snake-plot and helix box diagrams) and
 relationships (phylogenetic trees). Reference (crystal) structure-based sequence alignments take into account helix
 bulges and constrictions, display statistics of amino acid conservation and have been assigned generic
@@ -41,6 +41,7 @@ The documentation is organized into four sections:
     receptors
     signalproteins
     sequences
+    sequence_signature
     structures
     constructs
     mutations

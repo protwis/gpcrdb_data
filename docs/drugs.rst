@@ -32,8 +32,9 @@ circle indicating the number of approved agents (that is, which have an
 established target in that family) and a green circle indicating the number of
 agents in trials for the targets in that family. The area over which the two
 circles overlap is shown in brown. For example:
-  *   for adrenoceptors, there are 117 approved agents and 41 agents in trials, and so the red circle is larger
-  *   for chemokine receptors, there are 2 approved agents and 37 agents in trials and so the green circle is larger
+
+*   for adrenoceptors, there are 117 approved agents and 41 agents in trials, and so the red circle is larger
+*   for chemokine receptors, there are 2 approved agents and 37 agents in trials and so the green circle is larger
   
 At the family level, agents that modulate multiple receptors in the family are only counted once to determine the circle size. For individual receptors (but not families), different
 shades of green are used for each trial phase. 

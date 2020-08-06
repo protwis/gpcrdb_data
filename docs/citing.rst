@@ -48,7 +48,7 @@ Mutation design tool
 
 *   C Munk, K Harpsøe, A Hauser, V Isberg, DE Gloriam, "Integrating structural and mutagenesis data to elucidate GPCR ligand binding", 2016, Curr Opin Pharcol, 30, 51–58. `10.1016/j.coph.2016.07.003`_
 
-.. _10.1038/nrd.2017.178: https://dx.doi.org/10.1038/nrd.2017.178
+.. _10.1016/j.coph.2016.07.003: https://dx.doi.org/10.1016/j.coph.2016.07.003
 
 Crystal structure fragment-based pharmacophore models
 -----------------------------------------------------
