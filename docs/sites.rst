@@ -1,5 +1,5 @@
 Sites
-=================
+=====
 
 Ligand interactions
 -------------------
@@ -17,7 +17,7 @@ positions and chemical properties. Using the tools is a two step process.
     The user can select as many receptors as he/she wishes (WARNING: selecting a large number of receptors increases
     loading time).
 
-2.  After receptors have been selected, the user is presented with a sequence motif selecetion page. Site residues
+2.  After receptors have been selected, the user is presented with a sequence motif selection page. Site residues
     should be selected individually. Clicking the down arrow button next to a sequence segment will expand the residues
     within that segment. Chemical features (Hydrophobic, hydrogen bond donor, etc.) should then be selected for each
     motif residue. When a feature has been selected, a list of amino acids that match the feature will appear to the
