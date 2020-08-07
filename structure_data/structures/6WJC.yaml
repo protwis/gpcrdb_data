@@ -1,0 +1,20 @@
+auxiliary_protein: 'T4-Lysozyme'
+construct: 6wjc
+distance: -1.07
+ligand:
+-   chain: C
+    name: PEP
+    pubchemId: None
+    role: NAM
+    title: Muscarinic toxin 7
+    type: Peptide
+-   name: OIN
+    pubchemId: 154417
+    role: Antagonist
+    title: Hyoscyamine
+    type: Small molecule
+pdb: 6WJC
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

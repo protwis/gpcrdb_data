@@ -6,9 +6,10 @@ endogenous_ligand:
     name: RET
     type: Small molecule
 ligand:
--   name: BNG
+    name: BNG
     pubchemId: '155448'
-    role: Agonist
+    role: unknown
+    title: B-Nonylglucoside
     type: Small molecule
 pdb: 4X1H
 preferred_chain: A

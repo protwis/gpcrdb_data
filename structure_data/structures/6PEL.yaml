@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6pel
+distance: 8.17
+ligand:
+    name: ODM
+    pubchemId: 101977
+    role: unknown
+    title: Citronellol
+    type: Small molecule
+pdb: 6PEL
+preferred_chain: A
+signaling_protein: G alpha CT2
+state: Active

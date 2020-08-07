@@ -2,10 +2,10 @@ auxiliary_protein: 'BRIL, Fab'
 construct: 6cmo
 distance: 9.40
 ligand:
-    name: None
+    name: APO
     pubchemId: None
-    role: '.nan'
-    title: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
     type: None
 pdb: 6CMO
 preferred_chain: R

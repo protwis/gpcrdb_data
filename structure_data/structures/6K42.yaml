@@ -1,0 +1,13 @@
+auxiliary_protein: 'T4-Lysozyme, scFv'
+construct: 6k42
+distance: -1.07
+ligand:
+-   name: CZX
+    pubchemId: 5311068
+    role: Agonist
+    title: Dexmedetomidine
+    type: Small molecule
+pdb: 6K42
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

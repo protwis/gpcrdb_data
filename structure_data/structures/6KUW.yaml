@@ -1,0 +1,14 @@
+auxiliary_protein: 'GlgA glycogen synthase'
+construct: 6kuw
+distance: 0.00
+ligand:
+    name: E33
+    pubchemId: 57213234
+    role: Antagonist
+    title: (8Ar,12aS,13aR)-12-ethylsulfonyl-3-methoxy-5,6,8,8a,9,10,11,12a,13,13a-decahydroisoquinolino[2,1-g][1,6]naphthyridine
+    type: Small molecule
+pdb: 6KUW
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

@@ -1,0 +1,15 @@
+auxiliary_protein: 'GlgA glycogen synthase'
+construct: 6w25
+distance: 0.67
+ligand:
+    chain: B
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: SHU9119
+    type: Peptide
+pdb: 6W25
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

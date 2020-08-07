@@ -4,7 +4,7 @@ distance: 8.36
 ligand:
     name: BOG
     pubchemId: 62852
-    role: '.nan'
+    role: unknown
     title: B-Octylglucoside
     type: Small molecule
 pdb: 6NWE

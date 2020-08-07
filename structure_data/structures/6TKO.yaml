@@ -1,0 +1,13 @@
+auxiliary_protein: 'Fab30 heavy chain, Fab30 light chain'
+construct: 6tko
+distance: 7.19
+ligand:
+    name: H98
+    pubchemId: 3083544
+    role: Agonist
+    title: Arformoterol
+    type: Small molecule
+pdb: 6TKO
+preferred_chain: A
+signaling_protein: Beta-arrestin-1
+state: Active

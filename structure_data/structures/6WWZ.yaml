@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 6wwz
+distance: 7.33
+ligand:
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: C-C motif chemokine 20
+    type: Protein
+pdb: 6WWZ
+preferred_chain: R
+representative: true
+signaling_protein: Go
+state: Active

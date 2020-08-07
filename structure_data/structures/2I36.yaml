@@ -6,9 +6,10 @@ endogenous_ligand:
     name: RET
     type: Small molecule
 ligand:
--   name: None
+-   name: APO
     pubchemId: None
-    role: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
     type: None
 pdb: 2I36
 preferred_chain: A

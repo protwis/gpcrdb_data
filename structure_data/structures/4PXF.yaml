@@ -5,6 +5,12 @@ endogenous_ligand:
 -   iupharId: 6669
     name: RET
     type: Small molecule
+ligand:
+    name: BOG
+    pubchemId: 62852
+    role: unknown
+    title: B-Octylglucoside
+    type: Small molecule
 pdb: 4PXF
 preferred_chain: A
 signaling_protein: Arrestin fragment

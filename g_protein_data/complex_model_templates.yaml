@@ -265,6 +265,22 @@ gnai1_human:
     gamma:
         chain: C
         protein: gbg2_human
+-   pdb: 6K42
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_mouse
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6VMS
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: C
+        protein: gbg2_human
 gnai2_human:
 -   pdb: 6D9H
     alpha: A
@@ -299,6 +315,22 @@ gnao_human:
     gamma:
         chain: G
         protein: gbg2_human
+-   pdb: 6K41
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_mouse
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6WWZ
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_rat
+    gamma:
+        chain: Y
+        protein: gbg2_mouse
 gnat1_bovin:
 -   pdb: 6OY9
     alpha: A
