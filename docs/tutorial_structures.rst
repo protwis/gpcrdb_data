@@ -104,7 +104,7 @@ Example 3
 
 * First select the structures that should be superposed using the check boxes to the left of each row.
 
-* To select the reference structure, hightlight it by click anywhere on its row (it turns blue).
+* To select the reference structure, highlight it by click anywhere on its row (it turns blue).
 
 * Click "Superpose structures" and continue the superposition workflow as before.
 
