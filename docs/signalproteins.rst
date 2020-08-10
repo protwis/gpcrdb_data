@@ -8,7 +8,7 @@ The selection page allows users to find a signal protein or family (grouped in t
 
 The browser displays a hierarchical view of the families, and the proteins in each family. 
 Selecting either a receptor or family will take you to the corresponding receptor/family page.
-Species orthologs can be selected when toggleing the Species button to 'All'
+Species orthologs can be selected when toggling the Species button to 'All'
 
 The page displays basic information about the selected protein and a sequence viewer a snake-like diagrams. 
 The diagrams can be colored by properties, receptor interface and barcode information.
@@ -23,7 +23,7 @@ The page shows statistics on known coupling preferences as extracted from Guide 
      the four dots depict both primary and secondary G protein coupling (from inside to outside: Gαs, Gαi/o, Gαq/11, Gα12/13). 
      Tree nodes can be highlighted and selected to retrieve clade-specific receptor sets, which can be used in dedicated segment specific sequence alignments.
   
-Highlighting and selection of receptors populates a field, which can be used as an input for dedicated segment spewcific sequence alignments.
+Highlighting and selection of receptors populates a field, which can be used as an input for dedicated segment specific sequence alignments.
 
 G protein alignments
 --------------------

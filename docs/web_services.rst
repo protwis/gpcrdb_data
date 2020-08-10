@@ -1,7 +1,7 @@
 Web services
 ============
 
-Most data in GPCRdb is available pragrammatically via a REST API.
+Most data in GPCRdb is available programmatically via a REST API.
 
 API reference
 -------------

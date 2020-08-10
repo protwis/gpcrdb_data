@@ -24,7 +24,7 @@ uploading your own file.
 Question
 ^^^^^^^^
 
-* Look up the recptor ligand interactions in PDB structure 3RZE? How many interactions are found?
+* Look up the receptor ligand interactions in PDB structure 3RZE? How many interactions are found?
 
 Site search - from PDB complex
 ------------------------------
