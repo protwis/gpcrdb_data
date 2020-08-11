@@ -105,7 +105,7 @@ When the changes on your feature branch are ready, merge them into master::
     git merge my_feature_branch
 
 Pushing changes to Github and sending a pull request
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 After merging your changes into master, you should push them to your fork on Github (origin) and send a pull request
 (PR) to the main repository::

@@ -37,18 +37,16 @@ circles overlap is shown in brown. For example:
 *   for chemokine receptors, there are 2 approved agents and 37 agents in trials and so the green circle is larger
   
 At the family level, agents that modulate multiple receptors in the family are only counted once to determine the circle size. For individual receptors (but not families), different
-shades of green are used for each trial phase. 
+shades of green are used for each trial phase.
 
 GPCRs are listed using the protein name (EntryName removed species tag) in UniProt.
 
 Drug browser
------------------------
+------------
 
 The structure table shows the complete annotated list of DRUG-GPCR pairs. 
 The table can be sorted by each column by clicking on the header. 
 The search fields below each header can be used to filter the structures.
-
-
 
 
 *  Hauser, A. S., Misty, A, Mathias, R., Schiöth, H. B., Gloriam, D. E., "Trends in GPCR drug discovery: new agents, targets and indications", **2017**, *Nature Reviews Drug Discovery*, *in print*, `10.1038/nrd.2017.178`_

@@ -13,7 +13,7 @@ Construct alignments
 Construct alignments allow for quickly browse different constructs. There are three main views:
 1. Browser -- In a table format it allows for quickly sorting and filtering the dataset. Upon sorting/filtering it is possible to switch back to the schematic views with the subset of data. 
 2. WT (Wild-type) schematic -- This view takes the perspective of the wild-type sequence so it becomes clear to see what parts of the proteins have been deleted and mutated.
-3. Construct schematic (default view) -- This view show the final construct schematic -- here additional inserts are shown (Signal-tags, cleaveage tags, fusion proteins).
+3. Construct schematic (default view) -- This view show the final construct schematic -- here additional inserts are shown (Signal-tags, cleavage tags, fusion proteins).
 
 Furthermore, there are filter options on all views where you can filter by several options to narrow the view to the structures of main interest.
 
@@ -75,12 +75,12 @@ The two scanning applications, i.e. 1-2, contain the option to automatically sel
 
 Experiment browser
 ------------------
-The experiment browser shows all the annotated experimental values for constructs. Since there are so many it is possible to toggle the visiblity of several types of data (Expression, Solubilization, Purification and Structure determination). Similarly to other views, it is possible to filter by almost any column to narrow down the dataset to the most relevant. 
+The experiment browser shows all the annotated experimental values for constructs. Since there are so many it is possible to toggle the visibility of several types of data (Expression, Solubilization, Purification and Structure determination). Similarly to other views, it is possible to filter by almost any column to narrow down the dataset to the most relevant.
 
 
 Truncation & Fusion analysis
 ----------------------------
-These pages are used for detailed analysis for different key features for construct design. It shows the distribution of differnet cut sites in N-term, C-term and the loops (with and without fusion proteins).
+These pages are used for detailed analysis for different key features for construct design. It shows the distribution of different cut sites in N-term, C-term and the loops (with and without fusion proteins).
 
 
 Mutation analysis

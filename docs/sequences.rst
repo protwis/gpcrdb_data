@@ -18,7 +18,7 @@ After completing these two steps, an alignment is displayed. To display the sequ
 well as generic numbers, hover the mouse over it. At the bottom of the page, a consensus sequence as well as
 conservation statistics for amino acids and chemical features are displayed.
 
-Phylogeneric trees
+Phylogenetic trees
 ------------------
 
 The phylogenetic tree tool allows for generation of phylogenetic trees based on user selected receptors and sequence
@@ -91,5 +91,5 @@ all sequences in a receptor family, or a custom selected group of receptors. Usi
     Residues selected individually are grouped into a custom sequence segment.
 
 The results are shown as a table of identities and similarities, color-coded in a red-yellow-green color scale ranging
-from low to high identity/similarity. Identities are shown in the lower-left half of the table, and similarites in the
+from low to high identity/similarity. Identities are shown in the lower-left half of the table, and similarities in the
 upper-right half.
