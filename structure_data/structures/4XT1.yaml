@@ -7,7 +7,7 @@ endogenous_ligand:
     type: Peptide
 ligand:
 -   chain: B
-    name: Fractalkine
+    name: PEP
     pubchemId: None
     role: Inverse agonist
     title: Fractalkine
