@@ -1,6 +1,12 @@
-auxiliary_protein: Endolysin
+auxiliary_protein: 'T4-Lysozyme'
 construct: 5gli
 distance: -0.38
+ligand:
+    name: APO
+    pubchemId: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
+    type: None    
 pdb: 5GLI
 preferred_chain: A
 signaling_protein: None

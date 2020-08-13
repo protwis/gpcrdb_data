@@ -1,0 +1,226 @@
+ID   GBB1_MOUSE              Reviewed;         340 AA.
+AC   P62874; P04697; P04901;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   17-JUN-2020, entry version 159.
+DE   RecName: Full=Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1;
+DE   AltName: Full=Transducin beta chain 1;
+GN   Name=Gnb1;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha; Muroidea; Muridae;
+OC   Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Adrenal gland;
+RA   Qiu R., Schimmer B.P.;
+RL   Submitted (JUN-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=129/Sv; TISSUE=Liver;
+RX   PubMed=11913780; DOI=10.3109/10425170109084458;
+RA   Kitanaka J., Wang X., Kitanaka N., Hembree C.M., Uhl G.R.;
+RT   "Genomic organization of the murine G protein beta subunit genes and
+RT   related processed pseudogenes.";
+RL   DNA Seq. 12:345-354(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 24-42; 58-96; 138-150; 198-209 AND 284-301, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RC   STRAIN=C57BL/6J; TISSUE=Brain, and Hippocampus;
+RA   Lubec G., Klug S., Kang S.U.;
+RL   Submitted (APR-2007) to UniProtKB.
+RN   [5]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Brain, Brown adipose tissue, Heart, Kidney, Liver, Lung, Pancreas,
+RC   Spleen, and Testis;
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and expression.";
+RL   Cell 143:1174-1189(2010).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are involved
+CC       as a modulator or transducer in various transmembrane signaling
+CC       systems. The beta and gamma chains are required for the GTPase
+CC       activity, for replacement of GDP by GTP, and for G protein-effector
+CC       interaction (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units, alpha, beta and gamma.
+CC       Interacts with ARHGEF18 and RASD2. The heterodimer formed by GNB1 and
+CC       GNG2 interacts with ARHGEF5 (By similarity).
+CC       {ECO:0000250|UniProtKB:P62873}.
+CC   -!- PTM: Phosphorylation at His-266 by NDKB contributes to G protein
+CC       activation by increasing the high energetic phosphate transfer onto
+CC       GDP. {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the WD repeat G protein beta family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; U29055; AAC52905.1; -; mRNA.
+DR   EMBL; AB042854; BAB63904.1; -; Genomic_DNA.
+DR   EMBL; BC013058; AAH13058.1; -; mRNA.
+DR   CCDS; CCDS19030.1; -.
+DR   PIR; JC5057; JC5057.
+DR   RefSeq; NP_001153488.1; NM_001160016.1.
+DR   RefSeq; NP_001153489.1; NM_001160017.1.
+DR   RefSeq; NP_032168.1; NM_008142.4.
+DR   RefSeq; XP_017175466.1; XM_017319977.1.
+DR   SMR; P62874; -.
+DR   BioGRID; 199976; 41.
+DR   CORUM; P62874; -.
+DR   IntAct; P62874; 25.
+DR   MINT; P62874; -.
+DR   STRING; 10090.ENSMUSP00000030940; -.
+DR   iPTMnet; P62874; -.
+DR   PhosphoSitePlus; P62874; -.
+DR   SwissPalm; P62874; -.
+DR   EPD; P62874; -.
+DR   jPOST; P62874; -.
+DR   PaxDb; P62874; -.
+DR   PeptideAtlas; P62874; -.
+DR   PRIDE; P62874; -.
+DR   Antibodypedia; 26613; 235 antibodies.
+DR   Ensembl; ENSMUST00000030940; ENSMUSP00000030940; ENSMUSG00000029064.
+DR   Ensembl; ENSMUST00000105616; ENSMUSP00000101241; ENSMUSG00000029064.
+DR   Ensembl; ENSMUST00000165335; ENSMUSP00000130123; ENSMUSG00000029064.
+DR   Ensembl; ENSMUST00000176637; ENSMUSP00000135091; ENSMUSG00000029064.
+DR   GeneID; 14688; -.
+DR   KEGG; mmu:14688; -.
+DR   UCSC; uc008wdp.2; mouse.
+DR   CTD; 2782; -.
+DR   MGI; MGI:95781; Gnb1.
+DR   eggNOG; KOG0286; Eukaryota.
+DR   eggNOG; ENOG410XQUX; LUCA.
+DR   GeneTree; ENSGT00990000203606; -.
+DR   HOGENOM; CLU_000288_57_34_1; -.
+DR   InParanoid; P62874; -.
+DR   KO; K04536; -.
+DR   OMA; HWATDRR; -.
+DR   OrthoDB; 704786at2759; -.
+DR   PhylomeDB; P62874; -.
+DR   TreeFam; TF106149; -.
+DR   Reactome; R-MMU-1296041; Activation of G protein gated Potassium channels.
+DR   Reactome; R-MMU-202040; G-protein activation.
+DR   Reactome; R-MMU-2485179; Activation of the phototransduction cascade.
+DR   Reactome; R-MMU-381676; Glucagon-like Peptide-1 (GLP1) regulates insulin secretion.
+DR   Reactome; R-MMU-381753; Olfactory Signaling Pathway.
+DR   Reactome; R-MMU-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-MMU-392451; G beta:gamma signalling through PI3Kgamma.
+DR   Reactome; R-MMU-392851; Prostacyclin signalling through prostacyclin receptor.
+DR   Reactome; R-MMU-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-MMU-4086398; Ca2+ pathway.
+DR   Reactome; R-MMU-416476; G alpha (q) signalling events.
+DR   Reactome; R-MMU-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-MMU-418217; G beta:gamma signalling through PLC beta.
+DR   Reactome; R-MMU-418555; G alpha (s) signalling events.
+DR   Reactome; R-MMU-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-MMU-418594; G alpha (i) signalling events.
+DR   Reactome; R-MMU-418597; G alpha (z) signalling events.
+DR   Reactome; R-MMU-420092; Glucagon-type ligand receptors.
+DR   Reactome; R-MMU-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-MMU-432040; Vasopressin regulates renal water homeostasis via Aquaporins.
+DR   Reactome; R-MMU-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Reactome; R-MMU-500657; Presynaptic function of Kainate receptors.
+DR   Reactome; R-MMU-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Reactome; R-MMU-8964315; G beta:gamma signalling through BTK.
+DR   Reactome; R-MMU-8964616; G beta:gamma signalling through CDC42.
+DR   Reactome; R-MMU-9009391; Extra-nuclear estrogen signaling.
+DR   Reactome; R-MMU-997272; Inhibition of voltage gated Ca2+ channels via Gbeta/gamma subunits.
+DR   BioGRID-ORCS; 14688; 5 hits in 12 CRISPR screens.
+DR   ChiTaRS; Gnb1; mouse.
+DR   PRO; PR:P62874; -.
+DR   Proteomes; UP000000589; Chromosome 4.
+DR   RNAct; P62874; protein.
+DR   Bgee; ENSMUSG00000029064; Expressed in retina and 296 other tissues.
+DR   ExpressionAtlas; P62874; baseline and differential.
+DR   Genevisible; P62874; MM.
+DR   GO; GO:0005623; C:cell; IEA:GOC.
+DR   GO; GO:0044297; C:cell body; ISO:MGI.
+DR   GO; GO:0030425; C:dendrite; ISO:MGI.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IPI:MGI.
+DR   GO; GO:0043209; C:myelin sheath; HDA:UniProtKB.
+DR   GO; GO:0001917; C:photoreceptor inner segment; ISO:MGI.
+DR   GO; GO:0001750; C:photoreceptor outer segment; IDA:MGI.
+DR   GO; GO:0042622; C:photoreceptor outer segment membrane; ISO:MGI.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0047391; F:alkylglycerophosphoethanolamine phosphodiesterase activity; ISO:MGI.
+DR   GO; GO:0003924; F:GTPase activity; ISO:MGI.
+DR   GO; GO:0051020; F:GTPase binding; ISO:MGI.
+DR   GO; GO:0044877; F:protein-containing complex binding; ISO:MGI.
+DR   GO; GO:0030507; F:spectrin binding; ISO:MGI.
+DR   GO; GO:0010659; P:cardiac muscle cell apoptotic process; ISO:MGI.
+DR   GO; GO:0008283; P:cell population proliferation; IDA:MGI.
+DR   GO; GO:0071456; P:cellular response to hypoxia; ISO:MGI.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IDA:MGI.
+DR   GO; GO:0007200; P:phospholipase C-activating G protein-coupled receptor signaling pathway; IDA:MGI.
+DR   GO; GO:0007603; P:phototransduction, visible light; ISO:MGI.
+DR   GO; GO:0007204; P:positive regulation of cytosolic calcium ion concentration; ISO:MGI.
+DR   GO; GO:0060041; P:retina development in camera-type eye; IMP:MGI.
+DR   GO; GO:0050909; P:sensory perception of taste; IDA:MGI.
+DR   Gene3D; 2.130.10.10; -; 1.
+DR   InterPro; IPR020472; G-protein_beta_WD-40_rep.
+DR   InterPro; IPR001632; Gprotein_B.
+DR   InterPro; IPR016346; Guanine_nucleotide-bd_bsu.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   InterPro; IPR001680; WD40_repeat.
+DR   InterPro; IPR019775; WD40_repeat_CS.
+DR   InterPro; IPR017986; WD40_repeat_dom.
+DR   InterPro; IPR036322; WD40_repeat_dom_sf.
+DR   PANTHER; PTHR19850; PTHR19850; 1.
+DR   Pfam; PF00400; WD40; 7.
+DR   PRINTS; PR00319; GPROTEINB.
+DR   PRINTS; PR00320; GPROTEINBRPT.
+DR   SMART; SM00320; WD40; 7.
+DR   SUPFAM; SSF50978; SSF50978; 1.
+DR   PROSITE; PS00678; WD_REPEATS_1; 3.
+DR   PROSITE; PS50082; WD_REPEATS_2; 6.
+DR   PROSITE; PS50294; WD_REPEATS_REGION; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Direct protein sequencing; Phosphoprotein; Reference proteome;
+KW   Repeat; Transducer; WD repeat.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000250|UniProtKB:P62873"
+FT   CHAIN           2..340
+FT                   /note="Guanine nucleotide-binding protein G(I)/G(S)/G(T)
+FT                   subunit beta-1"
+FT                   /id="PRO_0000127688"
+FT   REPEAT          53..83
+FT                   /note="WD 1"
+FT   REPEAT          95..125
+FT                   /note="WD 2"
+FT   REPEAT          141..170
+FT                   /note="WD 3"
+FT   REPEAT          182..212
+FT                   /note="WD 4"
+FT   REPEAT          224..254
+FT                   /note="WD 5"
+FT   REPEAT          268..298
+FT                   /note="WD 6"
+FT   REPEAT          310..340
+FT                   /note="WD 7"
+FT   MOD_RES         2
+FT                   /note="N-acetylserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P62873"
+FT   MOD_RES         2
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:P62873"
+FT   MOD_RES         266
+FT                   /note="Phosphohistidine"
+FT                   /evidence="ECO:0000250|UniProtKB:P62871"
+SQ   SEQUENCE   340 AA;  37377 MW;  896CBD32D2686598 CRC64;
+     MSELDQLRQE AEQLKNQIRD ARKACADATL SQITNNIDPV GRIQMRTRRT LRGHLAKIYA
+     MHWGTDSRLL VSASQDGKLI IWDSYTTNKV HAIPLRSSWV MTCAYAPSGN YVACGGLDNI
+     CSIYNLKTRE GNVRVSRELA GHTGYLSCCR FLDDNQIVTS SGDTTCALWD IETGQQTTTF
+     TGHTGDVMSL SLAPDTRLFV SGACDASAKL WDVREGMCRQ TFTGHESDIN AICFFPNGNA
+     FATGSDDATC RLFDLRADQE LMTYSHDNII CGITSVSFSK SGRLLLAGYD DFNCNVWDAL
+     KADRAGVLAG HDNRVSCLGV TDDGMAVATG SWDSFLKIWN
+//

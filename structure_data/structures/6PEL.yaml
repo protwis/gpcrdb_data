@@ -9,5 +9,5 @@ ligand:
     type: Small molecule
 pdb: 6PEL
 preferred_chain: A
-signaling_protein: G alpha CT2
+signaling_protein: Gt1
 state: Active

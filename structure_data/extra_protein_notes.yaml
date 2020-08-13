@@ -67,19 +67,25 @@
 6PEL:
     note: Only H5
     chain: B
-    prot: G alpha CT2
+    prot: GNAT1
     category: G alpha
     length: 11
 6PGS:
     note: Only H5
     chain: B
-    prot: G alpha CT2
+    prot: GNAT1
     category: G alpha
     length: 11
 6PH7:
     note: Only H5
     chain: B
-    prot: G alpha CT2
+    prot: GNAT1
+    category: G alpha
+    length: 11
+6NWE:
+    note: Only H5
+    chain: B
+    prot: GNAT1
     category: G alpha
     length: 11
 6LI3:

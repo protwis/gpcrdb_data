@@ -1,4 +1,4 @@
-auxiliary_protein: Endolysin
+auxiliary_protein: 'T4-Lysozyme'
 construct: 5x33
 distance: -1.53
 ligand:
