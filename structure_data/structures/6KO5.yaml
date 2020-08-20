@@ -1,0 +1,14 @@
+auxiliary_protein: 'BRIL, Fab7881 heavy chain, Fab7881 light chain'
+construct: 6ko5
+distance: 0.00
+ligand:
+    name: 8QX
+    pubchemId: 57400002
+    role: Antagonist
+    title: 6-(4-Bromo-2-fluorophenoxy)-2-methyl-3-[[(3S)-1-propan-2-ylpiperidin-3-yl]methyl]pyrido[3,2-d]pyrimidin-4-one
+    type: Small molecule
+pdb: 6KO5
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

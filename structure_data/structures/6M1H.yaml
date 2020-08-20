@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 6m1h
+distance: 6.96
+ligand:
+    chain: B
+    name: PEP
+    pubchemId: 121596043
+    role: Agonist
+    title: Maxadilan
+    type: Peptide
+pdb: 6M1H
+preferred_chain: A
+signaling_protein: Gs
+state: Active

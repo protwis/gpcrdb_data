@@ -114,6 +114,18 @@
     prot: arrs_mouse
     category: Arrestin
     length: 11
+6U1N:
+    note:
+    chain: C
+    prot: arrb1_rat
+    category: Arrestin
+    length: 401
+6PWC:
+    note:
+    chain: A
+    prot: arrb1_human
+    category: Arrestin
+    length: 393
 6UP7:
     note:
     chain: B

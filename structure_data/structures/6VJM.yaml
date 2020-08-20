@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6vjm
+distance: 1.75
+ligand:
+    name: APO
+    pubchemId: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
+    type: None
+pdb: 6VJM
+preferred_chain: B
+signaling_protein: None
+state: Inactive

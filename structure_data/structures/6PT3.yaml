@@ -1,0 +1,13 @@
+auxiliary_protein: 'BRIL'
+construct: 6tp3
+distance: -0.83
+ligand:
+    name: QWY
+    pubchemId: 58619550
+    role: Agonist
+    title: DPI-287
+    type: Small molecule
+pdb: 6TP3
+preferred_chain: A
+signaling_protein: None
+state: Inactive

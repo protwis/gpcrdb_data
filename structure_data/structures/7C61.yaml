@@ -1,0 +1,13 @@
+auxiliary protein: 'BRIL, IgG heavy chain, IgG light chain'
+construct: 7c61
+distance: 0.00
+ligand:
+    name: ERM
+    pubchemId: 8223
+    role: Antagonist
+    title: Ergotamine
+    type: Small molecule
+pdb: 7C61
+preferred_chain: A
+signaling_protein: None
+state: Inactive

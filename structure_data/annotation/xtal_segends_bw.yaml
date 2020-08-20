@@ -1460,6 +1460,108 @@ g1sgd4_rabit__wt:
     2e3b: 40.0
     e1e3b: 15
     3ei2b: 15
+gabr1_human__wt:
+    Key: gabr1_human__wt
+    1b: 34.0
+    1e: 60.0
+    i1b: 47.0
+    i1e: 53.0
+    2b: 39.0
+    2e: 62.0
+    e1b: '-'
+    e1e: '-'
+    3b: 20.0
+    3e: 54.0
+    i2b: '-'
+    i2e: '-'
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 35.0
+    5e: 62.0
+    6b: 33.0
+    6e: 58.0
+    7b: 33.0
+    7e: 64.0
+    8b: 46.0
+    8e: 57.0
+    Cl: C
+    RF: GABA<sub>B</sub>
+    1ei1b: 3.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 39.0
+    e1e3b: 15
+    3ei2b: 15
+gabr2_human__wt:
+    Key: gabr2_human__wt
+    1b: 32.0
+    1e: 60.0
+    i1b: 47.0
+    i1e: 53.0
+    2b: 39.0
+    2e: 61.0
+    e1b: '-'
+    e1e: '-'
+    3b: 17.0
+    3e: 55.0
+    i2b: '-'
+    i2e: '-'
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 35.0
+    5e: 64.0
+    6b: 33.0
+    6e: 58.0
+    7b: 30.0
+    7e: 64.0
+    8b: 46.0
+    8e: 57.0
+    Cl: C
+    RF: GABA<sub>B</sub>
+    1ei1b: 3.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 40.0
+    e1e3b: 15
+    3ei2b: 15
+ghsr_human__wt:
+    Key: ghsr_human__wt
+    1b: 28.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 34.0
+    5e: 72.0
+    6b: 24.0
+    6e: 61.0
+    7b: 28.0
+    7e: 56.0
+    8b: 47.0
+    8e: 62.0
+    Cl: A
+    RF: Ghrelin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 2.0
+    2e3b: 35.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 glp1r_human__wt:
     Key: glp1r_human__wt
     1b: 29.0
@@ -1943,7 +2045,7 @@ oprd_human__wt:
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 66.0
+    2e: 67.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -1954,7 +2056,7 @@ oprd_human__wt:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
+    5b: 30.0
     5e: 68.0
     6b: 23.0
     6e: 61.0
@@ -1966,8 +2068,8 @@ oprd_human__wt:
     RF: Opioid
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 2.0
-    2e3b: 35.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 oprd_mouse__wt:
@@ -1977,7 +2079,7 @@ oprd_mouse__wt:
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 66.0
+    2e: 67.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -1988,7 +2090,7 @@ oprd_mouse__wt:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
+    5b: 30.0
     5e: 68.0
     6b: 23.0
     6e: 61.0
@@ -2000,8 +2102,8 @@ oprd_mouse__wt:
     RF: Opioid
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 2.0
-    2e3b: 35.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 oprk_human__wt:
@@ -2034,8 +2136,8 @@ oprk_human__wt:
     RF: Opioid
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 2.0
-    2e3b: 35.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 oprm_mouse__wt:
@@ -2045,7 +2147,7 @@ oprm_mouse__wt:
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 66.0
+    2e: 67.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -2056,7 +2158,7 @@ oprm_mouse__wt:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
+    5b: 30.0
     5e: 68.0
     6b: 23.0
     6e: 61.0
@@ -2068,8 +2170,8 @@ oprm_mouse__wt:
     RF: Opioid
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 2.0
-    2e3b: 35.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 oprx_human__wt:
@@ -2079,7 +2181,7 @@ oprx_human__wt:
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 66.0
+    2e: 67.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -2090,7 +2192,7 @@ oprx_human__wt:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
+    5b: 30.0
     5e: 68.0
     6b: 23.0
     6e: 61.0
@@ -2102,8 +2204,8 @@ oprx_human__wt:
     RF: Opioid
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 2.0
-    2e3b: 35.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 opsd_bovin__wt:
@@ -2113,7 +2215,7 @@ opsd_bovin__wt:
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 67.0
+    2e: 68.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -2136,8 +2238,8 @@ opsd_bovin__wt:
     RF: Opsins
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 2.0
-    2e3b: 35.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 opsd_human__wt:
@@ -2276,6 +2378,40 @@ ox2r_human__wt:
     2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
+oxyr_human__wt:
+    Key: oxyr_human__wt
+    1b: 28.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 33.0
+    5e: 76.0
+    6b: 24.0
+    6e: 60.0
+    7b: 30.0
+    7e: 56.0
+    8b: 47.0
+    8e: 63.0
+    Cl: A
+    RF: Vasopressinandoxytocin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 2.0
+    2e3b: 35.0
+    e1e3b: 1.0
+    3ei2b: 15
 p2ry1_human__wt:
     Key: p2ry1_human__wt
     1b: 30.0
@@ -2786,6 +2922,40 @@ s1pr1_human__wt:
     2e3b: 38.0
     e1e3b: 1.0
     3ei2b: 1.0
+sctr_human__wt:
+    Key: sctr_human__wt
+    1b: 24.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 64.0
+    e1b: '-'
+    e1e: '-'
+    3b: 22.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 40.0
+    4e: 68.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 36.0
+    5e: 71.0
+    6b: 25.0
+    6e: 54.0
+    7b: 30.0
+    7e: 56.0
+    8b: 47.0
+    8e: 72.0
+    Cl: B1
+    RF: Glucagonreceptorfamily
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 41.0
+    e1e3b: 15
+    3ei2b: 15
 smo_human__wt:
     Key: smo_human__wt
     1b: 28.0

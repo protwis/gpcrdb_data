@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6uoa
+distance: 1.46
+ligand:
+-   name: QD7
+    pubchemId: 28559746
+    role: Agonist
+    title: (R)-(3-aminopropyl)methylphosphinic acid
+    type: Small molecule
+pdb: 6UOA
+preferred_chain: B
+signaling_protein: None
+state: Intermediate

@@ -127,6 +127,62 @@ gnas2_human:
     gamma:
         chain: G
         protein: gbg2_bovin
+-   pdb: 6VCB
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6WHC
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: C
+        protein: gbg2_human
+-   pdb: 6WPW
+    alpha: C
+    beta:
+        chain: D
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6WI9
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6WZG
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6M1H
+    alpha: F
+    beta:
+        chain: E
+        protein: gbb1_human
+    gamma:
+        chain: D
+        protein: gbg2_human
+-   pdb: 6M1I
+    alpha: F
+    beta:
+        chain: E
+        protein: gbb1_human
+    gamma:
+        chain: D
+        protein: gbg2_human
 gnas2_bovin:
 -   pdb: 3SN6
     alpha: A

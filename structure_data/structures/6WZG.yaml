@@ -1,0 +1,15 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 6wzg
+distance: 6.43
+ligand:
+    chain: P
+    name: PEP
+    pubchemId: 16158474
+    role: Agonist
+    title: Secretin
+    type: Peptide
+pdb: 6WZG
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active

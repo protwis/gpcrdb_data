@@ -1,14 +1,14 @@
 auxiliary_protein: 'BRIL'
-construct: 4rwa
-distance: -1.2
+construct: 6tp2
+distance: -0.83
 ligand:
--   chain: G
-    name: PRD
+-   chain: D
+    name: PEP
     pubchemId: None
-    role: Antagonist
-    title: DIPP-NH2
+    role: Agonist
+    title: KGCHM07
     type: Peptide
-pdb: 4RWA
+pdb: 6TP2
 preferred_chain: A
 signaling_protein: None
 state: Inactive

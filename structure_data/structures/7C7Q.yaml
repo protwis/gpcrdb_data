@@ -1,0 +1,19 @@
+auxiliary_protein: ''
+construct: 7c7q
+distance: 2.29
+ligand:
+-   name: FN0
+    pubchemId: 7023848
+    role: PAM
+    title: BHFF
+    type: Small molecule
+-   name: 2C0
+    pubchemId: 44602
+    role: Agonist
+    title: Baclofen
+    type: Small molecule
+pdb: 7C7Q
+preferred_chain: B
+representative: true
+signaling_protein: None
+state: Active
