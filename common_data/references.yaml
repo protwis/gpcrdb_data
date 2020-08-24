@@ -374,7 +374,7 @@ http://files.gpcrdb.org/GPCR-Gprotein_Mutations.xlsx:
     Default: 0
     Journal: Nature
     Menu: G Proteins
-    Page: GPCR - G protein interface mutations
+    Page: GPCR-G protein interface mutations
     Section: Mutations (interface)
     Title: "Selectivity determinants of GPCR\u2013G-protein binding"
     Video: ''
@@ -445,7 +445,7 @@ https://gpcrdb.org/structure/complex_models:
     Default: 0
     Journal: ''
     Menu: G Proteins
-    Page: GPCR - G protein structure models
+    Page: GPCR-G protein structure models
     Section: Structures
     Title: coming publication
     Video: ''
@@ -455,7 +455,7 @@ https://gpcrdb.org/signprot/matrix:
     Default: 0
     Journal: ''
     Menu: G Proteins
-    Page: GPCR - G protein interactions
+    Page: GPCR-G protein interactions
     Section: Structure sites (interface)
     Title: coming publication
     Video: ''
