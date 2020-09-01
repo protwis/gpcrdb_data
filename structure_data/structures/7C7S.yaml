@@ -1,0 +1,14 @@
+auxiliary_protein: ''
+construct: 7c7s
+distance: 2.13
+ligand:
+    name: 2BV
+    pubchemId: 197584
+    role: Antagonist
+    title: CGP54626
+    type: Small molecule
+pdb: 7C7S
+preferred_chain: B
+representative: true
+signaling_protein: None
+state: Inactive

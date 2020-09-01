@@ -64,6 +64,30 @@
     prot: GNAT1
     category: G alpha
     length: 11
+6PEL:
+    note: Only H5
+    chain: B
+    prot: GNAT1
+    category: G alpha
+    length: 11
+6PGS:
+    note: Only H5
+    chain: B
+    prot: GNAT1
+    category: G alpha
+    length: 11
+6PH7:
+    note: Only H5
+    chain: B
+    prot: GNAT1
+    category: G alpha
+    length: 11
+6NWE:
+    note: Only H5
+    chain: B
+    prot: GNAT1
+    category: G alpha
+    length: 11
 6LI3:
     note: Mini-Gs
 5W0P:
@@ -90,8 +114,20 @@
     prot: arrs_mouse
     category: Arrestin
     length: 11
+6U1N:
+    note:
+    chain: C
+    prot: arrb1_rat
+    category: Arrestin
+    length: 401
+6PWC:
+    note:
+    chain: A
+    prot: arrb1_human
+    category: Arrestin
+    length: 393
 6UP7:
-    note: Truncated
+    note:
     chain: B
     prot: arrb1_human
     category: Arrestin
@@ -184,5 +220,11 @@
     note: Antibody
     chain: B
     category: Antibody
-
-
+6TKO:
+    note:
+    chain: B
+    prot: arrb1_human
+    category: Arrestin
+    length: 328
+6PB0:
+    note: Gs-Gi1 chimera

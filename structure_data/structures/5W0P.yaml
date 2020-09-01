@@ -1,4 +1,4 @@
-auxiliary_protein: 'Endolysin'
+auxiliary_protein: 'T4-Lysozyme'
 construct: 5w0p
 distance: 8.63
 endogenous_ligand:
@@ -6,10 +6,10 @@ endogenous_ligand:
     name: RET
     type: Small molecule
 ligand:
--   name: None
+-   name: APO
     pubchemId: None
-    role: '.nan'
-    title: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
     type: None
 pdb: 5W0P
 preferred_chain: D

@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody 35'
+construct: 7bz2
+distance: 9.97
+ligand:
+    name: H98
+    pubchemId: 3083544
+    role: Agonist
+    title: Formoterol
+    type: Small molecule
+pdb: 7BZ2
+preferred_chain: R
+signaling_protein: Gs
+state: Active

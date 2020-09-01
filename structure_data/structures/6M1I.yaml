@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 6m1i
+distance: 6.87
+ligand:
+    chain: B
+    name: PEP
+    pubchemId: 44566111
+    role: Agonist
+    title: PACAP
+    type: Peptide
+pdb: 6M1I
+preferred_chain: A
+signaling_protein: Gs
+state: Active

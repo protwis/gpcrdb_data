@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6ph7
+distance: 8.16
+ligand:
+    name: NZZ
+    pubchemId: 643820
+    role: unknown
+    title: Nerol
+    type: Small molecule
+pdb: 6PH7
+preferred_chain: A
+signaling_protein: Gt1
+state: Active

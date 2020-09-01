@@ -1,0 +1,20 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 6vcb
+distance: 6.89
+ligand:
+    chain: P
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: Glucagon-like peptide 1
+    type: Peptide
+ligand:
+    name: QW7
+    pubchemId: 146155955
+    role: PAM
+    title: LSN3160440
+    type: Small molecule
+pdb: 6VCB
+preferred_chain: R
+signaling_protein: Gs
+state: Active

@@ -3,7 +3,7 @@ construct: 4z36
 distance: -1.22
 ligand:
 -   name: ON3
-    pubchemId: 11785732
+    pubchemId: 91799238
     role: Antagonist
     title: ONO-3080573
     type: Small molecule

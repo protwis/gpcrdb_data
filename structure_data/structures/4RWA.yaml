@@ -1,4 +1,4 @@
-auxiliary_protein: BRIL
+auxiliary_protein: 'BRIL'
 construct: 4rwa
 distance: -1.2
 ligand:
@@ -7,7 +7,7 @@ ligand:
     pubchemId: None
     role: Antagonist
     title: DIPP-NH2
-    type: Peptide-like
+    type: Peptide
 pdb: 4RWA
 preferred_chain: A
 signaling_protein: None

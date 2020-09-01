@@ -4,7 +4,7 @@ distance: -4.31
 ligand:
     name: None
     pubchemId: None
-    role: '.nan'
+    role: None (apo)
     title: None
     type: None
 pdb: 6BD4

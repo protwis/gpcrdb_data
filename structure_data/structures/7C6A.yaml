@@ -1,0 +1,14 @@
+auxiliary_protein: 'BRIL, IgG heavy chain, IgG light chain'
+construct: 7c6a
+distance: 7.78
+ligand:
+    chain: B
+    name: PEP
+    pubchemId: 10079601
+    role: Agonist
+    title: (Sar1, Ile8)-Angiotensin II
+    type: Peptide
+pdb: 7C6A
+preferred_chain: A
+signaling_protein: None
+state: Active

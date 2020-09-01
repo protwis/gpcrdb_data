@@ -1,11 +1,11 @@
-auxiliary_protein: 'Endolysin, Camelid Antibody Fragment'
+auxiliary_protein: 'T4-Lysozyme, Camelid Antibody Fragment'
 construct: 6n48
 distance: 9.49
 ligand:
 -   name: P0G
     pubchemId: 49837874
     role: Agonist
-    title: BI167107
+    title: BI-167107
     type: Small molecule
 pdb: 6N48
 preferred_chain: A

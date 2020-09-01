@@ -1,0 +1,13 @@
+auxiliary_protein: BRIL
+construct: 6iql
+distance: -0.93
+ligand:
+-   name: L74
+    pubchemId: 5311200
+    role: Antagonist
+    title: L745870
+    type: Small molecule
+pdb: 6IQL
+preferred_chain: A
+signaling_protein: None
+state: Inactive

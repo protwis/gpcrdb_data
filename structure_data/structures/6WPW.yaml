@@ -1,0 +1,15 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 6wpw
+distance: 6.82
+ligand:
+    chain: P
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: Glucagon derivative ZP3780
+    type: Peptide
+pdb: 6WPW
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active

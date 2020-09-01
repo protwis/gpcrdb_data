@@ -1,13 +1,13 @@
-auxiliary_protein: 'ILENLKDVGLF peptide CT2'
+auxiliary_protein: ''
 construct: 6nwe
 distance: 8.36
 ligand:
     name: BOG
     pubchemId: 62852
-    role: '.nan'
+    role: unknown
     title: B-Octylglucoside
     type: Small molecule
 pdb: 6NWE
 preferred_chain: A
-signaling_protein: None
+signaling_protein: Gt1
 state: Active

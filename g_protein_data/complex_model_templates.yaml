@@ -71,6 +71,14 @@ gnas2_human:
     gamma:
         chain: G
         protein: gbg2_human
+-   pdb: 6PB0
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
 -   pdb: 6PB1
     alpha: A
     beta:
@@ -127,6 +135,62 @@ gnas2_human:
     gamma:
         chain: G
         protein: gbg2_bovin
+-   pdb: 6VCB
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6WHC
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: C
+        protein: gbg2_human
+-   pdb: 6WPW
+    alpha: C
+    beta:
+        chain: D
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6WI9
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6WZG
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6M1H
+    alpha: F
+    beta:
+        chain: E
+        protein: gbb1_human
+    gamma:
+        chain: D
+        protein: gbg2_human
+-   pdb: 6M1I
+    alpha: F
+    beta:
+        chain: E
+        protein: gbb1_human
+    gamma:
+        chain: D
+        protein: gbg2_human
 gnas2_bovin:
 -   pdb: 3SN6
     alpha: A
@@ -265,6 +329,22 @@ gnai1_human:
     gamma:
         chain: C
         protein: gbg2_human
+-   pdb: 6K42
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_mouse
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6VMS
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: C
+        protein: gbg2_human
 gnai2_human:
 -   pdb: 6D9H
     alpha: A
@@ -299,6 +379,22 @@ gnao_human:
     gamma:
         chain: G
         protein: gbg2_human
+-   pdb: 6K41
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_mouse
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6WWZ
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_rat
+    gamma:
+        chain: Y
+        protein: gbg2_mouse
 gnat1_bovin:
 -   pdb: 6OY9
     alpha: A

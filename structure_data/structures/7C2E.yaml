@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7c2e
+distance: 6.89
+ligand:
+    name: FFR
+    pubchemId: 149050799
+    role: Agonist
+    title: 2-[[4-[6-[(4-cyano-2-fluoranyl-phenyl)methoxy]pyridin-2-yl]-3,6-dihydro-2~{H}-pyridin-1-yl]methyl]-3-[[(2~{S})-oxetan-2-yl]methyl]imidazo[4,5-b]pyridine-5-carboxylic acid
+    type: Small molecule
+pdb: 7C2E
+preferred_chain: R
+signaling_protein: Gs
+state: Active

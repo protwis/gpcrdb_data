@@ -1,0 +1,13 @@
+auxiliary_protein: 'GlgA glycogen synthase'
+construct: 6v9s
+distance: -0.91
+ligand:
+    name: JHC
+    pubchemId: 146675152
+    role: Antagonist
+    title: JH112
+    type: Small molecule
+pdb: 6V9S
+preferred_chain: A
+signaling_protein: None
+state: Inactive

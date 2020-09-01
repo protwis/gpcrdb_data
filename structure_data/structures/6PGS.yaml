@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6pgs
+distance: 8.04
+ligand:
+    name: 64Z
+    pubchemId: 637566
+    role: unknown
+    title: Geraniol
+    type: Small molecule
+pdb: 6PGS
+preferred_chain: A
+signaling_protein: Gt1
+state: Active

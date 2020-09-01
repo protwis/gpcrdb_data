@@ -5,7 +5,7 @@ ligand:
     name: KAZ
     pubchemId: 138811017
     role: Antagonist
-    title: 2-[2-[[3-[4-[(4-methylpiperazin-1-yl)methyl]phenyl]phenyl]carbonylamino]phenyl]ethanoic acid
+    title: NF-56-EJ40
     type: Small molecule
 pdb: 6RNK
 preferred_chain: A

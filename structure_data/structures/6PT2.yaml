@@ -1,0 +1,15 @@
+auxiliary_protein: 'BRIL'
+construct: 6pt2
+distance: 6.60
+ligand:
+-   chain: D
+    name: PEP
+    pubchemId: None
+    role: Agonist
+    title: KGCHM07
+    type: Peptide
+pdb: 6PT2
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Intermediate

@@ -6,10 +6,11 @@ endogenous_ligand:
     name: RET
     type: Small molecule
 ligand:
--   name: None
-    pubchemId: None
-    role: .nan
-    type: None
+    name: BOG
+    pubchemId: 62852
+    role: unknown
+    title: B-Octylglucoside
+    type: Small molecule
 pdb: 4J4Q
 preferred_chain: A
 signaling_protein: Gt

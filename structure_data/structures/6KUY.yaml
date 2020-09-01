@@ -1,0 +1,13 @@
+auxiliary_protein: 'BRIL'
+construct: 6kuy
+distance: -1.07
+ligand:
+-   name: E39
+    pubchemId: 145704643
+    role: Agonist (partial)
+    title: (2~{S})-4-fluoranyl-2-(1~{H}-imidazol-5-yl)-1-propan-2-yl-2,3-dihydroindole
+    type: Small molecule
+pdb: 6KUY
+preferred_chain: A
+signaling_protein: None
+state: Inactive

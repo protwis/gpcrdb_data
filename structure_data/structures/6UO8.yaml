@@ -1,0 +1,18 @@
+auxiliary_protein: ''
+construct: 6uo8
+distance: 2.22
+ligand:
+-   name: QD7
+    pubchemId: 28559746
+    role: Agonist
+    title: (R)-(3-aminopropyl)methylphosphinic acid
+    type: Small molecule
+-   name: QDA
+    pubchemId: 6604928
+    role: PAM
+    title: N~4~,N~6~-dicyclopentyl-2-(methylsulfanyl)-5-nitropyrimidine-4,6-diamine
+    type: Small molecule
+pdb: 6UO8
+preferred_chain: B
+signaling_protein: None
+state: Active

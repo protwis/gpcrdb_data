@@ -7,7 +7,7 @@ endogenous_ligand:
     type: Lipid
 ligand:
 -   name: ON9
-    pubchemId: 11785732
+    pubchemId: 91799237
     role: Antagonist
     title: ONO-9910539
     type: Small molecule
