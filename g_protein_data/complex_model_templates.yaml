@@ -71,6 +71,14 @@ gnas2_human:
     gamma:
         chain: G
         protein: gbg2_human
+-   pdb: 6PB0
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
 -   pdb: 6PB1
     alpha: A
     beta:

@@ -2,10 +2,10 @@ auxiliary_protein: 'Nanobody-35'
 construct: 6li3
 distance: 3.86
 ligand:
-    name: None
+    name: APO
     pubchemId: None
-    role: '.nan'
-    title: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
     type: None
 pdb: 6LI3
 preferred_chain: R

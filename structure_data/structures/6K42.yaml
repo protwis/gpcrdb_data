@@ -1,6 +1,6 @@
 auxiliary_protein: 'T4-Lysozyme, scFv'
 construct: 6k42
-distance: -1.07
+distance: 9.98
 ligand:
 -   name: CZX
     pubchemId: 5311068

@@ -1,6 +1,6 @@
 auxiliary_protein: 'BRIL, Fab7881 heavy chain, Fab7881 light chain'
 construct: 6ko5
-distance: 0.00
+distance: -1.23
 ligand:
     name: 8QX
     pubchemId: 57400002
