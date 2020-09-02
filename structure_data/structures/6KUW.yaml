@@ -1,6 +1,6 @@
 auxiliary_protein: 'GlgA glycogen synthase'
 construct: 6kuw
-distance: 0.00
+distance: -1.28
 ligand:
     name: E33
     pubchemId: 57213234

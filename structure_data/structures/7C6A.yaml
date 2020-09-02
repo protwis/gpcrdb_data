@@ -1,6 +1,6 @@
 auxiliary_protein: 'BRIL, IgG heavy chain, IgG light chain'
 construct: 7c6a
-distance: 7.78
+distance: 7.97
 ligand:
     chain: B
     name: PEP
