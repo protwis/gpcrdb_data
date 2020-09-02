@@ -1,6 +1,6 @@
 auxiliary_protein: 'Nanobody-35'
 construct: 7c2e
-distance: 6.89
+distance: 5.80
 ligand:
     name: FFR
     pubchemId: 149050799

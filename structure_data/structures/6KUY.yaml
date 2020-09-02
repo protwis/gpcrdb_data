@@ -1,6 +1,6 @@
 auxiliary_protein: 'BRIL'
 construct: 6kuy
-distance: -1.07
+distance: -0.25
 ligand:
 -   name: E39
     pubchemId: 145704643

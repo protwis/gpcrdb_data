@@ -1,6 +1,6 @@
 auxiliary_protein: BRIL
 construct: 6iql
-distance: -0.93
+distance: 2.21
 ligand:
 -   name: L74
     pubchemId: 5311200

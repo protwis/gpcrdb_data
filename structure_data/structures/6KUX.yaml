@@ -1,6 +1,6 @@
 auxiliary_protein: 'BRIL'
 construct: 6kux
-distance: -1.07
+distance: -0.96
 ligand:
 -   name: E3F
     pubchemId: 9908992

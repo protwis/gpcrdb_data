@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 6orv
+distance: 7.55
+ligand:
+    name: NV2
+    pubchemId: 58327143
+    role: Agonist
+    title: TT-OAD2
+    type: Small molecule
+pdb: 6ORV
+preferred_chain: E
+signaling_protein: Gs
+state: Active

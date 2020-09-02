@@ -1,6 +1,6 @@
 auxiliary_protein: 'Nanobody 35'
 construct: 6p9x
-distance: 6.06
+distance: 6.46
 ligand:
     chain: P
     name: PEP

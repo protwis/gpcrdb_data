@@ -1,6 +1,6 @@
 auxiliary_protein: 'Nanobody 35'
 construct: 7bz2
-distance: 9.97
+distance: 9.05
 ligand:
     name: H98
     pubchemId: 3083544
