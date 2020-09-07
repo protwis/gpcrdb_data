@@ -79,4 +79,4 @@ The documentation is organized into four sections:
     legal_notice
     meetings
     linking
-    external_servers
+    external_sites

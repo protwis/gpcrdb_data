@@ -4,14 +4,14 @@ Citing GPCRdb
 If you use GPCRdb in your work, please cite one or more of the following:
 
 Main reference for GPCRdb 
---------------------------------------------------------
+-------------------------
 *   Pándy-Szekeres G, Munk C, Tsonkov TM, Mordalski S, Harpsøe K, Hauser AS, Bojarski AJ, Gloriam DE. GPCRdb in 2018: adding GPCR structure models and ligands. 
     **2017**, *Nucleic Acids Res.*, Nov 16. `10.1093/nar/gkx1109`_
 
 .. _10.1093/nar/gkx1109: https://dx.doi.org/10.1093/nar/gkx1109
 
 Introduction to new users (review)
---------------------------------------------------------
+----------------------------------
 
 *   Munk, C., Isberg, V., Mordalski, S., Harpsøe, K., Rataj, K., Hauser, A. S., Kolb, P., Bojarski, A. J., Vriend, G.
     , and Gloriam, D. E. GPCRdb: the G protein-coupled receptor database – an introduction. **2016**, *Br J Pharmacol*,
@@ -32,19 +32,19 @@ Structure-based alignments and generic residue numbering
 .. _10.3390/ijms15057841: https://dx.doi.org/10.3390/ijms15057841
 
 GPCR drugs and targets
------------------------------------------------------
+----------------------
 *  Hauser, A. S., Misty, A, Mathias, R., Schiöth, H. B., Gloriam, D. E., "Trends in GPCR drug discovery: new agents, targets and indications", **2017**, *Nature Reviews Drug Discovery*, *in print*, `10.1038/nrd.2017.178`_
 
 .. _10.1038/nrd.2017.178: https://dx.doi.org/10.1038/nrd.2017.178
 
 GPCR-G protein selectivity
------------------------------------------------------
+--------------------------
 *   Flock, T., Hauser, A. S., Lund, N., Gloriam, D. E., Balaji, S., & Babu, M. M., "Selectivity determinants of GPCR–G-protein binding.", **2017**, *Nature*, May 18;545(7654):317-322 `10.1038/nature22070`_
 
 .. _10.1038/nature22070: https://dx.doi.org/10.1038/nature22070
 
 Mutation design tool
------------------------------------------------------
+--------------------
 
 *   C Munk, K Harpsøe, A Hauser, V Isberg, DE Gloriam, "Integrating structural and mutagenesis data to elucidate GPCR ligand binding", 2016, Curr Opin Pharcol, 30, 51–58. `10.1016/j.coph.2016.07.003`_
 
