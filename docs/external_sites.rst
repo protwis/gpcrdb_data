@@ -1,5 +1,8 @@
-External GPCR servers
-=====================
+External GPCR sites
+===================
+
+Modeling servers
+================
 
 `GPCRM`_
 --------
@@ -48,3 +51,17 @@ dynamic information for a given receptor. Here, you can generate a homology-base
 and/or further equilibrate your GPCR structure with our all-atom Molecular Dynamics simulation protocol.
 
 .. _GPCR-ModSim: http://gpcr-modsim.org/
+
+
+Others
+======
+
+`Guide to Pharmacology`_
+------------------------
+
+Founded in 1959 as a section of the International Union of Physiological Sciences, the International Union of Basic and
+Clinical Pharmacology (IUPHAR) has been independent since 1966. IUPHAR is a member of the International Council for
+Science (ICSU) and participates in the work of its scientific committees. It receives international recognition,
+particularly by the United Nations Educational, Scientific and Cultural Organization (UNESCO).
+
+.. _Guide to Pharmacology: https://www.guidetopharmacology.org/
