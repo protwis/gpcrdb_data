@@ -6,7 +6,7 @@ ligand:
     pubchemId: 52924645
     role: NAM
     title: (2R)-3-{[(S)-(2-aminoethoxy)(hydroxy)phosphoryl]oxy}-2-{[(9Z)-octadec-9-enoyl]oxy}propyl(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoate
-    type: None
+    type: Small molecule
 -   name: U3D
     pubchemId: 52923113
     role: NAM

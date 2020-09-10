@@ -149,26 +149,6 @@ https://gpcrdb.org/structure/generic_numbering_index:
         \ the gaps"
     Video: ''
     Year: 2015.0
-http://gpcrdb.org/structure_comparison/comparative_analysis:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Receptors
-    Page: Comparative structure analysis
-    Section: Structure comparison
-    Title: ''
-    Video: ''
-    Year: ''
-http://gpcrdb.org/structure_comparison/structure_clustering:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Receptors
-    Page: Structure similarity tree
-    Section: Structure comparison
-    Title: ''
-    Video: ''
-    Year: ''
 https://gpcrdb.org/mutational_landscape/statistics:
     DOI: 10.1016/J.CELL.2017.11.033
     Default: 0
@@ -299,7 +279,7 @@ https://gpcrdb.org/alignment/arrestinselection:
     Title: coming publication
     Video: ''
     Year: ''
-https://gpcrdb.org/signprot/arrestin_structure_browser:
+https://gpcrdb.org/structure:
     DOI: ''
     Default: 0
     Journal: ''
