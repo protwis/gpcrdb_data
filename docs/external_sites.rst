@@ -65,3 +65,14 @@ Science (ICSU) and participates in the work of its scientific committees. It rec
 particularly by the United Nations Educational, Scientific and Cultural Organization (UNESCO).
 
 .. _Guide to Pharmacology: https://www.guidetopharmacology.org/
+
+`DrGPCR`_
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Dr. GPCR Ecosystem is a website aiming to connect the general GPCR community through various initiatives such as
+Cafe and Connect events to promote networking, product and reagent knowledge sharing, as well as talking science
+and business. Similarly, the GPCR Club on LinkedIn and the very first Podcast dedicated to GPCRs are meant to share
+information, learn the latest and greatest on GPCR research. Dr. GPCR also seeks to connect GPCR Consultants with clients
+and generate cohesion in the international GPCR community at large.
+
+.. _DrGPCR: https://www.drgpcr.com/
