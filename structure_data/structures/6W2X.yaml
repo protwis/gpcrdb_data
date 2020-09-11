@@ -2,15 +2,15 @@ auxiliary_protein: ''
 construct: 6w2x
 distance: 1.49
 ligand:
--   name: L9Q
-    pubchemId: 23727970
-    role: NAM
-    title: 1-Stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine
-    type: Small molecule
 -   name: SGG
     pubchemId: 5311042
     role: Inverse agonist
     title: CGP55845
+    type: Small molecule
+-   name: L9Q
+    pubchemId: 23727970
+    role: NAM
+    title: 1-Stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine
     type: Small molecule
 pdb: 6W2X
 preferred_chain: B
