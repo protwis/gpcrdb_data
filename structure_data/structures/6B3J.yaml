@@ -9,6 +9,5 @@ ligand:
     type: Peptide
 pdb: 6B3J
 preferred_chain: R
-representative: true
 signaling_protein: Gs
 state: Active

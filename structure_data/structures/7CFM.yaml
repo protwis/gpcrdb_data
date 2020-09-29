@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7cfm
+distance: 9.85
+ligand:
+    name: FWX
+    pubchemId: 71541719
+    role: Agonist
+    title: P395
+    type: None
+pdb: 7CFM
+preferred_chain: R
+signaling_protein: Gs
+state: Active

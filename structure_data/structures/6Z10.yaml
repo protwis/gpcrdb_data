@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-6'
+construct: 6z10
+distance: 8.41
+ligand:
+-   name: Q4T
+    pubchemId: 154585554
+    role: Antagonist
+    title: 2-[2-[[3-[4-chloranyl-2-fluoranyl-5-[(3~{R})-piperidin-3-yl]oxy-phenyl]-2-fluoranyl-phenyl]carbonylamino]-5-fluoranyl-phenyl]ethanoic
+        acid
+    type: Small molecule
+pdb: 6Z10
+preferred_chain: A
+signaling_protein: None
+state: Active

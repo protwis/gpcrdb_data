@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 6lfm
+distance: 8.38
+ligand:
+    chain: D
+    name: PEP
+    pubchemId: 44357137
+    role: Agonist
+    title: Interleukin-8
+    type: Protein
+pdb: 6LFM
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

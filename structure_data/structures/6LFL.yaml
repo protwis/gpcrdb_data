@@ -1,0 +1,14 @@
+auxiliary_protein: 'GIgA glycogen synthase'
+construct: 6lfl
+distance: -1.81
+ligand:
+    name: EBX
+    pubchemId: 153466996
+    role: NAM
+    title: 4-[[3,4-Dioxo-2-[[(1R)-1-(4-propan-2-ylfuran-2-yl)propyl]amino]cyclobuten-1-yl]amino]-3-hydroxy-N,N-dimethylpyridine-2-carboxamide
+    type: Small molecule
+pdb: 6LFL
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

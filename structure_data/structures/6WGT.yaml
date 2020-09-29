@@ -1,0 +1,13 @@
+auxiliary_protein: 'BRIL'
+construct: 6wgt
+distance: -1.31
+ligand:
+-   name: 7LD
+    pubchemId: 5761
+    role: Agonist
+    title: Lysergide
+    type: Small molecule
+pdb: 6WGT
+preferred_chain: B
+signaling_protein: None
+state: Inactive

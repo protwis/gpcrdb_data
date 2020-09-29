@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 6x19
+distance: 7.14
+ligand:
+    name: UK1
+    pubchemId: 154584718
+    role: Agonist
+    title: CHU-128
+    type: Small molecule
+pdb: 6X19
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active
