@@ -5,7 +5,7 @@ ligand:
 -   name: P32
     pubchemId: 46937143
     role: Agonist
-    title: 4-{[(2S)-3-(tert-butylamino)-2-hydroxypropyl]oxy}-3H-indole-2-carbonitrile
+    title: (S)-Cyanopindolol
     type: Small molecule
 pdb: 6H7O
 preferred_chain: A

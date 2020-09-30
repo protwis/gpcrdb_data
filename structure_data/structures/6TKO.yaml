@@ -5,7 +5,7 @@ ligand:
     name: H98
     pubchemId: 3083544
     role: Agonist
-    title: Arformoterol
+    title: Formoterol
     type: Small molecule
 pdb: 6TKO
 preferred_chain: A

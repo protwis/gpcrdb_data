@@ -8,6 +8,6 @@ state: Inactive
 ligand:
     name: CAU
     pubchemId: '13023332'
-    role: Inverse agonist (partial)
+    role: Inverse agonist
     title: (S)-Carazolol
     type: Small molecule

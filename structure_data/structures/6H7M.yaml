@@ -5,7 +5,7 @@ ligand:
 -   name: 68H
     pubchemId: 123600
     role: Agonist
-    title: SALBUTAMOL
+    title: Salbutamol
     type: Small molecule
 pdb: 6H7M
 preferred_chain: A

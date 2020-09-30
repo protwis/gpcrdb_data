@@ -5,7 +5,7 @@ ligand:
     name: P0G
     pubchemId: 49837874
     role: Agonist
-    title: 5-Hydroxy-8-[(1R)-1-hydroxy-2-[[2-methyl-1-(2-methylphenyl)propan-2-yl]amino]ethyl]-4H-1,4-benzoxazin-3-one
+    title: BI-167107
     type: Small molecule
 pdb: 6NI3
 preferred_chain: R
