@@ -5,6 +5,7 @@ ligand:
 -   name: ML5
     pubchemId: '6857802'
     role: Antagonist
+    title: (R)-3-Amino-4-(3-hexylphenylamino)-4-oxobutylphosphonic acid
     type: Small molecule
 pdb: 3V2W
 preferred_chain: A

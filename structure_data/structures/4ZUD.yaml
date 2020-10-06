@@ -5,6 +5,7 @@ ligand:
 -   name: OLM
     pubmedId: 158781
     role: Inverse agonist
+    title: Olmesartan
     type: Small molecule
 pdb: 4ZUD
 preferred_chain: A

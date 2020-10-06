@@ -5,6 +5,7 @@ ligand:
 -   name: 6DZ
     pubchemId: '121225598'
     role: Agonist
+    title: Q27456347
     type: Small molecule
 pdb: 5IU8
 preferred_chain: A

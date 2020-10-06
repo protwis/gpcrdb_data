@@ -5,6 +5,7 @@ ligand:
 -   name: NGI
     pubchemId: '3086599'
     role: Agonist
+    title: CGS-21680
     type: Small molecule
 pdb: 4UG2
 preferred_chain: B

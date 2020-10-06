@@ -1,9 +1,9 @@
-auxiliary_protein: 'BRIL, Heavy chain of 4A03Fab, Light chain of 4A03Fab'
+auxiliary_protein: BRIL, Heavy chain of 4A03Fab, Light chain of 4A03Fab
 construct: 6jod
 distance: 7.78
 ligand:
     chain: B
-    name: PEP
+    name: pep
     pubchemId: 172198
     role: Agonist
     title: Angiotensin II

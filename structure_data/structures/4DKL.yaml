@@ -1,29 +1,11 @@
 auxiliary_protein: T4-Lysozyme
 construct: 4dkl
 distance: -1.44
-endogenous_ligand:
--   iupharId: 1643
-    name: endorphin
-    type: Peptide
--   iupharId: 1620
-    name: dynorphin A
-    type: Peptide
--   iupharId: 1622
-    name: dynorphin B
-    type: Peptide
--   iupharId: 1623
-    name: endomorphin-1
-    type: Peptide
--   iupharId: 1613
-    name: leo-enkephalin
-    type: Peptide
--   iupharId: 1614
-    name: met-enkephalin
-    type: Peptide
 ligand:
 -   name: BF0
-    pubchemId: None
+    pubchemId: 137348997
     role: Antagonist
+    title: Methyl 4-[[(4R,4aS,7R,7aR,12bS)-3-(cyclopropylmethyl)-4a,9-dihydroxy-1,2,4,5,6,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl]amino]-4-oxobutanoate
     type: Small molecule
 pdb: 4DKL
 preferred_chain: A

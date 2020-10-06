@@ -2,10 +2,10 @@ auxiliary_protein: None
 construct: 3zev
 distance: 0.45
 ligand:
--   Title: NTS
+-   title: Neurotensin
     chain: C
-    name: neurotensin
-    pubchemId: '44363934'
+    name: pep
+    pubchemId: 25077406
     role: Agonist
     type: Peptide
 pdb: 3ZEV

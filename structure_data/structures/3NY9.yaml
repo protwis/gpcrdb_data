@@ -5,6 +5,7 @@ ligand:
 -   name: JSZ
     pubchemId: '913103'
     role: Inverse agonist
+    title: Q27461782
     type: Small molecule
 pdb: 3NY9
 preferred_chain: A

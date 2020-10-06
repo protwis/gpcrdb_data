@@ -3,8 +3,9 @@ construct: 3uzc
 distance: -0.5
 ligand:
 -   name: T4E
-    pubchemId: None
+    pubchemId: 135566609
     role: Antagonist
+    title: 4-(3-amino-5-phenyl-1,2,4-triazin-6-yl)-2-chlorophenol
     type: Small molecule
 pdb: 3UZC
 preferred_chain: A

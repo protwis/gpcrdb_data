@@ -1,13 +1,11 @@
 auxiliary_protein: Flavodoxin
 construct: 5tgz
 distance: -0.85
-endogenous_ligand:
--   name: 2-arachidonoylglycerol
-    type: Endocannabinoid
 ligand:
 -   name: ZDG
     pubchemId: 46912833
     role: Antagonist
+    title: AM-6538
     type: Small molecule
 pdb: 5TGZ
 preferred_chain: A

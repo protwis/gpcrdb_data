@@ -5,6 +5,7 @@ ligand:
 -   name: 8EM
     pubchemId: '126456406'
     role: Antagonist
+    title: N-[(Furan-2-Yl)methyl]-N-(4-Oxo-2-Propyl-3-{[2'-(2h-Tetrazol-5-Yl)[1,1'-Biphenyl]-4-Yl]methyl}-3,4-Dihydroquinazolin-6-Yl)benzamide
     type: Small molecule
 pdb: 5UNH
 preferred_chain: B

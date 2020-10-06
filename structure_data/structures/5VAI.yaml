@@ -1,12 +1,9 @@
 auxiliary_protein: None
 construct: 5vai
 distance: 6.89
-endogenous_ligand:
--   iupharId: 5194
-    name: GLP-1
-    type: Peptide
 ligand:
--   name: GLP-1
+-   chain: P
+    name: pep
     pubchemId: 16135499
     role: Agonist
     title: GLP-1

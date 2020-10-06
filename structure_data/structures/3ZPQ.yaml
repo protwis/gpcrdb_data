@@ -5,6 +5,7 @@ ligand:
 -   name: XF5
     pubchemId: 594590
     role: Antagonist
+    title: 4-(1-Piperazinyl)-1H-indole
     type: Small molecule
 pdb: 3ZPQ
 preferred_chain: B

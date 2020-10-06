@@ -3,7 +3,7 @@ construct: 6fk9
 distance: 7.83
 ligand:
 -   name: DNK
-    pubchemId: None
+    pubchemId: 132473036
     role: Agonist
     title: (2~{S})-3-methyl-2-phenyl-1-spiro[1,3-benzodioxole-2,4'-piperidine]-1'-yl-butan-1-one
     type: Small molecule

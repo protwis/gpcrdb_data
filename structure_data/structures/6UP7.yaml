@@ -1,9 +1,9 @@
-auxiliary_protein: 'Unidentified peptide'
+auxiliary_protein: Unidentified peptide
 construct: 6up7
 distance: 7.96
 ligand:
     chain: C
-    name: PEP
+    name: pep
     pubchemId: None
     role: Agonist
     title: ARG-ARG-PRO-TYR-ILE-LEU

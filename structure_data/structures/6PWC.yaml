@@ -1,8 +1,9 @@
-auxiliary_protein: 'Fab30 heavy chain, Fab30 light chain'
+auxiliary_protein: Fab30 heavy chain, Fab30 light chain
 construct: 6pwc
 distance: 8.19
 ligand:
-    name: PEP
+    chain: B
+    name: pep
     pubchemId: 25078013
     role: Agonist
     title: Neurotensin

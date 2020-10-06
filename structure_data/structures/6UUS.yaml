@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody-35, RAMP3'
+auxiliary_protein: Nanobody-35, RAMP3
 construct: 6uus
 distance: 6.65
 ligand:
     chain: P
-    name: PEP
+    name: pep
     pubchemId: 56841671
     role: Agonist
     title: Adrenomedullin

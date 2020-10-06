@@ -3,7 +3,7 @@ construct: 6omm
 distance: 8.96
 ligand:
     chain: L
-    name: PEP
+    name: pep
     pubchemId: None
     role: Agonist
     title: WKYMVX

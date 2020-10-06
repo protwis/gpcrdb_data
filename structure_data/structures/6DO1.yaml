@@ -1,11 +1,12 @@
-auxiliary_protein: 'BRIL, Nanobody Nb.AT110i1'
+auxiliary_protein: BRIL, Nanobody Nb.AT110i1
 construct: 6do1
 distance: 8.03
 ligand:
-    name: PEP
-    pubchemId: None
+    chain: H
+    name: pep
+    pubchemId: 10079601
     role: Agonist
-    title: Angiotensin-like peptide S1I8
+    title: (Sar1,Ile8)-Angiotensin II
     type: Peptide
 pdb: 6DO1
 preferred_chain: A

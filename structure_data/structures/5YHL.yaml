@@ -3,7 +3,7 @@ construct: 5yhl
 distance: -0.94
 ligand:
     name: 8VL
-    pubchemId: None
+    pubchemId: 135121352
     role: Antagonist
     title: ONO-AE3-208-Br
     type: Small molecule

@@ -3,9 +3,10 @@ construct: 4xee
 distance: 6.49
 ligand:
 -   chain: B
-    name: NTS
-    pubchemId: '44363934'
+    name: pep
+    pubchemId: 25077406
     role: Agonist
+    title: Neurotensin
     type: Peptide
 pdb: 4XEE
 preferred_chain: A

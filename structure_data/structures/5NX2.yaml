@@ -2,7 +2,8 @@ auxiliary_protein: None
 construct: 5nx2
 distance: 4.86
 ligand:
--   name: PEP
+-   chain: B
+    name: pep
     pubchemId: None
     role: Agonist
     title: Truncated protein agonist

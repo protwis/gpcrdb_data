@@ -5,6 +5,7 @@ ligand:
 -   name: 8UN
     pubchemId: '126961335'
     role: Antagonist
+    title: AZ3451
     type: Small molecule
 pdb: 5NDZ
 preferred_chain: A

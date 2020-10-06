@@ -5,6 +5,7 @@ ligand:
 -   name: 6AT
     pubchemId: '5310983'
     role: Agonist (partial)
+    title: 5310983
     type: Small molecule
 pdb: 4PY0
 preferred_chain: A

@@ -1,14 +1,11 @@
 auxiliary_protein: T4-Lysozyme
 construct: 3v2y
 distance: -0.61
-endogenous_ligand:
--   iupharId: 911
-    name: Sphingosine-1-phosphate
-    type: Lipid
 ligand:
 -   name: ML5
     pubchemId: '6857802'
     role: Antagonist
+    title: (R)-3-Amino-4-(3-hexylphenylamino)-4-oxobutylphosphonic acid
     type: Small molecule
 pdb: 3V2Y
 preferred_chain: A

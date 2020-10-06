@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody 35'
+auxiliary_protein: Nanobody 35
 construct: 6p9x
 distance: 6.46
 ligand:
     chain: P
-    name: PEP
+    name: pep
     pubchemId: 70678714
     role: Agonist
     title: Corticoliberin

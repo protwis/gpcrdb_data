@@ -1,14 +1,11 @@
 auxiliary_protein: BRIL
 construct: 4pxz
 distance: 3.91
-endogenous_ligand:
--   iupharId: 1712
-    name: adenosine diphosphate
-    type: Small molecule
 ligand:
 -   name: 6AD
     pubchemId: '121990'
     role: Agonist
+    title: 2-MeSADP
     type: Small molecule
 pdb: 4PXZ
 preferred_chain: A

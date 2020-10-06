@@ -3,7 +3,7 @@ construct: 5olh
 distance: -0.7
 ligand:
     name: 9XT
-    pubchemId: None
+    pubchemId: 21874557
     role: Antagonist
     title: Vipadenant
     type: Small molecule

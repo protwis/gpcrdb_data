@@ -1,13 +1,9 @@
 auxiliary_protein: ''
 construct: 4xt3
 distance: 8.85
-endogenous_ligand:
--   iupharId: 856
-    name: CX3CL1
-    type: Peptide
 ligand:
 -   chain: B
-    name: PEP
+    name: pep
     pubchemId: None
     role: Inverse agonist
     title: Fractalkine

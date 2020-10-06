@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody-35, RAMP1'
+auxiliary_protein: Nanobody-35, RAMP1
 construct: 6e3y
 distance: 6.86
 ligand:
     chain: P
-    name: PEP
+    name: pep
     pubchemId: 56841902
     role: Agonist
     title: Calcitonin gene-related peptide 1

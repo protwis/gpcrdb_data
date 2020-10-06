@@ -1,9 +1,9 @@
-auxiliary_protein: 'scFv16'
+auxiliary_protein: scFv16
 construct: 6lfo
 distance: 7.78
 ligand:
     chain: D
-    name: PEP
+    name: pep
     pubchemId: 44357137
     role: Agonist
     title: Interleukin-8

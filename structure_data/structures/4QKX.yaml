@@ -5,6 +5,7 @@ ligand:
 -   name: 35V
     pubchemId: '76210628'
     role: Agonist
+    title: Q27453560
     type: Small molecule
 pdb: 4QKX
 preferred_chain: A

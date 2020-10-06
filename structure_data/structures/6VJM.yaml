@@ -2,7 +2,7 @@ auxiliary_protein: ''
 construct: 6vjm
 distance: 1.75
 ligand:
-    name: APO
+    name: apo
     pubchemId: None
     role: Apo (no ligand)
     title: Apo (no ligand)

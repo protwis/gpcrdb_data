@@ -3,7 +3,7 @@ construct: 6osa
 distance: 6.23
 ligand:
     chain: L
-    name: PEP
+    name: pep
     pubchemId: 164415
     role: Agonist
     title: JMV449

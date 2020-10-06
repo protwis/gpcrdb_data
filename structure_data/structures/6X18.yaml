@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody-35'
+auxiliary_protein: Nanobody-35
 construct: 6x18
 distance: 6.4
 ligand:
     chain: P
-    name: PEP
+    name: pep
     pubchemId: 16132283
     role: Agonist
     title: Glucagon

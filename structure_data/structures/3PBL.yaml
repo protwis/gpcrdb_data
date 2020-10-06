@@ -1,14 +1,11 @@
 auxiliary_protein: T4-Lysozyme
 construct: 3pbl
 distance: -0.43
-endogenous_ligand:
--   iupharId: 940
-    name: Dopamine
-    type: Small molecule
 ligand:
 -   name: ETQ
     pubchemId: '57267'
     role: Antagonist
+    title: Eticlopride
     type: Small molecule
 pdb: 3PBL
 preferred_chain: A

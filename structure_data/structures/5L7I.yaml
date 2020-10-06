@@ -1,13 +1,11 @@
 auxiliary_protein: BRIL
 construct: 5l7i
 distance: -2.33
-endogenous_ligand:
--   name: constitutive
-    type: Constitutive
 ligand:
 -   name: VIS
     pubchemId: 24776445
     role: Antagonist
+    title: Vismodegib
     type: Small molecule
 pdb: 5L7I
 preferred_chain: B

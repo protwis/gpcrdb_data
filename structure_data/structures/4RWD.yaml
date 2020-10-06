@@ -3,7 +3,7 @@ construct: 4rwd
 distance: -0.83
 ligand:
 -   chain: G
-    name: PRD
+    name: pep
     pubchemId: None
     role: Antagonist
     title: DIPP-NH2

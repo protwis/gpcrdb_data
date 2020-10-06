@@ -1,0 +1,13 @@
+auxiliary_protein: 'scFv16'
+construct: 6xbj
+distance: 5.6
+ligand:
+    name: CLR
+    pubchemId: 5997
+    role: Agonist
+    title: Cholesterol
+    type: Small molecule
+pdb: 6XBJ
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

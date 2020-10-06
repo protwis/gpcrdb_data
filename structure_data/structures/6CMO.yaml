@@ -1,8 +1,8 @@
-auxiliary_protein: 'BRIL, Fab'
+auxiliary_protein: BRIL, Fab
 construct: 6cmo
-distance: 9.40
+distance: 9.4
 ligand:
-    name: APO
+    name: apo
     pubchemId: None
     role: Apo (no ligand)
     title: Apo (no ligand)

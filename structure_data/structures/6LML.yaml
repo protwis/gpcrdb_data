@@ -1,9 +1,9 @@
-auxiliary_protein: 'scFv16'
+auxiliary_protein: scFv16
 construct: 6lml
 distance: 5.84
 ligand:
     chain: E
-    name: PEP
+    name: pep
     pubchemId: None
     role: Agonist
     title: Glucagon

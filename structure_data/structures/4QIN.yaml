@@ -3,7 +3,7 @@ construct: 4qin
 distance: -2.38
 ligand:
 -   name: SG8
-    pubchemdId: 44195701
+    pubchemId: 44195701
     role: Agonist
     title: SAG1.5
     type: Small molecule

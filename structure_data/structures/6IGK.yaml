@@ -1,9 +1,9 @@
-auxiliary_protein: 'T4-Lysozyme'
+auxiliary_protein: T4-Lysozyme
 construct: 6igk
 distance: 2.18
 ligand:
-    name: PEP
     chain: B
+    name: pep
     pubchemId: 16219334
     role: Agonist
     title: Endothelin-3

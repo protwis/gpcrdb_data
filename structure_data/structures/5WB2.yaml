@@ -2,7 +2,8 @@ auxiliary_protein: Nanobody
 construct: 5wb2
 distance: 8.86
 ligand:
--   name: CX3CL1
+-   chain: B
+    name: pep
     pubchemId: None
     role: Agonist
     title: CX3CL1

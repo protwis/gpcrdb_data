@@ -1,0 +1,19 @@
+auxiliary_protein: 'scFv16'
+construct: 6xbm
+distance: 5.7
+ligand:
+-   name: CO1
+    pubchemId: 3247059
+    role: Agonist
+    title: 24,25-Epoxy-cholesterol
+    type: Small molecule
+-   name: CO1
+    pubchemId: 3247059
+    role: PAM
+    title: 24,25-Epoxy-cholesterol
+    type: Small molecule
+pdb: 6XBM
+preferred_chain: R
+representative: true
+signaling_protein: Gi1
+state: Active

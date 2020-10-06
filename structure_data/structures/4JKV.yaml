@@ -1,13 +1,11 @@
 auxiliary_protein: BRIL
 construct: 4jkv
 distance: -2.2
-endogenous_ligand:
--   name: constitutive
-    type: Constitutive
 ligand:
 -   name: 1KS
     pubchemId: 49848070
     role: Antagonist
+    title: Taladegib
     type: Small molecule
 pdb: 4JKV
 preferred_chain: A

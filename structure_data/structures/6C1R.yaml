@@ -2,7 +2,8 @@ auxiliary_protein: BRIL
 construct: 6c1r
 distance: -1.37
 ligand:
--   name: PMX
+-   chain: L
+    name: pep
     pubchemId: 6918468
     role: Antagonist
     title: PMX53

@@ -1,15 +1,15 @@
-auxiliary_protein: 'GlgA glycogen synthase'
+auxiliary_protein: GlgA glycogen synthase
 construct: 6w25
 distance: 0.67
 ligand:
 -   chain: B
-    name: PEP
+    name: pep
     pubchemId: None
     role: Agonist
     title: SHU9119
     type: Peptide
 -   name: CA
-    pubchemId: None
+    pubchemId: 271
     role: PAM
     title: Calcium ion
     type: Ion

@@ -1,13 +1,9 @@
 auxiliary_protein: Nanobody
 construct: 4xt1
 distance: 9.02
-endogenous_ligand:
--   iupharId: 856
-    name: CX3CL1
-    type: Peptide
 ligand:
 -   chain: B
-    name: PEP
+    name: pep
     pubchemId: None
     role: Inverse agonist
     title: Fractalkine
