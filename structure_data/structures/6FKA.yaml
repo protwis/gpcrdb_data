@@ -3,7 +3,7 @@ construct: 6fka
 distance: 7.99
 ligand:
 -   name: DN5
-    pubchemId: None
+    pubchemId: 132473037
     role: Agonist
     title: (2~{S})-2-(3,4-dichlorophenyl)-3-methyl-1-spiro[1,3-benzodioxole-2,4'-piperidine]-1'-yl-butan-1-one
     type: Small molecule

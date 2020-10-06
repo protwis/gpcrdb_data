@@ -5,7 +5,7 @@ ligand:
 -   name: 5FW
     pubchemId: '443372'
     role: Agonist
-    title: Levisoprenaline
+    title: Isoprenaline
     type: Small molecule
 pdb: 2Y03
 preferred_chain: B

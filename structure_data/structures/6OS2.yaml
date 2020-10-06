@@ -1,9 +1,9 @@
-auxiliary_protein: 'BRIL, Nanobody Nb.AT110i1_le'
+auxiliary_protein: BRIL, Nanobody Nb.AT110i1_le
 construct: 6os2
 distance: 8.15
 ligand:
     chain: B
-    name: PEP
+    name: pep
     pubchemId: None
     role: Agonist
     title: TRV026

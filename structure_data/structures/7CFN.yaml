@@ -1,0 +1,19 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7cfn
+distance: 9.81
+ligand:
+-   name: FX0
+    pubchemId: 154584336
+    role: Agonist
+    title: INT-777
+    type: Small molecule
+-   name: FX0
+    pubchemId: 154584336
+    role: PAM
+    title: INT-777
+    type: Small molecule
+pdb: 7CFN
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active

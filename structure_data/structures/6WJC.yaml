@@ -1,4 +1,4 @@
-auxiliary_protein: 'T4-Lysozyme'
+auxiliary_protein: T4-Lysozyme
 construct: 6wjc
 distance: -1.07
 ligand:
@@ -8,7 +8,7 @@ ligand:
     title: Hyoscyamine
     type: Small molecule
 -   chain: C
-    name: PEP
+    name: pep
     pubchemId: None
     role: NAM
     title: Muscarinic toxin 7

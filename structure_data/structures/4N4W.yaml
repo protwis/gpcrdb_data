@@ -5,6 +5,7 @@ ligand:
 -   name: SNT
     pubchemId: 6878030
     role: Antagonist
+    title: Sant-1
     type: Small molecule
 pdb: 4N4W
 preferred_chain: A

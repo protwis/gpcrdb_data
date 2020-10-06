@@ -1,0 +1,13 @@
+auxiliary_protein: 'BRIL, Nanobody-35'
+construct: 7bw0
+distance: 10.23
+ligand:
+    name: None
+    pubchemId: None
+    role: Agonist
+    title: 23H
+    type: Small molecule
+pdb: 7BW0
+preferred_chain: R
+signaling_protein: Gs
+state: Active

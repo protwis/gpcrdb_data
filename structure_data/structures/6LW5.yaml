@@ -1,9 +1,9 @@
-auxiliary_protein: 'BRIL'
+auxiliary_protein: BRIL
 construct: 6lw5
 distance: 9.33
 ligand:
     chain: B
-    name: PEP
+    name: pep
     pubchemId: None
     role: Agonist
     title: WKYMVm

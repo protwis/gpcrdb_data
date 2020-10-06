@@ -3,9 +3,10 @@ construct: 4bv0
 distance: 0.95
 ligand:
 -   chain: C
-    name: NTS
-    pubchemId: '44363934'
+    name: pep
+    pubchemId: 25077406
     role: Agonist
+    title: Neurotensin
     type: Peptide
 pdb: 4BV0
 preferred_chain: A

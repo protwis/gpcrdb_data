@@ -3,8 +3,9 @@ construct: 5glh
 distance: -0.17
 ligand:
     chain: B
-    name: Endothelin-1
+    name: pep
     pubchemId: '44284481'
+    title: Endothelin-1
     role: Agonist
     type: Peptide
 pdb: 5GLH

@@ -5,6 +5,7 @@ ligand:
 -   name: 7DY
     pubchemId: 11226090
     role: Inverse agonist
+    title: Taranabant
     type: Small molecule
 pdb: 5U09
 preferred_chain: A

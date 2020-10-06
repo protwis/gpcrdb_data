@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody-35'
+auxiliary_protein: Nanobody-35
 construct: 6wi9
 distance: 5.83
 ligand:
     chain: P
-    name: PEP
+    name: pep
     pubchemId: 16158474
     role: Agonist
     title: Secretin

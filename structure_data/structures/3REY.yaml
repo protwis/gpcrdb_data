@@ -5,6 +5,7 @@ ligand:
 -   name: XAC
     pubchemId: '5697'
     role: Antagonist
+    title: Xanthine amine congener
     type: Small molecule
 pdb: 3REY
 preferred_chain: A

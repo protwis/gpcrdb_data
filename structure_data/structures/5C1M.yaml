@@ -1,29 +1,11 @@
 auxiliary_protein: Antibody
 construct: 5c1m
 distance: 10.99
-endogenous_ligand:
--   iupharId: 1643
-    name: endorphin
-    type: Peptide
--   iupharId: 1620
-    name: dynorphin A
-    type: Peptide
--   iupharId: 1622
-    name: dynorphin B
-    type: Peptide
--   iupharId: 1623
-    name: endomorphin-1
-    type: Peptide
--   iupharId: 1613
-    name: leo-enkephalin
-    type: Peptide
--   iupharId: 1614
-    name: met-enkephalin
-    type: Peptide
 ligand:
 -   name: 4VO
     pubchemId: 11487194
     role: Agonist
+    title: GTPL9363
     type: Small molecule
 pdb: 5C1M
 preferred_chain: A

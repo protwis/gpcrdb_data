@@ -1,8 +1,8 @@
-auxiliary_protein: 'Nanobody-35'
+auxiliary_protein: Nanobody-35
 construct: 6li3
 distance: 3.86
 ligand:
-    name: APO
+    name: apo
     pubchemId: None
     role: Apo (no ligand)
     title: Apo (no ligand)

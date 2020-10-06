@@ -5,6 +5,7 @@ ligand:
 -   name: CVD
     pubchemId: '185395'
     role: Inverse agonist
+    title: '(S)-Carvedilol'
     type: Small molecule
 pdb: 4AMJ
 preferred_chain: B

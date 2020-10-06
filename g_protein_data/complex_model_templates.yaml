@@ -207,6 +207,54 @@ gnas2_human:
     gamma:
         chain: G
         protein: gbg2_bovin
+-   pdb: 7BW0
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_rat
+    gamma:
+        chain: G
+        protein: gbg2_bovin
+-   pdb: 7CFM
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 7CFN
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6X1A
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6X18
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6X19
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
 gnas2_bovin:
 -   pdb: 3SN6
     alpha: A
@@ -361,6 +409,54 @@ gnai1_human:
     gamma:
         chain: C
         protein: gbg2_human
+-   pdb: 6LFO
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: C
+        protein: gbg2_human
+-   pdb: 6LFM
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: C
+        protein: gbg2_human
+-   pdb: 6XBK
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6XBJ
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6XBM
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
+-   pdb: 6XBL
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
 gnai2_human:
 -   pdb: 6D9H
     alpha: A
@@ -436,4 +532,13 @@ gna11_human:
         protein: gbb1_human
     gamma:
         chain: G
+        protein: gbg2_human
+gnaq_human:
+-   pdb: 6WHA
+    alpha: B
+    beta:
+        chain: C
+        protein: gbb1_human
+    gamma:
+        chain: D
         protein: gbg2_human

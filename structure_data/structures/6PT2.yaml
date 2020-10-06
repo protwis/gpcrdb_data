@@ -1,9 +1,9 @@
-auxiliary_protein: 'BRIL'
+auxiliary_protein: BRIL
 construct: 6pt2
-distance: 6.60
+distance: 6.6
 ligand:
 -   chain: D
-    name: PEP
+    name: pep
     pubchemId: None
     role: Agonist
     title: KGCHM07

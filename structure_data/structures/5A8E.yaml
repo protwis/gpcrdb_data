@@ -3,6 +3,7 @@ construct: 5a8e
 distance: -2.23
 ligand:
 -   name: XTK
+    pubchemId: 91885640
     role: Inverse agonist
     title: 7-methylcyanopindolol
     type: Small molecule

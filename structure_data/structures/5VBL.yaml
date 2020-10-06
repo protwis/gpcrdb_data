@@ -1,18 +1,12 @@
 auxiliary_protein: Rubredoxin
 construct: 5vbl
 distance: -0.37
-endogenous_ligand:
--   iupharId: 605
-    name: Apelin
-    type: Peptide
--   iupharId: 7930
-    name: Elabela
-    type: Peptide
 ligand:
 -   chain: A
-    name: AMG3054
+    name: pep
     pubchemId: None
     role: Agonist
+    title: AMG3054
     type: Peptide
 pdb: 5VBL
 preferred_chain: B

@@ -3,7 +3,7 @@ construct: 6fk8
 distance: 7.94
 ligand:
 -   name: DNZ
-    pubchemId: None
+    pubchemId: 132473035
     role: Agonist
     title: (2~{R},3~{S})-3-azanyl-2-(4-chlorophenyl)-1-spiro[1,3-benzodioxole-2,4'-piperidine]-1'-yl-butan-1-one
     type: Small molecule

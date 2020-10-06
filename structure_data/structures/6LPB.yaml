@@ -1,12 +1,12 @@
-auxiliary_protein: 'Nanobody 35'
+auxiliary_protein: Nanobody 35
 construct: 6lpb
 distance: 7.19
 ligand:
     chain: P
-    name: PEP
+    name: pep
     pubchemId: 44566111
     role: Agonist
-    title: Pituitary adenylate cyclase-activating polypeptide
+    title: PACAP
     type: Peptide
 pdb: 6LPB
 preferred_chain: R

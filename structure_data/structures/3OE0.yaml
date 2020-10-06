@@ -2,7 +2,9 @@ auxiliary_protein: T4-Lysozyme
 construct: 3oe0
 distance: -1.45
 ligand:
--   name: PRD
+-   chain: I
+    name: pep
+    pubchemId: None
     role: Antagonist
     title: CVX15
     type: Peptide

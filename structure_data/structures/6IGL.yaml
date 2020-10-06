@@ -1,9 +1,9 @@
-auxiliary_protein: 'T4-Lysozyme'
+auxiliary_protein: T4-Lysozyme
 construct: 6igl
 distance: 0.16
 ligand:
-    name: PEP
     chain: B
+    name: pep
     pubchemId: 16133819
     role: Agonist (partial)
     title: IRL1620

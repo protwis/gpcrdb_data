@@ -5,6 +5,7 @@ ligand:
 -   name: 97V
     pubchemId: 23549991
     role: Antagonist
+    title: NNC0640
     type: Small molecule
 pdb: 5XF1
 preferred_chain: B

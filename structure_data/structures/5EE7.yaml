@@ -1,14 +1,16 @@
 auxiliary_protein: T4-Lysozyme
 construct: 5ee7
 distance: -4.8
-endogenous_ligand:
--   iupharId: 1136
-    name: Glucagon
-    type: Peptide
 ligand:
 -   name: PE5
     pubchemId: 657096
     role: Antagonist
+    title: Octaethylene glycol monoethyl ether
+    type: Small molecule
+-   name: 5MV
+    pubchemId: 11570626
+    role: NAM
+    title: MK-0893
     type: Small molecule
 pdb: 5EE7
 preferred_chain: A

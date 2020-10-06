@@ -1,12 +1,12 @@
-auxiliary_protein: 'BRIL, Fab'
+auxiliary_protein: BRIL, Fab
 construct: 5xjm
 distance: 7.86
 ligand:
     chain: B
-    name: PEP
+    name: pep
     pubchemId: 10079601
     role: Agonist
-    title: (Sar1,Ile8)-angiontensin II
+    title: (Sar1,Ile8)-Angiontensin II
     type: Peptide
 pdb: 5XJM
 preferred_chain: A

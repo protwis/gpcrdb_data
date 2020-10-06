@@ -5,6 +5,7 @@ ligand:
 -   name: 79K
     pubchemId: '10343454'
     role: Antagonist
+    title: Vercirnon
     type: Small molecule
 pdb: 5LWE
 preferred_chain: B

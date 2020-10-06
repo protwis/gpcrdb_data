@@ -2,8 +2,8 @@ auxiliary_protein: GlgA glycogen synthase
 construct: 6fj3
 distance: -19.28
 ligand:
--   name: PEP
-    chain: B
+-   chain: B
+    name: pep
     pubchemId: None
     role: Agonist (partial)
     title: ePTH

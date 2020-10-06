@@ -5,7 +5,7 @@ ligand:
 -   name: Y00
     pubchemId: 667531
     role: Agonist
-    title: DOBUTAMINE
+    title: Dobutamine
     type: Small molecule
 pdb: 6H7L
 preferred_chain: A

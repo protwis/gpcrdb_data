@@ -5,6 +5,7 @@ ligand:
 -   name: AZJ
     pubchemId: '23649325'
     role: Antagonist
+    title: AZD1283
     type: Small molecule
 pdb: 4NTJ
 preferred_chain: A

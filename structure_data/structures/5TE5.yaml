@@ -1,14 +1,11 @@
 auxiliary_protein: None
 construct: 5te5
 distance: -0.47
-endogenous_ligand:
--   iupharId: 6669
-    name: RET
-    type: Small molecule
 ligand:
 -   name: 7AB
     pubchemId: '6438558'
     role: Agonist
+    title: 10,20-Methanoretinal
     type: Small molecule
 pdb: 5TE5
 preferred_chain: A

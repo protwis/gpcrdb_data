@@ -1,17 +1,16 @@
 auxiliary_protein: T4-Lysozyme
 construct: 5tzy
 distance: 3.21
-endogenous_ligand:
--   name: long chain carboxylic acids
-    type: Lipid
 ligand:
 -   name: MK6
     pubchemId: '73051869'
     role: Agonist
+    title: MK-8666
     type: Small molecule
 -   name: 7OS
     pubchemId: '127053597'
     role: PAM
+    title: (2S,3R)-3-Cyclopropyl-3-[(2R)-2-[1-[(1S)-1-[5-fluoro-2-(trifluoromethoxy)phenyl]ethyl]piperidin-4-yl]-3,4-dihydro-2H-chromen-7-yl]-2-methylpropanoic acid
     type: Small molecule
 pdb: 5TZY
 preferred_chain: A

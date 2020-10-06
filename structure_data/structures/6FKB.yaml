@@ -3,7 +3,7 @@ construct: 6fkb
 distance: 7.93
 ligand:
 -   name: DLH
-    pubchemId: None
+    pubchemId: 132473038
     role: Agonist
     title: 2-(4-chlorophenyl)-1-spiro[1,3-benzodioxole-2,4'-piperidine]-1'-yl-ethanone
     type: Small molecule

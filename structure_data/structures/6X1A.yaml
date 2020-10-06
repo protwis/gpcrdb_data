@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 6x1a
+distance: 5.9
+ligand:
+    name: UK4
+    pubchemId: 134611040
+    role: Agonist
+    title: PF-06882961
+    type: Small molecule
+pdb: 6X1A
+preferred_chain: R
+signaling_protein: Gs
+state: Active

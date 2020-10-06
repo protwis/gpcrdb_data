@@ -5,10 +5,12 @@ ligand:
 -   name: 73R
     pubchemId: '68764898'
     role: Antagonist
+    title: BMS-681
     type: Small molecule
 -   name: VT5
     pubchemId: '12093170'
     role: NAM
+    title: GTPL9431
     type: Small molecule
 pdb: 5T1A
 preferred_chain: A

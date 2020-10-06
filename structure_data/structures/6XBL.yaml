@@ -1,0 +1,18 @@
+auxiliary_protein: 'scFv16'
+construct: 6xbl
+distance: 5.69
+ligand:
+-   name: CLR
+    pubchemId: 5997
+    role: Agonist
+    title: Cholesterol
+    type: Small molecule
+-   name: V0S
+    pubchemId: 5284330
+    role: PAM
+    title: SAG
+    type: Small moelcule
+pdb: 6XBL
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

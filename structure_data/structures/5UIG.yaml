@@ -5,6 +5,7 @@ ligand:
 -   name: 8D1
     pubchemId: '124081196'
     role: Antagonist
+    title: 5-Amino-N-[(2-Methoxyphenyl)methyl]-2-(3-Methylphenyl)-2h-1,2,3-Triazole-4-Carboximidamide
     type: Small molecule
 pdb: 5UIG
 preferred_chain: A

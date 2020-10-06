@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody-35'
+auxiliary_protein: Nanobody-35
 construct: 6whc
 distance: 6.35
 ligand:
     chain: E
-    name: PEP
+    name: pep
     pubchemId: None
     role: Agonist
     title: Dual-agonist peptide P15

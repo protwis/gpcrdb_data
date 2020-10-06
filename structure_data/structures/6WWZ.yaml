@@ -1,11 +1,12 @@
-auxiliary_protein: 'scFv16'
+auxiliary_protein: scFv16
 construct: 6wwz
 distance: 7.33
 ligand:
-    name: PEP
+    chain: C
+    name: pep
     pubchemId: None
     role: Agonist
-    title: C-C motif chemokine 20
+    title: CCL20
     type: Protein
 pdb: 6WWZ
 preferred_chain: R

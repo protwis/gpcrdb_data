@@ -1,0 +1,14 @@
+auxiliary_protein: Nanobody-35
+construct: 6x18
+distance: 6.4
+ligand:
+    chain: P
+    name: pep
+    pubchemId: 16132283
+    role: Agonist
+    title: Glucagon
+    type: Peptide
+pdb: 6X18
+preferred_chain: R
+signaling_protein: Gs
+state: Active

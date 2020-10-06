@@ -5,6 +5,7 @@ ligand:
 -   name: 8ES
     pubchemId: '15780052'
     role: Antagonist
+    title: N-Benzyl-N-[2-ethyl-4-oxo-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]quinazolin-6-yl]thiophene-2-carboxamide
     type: Small molecule
 pdb: 5UNG
 preferred_chain: B

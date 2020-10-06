@@ -1,0 +1,13 @@
+auxiliary_protein: 'BRIL'
+construct: 6zdr
+distance: -0.63
+ligand:
+    name: QGE
+    pubchemId: 740769
+    role: Antagonist
+    title: 3-(4-Methyl-2-thiazolyl)-6-propyl-7-acetoxychromone
+    type: Small molecule
+pdb: 6ZDR
+preferred_chain: A
+signaling_protein: None
+state: Inactive

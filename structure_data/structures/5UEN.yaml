@@ -5,6 +5,7 @@ ligand:
 -   name: DU1
     pubchemId: '10839674'
     role: Antagonist
+    title: DU172
     type: Small molecule
 pdb: 5UEN
 preferred_chain: B

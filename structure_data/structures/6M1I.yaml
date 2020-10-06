@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody-35'
+auxiliary_protein: Nanobody-35
 construct: 6m1i
 distance: 6.87
 ligand:
     chain: B
-    name: PEP
+    name: pep
     pubchemId: 44566111
     role: Agonist
     title: PACAP

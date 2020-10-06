@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody-35'
+auxiliary_protein: Nanobody-35
 construct: 6wpw
 distance: 6.82
 ligand:
     chain: P
-    name: PEP
+    name: pep
     pubchemId: None
     role: Agonist
     title: Glucagon derivative ZP3780

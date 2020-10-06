@@ -1,14 +1,11 @@
 auxiliary_protein: T4-Lysozyme
 construct: 5cgd
 distance: 4.13
-endogenous_ligand:
--   iupharId: 1369
-    name: L-glutamic acid
-    type: Small molecule
 ligand:
 -   name: 51E
     pubchemId: '86763358'
     role: NAM
+    title: Q27455393
     type: Small molecule
 pdb: 5CGD
 preferred_chain: A

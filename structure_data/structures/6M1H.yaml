@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody-35'
+auxiliary_protein: Nanobody-35
 construct: 6m1h
 distance: 6.96
 ligand:
     chain: B
-    name: PEP
+    name: pep
     pubchemId: 121596043
     role: Agonist
     title: Maxadilan

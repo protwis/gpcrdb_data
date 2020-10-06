@@ -3,9 +3,9 @@ construct: 4grv
 distance: 7.34
 ligand:
 -   chain: B
-    name: NTS
-    pubchemId: '44363934'
-    title: Neurotensin(8-13)
+    name: pep
+    pubchemId: 5311318
+    title: Neurotensin (8-13)
     role: Agonist
     type: Peptide
 pdb: 4GRV

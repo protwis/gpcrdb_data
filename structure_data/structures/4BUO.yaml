@@ -2,14 +2,12 @@ auxiliary_protein: None
 construct: 4buo
 distance: 0.57
 endogenous_ligand:
--   iupharId: 1579
-    name: Neurotensin
-    type: Peptide
 ligand:
 -   chain: C
-    name: NTS
-    pubchemId: '44363934'
+    name: pep
+    pubchemId: 25077406
     role: Agonist
+    title: Neurotensin
     type: Peptide
 pdb: 4BUO
 preferred_chain: A

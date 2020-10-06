@@ -1,0 +1,13 @@
+auxiliary_protein: 'BRIL'
+construct: 6zdv
+distance: -0.71
+ligand:
+    name: QGW
+    pubchemId: 984073
+    role: Antagonist
+    title: 2-Methyl-3-(4-methylthiazol-2-yl)-4-oxo-6-propyl-4H-chromen-7-yl acetate
+    type: Small molecule
+pdb: 6ZDV
+preferred_chain: A
+signaling_protein: None
+state: Inactive

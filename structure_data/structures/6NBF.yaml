@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody-35'
+auxiliary_protein: Nanobody-35
 construct: 6nbf
 distance: 6.99
 ligand:
-    name: PEP
     chain: P
+    name: pep
     pubchemId: None
     role: Agonist
     title: Long-acting parathyroid hormone analog

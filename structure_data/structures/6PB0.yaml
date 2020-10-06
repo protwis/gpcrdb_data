@@ -1,9 +1,9 @@
-auxiliary_protein: 'Nanobody 35'
+auxiliary_protein: Nanobody 35
 construct: 6pb0
 distance: 6.44
 ligand:
     chain: U
-    name: PEP
+    name: pep
     pubchemId: 44321641
     role: Agonist
     title: Urocortin

@@ -1,9 +1,9 @@
-auxiliary_protein: 'scFv16'
+auxiliary_protein: scFv16
 construct: 6os9
 distance: 7.04
 ligand:
     chain: L
-    name: PEP
+    name: pep
     pubchemId: 164415
     role: Agonist
     title: JMV449

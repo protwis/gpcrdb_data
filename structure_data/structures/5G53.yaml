@@ -5,6 +5,7 @@ ligand:
 -   name: NEC
     pubchemId: '448222'
     role: Agonist
+    title: NECA
     type: Small molecule
 pdb: 5G53
 preferred_chain: A

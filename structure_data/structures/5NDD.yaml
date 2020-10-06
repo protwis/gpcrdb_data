@@ -5,6 +5,7 @@ ligand:
 -   name: 8TZ
     pubchemId: '126961334'
     role: Antagonist
+    title: AZ8838
     type: Small molecule
 pdb: 5NDD
 preferred_chain: A

@@ -2,7 +2,7 @@ auxiliary_protein: 'BRIL'
 construct: 6pt3
 distance: 6.10
 ligand:
-    name: QWY
+    name: OWY
     pubchemId: 58619550
     role: Agonist
     title: DPI-287

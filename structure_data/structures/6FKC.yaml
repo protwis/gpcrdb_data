@@ -3,7 +3,7 @@ construct: 6fkc
 distance: 7.84
 ligand:
 -   name: DLB
-    pubchemId: None
+    pubchemId: 132473039
     role: Agonist
     title: 3-[1'-[(2~{S})-2-(4-chlorophenyl)-3-methyl-butanoyl]spiro[1,3-benzodioxole-2,4'-piperidine]-5-yl]propanoic
         acid

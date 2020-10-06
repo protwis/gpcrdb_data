@@ -1,9 +1,9 @@
-auxiliary_protein: 'Rubredoxin'
+auxiliary_protein: Rubredoxin
 construct: 6knm
 distance: 0.11
 ligand:
     chain: A
-    name: PEP
+    name: pep
     pubchemId: None
     role: Agonist
     title: Single domain antibody JN241

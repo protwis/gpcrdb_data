@@ -1,39 +1,9 @@
-auxiliary_protein: 'T-cell surface glycoprotein CD4'
+auxiliary_protein: T-cell surface glycoprotein CD4
 construct: 6met
 distance: 0.7
-endogenous_ligand:
--   iupharId: 769
-    name: CCL11
-    type: Peptide
--   iupharId: 753
-    name: CCL14
-    type: Peptide
--   iupharId: 1272
-    name: CCL16
-    type: Peptide
--   iupharId: 771
-    name: CCL2
-    type: Peptide
--   iupharId: 756
-    name: CCL3
-    type: Peptide
--   iupharId: 757
-    name: CCL4
-    type: Peptide
--   iupharId: 758
-    name: CCL5
-    type: Peptide
--   iupharId: 759
-    name: CCL7
-    type: Peptide
--   iupharId: 772
-    name: CCL8
-    type: Peptide
--   iupharId: 769
-    name: CCL11
-    type: Peptide
 ligand:
-    name: PEP
+    chain: G
+    name: pep
     pubchemId: None
     role: Antagonist
     title: Envelope glycoprotein gp160

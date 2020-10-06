@@ -5,6 +5,7 @@ ligand:
 -   name: 6DV
     pubchemId: '44394716'
     role: Agonist
+    title: Q27456344
     type: Small molecule
 pdb: 5IUB
 preferred_chain: A

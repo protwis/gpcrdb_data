@@ -5,6 +5,7 @@ ligand:
 -   name: 3WC
     pubchemId: '598754'
     role: Antagonist
+    title: 4-Methyl-2-piperazin-1-yl-quinoline
     type: Small molecule
 pdb: 3ZPR
 preferred_chain: B
