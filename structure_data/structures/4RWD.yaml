@@ -2,7 +2,7 @@ auxiliary_protein: BRIL
 construct: 4rwd
 distance: -0.83
 ligand:
--   chain: G
+-   chain: H
     name: pep
     pubchemId: None
     role: Antagonist
