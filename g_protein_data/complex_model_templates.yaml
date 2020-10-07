@@ -255,6 +255,14 @@ gnas2_human:
     gamma:
         chain: G
         protein: gbg2_human
+-   pdb: 6VN7
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg2_human
 gnas2_bovin:
 -   pdb: 3SN6
     alpha: A
@@ -285,6 +293,14 @@ gnas2_bovin:
     beta:
         chain: B
         protein: gbb1_rat
+    gamma:
+        chain: G
+        protein: gbg2_bovin
+-   pdb: 7JJO
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_bovin
     gamma:
         chain: G
         protein: gbg2_bovin
