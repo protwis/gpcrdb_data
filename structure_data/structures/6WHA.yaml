@@ -6,7 +6,7 @@ ligand:
     pubchemId: 90489020
     role: Agonist
     title: 25-CN-NBOH
-    type: None
+    type: Small molecule
 pdb: 6WHA
 preferred_chain: A
 representative: true

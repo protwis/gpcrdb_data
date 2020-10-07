@@ -1,0 +1,15 @@
+auxiliary_protein: Nanobody-35
+construct: 6vn7
+distance: 5.56
+ligand:
+    chain: L
+    name: pep
+    pubchemId: 44566111
+    role: Agonist
+    title: PACAP
+    type: Peptide
+pdb: 6VN7
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active
