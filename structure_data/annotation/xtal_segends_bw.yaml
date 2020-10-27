@@ -644,6 +644,40 @@ apj_human__wt:
     2e3b: 35.0
     e1e3b: 1.0
     3ei2b: 1.0
+b1b1u5_9arac__wt:
+    Key: b1b1u5_9arac__wt
+    1b: 28.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 68.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 56.0
+    4b: 38.0
+    4e: 62.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 32.0
+    5e: 81.0
+    6b: 21.0
+    6e: 61.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 58.0
+    Cl: A
+    RF: Opsins
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 34.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 c5ar1_human__wt:
     Key: c5ar1_human__wt
     1b: 29.0
@@ -1698,6 +1732,74 @@ glr_human__wt:
     2e3b: 46.0
     e1e3b: 15
     3ei2b: 15
+gnrhr_human__wt:
+    Key: gnrhr_human__wt
+    1b: 29.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 38.0
+    2e: 65.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 53.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 31.0
+    5e: 74.0
+    6b: 21.0
+    6e: 61.0
+    7b: 31.0
+    7e: 57.0
+    8b: '-'
+    8e: '-'
+    Cl: A
+    RF: Gonadotrophin-releasinghorm
+    1ei1b: 8.0
+    i1e2b: 1.0
+    2e-e1b: 4.0
+    2e3b: 37.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+gp139_human__wt:
+    Key: gp139_human__wt
+    1b: 33.0
+    1e: 58.0
+    i1b: 47.0
+    i1e: 53.0
+    2b: 37.0
+    2e: 69.0
+    e1b: '-'
+    e1e: '-'
+    3b: 20.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 39.0
+    4e: 62.0
+    e2b: '-'
+    e2e: '-'
+    5b: 35.0
+    5e: 68.0
+    6b: 24.0
+    6e: 61.0
+    7b: 27.0
+    7e: 56.0
+    8b: 47.0
+    8e: 61.0
+    Cl: A
+    RF: ClassAorphans
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 36.0
+    e1e3b: 15
+    3ei2b: 1.0
 gpbar_human__wt:
     Key: gpbar_human__wt
     1b: 32.0
@@ -2346,7 +2448,7 @@ opsd_bovin__wt:
     3ei2b: 1.0
 opsd_human__wt:
     Key: opsd_human__wt
-    1b: 29.0
+    1b: 28.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0

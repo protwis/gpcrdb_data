@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 6i9k
+distance: -0.27
+ligand:
+-   name: RET
+    title: Retinal (11-cis)
+    pubchemId: '638015'
+    role: Inverse agonist
+    type: Small molecule
+pdb: 6i9k
+preferred_chain: A
+signaling_protein: None
+state: Inactive
