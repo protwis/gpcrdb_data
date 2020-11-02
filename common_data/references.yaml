@@ -459,6 +459,16 @@ https://gpcrdb.org/construct/design:
     Title: An online resource for GPCR structure determination and analysis
     Video: http://files.gpcrdb.org/video/constructtool3.mp4
     Year: 2019.0
+https://gpcrdb.org/construct/design/tool/:
+    DOI: 10.1038/S41592-018-0302-X
+    Default: 0
+    Journal: Nat Methods
+    Menu: Structure Constructs
+    Page: Construct design tool
+    Section: Construct & Experiment design
+    Title: An online resource for GPCR structure determination and analysis
+    Video: http://files.gpcrdb.org/video/constructtool3.mp4
+    Year: 2019.0
 https://gpcrdb.org/construct/experiments:
     DOI: 10.1038/S41592-018-0302-X
     Default: 0
