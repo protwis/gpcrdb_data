@@ -4,9 +4,9 @@ distance: 6.4
 ligand:
     chain: P
     name: pep
-    pubchemId: 16132283
+    pubchemId: 16135499
     role: Agonist
-    title: Glucagon
+    title: GLP-1
     type: Peptide
 pdb: 6X18
 preferred_chain: R
