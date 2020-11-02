@@ -1,17 +1,10 @@
 auxiliary_protein: Rubredoxin
 construct: 4xnv
 distance: 5.58
-endogenous_ligand:
--   iupharId: 1712
-    name: ADP
-    type: Small molecule
--   iupharId: 1713
-    name: ATP
-    type: Small molecule
 ligand:
 -   name: BUR
     pubchemId: 11510579
-    role: Antagonist
+    role: NAM
     title: BPTU
     type: Small molecule
 pdb: 4XNV

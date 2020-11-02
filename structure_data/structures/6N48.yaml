@@ -7,6 +7,11 @@ ligand:
     role: Agonist
     title: BI-167107
     type: Small molecule
+-   name: KBY
+    pubchemId: 138454256
+    role: PAM
+    title: 2-[[(3R)-4-(4-Tert-butylphenyl)-3-[[2-(4-methoxyphenyl)sulfanyl-5-[methyl(propan-2-yl)sulfamoyl]benzoyl]amino]butanoyl]amino]acetic acid
+    type: Small molecule
 pdb: 6N48
 preferred_chain: A
 signaling_protein: None
