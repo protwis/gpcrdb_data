@@ -2378,6 +2378,40 @@ apj_human:
     '4.59': P
     '4.60': V
     '5.46': G
+b1b1u5_9arac:
+    UniProt: b1b1u5_9arac
+    Xtal Templ: b1b1u5_9arac
+    Cl: A
+    Xtalised: Xtal
+    1x36: ''
+    1x411: ''
+    2x551: ''
+    2x581: ''
+    23x501: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: ''
+    5x411: ''
+    5x421: ''
+    5x431: ''
+    5x461: 5x461
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': D
+    '2.56': F
+    '2.57': M
+    '2.58': M
+    '2.59': P
+    '2.60': T
+    '4.56': W
+    '4.57': T
+    '4.58': I
+    '4.59': A
+    '4.60': P
+    '5.46': V
 bkrb1_human:
     UniProt: bkrb1_human
     Xtal Templ: agtr1_human
@@ -5066,9 +5100,9 @@ glr_human:
     '5.46': P
 gnrhr_human:
     UniProt: gnrhr_human
-    Xtal Templ: oxyr_human
+    Xtal Templ: gnrhr_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: 2x551
@@ -5270,9 +5304,9 @@ gp135_human:
     '5.46': C
 gp139_human:
     UniProt: gp139_human
-    Xtal Templ: 5ht2c_human
+    Xtal Templ: gp139_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: ''

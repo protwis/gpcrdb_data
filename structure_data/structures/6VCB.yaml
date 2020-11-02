@@ -6,7 +6,7 @@ ligand:
     name: pep
     pubchemId: None
     role: Agonist
-    title: Glucagon-like peptide 1
+    title: GLP-1
     type: Peptide
 -   name: QW7
     pubchemId: 146155955
