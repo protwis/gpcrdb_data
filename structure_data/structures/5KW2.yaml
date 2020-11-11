@@ -4,7 +4,7 @@ distance: 4.17
 ligand:
     name: 6XQ
     pubchemId: 133053953
-    role: Antagonist
+    role: Agonist
     title: (3~{S})-3-cyclopropyl-3-[2-[1-[2-[2,2-dimethylpropyl-(6-methylpyridin-2-yl)carbamoyl]-5-methoxy-phenyl]piperidin-4-yl]-1-benzofuran-6-yl]propanoic acid
     type: Small molecule
 pdb: 5KW2
