@@ -68,6 +68,16 @@ https://gpcrdb.org/similaritymatrix/targetselection:
     Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
     Video: ''
     Year: 2016.0
+https://gpcrdb.org/protein/isoforms:
+    DOI: 10.1038/S41586-020-2888-2
+    Default: 0
+    Journal: Nature
+    Menu: Receptors
+    Page: Isoforms
+    Section: Sequences
+    Title: Combinatorial expression of GPCR isoforms affects signalling and drug responses
+    Video: ''
+    Year: 2020.0
 https://gpcrdb.org/seqsign/:
     DOI: 10.1111/BPH.13509
     Default: 0

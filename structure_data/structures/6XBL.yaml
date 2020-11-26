@@ -11,7 +11,7 @@ ligand:
     pubchemId: 5284330
     role: PAM
     title: SAG
-    type: Small moelcule
+    type: Small molecule
 pdb: 6XBL
 preferred_chain: R
 signaling_protein: Gi1
