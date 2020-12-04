@@ -1,0 +1,13 @@
+auxiliary_protein: 'BRIL'
+construct: 6lpl
+distance: -0.54
+ligand:
+    name: ZMA
+    pubchemId: 176407
+    role: Antagonist
+    title: ZM241385
+    type: Small molecule
+pdb: 6LPL
+preferred_chain: A
+signaling_protein: None
+state: Inactive

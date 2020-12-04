@@ -1,13 +1,13 @@
 auxiliary_protein: 'GABAB1'
-construct: 6vjm
-distance: 1.75
+construct: 7ca5
+distance: 2.56
 ligand:
     name: apo
     pubchemId: None
     role: Apo (no ligand)
     title: Apo (no ligand)
     type: None
-pdb: 6VJM
+pdb: 7CA5
 preferred_chain: B
 signaling_protein: None
 state: Inactive

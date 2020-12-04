@@ -1,14 +1,15 @@
 auxiliary_protein: 'Nanobody-35'
-construct: 7d3s
-distance: 6.24
+construct: 7cz5
+distance: 5.93
 ligand:
     chain: P
     name: pep
-    pubchemId: 16158474
+    pubchemId: 56928011
     role: Agonist
-    title: Secretin
+    title: Somatoliberin
     type: Peptide
-pdb: 7D3S
+pdb: 7CZ5
 preferred_chain: R
+representative: true
 signaling_protein: Gs
 state: Active

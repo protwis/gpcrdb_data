@@ -1,0 +1,13 @@
+auxiliary_protein: 'GABAB1'
+construct: 7ca3
+distance: 3.51
+ligand:
+    name: FN0
+    pubchemId: 7023848
+    role: PAM
+    title: (+)-BHFF
+    type: Small molecule
+pdb: 7CA3
+preferred_chain: B
+signaling_protein: None
+state: Active
