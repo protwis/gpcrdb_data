@@ -1,14 +1,18 @@
 auxiliary_protein: 'GABAB1'
-construct: 7c7s
-distance: 2.13
+construct: 7cum
+distance: 2.3
 ligand:
-    name: 2BV
+-   name: 2BV
     pubchemId: 197584
     role: Antagonist
     title: CGP54626
     type: Small molecule
-pdb: 7C7S
+-   name: UNL
+    pubchemId: None
+    role: NAM
+    title: Unknown ligand
+    type: None
+pdb: 7CUM
 preferred_chain: B
-representative: true
 signaling_protein: None
 state: Inactive

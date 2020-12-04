@@ -1,0 +1,15 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7cz5
+distance: 5.93
+ligand:
+    chain: P
+    name: pep
+    pubchemId: 56928011
+    role: Agonist
+    title: Somatoliberin
+    type: Peptide
+pdb: 7CZ5
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active

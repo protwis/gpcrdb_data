@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7d3s
+distance: 6.24
+ligand:
+    chain: P
+    name: pep
+    pubchemId: 16158474
+    role: Agonist
+    title: Secretin
+    type: Peptide
+pdb: 7D3S
+preferred_chain: R
+signaling_protein: Gs
+state: Active

@@ -137,7 +137,17 @@ https://gpcrdb.org/structure/homology_models:
     Section: Structures
     Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
     Video: ''
-    Year: 2018.0
+    Year: 2021.0
+https://gpcrdb.org/structure/model_statistics:
+    DOI: ''
+    Default: 0
+    Journal: NAR
+    Menu: Receptors
+    Page: Structure model statistics
+    Section: Structures
+    Title: "GPCRdb in 2021: \u2026..."
+    Video: ''
+    Year: 2019.0
 https://gpcrdb.org/structure/superposition_workflow_index/true:
     DOI: 10.1093/NAR/GKV1178
     Default: 0

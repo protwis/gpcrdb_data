@@ -1,0 +1,13 @@
+auxiliary_protein: 'scFv16, Nanobody-35'
+construct: 6xox
+distance: 6.77
+ligand:
+    name: V6G
+    pubchemId: 137319706
+    role: Agonist
+    title: LY3502970
+    type: Small molecule
+pdb: 6XOX
+preferred_chain: R
+signaling_protein: Gs
+state: Active

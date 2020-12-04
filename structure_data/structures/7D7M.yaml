@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7d7m
+distance: 6.36
+ligand:
+    name: P2E
+    pubchemId: 5280360
+    role: Agonist
+    title: Dinoprostone
+    type: Small molecule
+pdb: 7D7M
+preferred_chain: A
+representative: true
+signaling_protein: Gs
+state: Active
