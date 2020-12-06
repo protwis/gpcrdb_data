@@ -119,35 +119,35 @@ https://gpcrdb.org/structure/statistics:
     Video: http://files.gpcrdb.org/video/structures1.mp4
     Year: 2016.0
 https://gpcrdb.org/structure/:
-    DOI: ''
-    Default: 0
+    DOI: 10.1093/NAR/GKAA1080
+    Default: 1
     Journal: NAR
     Menu: Receptors
     Page: Structures
     Section: Structures
-    Title: "GPCRdb in 2021: \u2026..."
+    Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
     Video: ''
-    Year: 2021.0
+    Year: 2020.0
 https://gpcrdb.org/structure/homology_models:
     DOI: 10.1093/NAR/GKX1109
-    Default: 1
+    Default: 0
     Journal: NAR
     Menu: Receptors
     Page: Structure models
     Section: Structures
     Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
     Video: ''
-    Year: 2021.0
+    Year: 2017.0
 https://gpcrdb.org/structure/model_statistics:
-    DOI: ''
+    DOI: 10.1093/NAR/GKAA1080
     Default: 0
     Journal: NAR
     Menu: Receptors
     Page: Structure model statistics
     Section: Structures
-    Title: "GPCRdb in 2021: \u2026..."
+    Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
     Video: ''
-    Year: 2019.0
+    Year: 2020.0
 https://gpcrdb.org/structure/superposition_workflow_index/true:
     DOI: 10.1093/NAR/GKV1178
     Default: 0
