@@ -70,6 +70,7 @@ RMSD scores this makes it possible to factor in not only the structural characte
 relative to the 7TM bundle. Futhermore, different properties of the models can be assessed based on which atoms we select for 
 the RMSD calculations. The RMSD calculations themselves were done with the following python code:
 
+.. highlight:: python
 .. code-block:: python
 round(np.sqrt(sum(sum((array1[1:]-array2[1:])**2))/array1[1:].shape[0]),1)
 
