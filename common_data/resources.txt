@@ -1,11 +1,11 @@
-pdb         "Protein Data Bank"     http://www.rcsb.org/pdb/explore/explore.do?structureId=$index
-pubmed      PubMed                  http://www.ncbi.nlm.nih.gov/pubmed/$index
-doi         DOI                     http://dx.doi.org/$index
+pdb         "Protein Data Bank"     https://www.rcsb.org/structure/$index
+pubmed      PubMed                  https://pubmed.ncbi.nlm.nih.gov/$index
+doi         DOI                     https://dx.doi.org/$index
 pubchem     PubChem                 https://pubchem.ncbi.nlm.nih.gov/compound/$index
-gtop        "Guide To Pharmacology" http://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=$index
-gtoplig     "Guide To Pharmacology" http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=$index
+gtop        "Guide To Pharmacology" https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=$index
+gtoplig     "Guide To Pharmacology" https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=$index
 bitterdb    BitterDB                http://bitterdb.agri.huji.ac.il/Receptor.php?id=$index
-uniprot     UniProt                 http://www.uniprot.org/uniprot/$index
+uniprot     UniProt                 https://www.uniprot.org/uniprot/$index
 chembl      ChEMBL                  https://www.ebi.ac.uk/chembldb/index.php/target/inspect/$index
 chembl_ligand ChEMBL_compound_ids   https://www.ebi.ac.uk/chembl/compound/inspect/$index
 chembl_assays "ChEMBL Assays ids"   https://www.ebi.ac.uk/chembl/assay/inspect/$index
