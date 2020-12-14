@@ -539,3 +539,13 @@ https://gpcrdb.org/construct/analysis#mutations:
     Title: An online resource for GPCR structure determination and analysis
     Video: ''
     Year: 2019.0
+https://gpcrdb.org/protein/ste2_yeast/:
+    DOI: 10.1038/S41586-020-2994-1
+    Default: 0
+    Journal: Nature
+    Menu: Receptors
+    Page: Class D1 - STE2
+    Section: Class D1
+    Title: Structure of the class D GPCR Ste2 dimer coupled to two G proteins
+    Video: ''
+    Year: 2020.0
