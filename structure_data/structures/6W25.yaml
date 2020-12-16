@@ -5,12 +5,12 @@ ligand:
 -   chain: B
     name: pep
     pubchemId: None
-    role: Agonist
+    role: Antagonist
     title: SHU9119
     type: Peptide
 -   name: CA
     pubchemId: 271
-    role: PAM
+    role: Cofactor
     title: Calcium ion
     type: Ion
 pdb: 6W25
