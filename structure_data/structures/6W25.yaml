@@ -10,7 +10,7 @@ ligand:
     type: Peptide
 -   name: CA
     pubchemId: 271
-    role: NAM
+    role: Cofactor
     title: Calcium ion
     type: Ion
 pdb: 6W25
