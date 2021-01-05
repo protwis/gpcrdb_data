@@ -311,6 +311,22 @@ gnas2_human:
     gamma:
         chain: G
         protein: gbg2_human
+-   pdb: 7DHR
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_bovin
+    gamma:
+        chain: G
+        protein: gbg2_bovin
+-   pdb: 7DHI
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_bovin
+    gamma:
+        chain: G
+        protein: gbg2_bovin
 gnas2_bovin:
 -   pdb: 3SN6
     alpha: A

@@ -1,5 +1,4 @@
-auxiliary_protein: BRIL, anti-BRIL Fab Heavy chain, anti-BRIL Fab Light chain, anti-Fab
-    Nanobody
+auxiliary_protein: 'BRIL, anti-BRIL Fab heavy chain, anti-BRIL Fab light chain, anti-Fab Nanobody'
 construct: 6ww2
 distance: -4.57
 ligand:
