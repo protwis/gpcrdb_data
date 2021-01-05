@@ -1,0 +1,13 @@
+auxiliary_protein: 'BRIL, Fab heavy chain, Fab light chain'
+construct: 7dfp
+distance: -1.8
+ligand:
+    name: SIP
+    pubchemId: 5265
+    role: Antagonist
+    title: Spiperone
+    type: Small molecule
+pdb: 7DFP
+preferred_chain: A
+signaling_protein: None
+state: Inactive

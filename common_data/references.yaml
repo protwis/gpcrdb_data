@@ -264,8 +264,8 @@ https://gpcrdb.org/signprot/matrix:
     Default: 0
     Journal: ''
     Menu: G Proteins
-    Page: GPCR-G protein interactions & profiling
-    Section: Structure Comparison
+    Page: GPCR-G protein interactions
+    Section: Structure sites (interface)
     Title: coming publication
     Video: ''
     Year: ''
@@ -275,7 +275,7 @@ http://files.gpcrdb.org/GPCR-Gprotein_Mutations.xlsx:
     Journal: Nature
     Menu: G Proteins
     Page: GPCR-G protein interface mutations
-    Section: Determinants & Mutations
+    Section: Mutations (interface)
     Title: "Selectivity determinants of GPCR\u2013G-protein binding"
     Video: ''
     Year: 2017.0

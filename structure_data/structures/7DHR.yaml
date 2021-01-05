@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody 35'
+construct: 7dhr
+distance: 9.05
+ligand:
+    name: 5FW
+    pubchemId: 443372
+    role: Agonist
+    title: Isoprenaline
+    type: Small molecule
+pdb: 7DHR
+preferred_chain: R
+signaling_protein: Gs
+state: Active

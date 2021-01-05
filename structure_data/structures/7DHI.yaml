@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody 35'
+construct: 7dhi
+distance: 9.05
+ligand:
+    name: 68H
+    pubchemId: 123600
+    role: Agonist
+    title: Salbutamol
+    type: Small molecule
+pdb: 7DHI
+preferred_chain: R
+signaling_protein: Gs
+state: Active
