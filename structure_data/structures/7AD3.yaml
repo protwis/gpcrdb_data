@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7ad3
+ligand:
+    chain: I,K
+    name: pep
+    pubchemId: 16130931
+    role: Agonist
+    title: Alpha-factor mating pheromone
+    type: Peptide
+pdb: 7AD3
+preferred_chain: A
+signaling_protein: Gpa1
+state: Active
