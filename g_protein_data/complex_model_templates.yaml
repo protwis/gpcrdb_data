@@ -562,6 +562,7 @@ gnai1_human:
         chain: G
         protein: gbg1_human
 -   pdb: 7L0S
+    alpha: A
     beta:
         chain: B
         protein: gbb1_human
@@ -658,7 +659,7 @@ gpa1_yeast:
     alpha: A
     beta:
         chain: F
-        protein: A0A6A5Q727_YEASX
+        protein: a0a6a5q727_yeasx
     gamma:
         chain: G
-        protein: A0A6A5PT44_YEASX
+        protein: a0a6a5pt44_yeasx
