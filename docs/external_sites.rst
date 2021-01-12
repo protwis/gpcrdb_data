@@ -35,13 +35,13 @@ structural motifs in family A GPCRs which is used to guide template selection an
 `GOMoDo`_
 ~~~~~~~~~
 
-This webtool performs automatic homology modeling and ligand docking of GPCR receptors. It uses HHsearch package 1.5.1
-for performing sequence alignment. Only GPCR templates are chosen to build 3D model of given sequence by using Modeller
-9.10. The obtained 3D model can be verified also with the VADAR server, and then docked with ligands uploaded by users
-with both Autodock VINA or HADDOCK. Binding pockets can be predicted by the FPOCKET, and structural alignment of models
-needed for VINA docking is performed by LOVOALIGN.
+GOMoDo (GPCR Online Modeling and Docking) is a web server that allows to seamlessly model GPCR structures and dock the 
+corresponding ligands to these models in a single consistent pipeline. GOMoDo can automatically perform template choice 
+(using HHSearch), homology modeling (with Modeller), binding pocket prediction (with FPocket), and either blind or 
+information-driven docking (using AutoDock Vina or HADDOCK, respectively). By combining all these state-of-the-art 
+bioinformatic tools, the web server guides the user through the whole procedure, while still permitting manual intervention.
 
-.. _GOMoDo: http://molsim.sci.univr.it/cgi-bin/cona/begin.php
+.. _GOMoDo: https://gomodo.grs.kfa-juelich.de
 
 `GPCR-ModSim`_
 ~~~~~~~~~~~~~~
@@ -52,6 +52,18 @@ and/or further equilibrate your GPCR structure with our all-atom Molecular Dynam
 
 .. _GPCR-ModSim: http://gpcr-modsim.org/
 
+
+`Hybrid MM/CG webserver`_
+~~~~~~~~~
+
+Hybrid Molecular Mechanics/Coarse-Grained (MM/CG) simulations have been shown to help refine ligand poses in human G 
+protein-coupled receptors (hGPCRs). The Hybrid MM/CG Webserver takes structures of GPCR/ligand complexes (that can be 
+generated with other GPCR-related webservers) and prepares them for running such multiscale simulations. This approach 
+allows the description of the ligand, the binding cavity, and the surrounding water molecules at atomistic resolution, 
+while coarse-graining the rest of the receptor to reduce the computational cost. The system, prepared and equilibrated 
+with the Hybrid MM/CG webserver, can be downloaded and the MM/CG simulation can be continued locally.
+
+.. _MM/CG: https://mmcg.grs.kfa-juelich.de
 
 Others
 ------
