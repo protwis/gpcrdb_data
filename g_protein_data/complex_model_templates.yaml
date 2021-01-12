@@ -537,6 +537,38 @@ gnai1_human:
     gamma:
         chain: G
         protein: gbg2_human
+-   pdb: 7L0P
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg1_human
+-   pdb: 7L0Q
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg1_human
+-   pdb: 7L0R
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg1_human
+-   pdb: 7L0S
+    alpha: A
+    beta:
+        chain: B
+        protein: gbb1_human
+    gamma:
+        chain: G
+        protein: gbg1_human
 gnai2_human:
 -   pdb: 6D9H
     alpha: A
@@ -622,3 +654,12 @@ gnaq_human:
     gamma:
         chain: D
         protein: gbg2_human
+gpa1_yeast:
+-   pdb: 7AD3
+    alpha: A
+    beta:
+        chain: F
+        protein: a0a6a5q727_yeasx
+    gamma:
+        chain: G
+        protein: a0a6a5pt44_yeasx

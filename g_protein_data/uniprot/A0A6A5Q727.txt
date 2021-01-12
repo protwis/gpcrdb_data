@@ -1,0 +1,113 @@
+ID   A0A6A5Q727_YEASX        Unreviewed;       423 AA.
+AC   A0A6A5Q727;
+DT   17-JUN-2020, integrated into UniProtKB/TrEMBL.
+DT   17-JUN-2020, sequence version 1.
+DT   02-DEC-2020, entry version 4.
+DE   SubName: Full=BJ4_G0051350.mRNA.1.CDS.1 {ECO:0000313|EMBL:CAC9920400.1};
+DE   SubName: Full=Guanine nucleotide-binding protein subunit beta {ECO:0000313|EMBL:GFP64808.1};
+DE   SubName: Full=STE4 isoform 1 {ECO:0000313|EMBL:KAF1909712.1};
+DE   SubName: Full=SX2_G0050890.mRNA.1.CDS.1 {ECO:0000313|EMBL:CAC9946488.1};
+DE   SubName: Full=Y55_G0051270.mRNA.1.CDS.1 {ECO:0000313|EMBL:CAC9920180.1};
+DE   Flags: Fragment;
+GN   Name=STE4 {ECO:0000313|EMBL:KAF1909712.1};
+GN   ORFNames=GI526_G0005548 {ECO:0000313|EMBL:KAF1909712.1},
+GN   PACBIOSEQ_LOCUS6152 {ECO:0000313|EMBL:CAC9920400.1},
+GN   PACBIOSEQ_LOCUS6200 {ECO:0000313|EMBL:CAC9946488.1},
+GN   PACBIOSEQ_LOCUS6253 {ECO:0000313|EMBL:CAC9920180.1},
+GN   SCNYR20_0002033000 {ECO:0000313|EMBL:GFP64808.1},
+GN   SCP684_0003032400 {ECO:0000313|EMBL:GFP70441.1};
+OS   Saccharomyces cerevisiae (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes;
+OC   Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=4932 {ECO:0000313|EMBL:KAF1909712.1};
+RN   [1] {ECO:0000313|EMBL:KAF1909712.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=INSC1006 {ECO:0000313|EMBL:KAF1909712.1};
+RA   Fiddes I.T., Church D.M.;
+RT   "Inscripta technologies.";
+RL   Submitted (JAN-2020) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:CAC9920180.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=BJ4 {ECO:0000313|EMBL:CAC9920400.1},
+RC   SX2 {ECO:0000313|EMBL:CAC9946488.1}, and
+RC   Y55 {ECO:0000313|EMBL:CAC9920180.1};
+RA   Bendixsen P D., Bendixsen P D.;
+RL   Submitted (JUN-2020) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:GFP64808.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=NYR20 {ECO:0000313|EMBL:GFP64808.1};
+RA   Yoshizaki T., Iwaguchi S., Takahashi H.;
+RT   "Saccharomyces cerevisiae NYR20 whole genome shotgun sequence.";
+RL   Submitted (JUL-2020) to the EMBL/GenBank/DDBJ databases.
+RN   [4] {ECO:0000313|EMBL:GFP70441.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=P-684 {ECO:0000313|EMBL:GFP70441.1};
+RA   Yoshizaki T., Iwaguchi S., Takahashi H.;
+RT   "Saccharomyces cerevisiae P-684 whole genome shotgun sequence.";
+RL   Submitted (JUL-2020) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the WD repeat G protein beta family.
+CC       {ECO:0000256|ARBA:ARBA00009768}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; LR813548; CAC9920180.1; -; Genomic_DNA.
+DR   EMBL; LR813531; CAC9920400.1; -; Genomic_DNA.
+DR   EMBL; LR813599; CAC9946488.1; -; Genomic_DNA.
+DR   EMBL; BLZP01000002; GFP64808.1; -; Genomic_DNA.
+DR   EMBL; BLZQ01000003; GFP70441.1; -; Genomic_DNA.
+DR   EMBL; JAAEAK010000002; KAF1909712.1; -; Genomic_DNA.
+DR   GO; GO:0007165; P:signal transduction; IEA:UniProtKB-KW.
+DR   Gene3D; 2.130.10.10; -; 1.
+DR   InterPro; IPR020472; G-protein_beta_WD-40_rep.
+DR   InterPro; IPR001632; Gprotein_B.
+DR   InterPro; IPR016346; Guanine_nucleotide-bd_bsu.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   InterPro; IPR001680; WD40_repeat.
+DR   InterPro; IPR019775; WD40_repeat_CS.
+DR   InterPro; IPR017986; WD40_repeat_dom.
+DR   InterPro; IPR036322; WD40_repeat_dom_sf.
+DR   PANTHER; PTHR19850; PTHR19850; 1.
+DR   Pfam; PF00400; WD40; 4.
+DR   PRINTS; PR00319; GPROTEINB.
+DR   PRINTS; PR00320; GPROTEINBRPT.
+DR   SMART; SM00320; WD40; 7.
+DR   SUPFAM; SSF50978; SSF50978; 1.
+DR   PROSITE; PS00678; WD_REPEATS_1; 3.
+DR   PROSITE; PS50082; WD_REPEATS_2; 4.
+DR   PROSITE; PS50294; WD_REPEATS_REGION; 1.
+PE   3: Inferred from homology;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Repeat {ECO:0000256|ARBA:ARBA00022737};
+KW   Transducer {ECO:0000256|ARBA:ARBA00023224};
+KW   WD repeat {ECO:0000256|ARBA:ARBA00022574, ECO:0000256|PROSITE-
+KW   ProRule:PRU00221}.
+FT   DOMAIN          88..423
+FT                   /note="WD_REPEATS_REGION"
+FT                   /evidence="ECO:0000259|PROSITE:PS50294"
+FT   REPEAT          88..129
+FT                   /note="WD"
+FT                   /evidence="ECO:0000256|PROSITE-ProRule:PRU00221"
+FT   REPEAT          177..217
+FT                   /note="WD"
+FT                   /evidence="ECO:0000256|PROSITE-ProRule:PRU00221"
+FT   REPEAT          266..307
+FT                   /note="WD"
+FT                   /evidence="ECO:0000256|PROSITE-ProRule:PRU00221"
+FT   REPEAT          387..419
+FT                   /note="WD"
+FT                   /evidence="ECO:0000256|PROSITE-ProRule:PRU00221"
+FT   COILED          25..59
+FT                   /evidence="ECO:0000256|SAM:Coils"
+FT   NON_TER         1
+FT                   /evidence="ECO:0000313|EMBL:KAF1909712.1"
+SQ   SEQUENCE   423 AA;  46581 MW;  4B0E26040AAA83E5 CRC64;
+     MAAHQMDSIT YSNNVTQQYI QPQSLQDISA VEDEIQNKIE AARQESKQLH AQINKAKHKI
+     QDASLFQMAN KVTSLTKNKI NLKPNIVLKG HNNKISDFRW SRDSKRILSA SQDGFMLIWD
+     SASGLKQNAI PLDSQWVLSC AISPSSTLVA SAGLNNNCTI YRVSKENRVA QNVASIFKGH
+     TCYISDIEFT DNAHILTASG DMTCALWDIP KAKRVREYSD HLGDVLALAI PEEPNSENSS
+     NTFASCGSDG YTYIWDSRSP SAVQSFYVND SDINALRFFK DGMSIVAGSD NGAINMYDLR
+     SDCSIATFSL FRGYEERTPT PTYMAANMEY NTAQSPQTLK STSSSYLDNQ GVVSLDFSAS
+     GRLMYSCYTD IGCVVWDVLK GEIVGKLEGH GGRVTGVRSS PDGLAVCTGS WDSTMKIWSP
+     GYQ
+//

@@ -1,0 +1,271 @@
+ID   GBG1_HUMAN              Reviewed;          74 AA.
+AC   P63211; A4D1H2; O43835; Q08447; Q16026; Q6LCP6;
+DT   27-SEP-2004, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   02-DEC-2020, entry version 147.
+DE   RecName: Full=Guanine nucleotide-binding protein G(T) subunit gamma-T1;
+DE   AltName: Full=Transducin gamma chain;
+DE   Flags: Precursor;
+GN   Name=GNGT1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA].
+RX   PubMed=8500562; DOI=10.1006/exer.1993.1063;
+RA   Tao L., Pandey S., Simon M.I., Fong H.K.;
+RT   "Structure of the bovine transducin gamma subunit gene and analysis of
+RT   promoter function in transgenic mice.";
+RL   Exp. Eye Res. 56:497-507(1993).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   TISSUE=Blood;
+RX   PubMed=8661128; DOI=10.1006/geno.1996.0346;
+RA   Scherer S.W., Feinstein D.S., Oliveira L., Tsui L.-C., Pittler S.J.;
+RT   "Gene structure and chromosome localization to 7q21.3 of the human rod
+RT   photoreceptor transducin gamma-subunit gene (GNGT1).";
+RL   Genomics 35:241-243(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction sequenced by
+RT   the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12690205; DOI=10.1126/science.1083423;
+RA   Scherer S.W., Cheung J., MacDonald J.R., Osborne L.R., Nakabayashi K.,
+RA   Herbrick J.-A., Carson A.R., Parker-Katiraee L., Skaug J., Khaja R.,
+RA   Zhang J., Hudek A.K., Li M., Haddad M., Duggan G.E., Fernandez B.A.,
+RA   Kanematsu E., Gentles S., Christopoulos C.C., Choufani S., Kwasnicka D.,
+RA   Zheng X.H., Lai Z., Nusskern D.R., Zhang Q., Gu Z., Lu F., Zeesman S.,
+RA   Nowaczyk M.J., Teshima I., Chitayat D., Shuman C., Weksberg R.,
+RA   Zackai E.H., Grebe T.A., Cox S.R., Kirkpatrick S.J., Rahman N.,
+RA   Friedman J.M., Heng H.H.Q., Pelicci P.G., Lo-Coco F., Belloni E.,
+RA   Shaffer L.G., Pober B., Morton C.C., Gusella J.F., Bruns G.A.P., Korf B.R.,
+RA   Quade B.J., Ligon A.H., Ferguson H., Higgins A.W., Leach N.T.,
+RA   Herrick S.R., Lemyre E., Farra C.G., Kim H.-G., Summers A.M., Gripp K.W.,
+RA   Roberts W., Szatmari P., Winsor E.J.T., Grzeschik K.-H., Teebi A.,
+RA   Minassian B.A., Kere J., Armengol L., Pujana M.A., Estivill X.,
+RA   Wilson M.D., Koop B.F., Tosi S., Moore G.E., Boright A.P., Zlotorynski E.,
+RA   Kerem B., Kroisel P.M., Petek E., Oscier D.G., Mould S.J., Doehner H.,
+RA   Doehner K., Rommens J.M., Vincent J.B., Venter J.C., Li P.W., Mural R.J.,
+RA   Adams M.D., Tsui L.-C.;
+RT   "Human chromosome 7: DNA sequence and biology.";
+RL   Science 300:767-772(2003).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=12853948; DOI=10.1038/nature01782;
+RA   Hillier L.W., Fulton R.S., Fulton L.A., Graves T.A., Pepin K.H.,
+RA   Wagner-McPherson C., Layman D., Maas J., Jaeger S., Walker R., Wylie K.,
+RA   Sekhon M., Becker M.C., O'Laughlin M.D., Schaller M.E., Fewell G.A.,
+RA   Delehaunty K.D., Miner T.L., Nash W.E., Cordes M., Du H., Sun H.,
+RA   Edwards J., Bradshaw-Cordum H., Ali J., Andrews S., Isak A., Vanbrunt A.,
+RA   Nguyen C., Du F., Lamar B., Courtney L., Kalicki J., Ozersky P.,
+RA   Bielicki L., Scott K., Holmes A., Harkins R., Harris A., Strong C.M.,
+RA   Hou S., Tomlinson C., Dauphin-Kohlberg S., Kozlowicz-Reilly A., Leonard S.,
+RA   Rohlfing T., Rock S.M., Tin-Wollam A.-M., Abbott A., Minx P., Maupin R.,
+RA   Strowmatt C., Latreille P., Miller N., Johnson D., Murray J.,
+RA   Woessner J.P., Wendl M.C., Yang S.-P., Schultz B.R., Wallis J.W.,
+RA   Spieth J., Bieri T.A., Nelson J.O., Berkowicz N., Wohldmann P.E.,
+RA   Cook L.L., Hickenbotham M.T., Eldred J., Williams D., Bedell J.A.,
+RA   Mardis E.R., Clifton S.W., Chissoe S.L., Marra M.A., Raymond C., Haugen E.,
+RA   Gillett W., Zhou Y., James R., Phelps K., Iadanoto S., Bubb K., Simms E.,
+RA   Levy R., Clendenning J., Kaul R., Kent W.J., Furey T.S., Baertsch R.A.,
+RA   Brent M.R., Keibler E., Flicek P., Bork P., Suyama M., Bailey J.A.,
+RA   Portnoy M.E., Torrents D., Chinwalla A.T., Gish W.R., Eddy S.R.,
+RA   McPherson J.D., Olson M.V., Eichler E.E., Green E.D., Waterston R.H.,
+RA   Wilson R.K.;
+RT   "The DNA sequence of human chromosome 7.";
+RL   Nature 424:157-164(2003).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Placenta;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are involved
+CC       as a modulator or transducer in various transmembrane signaling
+CC       systems. The beta and gamma chains are required for the GTPase
+CC       activity, for replacement of GDP by GTP, and for G protein-effector
+CC       interaction.
+CC   -!- SUBUNIT: G proteins are composed of 3 units, alpha, beta and gamma.
+CC   -!- INTERACTION:
+CC       P63211; Q9H8Y8: GORASP2; NbExp=5; IntAct=EBI-10220715, EBI-739467;
+CC       P63211; Q8NCY6: MSANTD4; NbExp=3; IntAct=EBI-10220715, EBI-7850168;
+CC       P63211; Q92575: UBXN4; NbExp=3; IntAct=EBI-10220715, EBI-723441;
+CC       P63211; G5E9M4: ZNF277; NbExp=3; IntAct=EBI-10220715, EBI-11995620;
+CC       P63211; Q8WWA6: ZNF277; NbExp=3; IntAct=EBI-10220715, EBI-10192794;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000305}; Lipid-anchor
+CC       {ECO:0000305}; Cytoplasmic side {ECO:0000305}.
+CC   -!- TISSUE SPECIFICITY: Retinal rod outer segment.
+CC   -!- SIMILARITY: Belongs to the G protein gamma family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; S62027; AAB26896.1; -; mRNA.
+DR   EMBL; S62026; AAD13931.1; -; Genomic_DNA.
+DR   EMBL; U41492; AAB92386.1; -; Genomic_DNA.
+DR   EMBL; U41493; AAB92387.1; -; Genomic_DNA.
+DR   EMBL; AF493869; AAM12583.1; -; mRNA.
+DR   EMBL; CR456912; CAG33193.1; -; mRNA.
+DR   EMBL; AC002076; AAS02021.1; -; Genomic_DNA.
+DR   EMBL; CH236949; EAL24139.1; -; Genomic_DNA.
+DR   EMBL; CH471091; EAW76806.1; -; Genomic_DNA.
+DR   EMBL; BC029367; AAH29367.1; -; mRNA.
+DR   CCDS; CCDS5633.1; -.
+DR   PIR; I62760; I62760.
+DR   RefSeq; NP_001316355.1; NM_001329426.1.
+DR   RefSeq; NP_068774.1; NM_021955.4.
+DR   SMR; P63211; -.
+DR   BioGRID; 109054; 11.
+DR   CORUM; P63211; -.
+DR   DIP; DIP-471N; -.
+DR   IntAct; P63211; 6.
+DR   STRING; 9606.ENSP00000248572; -.
+DR   iPTMnet; P63211; -.
+DR   PhosphoSitePlus; P63211; -.
+DR   BioMuta; GNGT1; -.
+DR   DMDM; 52783592; -.
+DR   MassIVE; P63211; -.
+DR   PaxDb; P63211; -.
+DR   PeptideAtlas; P63211; -.
+DR   PRIDE; P63211; -.
+DR   ProteomicsDB; 57506; -.
+DR   Antibodypedia; 30066; 81 antibodies.
+DR   DNASU; 2792; -.
+DR   Ensembl; ENST00000248572; ENSP00000248572; ENSG00000127928.
+DR   Ensembl; ENST00000429473; ENSP00000388777; ENSG00000127928.
+DR   GeneID; 2792; -.
+DR   KEGG; hsa:2792; -.
+DR   UCSC; uc003unc.2; human.
+DR   CTD; 2792; -.
+DR   DisGeNET; 2792; -.
+DR   EuPathDB; HostDB:ENSG00000127928.12; -.
+DR   GeneCards; GNGT1; -.
+DR   HGNC; HGNC:4411; GNGT1.
+DR   HPA; ENSG00000127928; Tissue enriched (retina).
+DR   MIM; 189970; gene.
+DR   neXtProt; NX_P63211; -.
+DR   OpenTargets; ENSG00000127928; -.
+DR   PharmGKB; PA28790; -.
+DR   eggNOG; KOG4119; Eukaryota.
+DR   GeneTree; ENSGT01000000214376; -.
+DR   HOGENOM; CLU_168377_2_0_1; -.
+DR   InParanoid; P63211; -.
+DR   OMA; CEEFRDY; -.
+DR   OrthoDB; 1573820at2759; -.
+DR   PhylomeDB; P63211; -.
+DR   TreeFam; TF319909; -.
+DR   PathwayCommons; P63211; -.
+DR   Reactome; R-HSA-1296041; Activation of G protein gated Potassium channels.
+DR   Reactome; R-HSA-202040; G-protein activation.
+DR   Reactome; R-HSA-2485179; Activation of the phototransduction cascade.
+DR   Reactome; R-HSA-2514859; Inactivation, recovery and regulation of the phototransduction cascade.
+DR   Reactome; R-HSA-381676; Glucagon-like Peptide-1 (GLP1) regulates insulin secretion.
+DR   Reactome; R-HSA-381753; Olfactory Signaling Pathway.
+DR   Reactome; R-HSA-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-HSA-392451; G beta:gamma signalling through PI3Kgamma.
+DR   Reactome; R-HSA-392851; Prostacyclin signalling through prostacyclin receptor.
+DR   Reactome; R-HSA-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-HSA-4086398; Ca2+ pathway.
+DR   Reactome; R-HSA-416476; G alpha (q) signalling events.
+DR   Reactome; R-HSA-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-HSA-418217; G beta:gamma signalling through PLC beta.
+DR   Reactome; R-HSA-418555; G alpha (s) signalling events.
+DR   Reactome; R-HSA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-HSA-418594; G alpha (i) signalling events.
+DR   Reactome; R-HSA-418597; G alpha (z) signalling events.
+DR   Reactome; R-HSA-420092; Glucagon-type ligand receptors.
+DR   Reactome; R-HSA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-HSA-432040; Vasopressin regulates renal water homeostasis via Aquaporins.
+DR   Reactome; R-HSA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Reactome; R-HSA-500657; Presynaptic function of Kainate receptors.
+DR   Reactome; R-HSA-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Reactome; R-HSA-8964315; G beta:gamma signalling through BTK.
+DR   Reactome; R-HSA-8964616; G beta:gamma signalling through CDC42.
+DR   Reactome; R-HSA-9009391; Extra-nuclear estrogen signaling.
+DR   Reactome; R-HSA-9660821; ADORA2B mediated anti-inflammatory cytokines production.
+DR   Reactome; R-HSA-997272; Inhibition of voltage gated Ca2+ channels via Gbeta/gamma subunits.
+DR   SIGNOR; P63211; -.
+DR   BioGRID-ORCS; 2792; 9 hits in 825 CRISPR screens.
+DR   ChiTaRS; GNGT1; human.
+DR   GeneWiki; GNGT1; -.
+DR   GenomeRNAi; 2792; -.
+DR   Pharos; P63211; Tbio.
+DR   PRO; PR:P63211; -.
+DR   Proteomes; UP000005640; Chromosome 7.
+DR   RNAct; P63211; protein.
+DR   Bgee; ENSG00000127928; Expressed in pigmented layer of retina and 71 other tissues.
+DR   ExpressionAtlas; P63211; baseline and differential.
+DR   Genevisible; P63211; HS.
+DR   GO; GO:0031680; C:G-protein beta/gamma-subunit complex; IBA:GO_Central.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0097381; C:photoreceptor disc membrane; TAS:Reactome.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0031681; F:G-protein beta-subunit binding; IBA:GO_Central.
+DR   GO; GO:0003924; F:GTPase activity; TAS:ProtInc.
+DR   GO; GO:0010659; P:cardiac muscle cell apoptotic process; IEA:Ensembl.
+DR   GO; GO:0071456; P:cellular response to hypoxia; IEA:Ensembl.
+DR   GO; GO:0042462; P:eye photoreceptor cell development; IEA:Ensembl.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0008104; P:protein localization; IEA:Ensembl.
+DR   GO; GO:0016056; P:rhodopsin mediated signaling pathway; TAS:Reactome.
+DR   GO; GO:0007165; P:signal transduction; NAS:ProtInc.
+DR   CDD; cd00068; GGL; 1.
+DR   Gene3D; 4.10.260.10; -; 1.
+DR   InterPro; IPR015898; G-protein_gamma-like_dom.
+DR   InterPro; IPR036284; GGL_sf.
+DR   InterPro; IPR001770; Gprotein-gamma.
+DR   PANTHER; PTHR13809; PTHR13809; 1.
+DR   Pfam; PF00631; G-gamma; 1.
+DR   PRINTS; PR00321; GPROTEING.
+DR   SMART; SM00224; GGL; 1.
+DR   SUPFAM; SSF48670; SSF48670; 1.
+DR   PROSITE; PS50058; G_PROTEIN_GAMMA; 1.
+PE   1: Evidence at protein level;
+KW   Cell membrane; Lipoprotein; Membrane; Methylation; Polymorphism;
+KW   Prenylation; Reference proteome; Transducer.
+FT   CHAIN           1..71
+FT                   /note="Guanine nucleotide-binding protein G(T) subunit
+FT                   gamma-T1"
+FT                   /id="PRO_0000012605"
+FT   PROPEP          72..74
+FT                   /note="Removed in mature form"
+FT                   /evidence="ECO:0000250"
+FT                   /id="PRO_0000012606"
+FT   MOD_RES         71
+FT                   /note="Cysteine methyl ester"
+FT                   /evidence="ECO:0000250"
+FT   LIPID           71
+FT                   /note="S-farnesyl cysteine"
+FT                   /evidence="ECO:0000250"
+FT   VARIANT         50
+FT                   /note="E -> K (in dbSNP:rs17243826)"
+FT                   /id="VAR_033949"
+SQ   SEQUENCE   74 AA;  8496 MW;  B12B42BE00DB1C05 CRC64;
+     MPVINIEDLT EKDKLKMEVD QLKKEVTLER MLVSKCCEEV RDYVEERSGE DPLVKGIPED
+     KNPFKELKGG CVIS
+//

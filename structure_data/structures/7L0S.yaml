@@ -1,0 +1,14 @@
+auxiliary_protein: ''
+construct: 7l0s
+distance: 4.5
+ligand:
+    chain: D
+    name: pep
+    pubchemId: 25077406
+    role: Agonist
+    title: Neurotensin
+    type: Peptide
+pdb: 7L0S
+preferred_chain: C
+signaling_protein: Gi1
+state: Active
