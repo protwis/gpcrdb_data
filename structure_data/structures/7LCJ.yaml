@@ -5,7 +5,7 @@ ligand:
     name: UK4
     pubchemId: 134611040
     role: Agonist
-    title: Unii-DN9iui24GP
+    title: PF-06882961
     type: Small molecule
 pdb: 7LCJ
 preferred_chain: R
