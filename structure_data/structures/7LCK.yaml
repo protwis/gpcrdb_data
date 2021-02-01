@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7lck
+distance: 6.53
+ligand:
+    name: UK4
+    pubchemId: 134611040
+    role: Agonist
+    title: PF-06882961
+    type: Small molecule
+pdb: 7LCK
+preferred_chain: R
+signaling_protein: None
+state: Active

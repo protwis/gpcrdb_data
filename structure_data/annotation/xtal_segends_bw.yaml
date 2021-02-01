@@ -2208,6 +2208,40 @@ npy1r_human__wt:
     2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 15
+npy2r_human__wt:
+    Key: npy2r_human__wt
+    1b: 30.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 68.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 32.0
+    5e: 72.0
+    6b: 23.0
+    6e: 61.0
+    7b: 27.0
+    7e: 56.0
+    8b: 47.0
+    8e: 63.0
+    Cl: A
+    RF: NeuropeptideY
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 34.0
+    e1e3b: 1.0
+    3ei2b: 15
 ntr1_human__wt:
     Key: ntr1_human__wt
     1b: 28.0

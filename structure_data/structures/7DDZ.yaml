@@ -1,0 +1,14 @@
+auxiliary_protein: 'T4-Lysozyme, Flavodoxin'
+construct: 7ddz
+distance: -1.07
+ligand:
+-   name: H46
+    pubchemId: 25151875
+    role: Antagonist
+    title: JNJ-31020028
+    type: Small molecule
+pdb: 7DDZ
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive
