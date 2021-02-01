@@ -14199,8 +14199,8 @@ npy1r_human:
     6e-7b: 6.0
     7e-8b: 1.0
 npy2r_human:
-    Xtal Templ: ox1r_human
-    1b: 50.0
+    Xtal Templ: npy2r_human
+    1b: 48.0
     1x: 68.0
     1e: 78.0
     i1b: 79.0
@@ -14224,7 +14224,7 @@ npy2r_human:
     e2b: 203.0
     e2x: 203.0
     e2e: 205.0
-    5b: 214.0
+    5b: 213.0
     5x: 231.0
     5e: 253.0
     6b: 256.0
@@ -14244,7 +14244,7 @@ npy2r_human:
     3e-i2b: '-'
     i2e-4b: '-'
     4e-e2b: 16.0
-    e2e-5b: 9.0
+    e2e-5b: 8.0
     5e-6b: 3.0
     6e-7b: 5.0
     7e-8b: 1.0

@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7lci
+distance: 6.78
+ligand:
+    name: UK4
+    pubchemId: 134611040
+    role: Agonist
+    title: Unii-DN9iui24GP
+    type: Small molecule
+pdb: 7LCI
+preferred_chain: R
+signaling_protein: Gs
+state: Active
