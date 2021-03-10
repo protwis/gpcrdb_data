@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7d76
+distance: 6.36
+ligand:
+    name: GXR
+    pubchemId: 20469
+    role: Agonist
+    title: Beclomethasone
+    type: Small molecule
+pdb: 7D76
+preferred_chain: R
+signaling_protein: Go
+state: Active

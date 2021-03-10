@@ -1,0 +1,18 @@
+auxiliary_protein: Nanobody-35
+construct: 7ckz
+distance: 8.43
+ligand:
+-   name: LDP
+    pubchemId: 681
+    role: Agonist
+    title: Dopamine
+    type: Small molecule
+-   name: G4C
+    pubchemId: 86290953
+    role: PAM
+    title: Mevidalen
+    type: Small molecule
+pdb: 7CKZ
+preferred_chain: R
+signaling_protein: Gs
+state: Active

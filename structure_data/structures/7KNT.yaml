@@ -1,0 +1,14 @@
+auxiliary_protein: RAMP1
+construct: 7knt
+distance: -4.18
+ligand:
+    name: apo
+    pubchemId: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
+    type: None
+pdb: 7KNT
+preferred_chain: R
+representative: true
+signaling_protein: None
+state: Inactive

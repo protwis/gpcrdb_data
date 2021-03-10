@@ -1,0 +1,13 @@
+auxiliary_protein: Nanobody-35
+construct: 7ckw
+distance: 8.75
+ligand:
+    name: G3C
+    pubchemId: 12668023
+    role: Agonist
+    title: Fenoldopam
+    type: Small molecule
+pdb: 7CKW
+preferred_chain: R
+signaling_protein: Gs
+state: Active
