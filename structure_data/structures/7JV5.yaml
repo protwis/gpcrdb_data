@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7jv5
+distance: 9.28
+ligand:
+    name: SK0
+    pubchemId: 12668019
+    role: Agonist
+    title: 743408-71-1
+    type: Small molecule
+pdb: 7JV5
+preferred_chain: R
+signaling_protein: Gs
+state: Active

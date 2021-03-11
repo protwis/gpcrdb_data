@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7jvp
+distance: 9.76
+ligand:
+    name: SK9
+    pubchemId: 9995976
+    role: Agonist
+    title: 39YLC3L0ZU
+    type: Small molecule
+pdb: 7JVP
+preferred_chain: R
+signaling_protein: Gs
+state: Active

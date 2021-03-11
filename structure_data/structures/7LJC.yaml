@@ -1,0 +1,18 @@
+auxiliary_protein: Nanobody-35
+construct: 7ljc
+distance: 9.33
+ligand:
+-   name: SK0
+    pubchemId: 12668019
+    role: Agonist
+    title: (1R)-6-chloro-1-phenyl-2,3,4,5-tetrahydro-1H-3-benzazepine-7,8-diol
+    type: Small molecule
+-   name: G4C
+    pubchemId: 86290953
+    role: PAM
+    title: Mevidalen
+    type: Small molecule
+pdb: 7LJC
+preferred_chain: R
+signaling_protein: Gs
+state: Active

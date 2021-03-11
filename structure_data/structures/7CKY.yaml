@@ -1,0 +1,13 @@
+auxiliary_protein: Nanobody-35
+construct: 7cky
+distance: 8.81
+ligand:
+    name: G3U
+    pubchemId: 86764103
+    role: Agonist
+    title: 6-[4-[3-(Difluoromethoxy)pyridin-2-yl]oxy-2-methylphenyl]-1,5-dimethylpyrimidine-2,4-dione
+    type: Small molecule
+pdb: 7CKY
+preferred_chain: R
+signaling_protein: Gs
+state: Active

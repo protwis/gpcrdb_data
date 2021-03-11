@@ -1,0 +1,13 @@
+auxiliary_protein: Nanobody-35
+construct: 7crh
+distance: 9.15
+ligand:
+    name: GBU
+    pubchemId: 6604003
+    role: Agonist
+    title: 1H-3-Benzazepine-7,8-diol, 6-chloro-2,3,4,5-tetrahydro-3-methyl-1-(3-methylphenyl)-, (1S)-
+    type: Small molecule
+pdb: 7CRH
+preferred_chain: R
+signaling_protein: Gs
+state: Active

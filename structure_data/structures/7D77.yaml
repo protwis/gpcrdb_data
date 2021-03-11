@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 7d77
+distance: 6.36
+ligand:
+    name: HCY
+    pubchemId: 5754
+    role: Agonist
+    title: Hydrocortisone
+    type: Small molecule
+pdb: 7D77
+preferred_chain: R
+representative: true
+signaling_protein: Go
+state: Active

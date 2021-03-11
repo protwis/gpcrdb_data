@@ -1,0 +1,15 @@
+auxiliary_protein: RAMP1
+construct: 7knu
+distance: -5.28
+ligand:
+    chain: P
+    name: pep
+    pubchemId: 56841902
+    role: Agonist
+    title: Calcitonin gene-related peptide 1
+    type: Peptide
+pdb: 7KNU
+preferred_chain: R
+representative: true
+signaling_protein: None
+state: Intermediate
