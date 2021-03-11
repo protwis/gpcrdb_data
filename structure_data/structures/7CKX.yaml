@@ -9,5 +9,5 @@ ligand:
     type: Small molecule
 pdb: 7CKX
 preferred_chain: R
-signaling_protein: Gsy
+signaling_protein: Gs
 state: Active
