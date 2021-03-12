@@ -4,7 +4,7 @@ distance: -0.87
 ligand:
 -   name: 6DV
     pubchemId: '44394716'
-    role: Agonist
+    role: Antagonist
     title: Q27456344
     type: Small molecule
 pdb: 5IUB
