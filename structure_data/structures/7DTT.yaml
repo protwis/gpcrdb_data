@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7dtt
+distance: 4.04
+ligand:
+    name: CA
+    pubchemId: 271
+    role: Agonist
+    title: Calcium ion
+    type: Ion
+pdb: 7DTT
+preferred_chain: A
+signaling_protein: None
+state: Active

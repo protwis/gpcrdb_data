@@ -1,0 +1,13 @@
+auxiliary_protein: 'BRIL, scFv16'
+construct: 7cmu
+distance: 7.34
+ligand:
+    name: G6L
+    pubchemId: 119570
+    role: Agonist
+    title: Pramipexole
+    type: Small molecule
+pdb: 7CMU
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

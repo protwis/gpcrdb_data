@@ -1,0 +1,14 @@
+auxiliary_protein: ''
+construct: 7dtu
+distance: 3.85
+ligand:
+    name: TRP
+    pubchemId: 6305
+    role: PAM
+    title: Tryptophan
+    type: Amino acid
+pdb: 7DTU
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Intermediate

@@ -3,8 +3,9 @@ construct: 4u14
 distance: 0.52
 ligand:
 -   name: 0HK
-    pubchemId: '5487427'
+    pubchemId: 5487427
     role: Antagonist
+    title: Tiotropium
     type: Small molecule
 pdb: 4U14
 preferred_chain: A
