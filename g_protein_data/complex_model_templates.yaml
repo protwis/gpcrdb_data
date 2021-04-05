@@ -792,7 +792,7 @@ gnaq_human:
         protein: gbg2_human
 gpa1_yeast:
 -   pdb: 7AD3
-    alpha: A
+    alpha: E
     beta:
         chain: F
         protein: a0a6a5q727_yeasx
