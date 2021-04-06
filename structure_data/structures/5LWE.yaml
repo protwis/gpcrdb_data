@@ -4,7 +4,7 @@ distance: 0.09
 ligand:
 -   name: 79K
     pubchemId: '10343454'
-    role: Antagonist
+    role: Allosteric antagonist
     title: Vercirnon
     type: Small molecule
 pdb: 5LWE

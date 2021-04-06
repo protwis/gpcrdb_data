@@ -9,7 +9,7 @@ ligand:
     type: Small molecule
 -   name: VT5
     pubchemId: '12093170'
-    role: NAM
+    role: Allosteric antagonist
     title: GTPL9431
     type: Small molecule
 pdb: 5T1A

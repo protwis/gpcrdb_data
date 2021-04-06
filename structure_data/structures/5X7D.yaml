@@ -9,7 +9,7 @@ ligand:
     type: Small molecule
 -   name: 8VS
     pubchemId: 129318963
-    role: NAM
+    role: Allosteric antagonist
     title: 4-carbamoyl-N-[(2R)-2-cyclohexyl-2-phenylacetyl]-L-phenylalanyl-3-bromo-N-methyl-L-phenylalaninamide
     type: Small molecule
 pdb: 5X7D

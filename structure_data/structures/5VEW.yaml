@@ -4,7 +4,7 @@ distance: -5.1
 ligand:
 -   name: 97Y
     pubchemId: 68178630
-    role: Antagonist
+    role: NAM
     title: PF-06372222
     type: Small molecule
 pdb: 5VEW

@@ -4,7 +4,7 @@ distance: -0.95
 ligand:
     name: JEY
     pubchemId: 4018512
-    role: Antagonist
+    role: Agonist
     title: 2-phenylmelatonin
     type: Small molecule
 pdb: 6PS8

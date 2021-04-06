@@ -4,7 +4,7 @@ distance: 6.87
 ligand:
 -   name: 8UN
     pubchemId: '126961335'
-    role: Antagonist
+    role: Allosteric antagonist
     title: AZ3451
     type: Small molecule
 pdb: 5NDZ

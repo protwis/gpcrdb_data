@@ -5,7 +5,7 @@ ligand:
     name: JEY
     pubchemId: 4018512
     role: Agonist
-    title: 2-Phenylmelatonin
+    title: 2-phenylmelatonin
     type: Small molecule
 pdb: 6ME3
 preferred_chain: A
