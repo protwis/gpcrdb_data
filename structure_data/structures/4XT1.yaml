@@ -5,7 +5,7 @@ ligand:
 -   chain: B
     name: pep
     pubchemId: None
-    role: Inverse agonist
+    role: Agonist (partial)
     title: Fractalkine
     type: Protein
 pdb: 4XT1
