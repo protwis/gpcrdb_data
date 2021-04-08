@@ -229,7 +229,7 @@
 6PB0:
     note: Gs-Gi1 chimera
 6WHA:
-    note: Gq-Gi2 chimera
+    note: Gq-Gi2-Gs chimera
 7AD3:
     note: Two alpha subunits bound to STE2 dimer
 7L0R:
@@ -239,4 +239,10 @@
 7LJC:
     note: Engineered G alpha
 7LJD:
+    note: Engineered G alpha
+7JVQ:
+    note: Engineered G alpha
+7L1U:
+    note: Engineered G alpha
+7L1V:
     note: Engineered G alpha

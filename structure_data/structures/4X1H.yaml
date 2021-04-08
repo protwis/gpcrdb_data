@@ -1,13 +1,9 @@
-auxiliary_protein: None
+auxiliary_protein: ''
 construct: 4x1h
 distance: 8.24
-endogenous_ligand:
--   iupharId: 6669
-    name: RET
-    type: Small molecule
 ligand:
     name: BNG
-    pubchemId: '155448'
+    pubchemId: 155448
     role: unknown
     title: B-Nonylglucoside
     type: Small molecule

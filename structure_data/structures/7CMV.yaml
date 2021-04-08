@@ -1,0 +1,14 @@
+auxiliary_protein: 'BRIL, scFv16'
+construct: 7cmv
+distance: 8.03
+ligand:
+    name: G6O
+    pubchemId: 5311346
+    role: Agonist
+    title: (4Ar,10bR)-rel-4-Propyl-2,3,4,4a,5,10b-hexahydrochromeno[4,3-b][1,4]oxazin-9-ol
+    type: Small molecule
+pdb: 7CMV
+preferred_chain: R
+representative: true
+signaling_protein: Gi
+state: Active

@@ -6,7 +6,7 @@ ligand:
     pubchemId: 71541719
     role: Agonist
     title: P395
-    type: None
+    type: Small molecule
 pdb: 7CFM
 preferred_chain: R
 signaling_protein: Gs

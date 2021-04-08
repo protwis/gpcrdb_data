@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 7l1u
+distance: 7.00
+ligand:
+    chain: L
+    name: pep
+    pubchemId: 92131430
+    role: Agonist
+    title: Orexin-A
+    type: Peptide
+pdb: 7L1U
+preferred_chain: R
+signaling_protein: Gs chimera
+state: Active

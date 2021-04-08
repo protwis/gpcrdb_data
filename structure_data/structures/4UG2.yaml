@@ -1,13 +1,13 @@
-auxiliary_protein: None
+auxiliary_protein: ''
 construct: 4ug2
 distance: 5.86
 ligand:
 -   name: NGI
-    pubchemId: '3086599'
+    pubchemId: 3086599
     role: Agonist
     title: CGS-21680
     type: Small molecule
 pdb: 4UG2
-preferred_chain: B
+preferred_chain: A
 signaling_protein: None
 state: Intermediate
