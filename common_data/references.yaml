@@ -264,7 +264,7 @@ https://gpcrdb.org/signprot/matrix:
     Default: 0
     Journal: ''
     Menu: G Proteins
-    Page: GPCR-G protein interactions & profiling
+    Page: Interface interactions & profiling
     Section: Structure Comparison
     Title: coming publication
     Video: ''
@@ -549,3 +549,23 @@ https://gpcrdb.org/protein/ste2_yeast/:
     Title: Structure of the class D GPCR Ste2 dimer coupled to two G proteins
     Video: ''
     Year: 2020.0
+https://gpcrdb.org/structure_comparison/comparative_analysis:
+    DOI: 10.21203/RS.3.RS-354878/V1
+    Default: 0
+    Journal: Preprint at Research Square
+    Menu: Receptors
+    Page: Structure comparison tool
+    Section: Structure Comparison
+    Title: An online GPCR structure analysis platform
+    Video: ''
+    Year: 2021.0
+https://gpcrdb.org/structure_comparison/structure_clustering:
+    DOI: 10.21203/RS.3.RS-354878/V1
+    Default: 0
+    Journal: Preprint at Research Square
+    Menu: Receptors
+    Page: Structure similarity trees
+    Section: Structure Comparison
+    Title: An online GPCR structure analysis platform
+    Video: ''
+    Year: 2021.0
