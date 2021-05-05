@@ -1,8 +1,8 @@
 5ht1a_human:
     UniProt: 5ht1a_human
-    Xtal Templ: 5ht1b_human
+    Xtal Templ: 5ht1a_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: 2x551
@@ -72,7 +72,7 @@
     UniProt: 5ht1d_human
     Xtal Templ: 5ht1b_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: 2x551
@@ -105,9 +105,9 @@
     '5.46': A
 5ht1e_human:
     UniProt: 5ht1e_human
-    Xtal Templ: 5ht1b_human
+    Xtal Templ: 5ht1e_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: 2x551
