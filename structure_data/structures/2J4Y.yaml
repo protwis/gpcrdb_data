@@ -8,7 +8,7 @@ endogenous_ligand:
 ligand:
 -   name: RET
     title: Retinal (11-cis)
-    pubchemId: '638015'
+    pubchemId: '5280490'
     role: Inverse agonist
     type: Small molecule
 pdb: 2J4Y
