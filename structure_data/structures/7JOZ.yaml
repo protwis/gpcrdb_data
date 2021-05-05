@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7joz
+distance: 9.29
+ligand:
+-   name: VFP
+    pubchemId: 75202022
+    role: Agonist
+    title: 6-{4-[(furo[3,2-c]pyridin-4-yl)oxy]-2-methylphenyl}-1,5-dimethylpyrimidine-2,4(1H,3H)-dione
+    type: Small molecule
+pdb: 7JOZ
+preferred_chain: R
+signaling_protein: Gs
+state: Active

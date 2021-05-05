@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7e2z
+distance: 9.28
+ligand:
+-   name: 9SC
+    pubchemId: 60795
+    role: Agonist (partial)
+    title: Aripiprazole
+    type: Small molecule
+pdb: 7E2Z
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

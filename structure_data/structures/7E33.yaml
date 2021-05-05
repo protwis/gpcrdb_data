@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 7e33
+distance: 9.7
+ligand:
+    name: HVU
+    pubchemId: 2438
+    role: Agonist
+    title: 3-(1-Methylpiperidin-4-yl)-1H-indol-5-ol
+    type: Small molecule
+pdb: 7E33
+preferred_chain: R
+representative: true
+signaling_protein: Gi1
+state: Active
