@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7e2y
+distance: 10.13
+ligand:
+-   name: SRO
+    pubchemId: 5202
+    role: Agonist
+    title: Serotonin
+    type: Small molecule
+pdb: 7E2Y
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

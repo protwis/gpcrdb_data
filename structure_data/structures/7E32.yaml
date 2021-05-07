@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 7e32
+distance: 8.95
+ligand:
+    name: SRO
+    pubchemId: 5202
+    role: Agonist
+    title: Serotonin
+    type: Small molecule
+pdb: 7E32
+preferred_chain: R
+representative: true
+signaling_protein: Gi1
+state: Active
