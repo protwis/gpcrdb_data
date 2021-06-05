@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin, Camelid antibody fragment Nb6B9'
+construct: 7bu7
+distance: 10.05
+ligand:
+-   name: P0G
+    pubchemId: 49837874
+    role: Agonist
+    title: BI-167107
+    type: Small molecule
+pdb: 7BU7
+preferred_chain: A
+signaling_protein: None
+state: Active

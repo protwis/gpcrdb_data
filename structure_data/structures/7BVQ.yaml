@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin'
+construct: 7bvq
+distance: 0.00
+ligand:
+-   name: CAU
+    pubchemId: 13023332
+    role: Inverse agonist
+    title: Carazolol
+    type: Small molecule
+pdb: 7BVQ
+preferred_chain: A
+signaling_protein: None
+state: Inactive

@@ -1,0 +1,13 @@
+auxiliary_protein: 'Endolysin, Camelid antibody fragment Nb6B9'
+construct: 7bu6
+distance: 10.05
+ligand:
+-   name: E5E
+    pubchemId: 6921840
+    role: Agonist
+    title: Noradrenaline
+    type: Small molecule
+pdb: 7BU6
+preferred_chain: A
+signaling_protein: None
+state: Active

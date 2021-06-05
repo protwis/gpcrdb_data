@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7cx3
+distance: 6.99
+ligand:
+    name: GNO
+    pubchemId: 18376177
+    role: Agonist
+    title: Taprenepag
+    type: Small molecule
+pdb: 7CX3
+preferred_chain: R
+signaling_protein: Gs
+state: Active
