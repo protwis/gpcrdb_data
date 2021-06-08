@@ -220,6 +220,18 @@
     note: Antibody
     chain: B
     category: Antibody
+7BU6:
+    note: Antibody
+    chain: B
+    category: Antibody
+7BU7:
+    note: Antibody
+    chain: B
+    category: Antibody
+7BTS:
+    note: Antibody
+    chain: B
+    category: Antibody
 6TKO:
     note:
     chain: B
@@ -246,3 +258,5 @@
     note: Engineered G alpha
 7L1V:
     note: Engineered G alpha
+7MBY:
+    note: Gq-Gs-Gi1 chimera

@@ -1,0 +1,15 @@
+auxiliary_protein: 'scFv16, Nanobody-35'
+construct: 7kh0
+distance: 8.96
+ligand:
+    chain: L
+    name: pep
+    pubchemId: 644077
+    role: Agonist
+    title: Argipressin
+    type: Peptide
+pdb: 7KH0
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active

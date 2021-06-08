@@ -1,0 +1,15 @@
+auxiliary_protein: ''
+construct: 7mby
+distance: 8.44
+ligand:
+ligand:
+    chain: P
+    name: pep
+    pubchemId: 444998
+    role: Agonist
+    title: Cholecystokinin-8
+    type: Peptide
+pdb: 7MBY
+preferred_chain: R
+signaling_protein: Gq
+state: Active
