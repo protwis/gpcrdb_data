@@ -1848,7 +1848,7 @@ fzd4_human__wt:
     3e: 55.0
     i2b: '-'
     i2e: '-'
-    4b: 41.0
+    4b: 34.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
@@ -1900,6 +1900,40 @@ fzd5_human__wt:
     i1e2b: 1.0
     2e-e1b: 15
     2e3b: 48.0
+    e1e3b: 15
+    3ei2b: 15
+fzd7_human__wt:
+    Key: fzd7_human__wt
+    1b: 27.0
+    1e: 60.0
+    i1b: 47.0
+    i1e: 51.0
+    2b: 38.0
+    2e: 63.0
+    e1b: '-'
+    e1e: '-'
+    3b: 24.0
+    3e: 55.0
+    i2b: '-'
+    i2e: '-'
+    4b: 34.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 35.0
+    5e: 73.0
+    6b: 26.0
+    6e: 78.0
+    7b: 31.0
+    7e: 54.0
+    8b: 47.0
+    8e: 63.0
+    Cl: F
+    RF: Frizzled
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 52.0
     e1e3b: 15
     3ei2b: 15
 g1sgd4_rabit__wt:
@@ -2317,10 +2351,10 @@ grm1_human__wt:
     i1b: 47.0
     i1e: 53.0
     2b: 39.0
-    2e: 61.0
+    2e: 62.0
     e1b: '-'
     e1e: '-'
-    3b: 22.0
+    3b: 21.0
     3e: 54.0
     i2b: '-'
     i2e: '-'
@@ -2333,6 +2367,74 @@ grm1_human__wt:
     6b: 33.0
     6e: 58.0
     7b: 33.0
+    7e: 64.0
+    8b: 46.0
+    8e: 57.0
+    Cl: C
+    RF: Metabotropicglutamate
+    1ei1b: 3.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 32.0
+    e1e3b: 15
+    3ei2b: 15
+grm2_human__wt:
+    Key: grm2_human__wt
+    1b: 32.0
+    1e: 60.0
+    i1b: 47.0
+    i1e: 53.0
+    2b: 39.0
+    2e: 62.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 37.0
+    5e: 64.0
+    6b: 31.0
+    6e: 59.0
+    7b: 30.0
+    7e: 64.0
+    8b: 46.0
+    8e: 57.0
+    Cl: C
+    RF: Metabotropicglutamate
+    1ei1b: 3.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 32.0
+    e1e3b: 15
+    3ei2b: 15
+grm4_human__wt:
+    Key: grm4_human__wt
+    1b: 34.0
+    1e: 60.0
+    i1b: 47.0
+    i1e: 53.0
+    2b: 39.0
+    2e: 61.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 60.0
+    i2b: '-'
+    i2e: '-'
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 36.0
+    5e: 61.0
+    6b: 34.0
+    6e: 61.0
+    7b: 30.0
     7e: 64.0
     8b: 46.0
     8e: 57.0
@@ -2376,6 +2478,40 @@ grm5_human__wt:
     i1e2b: 1.0
     2e-e1b: 15
     2e3b: 33.0
+    e1e3b: 15
+    3ei2b: 15
+grm7_human__wt:
+    Key: grm7_human__wt
+    1b: 35.0
+    1e: 60.0
+    i1b: 47.0
+    i1e: 53.0
+    2b: 39.0
+    2e: 62.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 36.0
+    5e: 62.0
+    6b: 31.0
+    6e: 58.0
+    7b: 33.0
+    7e: 64.0
+    8b: 46.0
+    8e: 57.0
+    Cl: C
+    RF: Metabotropicglutamate
+    1ei1b: 3.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 32.0
     e1e3b: 15
     3ei2b: 15
 hrh1_human__wt:
@@ -2963,7 +3099,7 @@ opsd_human__wt:
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 67.0
+    2e: 68.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -2986,8 +3122,8 @@ opsd_human__wt:
     RF: Opsins
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 2.0
-    2e3b: 35.0
+    2e-e1b: 1.0
+    2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
 opsd_todpa__wt:
@@ -3643,7 +3779,7 @@ s1pr1_human__wt:
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 63.0
+    2e: 64.0
     e1b: 47.0
     e1e: 53.0
     3b: 21.0
@@ -3666,8 +3802,42 @@ s1pr1_human__wt:
     RF: Lysophospholipid(S1P)
     1ei1b: 1.0
     i1e2b: 1.0
-    2e-e1b: 2.0
-    2e3b: 38.0
+    2e-e1b: 1.0
+    2e3b: 37.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+s1pr3_human__wt:
+    Key: s1pr3_human__wt
+    1b: 34.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 64.0
+    e1b: 47.0
+    e1e: 53.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 56.0
+    4b: 38.0
+    4e: 63.0
+    e2b: '-'
+    e2e: '-'
+    5b: 36.0
+    5e: 68.0
+    6b: 23.0
+    6e: 61.0
+    7b: 30.0
+    7e: 56.0
+    8b: 47.0
+    8e: 72.0
+    Cl: A
+    RF: Lysophospholipid(S1P)
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 37.0
     e1e3b: 1.0
     3ei2b: 1.0
 sctr_human__wt:

@@ -1,18 +1,23 @@
 auxiliary_protein: ''
-construct: 7dtv
-distance: 3.84
+construct: 7m3f
+distance: 11.15
 ligand:
 -   name: CA
-    pubchemId: 271 
+    pubchemId: 271
     role: Agonist
     title: Calcium ion
-    type: Ion 
+    type: Ion
 -   name: TRP
     pubchemId: 6305
     role: PAM
     title: Tryptophan
     type: Amino acid
-pdb: 7DTV
-preferred_chain: A
+-   name: YP4
+    pubchemId: 156419
+    role: PAM
+    title: Cinacalcet
+    type: Small molecule
+pdb: 7M3F
+preferred_chain: B
 signaling_protein: None
 state: Active

@@ -1,0 +1,13 @@
+auxiliary_protein: 'Anti-RON nanobody'
+construct: 7epb
+distance: 3.16
+ligand:
+-   name: 40F
+    pubchemId: 213056
+    role: Agonist
+    title: Eglumetad
+    type: Small molecule
+pdb: 7EPB
+preferred_chain: B
+signaling_protein: None
+state: Active

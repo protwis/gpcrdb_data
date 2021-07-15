@@ -1,0 +1,13 @@
+auxiliary_protein: 'scFv16'
+construct: 7e9h
+distance: 6.65
+ligand:
+    name: SEP
+    pubchemId: 68841
+    role: Agonist
+    title: Phosphoserine
+    type: Small molecule
+pdb: 7E9H
+preferred_chain: R
+signaling_protein: Gi3
+state: Intermediate

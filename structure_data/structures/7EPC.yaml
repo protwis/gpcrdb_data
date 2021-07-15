@@ -1,13 +1,13 @@
 auxiliary_protein: ''
-construct: 7dtw
-distance: 2.94
+construct: 7epc
+distance: 3.16
 ligand:
-    name: apo
+-   name: apo
     pubchemId: None
     role: Apo (no ligand)
     title: Apo (no ligand)
     type: None
-pdb: 7DTW
-preferred_chain: A
+pdb: 7EPC
+preferred_chain: B
 signaling_protein: None
 state: Inactive
