@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7bb6
+distance: 6.96
+ligand:
+    chain: H
+    name: pep
+    pubchemId: 644077
+    role: Agonist
+    title: Argipressin
+    type: Peptide
+pdb: 7BB6
+preferred_chain: A
+signaling_protein: Gs
+state: Intermediate

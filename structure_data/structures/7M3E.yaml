@@ -1,0 +1,23 @@
+auxiliary_protein: ''
+construct: 7m3e
+distance: 10.67
+ligand:
+-   name: CA
+    pubchemId: 271
+    role: Agonist
+    title: Calcium ion
+    type: Ion
+-   name: TRP
+    pubchemId: 6305
+    role: PAM
+    title: Tryptophan
+    type: Amino acid
+-   name: YP1
+    pubchemId: 6918446
+    role: NAM
+    title: NPS-2143
+    type: Small molecule
+pdb: 7M3E
+preferred_chain: B
+signaling_protein: None
+state: Inactive
