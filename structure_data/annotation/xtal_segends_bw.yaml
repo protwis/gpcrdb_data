@@ -1062,8 +1062,8 @@ casr_human__wt:
     2e: 61.0
     e1b: '-'
     e1e: '-'
-    3b: 22.0
-    3e: 55.0
+    3b: 21.0
+    3e: 54.0
     i2b: '-'
     i2e: '-'
     4b: 38.0
@@ -1083,7 +1083,7 @@ casr_human__wt:
     1ei1b: 3.0
     i1e2b: 1.0
     2e-e1b: 15
-    2e3b: 32.0
+    2e3b: 33.0
     e1e3b: 15
     3ei2b: 15
 cckar_human__wt:
