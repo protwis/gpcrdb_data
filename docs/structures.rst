@@ -97,30 +97,13 @@ missing atoms in the added models which lead to different superpositionings and 
 .. _Kooistra et al. 2020: https://doi.org/10.1093/nar/gkaa1080
 .. _RosettaGPCR: http://www.meilerlab.org/index.php/gpcrmodeldb
 
-Structure superposition
------------------------
+Structure descriptors
+----------------------
 
-The superposition tool allows users to upload two or more structures (or models) and superpose them based on a
-user-specified segment selection. Using the tool is a two step process.
+* Activate state definition
+	The activation state of the structures are defined on the distances between all Cα atoms for residues on the intracellular half of each of the seven transmembrane helices. These distances are also used for the generation of the `Structural similarity trees <structure_comparison.html#structure-similarity-trees>`__ . For each class, structures in complex with a signaling protein are are set as the reference structures for the active state(100% degree activation). Subsequently, structures with a highly closed conformation are set as the reference structures for the inactive state (0% degree activation) based on a maximum distance between 2x46 to 6x37 for all classes except for class F for which the distance between 2x44 to 6x31 is used (maximum distances are 11.9Å, 13Å, 14.5Å, 13Å for classes A, B, C, and F, respectively). The Cα atom distance pairs for each structure are compared to the reference structures and the mean distance to the active structures and the mean distance to the inactive structures are then calculated. If a structure has a low distance to the inactive structures its state is defined as *inactive*, vice versa if a structure has a low distance to the active structures then its state is defined as *active*. However, if both are not the case then the structure is defined as *intermediate*. In some cases, when an unlikely conformation is encountered its state is defined as *other* as is now the case for the structure of the plate-activating factor receptor `5ZKP <https://gpcrdb.org/structure/5ZKP>`__.
 
-1.  Select structures to upload. Only on reference structure can be uploaded, but multiple structures to superpose on
-    the reference can be uploaded. To select many structures for upload, hold down the Control key (or Command on Mac)
-    while selecting
-2.  After structures have been uploaded, the user is presented with a sequence segment selection page. The user can
-    select one or more sequence segments, and/or expand each segment to select the residues within it individually.
-    Residues selected individually are grouped into a custom sequence segment.
+	*The degree activation*:  These distances to the reference structure sets are then converted into an "activation score" by substracting the mean distance to the inactive-state structures from the mean distance to the active-state structures. The activation score is converted into a percentage activation based on the minimum and maximum activation scores for all structures in that class.
 
-Generic residue numbering (PDB)
--------------------------------
-
-The PDB file residue numbering tool adds generic residue numbers from GPCRdb to any GPCR structure or model. This can
-be useful when comparing structures visually.
-
-A user simply uploads her structure and downloads a modified version of that structure, where b factors of certain
-atoms have been replaced with generic numbers. Note that CA atoms will be assigned a number in GPCRdb notation, and N
-atoms will be annotated with Ballesteros-Weinstein scheme.
-
-On the structure download page, users can download scripts to visualize the generic numbers in `PyMOL`_ and `Maestro`_.
-
-.. _PyMOL: https://pymol.org
-.. _Maestro: https://www.schrodinger.com/Maestro
+* TM6 tilt
+	The TM6 tilt measure is defined based on the distance between the Ca atoms for the residues 2x46 and 6x37 for all classes except for class F for which the distance between 2x44 and 6x31 is used. For each structure, this distance (when the residues are present) is converted into a percentage by comparing it to the minimum and maximum distance observed in any other structure for that specific class.

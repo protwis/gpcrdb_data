@@ -75,7 +75,7 @@ This page would not be complete without Laerte Oliveira. Ever since the start of
 
     **Figure 2**. GPCRdb 2007-2013.
 
-Many people have contributed over the years to the shape of the GPCRdb that you see now. Rob Hooft was, en Maarten
+Many people have contributed over the years to the shape of the GPCRdb that you see now. Rob Hooft was, and Maarten
 Hekkelman now is our bit and byte guru. Maarten also wrote the profile BLAST. Fabien Campagne wrote the snake plot
 software for us. Margot Beukers, Fred Cohen, Oyvind Edvardsen, Kurt Kristiansen, have been involved in the mutant
 section of the GPCRdb; Oyvind and Kurt made tinyGRAP that now is integrated in the GPCRdb. Wilma Kuipers, Nora vd

@@ -29,6 +29,7 @@ The documentation is organized into four sections:
 
     tutorial_receptors
     tutorial_structures
+    tutorial_structure_comparison
     tutorial_mutations
     tutorial_sites
 
@@ -43,6 +44,7 @@ The documentation is organized into four sections:
     sequences
     sequence_signature
     structures
+    structure_comparison
     constructs
     mutations
     sites
