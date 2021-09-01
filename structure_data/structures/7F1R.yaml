@@ -1,0 +1,14 @@
+auxiliary_protein: ''
+construct: 7f1r
+distance: 10.12
+ligand:
+    chain: R
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: CCL5
+    type: Protein
+pdb: 7F1R
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

@@ -1,0 +1,15 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7dty
+distance: 5.93
+ligand:
+    chain: P
+    name: pep
+    pubchemId: 90488736
+    role: Agonist
+    title: GIP
+    type: Peptide
+pdb: 7DTY
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active

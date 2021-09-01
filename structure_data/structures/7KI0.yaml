@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7ki0
+distance: 7.23
+ligand:
+    chain: P
+    name: pep
+    pubchemId: 56843331
+    role: Agonist
+    title: Semaglutide
+    type: Peptide
+pdb: 7KI0
+preferred_chain: R
+signaling_protein: Gs
+state: Active

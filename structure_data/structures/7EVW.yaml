@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7evw
+distance: 5.12
+ligand:
+-   name: apo
+    pubchemId: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
+    type: None
+pdb: 7EVW
+preferred_chain: R
+signaling_protein: Gs
+state: Active
