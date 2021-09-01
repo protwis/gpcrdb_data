@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7mtq
+distance: 6.63
+ligand:
+    name: Z99
+    pubchemId: 9819927
+    role: Antagonist
+    title: 2-[(1s,2s)-2-Carboxycyclopropyl]-3-(9h-Xanthen-9-Yl)-D-Alanine
+    type: Small molecule
+pdb: 7MTQ
+preferred_chain: B
+signaling_protein: None
+state: Inactive

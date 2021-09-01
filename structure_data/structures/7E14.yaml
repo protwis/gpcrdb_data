@@ -1,0 +1,18 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7e14
+distance: 6.89
+ligand:
+-   name: V6G
+    pubchemId: 137319706
+    role: Agonist
+    title: 3-[(1S,2S)-1-(5-[(4S)-2,2-dimethyloxan-4-yl]-2-{(4S)-2-(4-fluoro-3,5-dimethylphenyl)-3-[3-(4-fluoro-1-methyl-1H-indazol-5-yl)-2-oxo-2,3-dihydro-1H-imidazol-1-yl]-4-methyl-2,4,6,7-tetrahydro-5H-pyrazolo[4,3-c]pyridine-5-carbonyl}-1H-indol-1-yl)-2-methylcyclopropyl]-1,2,4-oxadiazol-5(4H)-one
+    type: Small molecule
+-   name: HNO
+    pubchemId: 156022738
+    role: Ago-PAM
+    title: N-Tert-butyl-6,7-dichloroquinoxalin-2-amine
+    type: Small molecule
+pdb: 7E14
+preferred_chain: R
+signaling_protein: Gs
+state: Active

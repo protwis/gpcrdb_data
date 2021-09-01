@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35, scFv16'
+construct: 7dw9
+distance: 8.47
+ligand:
+    chain: C
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: CYS-TYR-PHE-GLN-ASN-CYS-PRO-ARG-GLY-NH2
+    type: Peptide
+pdb: 7DW9
+preferred_chain: R
+signaling_protein: Gs
+state: Active

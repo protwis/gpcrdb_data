@@ -1,0 +1,13 @@
+auxiliary_protein: 'GRK1'
+construct: 7mt9
+distance: 10.61
+ligand:
+    name: RET
+    pubchemId: 638015
+    role: Agonist
+    title: Retinal (all-trans)
+    type: Small molecule
+pdb: 7MT9
+preferred_chain: R
+signaling_protein: None
+state: Active

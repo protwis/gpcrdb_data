@@ -1,0 +1,19 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7duq
+distance: 7.13
+ligand:
+-   chain: P
+    name: pep
+    pubchemId: 16135499
+    role: Agonist
+    title: Glucagon-like peptide 1
+    type: Peptide
+-   name: HNO
+    pubchemId: 156022738
+    role: Ago-PAM
+    title: N-Tert-butyl-6,7-dichloroquinoxalin-2-amine
+    type: Small molecule
+pdb: 7DUQ
+preferred_chain: R
+signaling_protein: Gs
+state: Active

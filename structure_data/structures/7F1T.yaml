@@ -1,0 +1,13 @@
+auxiliary_protein: 'Rubredoxin'
+construct: 7f1t
+distance: 0.4
+ligand:
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: CCL3
+    type: Protein
+pdb: 7F1T
+preferred_chain: A
+signaling_protein: None
+state: Inactive

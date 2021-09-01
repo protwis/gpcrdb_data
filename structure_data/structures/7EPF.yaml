@@ -1,0 +1,13 @@
+auxiliary_protein: 'Flavodoxin'
+construct: 7epf
+distance: 4.98
+ligand:
+    name: J9U
+    pubchemId: 155925951
+    role: NAM
+    title: (8~{R})-4-[2,4-Bis(fluoranyl)phenyl]-8-methyl-7-[(2-methylpyrazol-3-yl)methyl]-6,8-dihydro-5~{H}-1,7-naphthyridine-2-carboxamide
+    type: Small molecule
+pdb: 7EPF
+preferred_chain: A
+signaling_protein: None
+state: Inactive

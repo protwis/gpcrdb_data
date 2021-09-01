@@ -1,0 +1,13 @@
+auxiliary_protein: 'GRK1, Fab light chain, Fab heavy chain'
+construct: 7mtb
+distance: 8.8
+ligand:
+    name: RET
+    pubchemId: 638015
+    role: Agonist
+    title: Retinal (all-trans)
+    type: Small molecule
+pdb: 7MTB
+preferred_chain: R
+signaling_protein: None
+state: Active

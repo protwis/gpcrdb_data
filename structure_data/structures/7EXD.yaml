@@ -1,0 +1,14 @@
+auxiliary_protein: 'BRIL, scFv16'
+construct: 7exd
+distance: 8.47
+ligand:
+    name: 05X
+    pubchemId: 11610526
+    role: Agonist
+    title: Lasmiditan
+    type: Small molecule
+pdb: 7EXD
+preferred_chain: R
+representative: true
+signaling_protein: Gi1
+state: Active

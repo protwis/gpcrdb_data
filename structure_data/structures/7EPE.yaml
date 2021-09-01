@@ -1,0 +1,15 @@
+auxiliary_protein: 'Flavodoxin'
+construct: 7epe
+distance: 4.98
+ligand:
+    name: J9R
+    pubchemId: 117641885 
+    role: NAM
+    title: 4-(1-Methylpyrazol-4-yl)-7-[[(2~{S})-2-(trifluoromethyl)morpholin-4-yl]methyl]quinoline-2-carboxamide
+    type: Small molecule
+pdb: 7EPE
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive
+
