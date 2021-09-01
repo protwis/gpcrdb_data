@@ -298,7 +298,7 @@ https://gproteindb.org/alignment/gproteinselection:
     Title: "Selectivity determinants of GPCR\u2013G-protein binding"
     Video: ''
     Year: 2017.0
-https://gpcrdb.org/residue/residuetable_gprot:
+https://gproteindb.org/residue/residuetable_gprot:
     DOI: ''
     Default: 0
     Journal: Submitted
@@ -506,7 +506,7 @@ https://gpcrdb.org/structure_comparison/comparative_analysis:
     Page: Structure comparison tool
     Section: Structure Comparison
     Title: An online GPCR structure analysis platform
-    Video: ''
+    Video: 'https://www.youtube.com/watch?v=X8j_xpryZ4U&start=4880'
     Year: 2021.0
 https://gpcrdb.org/structure_comparison/structure_clustering:
     DOI: 10.21203/RS.3.RS-354878/V1
@@ -516,7 +516,7 @@ https://gpcrdb.org/structure_comparison/structure_clustering:
     Page: Structure similarity trees
     Section: Structure Comparison
     Title: An online GPCR structure analysis platform
-    Video: ''
+    Video: 'https://www.youtube.com/watch?v=X8j_xpryZ4U&start=4490'
     Year: 2021.0
 https://gpcrdb.org/structure/statistics:
     DOI: 10.1111/BPH.13509
