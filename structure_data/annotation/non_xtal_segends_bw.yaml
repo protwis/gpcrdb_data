@@ -2510,7 +2510,7 @@ ccrl2_human:
     8e: 59.0
     Cl: A
 celr1_human:
-    XtalTempl: pth1r_human
+    XtalTempl: gipr_human
     1b: 30.0
     1e: 60.0
     i1b: 48.0
@@ -2523,12 +2523,12 @@ celr1_human:
     3e: 56.0
     i2b: '-'
     i2e: '-'
-    4b: 37.0
+    4b: 41.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 37.0
-    5e: 69.0
+    5e: 72.0
     6b: 29.0
     6e: 54.0
     7b: 31.0
