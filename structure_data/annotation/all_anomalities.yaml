@@ -3255,7 +3255,7 @@ ccrl2_human:
     '5.46': V
 celr1_human:
     UniProt: celr1_human
-    Xtal Templ: pth1r_human
+    Xtal Templ: gipr_human
     Cl: B2
     Xtalised: NoXtal
     1x36: ''

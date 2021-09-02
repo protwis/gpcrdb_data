@@ -4649,7 +4649,7 @@ ccrl2_human:
     6e-7b: 4.0
     7e-8b: 1.0
 celr1_human:
-    Xtal Templ: pth1r_human
+    Xtal Templ: gipr_human
     1b: 2463.0
     1x: 2483.0
     1e: 2493.0
@@ -4668,7 +4668,7 @@ celr1_human:
     i2b: '-'
     i2x: '-'
     i2e: '-'
-    4b: 2566.0
+    4b: 2570.0
     4x: 2579.0
     4e: 2593.0
     e2b: 2603.0
@@ -4676,7 +4676,7 @@ celr1_human:
     e2e: 2605.0
     5b: 2609.0
     5x: 2622.0
-    5e: 2641.0
+    5e: 2644.0
     6b: 2649.0
     6x: 2670.0
     6e: 2674.0
@@ -4695,7 +4695,7 @@ celr1_human:
     i2e-4b: '-'
     4e-e2b: 10.0
     e2e-5b: 4.0
-    5e-6b: 8.0
+    5e-6b: 5.0
     6e-7b: 5.0
     7e-8b: 1.0
 celr2_human:

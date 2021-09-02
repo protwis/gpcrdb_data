@@ -40,7 +40,7 @@ agrv1_human,agrg3_human
 agra1_human,agrg3_human
 agra2_human,crfr2_human
 agra3_human,sctr_human
-celr1_human,pth1r_human
+celr1_human,gipr_human
 celr2_human,calrl_human
 agrl3_human,agrg3_human
 agrl2_human,agrg3_human
@@ -200,7 +200,7 @@ glp1r_human,glp1r_human
 vipr2_human,pacr_human
 pacr_human,pacr_human
 vipr1_human,vipr1_human
-gipr_human,glr_human
+gipr_human,gipr_human
 glr_human,glr_human
 glp2r_human,glp2r_human
 pth1r_human,pth1r_human
