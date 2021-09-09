@@ -3,7 +3,7 @@ construct: 4ldo
 distance: 9.16
 ligand:
 -   name: ALE
-    pubchemId: '5816'
+    pubchemId: 5816
     role: Agonist
     title: Epinephrine
     type: Small molecule

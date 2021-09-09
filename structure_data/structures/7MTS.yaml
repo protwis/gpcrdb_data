@@ -1,0 +1,19 @@
+auxiliary_protein: ''
+construct: 7mts
+distance: 6.79
+ligand:
+-   name: GLU
+    pubchemId: 33032
+    role: Agonist
+    title: Glutamic acid
+    type: Amino acid
+-   name: ZQY
+    pubchemId: 11669059
+    role: Ago-PAM
+    title: 2-methoxy-6-propyl-N-(2-{4-[(1H-tetrazol-5-yl)methoxy]phenyl}ethyl)thieno[2,3-d]pyrimidin-4-amine
+    type: Small molecule
+pdb: 7MTS
+preferred_chain: A
+representative: true
+signaling_protein: Gi1
+state: Active

@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7f1s
+distance: 9.86
+ligand:
+    name: apo
+    pubchemId: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
+    type: None
+pdb: 7F1S
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

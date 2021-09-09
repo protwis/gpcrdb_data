@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 7dfl
+distance: 8.77
+ligand:
+    name: HSM
+    pubchemId: 774
+    role: Agonist
+    title: Histamine
+    type: Small molecule
+pdb: 7DFL
+preferred_chain: R
+representative: true
+signaling_protein: Gq
+state: Active

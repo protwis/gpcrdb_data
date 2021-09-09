@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16, Sb51'
+construct: 7l1v
+distance: 7.00
+ligand:
+    name: XGD
+    pubchemId: 155491009
+    role: Agonist
+    title: 4'-Methoxy-N,N-dimethyl-3'-{[3-(2-{[2-(2H-1,2,3-triazol-2-yl)benzene-1-carbonyl]amino}ethyl)phenyl]sulfamoyl}[1,1'-biphenyl]-3-carboxamide
+    type: Small molecule
+pdb: 7L1V
+preferred_chain: R
+representative: true
+signaling_protein: Gs chimera
+state: Active

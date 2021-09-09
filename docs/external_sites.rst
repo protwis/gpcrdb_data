@@ -54,7 +54,7 @@ and/or further equilibrate your GPCR structure with our all-atom Molecular Dynam
 
 
 `Hybrid MM/CG webserver`_
-~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hybrid Molecular Mechanics/Coarse-Grained (MM/CG) simulations have been shown to help refine ligand poses in human G 
 protein-coupled receptors (hGPCRs). The Hybrid MM/CG Webserver takes structures of GPCR/ligand complexes (that can be 
@@ -79,7 +79,7 @@ particularly by the United Nations Educational, Scientific and Cultural Organiza
 .. _Guide to Pharmacology: https://www.guidetopharmacology.org/
 
 `DrGPCR`_
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~
 
 The Dr. GPCR Ecosystem is a website aiming to connect the general GPCR community through various initiatives such as
 Cafe and Connect events to promote networking, product and reagent knowledge sharing, as well as talking science

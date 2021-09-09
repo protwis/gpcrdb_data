@@ -4,7 +4,7 @@ distance: -4.53
 ligand:
 -   name: 97V
     pubchemId: 23549991
-    role: Antagonist
+    role: NAM
     title: NNC0640
     type: Small molecule
 pdb: 5XEZ

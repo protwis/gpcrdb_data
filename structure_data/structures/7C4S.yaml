@@ -1,0 +1,13 @@
+auxiliary_protein: 'Fab light chain, Fab heavy chain'
+construct: 7c4s
+distance: 6.03
+ligand:
+    name: S1P
+    pubchemId: 5283560
+    role: Agonist
+    title: Sphingosine 1-phosphate
+    type: Small molecule
+pdb: 7C4S
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

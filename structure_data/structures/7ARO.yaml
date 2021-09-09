@@ -1,0 +1,13 @@
+auxiliary_protein: 'BRIL'
+construct: 7aro
+distance: -0.63
+ligand:
+    name: RVZ
+    pubchemId: 11174953
+    role: Agonist (partial)
+    title: 2-Amino-6-(1H-imidazol-2-ylmethylsulfanyl)-4-phenyl-pyridine-3,5-dicarbonitrile
+    type: Small molecule
+pdb: 7ARO
+preferred_chain: A
+signaling_protein: None
+state: Inactive

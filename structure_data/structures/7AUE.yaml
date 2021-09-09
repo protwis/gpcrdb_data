@@ -1,0 +1,16 @@
+auxiliary_protein: scFv16
+construct: 7aue
+distance: 9.00
+ligand:
+-   chain: C
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Aminoserine
+    type: Peptide
+pdb: 7AUE
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active
+

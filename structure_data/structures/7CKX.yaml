@@ -1,0 +1,13 @@
+auxiliary_protein: Nanobody-35
+construct: 7ckx
+distance: 9.24
+ligand:
+    name: G3O
+    pubchemId: None
+    role: Agonist
+    title: (1R,3S)-3-(1-adamantyl)-1-(aminomethyl)-3,4-dihydro-1H-isochromene-5,6-diol
+    type: Small molecule
+pdb: 7CKX
+preferred_chain: R
+signaling_protein: Gs
+state: Active

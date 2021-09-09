@@ -9,6 +9,5 @@ ligand:
     type: Small molecule
 pdb: 6VMS
 preferred_chain: R
-representative: true
 signaling_protein: Gi1
 state: Intermediate

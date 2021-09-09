@@ -1,0 +1,14 @@
+auxiliary_protein: 'Endolysin, Camelid antibody fragment Nb6B9'
+construct: 7bts
+distance: 10.05
+ligand:
+-   name: ALE
+    pubchemId: 5816
+    role: Agonist
+    title: Epinephrine
+    type: Small molecule
+pdb: 7BTS
+preferred_chain: A
+signaling_protein: None
+state: Active
+

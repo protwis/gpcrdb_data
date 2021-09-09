@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7epd
+distance: 4.98
+ligand:
+    name: apo
+    pubchemId: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
+    type: None
+pdb: 7EPD
+preferred_chain: A
+signaling_protein: None
+state: Inactive

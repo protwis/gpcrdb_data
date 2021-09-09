@@ -4,7 +4,7 @@ distance: -0.49
 ligand:
     name: JLW
     pubchemId: 136165388
-    role: Antagonist
+    role: Allosteric antagonist
     title: SCHEMBL13407377
     type: Small molecule
 pdb: 6QZH

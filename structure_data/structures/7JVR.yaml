@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 7jvr
+distance: 7.4
+ligand:
+    name: 08Y
+    pubchemId: 31101
+    role: Agonist
+    title: Bromocriptine
+    type: Small molecule
+pdb: 7JVR
+preferred_chain: R
+representative: true
+signaling_protein: Gi1
+state: Active

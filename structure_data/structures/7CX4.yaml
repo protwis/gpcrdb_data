@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7cx4
+distance: 7.22
+ligand:
+    name: GM9
+    pubchemId: 9890801
+    role: Agonist
+    title: Evatanepag
+    type: Small molecule
+pdb: 7CX4
+preferred_chain: R
+signaling_protein: Gs
+state: Active

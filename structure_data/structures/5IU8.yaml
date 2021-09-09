@@ -4,7 +4,7 @@ distance: -0.82
 ligand:
 -   name: 6DZ
     pubchemId: '121225598'
-    role: Agonist
+    role: Antagonist
     title: Q27456347
     type: Small molecule
 pdb: 5IU8

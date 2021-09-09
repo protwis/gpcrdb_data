@@ -1,14 +1,11 @@
 auxiliary_protein: T4-Lysozyme
 construct: 4u15
 distance: 0.5
-endogenous_ligand:
--   iupharId: 294
-    name: Acetylcholine
-    type: Small molecule
 ligand:
 -   name: 0HK
-    pubchemId: '5487427'
+    pubchemId: 5487427
     role: Antagonist
+    title: Tiotropium
     type: Small molecule
 pdb: 4U15
 preferred_chain: B

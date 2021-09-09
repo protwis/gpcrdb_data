@@ -1,0 +1,14 @@
+auxiliary_protein: ''
+construct: 7e2x
+distance: 9.27
+ligand:
+    name: apo
+    pubchemId: None
+    role: Apo (no ligand)
+    title: Apo (no ligand)
+    type: None
+pdb: 7E2X
+preferred_chain: R
+representative: true
+signaling_protein: Gi1
+state: Active

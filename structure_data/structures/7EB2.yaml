@@ -1,0 +1,18 @@
+auxiliary_protein: 'scFv16'
+construct: 7eb2
+distance: 6.82
+ligand:
+-   name: FN0
+    pubchemId: 7023848
+    role: PAM
+    title: BHFF
+    type: Small molecule
+-   name: 2C0
+    pubchemId: 44602
+    role: Agonist
+    title: Baclofen
+    type: Small molecule
+pdb: 7EB2
+preferred_chain: D
+signaling_protein: Gi1
+state: Active

@@ -2,10 +2,10 @@ auxiliary_protein: 'Nanobody-35'
 construct: 7d7m
 distance: 6.36
 ligand:
-    name: P2E
+-   name: P2E
     pubchemId: 5280360
     role: Agonist
-    title: Dinoprostone
+    title: Prostaglandin E2
     type: Small molecule
 pdb: 7D7M
 preferred_chain: A

@@ -1,0 +1,19 @@
+auxiliary_protein: ''
+construct: 7dd6
+distance: 3.84
+ligand:
+-   name: CA
+    pubchemId: 271
+    role: Agonist
+    title: Calcium ion
+    type: Ion
+-   name: TRP
+    pubchemId: 6305
+    role: PAM
+    title: Tryptophan
+    type: Amino acid
+pdb: 7DD6
+preferred_chain: B
+representative: true
+signaling_protein: None
+state: Active

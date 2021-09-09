@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7dh5
+ligand:
+    name: H6U
+    pubchemId: 9865528
+    role: Agonist
+    title: Mirabegron
+    type: Small molecule
+pdb: 7DH5
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active

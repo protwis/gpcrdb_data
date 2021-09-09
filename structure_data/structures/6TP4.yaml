@@ -8,6 +8,6 @@ ligand:
     title: ACT-462206
     type: Small molecule
 pdb: 6TP4
-preferred_chain: B
+preferred_chain: A
 signaling_protein: None
 state: Inactive

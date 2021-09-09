@@ -1,0 +1,14 @@
+auxiliary_protein: 'Flavodoxin'
+construct: 7k15
+distance: 0.94
+ligand:
+    name: VRJ
+    pubchemId: 129208412
+    role: Antagonist
+    title: N-(tert-butylsulfonyl)-4-fluoro-2-{(3S,4R)-4-hydroxy-3-[(pyridin-2-yl)methyl]-3,4-dihydro-2H-1-benzopyran-7-yl}benzamide
+    type: Small molecule
+pdb: 7K15
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

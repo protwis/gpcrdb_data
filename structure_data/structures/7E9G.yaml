@@ -1,0 +1,18 @@
+auxiliary_protein: 'scFv16, DN13'
+construct: 7e9g
+distance: 5.15
+ligand:
+-   name: 40F
+    pubchemId: 213056
+    role: Agonist
+    title: Eglumetad
+    type: Small molecule
+-   name: HZR
+    pubchemId: 25195461
+    role: PAM
+    title: 1-butyl-3-chloranyl-4-(4-phenylpiperidin-1-yl)pyridin-2-one
+    type: Small molecule
+pdb: 7E9G
+preferred_chain: R
+signaling_protein: Gi1
+state: Intermediate

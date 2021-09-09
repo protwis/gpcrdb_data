@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7cx2
+distance: 7.23
+ligand:
+-   name: P2E
+    pubchemId: 5280360
+    role: Agonist
+    title: Prostaglandin E2
+    type: Small molecule
+pdb: 7CX2
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active
