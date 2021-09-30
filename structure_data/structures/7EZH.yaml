@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 7ezh
+distance: 8.02
+ligand:
+    chain: P
+    name: pep
+    pubchemId: 9833444
+    role: Agonist
+    title: Cholecystokinin-8
+    type: Peptide
+pdb: 7EZH
+preferred_chain: D
+signaling_protein: Gi1
+state: Active

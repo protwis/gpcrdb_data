@@ -239,9 +239,9 @@ http://files.gpcrdb.org/GPCR-Gprotein_Mutations.xlsx:
     Video: ''
     Year: 2017.0
 https://gproteindb.org/mutations/gprot_coupling:
-    DOI: ''
+    DOI: 10.1093/NAR/GKAB852
     Default: GproteinDb
-    Journal: Submitted
+    Journal: NAR
     Menu: GproteinDb
     Page: Coupling determinant mutation design
     Section: Determinants & Mutations
@@ -249,9 +249,9 @@ https://gproteindb.org/mutations/gprot_coupling:
     Video: ''
     Year: 2021.0
 https://gproteindb.org/signprot/couplings:
-    DOI: ''
+    DOI: 10.1093/NAR/GKAB852
     Default: 0
-    Journal: Submitted
+    Journal: NAR
     Menu: GproteinDb
     Page: G protein couplings
     Section: G protein coupling
@@ -259,9 +259,9 @@ https://gproteindb.org/signprot/couplings:
     Video: ''
     Year: 2021.0
 https://gproteindb.org/signprot/statistics_venn:
-    DOI: ''
+    DOI: 10.1093/NAR/GKAB852
     Default: 0
-    Journal: Submitted
+    Journal: NAR
     Menu: GproteinDb
     Page: G protein selectivity Venn
     Section: G protein coupling
@@ -269,9 +269,9 @@ https://gproteindb.org/signprot/statistics_venn:
     Video: ''
     Year: 2021.0
 https://gproteindb.org/signprot/statistics_tree:
-    DOI: ''
+    DOI: 10.1093/NAR/GKAB852
     Default: 0
-    Journal: Submitted
+    Journal: NAR
     Menu: GproteinDb
     Page: G protein selectivity tree
     Section: G protein coupling
@@ -299,9 +299,9 @@ https://gproteindb.org/alignment/gproteinselection:
     Video: ''
     Year: 2017.0
 https://gproteindb.org/residue/residuetable_gprot:
-    DOI: ''
+    DOI: 10.1093/NAR/GKAB852
     Default: 0
-    Journal: Submitted
+    Journal: NAR
     Menu: GproteinDb
     Page: Generic residue number tables
     Section: Sequences
@@ -309,9 +309,9 @@ https://gproteindb.org/residue/residuetable_gprot:
     Video: ''
     Year: 2021.0
 https://gproteindb.org/signprot/matrix:
-    DOI: ''
+    DOI: 10.1093/NAR/GKAB852
     Default: 0
-    Journal: Submitted
+    Journal: NAR
     Menu: GproteinDb
     Page: Interface interactions & profiling
     Section: Structure Comparison
@@ -319,9 +319,9 @@ https://gproteindb.org/signprot/matrix:
     Video: ''
     Year: 2021.0
 https://gproteindb.org/structure/g_protein_structure_browser:
-    DOI: ''
+    DOI: 10.1093/NAR/GKAB852
     Default: 0
-    Journal: Submitted
+    Journal: NAR
     Menu: GproteinDb
     Page: Structures
     Section: Structures
@@ -329,9 +329,9 @@ https://gproteindb.org/structure/g_protein_structure_browser:
     Video: ''
     Year: 2021.0
 https://gproteindb.org/structure/complex_models:
-    DOI: ''
+    DOI: 10.1093/NAR/GKAB852
     Default: 0
-    Journal: Submitted
+    Journal: NAR
     Menu: GproteinDb
     Page: Structure models
     Section: Structures
@@ -339,9 +339,9 @@ https://gproteindb.org/structure/complex_models:
     Video: ''
     Year: 2021.0
 https://gproteindb.org/structure/gprot_statistics:
-    DOI: ''
+    DOI: 10.1093/NAR/GKAB852
     Default: 0
-    Journal: Submitted
+    Journal: NAR
     Menu: GproteinDb
     Page: Structure statistics
     Section: Structures
