@@ -1,14 +1,15 @@
 auxiliary_protein: 'Nanobody-35'
-construct: 7mbx
-distance: 7.95
+construct: 7f16
+distance: 7.37
 ligand:
     chain: P
     name: pep
-    pubchemId: 444998
+    pubchemId: None
     role: Agonist
-    title: Cholecystokinin-8
+    title: TIP39
     type: Peptide
-pdb: 7MBX
+pdb: 7F16
 preferred_chain: R
+representative: true
 signaling_protein: Gs
 state: Active

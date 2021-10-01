@@ -1,0 +1,14 @@
+auxiliary_protein: 'T4-Lysozyme'
+construct: 7m8w
+distance: -1.42
+ligand:
+-   name: YSS
+    pubchemId: 5283097
+    role: Antagonist
+    title: 15R-methyl-prostaglandin D2
+    type: Small molecule
+pdb: 7M8W
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

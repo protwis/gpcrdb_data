@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 7db6
+distance: 8.17
+ligand:
+    name: JEV
+    pubchemId: 208902
+    role: Agonist
+    title: Ramelteon
+    type: Small molecule
+pdb: 7DB6
+preferred_chain: D
+representative: true
+signaling_protein: Gi1
+state: Active

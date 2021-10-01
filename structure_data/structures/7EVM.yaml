@@ -1,0 +1,13 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7evm
+distance: 6.88
+ligand:
+    name: HNO
+    pubchemId: 156022738
+    role: Ago-PAM
+    title: N-Tert-butyl-6,7-dichloroquinoxalin-2-amine
+    type: Small molecule
+pdb: 7EVM
+preferred_chain: R
+signaling_protein: Gs
+state: Active
