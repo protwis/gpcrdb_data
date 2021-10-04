@@ -12110,9 +12110,9 @@ pth1r_human:
     '5.46': P
 pth2r_human:
     UniProt: pth2r_human
-    Xtal Templ: pth1r_human
+    Xtal Templ: pth2r_human
     Cl: B1
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: ''
