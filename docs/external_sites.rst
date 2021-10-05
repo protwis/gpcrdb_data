@@ -88,3 +88,11 @@ information, learn the latest and greatest on GPCR research. Dr. GPCR also seeks
 and generate cohesion in the international GPCR community at large.
 
 .. _DrGPCR: https://www.drgpcr.com/
+
+`GPCRladies`_
+~~~~~~~~~~~~~
+
+GPCRladies is a list of women scientists working in the field of G-protein coupled receptors (GPCRs). It was set up to 
+help diversify and balance speakers and participants in GPCR-related conferences, boards and committees.
+
+.. _GPCRladies: https://gpcrladies.com/
