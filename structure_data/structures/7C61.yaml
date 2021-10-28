@@ -1,4 +1,4 @@
-auxiliary protein: 'BRIL, IgG heavy chain, IgG light chain'
+auxiliary_protein: 'BRIL, IgG heavy chain, IgG light chain'
 construct: 7c61
 distance: 4.63
 ligand:

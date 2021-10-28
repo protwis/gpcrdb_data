@@ -1,0 +1,25 @@
+auxiliary_protein: ''
+construct: 7fih
+distance: 8.98
+ligand:
+-   chain: X
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Glycoprotein alpha
+    type: Protein
+-   chain: Y
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Choriogonadotropin beta
+    type: Protein
+-   name: 55Z
+    pubchemId: 9914457
+    role: PAM
+    title: 5-Amino-N-(1,1-dimethylethyl)-2-(methylthio)-4-[3-[[2-(4-morpholinyl)acetyl]amino]phenyl]thieno[2,3-d]pyrimidine-6-carboxamide
+    type: Small molecule
+pdb: 7FIH
+preferred_chain: R
+signaling_protein: Gs
+state: Active

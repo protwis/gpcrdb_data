@@ -1,0 +1,13 @@
+auxiliary_protein: 'scFv16'
+construct: 7ew3
+distance: 9.05
+ligand:
+    name: S1P
+    pubchemId: 528356ö
+    role: Agonist
+    title: Sphingosine 1-phosphate
+    type: Lipid
+pdb: 7EW3
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

@@ -1,0 +1,19 @@
+auxiliary_protein: ''
+construct: 7ld3
+distance: 8.63
+ligand:
+-   name: ADN
+    pubchemId: 60961
+    role: Agonist
+    title: Adenosine
+    type: Small molecule
+-   name: XTD
+    pubchemId: 25263603
+    role: PAM
+    title: '{2-Amino-4-[3,5-bis(trifluoromethyl)phenyl]thiophen-3-yl}(4-chlorophenyl)methanone'
+    type: None
+pdb: 7LD3
+preferred_chain: R
+representative: true
+signaling_protein: Gi2
+state: Active

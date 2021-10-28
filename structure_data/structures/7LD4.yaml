@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7ld4
+distance: 9.0
+ligand:
+    name: ADN
+    pubchemId: 60961
+    role: Agonist
+    title: Adenosine
+    type: Small molecule
+pdb: 7LD4
+preferred_chain: R
+signaling_protein: Gi2
+state: Active

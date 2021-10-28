@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-43'
+construct: 7dge
+distance: 5.6
+ligand:
+    name: QUS
+    pubchemId: 40539
+    role: Agonist
+    title: Quisqualic acid
+    type: Small molecule
+pdb: 7DGE
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Intermediate

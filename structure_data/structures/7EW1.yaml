@@ -1,0 +1,13 @@
+auxiliary_protein: 'scFv16'
+construct: 7ew1
+distance: 8.47
+ligand:
+    name: J8C
+    pubchemId: 44599207
+    role: Agonist
+    title: Siponimod 
+    type: Small molecule
+pdb: 7EW1
+preferred_chain: A
+signaling_protein: Gi1
+state: Active
