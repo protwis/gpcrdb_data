@@ -1,0 +1,18 @@
+auxiliary_protein: ''
+construct: 7e6t
+distance: 6.77
+ligand:
+-   name: CA
+    pubchemId: 271
+    role: Agonist
+    title: Calcium ion
+    type: Ion
+-   name: TCR
+    pubchemId: 449440
+    role: PAM
+    title: Cyclomethyltryptophan
+    type: Small molecule
+pdb: 7E6T
+preferred_chain: A
+signaling_protein: None
+state: Active

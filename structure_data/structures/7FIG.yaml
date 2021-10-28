@@ -1,0 +1,21 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7fig
+distance: 8.76
+ligand:
+-   chain: X
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Glycoprotein alpha
+    type: Protein
+-   chain: Y
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Choriogonadotropin beta
+    type: Protein
+pdb: 7FIG
+preferred_chain: R
+representative: true
+signaling_protein: Gs
+state: Active

@@ -1,0 +1,20 @@
+auxiliary_protein: ''
+construct: 7fii
+distance: 8.95
+ligand:
+-   chain: X
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Glycoprotein alpha
+    type: Protein
+-   chain: Y
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Choriogonadotropin beta
+    type: Protein
+pdb: 7FII
+preferred_chain: R
+signaling_protein: Gs
+state: Active

@@ -1,0 +1,13 @@
+auxiliary_protein: 'scFv16'
+construct: 7ew2
+distance: 9.33
+ligand:
+    name: J89
+    pubchemId: 11452022
+    role: Agonist
+    title: S-fingolimod phosphate ester
+    type: Lipid
+pdb: 7EW2
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

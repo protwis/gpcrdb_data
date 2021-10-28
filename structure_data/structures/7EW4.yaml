@@ -1,0 +1,14 @@
+auxiliary_protein: 'scFv16'
+construct: 7ew4
+distance: 9.42
+ligand:
+    name: JF9
+    pubchemId: 17253208
+    role: Agonist
+    title: N,N-Dicyclohexyl-5-cyclopropyl-1,2-oxazole-3-carboxamide
+    type: Small molecule
+pdb: 7EW4
+preferred_chain: R
+representative: true
+signaling_protein: Gi1
+state: Active
