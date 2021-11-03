@@ -271,9 +271,9 @@ Class A (Rhodopsin) | gpcrdba
             "gpcr","975","Opsin-3","160","<i>OPN3</i>","","","","ECPN|Encephalopsin|Panopsin|opsin 3","14007","OPN3","opsin 3","1q43","NM_014322","NP_055137","Q9H1Y3","23596","1594385","Opn3","opsin 3","13q25","NM_001191933","NP_001178862","","498289","MGI:1338022","Opn3","opsin 3","1 H3","NM_010098","NP_034228","Q9WUK7","13603"
             "gpcr","975","Melanopsin","2758","<i>OPN4</i>","","","","melanopsin|MOP","14449","OPN4","opsin 4","10q22","NM_001030015|NM_033282","NP_001025186|NP_150598","Q9UHM6","94233","621701","Opn4","opsin 4","16p15","NM_138860","NP_620215","Q8R456","192223","MGI:1353425","Opn4","opsin 4 (melanopsin)","14 B","NM_001128599|NM_013887","NP_001122071|NP_038915","Q9QXZ9","30044"
             "gpcr","975","Opsin-5","161","<i>OPN5</i>","","","","opsin 5|transmembrane protein 13|GPR136|PGR12|neuropsin|PGR14|TMEM13|G protein-coupled receptor 136","19992","OPN5","opsin 5","6p12.3","NM_181744","NP_859528","Q6U736","221391","727869","Opn5","opsin 5","9q12","NM_181772","NP_861437","Q7TQN6","316259","MGI:2662912","Opn5","opsin 5","17 B3","NM_181753","NP_861418","Q6VZZ7","353344"
-            "gpcr","975","Short-wave-sensitive opsin 1","2960","Short-wave-sensitive opsin 1","","","","","","","","","","","P03999","","","","","","","","","","","","","","","","",""
-            "gpcr","975","Medium-wave-sensitive opsin 1","2962","Medium-wave-sensitive opsin 1","","","","","","","","","","","P04001","","","","","","","","","","","","","","","","",""
-            "gpcr","975","Long-wave-sensitive opsin 1","2961","Long-wave-sensitive opsin 1","","","","","","","","","","","P04000","","","","","","","","","","","","","","","","",""
+            "gpcr","975","Short-wave-sensitive opsin 1","2960","OPN1SW","","","","","","","","","","","P03999","","","","","","","","","","","","","","","","",""
+            "gpcr","975","Medium-wave-sensitive opsin 1","2962","OPN1MW","","","","","","","","","","","P04001","","","","","","","","","","","","","","","","",""
+            "gpcr","975","Long-wave-sensitive opsin 1","2961","OPN1LW","","","","","","","","","","","P04000","","","","","","","","","","","","","","","","",""
     Olfactory receptors
         Olfactory
             "gpcr","","Olfactory receptors","","Olfactory receptor 1A1","","","","","","","","","","","Q9P1Q5","","","","","","","","","","","","","","","","",""
