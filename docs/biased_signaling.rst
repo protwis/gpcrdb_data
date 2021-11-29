@@ -6,9 +6,9 @@ Data submission
 
 Submission of biased ligands, balanced reference ligands and pathway effects
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**Definitions:** For definitions on biased ligands, see the `IUPHAR community guidelines for GPCR ligand bias`_
-**Support:** In case you need further help, please write to `info@gpcrdb.org`_.
-**GPCRdb:** Your data will be deposited in the next, monthly update of GPCRdb.
+* **Definitions:** For definitions on biased ligands, see the `IUPHAR community guidelines for GPCR ligand bias`_
+* **Support:** In case you need further help, please write to `info@gpcrdb.org`_.
+* **GPCRdb:** Your data will be deposited in the next, monthly update of GPCRdb.
 
 .. _IUPHAR community guidelines for GPCR ligand bias: https://doi.org/10.22541/au.163253223.32597426/v1
 .. _info@gpcrdb.org: mailto:info@gpcrdb.org
