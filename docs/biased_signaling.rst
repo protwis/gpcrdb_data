@@ -18,7 +18,7 @@ Biased ligands
 Please submit your ligands tested for bias (even those found to be unbiased) using this `annotation file`__.
 The file contains pop up explanations and example data, which you can replace with your data.
 
-.. __: https://www.dropbox.com/s/4qclfnozletvjg4/Balanced_ligand_database_deposition.xlsx?dl=0
+.. __: https://files.gpcrdb.org/Balanced_ligand_database_deposition.xlsx
 
 Balanced ligands (references for pathway-bias)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -26,11 +26,11 @@ Please submit your balanced reference ligands (have near-equal signaling in two 
 The file contains pop up explanations and example data, which you can replace with your data.
 The balanced reference ligands will be used to calculate ligand pathway-bias and avail ligands with pathway-bias in GPCRdb.
 
-.. __: https://www.dropbox.com/s/4qclfnozletvjg4/Balanced_ligand_database_deposition.xlsx?dl=0
+.. __: https://files.gpcrdb.org/Balanced_ligand_database_deposition.xlsx
 
 Pathway effects
 ^^^^^^^^^^^^^^^
 Please submit your data on pathway effects using this `annotation file`__.
 The file contains pop up explanations and example data, which you can replace with your data.
 
-.. __: https://www.dropbox.com/s/4qclfnozletvjg4/Balanced_ligand_database_deposition.xlsx?dl=0
+.. __: https://files.gpcrdb.org/Balanced_ligand_database_deposition.xlsx
