@@ -47,6 +47,7 @@ The documentation is organized into four sections:
     structure_comparison
     constructs
     mutations
+    biased_signaling
     sites
     generic_numbering
     drugs
