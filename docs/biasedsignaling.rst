@@ -33,4 +33,4 @@ Pathway effects
 Please submit your data on pathway effects using this `annotation file`__.
 The file contains pop up explanations and example data, which you can replace with your data.
 
-.. __: https://files.gpcrdb.org/AnnontationPathwayEffects.xlsx
+.. __: https://files.gpcrdb.org/AnnotationPathwayEffects.xlsx
