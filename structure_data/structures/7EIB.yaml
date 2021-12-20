@@ -1,0 +1,15 @@
+auxiliary_protein: ''
+construct: 7eib
+distance: 8.29
+ligand:
+    chain: D
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: des-Arg10-kallidin
+    type: Peptide
+pdb: 7EIB
+preferred_chain: A
+representative: true
+signaling_protein: Gq
+state: Active

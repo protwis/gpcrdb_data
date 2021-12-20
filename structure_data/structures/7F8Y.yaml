@@ -1,0 +1,14 @@
+auxiliary_protein: 'T4-Lysozyme'
+construct: 7f8y
+distance: -0.86
+ligand:
+    name: 1OZ
+    pubchemId: 443375
+    role: Antagonist
+    title: Devazepide
+    type: Small molecule
+pdb: 7F8Y
+preferred_chain: A
+representative: true
+signaling_protein: None
+state: Inactive

@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7rtb
+distance: 6.42
+ligand:
+    chain: P
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Peptide-19
+    type: Peptide
+pdb: 7RTB
+preferred_chain: R
+signaling_protein: Gs
+state: Active

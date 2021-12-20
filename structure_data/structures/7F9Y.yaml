@@ -1,0 +1,14 @@
+auxiliary_protein: 'Nanobody-35'
+construct: 7f9y
+distance: 6.42
+ligand:
+    chain: C
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Ghrelin-28
+    type: Peptide
+pdb: 7F9Y
+preferred_chain: R
+signaling_protein: Gq
+state: Active

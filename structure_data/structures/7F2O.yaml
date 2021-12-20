@@ -1,0 +1,15 @@
+auxiliary_protein: 'scFv16'
+construct: 7f2o
+distance: 7.42
+ligand:
+    chain: D
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Bradykinin
+    type: Peptide
+pdb: 7F2O
+preferred_chain: R
+representative: true
+signaling_protein: Gq
+state: Active

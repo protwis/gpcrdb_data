@@ -1,0 +1,14 @@
+auxiliary_protein: ''
+construct: 7f8v
+distance: 7.51
+ligand:
+    chain: E
+    name: pep
+    pubchemId: 16162108
+    role: Agonist
+    title: Gastrin-17
+    type: Peptide
+pdb: 7F8V
+preferred_chain: R
+signaling_protein: Gi2
+state: Active

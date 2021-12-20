@@ -1,0 +1,15 @@
+auxiliary_protein: 'Antibody fragment' 
+construct: 7na7 
+distance: 6.42 
+ligand:
+    chain: L
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: Ghrelin-27
+    type: Peptide
+pdb: 7NA7
+preferred_chain: R
+representative: true
+signaling_protein: Gi1
+state: Active
