@@ -10,7 +10,7 @@ ligand:
 -   name: VT5
     pubchemId: '12093170'
     role: Allosteric antagonist
-    title: GTPL9431
+    title: CCR2-RA-[R]
     type: Small molecule
 pdb: 5T1A
 preferred_chain: A
