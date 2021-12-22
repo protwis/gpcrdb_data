@@ -1,0 +1,15 @@
+auxiliary_protein: 'scFv16'
+construct: 7f8w
+distance: 8.38
+ligand:
+    chain: E
+    name: pep
+    pubchemId: 16162108
+    role: Agonist
+    title: Gastrin-17
+    type: Peptide
+pdb: 7F8W
+preferred_chain: R
+representative: true
+signaling_protein: Gq
+state: Active

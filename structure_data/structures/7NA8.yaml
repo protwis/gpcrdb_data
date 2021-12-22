@@ -1,0 +1,13 @@
+auxiliary_protein: 'Antibody fragment'
+construct: 7na8
+distance: 6.42
+ligand:
+    name: 1KD
+    pubchemId: 178024
+    role: Agonist
+    title: Ibutamoren
+    type: Small molecule
+pdb: 7NA8
+preferred_chain: R
+signaling_protein: Gi1
+state: Active

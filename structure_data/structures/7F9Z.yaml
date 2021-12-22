@@ -1,0 +1,15 @@
+auxiliary_protein: 'Nanobody-35, scFv16'
+construct: 7f9z
+distance: 6.42
+ligand:
+    chain: C
+    name: pep
+    pubchemId: None
+    role: Agonist
+    title: GHRP-6
+    type: Peptide
+pdb: 7F9Z
+preferred_chain: R
+signaling_protein: Gq  
+state: Active
+

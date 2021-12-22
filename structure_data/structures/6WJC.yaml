@@ -15,6 +15,5 @@ ligand:
     type: Peptide
 pdb: 6WJC
 preferred_chain: A
-representative: true
 signaling_protein: None
 state: Inactive

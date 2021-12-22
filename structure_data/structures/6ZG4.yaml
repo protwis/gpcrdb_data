@@ -1,0 +1,13 @@
+auxiliary_protein: 'T4-Lysozyme'
+construct: 6zg4
+distance: 1.6
+ligand:
+    name: QK8
+    pubchemId: 71528459
+    role: Agonist
+    title: Ethyl (4S)-4-[4-[(1-methylcyclobutyl)carbamoyl]piperidin-1-yl]azepane-1-carboxylate
+    type: Small molecule
+pdb: 6ZG4
+preferred_chain: A
+signaling_protein: None
+state: Inactive

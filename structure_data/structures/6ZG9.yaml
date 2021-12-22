@@ -1,0 +1,13 @@
+auxiliary_protein: 'T4-Lysozyme'
+construct: 6zg9
+distance: 1.81
+ligand:
+    name: QK2
+    pubchemId: 16038386
+    role: Agonist
+    title: 7-fluoro-5-methyl-3-[1-(oxan-4-yl)piperidin-4-yl]-1H-benzimidazol-2-one
+    type: Small molecule
+pdb: 6ZG9
+preferred_chain: A
+signaling_protein: None
+state: Inactive
