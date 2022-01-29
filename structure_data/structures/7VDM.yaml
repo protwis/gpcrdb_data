@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7vdm
+distance: 8.98
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 7VDM
+preferred_chain: R
+signaling_protein: None
+state: Active

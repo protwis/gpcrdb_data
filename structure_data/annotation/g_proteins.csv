@@ -1,166 +1,207 @@
-PDB,Alpha_UniProt,Alpha_ChainID,Beta_UniProt,Beta_ChainID,Gamma_UniProt,Gamma_ChainID,Note
-5G53,gnas2_human,C,,,,,Engineered G protein
-5UZ7,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6NIY,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-5VAI,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,
-6B3J,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6GDG,gnas2_human,D,gbb1_human,B,gbg2_human,C,
-6NI3,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6E3Y,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6P9X,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6P9Y,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6PB0,gnas2_human,A,gbb1_human,B,gbg2_human,G,Gs-Gi1 chimera
-6PB1,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6LI3,gnas2_human,A,gbb1_human,B,gbg2_human,G,Mini-Gs
-6UUN,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6UUS,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6UVA,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6LMK,gnas2_human,A,gbb1_human,B,gbg2_human,C,
-6LPB,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,
-6VCB,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6WHC,gnas2_human,A,gbb1_human,B,gbg2_human,C,
-6WPW,gnas2_human,C,gbb1_human,D,gbg2_human,G,
-6WI9,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6WZG,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6M1H,gnas2_human,F,gbb1_human,E,gbg2_human,D,
-6M1I,gnas2_human,F,gbb1_human,E,gbg2_human,D,
-6ORV,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7BZ2,gnas2_human,A,gbb1_bovin,B,gbg2_bovin,G,
-7BW0,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,
-7C2E,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7CFM,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7CFN,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6X1A,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6X18,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6X19,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-6VN7,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7D3S,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,
-7D7M,gnas2_human,D,gbb1_human,B,gbg2_human,C,
-7CZ5,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,
-6XOX,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7DHR,gnas2_human,A,gbb1_bovin,B,gbg2_bovin,G,
-7DHI,gnas2_human,A,gbb1_bovin,B,gbg2_bovin,G,
-7LCI,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7JV5,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7JVQ,gnas2_human,A,gbb1_human,B,gbg2_human,G,Engineered G alpha
-7JVP,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7CKW,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7CKX,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7CKY,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7CKZ,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7CRH,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7LJC,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,Engineered G alpha
-7LJD,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,Engineered G alpha
-7L1U,gnas2_human,A,gbb1_human,B,gbg2_human,C,Engineered G alpha
-7L1V,gnas2_human,A,gbb1_human,B,gbg2_human,C,Engineered G alpha
-7JOZ,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7AUE,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7CX2,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7CX3,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7CX4,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7KH0,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7MBX,gnas2_human,A,gbb1_rat,B,gbg2_human,G,
-7BB6,gnas2_human,E,gbb1_human,C,gbg2_human,F,
-7BB7,gnas2_human,E,gbb1_human,C,gbg2_human,F,
-7DH5,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,
-7DUQ,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,
-7DW9,gnas2_human,A,gbb1_rat,B,gbg2_bovin,Y,
-7E14,gnas2_human,A,gbb1_bovin,B,gbg2_mouse,G,
-7EVW,gnas2_human,A,gbb1_human,B,gbg2_human,C,
-7KI0,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7KI1,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7EZK,gnas2_human,A,gbb1_human,B,gbg2_human,G,
-7DUR,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,
-7EVM,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,
-7F16,gnas2_human,A,gbb1_rat,B,gbg2_bovin,G,
-3SN6,gnas2_bovin,A,gbb1_rat,B,gbg2_bovin,G,
-6NBF,gnas2_bovin,A,gbb1_rat,B,gbg2_bovin,G,
-6NBH,gnas2_bovin,A,gbb1_rat,B,gbg2_bovin,G,
-6NBI,gnas2_bovin,A,gbb1_rat,B,gbg2_bovin,G,
-7JJO,gnas2_bovin,A,gbb1_bovin,B,gbg2_bovin,G,
-7D68,gnas2_bovin,A,gbb1_bovin,B,gbg2_bovin,G,
-7DTY,gnas2_bovin,A,gbb1_rat,B,gbg2_bovin,G,
-7FIH,gnas2_bovin,A,gbb1_rat,B,gbg2_bovin,G,
-7FII,gnas2_bovin,A,gbb1_rat,B,gbg2_bovin,G,
-7FIG,gnas2_bovin,A,gbb1_rat,B,gbg2_bovin,G,
-6DDE,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6DDF,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6CMO,gnai1_human,A,gbb1_rat,B,gbg2_bovin,G,
-6N4B,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6OT0,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-6OS9,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6OSA,gnai1_human,A,gbb1_human,B,gbg2_human,C,Non-canonical conformation
-6QNO,gnai1_human,A,gbb1_bovin,B,gbg1_bovin,G,
-6KPG,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6KPF,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6PT0,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6OMM,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6LML,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6K42,gnai1_human,A,gbb1_mouse,B,gbg2_human,G,
-6VMS,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6LFO,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6LFM,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-6XBK,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-6XBJ,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-6XBM,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-6XBL,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-7L0P,gnai1_human,A,gbb1_human,B,gbg1_human,G,
-7L0Q,gnai1_human,A,gbb1_human,B,gbg1_human,G,
-7L0R,gnai1_human,A,gbb1_human,B,gbg1_human,G,Non-canonical conformation
-7L0S,gnai1_human,A,gbb1_human,B,gbg1_human,G,Non-canonical conformation
-7JVR,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-7CMU,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-7CMV,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-7E2X,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-7E2Y,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-7E2Z,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-7E32,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-7E33,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-7EB2,gnai1_human,A,gbb1_human,B,gbg2_human,Y,
-7E9G,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-7O7F,gnai1_human,A,gbb1_bovin,B,gbg2_bovin,G,
-7JHJ,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-7EXD,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-7F1Q,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-7F1R,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-7F1S,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-7MTS,gnai1_human,C,gbb1_human,D,gbg2_human,E,
-7EZH,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-7DB6,gnai1_human,A,gbb1_rat,B,gbg2_bovin,C,
-7EW1,gnai1_human,D,gbb1_human,B,gbg2_human,C,
-7EW2,gnai1_human,A,gbb1_human,B,gbg2_human,C,
-7EW3,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-7EW4,gnai1_human,A,gbb1_human,B,gbg2_human,G,
-6D9H,gnai2_human,A,gbb1_human,B,gbg2_human,G,
-7LD3,gnai2_human,A,gbb1_human,B,gbg2_human,G,
-7LD4,gnai2_human,A,gbb1_human,B,gbg2_human,G,
-7E9H,gnai3_human,A,gbb1_human,B,gbg2_human,C,
-6FUF,gnao_human,B,,,,,Mini-Go
-6G79,gnao_human,A,gbb1_human,B,gbg2_human,G,
-6OIK,gnao_human,A,gbb1_human,B,gbg2_human,G,
-6K41,gnao_human,A,gbb1_mouse,B,gbg2_human,G,
-6WWZ,gnao_human,A,gbb1_rat,B,gbg2_mouse,Y,
-7D76,gnao_human,A,gbb1_human,B,gbg2_human,G,
-7D77,gnao_human,A,gbb1_human,B,gbg2_human,G,
-6OY9,gnat1_bovin,A,gbb1_bovin,B,gbg1_bovin,G,
-6OYA,gnat1_bovin,A,gbb1_bovin,B,gbg1_bovin,G,
-6OIJ,gna11_human,A,gbb1_human,B,gbg2_human,G,
-6WHA,gnaq_human,B,gbb1_human,C,gbg2_human,D,Gq-Gi2-Gs chimera
-7DFL,gnaq_human,A,gbb1_human,B,gbg2_human,G,
-7MBY,gnaq_human,A,gbb1_rat,B,gbg2_human,G,Gq-Gs-Gi1 chimera
-7EZM,gnaq_human,A,gbb1_human,B,gbg2_human,G,
-7AD3,gpa1_yeast,E,a0a6a5q727_yeasx,F,a0a6a5pt44_yeasx,G,Two alpha subunits bound to STE2 dimer
-6E67,GNAS2,B,,,,,Fused partial Gs
-5WKT,GNAT1,B,,,,,Only H5
-5EN0,GNAT3,B,,,,,Only H5
-4X1H,GNAT1,C,,,,,Only H5
-4J4Q,GNAT1,B,,,,,Only H5
-4BEY,GNAT1,B,,,,,Only H5
-4A4M,GNAT3,B,,,,,Only H5
-2X72,GNAT1,B,,,,,Only H5
-3PQR,GNAT1,B,,,,,Only H5
-3DQB,GNAT1,B,,,,,Only H5
-6PEL,GNAT1,B,,,,,Only H5
-6PGS,GNAT1,B,,,,,Only H5
-6PH7,GNAT1,B,,,,,Only H5
-6NWE,GNAT1,B,,,,,Only H5
+PDB	Alpha_UniProt	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_ChainID	Note
+5G53	gnas2_human	C					Engineered G protein
+5UZ7	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6NIY	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+5VAI	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+6B3J	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6GDG	gnas2_human	D	gbb1_human	B	gbg2_human	C	
+6NI3	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6E3Y	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6P9X	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6P9Y	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6PB0	gnas2_human	A	gbb1_human	B	gbg2_human	G	Gs-Gi1 chimera
+6PB1	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6LI3	gnas2_human	A	gbb1_human	B	gbg2_human	G	Mini-Gs
+6UUN	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6UUS	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6UVA	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6LMK	gnas2_human	A	gbb1_human	B	gbg2_human	C	
+6LPB	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+6VCB	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6WHC	gnas2_human	A	gbb1_human	B	gbg2_human	C	
+6WPW	gnas2_human	C	gbb1_human	D	gbg2_human	G	
+6WI9	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6WZG	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6M1H	gnas2_human	F	gbb1_human	E	gbg2_human	D	
+6M1I	gnas2_human	F	gbb1_human	E	gbg2_human	D	
+6ORV	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7BZ2	gnas2_human	A	gbb1_bovin	B	gbg2_bovin	G	
+7BW0	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+7C2E	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7CFM	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7CFN	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6X1A	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6X18	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6X19	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+6VN7	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7D3S	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+7D7M	gnas2_human	D	gbb1_human	B	gbg2_human	C	
+7CZ5	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+6XOX	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7DHR	gnas2_human	A	gbb1_bovin	B	gbg2_bovin	G	
+7DHI	gnas2_human	A	gbb1_bovin	B	gbg2_bovin	G	
+7LCI	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7JV5	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7JVQ	gnas2_human	A	gbb1_human	B	gbg2_human	G	Engineered G alpha
+7JVP	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7CKW	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7CKX	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7CKY	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7CKZ	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7CRH	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7LJC	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	Engineered G alpha
+7LJD	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	Engineered G alpha
+7L1U	gnas2_human	A	gbb1_human	B	gbg2_human	C	Engineered G alpha
+7L1V	gnas2_human	A	gbb1_human	B	gbg2_human	C	Engineered G alpha
+7JOZ	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7AUE	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7CX2	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7CX3	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7CX4	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7KH0	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7MBX	gnas2_human	A	gbb1_rat	B	gbg2_human	G	
+7BB6	gnas2_human	E	gbb1_human	C	gbg2_human	F	
+7BB7	gnas2_human	E	gbb1_human	C	gbg2_human	F	
+7DH5	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+7DUQ	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+7DW9	gnas2_human	A	gbb1_rat	B	gbg2_bovin	Y	
+7E14	gnas2_human	A	gbb1_bovin	B	gbg2_mouse	G	
+7EVW	gnas2_human	A	gbb1_human	B	gbg2_human	C	
+7KI0	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7KI1	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7EZK	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7DUR	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+7EVM	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+7F16	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+7RTB	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+3SN6	gnas2_bovin	A	gbb1_rat	B	gbg2_bovin	G	
+6NBF	gnas2_bovin	A	gbb1_rat	B	gbg2_bovin	G	
+6NBH	gnas2_bovin	A	gbb1_rat	B	gbg2_bovin	G	
+6NBI	gnas2_bovin	A	gbb1_rat	B	gbg2_bovin	G	
+7JJO	gnas2_bovin	A	gbb1_bovin	B	gbg2_bovin	G	
+7D68	gnas2_bovin	A	gbb1_bovin	B	gbg2_bovin	G	
+7DTY	gnas2_bovin	A	gbb1_rat	B	gbg2_bovin	G	
+7FIH	gnas2_bovin	A	gbb1_rat	B	gbg2_bovin	G	
+7FII	gnas2_bovin	A	gbb1_rat	B	gbg2_bovin	G	
+7FIG	gnas2_bovin	A	gbb1_rat	B	gbg2_bovin	G	
+6DDE	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6DDF	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6CMO	gnai1_human	A	gbb1_rat	B	gbg2_bovin	G	
+6N4B	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6OT0	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+6OS9	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6OSA	gnai1_human	A	gbb1_human	B	gbg2_human	C	Non-canonical conformation
+6QNO	gnai1_human	A	gbb1_bovin	B	gbg1_bovin	G	
+6KPG	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6KPF	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6PT0	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6OMM	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6LML	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6K42	gnai1_human	A	gbb1_mouse	B	gbg2_human	G	
+6VMS	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6LFO	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6LFM	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+6XBK	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+6XBJ	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+6XBM	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+6XBL	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7L0P	gnai1_human	A	gbb1_human	B	gbg1_human	G	
+7L0Q	gnai1_human	A	gbb1_human	B	gbg1_human	G	
+7L0R	gnai1_human	A	gbb1_human	B	gbg1_human	G	Non-canonical conformation
+7L0S	gnai1_human	A	gbb1_human	B	gbg1_human	G	Non-canonical conformation
+7JVR	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7CMU	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7CMV	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7E2X	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7E2Y	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7E2Z	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7E32	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7E33	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7EB2	gnai1_human	A	gbb1_human	B	gbg2_human	Y	
+7E9G	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7O7F	gnai1_human	A	gbb1_bovin	B	gbg2_bovin	G	
+7JHJ	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7EXD	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7F1Q	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7F1R	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7F1S	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7MTS	gnai1_human	C	gbb1_human	D	gbg2_human	E	
+7EZH	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7DB6	gnai1_human	A	gbb1_rat	B	gbg2_bovin	C	
+7EW1	gnai1_human	D	gbb1_human	B	gbg2_human	C	
+7EW2	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7EW3	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7EW4	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7NA7	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7NA8	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+6D9H	gnai2_human	A	gbb1_human	B	gbg2_human	G	
+7LD3	gnai2_human	A	gbb1_human	B	gbg2_human	G	
+7LD4	gnai2_human	A	gbb1_human	B	gbg2_human	G	
+7F8V	gnai2_human	A	gbb1_human	B	gbg2_human	C	
+7E9H	gnai3_human	A	gbb1_human	B	gbg2_human	C	
+6FUF	gnao_human	B					Mini-Go
+6G79	gnao_human	A	gbb1_human	B	gbg2_human	G	
+6OIK	gnao_human	A	gbb1_human	B	gbg2_human	G	
+6K41	gnao_human	A	gbb1_mouse	B	gbg2_human	G	
+6WWZ	gnao_human	A	gbb1_rat	B	gbg2_mouse	Y	
+7D76	gnao_human	A	gbb1_human	B	gbg2_human	G	
+7D77	gnao_human	A	gbb1_human	B	gbg2_human	G	
+6OY9	gnat1_bovin	A	gbb1_bovin	B	gbg1_bovin	G	
+6OYA	gnat1_bovin	A	gbb1_bovin	B	gbg1_bovin	G	
+6OIJ	gna11_human	A	gbb1_human	B	gbg2_human	G	
+6WHA	gnaq_human	B	gbb1_human	C	gbg2_human	D	Gq-Gi2-Gs chimera
+7DFL	gnaq_human	A	gbb1_human	B	gbg2_human	G	
+7MBY	gnaq_human	A	gbb1_rat	B	gbg2_human	G	Gq-Gs-Gi1 chimera
+7EZM	gnaq_human	A	gbb1_human	B	gbg2_human	G	
+7EIB	gnaq_human	B	gbb1_rat	C	gbg2_bovin	E	Gq-Gi1 chimera
+7F2O	gnaq_human	A	gbb1_rat	B	gbg2_bovin	Y	Gq-Gi1 chimera
+7F8W	gnaq_human	A	gbb1_human	B	gbg2_human	C	Gq-Gi1 chimera
+7F9Y	gnaq_human	A	gbb1_human	B	gbg2_human	G	Engineered G alpha
+7F9Z	gnaq_human	A	gbb1_human	B	gbg2_human	G	Engineered G alpha
+7AD3	gpa1_yeast	E	a0a6a5q727_yeasx	F	a0a6a5pt44_yeasx	G	Two alpha subunits bound to STE2 dimer
+6E67	gnas2_human	B					Fused partial Gs
+5WKT	gnat1_bovin	B					Only H5
+5EN0	gnat3_bovin	B					Only H5
+4X1H	gnat1_bovin	C					Only H5
+4J4Q	gnat1_bovin	B					Only H5
+4BEY	gnat1_bovin	B					Only H5
+4A4M	gnat1_bovin	B					Only H5
+2X72	gnat1_bovin	B					Only H5
+3PQR	gnat1_bovin	B					Only H5
+3DQB	gnat1_bovin	B					Only H5
+6PEL	gnat1_bovin	B					Only H5
+6PGS	gnat2_bovin	B					Only H5
+6PH7	gnat2_bovin	B					Only H5
+6NWE	gnat1_bovin	B					Only H5
+7F53	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7F54	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7F55	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7F58	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7PIU	gnas2_human	A	gbb1_rat	B	gbg2_bovin	G	
+7PIV	gnas2_human	A	gbb1_rat	B	gbg2_mouse	G	
+7P00	gnaq_human	A	gbb1_human	B	gbg2_human	G	Gq-Gs-Gi1 chimera
+7P02	gnas2_human	A	gbb1_human	B	gbg2_human	G	Gs-Gi1 chimera
+7RMG	gnas2_human	A	gbb1_human	B	gbg2_human	G	Gs-Gq chimera
+7RMH	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7RMI	gnas2_human	A	gbb1_human	B	gbg2_human	G	Gs-Gq chimera
+7VUG	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7VUH	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7VUI	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7VUJ	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7S8L	gnaq_human	B	gbb1_human	C	gbg2_human	D	Gq-Gs chimera
+7S8M	gnai1_human	B	gbb1_human	C	gbg2_human	D	
+7S8N	gnaq_human	B	gbb1_human	C	gbg2_human	D	Gq-Gs chimera
+7S8O	gnai1_human	B	gbb1_human	C	gbg2_human	D	
+7S8P	gnaq_human	B	gbb1_human	C	gbg2_human	D	Gq-Gs chimera
+7VDH	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7VDL	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7VDM	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7VUY	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7VUZ	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7VV3	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7VV5	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7S1M	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7S3I	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7EO2	gnai1_human	B	gbb1_human	C	gbg2_human	D	
+7EO4	gnai1_human	B	gbb1_human	C	gbg2_human	D	
+7WF7	gnai1_human	B	gbb1_human	C	gbg2_human	D	

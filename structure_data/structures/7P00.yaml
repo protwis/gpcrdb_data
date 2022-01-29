@@ -1,0 +1,14 @@
+auxiliary_protein: ''
+construct: 7p00
+distance: 6.92
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 7P00
+preferred_chain: R
+representative: true
+signaling_protein: None
+state: Intermediate

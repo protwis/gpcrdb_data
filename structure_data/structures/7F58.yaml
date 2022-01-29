@@ -1,0 +1,18 @@
+auxiliary_protein: ''
+construct: 7f58
+distance: 9.52
+ligand:
+-   name: 1I8
+    pubchemId: None
+    role: '.nan'
+    title: (3R)-N-[(2R)-3-(4-chlorophenyl)-1-[4-cyclohexyl-4-(1,2,4-triazol-1-ylmethyl)piperidin-1-yl]-1-oxidanylidene-propan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide
+    type: None
+-   name: CA
+    pubchemId: None
+    role: '.nan'
+    title: CALCIUM ION
+    type: None
+pdb: 7F58
+preferred_chain: R
+signaling_protein: None
+state: Active

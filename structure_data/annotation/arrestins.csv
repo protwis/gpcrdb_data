@@ -1,9 +1,9 @@
-PDB,UniProt,ChainID,Note
-5W0P,arrs_mouse,D,
-5DGY,arrs_mouse,A,
-4ZWJ,arrs_mouse,A,
-4PXF,arrs_mouse,B,Fragment
-6U1N,arrb1_rat,C,
-6PWC,arrb1_human,A,
-6UP7,arrb1_human,B,
-6TKO,arrb1_human,B,
+PDB	UniProt	ChainID	Note
+5W0P	arrs_mouse	D	
+5DGY	arrs_mouse	A	
+4ZWJ	arrs_mouse	A	
+4PXF	arrs_mouse	B	Fragment
+6U1N	arrb1_rat	C	
+6PWC	arrb1_human	A	
+6UP7	arrb1_human	B	
+6TKO	arrb1_human	B	

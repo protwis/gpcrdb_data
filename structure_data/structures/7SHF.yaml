@@ -1,0 +1,19 @@
+auxiliary_protein: ''
+construct: 7shf
+distance: 4.92
+ligand:
+-   name: EIJ
+    pubchemId: None
+    role: '.nan'
+    title: (2S)-1-{[(S)-hydroxy{[(1s,2R,3R,4R,5S,6S)-2,3,4,5,6-pentahydroxycyclohexyl]oxy}phosphoryl]oxy}-3-(octadecanoyloxy)propan-2-yl
+        (5E,8E,11E,14E)-icosa-5,8,11,14-tetraenoate
+    type: None
+-   name: PEE
+    pubchemId: None
+    role: '.nan'
+    title: 1,2-dioleoyl-sn-glycero-3-phosphoethanolamine
+    type: None
+pdb: 7SHF
+preferred_chain: B
+signaling_protein: None
+state: Inactive

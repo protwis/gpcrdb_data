@@ -1,0 +1,18 @@
+auxiliary_protein: ''
+construct: 7voe
+distance: -0.89
+ligand:
+-   name: 1PE
+    pubchemId: None
+    role: '.nan'
+    title: PENTAETHYLENE GLYCOL
+    type: None
+-   name: 9SC
+    pubchemId: None
+    role: '.nan'
+    title: 7-[4-[4-[2,3-bis(chloranyl)phenyl]piperazin-1-yl]butoxy]-3,4-dihydro-1H-quinolin-2-one
+    type: None
+pdb: 7VOE
+preferred_chain: A
+signaling_protein: None
+state: Inactive

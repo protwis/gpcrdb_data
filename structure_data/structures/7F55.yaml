@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7f55
+distance: 10.21
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 7F55
+preferred_chain: R
+signaling_protein: None
+state: Active

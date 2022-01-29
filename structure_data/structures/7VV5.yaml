@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7vv5
+distance: 8.32
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 7VV5
+preferred_chain: R
+signaling_protein: None
+state: Active

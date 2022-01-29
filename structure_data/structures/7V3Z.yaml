@@ -1,0 +1,17 @@
+auxiliary_protein: ''
+construct: 7v3z
+ligand:
+-   name: 9GF
+    pubchemId: None
+    role: '.nan'
+    title: 2-[(1R,2R,5R)-5-hydroxy-2-(3-hydroxypropyl)cyclohexyl]-5-(2-methyloctan-2-yl)phenol
+    type: None
+-   name: FMN
+    pubchemId: None
+    role: '.nan'
+    title: FLAVIN MONONUCLEOTIDE
+    type: None
+pdb: 7V3Z
+preferred_chain: A
+signaling_protein: None
+state: Inactive

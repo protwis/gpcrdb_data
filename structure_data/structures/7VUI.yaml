@@ -1,0 +1,18 @@
+auxiliary_protein: ''
+construct: 7vui
+distance: 8.82
+ligand:
+-   name: GTP
+    pubchemId: None
+    role: '.nan'
+    title: GUANOSINE-5'-TRIPHOSPHATE
+    type: None
+-   name: 7ZQ
+    pubchemId: None
+    role: '.nan'
+    title: 3-chloranyl-N-[2-oxidanylidene-2-[[(1S)-1-phenylethyl]amino]ethyl]benzamide
+    type: None
+pdb: 7VUI
+preferred_chain: R
+signaling_protein: None
+state: Active
