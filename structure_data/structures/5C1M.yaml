@@ -2,10 +2,10 @@ auxiliary_protein: Antibody
 construct: 5c1m
 distance: 10.99
 ligand:
--   name: 4VO
-    pubchemId: 11487194
+-   name: VF1
+    pubchemId: 155804574
     role: Agonist
-    title: GTPL9363
+    title: BU72
     type: Small molecule
 pdb: 5C1M
 preferred_chain: A
