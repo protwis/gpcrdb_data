@@ -1,0 +1,18 @@
+auxiliary_protein: ''
+construct: 7vuj
+distance: 9.75
+ligand:
+-   name: GDP
+    pubchemId: None
+    role: '.nan'
+    title: GUANOSINE-5'-DIPHOSPHATE
+    type: None
+-   name: 7ZQ
+    pubchemId: None
+    role: '.nan'
+    title: 3-chloranyl-N-[2-oxidanylidene-2-[[(1S)-1-phenylethyl]amino]ethyl]benzamide
+    type: None
+pdb: 7VUJ
+preferred_chain: R
+signaling_protein: None
+state: Active

@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7ewp
+distance: 5.86
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 7EWP
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

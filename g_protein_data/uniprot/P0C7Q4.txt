@@ -1,0 +1,190 @@
+ID   GNAT3_BOVIN             Reviewed;         354 AA.
+AC   P0C7Q4;
+DT   01-JUL-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-2008, sequence version 1.
+DT   29-SEP-2021, entry version 86.
+DE   RecName: Full=Guanine nucleotide-binding protein G(t) subunit alpha-3;
+DE   AltName: Full=Gustducin alpha-3 chain;
+GN   Name=GNAT3;
+OS   Bos taurus (Bovine).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Laurasiatheria; Artiodactyla; Ruminantia; Pecora; Bovidae;
+OC   Bovinae; Bos.
+OX   NCBI_TaxID=9913;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Hereford;
+RX   PubMed=19390049; DOI=10.1126/science.1169588;
+RG   The bovine genome sequencing and analysis consortium;
+RT   "The genome sequence of taurine cattle: a window to ruminant biology and
+RT   evolution.";
+RL   Science 324:522-528(2009).
+RN   [2]
+RP   MUTAGENESIS OF GLY-352, TISSUE SPECIFICITY, AND INDUCTION.
+RX   PubMed=9671782; DOI=10.1073/pnas.95.15.8933;
+RA   Ming D., Ruiz-Avila L., Margolskee R.F.;
+RT   "Characterization and solubilization of bitter-responsive receptors that
+RT   couple to gustducin.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:8933-8938(1998).
+RN   [3]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=16928202; DOI=10.1111/j.1469-7580.2006.00617.x;
+RA   Tizzano M., Merigo F., Sbarbati A.;
+RT   "Evidence of solitary chemosensory cells in a large mammal: the diffuse
+RT   chemosensory system in Bos taurus airways.";
+RL   J. Anat. 209:333-337(2006).
+RN   [4]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=17021831; DOI=10.1007/s00359-006-0168-8;
+RA   Fehr J., Meyer D., Widmayer P., Borth H.C., Ackermann F., Wilhelm B.,
+RA   Gudermann T., Boekhoff I.;
+RT   "Expression of the G-protein alpha-subunit gustducin in mammalian
+RT   spermatozoa.";
+RL   J. Comp. Physiol. A 193:21-34(2007).
+CC   -!- FUNCTION: Guanine nucleotide-binding protein (G protein) alpha subunit
+CC       playing a prominent role in bitter and sweet taste transduction as well
+CC       as in umami (monosodium glutamate, monopotassium glutamate, and inosine
+CC       monophosphate) taste transduction.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and gamma,
+CC       respectively GNAT3, GNB1 and GNG13 for Gustducin heterotrimer for
+CC       bitter taste transduction. The alpha chain contains the guanine
+CC       nucleotide binding site. Gustducin heterotrimer may also be composed of
+CC       GNAT3, GNB3 and GNG13.
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm {ECO:0000250}.
+CC   -!- TISSUE SPECIFICITY: Expressed in epithelial cells of taste buds of the
+CC       circumvallate, foliate and fungiform. Detected in various region of the
+CC       respiratory track. Expressed also in spermatozoa.
+CC       {ECO:0000269|PubMed:16928202, ECO:0000269|PubMed:17021831,
+CC       ECO:0000269|PubMed:9671782}.
+CC   -!- INDUCTION: By bitter compounds denatonium, quinine, strychnine,
+CC       nicotine, atropine, quinacrine and caffeic acid in presence of taste
+CC       membranes. {ECO:0000269|PubMed:9671782}.
+CC   -!- SIMILARITY: Belongs to the G-alpha family. G(i/o/t/z) subfamily.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AAFC03016846; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AAFC03016847; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   RefSeq; NP_001103452.1; NM_001109982.1.
+DR   PDB; 4A4M; X-ray; 3.30 A; B=344-354.
+DR   PDB; 5EN0; X-ray; 2.81 A; B=344-354.
+DR   PDBsum; 4A4M; -.
+DR   PDBsum; 5EN0; -.
+DR   SMR; P0C7Q4; -.
+DR   STRING; 9913.ENSBTAP00000011395; -.
+DR   PRIDE; P0C7Q4; -.
+DR   Ensembl; ENSBTAT00000011395; ENSBTAP00000011395; ENSBTAG00000008641.
+DR   GeneID; 516262; -.
+DR   KEGG; bta:516262; -.
+DR   CTD; 346562; -.
+DR   VEuPathDB; HostDB:ENSBTAG00000008641; -.
+DR   VGNC; VGNC:29456; GNAT3.
+DR   eggNOG; KOG0082; Eukaryota.
+DR   GeneTree; ENSGT00940000161422; -.
+DR   InParanoid; P0C7Q4; -.
+DR   OMA; EDQRQLC; -.
+DR   OrthoDB; 754573at2759; -.
+DR   Proteomes; UP000009136; Chromosome 4.
+DR   ExpressionAtlas; P0C7Q4; baseline.
+DR   GO; GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IBA:GO_Central.
+DR   GO; GO:0001750; C:photoreceptor outer segment; IBA:GO_Central.
+DR   GO; GO:0001664; F:G protein-coupled receptor binding; IBA:GO_Central.
+DR   GO; GO:0031683; F:G-protein beta/gamma-subunit complex binding; IBA:GO_Central.
+DR   GO; GO:0005525; F:GTP binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003924; F:GTPase activity; IBA:GO_Central.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0007188; P:adenylate cyclase-modulating G protein-coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0001580; P:detection of chemical stimulus involved in sensory perception of bitter taste; IBA:GO_Central.
+DR   GO; GO:0050916; P:sensory perception of sweet taste; IBA:GO_Central.
+DR   GO; GO:0050917; P:sensory perception of umami taste; IEA:Ensembl.
+DR   CDD; cd00066; G-alpha; 1.
+DR   Gene3D; 1.10.400.10; -; 1.
+DR   Gene3D; 3.40.50.300; -; 1.
+DR   InterPro; IPR001408; Gprotein_alpha_I.
+DR   InterPro; IPR001019; Gprotein_alpha_su.
+DR   InterPro; IPR011025; GproteinA_insert.
+DR   InterPro; IPR027417; P-loop_NTPase.
+DR   PANTHER; PTHR10218; PTHR10218; 1.
+DR   Pfam; PF00503; G-alpha; 1.
+DR   PRINTS; PR00318; GPROTEINA.
+DR   PRINTS; PR00441; GPROTEINAI.
+DR   SMART; SM00275; G_alpha; 1.
+DR   SUPFAM; SSF47895; SSF47895; 1.
+DR   SUPFAM; SSF52540; SSF52540; 1.
+DR   PROSITE; PS51882; G_ALPHA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cytoplasm; GTP-binding; Lipoprotein; Magnesium;
+KW   Metal-binding; Myristate; Nucleotide-binding; Reference proteome;
+KW   Transducer.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT   CHAIN           2..354
+FT                   /note="Guanine nucleotide-binding protein G(t) subunit
+FT                   alpha-3"
+FT                   /id="PRO_0000342670"
+FT   DOMAIN          32..354
+FT                   /note="G-alpha"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   NP_BIND         40..47
+FT                   /note="GTP"
+FT                   /evidence="ECO:0000250"
+FT   NP_BIND         175..181
+FT                   /note="GTP"
+FT                   /evidence="ECO:0000250"
+FT   NP_BIND         200..204
+FT                   /note="GTP"
+FT                   /evidence="ECO:0000250"
+FT   NP_BIND         269..272
+FT                   /note="GTP"
+FT                   /evidence="ECO:0000250"
+FT   REGION          1..26
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          35..48
+FT                   /note="G1 motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   REGION          173..181
+FT                   /note="G2 motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   REGION          196..205
+FT                   /note="G3 motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   REGION          265..272
+FT                   /note="G4 motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   REGION          324..329
+FT                   /note="G5 motif"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU01230"
+FT   COMPBIAS        10..26
+FT                   /note="Basic and acidic residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   METAL           47
+FT                   /note="Magnesium"
+FT                   /evidence="ECO:0000250"
+FT   METAL           181
+FT                   /note="Magnesium"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         326
+FT                   /note="GTP; via amide nitrogen"
+FT                   /evidence="ECO:0000250"
+FT   LIPID           2
+FT                   /note="N-myristoyl glycine"
+FT                   /evidence="ECO:0000250"
+FT   MUTAGEN         352
+FT                   /note="G->P: Loss of in vitro activation by denatonium due
+FT                   to disruption of interaction with taste receptors."
+FT                   /evidence="ECO:0000269|PubMed:9671782"
+FT   HELIX           345..350
+FT                   /evidence="ECO:0007829|PDB:5EN0"
+SQ   SEQUENCE   354 AA;  40332 MW;  E5A707336B6941A9 CRC64;
+     MGIGISSESK ESAKRSKELE KKLQEDAERD ARTVKLLLLG AGESGKSTIV KQMKIIHKNG
+     YSEQECMEFK AVIYSNTLQS ILAIVKAMAT LEIDYVNPRS AEDQQQLCAM ANTLEDGSMT
+     PELAEIIKRL WRDPGVQACF ERASEYQLND SAAYYLNDLD RIAAPGYVPN EQDVLHSRVK
+     TTGIIETQFS FKDLHFRMFD VGGQRSERKK WIHCFEGVTC IIFCAALSAY DMVLVEDEEV
+     NRMHESLHLF NSICNHKYFA TTSIVLFLNK KDLFQEKVTK VHLSICFPEY TGPNTFEDAG
+     NYIKNQFLDL NLKKEDKEIY SHMTCATDTQ NVKFVFDAVT DIIIKENLKD CGLF
+//

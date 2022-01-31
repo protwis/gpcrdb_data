@@ -1,0 +1,19 @@
+auxiliary_protein: ''
+construct: 7she
+distance: 5.89
+ligand:
+-   name: PII
+    pubchemId: None
+    role: '.nan'
+    title: 2-[(HYDROXY{[(2R,3R,5S,6R)-2,3,4,5,6-PENTAHYDROXYCYCLOHEXYL]OXY}PHOSPHORYL)OXY]-1-[(PALMITOYLOXY)METHYL]ETHYL
+        HEPTADECANOATE
+    type: None
+-   name: PEE
+    pubchemId: None
+    role: '.nan'
+    title: 1,2-dioleoyl-sn-glycero-3-phosphoethanolamine
+    type: None
+pdb: 7SHE
+preferred_chain: A
+signaling_protein: None
+state: Intermediate

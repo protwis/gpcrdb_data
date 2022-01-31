@@ -242,7 +242,7 @@
     8e: 60.0
     Cl: A
 5ht5a_human:
-    XtalTempl: 5ht1a_human
+    XtalTempl: 5ht1b_human
     1b: 28.0
     1e: 60.0
     i1b: 48.0
@@ -256,7 +256,7 @@
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 64.0
+    4e: 63.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
@@ -728,8 +728,8 @@ acthr_human:
     8e: 61.0
     Cl: A
 ada1a_human:
-    XtalTempl: 5ht1a_human
-    1b: 28.0
+    XtalTempl: ada2b_human
+    1b: 31.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -742,7 +742,7 @@ ada1a_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 64.0
+    4e: 62.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
@@ -752,7 +752,7 @@ ada1a_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 59.0
     Cl: A
 ada1b_human:
     XtalTempl: ada2b_human
@@ -782,8 +782,8 @@ ada1b_human:
     8e: 59.0
     Cl: A
 ada1d_human:
-    XtalTempl: adrb1_human
-    1b: 24.0
+    XtalTempl: ada2b_human
+    1b: 31.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -796,7 +796,7 @@ ada1d_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 64.0
+    4e: 62.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
@@ -998,8 +998,8 @@ adrb3_canlf:
     8e: 59.0
     Cl: A
 adrb3_human:
-    XtalTempl: adrb3_canlf
-    1b: 25.0
+    XtalTempl: adrb1_human
+    1b: 24.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -1052,7 +1052,7 @@ agra1_human:
     8e: 63.0
     Cl: B2
 agra2_human:
-    XtalTempl: crfr2_human
+    XtalTempl: crfr1_human
     1b: 30.0
     1e: 60.0
     i1b: 48.0
@@ -1065,12 +1065,12 @@ agra2_human:
     3e: 56.0
     i2b: '-'
     i2e: '-'
-    4b: 41.0
+    4b: 40.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 37.0
-    5e: 71.0
+    5e: 69.0
     6b: 29.0
     6e: 53.0
     7b: 29.0
@@ -1079,7 +1079,7 @@ agra2_human:
     8e: 63.0
     Cl: B2
 agra3_human:
-    XtalTempl: sctr_human
+    XtalTempl: agrg3_human
     1b: 30.0
     1e: 60.0
     i1b: 48.0
@@ -1092,17 +1092,17 @@ agra3_human:
     3e: 56.0
     i2b: '-'
     i2e: '-'
-    4b: 37.0
+    4b: 40.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 37.0
-    5e: 71.0
+    5e: 72.0
     6b: 29.0
-    6e: 54.0
+    6e: 53.0
     7b: 29.0
-    7e: 56.0
-    8b: 47.0
+    7e: 57.0
+    8b: '-'
     8e: 63.0
     Cl: B2
 agrb1_human:
@@ -1214,7 +1214,7 @@ agrd1_human:
     8e: 63.0
     Cl: B2
 agrd2_human:
-    XtalTempl: calcr_human
+    XtalTempl: agrg3_human
     1b: 30.0
     1e: 60.0
     i1b: 48.0
@@ -1227,17 +1227,17 @@ agrd2_human:
     3e: 56.0
     i2b: '-'
     i2e: '-'
-    4b: 41.0
+    4b: 40.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 37.0
-    5e: 70.0
+    5e: 72.0
     6b: 29.0
     6e: 50.0
     7b: 33.0
-    7e: 56.0
-    8b: 47.0
+    7e: 57.0
+    8b: '-'
     8e: 63.0
     Cl: B2
 agre1_human:
@@ -1457,9 +1457,9 @@ agrf3_human:
     8e: 63.0
     Cl: B2
 agrf4_human:
-    XtalTempl: crfr1_human
+    XtalTempl: agrg3_human
     1b: 30.0
-    1e: 60.0
+    1e: 64.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
@@ -1475,12 +1475,12 @@ agrf4_human:
     e2b: 50.0
     e2e: 52.0
     5b: 37.0
-    5e: 69.0
+    5e: 72.0
     6b: 29.0
     6e: 53.0
     7b: 31.0
-    7e: 56.0
-    8b: 47.0
+    7e: 57.0
+    8b: '-'
     8e: 63.0
     Cl: B2
 agrf5_human:
@@ -1902,13 +1902,13 @@ apj_human:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 37.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 30.0
-    5e: 66.0
-    6b: 30.0
+    5e: 72.0
+    6b: 29.0
     6e: 63.0
     7b: 24.0
     7e: 56.0
@@ -2024,9 +2024,9 @@ brs3_human:
     8e: 60.0
     Cl: A
 c3ar_human:
-    XtalTempl: fpr2_human
-    1b: 25.0
-    1e: 61.0
+    XtalTempl: c5ar1_human
+    1b: 29.0
+    1e: 60.0
     i1b: '-'
     i1e: '-'
     2b: 37.0
@@ -2041,14 +2041,14 @@ c3ar_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 23.0
+    5b: 31.0
     5e: 68.0
     6b: 31.0
     6e: 61.0
     7b: 25.0
-    7e: 56.0
-    8b: 47.0
-    8e: 58.0
+    7e: 61.0
+    8b: '-'
+    8e: '-'
     Cl: A
 c5ar1_human:
     XtalTempl: c5ar1_human
@@ -2510,7 +2510,7 @@ ccrl2_human:
     8e: 59.0
     Cl: A
 celr1_human:
-    XtalTempl: gipr_human
+    XtalTempl: sctr_human
     1b: 30.0
     1e: 60.0
     i1b: 48.0
@@ -2523,12 +2523,12 @@ celr1_human:
     3e: 56.0
     i2b: '-'
     i2e: '-'
-    4b: 41.0
+    4b: 37.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 37.0
-    5e: 72.0
+    5e: 71.0
     6b: 29.0
     6e: 54.0
     7b: 31.0
@@ -2645,11 +2645,11 @@ cltr2_human:
     8e: 60.0
     Cl: A
 cml1_human:
-    XtalTempl: agtr1_human
-    1b: 28.0
-    1e: 60.0
-    i1b: 48.0
-    i1e: 51.0
+    XtalTempl: fpr2_human
+    1b: 25.0
+    1e: 61.0
+    i1b: '-'
+    i1e: '-'
     2b: 37.0
     2e: 67.0
     e1b: 49.0
@@ -2662,14 +2662,14 @@ cml1_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 34.0
+    5b: 23.0
     5e: 68.0
     6b: 30.0
     6e: 61.0
     7b: 27.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 58.0
     Cl: A
 cnr1_human:
     XtalTempl: cnr1_human
@@ -2780,8 +2780,8 @@ crfr2_human:
     8e: 72.0
     Cl: B1
 cx3c1_human:
-    XtalTempl: ccr5_human
-    1b: 24.0
+    XtalTempl: ccr2_human
+    1b: 27.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -2797,14 +2797,14 @@ cx3c1_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 30.0
+    5b: 31.0
     5e: 68.0
     6b: 28.0
     6e: 64.0
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 58.0
     Cl: A
 cxcr1_human:
     XtalTempl: cxcr2_human
@@ -3104,11 +3104,11 @@ drd4_mouse:
     8e: 59.0
     Cl: A
 drd5_human:
-    XtalTempl: drd1_human
-    1b: 30.0
+    XtalTempl: adrb1_melga
+    1b: 24.0
     1e: 60.0
     i1b: 48.0
-    i1e: 52.0
+    i1e: 51.0
     2b: 38.0
     2e: 68.0
     e1b: 49.0
@@ -3266,8 +3266,8 @@ ffar3_human:
     8e: 61.0
     Cl: A
 ffar4_human:
-    XtalTempl: gasr_human
-    1b: 30.0
+    XtalTempl: ox2r_human
+    1b: 31.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -3283,14 +3283,14 @@ ffar4_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
+    5b: 33.0
     5e: 76.0
     6b: 24.0
     6e: 61.0
-    7b: 32.0
+    7b: 27.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 63.0
     Cl: A
 fpr1_human:
     XtalTempl: fpr2_human
@@ -3374,31 +3374,31 @@ fpr3_human:
     8e: 58.0
     Cl: A
 fshr_human:
-    XtalTempl: lshr_human
-    1b: 32.0
+    XtalTempl: aa2ar_human
+    1b: 27.0
     1e: 60.0
-    i1b: '-'
-    i1e: '-'
+    i1b: 48.0
+    i1e: 51.0
     2b: 37.0
     2e: 67.0
     e1b: 49.0
-    e1e: '-'
+    e1e: 52.0
     3b: 18.0
     3e: 56.0
-    i2b: '-'
+    i2b: 50.0
     i2e: 57.0
     4b: 38.0
     4e: 63.0
     e2b: 50.0
     e2e: 52.0
-    5b: 33.0
+    5b: 34.0
     5e: 67.0
     6b: 26.0
     6e: 61.0
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 69.0
     Cl: A
 fzd10_human:
     XtalTempl: fzd4_human
@@ -3428,17 +3428,17 @@ fzd10_human:
     8e: 62.0
     Cl: F
 fzd1_human:
-    XtalTempl: fzd7_human
-    1b: 27.0
+    XtalTempl: fzd5_human
+    1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 63.0
+    2e: 64.0
     e1b: '-'
     e1e: '-'
     3b: 24.0
-    3e: 55.0
+    3e: 57.0
     i2b: '-'
     i2e: '-'
     4b: 34.0
@@ -3446,26 +3446,26 @@ fzd1_human:
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
-    5e: 73.0
-    6b: 26.0
+    5e: 72.0
+    6b: 31.0
     6e: 81.0
     7b: 31.0
     7e: 54.0
     8b: 47.0
-    8e: 63.0
+    8e: 62.0
     Cl: F
 fzd2_human:
-    XtalTempl: fzd7_human
-    1b: 27.0
+    XtalTempl: fzd5_human
+    1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 63.0
+    2e: 64.0
     e1b: '-'
     e1e: '-'
     3b: 24.0
-    3e: 55.0
+    3e: 57.0
     i2b: '-'
     i2e: '-'
     4b: 34.0
@@ -3473,26 +3473,26 @@ fzd2_human:
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
-    5e: 73.0
-    6b: 26.0
+    5e: 72.0
+    6b: 31.0
     6e: 78.0
     7b: 31.0
     7e: 54.0
     8b: 47.0
-    8e: 63.0
+    8e: 62.0
     Cl: F
 fzd3_human:
-    XtalTempl: fzd7_human
-    1b: 27.0
+    XtalTempl: fzd5_human
+    1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 63.0
+    2e: 64.0
     e1b: '-'
     e1e: '-'
     3b: 24.0
-    3e: 55.0
+    3e: 57.0
     i2b: '-'
     i2e: '-'
     4b: 34.0
@@ -3500,13 +3500,13 @@ fzd3_human:
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
-    5e: 73.0
-    6b: 26.0
+    5e: 72.0
+    6b: 31.0
     6e: 78.0
     7b: 31.0
     7e: 54.0
     8b: 47.0
-    8e: 63.0
+    8e: 62.0
     Cl: F
 fzd4_human:
     XtalTempl: fzd4_human
@@ -3563,17 +3563,17 @@ fzd5_human:
     8e: 62.0
     Cl: F
 fzd6_human:
-    XtalTempl: fzd7_human
-    1b: 27.0
+    XtalTempl: fzd5_human
+    1b: 28.0
     1e: 60.0
     i1b: 47.0
     i1e: 51.0
     2b: 39.0
-    2e: 63.0
+    2e: 64.0
     e1b: '-'
     e1e: '-'
     3b: 24.0
-    3e: 55.0
+    3e: 57.0
     i2b: '-'
     i2e: '-'
     4b: 34.0
@@ -3581,13 +3581,13 @@ fzd6_human:
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
-    5e: 73.0
-    6b: 26.0
+    5e: 72.0
+    6b: 31.0
     6e: 78.0
     7b: 31.0
     7e: 54.0
     8b: 47.0
-    8e: 63.0
+    8e: 62.0
     Cl: F
 fzd7_human:
     XtalTempl: fzd7_human
@@ -3806,13 +3806,13 @@ gabr2_human:
     8e: 57.0
     Cl: C
 galr1_human:
-    XtalTempl: ox1r_human
-    1b: 32.0
+    XtalTempl: oprk_human
+    1b: 30.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 68.0
+    2e: 67.0
     e1b: 49.0
     e1e: 52.0
     3b: 18.0
@@ -3823,14 +3823,14 @@ galr1_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 33.0
+    5b: 30.0
     5e: 72.0
     6b: 29.0
     6e: 61.0
-    7b: 27.0
+    7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 63.0
+    8e: 59.0
     Cl: A
 galr2_human:
     XtalTempl: oprk_human
@@ -4103,13 +4103,13 @@ gnrhr_human:
     8e: '-'
     Cl: A
 gp101_human:
-    XtalTempl: 5ht2c_human
-    1b: 33.0
+    XtalTempl: ccr5_human
+    1b: 24.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 68.0
+    2e: 66.0
     e1b: 49.0
     e1e: 52.0
     3b: 18.0
@@ -4117,7 +4117,7 @@ gp101_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 67.0
+    4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
@@ -4127,11 +4127,11 @@ gp101_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 60.0
+    8e: 59.0
     Cl: A
 gp107_human:
-    XtalTempl: gasr_human
-    1b: 30.0
+    XtalTempl: oxyr_human
+    1b: 28.0
     1e: 60.0
     i1b: '-'
     i1e: '-'
@@ -4211,11 +4211,11 @@ gp132_human:
     8e: 59.0
     Cl: A
 gp135_human:
-    XtalTempl: drd1_human
-    1b: 30.0
+    XtalTempl: mtr1a_human
+    1b: 28.0
     1e: 60.0
     i1b: 48.0
-    i1e: 52.0
+    i1e: 51.0
     2b: 37.0
     2e: 68.0
     e1b: 49.0
@@ -4233,9 +4233,9 @@ gp135_human:
     6b: 22.0
     6e: 61.0
     7b: 31.0
-    7e: 55.0
+    7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 63.0
     Cl: A
 gp139_human:
     XtalTempl: gp139_human
@@ -4252,20 +4252,20 @@ gp139_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 61.0
+    4e: 62.0
     e2b: '-'
     e2e: '-'
-    5b: 35.0
+    5b: 32.0
     5e: 68.0
-    6b: 24.0
+    6b: 27.0
     6e: 61.0
     7b: 27.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 62.0
     Cl: A
 gp141_human:
-    XtalTempl: ccr7_human
+    XtalTempl: cxcr2_human
     1b: 29.0
     1e: 60.0
     i1b: 48.0
@@ -4282,18 +4282,18 @@ gp141_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 33.0
+    5b: 30.0
     5e: 68.0
     6b: 28.0
     6e: 61.0
     7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 61.0
     Cl: A
 gp142_human:
-    XtalTempl: 5ht2a_human
-    1b: 27.0
+    XtalTempl: drd4_mouse
+    1b: 29.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -4306,17 +4306,17 @@ gp142_human:
     i2b: 50.0
     i2e: 56.0
     4b: 38.0
-    4e: 67.0
+    4e: 63.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
     5e: 67.0
     6b: 26.0
     6e: 61.0
-    7b: 27.0
+    7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 60.0
+    8e: 59.0
     Cl: A
 gp143_human:
     XtalTempl: aa2ar_human
@@ -4373,8 +4373,8 @@ gp146_human:
     8e: 62.0
     Cl: A
 gp148_human:
-    XtalTempl: 5ht1d_human
-    1b: 28.0
+    XtalTempl: cxcr2_human
+    1b: 29.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -4397,7 +4397,7 @@ gp148_human:
     7b: 36.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 61.0
     Cl: A
 gp149_human:
     XtalTempl: s1pr1_human
@@ -4508,8 +4508,8 @@ gp152_human:
     8e: 58.0
     Cl: A
 gp153_human:
-    XtalTempl: 5ht2a_human
-    1b: 27.0
+    XtalTempl: ox2r_human
+    1b: 31.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -4532,7 +4532,7 @@ gp153_human:
     7b: 32.0
     7e: 55.0
     8b: 47.0
-    8e: 60.0
+    8e: 63.0
     Cl: A
 gp156_human:
     XtalTempl: gabr2_human
@@ -4589,42 +4589,42 @@ gp157_human:
     8e: 57.0
     Cl: O
 gp158_human:
-    XtalTempl: grm1_human
-    1b: 34.0
+    XtalTempl: gp158_human
+    1b: 32.0
     1e: 60.0
     i1b: 47.0
     i1e: 53.0
     2b: 39.0
-    2e: 62.0
+    2e: 61.0
     e1b: '-'
     e1e: '-'
-    3b: 21.0
-    3e: 54.0
+    3b: 23.0
+    3e: 60.0
     i2b: '-'
     i2e: '-'
-    4b: 40.0
-    4e: 64.0
+    4b: 38.0
+    4e: 68.0
     e2b: 50.0
     e2e: 52.0
-    5b: 36.0
+    5b: 37.0
     5e: 61.0
-    6b: 33.0
+    6b: 32.0
     6e: 58.0
-    7b: 33.0
+    7b: 30.0
     7e: 64.0
     8b: 46.0
     8e: 57.0
     Cl: C
 gp160_human:
-    XtalTempl: par1_human
-    1b: 29.0
+    XtalTempl: p2y12_human
+    1b: 28.0
     1e: 60.0
-    i1b: 48.0
-    i1e: 51.0
+    i1b: '-'
+    i1e: '-'
     2b: 37.0
     2e: 66.0
-    e1b: 49.0
-    e1e: 52.0
+    e1b: '-'
+    e1e: '-'
     3b: 18.0
     3e: 56.0
     i2b: 50.0
@@ -4640,7 +4640,7 @@ gp160_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 57.0
     Cl: A
 gp161_human:
     XtalTempl: 5ht1b_human
@@ -4805,26 +4805,26 @@ gp176_human:
     8e: 63.0
     Cl: A
 gp179_human:
-    XtalTempl: gabr2_human
+    XtalTempl: gp158_human
     1b: 32.0
     1e: 60.0
     i1b: 47.0
     i1e: 53.0
     2b: 39.0
-    2e: 62.0
+    2e: 61.0
     e1b: '-'
     e1e: '-'
     3b: 22.0
-    3e: 54.0
+    3e: 60.0
     i2b: '-'
     i2e: '-'
-    4b: 40.0
-    4e: 64.0
+    4b: 38.0
+    4e: 68.0
     e2b: 50.0
     e2e: 52.0
-    5b: 35.0
-    5e: 64.0
-    6b: 33.0
+    5b: 37.0
+    5e: 61.0
+    6b: 32.0
     6e: 58.0
     7b: 30.0
     7e: 64.0
@@ -4967,40 +4967,13 @@ gpc5c_human:
     8e: 57.0
     Cl: C
 gpc5d_human:
-    XtalTempl: grm4_human
+    XtalTempl: grm1_human
     1b: 34.0
     1e: 60.0
     i1b: 47.0
     i1e: 53.0
     2b: 39.0
-    2e: 61.0
-    e1b: '-'
-    e1e: '-'
-    3b: 21.0
-    3e: 60.0
-    i2b: '-'
-    i2e: '-'
-    4b: 38.0
-    4e: 64.0
-    e2b: 50.0
-    e2e: 52.0
-    5b: 36.0
-    5e: 61.0
-    6b: 34.0
-    6e: 61.0
-    7b: 30.0
-    7e: 64.0
-    8b: 46.0
-    8e: 57.0
-    Cl: C
-gpc6a_human:
-    XtalTempl: casr_human
-    1b: 33.0
-    1e: 60.0
-    i1b: 47.0
-    i1e: 53.0
-    2b: 39.0
-    2e: 61.0
+    2e: 62.0
     e1b: '-'
     e1e: '-'
     3b: 21.0
@@ -5011,21 +4984,48 @@ gpc6a_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 37.0
-    5e: 64.0
-    6b: 32.0
+    5b: 36.0
+    5e: 61.0
+    6b: 33.0
     6e: 58.0
-    7b: 31.0
+    7b: 33.0
+    7e: 64.0
+    8b: 46.0
+    8e: 57.0
+    Cl: C
+gpc6a_human:
+    XtalTempl: grm1_human
+    1b: 34.0
+    1e: 60.0
+    i1b: 47.0
+    i1e: 53.0
+    2b: 39.0
+    2e: 62.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 54.0
+    i2b: '-'
+    i2e: '-'
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 36.0
+    5e: 61.0
+    6b: 33.0
+    6e: 58.0
+    7b: 33.0
     7e: 64.0
     8b: 46.0
     8e: 57.0
     Cl: C
 gper1_human:
-    XtalTempl: cxcr2_human
-    1b: 29.0
+    XtalTempl: cltr2_human
+    1b: 25.0
     1e: 60.0
-    i1b: 48.0
-    i1e: 51.0
+    i1b: '-'
+    i1e: '-'
     2b: 37.0
     2e: 66.0
     e1b: 49.0
@@ -5034,8 +5034,8 @@ gper1_human:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 41.0
-    4e: 64.0
+    4b: 38.0
+    4e: 63.0
     e2b: 50.0
     e2e: 52.0
     5b: 34.0
@@ -5045,11 +5045,11 @@ gper1_human:
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 60.0
     Cl: A
 gpr12_human:
-    XtalTempl: mc4r_human
-    1b: 35.0
+    XtalTempl: lpar1_human
+    1b: 30.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -5062,7 +5062,7 @@ gpr12_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 64.0
+    4e: 63.0
     e2b: '-'
     e2e: '-'
     5b: 36.0
@@ -5072,16 +5072,16 @@ gpr12_human:
     7b: 34.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 59.0
     Cl: A
 gpr15_human:
-    XtalTempl: cxcr2_human
-    1b: 29.0
+    XtalTempl: ccr6_human
+    1b: 25.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 66.0
+    2e: 67.0
     e1b: 49.0
     e1e: 52.0
     3b: 18.0
@@ -5092,14 +5092,14 @@ gpr15_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 30.0
+    5b: 31.0
     5e: 68.0
     6b: 24.0
     6e: 61.0
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 62.0
     Cl: A
 gpr17_human:
     XtalTempl: cltr2_human
@@ -5129,7 +5129,7 @@ gpr17_human:
     8e: 60.0
     Cl: A
 gpr18_human:
-    XtalTempl: cxcr2_human
+    XtalTempl: ccr7_human
     1b: 29.0
     1e: 60.0
     i1b: 48.0
@@ -5146,18 +5146,18 @@ gpr18_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 30.0
+    5b: 33.0
     5e: 68.0
     6b: 24.0
     6e: 61.0
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 59.0
     Cl: A
 gpr19_human:
-    XtalTempl: gasr_human
-    1b: 30.0
+    XtalTempl: ox2r_human
+    1b: 31.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -5173,14 +5173,14 @@ gpr19_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
+    5b: 33.0
     5e: 73.0
     6b: 22.0
     6e: 61.0
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 63.0
     Cl: A
 gpr1_human:
     XtalTempl: fpr2_human
@@ -5210,11 +5210,11 @@ gpr1_human:
     8e: 58.0
     Cl: A
 gpr20_human:
-    XtalTempl: oprk_human
-    1b: 30.0
+    XtalTempl: par2_human
+    1b: 28.0
     1e: 60.0
-    i1b: 48.0
-    i1e: 51.0
+    i1b: '-'
+    i1e: '-'
     2b: 37.0
     2e: 63.0
     e1b: 49.0
@@ -5224,17 +5224,17 @@ gpr20_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 64.0
+    4e: 62.0
     e2b: 50.0
     e2e: 52.0
     5b: 38.0
     5e: 68.0
     6b: 24.0
     6e: 61.0
-    7b: 28.0
+    7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 61.0
     Cl: A
 gpr21_human:
     XtalTempl: gpr52_human
@@ -5264,13 +5264,13 @@ gpr21_human:
     8e: 67.0
     Cl: A
 gpr22_human:
-    XtalTempl: hrh1_human
-    1b: 34.0
+    XtalTempl: 5ht2c_human
+    1b: 33.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 67.0
+    2e: 68.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -5288,7 +5288,7 @@ gpr22_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 60.0
     Cl: A
 gpr25_human:
     XtalTempl: agtr1_human
@@ -5453,9 +5453,9 @@ gpr33_human:
     8e: 58.0
     Cl: A
 gpr34_human:
-    XtalTempl: cltr2_human
-    1b: 25.0
-    1e: 60.0
+    XtalTempl: ptafr_human
+    1b: 27.0
+    1e: 61.0
     i1b: '-'
     i1e: '-'
     2b: 37.0
@@ -5470,18 +5470,18 @@ gpr34_human:
     4e: 63.0
     e2b: 50.0
     e2e: 52.0
-    5b: 32.0
+    5b: 33.0
     5e: 68.0
     6b: 23.0
     6e: 61.0
     7b: 24.0
-    7e: 56.0
-    8b: 47.0
-    8e: 60.0
+    7e: 59.0
+    8b: 50.0
+    8e: 63.0
     Cl: A
 gpr35_human:
-    XtalTempl: bkrb2_human
-    1b: 30.0
+    XtalTempl: ccr6_human
+    1b: 25.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -5504,7 +5504,7 @@ gpr35_human:
     7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 62.0
     Cl: A
 gpr37_human:
     XtalTempl: ednrb_human
@@ -5561,8 +5561,8 @@ gpr39_human:
     8e: 62.0
     Cl: A
 gpr3_human:
-    XtalTempl: s1pr5_human
-    1b: 33.0
+    XtalTempl: mc4r_human
+    1b: 35.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -5575,7 +5575,7 @@ gpr3_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 63.0
+    4e: 64.0
     e2b: '-'
     e2e: '-'
     5b: 36.0
@@ -5585,7 +5585,7 @@ gpr3_human:
     7b: 34.0
     7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 61.0
     Cl: A
 gpr42_human:
     XtalTempl: par1_human
@@ -5723,8 +5723,8 @@ gpr55_human:
     8e: 61.0
     Cl: A
 gpr61_human:
-    XtalTempl: 5ht1e_human
-    1b: 28.0
+    XtalTempl: 5ht2c_human
+    1b: 33.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -5737,7 +5737,7 @@ gpr61_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 63.0
+    4e: 67.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
@@ -5747,7 +5747,7 @@ gpr61_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 60.0
     Cl: A
 gpr62_human:
     XtalTempl: cxcr2_human
@@ -5777,8 +5777,8 @@ gpr62_human:
     8e: 61.0
     Cl: A
 gpr63_human:
-    XtalTempl: 5ht2c_human
-    1b: 33.0
+    XtalTempl: drd2_human
+    1b: 29.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -5789,23 +5789,23 @@ gpr63_human:
     3b: 18.0
     3e: 56.0
     i2b: 50.0
-    i2e: 57.0
+    i2e: 54.0
     4b: 38.0
-    4e: 67.0
+    4e: 63.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
     5e: 76.0
     6b: 24.0
     6e: 61.0
-    7b: 27.0
+    7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 60.0
+    8e: 59.0
     Cl: A
 gpr6_human:
-    XtalTempl: s1pr3_human
-    1b: 32.0
+    XtalTempl: s1pr1_human
+    1b: 29.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -5828,7 +5828,7 @@ gpr6_human:
     7b: 34.0
     7e: 56.0
     8b: 47.0
-    8e: 72.0
+    8e: 59.0
     Cl: A
 gpr75_human:
     XtalTempl: adrb1_human
@@ -5885,8 +5885,8 @@ gpr78_human:
     8e: 59.0
     Cl: A
 gpr82_human:
-    XtalTempl: oprm_mouse
-    1b: 29.0
+    XtalTempl: oprd_human
+    1b: 22.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -5909,7 +5909,7 @@ gpr82_human:
     7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 60.0
     Cl: A
 gpr83_human:
     XtalTempl: npy2r_human
@@ -5939,13 +5939,13 @@ gpr83_human:
     8e: 63.0
     Cl: A
 gpr84_human:
-    XtalTempl: 5ht2a_human
-    1b: 27.0
+    XtalTempl: ednrb_human
+    1b: 22.0
     1e: 60.0
     i1b: 48.0
-    i1e: 51.0
+    i1e: 52.0
     2b: 37.0
-    2e: 68.0
+    2e: 67.0
     e1b: 49.0
     e1e: 52.0
     3b: 21.0
@@ -5953,10 +5953,10 @@ gpr84_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 67.0
+    4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 35.0
+    5b: 28.0
     5e: 74.0
     6b: 24.0
     6e: 61.0
@@ -6020,8 +6020,8 @@ gpr87_human:
     8e: 57.0
     Cl: A
 gpr88_human:
-    XtalTempl: adrb1_human
-    1b: 24.0
+    XtalTempl: ox1r_human
+    1b: 32.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -6042,9 +6042,9 @@ gpr88_human:
     6b: 23.0
     6e: 61.0
     7b: 32.0
-    7e: 55.0
+    7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 63.0
     Cl: A
 grm1_human:
     XtalTempl: grm1_human
@@ -6101,28 +6101,28 @@ grm2_human:
     8e: 57.0
     Cl: C
 grm3_human:
-    XtalTempl: grm2_human
-    1b: 32.0
+    XtalTempl: grm5_human
+    1b: 34.0
     1e: 60.0
     i1b: 47.0
     i1e: 53.0
     2b: 39.0
-    2e: 62.0
+    2e: 61.0
     e1b: '-'
     e1e: '-'
     3b: 21.0
-    3e: 56.0
+    3e: 54.0
     i2b: '-'
     i2e: '-'
     4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 37.0
-    5e: 64.0
-    6b: 31.0
-    6e: 59.0
-    7b: 30.0
+    5b: 36.0
+    5e: 61.0
+    6b: 33.0
+    6e: 58.0
+    7b: 33.0
     7e: 64.0
     8b: 46.0
     8e: 57.0
@@ -6182,17 +6182,17 @@ grm5_human:
     8e: 57.0
     Cl: C
 grm6_human:
-    XtalTempl: grm7_human
-    1b: 35.0
+    XtalTempl: grm5_human
+    1b: 34.0
     1e: 60.0
     i1b: 47.0
     i1e: 53.0
     2b: 39.0
-    2e: 62.0
+    2e: 61.0
     e1b: '-'
     e1e: '-'
     3b: 21.0
-    3e: 56.0
+    3e: 54.0
     i2b: '-'
     i2e: '-'
     4b: 38.0
@@ -6200,8 +6200,8 @@ grm6_human:
     e2b: 50.0
     e2e: 52.0
     5b: 36.0
-    5e: 62.0
-    6b: 31.0
+    5e: 61.0
+    6b: 33.0
     6e: 58.0
     7b: 33.0
     7e: 64.0
@@ -6236,17 +6236,17 @@ grm7_human:
     8e: 57.0
     Cl: C
 grm8_human:
-    XtalTempl: grm7_human
-    1b: 35.0
+    XtalTempl: grm5_human
+    1b: 34.0
     1e: 60.0
     i1b: 47.0
     i1e: 53.0
     2b: 39.0
-    2e: 62.0
+    2e: 61.0
     e1b: '-'
     e1e: '-'
     3b: 21.0
-    3e: 56.0
+    3e: 54.0
     i2b: '-'
     i2e: '-'
     4b: 38.0
@@ -6254,8 +6254,8 @@ grm8_human:
     e2b: 50.0
     e2e: 52.0
     5b: 36.0
-    5e: 62.0
-    6b: 31.0
+    5e: 61.0
+    6b: 33.0
     6e: 58.0
     7b: 33.0
     7e: 64.0
@@ -6317,11 +6317,11 @@ hcar1_human:
     8e: 59.0
     Cl: A
 hcar2_human:
-    XtalTempl: ccr6_human
+    XtalTempl: cltr2_human
     1b: 25.0
     1e: 60.0
-    i1b: 48.0
-    i1e: 51.0
+    i1b: '-'
+    i1e: '-'
     2b: 37.0
     2e: 67.0
     e1b: 49.0
@@ -6331,26 +6331,26 @@ hcar2_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 64.0
+    4e: 63.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
+    5b: 32.0
     5e: 67.0
     6b: 26.0
     6e: 64.0
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 62.0
+    8e: 60.0
     Cl: A
 hcar3_human:
-    XtalTempl: ccr6_human
-    1b: 25.0
+    XtalTempl: p2ry1_human
+    1b: 30.0
     1e: 60.0
-    i1b: 48.0
-    i1e: 51.0
+    i1b: '-'
+    i1e: '-'
     2b: 37.0
-    2e: 67.0
+    2e: 66.0
     e1b: 49.0
     e1e: 52.0
     3b: 18.0
@@ -6361,14 +6361,14 @@ hcar3_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
+    5b: 32.0
     5e: 67.0
     6b: 26.0
     6e: 64.0
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 62.0
+    8e: 59.0
     Cl: A
 hrh1_human:
     XtalTempl: hrh1_human
@@ -6425,13 +6425,13 @@ hrh2_human:
     8e: 59.0
     Cl: A
 hrh3_human:
-    XtalTempl: acm5_human
-    1b: 28.0
+    XtalTempl: hrh1_human
+    1b: 34.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 68.0
+    2e: 67.0
     e1b: 49.0
     e1e: 52.0
     3b: 18.0
@@ -6506,24 +6506,24 @@ kissr_human:
     8e: 59.0
     Cl: A
 lgr4_human:
-    XtalTempl: lshr_human
-    1b: 32.0
+    XtalTempl: agtr1_human
+    1b: 28.0
     1e: 60.0
-    i1b: '-'
-    i1e: '-'
+    i1b: 48.0
+    i1e: 51.0
     2b: 37.0
     2e: 67.0
-    e1b: '-'
-    e1e: '-'
+    e1b: 49.0
+    e1e: 52.0
     3b: 18.0
     3e: 56.0
-    i2b: '-'
+    i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 63.0
+    4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 33.0
+    5b: 34.0
     5e: 67.0
     6b: 28.0
     6e: 61.0
@@ -6533,48 +6533,48 @@ lgr4_human:
     8e: 61.0
     Cl: A
 lgr5_human:
-    XtalTempl: lshr_human
-    1b: 32.0
+    XtalTempl: aa2ar_human
+    1b: 27.0
     1e: 60.0
-    i1b: '-'
-    i1e: '-'
+    i1b: 48.0
+    i1e: 51.0
     2b: 37.0
     2e: 67.0
     e1b: 49.0
-    e1e: '-'
+    e1e: 52.0
     3b: 18.0
     3e: 56.0
-    i2b: '-'
+    i2b: 50.0
     i2e: 57.0
     4b: 38.0
     4e: 63.0
     e2b: 50.0
     e2e: 52.0
-    5b: 33.0
+    5b: 34.0
     5e: 67.0
     6b: 28.0
     6e: 61.0
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 69.0
     Cl: A
 lgr6_human:
-    XtalTempl: lshr_human
-    1b: 32.0
+    XtalTempl: mtr1a_human
+    1b: 28.0
     1e: 60.0
-    i1b: '-'
-    i1e: '-'
+    i1b: 48.0
+    i1e: 51.0
     2b: 37.0
-    2e: 67.0
-    e1b: '-'
-    e1e: '-'
+    2e: 68.0
+    e1b: 49.0
+    e1e: 52.0
     3b: 18.0
     3e: 56.0
-    i2b: '-'
+    i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 63.0
+    4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
@@ -6584,7 +6584,7 @@ lgr6_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 63.0
     Cl: A
 lpar1_human:
     XtalTempl: lpar1_human
@@ -6803,11 +6803,11 @@ lt4r1_human:
     8e: '-'
     Cl: A
 lt4r2_human:
-    XtalTempl: lt4r1_human
-    1b: 27.0
+    XtalTempl: pd2r2_human
+    1b: 32.0
     1e: 60.0
-    i1b: 48.0
-    i1e: 51.0
+    i1b: '-'
+    i1e: '-'
     2b: 37.0
     2e: 67.0
     e1b: 49.0
@@ -6825,13 +6825,13 @@ lt4r2_human:
     6b: 26.0
     6e: 64.0
     7b: 27.0
-    7e: 64.0
-    8b: '-'
-    8e: '-'
+    7e: 56.0
+    8b: 47.0
+    8e: 64.0
     Cl: A
 mas1l_human:
-    XtalTempl: bkrb1_human
-    1b: 25.0
+    XtalTempl: cxcr2_human
+    1b: 29.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -6847,14 +6847,14 @@ mas1l_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
+    5b: 30.0
     5e: 68.0
     6b: 30.0
     6e: 61.0
     7b: 34.0
     7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 61.0
     Cl: A
 mas_human:
     XtalTempl: agtr1_human
@@ -7100,11 +7100,11 @@ mrgrf_human:
     8e: 62.0
     Cl: A
 mrgrg_human:
-    XtalTempl: pd2r2_human
-    1b: 32.0
+    XtalTempl: agtr1_human
+    1b: 28.0
     1e: 60.0
-    i1b: '-'
-    i1e: '-'
+    i1b: 48.0
+    i1e: 51.0
     2b: 37.0
     2e: 63.0
     e1b: 49.0
@@ -7117,14 +7117,14 @@ mrgrg_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 26.0
+    5b: 34.0
     5e: 67.0
     6b: 30.0
     6e: 61.0
     7b: 32.0
     7e: 56.0
     8b: 47.0
-    8e: 64.0
+    8e: 61.0
     Cl: A
 mrgx1_human:
     XtalTempl: agtr1_human
@@ -7145,74 +7145,47 @@ mrgx1_human:
     e2b: 50.0
     e2e: 52.0
     5b: 34.0
-    5e: 68.0
-    6b: 30.0
-    6e: 61.0
-    7b: 27.0
+    5e: 63.0
+    6b: 29.0
+    6e: 62.0
+    7b: 30.0
     7e: 56.0
     8b: 47.0
     8e: 61.0
     Cl: A
 mrgx2_human:
-    XtalTempl: c5ar1_human
-    1b: 29.0
-    1e: 60.0
+    XtalTempl: mrgx2_human
+    1b: 32.0
+    1e: 61.0
     i1b: '-'
     i1e: '-'
     2b: 37.0
-    2e: 67.0
-    e1b: 49.0
-    e1e: 52.0
-    3b: 21.0
+    2e: 71.0
+    e1b: '-'
+    e1e: '-'
+    3b: 25.0
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
     4e: 64.0
-    e2b: 50.0
-    e2e: 52.0
-    5b: 31.0
+    e2b: '-'
+    e2e: '-'
+    5b: 32.0
     5e: 68.0
-    6b: 30.0
-    6e: 61.0
-    7b: 27.0
-    7e: 56.0
+    6b: 29.0
+    6e: 62.0
+    7b: 30.0
+    7e: 59.0
     8b: '-'
     8e: '-'
     Cl: A
 mrgx3_human:
-    XtalTempl: pd2r2_human
-    1b: 32.0
-    1e: 60.0
-    i1b: '-'
-    i1e: '-'
-    2b: 37.0
-    2e: 66.0
-    e1b: 49.0
-    e1e: 52.0
-    3b: 24.0
-    3e: 56.0
-    i2b: 50.0
-    i2e: 57.0
-    4b: 38.0
-    4e: 64.0
-    e2b: 50.0
-    e2e: 52.0
-    5b: 26.0
-    5e: 68.0
-    6b: 30.0
-    6e: 61.0
-    7b: 27.0
-    7e: 56.0
-    8b: 47.0
-    8e: 64.0
-    Cl: A
-mrgx4_human:
-    XtalTempl: c5ar1_human
+    XtalTempl: cxcr2_human
     1b: 29.0
     1e: 60.0
-    i1b: '-'
-    i1e: '-'
+    i1b: 48.0
+    i1e: 51.0
     2b: 37.0
     2e: 66.0
     e1b: 49.0
@@ -7225,12 +7198,39 @@ mrgx4_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 31.0
-    5e: 68.0
-    6b: 30.0
-    6e: 61.0
-    7b: 27.0
+    5b: 30.0
+    5e: 63.0
+    6b: 29.0
+    6e: 62.0
+    7b: 30.0
     7e: 56.0
+    8b: 47.0
+    8e: 61.0
+    Cl: A
+mrgx4_human:
+    XtalTempl: mrgx4_human
+    1b: 31.0
+    1e: 61.0
+    i1b: '-'
+    i1e: '-'
+    2b: 37.0
+    2e: 65.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 40.0
+    4e: 64.0
+    e2b: '-'
+    e2e: '-'
+    5b: 28.0
+    5e: 63.0
+    6b: 29.0
+    6e: 57.0
+    7b: 29.0
+    7e: 60.0
     8b: '-'
     8e: '-'
     Cl: A
@@ -7391,7 +7391,7 @@ nk1r_human:
     5e: 73.0
     6b: 22.0
     6e: 61.0
-    7b: 30.0
+    7b: 29.0
     7e: 56.0
     8b: 47.0
     8e: 58.0
@@ -7418,7 +7418,7 @@ nk2r_human:
     5e: 73.0
     6b: 22.0
     6e: 61.0
-    7b: 30.0
+    7b: 29.0
     7e: 56.0
     8b: 47.0
     8e: 58.0
@@ -7445,7 +7445,7 @@ nk3r_human:
     5e: 73.0
     6b: 22.0
     6e: 61.0
-    7b: 30.0
+    7b: 29.0
     7e: 56.0
     8b: 47.0
     8e: 58.0
@@ -7532,8 +7532,8 @@ nmur2_human:
     8e: 62.0
     Cl: A
 npbw1_human:
-    XtalTempl: oprd_human
-    1b: 22.0
+    XtalTempl: oprd_mouse
+    1b: 24.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -7559,8 +7559,8 @@ npbw1_human:
     8e: 60.0
     Cl: A
 npbw2_human:
-    XtalTempl: oprd_human
-    1b: 22.0
+    XtalTempl: oprd_mouse
+    1b: 24.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -7883,11 +7883,11 @@ ntr2_human:
     8e: 62.0
     Cl: A
 o2t11_human:
-    XtalTempl: c5ar1_human
+    XtalTempl: oprx_human
     1b: 29.0
     1e: 60.0
-    i1b: '-'
-    i1e: '-'
+    i1b: 48.0
+    i1e: 51.0
     2b: 37.0
     2e: 66.0
     e1b: 49.0
@@ -7905,26 +7905,26 @@ o2t11_human:
     6b: 23.0
     6e: 54.0
     7b: 32.0
-    7e: 61.0
-    8b: '-'
-    8e: '-'
+    7e: 56.0
+    8b: 47.0
+    8e: 59.0
     Cl: A
 o51e1_human:
-    XtalTempl: npy1r_human
-    1b: 28.0
+    XtalTempl: aa1r_human
+    1b: 29.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
-    2e: 68.0
-    e1b: 49.0
+    2e: 67.0
+    e1b: 50.0
     e1e: 52.0
     3b: 21.0
     3e: 56.0
-    i2b: '-'
-    i2e: '-'
+    i2b: 50.0
+    i2e: 57.0
     4b: 38.0
-    4e: 64.0
+    4e: 63.0
     e2b: 50.0
     e2e: 52.0
     5b: 36.0
@@ -7934,11 +7934,11 @@ o51e1_human:
     7b: 34.0
     7e: 56.0
     8b: 47.0
-    8e: 58.0
+    8e: 69.0
     Cl: O
 ogr1_human:
-    XtalTempl: agtr2_human
-    1b: 33.0
+    XtalTempl: ptafr_human
+    1b: 27.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -7951,17 +7951,17 @@ ogr1_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 64.0
+    4e: 63.0
     e2b: 50.0
     e2e: 52.0
-    5b: 30.0
+    5b: 33.0
     5e: 67.0
     6b: 26.0
     6e: 61.0
     7b: 28.0
-    7e: 56.0
-    8b: 47.0
-    8e: 61.0
+    7e: 59.0
+    8b: 50.0
+    8e: 63.0
     Cl: A
 opn3_human:
     XtalTempl: opsd_bovin
@@ -8369,14 +8369,14 @@ opsr_human:
     8e: 59.0
     Cl: A
 or1a1_human:
-    XtalTempl: aa2ar_human
-    1b: 27.0
+    XtalTempl: ada2b_human
+    1b: 31.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
     2b: 37.0
     2e: 66.0
-    e1b: 50.0
+    e1b: 49.0
     e1e: 52.0
     3b: 21.0
     3e: 56.0
@@ -8393,7 +8393,7 @@ or1a1_human:
     7b: 32.0
     7e: 56.0
     8b: 47.0
-    8e: 69.0
+    8e: 59.0
     Cl: A
 or1g1_human:
     XtalTempl: cxcr2_human
@@ -8990,15 +8990,15 @@ pd2r2_human:
     8e: 64.0
     Cl: A
 pd2r_human:
-    XtalTempl: pe2r2_human
-    1b: 35.0
+    XtalTempl: pe2r4_human
+    1b: 33.0
     1e: 60.0
     i1b: '-'
     i1e: '-'
     2b: 37.0
-    2e: 68.0
-    e1b: '-'
-    e1e: '-'
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
     3b: 18.0
     3e: 56.0
     i2b: 50.0
@@ -9007,7 +9007,7 @@ pd2r_human:
     4e: 63.0
     e2b: 50.0
     e2e: 52.0
-    5b: 35.0
+    5b: 33.0
     5e: 80.0
     6b: 23.0
     6e: 61.0
@@ -9152,15 +9152,15 @@ pf2r_human:
     8e: 66.0
     Cl: A
 pi2r_human:
-    XtalTempl: pe2r2_human
-    1b: 35.0
+    XtalTempl: pe2r4_human
+    1b: 33.0
     1e: 60.0
     i1b: '-'
     i1e: '-'
     2b: 37.0
     2e: 67.0
-    e1b: '-'
-    e1e: '-'
+    e1b: 49.0
+    e1e: 52.0
     3b: 18.0
     3e: 56.0
     i2b: 50.0
@@ -9169,7 +9169,7 @@ pi2r_human:
     4e: 63.0
     e2b: 50.0
     e2e: 52.0
-    5b: 35.0
+    5b: 33.0
     5e: 73.0
     6b: 22.0
     6e: 61.0
@@ -9260,11 +9260,11 @@ prlhr_human:
     8e: 63.0
     Cl: A
 psyr_human:
-    XtalTempl: cxcr2_human
-    1b: 29.0
+    XtalTempl: p2ry1_human
+    1b: 30.0
     1e: 60.0
-    i1b: 48.0
-    i1e: 51.0
+    i1b: '-'
+    i1e: '-'
     2b: 37.0
     2e: 66.0
     e1b: 49.0
@@ -9273,18 +9273,18 @@ psyr_human:
     3e: 56.0
     i2b: 50.0
     i2e: 57.0
-    4b: 41.0
+    4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 30.0
+    5b: 32.0
     5e: 67.0
     6b: 26.0
     6e: 64.0
     7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 59.0
     Cl: A
 ptafr_human:
     XtalTempl: ptafr_human
@@ -9530,8 +9530,8 @@ qrfpr_human:
     8e: 63.0
     Cl: A
 rai3_human:
-    XtalTempl: grm2_human
-    1b: 32.0
+    XtalTempl: grm1_human
+    1b: 34.0
     1e: 60.0
     i1b: 47.0
     i1e: 53.0
@@ -9540,18 +9540,18 @@ rai3_human:
     e1b: '-'
     e1e: '-'
     3b: 21.0
-    3e: 56.0
+    3e: 54.0
     i2b: '-'
     i2e: '-'
     4b: 38.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 37.0
-    5e: 64.0
-    6b: 31.0
-    6e: 59.0
-    7b: 30.0
+    5b: 36.0
+    5e: 61.0
+    6b: 33.0
+    6e: 58.0
+    7b: 33.0
     7e: 64.0
     8b: 46.0
     8e: 57.0
@@ -9584,8 +9584,8 @@ rl3r1_human:
     8e: 61.0
     Cl: A
 rl3r2_human:
-    XtalTempl: oprd_human
-    1b: 22.0
+    XtalTempl: oprd_mouse
+    1b: 24.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -9611,18 +9611,18 @@ rl3r2_human:
     8e: 60.0
     Cl: A
 rxfp1_human:
-    XtalTempl: lshr_human
-    1b: 32.0
+    XtalTempl: aa1r_human
+    1b: 29.0
     1e: 60.0
-    i1b: '-'
-    i1e: '-'
+    i1b: 48.0
+    i1e: 51.0
     2b: 37.0
     2e: 67.0
-    e1b: '-'
-    e1e: '-'
+    e1b: 50.0
+    e1e: 52.0
     3b: 18.0
     3e: 56.0
-    i2b: '-'
+    i2b: 50.0
     i2e: 56.0
     4b: 38.0
     4e: 63.0
@@ -9635,21 +9635,21 @@ rxfp1_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 69.0
     Cl: A
 rxfp2_human:
-    XtalTempl: lshr_human
-    1b: 32.0
+    XtalTempl: aa1r_human
+    1b: 29.0
     1e: 60.0
-    i1b: '-'
-    i1e: '-'
+    i1b: 48.0
+    i1e: 51.0
     2b: 37.0
     2e: 67.0
-    e1b: '-'
-    e1e: '-'
+    e1b: 50.0
+    e1e: 52.0
     3b: 18.0
     3e: 56.0
-    i2b: '-'
+    i2b: 50.0
     i2e: 56.0
     4b: 38.0
     4e: 63.0
@@ -9662,7 +9662,7 @@ rxfp2_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 69.0
     Cl: A
 s1pr1_human:
     XtalTempl: s1pr1_human
@@ -9962,8 +9962,8 @@ ssr3_human:
     8e: 59.0
     Cl: A
 ssr4_human:
-    XtalTempl: oprd_human
-    1b: 22.0
+    XtalTempl: oprk_human
+    1b: 30.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -9986,11 +9986,11 @@ ssr4_human:
     7b: 32.0
     7e: 56.0
     8b: 47.0
-    8e: 60.0
+    8e: 59.0
     Cl: A
 ssr5_human:
-    XtalTempl: oprk_human
-    1b: 30.0
+    XtalTempl: oprd_human
+    1b: 22.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -10013,7 +10013,7 @@ ssr5_human:
     7b: 28.0
     7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 60.0
     Cl: A
 sucr1_human:
     XtalTempl: sucr1_rat
@@ -10259,7 +10259,7 @@ t2r30_human:
     8e: 60.0
     Cl: T
 t2r31_human:
-    XtalTempl: drd2_human
+    XtalTempl: agtr1_human
     1b: 32.0
     1e: 62.0
     i1b: 48.0
@@ -10273,7 +10273,7 @@ t2r31_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 63.0
+    4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 32.0
@@ -10475,7 +10475,7 @@ t2r45_human:
     8e: 60.0
     Cl: T
 t2r46_human:
-    XtalTempl: 5ht2c_human
+    XtalTempl: drd2_human
     1b: 32.0
     1e: 62.0
     i1b: 48.0
@@ -10489,7 +10489,7 @@ t2r46_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 67.0
+    4e: 63.0
     e2b: 50.0
     e2e: 52.0
     5b: 32.0
@@ -10772,11 +10772,11 @@ ta2r_human:
     8e: 66.0
     Cl: A
 taar1_human:
-    XtalTempl: drd1_human
-    1b: 30.0
+    XtalTempl: adrb1_human
+    1b: 24.0
     1e: 60.0
     i1b: 48.0
-    i1e: 52.0
+    i1e: 51.0
     2b: 37.0
     2e: 68.0
     e1b: 49.0
@@ -10826,8 +10826,8 @@ taar2_human:
     8e: 60.0
     Cl: A
 taar3_human:
-    XtalTempl: adrb1_human
-    1b: 24.0
+    XtalTempl: ada2a_human
+    1b: 32.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -10840,7 +10840,7 @@ taar3_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 64.0
+    4e: 62.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
@@ -10850,7 +10850,7 @@ taar3_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 60.0
     Cl: A
 taar5_human:
     XtalTempl: 5ht1b_human
@@ -10880,8 +10880,8 @@ taar5_human:
     8e: 58.0
     Cl: A
 taar6_human:
-    XtalTempl: 5ht1f_human
-    1b: 29.0
+    XtalTempl: 5ht1b_human
+    1b: 28.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -10894,7 +10894,7 @@ taar6_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 65.0
+    4e: 63.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
@@ -10904,7 +10904,7 @@ taar6_human:
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 57.0
+    8e: 58.0
     Cl: A
 taar8_human:
     XtalTempl: 5ht1b_human
@@ -10934,8 +10934,8 @@ taar8_human:
     8e: 58.0
     Cl: A
 taar9_human:
-    XtalTempl: 5ht1b_human
-    1b: 28.0
+    XtalTempl: adrb2_human
+    1b: 25.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -10948,7 +10948,7 @@ taar9_human:
     i2b: 50.0
     i2e: 57.0
     4b: 38.0
-    4e: 63.0
+    4e: 64.0
     e2b: 50.0
     e2e: 52.0
     5b: 35.0
@@ -10956,13 +10956,13 @@ taar9_human:
     6b: 23.0
     6e: 61.0
     7b: 31.0
-    7e: 56.0
+    7e: 55.0
     8b: 47.0
-    8e: 58.0
+    8e: 59.0
     Cl: A
 tpra1_human:
-    XtalTempl: q3ksp2_ebvg
-    1b: 32.0
+    XtalTempl: pe2r4_human
+    1b: 33.0
     1e: 60.0
     i1b: '-'
     i1e: '-'
@@ -11015,13 +11015,13 @@ trfr_human:
     8e: 59.0
     Cl: A
 ts1r1_human:
-    XtalTempl: casr_human
-    1b: 33.0
+    XtalTempl: grm1_human
+    1b: 34.0
     1e: 60.0
     i1b: 47.0
     i1e: 53.0
     2b: 39.0
-    2e: 61.0
+    2e: 62.0
     e1b: '-'
     e1e: '-'
     3b: 21.0
@@ -11032,23 +11032,23 @@ ts1r1_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 37.0
-    5e: 64.0
-    6b: 32.0
+    5b: 36.0
+    5e: 61.0
+    6b: 33.0
     6e: 58.0
-    7b: 31.0
+    7b: 33.0
     7e: 64.0
     8b: 46.0
     8e: 57.0
     Cl: C
 ts1r2_human:
-    XtalTempl: casr_human
-    1b: 33.0
+    XtalTempl: grm1_human
+    1b: 34.0
     1e: 60.0
     i1b: 47.0
     i1e: 53.0
     2b: 39.0
-    2e: 61.0
+    2e: 62.0
     e1b: '-'
     e1e: '-'
     3b: 21.0
@@ -11059,9 +11059,9 @@ ts1r2_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 37.0
-    5e: 64.0
-    6b: 32.0
+    5b: 36.0
+    5e: 61.0
+    6b: 33.0
     6e: 58.0
     7b: 31.0
     7e: 64.0
@@ -11069,13 +11069,13 @@ ts1r2_human:
     8e: 57.0
     Cl: C
 ts1r3_human:
-    XtalTempl: casr_human
-    1b: 33.0
+    XtalTempl: grm1_human
+    1b: 34.0
     1e: 60.0
     i1b: 47.0
     i1e: 53.0
     2b: 39.0
-    2e: 61.0
+    2e: 62.0
     e1b: '-'
     e1e: '-'
     3b: 23.0
@@ -11086,45 +11086,45 @@ ts1r3_human:
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 37.0
-    5e: 64.0
-    6b: 32.0
+    5b: 36.0
+    5e: 61.0
+    6b: 33.0
     6e: 58.0
-    7b: 31.0
+    7b: 33.0
     7e: 64.0
     8b: 46.0
     8e: 57.0
     Cl: C
 tshr_human:
-    XtalTempl: lshr_human
-    1b: 32.0
+    XtalTempl: aa2ar_human
+    1b: 27.0
     1e: 60.0
-    i1b: '-'
-    i1e: '-'
+    i1b: 48.0
+    i1e: 51.0
     2b: 37.0
     2e: 67.0
     e1b: 49.0
-    e1e: '-'
+    e1e: 52.0
     3b: 18.0
     3e: 56.0
-    i2b: '-'
+    i2b: 50.0
     i2e: 57.0
     4b: 38.0
     4e: 63.0
     e2b: 50.0
     e2e: 52.0
-    5b: 33.0
+    5b: 34.0
     5e: 67.0
     6b: 26.0
     6e: 61.0
     7b: 31.0
     7e: 56.0
     8b: 47.0
-    8e: 61.0
+    8e: 69.0
     Cl: A
 ur2r_human:
-    XtalTempl: adrb1_human
-    1b: 24.0
+    XtalTempl: cxcr2_human
+    1b: 29.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -11136,18 +11136,18 @@ ur2r_human:
     3e: 56.0
     i2b: 50.0
     i2e: 56.0
-    4b: 38.0
+    4b: 41.0
     4e: 64.0
     e2b: 50.0
     e2e: 52.0
-    5b: 35.0
+    5b: 30.0
     5e: 72.0
     6b: 29.0
     6e: 61.0
-    7b: 31.0
+    7b: 24.0
     7e: 56.0
     8b: 47.0
-    8e: 59.0
+    8e: 61.0
     Cl: A
 us28_hcmva:
     XtalTempl: us28_hcmva
@@ -11285,8 +11285,8 @@ vipr1_human:
     8e: 72.0
     Cl: B1
 vipr2_human:
-    XtalTempl: pacr_human
-    1b: 21.0
+    XtalTempl: vipr1_human
+    1b: 22.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -11298,7 +11298,7 @@ vipr2_human:
     3e: 56.0
     i2b: '-'
     i2e: '-'
-    4b: 40.0
+    4b: 37.0
     4e: 68.0
     e2b: 50.0
     e2e: 52.0

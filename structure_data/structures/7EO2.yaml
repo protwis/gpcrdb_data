@@ -1,0 +1,12 @@
+auxiliary_protein: ''
+construct: 7eo2
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 7EO2
+preferred_chain: A
+signaling_protein: None
+state: Inactive

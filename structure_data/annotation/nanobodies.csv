@@ -1,206 +1,222 @@
-PDB,Name
-7KI0,Nanobody-35
-7KI1,Nanobody-35
-7L1U,scFv16
-7L1V,scFv16
-7L1V,Sb51
-7LJC,Nanobody-35
-7LJD,Nanobody-35
-7MBX,Nanobody-35
-7MTA,Fab heavy chain
-7MTA,Fab light chain
-7MTB,Fab light chain
-7MTB,Fab heavy chain
-7O7F,Fab heavy chain
-7O7F,Fab light chain
-6XBM,scFv16
-6XOX,scFv16
-6XOX,Nanobody-35
-6Z10,Nanobody-6
-7AUE,scFv16
-7BB6,Nanobody-35
-7BB7,Nanobody-35
-7BTS,Camelid antibody fragment Nb6B9
-7BU6,Camelid antibody fragment Nb6B9
-7BU7,Camelid antibody fragment Nb6B9
-7BW0,Nanobody-35
-7BZ2,Nanobody-35
-7C2E,Nanobody-35
-7C4S,Fab light chain
-7C4S,Fab heavy chain
-7C61,IgG heavy chain
-7C61,IgG light chain
-7C6A,IgG heavy chain
-7C6A,IgG light chain
-7CFM,Nanobody-35
-7CFN,Nanobody-35
-7CKW,Nanobody-35
-7CKX,Nanobody-35
-7CKY,Nanobody-35
-7CKZ,Nanobody-35
-7CMU,scFv16
-7CMV,scFv16
-7CRH,Nanobody-35
-7CX2,Nanobody-35
-7CX3,Nanobody-35
-7CX4,Nanobody-35
-7CZ5,Nanobody-35
-7D3S,Nanobody-35
-7D68,Nanobody-35
-7D77,scFv16
-7D7M,Nanobody-35
-7DB6,scFv16
-7DFL,scFv16
-7DFP,Fab heavy chain
-7DFP,Fab light chain
-7DGE,Nanobody-43
-7DH5,Nanobody-35
-7DHI,Nanobody-35
-7DHR,Nanobody-35
-7DTY,Nanobody-35
-7DUQ,Nanobody-35
-7DUR,Nanobody-35
-7DW9,Nanobody-35
-7DW9,scFv16
-7E14,Nanobody-35
-7E32,scFv16
-7E33,scFv16
-7E6U,Nanobody-2D11
-7E9G,scFv16
-7E9G,DN13
-7E9H,scFv16
-7EB2,scFv16
-7EPB,Anti-RON nanobody
-7EVM,Nanobody-35
-7EVW,Nanobody-35
-7EW1,scFv16
-7EW2,scFv16
-7EW3,scFv16
-7EW4,scFv16
-7EXD,scFv16
-7EZH,scFv16
-7EZM,scFv16
-7F16,Nanobody-35
-7FIG,Nanobody-35
-7JHJ,scFv16
-7JJO,Nanobody-35
-7JOZ,Nanobody-35
-7JV5,Nanobody-35
-7JVP,Nanobody-35
-7JVQ,Nanobody-35
-7JVR,scFv16
-7KH0,scFv16
-7KH0,Nanobody-35
-6MEO,T-cell surface glycoprotein CD4
-6MET,T-cell surface glycoprotein CD4
-6MXT,Nanobody-71
-6N48,Camelid Antibody Fragment
-6N4B,scFv16
-6N51,Nanobody-43
-6N52,Nanobody-43
-6NBF,Nanobody-35
-6NBH,Nanobody-35
-6NBI,Nanobody-35
-6NI3,Nanobody-35
-6O3C,Nanobody-Smo8
-6OIJ,Antibody fragment
-6ORV,Nanobody-35
-6OS0,Nanobody-Nb.AT110i1
-6OS1,Nanobody-Nb.AT110i1_le
-6OS2,Nanobody-Nb.AT110i1_le
-6OS9,scFv16
-6OT0,Fab light chain
-6OT0,Fab heavy chain
-6OYA,Camelid antibody VHH fragment
-6P9X,Nanobody-35
-6P9Y,Nanobody-35
-6PB0,Nanobody-35
-6PB1,Nanobody-35
-6PT0,scFv16
-6PWC,Fab30 heavy chain
-6PWC,Fab30 light chain
-6QNO,Fab antibody fragment light chain
-6QNO,Fab antibody fragment heavy chain
-6RNK,Nanobody-6
-6TKO,Fab30 heavy chain
-6TKO,Fab30 light chain
-6U1N,Fab30 light chain
-6U1N,Fab30 heavy chain
-6UUN,Nanobody-35
-6UUS,Nanobody-35
-6UVA,Nanobody-35
-6VCB,Nanobody-35
-6VI4,Nanobody-6
-6VMS,scFv16
-6VN7,Nanobody-35
-6WHA,scFv16
-6WHC,Nanobody-35
-6WI9,Nanobody-35
-6WPW,Nanobody-35
-6WW2,anti-BRIL Fab heavy chain
-6WW2,anti-BRIL Fab light chain
-6WW2,anti-Fab Nanobody
-6WWZ,scFv16
-6WZG,Nanobody-35
-6X18,Nanobody-35
-6X19,Nanobody-35
-6X1A,Nanobody-35
-6XBJ,scFv16
-6XBK,scFv16
-6XBL,scFv16
-5YHL,Fab
-5YWY,Fab
-6B73,Nanobody
-6CMO,Fab
-6DDE,Antibody
-6DO1,Nanobody-Nb.AT110i1
-6E3Y,Nanobody-35
-6GDG,Nanobody-35
-6H7J,Camelid antibody fragment Nb80
-6H7L,Camelid antibody fragment Nb6B9
-6H7M,Camelid antibody fragment Nb6B9
-6H7N,Camelid antibody fragment Nb6B9
-6H7O,Camelid antibody fragment Nb6B9
-6IBB,Nanobody-6
-6IBL,Camelid antibody fragment Nb80
-6JOD,Heavy chain of 4A03Fab
-6JOD,Light chain of 4A03Fab
-6K41,scFv
-6K42,scFv
-6KO5,Fab7881 heavy chain
-6KO5,Fab7881 light chain
-6KPF,scFv16
-6KPG,scFv16
-6LFM,scFv16
-6LFO,scFv16
-6LI3,Nanobody-35
-6LMK,Nanobody-35
-6LML,scFv16
-6LN2,Fab7F38 light chain
-6LN2,Fab7F38 heavy chain
-6LPB,Nanobody-35
-6M1H,Nanobody-35
-6M1I,Nanobody-35
-4XT1,Nanobody
-5C1M,Antibody
-5JQH,Nanobody
-5NJ6,Fab3949
-5TUD,Antibody
-5WB1,Nanobody
-5WB2,Nanobody
-5XEZ,Antibody
-5XF1,Antibody
-5XJM,Fab
-2R4R,Antibody
-2R4S,Antibody
-3KJ6,Antibody
-3P0G,Nanobody
-3SN6,Antibody
-3VG9,Antibody fab fragment light chain
-3VG9,Antibody fab fragment heavy chain
-4LDE,Nanobody
-4LDL,Nanobody
-4LDO,Nanobody
-4MQS,Nanobody
-4MQT,Nanobody
-4QKX,Nanobody
+PDB	Name
+2R4R	Antibody
+2R4S	Antibody
+3KJ6	Antibody
+3P0G	Nanobody
+3SN6	Antibody
+3VG9	Antibody fab fragment heavy chain
+4LDE	Nanobody
+4LDL	Nanobody
+4LDO	Nanobody
+4MQS	Nanobody
+4MQT	Nanobody
+4QKX	Nanobody
+4XT1	Nanobody
+5C1M	Antibody
+5JQH	Nanobody
+5NJ6	Fab3949
+5XEZ	Antibody
+5XF1	Antibody
+5TUD	Antibody
+6B73	Nanobody
+6GDG	Nanobody-35
+5WB1	Nanobody
+5WB2	Nanobody
+6DDE	Antibody
+6CMO	Fab
+5XJM	Fab
+6E3Y	Nanobody-35
+6H7J	Camelid antibody fragment Nb80
+6H7L	Camelid antibody fragment Nb6B9
+6H7M	Camelid antibody fragment Nb6B9
+6H7N	Camelid antibody fragment Nb6B9
+6H7O	Camelid antibody fragment Nb6B9
+6MXT	Nanobody-71
+5YHL	Fab
+5YWY	Fab
+6MEO	T-cell surface glycoprotein CD4
+6MET	T-cell surface glycoprotein CD4
+6IBL	Camelid antibody fragment Nb80
+6N51	Nanobody-43
+6N52	Nanobody-43
+6DO1	Nanobody-Nb.AT110i1
+6N4B	scFv16
+6NBF	Nanobody-35
+6NBH	Nanobody-35
+6NBI	Nanobody-35
+6OIJ	Antibody fragment
+6OT0	Fab heavy chain
+6N48	Camelid Antibody Fragment
+6O3C	Nanobody-Smo8
+6OS9	scFv16
+6QNO	Fab antibody fragment heavy chain
+6OYA	Camelid antibody VHH fragment
+6IBB	Nanobody-6
+6RNK	Nanobody-6
+6NI3	Nanobody-35
+6PWC	Fab30 light chain
+6ORV	Nanobody-35
+6JOD	Light chain of 4A03Fab
+6P9X	Nanobody-35
+6P9Y	Nanobody-35
+6KPF	scFv16
+6KPG	scFv16
+6PB0	Nanobody-35
+6PB1	Nanobody-35
+6PT0	scFv16
+6OS0	Nanobody-Nb.AT110i1
+6OS1	Nanobody-Nb.AT110i1_le
+6OS2	Nanobody-Nb.AT110i1_le
+6LI3	Nanobody-35
+6U1N	Fab30 heavy chain
+6LPB	Nanobody-35
+6M1H	Nanobody-35
+6M1I	Nanobody-35
+6LN2	Fab7F38 heavy chain
+6VI4	Nanobody-6
+6UUN	Nanobody-35
+6LMK	Nanobody-35
+6LML	scFv16
+6UUS	Nanobody-35
+6UVA	Nanobody-35
+6K41	scFv
+6K42	scFv
+6WHC	Nanobody-35
+6TKO	Fab30 light chain
+6VMS	scFv16
+6WWZ	scFv16
+6VCB	Nanobody-35
+7C61	IgG light chain
+7C6A	IgG light chain
+7BZ2	Nanobody-35
+6KO5	Fab7881 light chain
+6WI9	Nanobody-35
+6WPW	Nanobody-35
+6WZG	Nanobody-35
+6WW2	anti-Fab Nanobody
+7C2E	Nanobody-35
+6LFM	scFv16
+6LFO	scFv16
+6VN7	Nanobody-35
+7BW0	Nanobody-35
+7JJO	Nanobody-35
+6X18	Nanobody-35
+6X19	Nanobody-35
+6X1A	Nanobody-35
+7CFM	Nanobody-35
+7CFN	Nanobody-35
+6Z10	Nanobody-6
+6WHA	scFv16
+6XBJ	scFv16
+6XBK	scFv16
+6XBL	scFv16
+6XBM	scFv16
+7D3S	Nanobody-35
+6XOX	Nanobody-35
+7CZ5	Nanobody-35
+7D7M	Nanobody-35
+7BTS	Camelid antibody fragment Nb6B9
+7BU6	Camelid antibody fragment Nb6B9
+7BU7	Camelid antibody fragment Nb6B9
+7D68	Nanobody-35
+7DHI	Nanobody-35
+7DHR	Nanobody-35
+7DFP	Fab light chain
+7D77	scFv16
+7L1U	scFv16
+7L1V	Nanobody-51
+7JV5	Nanobody-35
+7JVP	Nanobody-35
+7JVQ	Nanobody-35
+7JVR	scFv16
+7CKW	Nanobody-35
+7CKX	Nanobody-35
+7CKY	Nanobody-35
+7CKZ	Nanobody-35
+7CRH	Nanobody-35
+7LJC	Nanobody-35
+7LJD	Nanobody-35
+7CMU	scFv16
+7CMV	scFv16
+7DFL	scFv16
+7E33	scFv16
+7JOZ	Nanobody-35
+7E32	scFv16
+7AUE	scFv16
+7CX2	Nanobody-35
+7CX3	Nanobody-35
+7CX4	Nanobody-35
+7EB2	scFv16
+7KH0	Nanobody-35
+7MBX	Nanobody-35
+7BB6	Nanobody-35
+7BB7	Nanobody-35
+7C4S	Fab heavy chain
+7E9G	DN13
+7E9H	scFv16
+7EPB	Anti-RON nanobody
+7O7F	Fab light chain
+7E14	Nanobody-35
+7JHJ	scFv16
+7MTA	Fab light chain
+7MTB	Fab heavy chain
+7DUQ	Nanobody-35
+7DW9	scFv16
+7DH5	Nanobody-35
+7DTY	Nanobody-35
+7EVW	Nanobody-35
+7EXD	scFv16
+7KI0	Nanobody-35
+7KI1	Nanobody-35
+7DUR	Nanobody-35
+7EVM	Nanobody-35
+7DB6	scFv16
+7F16	Nanobody-35
+7F9Y	Nanobody-35
+7F9Z	scFv16
+7EZH	scFv16
+7EZM	scFv16
+7DGE	Nanobody-43
+7E6U	Nanobody-2D11
+7EW1	scFv16
+7EW2	scFv16
+7EW3	scFv16
+7EW4	scFv16
+7FIG	Nanobody-35
+7RTB	Nanobody-35
+7F2O	scFv16
+7F8W	scFv16
+7NA7	Antibody fragment
+7NA8	Antibody fragment
+7F53	Nanobody-35
+7F54	Nanobody-35
+7F55	Nanobody-35
+7F58	Nanobody-35
+7PIU	Nanobody-35
+7PIV	Nanobody-35
+7P00	scFv16
+7P02	scFv16
+7RMG	Nanobody-35
+7RMH	Nanobody-35
+7RMI	Nanobody-35
+7VUG	scFv16
+7VUH	Nanobody-35
+7VUI	Nanobody-35
+7VUJ	Nanobody-35
+7S8L	scFv16
+7S8M	scFv16
+7S8N	scFv16
+7S8O	scFv16
+7S8P	scFv16
+7VDH	scFv16
+7VDL	scFv16
+7VDM	scFv16
+7VUY	scFv16
+7VUZ	scFv16
+7VV3	scFv16
+7VV5	scFv16
+7S1M	Nanobody-35
+7S3I	Nanobody-35
+7EO2	scFv16
+7EO4	scFv16
+7WF7	scFv16

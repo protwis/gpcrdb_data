@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7vod
+distance: -1.04
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 7VOD
+preferred_chain: A
+signaling_protein: None
+state: Inactive

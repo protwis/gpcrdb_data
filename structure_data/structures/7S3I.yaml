@@ -1,0 +1,13 @@
+auxiliary_protein: ''
+construct: 7s3i
+distance: 6.78
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 7S3I
+preferred_chain: R
+signaling_protein: None
+state: Active

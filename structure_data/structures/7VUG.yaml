@@ -1,0 +1,14 @@
+auxiliary_protein: ''
+construct: 7vug
+distance: 8.94
+ligand:
+    name: None
+    pubchemId: None
+    role: '.nan'
+    title: None
+    type: None
+pdb: 7VUG
+preferred_chain: R
+representative: true
+signaling_protein: None
+state: Active
