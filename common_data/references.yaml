@@ -499,9 +499,9 @@ https://gpcrdb.org/mutational_landscape/economicburden:
     Video: ''
     Year: 2018.0
 https://gpcrdb.org/structure_comparison/comparative_analysis:
-    DOI: 10.21203/RS.3.RS-354878/V1
+    DOI: 10.1038/S41594-021-00675-6
     Default: 0
-    Journal: Preprint at Research Square
+    Journal: Nature Structural & Molecular Biology
     Menu: GPCRdb
     Page: Structure comparison tool
     Section: Structure Comparison
@@ -509,9 +509,9 @@ https://gpcrdb.org/structure_comparison/comparative_analysis:
     Video: https://www.youtube.com/watch?v=X8j_xpryZ4U&start=4880
     Year: 2021.0
 https://gpcrdb.org/structure_comparison/structure_clustering:
-    DOI: 10.21203/RS.3.RS-354878/V1
+    DOI: 10.1038/S41594-021-00675-6
     Default: 0
-    Journal: Preprint at Research Square
+    Journal: Nature Structural & Molecular Biology
     Menu: GPCRdb
     Page: Structure similarity trees
     Section: Structure Comparison
