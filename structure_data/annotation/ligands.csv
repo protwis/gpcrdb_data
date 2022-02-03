@@ -616,7 +616,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7M8W		YSS	5283097.0	Antagonist	15R-methyl-prostaglandin D2	Small molecule
 7FD8		QUS	40539.0	Agonist	Quisqualic acid	Small molecule
 7FD9		Z99	9819927.0	Antagonist	2-[(1s,2s)-2-Carboxycyclopropyl]-3-(9h-Xanthen-9-Yl)-D-Alanine	Small molecule
-7LD3		XTD	25263603.0	PAM	{2-Amino-4-[3,5-bis(trifluoromethyl)phenyl]thiophen-3-yl}(4-chlorophenyl)methanone	None
+7LD3		XTD	25263603.0	PAM	{2-Amino-4-[3,5-bis(trifluoromethyl)phenyl]thiophen-3-yl}(4-chlorophenyl)methanone	Small molecule
 7LD4		ADN	60961.0	Agonist	Adenosine	Small molecule
 7P2L		4YI	None	NAM	Alloswitch-1	Small molecule
 7RM5		ZMA	176407.0	Antagonist	ZM241385	Small molecule
