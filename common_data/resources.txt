@@ -9,4 +9,6 @@ uniprot     UniProt                 https://www.uniprot.org/uniprot/$index
 chembl      ChEMBL                  https://www.ebi.ac.uk/chembldb/index.php/target/inspect/$index
 chembl_ligand ChEMBL_compound_ids   https://www.ebi.ac.uk/chembl/compound/inspect/$index
 chembl_assays "ChEMBL Assays ids"   https://www.ebi.ac.uk/chembl/assay/inspect/$index
+drugbank	DrugBank	    https://go.drugbank.com/drugs/$index
+drug_central	"Drug Central"	    https://drugcentral.org/drugcard/$index
 raw_link    URL   $index
