@@ -94,6 +94,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 4LDO		ALE	5816.0	Agonist	Epinephrine	Small molecule
 4J4Q		BOG	62852.0	unknown	B-Octylglucoside	Small molecule
 4MQS		IXO	10104167.0	Agonist	Iperoxo	Small molecule
+4MQT		IXO	10104167.0	Agonist	Iperoxo	Small molecule
 4MQT		2CU	57664406.0	PAM	2CU	Small molecule
 4NC3		ERM	8223.0	Agonist	Ergotamine	Small molecule
 4N6H		EJ4	5497186.0	Antagonist	Naltrindole	Small molecule
@@ -120,9 +121,9 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 4RWA	H	pep	None	Antagonist	DIPP-NH2	Peptide
 4RWD	H	pep	None	Antagonist	DIPP-NH2	Peptide
 4S0V		SUV	24965990.0	Antagonist	SUV	Small molecule
-4RWS	C	pep	None	Antagonist	vMIP-II	Protein
-4XT1	B	pep	None	Agonist (partial)	Fractalkine	Protein
-4XT3	B	pep	None	Agonist (partial)	Fractalkine	Protein
+4RWS	C	pep	gtoplig:768	Antagonist	vMIP-II	Protein
+4XT1	B	pep	gtoplig:856	Agonist (partial)	Fractalkine	Protein
+4XT3	B	pep	gtoplig:856	Agonist (partial)	Fractalkine	Protein
 4XNV		BUR	11510579.0	NAM	BPTU	Small molecule
 4XNW		2ID	44448831.0	Antagonist	MRS2500	Small molecule
 4UG2		NGI	3086599.0	Agonist	CGS-21680	Small molecule
@@ -151,6 +152,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 5CXV		0HK	15057856.0	Antagonist	0HK	Small molecule
 5DSG		0HK	5487427.0	Antagonist	Tiotropium	Small molecule
 5DGY		apo	None	Apo (no ligand)	Apo (no ligand)	None
+5EE7		PE5	657096.0	Antagonist	Octaethylene glycol monoethyl ether	Small molecule
 5EE7		5MV	11570626.0	NAM	MK-0893	Small molecule
 4Z9G		1Q5	9862166.0	Antagonist	CP-376395	Small molecule
 5IU4		ZMA	176407.0	Antagonist	ZM241385	Small molecule
@@ -174,6 +176,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 5TGZ		ZDG	46912833.0	Antagonist	AM-6538	Small molecule
 5LWE		79K	10343454.0	Allosteric antagonist	Vercirnon	Small molecule
 5U09		7DY	11226090.0	Inverse agonist	Taranabant	Small molecule
+5T1A		73R	68764898.0	Antagonist	BMS-681	Small molecule
 5T1A		VT5	12093170.0	Allosteric antagonist	GTPL9431	Small molecule
 5T04	B	pep	25077406.0	Agonist	Neurotensin	Peptide
 5TVN		7LD	5761.0	Agonist	LSD	Small molecule
@@ -197,12 +200,13 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 5XEZ		97V	23549991.0	NAM	NNC0640	Small molecule
 5XF1		97V	23549991.0	NAM	NNC0640	Small molecule
 5JTB		ZMA	176407.0	Antagonist	ZM241385	Small molecule
-5VBL	A	pep	None	Agonist	AMG3054	Peptide
+5VBL	A	pep	gtoplig:9587	Agonist	AMG3054	Peptide
 5TZR		MK6	73051869.0	Agonist	MK-8666	Small molecule
+5TZY		MK6	73051869.0	Agonist	MK-8666	Small molecule
 5TZY		7OS	127053597.0	PAM	(2S,3R)-3-Cyclopropyl-3-[(2R)-2-[1-[(1S)-1-[5-fluoro-2-(trifluoromethoxy)phenyl]ethyl]piperidin-4-yl]-3,4-dihydro-2H-chromen-7-yl]-2-methylpropanoic acid	Small molecule
 5NX2	B	pep	None	Agonist	Truncated protein agonist	Peptide
 5UIW	B	pep	None	Antagonist	5P7-CCL5	Protein
-5XR8		8D0	None	Agonist	8D0	Small molecule
+5XR8		8D0	102336704.0	Agonist	(6Ar,9R,10aR)-9-(hydroxymethyl)-3-(8-isothiocyanato-2-methyloctan-2-yl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol	Small molecule
 5XRA		8D3	53318931.0	Agonist	AM11542	Small molecule
 5MZJ		TEP	2153.0	Antagonist	Theophylline	Small molecule
 5MZP		CFF	2519.0	Antagonist	Caffeine	Small molecule
@@ -210,6 +214,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 5N2S		8K8	92460631.0	Agonist	PSB36	Small molecule
 5TUD		ERM	8223.0	Agonist	Ergotamine	Small molecule
 5W0P		apo	None	Apo (no ligand)	Apo (no ligand)	None
+5X7D		CAU	13023332.0	Antagonist	Carazolol	Small molecule
 5X7D		8VS	129318963.0	Allosteric antagonist	4-carbamoyl-N-[(2R)-2-cyclohexyl-2-phenylacetyl]-L-phenylalanyl-3-bromo-N-methyl-L-phenylalaninamide	Small molecule
 5X93		K87	9810112.0	Antagonist	K-8794	Small molecule
 5XPR		None	None	.nan	None	None
@@ -233,7 +238,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 5OLZ		T4E	135566609.0	Antagonist	4-(3-amino-5-phenyl-1,2,4-triazin-6-yl)-2-chlorophenol	Small molecule
 5OM1		T4E	135566609.0	Antagonist	4-(3-amino-5-phenyl-1,2,4-triazin-6-yl)-2-chlorophenol	Small molecule
 5OM4		T4E	135566609.0	Antagonist	4-(3-amino-5-phenyl-1,2,4-triazin-6-yl)-2-chlorophenol	Small molecule
-5YQZ	P	pep	None	Agonist (partial)	NNC1702	Peptide
+5YQZ	P	pep	gtoplig:9760	Agonist (partial)	NNC1702	Peptide
 6B73		CVV	131955138.0	Agonist	MP1104	Small molecule
 5V54		89F	7059581.0	Antagonist	CHEMBL428892	Small molecule
 6BQG		ERM	8223.0	Agonist	Ergotamine	Small molecule
@@ -258,10 +263,12 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6GDG		NEC	448222.0	Agonist	NECA	Small molecule
 6D32		CY8	442972.0	Agonist (partial)	Cyclopamine	Small molecule
 6D35		CLR	5997.0	Agonist	Cholesterol	Small molecule
+6C1Q	L	pep	6918468.0	Antagonist	PMX53	Peptide
 6C1Q		9P2	10210160.0	NAM	H94Wrl71FP	Small molecule
+6C1R	L	pep	6918468.0	Antagonist	PMX53	Peptide
 6C1R		EFD	49841217.0	NAM	Avacopan	Small molecule
 5WB1		None	None	.nan	None	None
-5WB2	B	pep	None	Agonist	CX3CL1	Peptide
+5WB2	B	pep	gtoplig:856	Agonist	CX3CL1	Peptide
 6DDE	D	pep	5462471.0	Agonist	DAMGO	Peptide
 6DDF	D	pep	5462471.0	Agonist	DAMGO	Peptide
 5ZKP		9ER	119368.0	Antagonist	Foropafant	Small molecule
@@ -284,8 +291,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6H7M		68H	123600.0	Agonist	Salbutamol	Small molecule
 6H7N		FVK	12681891.0	Agonist	Xamoterol	Small molecule
 6H7O		P32	46937143.0	Agonist	(S)-Cyanopindolol	Small molecule
-6AKX		A4R	None	Antagonist	N-[(1S)-3-{(3-exo)-3-[3-methyl-5-(propan-2-yl)-4H-1,2,4-triazol-4-yl]-8-azabicyclo[3.2.1]octan-8-yl}-1-(thiophen-2-yl)propyl]cyclopentanecarboxamide	Small molecule
-6AKY		A4X	None	Antagonist	4,4-difluoro-N-[(1S)-3-{(3-exo)-3-[3-methyl-5-(propan-2-yl)-4H-1,2,4-triazol-4-yl]-8-azabicyclo[3.2.1]octan-8-yl}-1-(thiophen-3-yl)propyl]cyclohexane-1-carboxamide	Small molecule
+6AKX		A4R	122668190.0	Antagonist	N-[(1S)-3-{(3-exo)-3-[3-methyl-5-(propan-2-yl)-4H-1,2,4-triazol-4-yl]-8-azabicyclo[3.2.1]octan-8-yl}-1-(thiophen-2-yl)propyl]cyclopentanecarboxamide	Small molecule
+6AKY		A4X	91820689.0	Antagonist	4,4-difluoro-N-[(1S)-3-{(3-exo)-3-[3-methyl-5-(propan-2-yl)-4H-1,2,4-triazol-4-yl]-8-azabicyclo[3.2.1]octan-8-yl}-1-(thiophen-3-yl)propyl]cyclohexane-1-carboxamide	Small molecule
 6MXT		K5Y	5152.0	Agonist	Salmeterol	Small molecule
 5YC8		3C0	71183.0	Antagonist	N-methyl scopolamine	Small molecule
 5ZK3		QNB	688566.0	Antagonist	Quinuclidinyl benzilate	Small molecule
@@ -334,10 +341,12 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6ME9		JEV	208902.0	Agonist	Ramelteon	Small molecule
 6MH8		ZMA	176407.0	Antagonist	ZM241385	Small molecule
 6OIJ		IXO	10104167.0	Agonist	Iperoxo	Small molecule
+6OIK		IXO	10104167.0	Agonist	Iperoxo	Small molecule
 6OIK		2CU	57664406.0	PAM	LY2119620	None
 6E67		P0G	49837874.0	Agonist	BI-167107	Small molecule
 6OT0		CO1	3247059.0	Agonist	24,25-Epoxy-cholesterol	Small molecule
 6GT3		F9Q	86676119.0	Antagonist	AZD4635	Small molecule
+6N48		P0G	49837874.0	Agonist	BI-167107	Small molecule
 6N48		KBY	138454256.0	PAM	2-[[(3R)-4-(4-Tert-butylphenyl)-3-[[2-(4-methoxyphenyl)sulfanyl-5-[methyl(propan-2-yl)sulfamoyl]benzoyl]amino]butanoyl]amino]acetic acid	Small molecule
 6I9K		RET	5280490.0	Inverse agonist	Retinal (11-cis)	Small molecule
 6O3C		LKD	16678532.0	Agonist	SAG21k	Small molecule
@@ -351,6 +360,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6RNK		KAZ	138811017.0	Antagonist	NF-56-EJ40	Small molecule
 6OFJ		apo	None	Apo (no ligand)	Apo (no ligand)	None
 6QZH		JLW	136165388.0	Allosteric antagonist	SCHEMBL13407377	Small molecule
+6KQI		9GF	104895.0	Agonist	CP55940	Small molecule
 6KQI		9GL	44828492.0	NAM	ORG27569	Small molecule
 6JZH		ZMA	176407.0	Antagonist	ZM241385	Small molecule
 6RZ4		KNT	4887.0	Antagonist	Pranlukast	Small molecule
@@ -415,9 +425,9 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6LI1		None	None	.nan	None	None
 6LI2		None	None	.nan	None	None
 6LI3		apo	None	Apo (no ligand)	Apo (no ligand)	None
-6OMM	L	pep	None	Agonist	WKYMVX	Peptide
+6OMM	L	pep	457933.0	Agonist	WKYMVm	Peptide
 6U1N		2CU	57664406.0	Agonist	3-Amino-5-chloro-N-cyclopropyl-4-methyl-6-[2-(4-methylpiperazin-1-yl)-2-oxoethoxy]thieno[2,3-b]pyridine-2-carboxamide	Small molecule
-6UP7	C	pep	None	Agonist	ARG-ARG-PRO-TYR-ILE-LEU	Peptide
+6UP7	C	pep	5311318.0	Agonist	Neurotensin (8-13)	Peptide
 6LUQ		GMJ	3559.0	Antagonist	Haloperidol	Small molecule
 6KP6		None	None	.nan	None	None
 6LPB	P	pep	44566111.0	Agonist	PACAP	Peptide
@@ -425,17 +435,20 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6M1I	B	pep	44566111.0	Agonist	PACAP	Peptide
 6LN2		97Y	68178630.0	NAM	PF-06372222	Small molecule
 6VI4		JDC	9956146.0	Antagonist	JDTic	Small molecule
-6LW5	B	pep	None	Agonist	WKYMVm	Peptide
+6LW5	B	pep	457933.0	Agonist	WKYMVm	Peptide
+6OBA		JTZ	204665.0	Antagonist	(S)-Alprenolol	Small molecule
 6OBA		M3J	145998261.0	NAM	6-bromo-N~2~-phenylquinazoline-2,4-diamine	Small molecule
 6UUN	P	pep	56841671.0	Agonist	Adrenomedullin	Peptide
-6LMK	E	pep	None	Agonist	Glucagon	Peptide
-6LML	E	pep	None	Agonist	Glucagon	Peptide
+6LMK	E	pep	gtoplig:1136	Agonist	Glucagon	Peptide
+6LML	E	pep	gtoplig:1136	Agonist	Glucagon	Peptide
 6UUS	P	pep	56841671.0	Agonist	Adrenomedullin	Peptide
-6UVA	P	pep	None	Agonist	Adrenomedullin-2	Peptide
+6UVA	P	pep	gtoplig:684	Agonist	Adrenomedullin-2	Peptide
 6K41		CZX	5311068.0	Agonist	Dexmedetomidine	Small molecule
 6K42		CZX	5311068.0	Agonist	Dexmedetomidine	Small molecule
 6W25		CA	271.0	Cofactor	Calcium ion	Ion
+6W25	B	pep	gtoplig:1325	Antagonist	SHU9119	Peptide
 6WHC	E	pep	None	Agonist	Dual-agonist peptide P15	Peptide
+6UO8		QD7	28559746.0	Agonist	(R)-(3-aminopropyl)methylphosphinic acid	Small molecule
 6UO8		QDA	6604928.0	PAM	N~4~,N~6~-dicyclopentyl-2-(methylsulfanyl)-5-nitropyrimidine-4,6-diamine	Small molecule
 6UO9		QD7	28559746.0	Agonist	(R)-(3-aminopropyl)methylphosphinic acid	Small molecule
 6UOA		QD7	28559746.0	Agonist	(R)-(3-aminopropyl)methylphosphinic acid	Small molecule
@@ -443,18 +456,24 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6TKO		H98	3083544.0	Agonist	Formoterol	Small molecule
 6VMS		08Y	31101.0	Agonist	Bromocriptine	Small molecule
 6PEL		ODM	101977.0	unknown	Citronellol	Small molecule
-6WWZ	C	pep	None	Agonist	CCL20	Protein
+6WWZ	C	pep	gtoplig:808	Agonist	CCL20	Protein
 6PGS		64Z	637566.0	unknown	Geraniol	Small molecule
 6PH7		NZZ	643820.0	unknown	Nerol	Small molecule
+6W2X		SGG	5311042.0	Inverse agonist	CGP55845	Small molecule
 6W2X		L9Q	23727970.0	NAM	1-Stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine	Small molecule
+6W2Y		SGG	5311042.0	Inverse agonist	CGP55845	Small molecule
 6W2Y		L9Q	23727970.0	NAM	1-Stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine	Small molecule
+6WIV		U3G	52924645.0	NAM	(2R)-3-{[(S)-(2-aminoethoxy)(hydroxy)phosphoryl]oxy}-2-{[(9Z)-octadec-9-enoyl]oxy}propyl(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoate	Small molecule
 6WIV		U3D	52923113.0	NAM	[(2R)-3-[(Z)-icos-11-enoyl]oxy-2-[(Z)-octadec-9-enoyl]oxypropyl] 2-(trimethylazaniumyl)ethylphosphate	Small molecule
+7C7Q		FN0	7023848.0	PAM	BHFF	Small molecule
 7C7Q		2C0	44602.0	Agonist	Baclofen	Small molecule
 7C7S		2BV	197584.0	Antagonist	CGP54626	Small molecule
-6WJC	C	pep	None	NAM	Muscarinic toxin 7	Peptide
+6WJC		OIN	154417.0	Antagonist	Hyoscyamine	Small molecule
+6WJC	C	pep	gtoplig:314	NAM	Muscarinic toxin 7	Peptide
 6S0L		ZMA	176407.0	Antagonist	ZM241385	Small molecule
 6S0Q		ZMA	176407.0	Antagonist	ZM241385	Small molecule
 6V9S		JHC	146675152.0	Antagonist	JH112	Small molecule
+6VCB	P	pep	gtoplig:3544	Agonist	GLP-1	Peptide
 6VCB		QW7	146155955.0	PAM	LSN3160440	Small molecule
 7C61		ERM	8223.0	Antagonist	Ergotamine	Small molecule
 7C6A	B	pep	10079601.0	Agonist	(Sar1,Ile8)-Angiotensin II	Peptide
@@ -476,6 +495,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6X19		UK1	154584718.0	Agonist	CHU-128	Small molecule
 6X1A		UK4	134611040.0	Agonist	PF-06882961	Small molecule
 7CFM		FWX	71541719.0	Agonist	P395	Small molecule
+7CFN		FX0	154584336.0	Agonist	INT-777	Small molecule
 7CFN		FX0	154584336.0	PAM	INT-777	Small molecule
 6Z10		Q4T	154585554.0	Antagonist	2-[2-[[3-[4-chloranyl-2-fluoranyl-5-[(3~{R})-piperidin-3-yl]oxy-phenyl]-2-fluoranyl-phenyl]carbonylamino]-5-fluoranyl-phenyl]ethanoic acid	Small molecule
 6ZDR		QGE	740769.0	Antagonist	3-(4-Methyl-2-thiazolyl)-6-propyl-7-acetoxychromone	Small molecule
@@ -485,12 +505,15 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6WHA		U0G	90489020.0	Agonist	25-CN-NBOH	Small molecule
 6XBJ		CLR	5997.0	Agonist	Cholesterol	Small molecule
 6XBK		CLR	5997.0	Agonist	Cholesterol	Small molecule
+6XBL		CLR	5997.0	Agonist	Cholesterol	Small molecule
 6XBL		V0S	5284330.0	PAM	SAG	Small molecule
+6XBM		CO1	3247059.0	Agonist	24,25-Epoxy-cholesterol	Small molecule
 6XBM		CO1	3247059.0	PAM	24,25-Epoxy-cholesterol	Small molecule
 7BR3		F5O	11250647.0	Antagonist	Elagolix	Small molecule
 7D3S	P	pep	16158474.0	Agonist	Secretin	Peptide
 7CA3		FN0	7023848.0	PAM	(+)-BHFF	Small molecule
 7CA5		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7CUM		2BV	197584.0	Antagonist	CGP54626	Small molecule
 7CUM		UNL	None	NAM	Unknown ligand	None
 6WQA		ZMA	176407.0	Antagonist	ZM241385	Small molecule
 6XOX		V6G	137319706.0	Agonist	LY3502970	Small molecule
@@ -504,7 +527,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7BU7		P0G	49837874.0	Agonist	BI-167107	Small molecule
 7BVQ		CAU	13023332.0	Inverse agonist	Carazolol	Small molecule
 7AD3	I	pep	16130931.0	Agonist	Alpha-factor mating pheromone	Peptide
-7D68	P	pep	None	Agonist	Glucagon	Peptide
+7D68	P	pep	gtoplig:1136	Agonist	Glucagon	Peptide
 7DHI		68H	123600.0	Agonist	Salbutamol	Small molecule
 7DHR		5FW	443372.0	Agonist	Isoprenaline	Small molecule
 7DFP		SIP	5265.0	Antagonist	Spiperone	Small molecule
@@ -536,16 +559,20 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7KNT		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7KNU	P	pep	56841902.0	Agonist	Calcitonin gene-related peptide 1	Peptide
 7CKW		G3C	12668023.0	Agonist	Fenoldopam	Small molecule
-7CKX		G3O	None	Agonist	(1R,3S)-3-(1-adamantyl)-1-(aminomethyl)-3,4-dihydro-1H-isochromene-5,6-diol	Small molecule
+7CKX		G3O	6603703.0	Agonist	(1R,3S)-3-(1-adamantyl)-1-(aminomethyl)-3,4-dihydro-1H-isochromene-5,6-diol	Small molecule
 7CKY		G3U	86764103.0	Agonist	6-[4-[3-(Difluoromethoxy)pyridin-2-yl]oxy-2-methylphenyl]-1,5-dimethylpyrimidine-2,4-dione	Small molecule
+7CKZ		LDP	681.0	Agonist	Dopamine	Small molecule
 7CKZ		G4C	86290953.0	PAM	Mevidalen	Small molecule
 7CRH		GBU	6604003.0	Agonist	1H-3-Benzazepine-7,8-diol, 6-chloro-2,3,4,5-tetrahydro-3-methyl-1-(3-methylphenyl)-, (1S)-	Small molecule
+7LJC		SK0	12668019.0	Agonist	(1R)-6-chloro-1-phenyl-2,3,4,5-tetrahydro-1H-3-benzazepine-7,8-diol	Small molecule
 7LJC		G4C	86290953.0	PAM	Mevidalen	Small molecule
+7LJD		LDP	681.0	Agonist	Dopamine	Small molecule
 7LJD		G4C	86290953.0	PAM	Mevidalen	Small molecule
 7CMU		G6L	119570.0	Agonist	Pramipexole	Small molecule
 7CMV		G6O	5311346.0	Agonist	(4Ar,10bR)-rel-4-Propyl-2,3,4,4a,5,10b-hexahydrochromeno[4,3-b][1,4]oxazin-9-ol	Small molecule
 7DTT		CA	271.0	Agonist	Calcium ion	Ion
 7DTU		TRP	6305.0	PAM	Tryptophan	Amino acid
+7DTV		CA	271.0	Agonist	Calcium ion	Ion
 7DTV		TRP	6305.0	PAM	Tryptophan	Amino acid
 7DTW		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7DFL		HSM	774.0	Agonist	Histamine	Small molecule
@@ -556,10 +583,11 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7E33		HVU	2438.0	Agonist	3-(1-Methylpiperidin-4-yl)-1H-indol-5-ol	Small molecule
 7JOZ		VFP	75202022.0	Agonist	6-{4-[(furo[3,2-c]pyridin-4-yl)oxy]-2-methylphenyl}-1,5-dimethylpyrimidine-2,4(1H,3H)-dione	Small molecule
 7E32		SRO	5202.0	Agonist	Serotonin	Small molecule
-7AUE	C	pep	None	Agonist	Aminoserine	Peptide
+7AUE	C	pep	gtoplig:9272	Agonist	Setmelanotide	Peptide
 7CX2		P2E	5280360.0	Agonist	Prostaglandin E2	Small molecule
 7CX3		GNO	18376177.0	Agonist	Taprenepag	Small molecule
 7CX4		GM9	9890801.0	Agonist	Evatanepag	Small molecule
+7EB2		FN0	7023848.0	PAM	BHFF	Small molecule
 7EB2		2C0	44602.0	Agonist	Baclofen	Small molecule
 7KH0	L	pep	644077.0	Agonist	Argipressin	Peptide
 7MBX	P	pep	444998.0	Agonist	Cholecystokinin-8	Peptide
@@ -567,9 +595,15 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7BB6	H	pep	644077.0	Agonist	Argipressin	Peptide
 7BB7	H	pep	644077.0	Agonist	Argipressin	Peptide
 7C4S		S1P	5283560.0	Agonist	Sphingosine 1-phosphate	Small molecule
+7DD5		CA	271.0	Agonist	Calcium ion	Ion
+7DD5		TRP	6305.0	PAM	Tryptophan	Amino acid
 7DD5		YP1	6918446.0	NAM	NPS-2143	Small molecule
+7DD6		CA	271.0	Agonist	Calcium ion	Ion
 7DD6		TRP	6305.0	PAM	Tryptophan	Amino acid
+7DD7		CA	271.0	Agonist	Calcium ion	Ion
+7DD7		TRP	6305.0	PAM	Tryptophan	Amino acid
 7DD7		H43	71242808.0	PAM	Evocalcet	Small molecule
+7E9G		40F	213056.0	Agonist	Eglumetad	Small molecule
 7E9G		HZR	25195461.0	PAM	1-butyl-3-chloranyl-4-(4-phenylpiperidin-1-yl)pyridin-2-one	Small molecule
 7E9H		SEP	68841.0	Agonist	Phosphoserine	Small molecule
 7EPA		apo	None	Apo (no ligand)	Apo (no ligand)	None
@@ -578,11 +612,18 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7EPD		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7EPE		J9R	117641885.0	NAM	4-(1-Methylpyrazol-4-yl)-7-[[(2~{S})-2-(trifluoromethyl)morpholin-4-yl]methyl]quinoline-2-carboxamide	Small molecule
 7EPF		J9U	155925951.0	NAM	(8~{R})-4-[2,4-Bis(fluoranyl)phenyl]-8-methyl-7-[(2-methylpyrazol-3-yl)methyl]-6,8-dihydro-5~{H}-1,7-naphthyridine-2-carboxamide	Small molecule
+7M3E		CA	271.0	Agonist	Calcium ion	Ion
+7M3E		TRP	6305.0	PAM	Tryptophan	Amino acid
 7M3E		YP1	6918446.0	NAM	NPS-2143	Small molecule
+7M3F		CA	271.0	Agonist	Calcium ion	Ion
+7M3F		TRP	6305.0	PAM	Tryptophan	Amino acid
 7M3F		YP4	156419.0	PAM	Cinacalcet	Small molecule
+7M3G		CA	271.0	Agonist	Calcium ion	Ion
+7M3G		TRP	6305.0	PAM	Tryptophan	Amino acid
 7M3G		H43	71242808.0	PAM	Evocalcet	Small molecule
 7M3J		YP1	6918446.0	NAM	NPS-2143	Small molecule
-7O7F	I	pep	None	Agonist	CCL5	Protein
+7O7F	I	pep	gtoplig:758	Agonist	CCL5	Protein
+7E14		V6G	137319706.0	Agonist	3-[(1S,2S)-1-(5-[(4S)-2,2-dimethyloxan-4-yl]-2-{(4S)-2-(4-fluoro-3,5-dimethylphenyl)-3-[3-(4-fluoro-1-methyl-1H-indazol-5-yl)-2-oxo-2,3-dihydro-1H-imidazol-1-yl]-4-methyl-2,4,6,7-tetrahydro-5H-pyrazolo[4,3-c]pyridine-5-carbonyl}-1H-indol-1-yl)-2-methylcyclopropyl]-1,2,4-oxadiazol-5(4H)-one	Small molecule
 7E14		HNO	156022738.0	Ago-PAM	N-Tert-butyl-6,7-dichloroquinoxalin-2-amine	Small molecule
 7JHJ		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7MT8		RET	638015.0	Agonist	Retinal (all-trans)	Small molecule
@@ -590,14 +631,17 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7MTA		RET	638015.0	Agonist	Retinal (all-trans)	Small molecule
 7MTB		RET	638015.0	Agonist	Retinal (all-trans)	Small molecule
 7MTQ		Z99	9819927.0	Antagonist	2-[(1s,2s)-2-Carboxycyclopropyl]-3-(9h-Xanthen-9-Yl)-D-Alanine	Small molecule
+7MTR		GLU	33032.0	Agonist	Glutamic acid	Amino acid
 7MTR		ZQY	11669059.0	Ago-PAM	2-methoxy-6-propyl-N-(2-{4-[(1H-tetrazol-5-yl)methoxy]phenyl}ethyl)thieno[2,3-d]pyrimidin-4-amine	Small molecule
+7MTS		GLU	33032.0	Agonist	Glutamic acid	Amino acid
 7MTS		ZQY	11669059.0	Ago-PAM	2-methoxy-6-propyl-N-(2-{4-[(1H-tetrazol-5-yl)methoxy]phenyl}ethyl)thieno[2,3-d]pyrimidin-4-amine	Small molecule
+7DUQ	P	pep	16135499.0	Agonist	Glucagon-like peptide 1	Peptide
 7DUQ		HNO	156022738.0	Ago-PAM	N-Tert-butyl-6,7-dichloroquinoxalin-2-amine	Small molecule
-7F1Q	R	pep	None	Agonist	CCL3	Protein
-7F1R	R	pep	None	Agonist	CCL5	Protein
+7F1Q	R	pep	gtoplig:756	Agonist	CCL3	Protein
+7F1R	R	pep	gtoplig:758	Agonist	CCL5	Protein
 7F1S		apo	None	Apo (no ligand)	Apo (no ligand)	None
-7F1T		pep	None	Agonist	CCL3	Protein
-7DW9	C	pep	None	Agonist	CYS-TYR-PHE-GLN-ASN-CYS-PRO-ARG-GLY-NH2	Peptide
+7F1T	A	pep	gtoplig:756	Agonist	CCL3	Protein
+7DW9	C	pep	gtoplig:2168	Agonist	CYS-TYR-PHE-GLN-ASN-CYS-PRO-ARG-GLY-NH2	Peptide
 7DH5		H6U	9865528.0	Agonist	Mirabegron	Small molecule
 7DTY	P	pep	90488736.0	Agonist	GIP	Peptide
 7EVW		apo	None	Apo (no ligand)	Apo (no ligand)	None
@@ -607,42 +651,48 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7DUR		HNO	156022738.0	Ago-PAM	N-Tert-butyl-6,7-dichloroquinoxalin-2-amine	Small molecule
 7EVM		HNO	156022738.0	Ago-PAM	N-Tert-butyl-6,7-dichloroquinoxalin-2-amine	Small molecule
 7DB6		JEV	208902.0	Agonist	Ramelteon	Small molecule
-7F16	P	pep	None	Agonist	TIP39	Peptide
-7F9Y	C	pep	None	Agonist	Ghrelin-28	Peptide
-7F9Z	C	pep	None	Agonist	GHRP-6	Peptide
+7F16	P	pep	gtoplig:1815	Agonist	TIP39	Peptide
+7F9Y	C	pep	gtoplig:1099	Agonist	Ghrelin-28	Peptide
+7F9Z	C	pep	gtoplig:1093	Agonist	GHRP-6	Peptide
 7EZH	P	pep	9833444.0	Agonist	Cholecystokinin-8	Peptide
 7EZK	P	pep	9833444.0	Agonist	Cholecystokinin-8	Peptide
 7EZM	P	pep	9833444.0	Agonist	Cholecystokinin-8	Peptide
 7M8W		YSS	5283097.0	Antagonist	15R-methyl-prostaglandin D2	Small molecule
 7FD8		QUS	40539.0	Agonist	Quisqualic acid	Small molecule
 7FD9		Z99	9819927.0	Antagonist	2-[(1s,2s)-2-Carboxycyclopropyl]-3-(9h-Xanthen-9-Yl)-D-Alanine	Small molecule
+7LD3		ADN	60961.0	Agonist	Adenosine	Small molecule
 7LD3		XTD	25263603.0	PAM	{2-Amino-4-[3,5-bis(trifluoromethyl)phenyl]thiophen-3-yl}(4-chlorophenyl)methanone	Small molecule
 7LD4		ADN	60961.0	Agonist	Adenosine	Small molecule
-7P2L		4YI	None	NAM	Alloswitch-1	Small molecule
+7P2L		4YI	76853680.0	NAM	Alloswitch-1	Small molecule
 7RM5		ZMA	176407.0	Antagonist	ZM241385	Small molecule
 7DGD		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7DGE		QUS	40539.0	Agonist	Quisqualic acid	Small molecule
+7E6T		CA	271.0	Agonist	Calcium ion	Ion
 7E6T		TCR	449440.0	PAM	Cyclomethyltryptophan	Small molecule
 7E6U		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7EW1		J8C	44599207.0	Agonist	Siponimod	Small molecule
 7EW2		J89	11452022.0	Agonist	S-fingolimod phosphate ester	Lipid
 7EW3		S1P	528356√∂	Agonist	Sphingosine 1-phosphate	Lipid
 7EW4		JF9	17253208.0	Agonist	N,N-Dicyclohexyl-5-cyclopropyl-1,2-oxazole-3-carboxamide	Small molecule
-7FIG	Y	pep	None	Agonist	Choriogonadotropin beta	Protein
+7FIG	Y	pep	gtoplig:4396	Agonist	Choriogonadotropin beta	Protein
+7FIG	X	pep	gtoplig:3731	Agonist	Glycoprotein alpha	Protein
+7FIH	Y	pep	gtoplig:4396	Agonist	Choriogonadotropin beta	Protein
+7FIH	X	pep	gtoplig:3731	Agonist	Glycoprotein alpha	Protein
 7FIH		55Z	9914457.0	PAM	5-Amino-N-(1,1-dimethylethyl)-2-(methylthio)-4-[3-[[2-(4-morpholinyl)acetyl]amino]phenyl]thieno[2,3-d]pyrimidine-6-carboxamide	Small molecule
-7FII	Y	pep	None	Agonist	Choriogonadotropin beta	Protein
+7FII	Y	pep	gtoplig:4396	Agonist	Choriogonadotropin beta	Protein
+7FII	X	pep	gtoplig:3731	Agonist	Glycoprotein alpha	Protein
 7FIJ		apo	None	Apo (no ligand)	Apo (no ligand)	None
 6ZFZ		QJT	10236758.0	Agonist	1-[3-(4-Butylpiperidin-1-yl)propyl]-3,4-dihydroquinolin-2-one	Small molecule
 6ZG4		QK8	71528459.0	Agonist	Ethyl (4S)-4-[4-[(1-methylcyclobutyl)carbamoyl]piperidin-1-yl]azepane-1-carboxylate	Small molecule
 6ZG9		QK2	16038386.0	Agonist	7-fluoro-5-methyl-3-[1-(oxan-4-yl)piperidin-4-yl]-1H-benzimidazol-2-one	Small molecule
 7RTB	P	pep	None	Agonist	Peptide-19	Peptide
-7EIB	D	pep	None	Agonist	des-Arg10-kallidin	Peptide
+7EIB	D	pep	gtoplig:644	Agonist	des-Arg10-kallidin	Peptide
 7F2O	D	pep	439201.0	Agonist	Bradykinin	Peptide
 7F8U		1OE	122077.0	Antagonist	Lintitript	Small molecule
 7F8V	E	pep	16162108.0	Agonist	Gastrin-17	Peptide
 7F8W	E	pep	16162108.0	Agonist	Gastrin-17	Peptide
 7F8Y		1OZ	443375.0	Antagonist	Devazepide	Small molecule
-7F53	L	pep	None	Agonist	MSH	Peptide
+7F53	L	pep	gtoplig:1320	Agonist	MSH	Peptide
 7F54	L	pep	16197727.0	Agonist	Afamelanotide	Peptide
 7F55	L	pep	9941379.0	Agonist	Bremelanotide	Peptide
 7F58		1I8	9938402.0	Agonist	Thiq	Small molecule
@@ -657,14 +707,14 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7S8O		8IU	95882507.0	Agonist	(R)-ZINC-3573	Small molecule
 7S8P		8IX	157010584.0	Agonist	N-[(1r,3R,5S,7R)-3,5-dimethyltricyclo[3.3.1.1~3,7~]decane-1-carbonyl]-D-phenylalanine	Small molecule
 7V3Z		9GF	104895.0	Agonist 	2-[(1r,2r,5r)-5-Hydroxy-2-(3-hydroxypropyl)cyclohexyl]-5-(2-methyloctan-2-yl)phenol	Small molecule
-7EWL			None	Apo (no ligand)	Apo (no ligand)	None
-7EWP			None	Apo (no ligand)	Apo (no ligand)	None
-7EWR			None	Apo (no ligand)	Apo (no ligand)	None
-7SHE			None	Apo (no ligand)	Apo (no ligand)	None
-7SHF			None	Apo (no ligand)	Apo (no ligand)	None
+7EWL		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7EWP		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7EWR		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7SHE		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7SHF		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7VDH		6IB	2855.0	Agonist 	2-[4-methoxy-3,5-bis[[2-methoxy-5-(2-methylaminoethyl)phenyl]methyl]phenyl]-N-methylethanamine	Small molecule
 7VDL	L	pep	16133803.0	Agonist	Cortistatin 14	Peptide
-7VDM	L	pep	None	Agonist	Protachykinin-1	Peptide
+7VDM	L	pep	36511.0	Agonist	Substance P	Peptide
 7VUY		pep	16137959.0	Agonist	PAMP-12	Peptide
 7VUZ	 	pep	16137959.0	Agonist	PAMP-12	Peptide
 7VV0	L	pep	16137959.0	Agonist	PAMP-12	Peptide
@@ -675,7 +725,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7NA7	L	pep	None	Agonist	Ghrelin-27	Peptide
 7NA8		1KD	178024.0	Agonist	Ibutamoren	Small molecule
 7P00	P	pep	36511.0	Agonist	Substance P	Peptide
-7P02	P	pep	None	Agonist	Protachykinin-1	Peptide
+7P02	P	pep	gtoplig:2098	Agonist	Substance P	Peptide
 7VOD		7RU	11154555.0	Agonist (partial)	Cariprazine	Small molecule
 7VOE		9SC	60795.0	Agonist (partial)	Aripiprazole	Small molecule
 7F8X	C	pep	None	Agonist	NN9056	Peptide
@@ -683,8 +733,26 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7VUH		7ZQ	2548547.0	Agonist	JNJ-63533054	Small molecule
 7VUI		7ZQ	2548547.0	Agonist	JNJ-63533054	Small molecule
 7VUJ		7ZQ	2548547.0	Agonist	JNJ-63533054	Small molecule
-7S1M	P	pep	53396299.0	Agonist	Exendin-4-D-Ala	Peptide
-7S3I		pep	53396299.0	Agonist	Exendin-4-D-Ala	Peptide
 7EO2		J89	11452022.0	Agonist	Fingolimod phosphate ester, S-	Small molecule
 7EO4		J8C	44599207.0	Agonist	Siponimod	Small molecule
+7S1M	P	pep	53396299.0	Agonist	Exendin-4-D-Ala	Peptide
+7S3I		pep	53396299.0	Agonist	Exendin-4-D-Ala	Peptide
 7WF7		S1P	5283560.0	Agonist	Sphingosine 1-phosphate	Lipid
+7B6W		T0B	132266.0	Inverse agonist	[(4~{a}~{R},8~{a}~{S})-4-(4-azanyl-6,7-dimethoxy-quinazolin-2-yl)-2,3,4~{a},5,6,7,8,8~{a}-octahydroquinoxalin-1-yl]-(furan-2-yl)methanone	Small molecule
+7WC4		SRO	5202.0	Agonist 	Serotonin	Small molecule
+7WC5		91Q	4980.0	Agonist 	Psilocin	Small molecule
+7WC6		7LD	5761.0	Agonist	LSD	Small molecule
+7WC7		H8G	28864.0	Agonist 	Lisuride	Small molecule
+7WC8		92S	21302490.0	Agonist	Lumateperone	Small molecule
+7WC9		93F	162421364.0	Agonist	(10~{R},15~{S})-12-[3-(2-methoxyphenyl)propyl]-4-methyl-1,4,12-triazatetracyclo[7.6.1.0^{5,16}.0^{10,15}]hexadeca-5(16),6,8-triene	Small molecule
+7F83		1KQ	58438464.0	Inverse agonist	PF-5190457	Small molecule
+7W2Z	L	pep	53837790.0	Agonist	Ghrelin	Peptide
+7LLL	P	pep	56669849.0	Agonist	Exendin-4	Peptide
+7LLY	P	pep	135339841.0	Agonist	Pro-glucagon	Peptide
+7RKF	L	pep	627903.0	Agonist	Fractalkine	Peptide
+7RKM	L	pep	627903.0	Agonist	Fractalkine	Peptide
+7RKN	L	pep	627903.0	Agonist	Fractalkine	Peptide
+7SIL		9IG	158797.0	Agonist	Tecalcet	Small molecule
+7SIL		TCR	449440.0	Agonist	Cyclomethyltryptophan	Small molecule
+7SIN		YP1	6918446.0	Antagonist	Nps-2143	Small molecule
+7SIM		TCR	449440.0	Agonist	Cyclomethyltryptophan	Small molecule

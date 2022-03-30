@@ -4,6 +4,7 @@ PDB	Name
 3KJ6	Antibody
 3P0G	Nanobody
 3SN6	Antibody
+3VG9	Antibody fab fragment light chain
 3VG9	Antibody fab fragment heavy chain
 4LDE	Nanobody
 4LDL	Nanobody
@@ -45,17 +46,21 @@ PDB	Name
 6NBH	Nanobody-35
 6NBI	Nanobody-35
 6OIJ	Antibody fragment
+6OT0	Fab light chain
 6OT0	Fab heavy chain
 6N48	Camelid Antibody Fragment
 6O3C	Nanobody-Smo8
 6OS9	scFv16
+6QNO	Fab antibody fragment light chain
 6QNO	Fab antibody fragment heavy chain
 6OYA	Camelid antibody VHH fragment
 6IBB	Nanobody-6
 6RNK	Nanobody-6
 6NI3	Nanobody-35
+6PWC	Fab30 heavy chain
 6PWC	Fab30 light chain
 6ORV	Nanobody-35
+6JOD	Heavy chain of 4A03Fab
 6JOD	Light chain of 4A03Fab
 6P9X	Nanobody-35
 6P9Y	Nanobody-35
@@ -68,10 +73,12 @@ PDB	Name
 6OS1	Nanobody-Nb.AT110i1_le
 6OS2	Nanobody-Nb.AT110i1_le
 6LI3	Nanobody-35
+6U1N	Fab30 light chain
 6U1N	Fab30 heavy chain
 6LPB	Nanobody-35
 6M1H	Nanobody-35
 6M1I	Nanobody-35
+6LN2	Fab7F38 light chain
 6LN2	Fab7F38 heavy chain
 6VI4	Nanobody-6
 6UUN	Nanobody-35
@@ -82,17 +89,23 @@ PDB	Name
 6K41	scFv
 6K42	scFv
 6WHC	Nanobody-35
+6TKO	Fab30 heavy chain
 6TKO	Fab30 light chain
 6VMS	scFv16
 6WWZ	scFv16
 6VCB	Nanobody-35
+7C61	IgG heavy chain
 7C61	IgG light chain
+7C6A	IgG heavy chain
 7C6A	IgG light chain
 7BZ2	Nanobody-35
+6KO5	Fab7881 heavy chain
 6KO5	Fab7881 light chain
 6WI9	Nanobody-35
 6WPW	Nanobody-35
 6WZG	Nanobody-35
+6WW2	anti-BRIL Fab heavy chain
+6WW2	anti-BRIL Fab light chain
 6WW2	anti-Fab Nanobody
 7C2E	Nanobody-35
 6LFM	scFv16
@@ -112,6 +125,7 @@ PDB	Name
 6XBL	scFv16
 6XBM	scFv16
 7D3S	Nanobody-35
+6XOX	scFv16
 6XOX	Nanobody-35
 7CZ5	Nanobody-35
 7D7M	Nanobody-35
@@ -121,9 +135,11 @@ PDB	Name
 7D68	Nanobody-35
 7DHI	Nanobody-35
 7DHR	Nanobody-35
+7DFP	Fab heavy chain
 7DFP	Fab light chain
 7D77	scFv16
 7L1U	scFv16
+7L1V	scFv16
 7L1V	Nanobody-51
 7JV5	Nanobody-35
 7JVP	Nanobody-35
@@ -147,20 +163,27 @@ PDB	Name
 7CX3	Nanobody-35
 7CX4	Nanobody-35
 7EB2	scFv16
+7KH0	scFv16
 7KH0	Nanobody-35
 7MBX	Nanobody-35
 7BB6	Nanobody-35
 7BB7	Nanobody-35
+7C4S	Fab light chain
 7C4S	Fab heavy chain
+7E9G	scFv16
 7E9G	DN13
 7E9H	scFv16
 7EPB	Anti-RON nanobody
+7O7F	Fab heavy chain
 7O7F	Fab light chain
 7E14	Nanobody-35
 7JHJ	scFv16
+7MTA	Fab heavy chain
 7MTA	Fab light chain
+7MTB	Fab light chain
 7MTB	Fab heavy chain
 7DUQ	Nanobody-35
+7DW9	Nanobody-35
 7DW9	scFv16
 7DH5	Nanobody-35
 7DTY	Nanobody-35
@@ -173,6 +196,7 @@ PDB	Name
 7DB6	scFv16
 7F16	Nanobody-35
 7F9Y	Nanobody-35
+7F9Z	Nanobody-35
 7F9Z	scFv16
 7EZH	scFv16
 7EZM	scFv16
@@ -220,3 +244,9 @@ PDB	Name
 7EO2	scFv16
 7EO4	scFv16
 7WF7	scFv16
+7W2Z	scFv16
+7LLL	Nanobody-35
+7LLY	Nanobody-35
+7RKF	scFv16
+7RKM	scFv16
+7RKN	scFv16

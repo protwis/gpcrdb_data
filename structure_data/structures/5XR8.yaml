@@ -3,7 +3,7 @@ construct: 5xr8
 distance: 7.9
 ligand:
 -   name: 8D0
-    pubchemId: None
+    pubchemId: 102336704
     role: Agonist
     type: Small molecule
 pdb: 5XR8
