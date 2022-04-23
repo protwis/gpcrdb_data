@@ -97,3 +97,5 @@ S18 sheet 1 S18 Arrestin
 s18s19 loop 1 s18s19 Arrestin
 S19 sheet 1 S19 Arrestin
 s19c loop 1 s19c Arrestin
+S20 sheet 1 S20 Arrestin
+s20c loop 1 s20c Arrestin
