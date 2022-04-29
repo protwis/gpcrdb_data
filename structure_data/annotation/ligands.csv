@@ -320,7 +320,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6HLP		GAW	6451149.0	Antagonist	Netupitant	Small molecule
 6N51		QUS	40539.0	Agonist	Quisqualic acid	Small molecule
 6N52		None	None	.nan	None	None
-6NIY	P	pep	16220016.0	Agonist	Calcitonin	Peptide
+6NIY	P	pep	16220016.0	Agonist	Calcitonin salmon	Peptide
 5ZTY		9JU	137321161.0	Antagonist	AM10257	Small molecule
 6DO1	H	pep	10079601.0	Agonist	(Sar1,Ile8)-Angiotensin II	Peptide
 6N4B		KCA	119025665.0	Agonist	Fub-mdmb	Small molecule
@@ -756,3 +756,54 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7SIL		TCR	449440.0	Agonist	Cyclomethyltryptophan	Small molecule
 7SIN		YP1	6918446.0	Antagonist	Nps-2143	Small molecule
 7SIM		TCR	449440.0	Agonist	Cyclomethyltryptophan	Small molecule
+7V9M	P	pep	91844608.0	Agonist 	Somatoliberin	Peptide
+7EVY		J8C	44599207.0	Agonist	Siponimod	Small molecule
+7EVZ		JER	49871973.0	Agonist	Cenerimod	Small molecule
+7EW0		JEU	52938427.0	Agonist	Ozanimod	Small molecule
+7EW7		JEX	4077460.0	Agonist	SEW2871	Small molecule
+7F4D	M	pep	44273719.0	Agonist	alpha-melanocyte-stimulating hormone	Peptide
+7F4F	F	pep	16133835.0	Agonist	Afamelanotide	Peptide
+7F4H	F	pep	16133835.0	Agonist	Afamelanotide	Peptide
+7F4I	U	pep		Agonist 	SHU9119	Peptide
+7JNI		VFD	9937291.0	Antagonist	Olodanrigan	Small molecule
+7T6T	L	pep		Agonist	synthetic peptide 	Peptide
+7T6S		FUI	461677680.0	Agonist	N-(4-chlorophenyl)-N'-[1-methyl-3-oxo-2-phenyl-5-(propan-2-yl)-2,3-dihydro-1H-pyrazol-4-yl]urea	Small molecule
+7T6U	L	pep		Agonist	synthetic peptide 	Peptide
+7T6V	L	pep		Agonist	synthetic peptide 	Peptide
+7VGX	L	pep	24868177.0	Agonist	Neuropeptide Y	Peptide
+7T10	P	pep	16129706.0	Agonist	Somatostatin	Peptide
+7T11	P	pep		Agonist	Octreotide	Peptide
+7RYC	L	pep	439302.0	Agonist 	Oxytocin	Peptide
+7VL8		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7VL9	L	pep		Agonist 	CCL15(26-92)	Peptide
+7VLA	L	pep		Agonist	CCL15(27-92)	Peptide
+7VKT		LTB	5280492.0	Agonist	Leukotriene B4	Small molecule
+7TD0		NKP	49837858.0	Agonist	lysophosphatidic acid	Small molecule
+7TD1		NKP	49837858.0	Agonist	lysophosphatidic acid	Small molecule
+7TD2		NKP	49837858.0	Agonist	lysophosphatidic acid	Small molecule
+7TD3		S1P	5283560.0	Agonist	Sphingosine 1-phosphate	Small molecule
+7TD4		J8C	44599207.0	Agonist	Siponimod	Small molecule
+7VGY		ML2	115348.0	Agonist	Iodomelatonin	Small molecule
+7VGZ		JEV	208902.0	Agonist	Ramelteon	Small molecule
+7VH0		JEV	208902.0	Agonist	Ramelteon	Small molecule
+7PX4		8E2	162639700.0	Antagonist	Preladenant conjugate PSB-2113	Small molecule
+7PYR		8IM		Antagonist	Preladenant conjugate PSB-2115	Small molecule
+7TYF	P	pep		Agonist	amylin peptide	Peptide
+7TYH	P	pep	45055432.0	Agonist	Calcitonin human	Peptide
+7TYI	P	pep	123773280.0	Agonist 	Amylin rat	Peptide
+7TYL	P	pep		Agonist	amylin peptide	Peptide
+7TYN	P	pep	16220016.0	Agonist	Calcitonin salmon	Peptide
+7TYO	P	pep	45055432.0	Agonist	Calcitonin human	Peptide
+7TYW	P	pep	16220016.0	Agonist	Calcitonin salmon	Peptide
+7TYX	P	pep		Agonist	amylin peptide	Peptide
+7TYY	P	pep	16220016.0	Agonist	Calcitonin salmon	Peptide
+7TZF	P	pep		Agonist	amylin peptide	Peptide
+7FIN	P	pep		Agonist	Peptide-20	Peptide
+7FIY	P	pep	156588324.0	Agonist	Tirzepatide	Peptide
+7VAB	P	pep	156588324.0	Agonist	Non-acylated tirzepatide	Peptide
+7FIM	P	pep	156588324.0	Agonist	Tirzepatide	Peptide
+7VBI	P	pep	156588324.0	Agonist	Non-acylated tirzepatide	Peptide
+7V35	P	pep		Agonist	Peptide-20	Peptide
+7WI6		Z99	9819927.0	Antagonist	2-[(1s,2s)-2-Carboxycyclopropyl]-3-(9h-Xanthen-9-Yl)-D-Alanine	Small molecule
+7WI8		Z99	9819927.0	Antagonist	2-[(1s,2s)-2-Carboxycyclopropyl]-3-(9h-Xanthen-9-Yl)-D-Alanine	Small molecule
+7WIH		CWY	60096231.0	Agonist	(1S,2S,4S,5R,6S)-2-amino-4-[(3-methoxybenzene-1-carbonyl)amino]bicyclo[3.1.0]hexane-2,6-dicarboxylic acid	Small molecule

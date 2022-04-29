@@ -610,6 +610,40 @@ acm5_human__wt:
     2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
+ada1b_human__wt:
+    Key: ada1b_human__wt
+    1b: 26.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 68.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 35.0
+    5e: 74.0
+    6b: 24.0
+    6e: 61.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 59.0
+    Cl: A
+    RF: Adrenoceptors
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 34.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 ada2a_human__wt:
     Key: ada2a_human__wt
     1b: 32.0
@@ -1130,7 +1164,7 @@ calcr_human__wt:
     2e: 64.0
     e1b: '-'
     e1e: '-'
-    3b: 23.0
+    3b: 22.0
     3e: 56.0
     i2b: '-'
     i2e: '-'
@@ -1139,10 +1173,10 @@ calcr_human__wt:
     e2b: 50.0
     e2e: 52.0
     5b: 40.0
-    5e: 70.0
-    6b: 30.0
+    5e: 73.0
+    6b: 25.0
     6e: 53.0
-    7b: 28.0
+    7b: 27.0
     7e: 56.0
     8b: 47.0
     8e: 72.0
@@ -1250,6 +1284,40 @@ cckar_human__wt:
     8e: 63.0
     Cl: A
     RF: Cholecystokinin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 34.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+ccr1_human__wt:
+    Key: ccr1_human__wt
+    1b: 24.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 30.0
+    5e: 67.0
+    6b: 27.0
+    6e: 65.0
+    7b: 24.0
+    7e: 56.0
+    8b: 47.0
+    8e: 60.0
+    Cl: A
+    RF: Chemokine
     1ei1b: 1.0
     i1e2b: 1.0
     2e-e1b: 1.0
@@ -1930,6 +1998,40 @@ ffar1_human__wt:
     8e: 61.0
     Cl: A
     RF: Freefattyacid
+    1ei1b: 15
+    i1e2b: 15
+    2e-e1b: 2.0
+    2e3b: 35.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+fpr1_human__wt:
+    Key: fpr1_human__wt
+    1b: 25.0
+    1e: 61.0
+    i1b: '-'
+    i1e: '-'
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 23.0
+    5e: 69.0
+    6b: 31.0
+    6e: 61.0
+    7b: 28.0
+    7e: 56.0
+    8b: 47.0
+    8e: 58.0
+    Cl: A
+    RF: Formylpeptide
     1ei1b: 15
     i1e2b: 15
     2e-e1b: 2.0
@@ -2650,6 +2752,40 @@ grm2_human__wt:
     2e3b: 32.0
     e1e3b: 15
     3ei2b: 15
+grm3_human__wt:
+    Key: grm3_human__wt
+    1b: 35.0
+    1e: 60.0
+    i1b: 47.0
+    i1e: 53.0
+    2b: 39.0
+    2e: 61.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 54.0
+    i2b: '-'
+    i2e: '-'
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 36.0
+    5e: 61.0
+    6b: 33.0
+    6e: 58.0
+    7b: 32.0
+    7e: 64.0
+    8b: 46.0
+    8e: 57.0
+    Cl: C
+    RF: Metabotropicglutamate
+    1ei1b: 3.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 33.0
+    e1e3b: 15
+    3ei2b: 15
 grm4_human__wt:
     Key: grm4_human__wt
     1b: 34.0
@@ -2875,8 +3011,8 @@ lt4r1_human__wt:
     5b: 31.0
     5e: 68.0
     6b: 30.0
-    6e: 64.0
-    7b: 27.0
+    6e: 65.0
+    7b: 25.0
     7e: 64.0
     8b: '-'
     8e: '-'
@@ -2988,6 +3124,40 @@ mrgx4_human__wt:
     i1e2b: 15
     2e-e1b: 15
     2e3b: 33.0
+    e1e3b: 15
+    3ei2b: 1.0
+mshr_human__wt:
+    Key: mshr_human__wt
+    1b: 35.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 70.0
+    e1b: '-'
+    e1e: '-'
+    3b: 17.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 63.0
+    e2b: '-'
+    e2e: '-'
+    5b: 36.0
+    5e: 77.0
+    6b: 27.0
+    6e: 61.0
+    7b: 34.0
+    7e: 56.0
+    8b: 47.0
+    8e: 53.0
+    Cl: A
+    RF: Melanocortin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 38.0
     e1e3b: 15
     3ei2b: 1.0
 mtr1a_human__wt:
@@ -4384,6 +4554,40 @@ smo_mouse__wt:
     2e3b: 54.0
     e1e3b: 15
     3ei2b: 15
+ssr2_human__wt:
+    Key: ssr2_human__wt
+    1b: 29.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 66.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 31.0
+    5e: 68.0
+    6b: 23.0
+    6e: 61.0
+    7b: 28.0
+    7e: 56.0
+    8b: 47.0
+    8e: 59.0
+    Cl: A
+    RF: Somatostatin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 2.0
+    2e3b: 35.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 sucr1_rat__wt:
     Key: sucr1_rat__wt
     1b: 20.0
