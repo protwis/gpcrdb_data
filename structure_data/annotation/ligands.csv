@@ -807,3 +807,35 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7WI6		Z99	9819927.0	Antagonist	2-[(1s,2s)-2-Carboxycyclopropyl]-3-(9h-Xanthen-9-Yl)-D-Alanine	Small molecule
 7WI8		Z99	9819927.0	Antagonist	2-[(1s,2s)-2-Carboxycyclopropyl]-3-(9h-Xanthen-9-Yl)-D-Alanine	Small molecule
 7WIH		CWY	60096231.0	Agonist	(1S,2S,4S,5R,6S)-2-amino-4-[(3-methoxybenzene-1-carbonyl)amino]bicyclo[3.1.0]hexane-2,6-dicarboxylic acid	Small molecule
+7EJ0		E5E	439260.0	Agonist	Norepinephrine	Small molecule
+7EJ8		J59	2435.0	Agonist	Brimonidine	Small molecule
+7EJA		CZX	5311068.0	Agonist	Dexmedetomidine	Small molecule
+7EJK		J5C	4636.0	Agonist	Oxymetazoline	Small molecule
+7WVU	L	pep		Agonist	FME-LEU-PHE	Peptide
+7WVV	L	pep		Agonist	FME-LEU-PHE-ILE-ILE	Peptide
+7WVW	L	pep		Agonist	FME-TYR-PHE-ILE-ASN-ILE-LEU-THE-LEU	Peptide
+7WVX	L	pep	16131438.0	Agonist	Humanin	Peptide
+7WVY	L	pep	57339251.0	Agonist	Amyloid beta-Peptide (1-42)	Peptide
+7WQ3	L	pep	16133823.0	Agonist	Galanin (1-30)	Peptide
+7WQ4	L	pep	16133823.0	Agonist	Galanin (1-30)	Peptide
+7SBF		8QY	462769840.0	Agonist	N-[(2S)-2-(dimethylamino)-3-(4-hydroxyphenyl)propyl]-N'-[(2S)-1-(thiophen-3-yl)propan-2-yl]urea	Small molecule
+7SCG		8RI	462769841.0	Agonist	(2E)-N-[(2S)-2-(dimethylamino)-3-(4-hydroxyphenyl)propyl]-3-(naphthalen-1-yl)prop-2-enamide	Small molecule
+7U2L		L0X		Agonist	N-(5-carbamimidamidopentyl)-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide	Small molecule
+7T6B		S1P	5283560.0	Agonist	Sphingosine 1-phosphate	Small molecule
+7EZC		UKA	9833519.0	Agonist	6-(2,2-diphenylethylamino)-9-[(2R,3R,4S,5S)-5-(ethylcarbamoyl)-3,4-dihydroxy-oxolan-2-yl]-N-[2-[(1-pyridin-2-ylpiperidin-4-yl)carbamoylamino]ethyl]purine-2-carboxamide	Small molecule
+7TUY		KKF	462769979.0		8-[(2E)-3-(4-chlorophenyl)prop-2-enoyl]-3-[(3,4-dichlorophenyl)methyl]-1-oxa-3,8-diazaspiro[4.5]decan-2-one	Small molecule
+7TUZ		KJX	462769980.0	Agonist	(2S,4aS,4bS,7R,8S,8aS,9R,10aR)-7-[(2R,3R)-7-hydroxy-3,7-dimethyloctan-2-yl]-4a,7,8-trimethyltetradecahydrophenanthrene-2,9-diol	Small molecule
+7RA3	R	pep	16140499.0		gastric inhibitory polypeptide (human) - Incretin	Peptide
+7RBT	P	pep	156588324.0	Agonist	Tirzepatide (LY3298176)	Peptide
+7RBT		41Y	462769817.0	PAM	2-fluoro-4-[(1R)-6-methoxy-1-methyl-2-{(1S)-1-[4-(propan-2-yl)phenyl]ethyl}-1,2,3,4-tetrahydroisoquinolin-5-yl]-6-[(2-methylpropyl)amino]phenol	Small molecule
+7RG9		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7RGP	P	pep	156588324.0	Agonist	Tirzepatide (LY3298176)	Peptide
+7VBH	P	pep		Agonist 	Peptide 20	Peptide
+7WU2		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7WU3		apo	None	Apo (no ligand)	Apo (no ligand)	None 
+7WU4		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7WU5		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7SF7		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7SF8		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7WUJ		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7EJX		J5F	58466521.0	Agonist	(1R,2R)-N-[(2S,3S)-2-azanyl-3-methyl-pentyl]-N-[4-(4-propylphenyl)phenyl]-2-pyridin-2-yl-cyclopropane-1-carboxamide	Small molecule
