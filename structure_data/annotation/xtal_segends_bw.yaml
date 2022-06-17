@@ -646,7 +646,7 @@ ada1b_human__wt:
     3ei2b: 1.0
 ada2a_human__wt:
     Key: ada2a_human__wt
-    1b: 32.0
+    1b: 30.0
     1e: 60.0
     i1b: 48.0
     i1e: 51.0
@@ -882,9 +882,111 @@ adrb3_canlf__wt:
     2e3b: 34.0
     e1e3b: 1.0
     3ei2b: 1.0
+agrd1_human__wt:
+    Key: agrd1_human__wt
+    1b: 28.0
+    1e: 63.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 63.0
+    e1b: '-'
+    e1e: '-'
+    3b: 22.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 41.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 38.0
+    5e: 74.0
+    6b: 26.0
+    6e: 55.0
+    7b: 30.0
+    7e: 56.0
+    8b: 47.0
+    8e: 63.0
+    Cl: B2
+    RF: Adhesionclassorphans
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 32.0
+    e1e3b: 15
+    3ei2b: 15
+agrf1_human__wt:
+    Key: agrf1_human__wt
+    1b: 28.0
+    1e: 61.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 33.0
+    2e: 63.0
+    e1b: '-'
+    e1e: '-'
+    3b: 22.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 37.0
+    4e: 65.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 38.0
+    5e: 67.0
+    6b: 25.0
+    6e: 58.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 63.0
+    Cl: B2
+    RF: Adhesionclassorphans
+    1ei1b: 1.0
+    i1e2b: 2.0
+    2e-e1b: 15
+    2e3b: 35.0
+    e1e3b: 15
+    3ei2b: 15
+agrg1_human__wt:
+    Key: agrg1_human__wt
+    1b: 28.0
+    1e: 60.0
+    i1b: '-'
+    i1e: '-'
+    2b: 37.0
+    2e: 65.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 40.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 35.0
+    5e: 69.0
+    6b: 33.0
+    6e: 54.0
+    7b: 27.0
+    7e: 57.0
+    8b: '-'
+    8e: '-'
+    Cl: B2
+    RF: Adhesionclassorphans
+    1ei1b: 15
+    i1e2b: 15
+    2e-e1b: 15
+    2e3b: 32.0
+    e1e3b: 15
+    3ei2b: 15
 agrg3_human__wt:
     Key: agrg3_human__wt
-    1b: 30.0
+    1b: 28.0
     1e: 64.0
     i1b: 48.0
     i1e: 51.0
@@ -914,6 +1016,74 @@ agrg3_human__wt:
     i1e2b: 2.0
     2e-e1b: 15
     2e3b: 34.0
+    e1e3b: 15
+    3ei2b: 15
+agrg4_human__wt:
+    Key: agrg4_human__wt
+    1b: 29.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 66.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 40.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 36.0
+    5e: 72.0
+    6b: 26.0
+    6e: 56.0
+    7b: 32.0
+    7e: 57.0
+    8b: 48.0
+    8e: 63.0
+    Cl: B2
+    RF: Adhesionclassorphans
+    1ei1b: 1.0
+    i1e2b: 2.0
+    2e-e1b: 15
+    2e3b: 31.0
+    e1e3b: 15
+    3ei2b: 15
+agrl3_human__wt:
+    Key: agrl3_human__wt
+    1b: 29.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 60.0
+    e1b: '-'
+    e1e: '-'
+    3b: 21.0
+    3e: 56.0
+    i2b: '-'
+    i2e: '-'
+    4b: 41.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 38.0
+    5e: 72.0
+    6b: 28.0
+    6e: 53.0
+    7b: 31.0
+    7e: 56.0
+    8b: 47.0
+    8e: 63.0
+    Cl: B2
+    RF: Adhesionclassorphans
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 35.0
     e1e3b: 15
     3ei2b: 15
 agtr1_human__wt:
@@ -1003,8 +1173,8 @@ apj_human__wt:
     e2b: 50.0
     e2e: 52.0
     5b: 30.0
-    5e: 72.0
-    6b: 29.0
+    5e: 69.0
+    6b: 23.0
     6e: 63.0
     7b: 24.0
     7e: 56.0
@@ -2276,6 +2446,74 @@ gabr2_human__wt:
     2e3b: 39.0
     e1e3b: 15
     3ei2b: 15
+galr1_human__wt:
+    Key: galr1_human__wt
+    1b: 29.0
+    1e: 60.0
+    i1b: '-'
+    i1e: '-'
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 31.0
+    5e: 69.0
+    6b: 23.0
+    6e: 61.0
+    7b: 28.0
+    7e: 56.0
+    8b: 47.0
+    8e: 59.0
+    Cl: A
+    RF: Galanin
+    1ei1b: 15
+    i1e2b: 15
+    2e-e1b: 2.0
+    2e3b: 35.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+galr2_human__wt:
+    Key: galr2_human__wt
+    1b: 30.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 31.0
+    5e: 72.0
+    6b: 23.0
+    6e: 61.0
+    7b: 28.0
+    7e: 56.0
+    8b: 47.0
+    8e: 59.0
+    Cl: A
+    RF: Galanin
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 2.0
+    2e3b: 35.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 gasr_human__wt:
     Key: gasr_human__wt
     1b: 30.0
@@ -2616,6 +2854,40 @@ gp158_human__wt:
     2e3b: 33.0
     e1e3b: 15
     3ei2b: 15
+gp183_human__wt:
+    Key: gp183_human__wt
+    1b: 27.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 67.0
+    e1b: 49.0
+    e1e: 52.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 64.0
+    e2b: 50.0
+    e2e: 52.0
+    5b: 34.0
+    5e: 72.0
+    6b: 28.0
+    6e: 65.0
+    7b: 26.0
+    7e: 56.0
+    8b: 47.0
+    8e: 60.0
+    Cl: A
+    RF: ClassAorphans
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 2.0
+    2e3b: 35.0
+    e1e3b: 1.0
+    3ei2b: 1.0
 gpbar_human__wt:
     Key: gpbar_human__wt
     1b: 32.0
@@ -2684,6 +2956,40 @@ gpr52_human__wt:
     2e3b: 35.0
     e1e3b: 15
     3ei2b: 1.0
+gpr88_human__wt:
+    Key: gpr88_human__wt
+    1b: 24.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 68.0
+    e1b: '-'
+    e1e: '-'
+    3b: 18.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 57.0
+    4b: 38.0
+    4e: 60.0
+    e2b: '-'
+    e2e: '-'
+    5b: 35.0
+    5e: 74.0
+    6b: 34.0
+    6e: 61.0
+    7b: 31.0
+    7e: 55.0
+    8b: 47.0
+    8e: 59.0
+    Cl: A
+    RF: ClassAorphans
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 15
+    2e3b: 43.0
+    e1e3b: 15
+    3ei2b: 2.0
 grm1_human__wt:
     Key: grm1_human__wt
     1b: 34.0
@@ -4376,6 +4682,40 @@ s1pr1_human__wt:
     7e: 56.0
     8b: 47.0
     8e: 59.0
+    Cl: A
+    RF: Lysophospholipid(S1P)
+    1ei1b: 1.0
+    i1e2b: 1.0
+    2e-e1b: 1.0
+    2e3b: 37.0
+    e1e3b: 1.0
+    3ei2b: 1.0
+s1pr2_human__wt:
+    Key: s1pr2_human__wt
+    1b: 29.0
+    1e: 60.0
+    i1b: 48.0
+    i1e: 51.0
+    2b: 37.0
+    2e: 64.0
+    e1b: 47.0
+    e1e: 53.0
+    3b: 21.0
+    3e: 56.0
+    i2b: 50.0
+    i2e: 56.0
+    4b: 38.0
+    4e: 63.0
+    e2b: '-'
+    e2e: '-'
+    5b: 36.0
+    5e: 68.0
+    6b: 26.0
+    6e: 61.0
+    7b: 30.0
+    7e: 56.0
+    8b: 47.0
+    8e: 82.0
     Cl: A
     RF: Lysophospholipid(S1P)
     1ei1b: 1.0
