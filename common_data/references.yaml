@@ -1,13 +1,13 @@
 https://arrestindb.org/signprot/arrestin:
     DOI: ''
-    Default: 0
-    Journal: ''
+    Default: ArrestinDb
+    Journal: TBD
     Menu: ArrestinDb
     Page: Arrestin page
     Section: Proteins
-    Title: coming publication
+    Title: Manuscript
     Video: ''
-    Year: ''
+    Year: 2022.0
 https://arrestindb.org/alignment/arrestinselection:
     DOI: ''
     Default: 0
@@ -58,11 +58,41 @@ https://arrestindb.org/signprot/arrestin_tree:
     Title: coming publication
     Video: ''
     Year: ''
+https://arrestindb.org/structure/arrestin_statistics:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: ArrestinDb
+    Page: Structure statistics
+    Section: Structures
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://arrestindb.org/structure/arrestin_structure_browser:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: ArrestinDb
+    Page: Structures
+    Section: Structures
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://arrestindb.org/signprot/arr_matrix:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: ArrestinDb
+    Page: Interface interactions & profiling
+    Section: Structure Comparison
+    Title: coming publication
+    Video: ''
+    Year: ''
 https://gpcrdb.org/ligand/biasedbrowser:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: Biased signaling
+    Menu: LigandBiasDb
     Page: Biased ligands (effector family)
     Section: Ligand bias
     Title: coming publication
@@ -72,19 +102,49 @@ https://gpcrdb.org/ligand/biasedsubtypesbrowser:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: Biased signaling
+    Menu: LigandBiasDb
     Page: Biased ligands (subtypes)
     Section: Ligand bias
     Title: coming publication
     Video: ''
     Year: ''
-http://gpcrdb.org/ligand/bias_statistics:
+https://gpcrdb.org/biased_signalling/path_preference_statistics:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: Biased signaling
-    Page: Biased ligand statistics
-    Section: Ligand bias
+    Menu: LigandBiasDb
+    Page: Pathway-preffering ligand coverage
+    Section: Pathway-preferring ligands (transducer family)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://gpcrdb.org/biased_signalling/pathwaypreferencebrowser:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: LigandBiasDb
+    Page: "Pathway-preferring ligands (pathway \u2206Log/(Emax/EC50)"
+    Section: Pathway-preferring ligands (transducer family)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://gpcrdb.org/biased_signalling/path_preference_emax_rankorder_selection:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: LigandBiasDb
+    Page: "Ligand pathway preference rank orders (\u0394log(Emax/EC50))"
+    Section: Pathway-preferring ligands (transducer family)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://gpcrdb.org/biased_signalling/path_preference_emax_path_profiles_selection:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: LigandBiasDb
+    Page: Ligand pathway profiles (Log(Emax/EC50))
+    Section: Pathway-preferring ligands (transducer family)
     Title: coming publication
     Video: ''
     Year: ''
@@ -92,9 +152,19 @@ https://gpcrdb.org/ligand/biasedpathways:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: Biased signaling
+    Menu: LigandBiasDb
     Page: Pathway effects
-    Section: Pathway effects
+    Section: Pathways
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://gpcrdb.org/endogenousbrowser:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Drugs & Ligands
+    Page: Endogenous ligands (GtP)
+    Section: Endogenous ligands
     Title: coming publication
     Video: ''
     Year: ''
@@ -102,7 +172,7 @@ https://gpcrdb.org/drugs/drugbrowser:
     DOI: 10.1038/NRD.2017.178
     Default: 0
     Journal: NRDD
-    Menu: Drug & Ligands
+    Menu: Drugs & Ligands
     Page: Drug, targets & indications
     Section: Drugs & agents in trial
     Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
@@ -112,7 +182,7 @@ https://gpcrdb.org/drugs/drugmapping:
     DOI: 10.1038/NRD.2017.178
     Default: 0
     Journal: NRDD
-    Menu: Drug & Ligands
+    Menu: Drugs & Ligands
     Page: Drug target tree
     Section: Drugs & agents in trial
     Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
@@ -122,7 +192,7 @@ https://gpcrdb.org/drugs/drugstatistics:
     DOI: 10.1038/NRD.2017.178
     Default: 0
     Journal: NRDD
-    Menu: Drug & Ligands
+    Menu: Drugs & Ligands
     Page: Drug statistics
     Section: Drugs & agents in trial
     Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
@@ -132,8 +202,8 @@ https://gpcrdb.org/mutations/statistics:
     DOI: 10.1111/BPH.13509
     Default: 0
     Journal: BJP
-    Menu: Drug & Ligands
-    Page: Mutation statistics
+    Menu: Drugs & Ligands
+    Page: Mutation coverage
     Section: Ligand site mutations
     Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
     Video: ''
@@ -142,7 +212,7 @@ https://gpcrdb.org/mutations/:
     DOI: 10.1016/J.COPH.2016.07.003
     Default: 0
     Journal: COPHAR
-    Menu: Drug & Ligands
+    Menu: Drugs & Ligands
     Page: Mutations
     Section: Ligand site mutations
     Title: Integrating structural and mutagenesis data to elucidate GPCR ligand binding
@@ -152,7 +222,7 @@ https://gpcrdb.org/mutations/design:
     DOI: 10.1111/BPH.13509
     Default: 0
     Journal: BJP
-    Menu: Drug & Ligands
+    Menu: Drugs & Ligands
     Page: By receptor name
     Section: Ligand site mutations
     Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
@@ -162,7 +232,7 @@ https://gpcrdb.org/mutations/designpdb:
     DOI: 10.1111/BPH.13509
     Default: 0
     Journal: BJP
-    Menu: Drug & Ligands
+    Menu: Drugs & Ligands
     Page: By PDB id
     Section: Ligand site mutations
     Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
@@ -172,7 +242,7 @@ https://docs.gpcrdb.org/mutations.html#mutation-data-submission:
     DOI: 10.1016/J.COPH.2016.07.003
     Default: 0
     Journal: COPHAR
-    Menu: Drug & Ligands
+    Menu: Drugs & Ligands
     Page: Mutation data submission
     Section: Ligand site mutations
     Title: Integrating structural and mutagenesis data to elucidate GPCR ligand binding
@@ -182,7 +252,7 @@ https://gpcrdb.org/interaction/:
     DOI: 10.1016/J.COPH.2016.07.003
     Default: 0
     Journal: COPHAR
-    Menu: Drug & Ligands
+    Menu: Drugs & Ligands
     Page: GPCR-ligand interactions
     Section: Ligand sites
     Title: Integrating structural and mutagenesis data to elucidate GPCR ligand binding
@@ -202,9 +272,9 @@ https://gpcrdb.org/sitesearch/targetselectionpdb:
     DOI: 10.1093/NAR/GKV1178
     Default: 0
     Journal: NAR
-    Menu: GPCRdb
+    Menu: Drugs & Ligands
     Page: Site search (by ligand complex)
-    Section: Residues & Sites
+    Section: Ligand sites
     Title: 'GPCRdb: an information system for G protein-coupled receptors'
     Video: http://files.gpcrdb.org/video/interactions2.mp4
     Year: 2016.0
@@ -212,8 +282,8 @@ https://gpcrdb.org/ligand/statistics:
     DOI: 10.1093/NAR/GKX1109
     Default: 0
     Journal: NAR
-    Menu: Drug & Ligands
-    Page: Ligand statistics
+    Menu: Drugs & Ligands
+    Page: Ligand coverage
     Section: Ligands
     Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
     Video: ''
@@ -222,7 +292,7 @@ https://gpcrdb.org/ligand/:
     DOI: 10.1093/NAR/GKX1109
     Default: 0
     Journal: NAR
-    Menu: Drug & Ligands
+    Menu: Drugs & Ligands
     Page: Ligands (ChEMBL)
     Section: Ligands
     Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
@@ -358,16 +428,6 @@ https://gpcrdb.org/protein/ste2_yeast/:
     Title: Structure of the class D GPCR Ste2 dimer coupled to two G proteins
     Video: ''
     Year: 2020.0
-https://gpcrdb.org/construct/mutations:
-    DOI: 10.1038/S41592-018-0302-X
-    Default: 0
-    Journal: Nat Methods
-    Menu: Structure Constructs
-    Page: Stabilising mutations
-    Section: Mutation analysis
-    Title: An online resource for GPCR structure determination and analysis
-    Video: ''
-    Year: 2019.0
 https://gpcrdb.org/protein/:
     DOI: 10.1093/NAR/GKV1178
     Default: 0
@@ -473,7 +533,7 @@ https://gpcrdb.org/mutational_landscape/statistics:
     Default: 0
     Journal: Cell
     Menu: GPCRdb
-    Page: Variation statistics
+    Page: Variation coverage
     Section: Sequences
     Title: Pharmacogenomics of GPCR Drug Targets
     Video: ''
@@ -523,7 +583,7 @@ https://gpcrdb.org/structure/statistics:
     Default: 0
     Journal: BJP
     Menu: GPCRdb
-    Page: Structure statistics
+    Page: Structure coverage
     Section: Structures
     Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
     Video: http://files.gpcrdb.org/video/structures1.mp4
@@ -553,7 +613,7 @@ https://gpcrdb.org/structure/model_statistics:
     Default: 0
     Journal: NAR
     Menu: GPCRdb
-    Page: Structure model statistics
+    Page: Structure model coverage
     Section: Structures
     Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
     Video: ''
@@ -564,7 +624,7 @@ https://gpcrdb.org/structure/superposition_workflow_index/true:
     Journal: NAR
     Menu: GPCRdb
     Page: Structure superposition
-    Section: Structures
+    Section: Structure Comparison
     Title: 'GPCRdb: an information system for G protein-coupled receptors'
     Video: ''
     Year: 2016.0
@@ -574,7 +634,7 @@ https://gpcrdb.org/structure/generic_numbering_index:
     Journal: TiPS
     Menu: GPCRdb
     Page: Generic residue numbering (PDB)
-    Section: Structures
+    Section: Structure Comparison
     Title: "Generic GPCR residue numbers \u2013 aligning topology maps while minding\
         \ the gaps"
     Video: ''
@@ -583,9 +643,9 @@ https://gpcrdb.org/construct/:
     DOI: 10.1038/S41592-018-0302-X
     Default: 0
     Journal: Nat Methods
-    Menu: Structure Constructs
+    Menu: GPCRdb
     Page: Construct alignments
-    Section: Construct & Experiment design
+    Section: Structure Constructs
     Title: An online resource for GPCR structure determination and analysis
     Video: ''
     Year: 2019.0
@@ -593,9 +653,9 @@ https://gpcrdb.org/construct/design:
     DOI: 10.1038/S41592-018-0302-X
     Default: 0
     Journal: Nat Methods
-    Menu: Structure Constructs
+    Menu: GPCRdb
     Page: Construct design tool
-    Section: Construct & Experiment design
+    Section: Structure Constructs
     Title: An online resource for GPCR structure determination and analysis
     Video: http://files.gpcrdb.org/video/constructtool3.mp4
     Year: 2019.0
@@ -603,9 +663,19 @@ https://gpcrdb.org/construct/experiments:
     DOI: 10.1038/S41592-018-0302-X
     Default: 0
     Journal: Nat Methods
-    Menu: Structure Constructs
+    Menu: GPCRdb
     Page: Experiment browser
-    Section: Construct & Experiment design
+    Section: Structure Constructs
+    Title: An online resource for GPCR structure determination and analysis
+    Video: ''
+    Year: 2019.0
+https://gpcrdb.org/construct/mutations:
+    DOI: 10.1038/S41592-018-0302-X
+    Default: 0
+    Journal: Nat Methods
+    Menu: GPCRdb
+    Page: Stabilising mutations
+    Section: Structure Constructs
     Title: An online resource for GPCR structure determination and analysis
     Video: ''
     Year: 2019.0
@@ -613,9 +683,9 @@ https://gpcrdb.org/construct/stabilisation:
     DOI: 10.1038/S41592-018-0302-X
     Default: 0
     Journal: Nat Methods
-    Menu: Structure Constructs
+    Menu: GPCRdb
     Page: StabMutAnalyser
-    Section: Mutation analysis
+    Section: Structure Constructs
     Title: An online resource for GPCR structure determination and analysis
     Video: ''
     Year: 2019.0
@@ -623,9 +693,9 @@ https://gpcrdb.org/construct/analysis#mutations:
     DOI: 10.1038/S41592-018-0302-X
     Default: 0
     Journal: Nat Methods
-    Menu: Structure Constructs
+    Menu: GPCRdb
     Page: Mutation substitution matrix
-    Section: Mutation analysis
+    Section: Structure Constructs
     Title: An online resource for GPCR structure determination and analysis
     Video: ''
     Year: 2019.0
@@ -633,9 +703,9 @@ https://gpcrdb.org/construct/analysis#truncations:
     DOI: 10.1038/S41592-018-0302-X
     Default: 0
     Journal: Nat Methods
-    Menu: Structure Constructs
+    Menu: GPCRdb
     Page: Truncation sites
-    Section: Truncation & Fusion analysis
+    Section: Structure Constructs
     Title: An online resource for GPCR structure determination and analysis
     Video: ''
     Year: 2019.0
@@ -643,9 +713,9 @@ https://gpcrdb.org/construct/analysis#fusions:
     DOI: 10.1038/S41592-018-0302-X
     Default: 0
     Journal: Nat Methods
-    Menu: Structure Constructs
+    Menu: GPCRdb
     Page: Fusion sites
-    Section: Truncation & Fusion analysis
+    Section: Structure Constructs
     Title: An online resource for GPCR structure determination and analysis
     Video: ''
     Year: 2019.0
@@ -653,9 +723,9 @@ https://gpcrdb.org/construct/analysis#loopdeletions:
     DOI: 10.1038/S41592-018-0302-X
     Default: 0
     Journal: Nat Methods
-    Menu: Structure Constructs
+    Menu: GPCRdb
     Page: Loop deletions
-    Section: Truncation & Fusion analysis
+    Section: Structure Constructs
     Title: An online resource for GPCR structure determination and analysis
     Video: ''
     Year: 2019.0
