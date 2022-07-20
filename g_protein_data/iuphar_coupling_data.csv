@@ -204,7 +204,7 @@
 202,202,202,opsb_human,P03999,OPN1SW,BCP,Class A (Rhodopsin),Sensory receptors,Opsins,2960.0,,,,,,,
 203,203,203,opsg_human,P04001,OPN1MW,GCP,Class A (Rhodopsin),Sensory receptors,Opsins,2962.0,,,,,,,
 204,204,204,opsr_human,P04000,OPN1LW,RCP,Class A (Rhodopsin),Sensory receptors,Opsins,2961.0,,,,,,,
-205,205,205,gpr1_human,P46091,GPR1,,Class A (Rhodopsin),Orphan receptors,Class A orphans,82.0,,,,,,,
+205,205,205,cml2_human,P46091,CMKLR2,,Class A (Rhodopsin),Protein receptors,Chemerin receptor,82.0,,,,,,,
 206,206,206,gpr3_human,P46089,GPR3,ACCA,Class A (Rhodopsin),Orphan receptors,Class A orphans,83.0,Gs family,,Adenylate cyclase stimulation,,7639700,,1.0
 207,207,207,gpr4_human,P46093,GPR4,GPR19,Class A (Rhodopsin),Orphan receptors,Class A orphans,84.0,"Gs family, Gi/Go family, Gq/G11 family, G12/G13 family",,"Adenylate cyclase stimulation, Phospholipase C stimulation",,15221007,,1.0
 208,208,208,gpr6_human,P46095,GPR6,,Class A (Rhodopsin),Orphan receptors,Class A orphans,85.0,"Gs family, Gi/Go family",,"Adenylate cyclase stimulation, Adenylate cyclase inhibition",,12574419|19059244,,2.0

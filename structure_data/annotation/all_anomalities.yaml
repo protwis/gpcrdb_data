@@ -6718,8 +6718,8 @@ gpr19_human:
     '4.59': P
     '4.60': V
     '5.46': G
-gpr1_human:
-    UniProt: gpr1_human
+cml2_human:
+    UniProt: cml2_human
     Xtal Templ: fpr2_human
     Cl: A
     Xtalised: NoXtal
