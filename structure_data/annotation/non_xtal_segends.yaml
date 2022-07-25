@@ -9598,7 +9598,7 @@ gpr19_human:
     5e-6b: 5.0
     6e-7b: 6.0
     7e-8b: 1.0
-gpr1_human:
+cml2_human:
     Xtal Templ: fpr2_human
     1b: 31.0
     1x: 56.0
