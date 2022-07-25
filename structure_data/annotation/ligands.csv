@@ -77,7 +77,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 4GRV	B	pep	5311318.0	Agonist	Neurotensin (8-13)	Peptide
 4GBR		CAU	13023332.0	Inverse agonist	(S)-Carazolol	Small molecule
 3VW7		VPX	10077130.0	Antagonist	Vorapaxar	Small molecule
-4GPO		None	None	nan	None	Small molecule
+4GPO		apo	None	Apo (no ligand)	Apo (no ligand)	Small molecule
 4IAQ		2GM	10531.0	Agonist	Dihydroergotamine	Small molecule
 4IAR		ERM	8223.0	Agonist	Ergotamine	Small molecule
 4IB4		ERM	8223.0	Agonist	Ergotamine	Small molecule
@@ -217,8 +217,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 5X7D		CAU	13023332.0	Antagonist	Carazolol	Small molecule
 5X7D		8VS	129318963.0	Allosteric antagonist	4-carbamoyl-N-[(2R)-2-cyclohexyl-2-phenylacetyl]-L-phenylalanyl-3-bromo-N-methyl-L-phenylalaninamide	Small molecule
 5X93		K87	9810112.0	Antagonist	K-8794	Small molecule
-5XPR		None	None	.nan	None	None
-5XSZ		None	None	.nan	None	None
+5XPR		apo	None	Apo (no ligand)	Apo (no ligand)	None
+5XSZ		apo	None	Apo (no ligand)	Apo (no ligand)	None
 5NLX		ZMA	176407.0	Antagonist	ZM241385	Small molecule
 5NM2		ZMA	176407.0	Antagonist	ZMA	Small molecule
 5NM4		ZMA	176407.0	Antagonist	ZM241385	Small molecule
@@ -422,14 +422,14 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6OS1	B	pep	None	Agonist	TRV023	Peptide
 6OS2	B	pep	None	Agonist	TRV026	Peptide
 6LI0		EN6	69921479.0	Agonist	c17	Small molecule
-6LI1		None	None	.nan	None	None
-6LI2		None	None	.nan	None	None
+6LI1		apo	None	Apo (no ligand)	Apo (no ligand)	None
+6LI2		apo	None	Apo (no ligand)	Apo (no ligand)	None
 6LI3		apo	None	Apo (no ligand)	Apo (no ligand)	None
 6OMM	L	pep	457933.0	Agonist	WKYMVm	Peptide
 6U1N		2CU	57664406.0	Agonist	3-Amino-5-chloro-N-cyclopropyl-4-methyl-6-[2-(4-methylpiperazin-1-yl)-2-oxoethoxy]thieno[2,3-b]pyridine-2-carboxamide	Small molecule
 6UP7	C	pep	5311318.0	Agonist	Neurotensin (8-13)	Peptide
 6LUQ		GMJ	3559.0	Antagonist	Haloperidol	Small molecule
-6KP6		None	None	.nan	None	None
+6KP6		apo	None	Apo (no ligand)	Apo (no ligand)	None
 6LPB	P	pep	44566111.0	Agonist	PACAP	Peptide
 6M1H	B	pep	121596043.0	Agonist	Maxadilan	Peptide
 6M1I	B	pep	44566111.0	Agonist	PACAP	Peptide
@@ -823,9 +823,9 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7U2L		L0X		Agonist	N-(5-carbamimidamidopentyl)-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide	Small molecule
 7T6B		S1P	5283560.0	Agonist	Sphingosine 1-phosphate	Small molecule
 7EZC		UKA	9833519.0	Agonist	6-(2,2-diphenylethylamino)-9-[(2R,3R,4S,5S)-5-(ethylcarbamoyl)-3,4-dihydroxy-oxolan-2-yl]-N-[2-[(1-pyridin-2-ylpiperidin-4-yl)carbamoylamino]ethyl]purine-2-carboxamide	Small molecule
-7TUY		KKF	462769979.0		8-[(2E)-3-(4-chlorophenyl)prop-2-enoyl]-3-[(3,4-dichlorophenyl)methyl]-1-oxa-3,8-diazaspiro[4.5]decan-2-one	Small molecule
+7TUY		KKF	462769979.0	Inverse agonist	8-[(2E)-3-(4-chlorophenyl)prop-2-enoyl]-3-[(3,4-dichlorophenyl)methyl]-1-oxa-3,8-diazaspiro[4.5]decan-2-one	Small molecule
 7TUZ		KJX	462769980.0	Agonist	(2S,4aS,4bS,7R,8S,8aS,9R,10aR)-7-[(2R,3R)-7-hydroxy-3,7-dimethyloctan-2-yl]-4a,7,8-trimethyltetradecahydrophenanthrene-2,9-diol	Small molecule
-7RA3	R	pep	16140499.0		gastric inhibitory polypeptide (human) - Incretin	Peptide
+7RA3	R	pep	16140499.0	Agonist	gastric inhibitory polypeptide (human) - Incretin	Peptide
 7RBT	P	pep	156588324.0	Agonist	Tirzepatide (LY3298176)	Peptide
 7RBT		41Y	462769817.0	PAM	2-fluoro-4-[(1R)-6-methoxy-1-methyl-2-{(1S)-1-[4-(propan-2-yl)phenyl]ethyl}-1,2,3,4-tetrahydroisoquinolin-5-yl]-6-[(2-methylpropyl)amino]phenol	Small molecule
 7RG9		apo	None	Apo (no ligand)	Apo (no ligand)	None
