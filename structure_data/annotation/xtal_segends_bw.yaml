@@ -4783,7 +4783,7 @@ s1pr2_human__wt:
     7b: 30.0
     7e: 56.0
     8b: 47.0
-    8e: 82.0
+    8e: 59.0
     Cl: A
     RF: Lysophospholipid(S1P)
     1ei1b: 1.0
@@ -4817,7 +4817,7 @@ s1pr3_human__wt:
     7b: 30.0
     7e: 56.0
     8b: 47.0
-    8e: 72.0
+    8e: 59.0
     Cl: A
     RF: Lysophospholipid(S1P)
     1ei1b: 1.0

@@ -10310,7 +10310,7 @@ s1pr2_human:
     7b: 30.0
     7e: 56.0
     8b: 47.0
-    8e: 82.0
+    8e: 59.0
     Cl: A
 s1pr3_human:
     XtalTempl: s1pr3_human
@@ -10337,7 +10337,7 @@ s1pr3_human:
     7b: 30.0
     7e: 56.0
     8b: 47.0
-    8e: 72.0
+    8e: 59.0
     Cl: A
 s1pr4_human:
     XtalTempl: s1pr1_human
