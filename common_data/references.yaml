@@ -88,71 +88,191 @@ https://arrestindb.org/signprot/arr_matrix:
     Title: coming publication
     Video: ''
     Year: ''
-https://gpcrdb.org/ligand/biasedbrowser:
+https://biasedsignalingatlas.org/biased_signalling/bias_guidelines:
+    DOI: 10.1111/BPH.15811
+    Default: 0
+    Journal: BJP
+    Menu: Biased Signaling Atlas
+    Page: Community guidelines paper
+    Section: Guidelines
+    Title: 'Community guidelines for GPCR ligand bias: IUPHAR review 32'
+    Video: ''
+    Year: 2022.0
+https://biasedsignalingatlas.org/biased_signalling/reference_selection:
+    DOI: ''
+    Default: BiasedSignalingAtlas
+    Journal: TBD
+    Menu: Biased Signaling Atlas
+    Page: Reference ligand selection
+    Section: Guidelines
+    Title: coming publication
+    Video: ''
+    Year: 2022.0
+https://biasedsignalingatlas.org/biased_signalling/bias_coverage:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: LigandBiasDb
-    Page: Biased ligands (effector family)
-    Section: Ligand bias
+    Menu: Biased Signaling Atlas
+    Page: Biased ligand coverage
+    Section: Biased ligands (transducer family)
     Title: coming publication
     Video: ''
     Year: ''
-https://gpcrdb.org/ligand/biasedsubtypesbrowser:
+https://biasedsignalingatlas.org/biased_signalling/biasedbrowser:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: LigandBiasDb
-    Page: Biased ligands (subtypes)
-    Section: Ligand bias
+    Menu: Biased Signaling Atlas
+    Page: "Biased ligands (\u2206\u2206log(Emax/EC50) & \u2206\u2206log(Tau/KA)"
+    Section: Biased ligands (transducer family)
     Title: coming publication
     Video: ''
     Year: ''
-https://gpcrdb.org/biased_signalling/path_preference_statistics:
+https://biasedsignalingatlas.org/biased_signalling/emax_rank_order_selection:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: LigandBiasDb
+    Menu: Biased Signaling Atlas
+    Page: "Ligand bias rank orders (\u0394\u0394log(Emax/EC50))"
+    Section: Biased ligands (transducer family)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://biasedsignalingatlas.org/biased_signalling/tau_rank_order_selection:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Biased Signaling Atlas
+    Page: "Ligand bias rank orders (\u0394\u0394log(Tau/KA))"
+    Section: Biased ligands (transducer family)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://biasedsignalingatlas.org/biased_signalling/emax_path_profiles_selection:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Biased Signaling Atlas
+    Page: "Ligand pathway profiles (\u0394log(Emax/EC50))"
+    Section: Biased ligands (transducer family)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://biasedsignalingatlas.org/biased_signalling/tau_path_profiles_selection:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Biased Signaling Atlas
+    Page: "Ligand pathway profiles (\u0394log(Tau/KA))"
+    Section: Biased ligands (transducer family)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://biasedsignalingatlas.org/biased_signalling/subtype_coverage:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Biased Signaling Atlas
+    Page: Biased ligand coverage
+    Section: Biased ligands (transducer subtype)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://biasedsignalingatlas.org/biased_signalling/biasedsubtypesbrowser:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Biased Signaling Atlas
+    Page: "Biased ligands (subtype \u2206\u2206log(Emax/EC50) & \u2206\u2206log(Tau/KA)"
+    Section: Biased ligands (transducer subtype)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://biasedsignalingatlas.org/biased_signalling/subtype_emax_rank_order_selection:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Biased Signaling Atlas
+    Page: "Ligand bias rank orders (\u0394\u0394log(Emax/EC50))"
+    Section: Biased ligands (transducer subtype)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://biasedsignalingatlas.org/biased_signalling/subtype_tau_rank_order_selection:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Biased Signaling Atlas
+    Page: "Ligand bias rank orders (\u0394\u0394log(Tau/KA))"
+    Section: Biased ligands (transducer subtype)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://biasedsignalingatlas.org/biased_signalling/subtype_emax_path_profiles_selection:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Biased Signaling Atlas
+    Page: "Ligand pathway profiles (\u0394log(Emax/EC50))"
+    Section: Biased ligands (transducer subtype)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://biasedsignalingatlas.org/biased_signalling/subtype_tau_path_profiles_selection:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Biased Signaling Atlas
+    Page: "Ligand pathway profiles (\u0394log(Tau/KA))"
+    Section: Biased ligands (transducer subtype)
+    Title: coming publication
+    Video: ''
+    Year: ''
+https://biasedsignalingatlas.org/biased_signalling/path_preference_coverage:
+    DOI: ''
+    Default: 0
+    Journal: ''
+    Menu: Biased Signaling Atlas
     Page: Pathway-preffering ligand coverage
     Section: Pathway-preferring ligands (transducer family)
     Title: coming publication
     Video: ''
     Year: ''
-https://gpcrdb.org/biased_signalling/pathwaypreferencebrowser:
+https://biasedsignalingatlas.org/biased_signalling/pathwaypreferencebrowser:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: LigandBiasDb
+    Menu: Biased Signaling Atlas
     Page: "Pathway-preferring ligands (pathway \u2206Log/(Emax/EC50)"
     Section: Pathway-preferring ligands (transducer family)
     Title: coming publication
     Video: ''
     Year: ''
-https://gpcrdb.org/biased_signalling/path_preference_emax_rankorder_selection:
+https://biasedsignalingatlas.org/biased_signalling/path_preference_emax_rankorder_selection:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: LigandBiasDb
+    Menu: Biased Signaling Atlas
     Page: "Ligand pathway preference rank orders (\u0394log(Emax/EC50))"
     Section: Pathway-preferring ligands (transducer family)
     Title: coming publication
     Video: ''
     Year: ''
-https://gpcrdb.org/biased_signalling/path_preference_emax_path_profiles_selection:
+https://biasedsignalingatlas.org/biased_signalling/path_preference_emax_path_profiles_selection:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: LigandBiasDb
+    Menu: Biased Signaling Atlas
     Page: Ligand pathway profiles (Log(Emax/EC50))
     Section: Pathway-preferring ligands (transducer family)
     Title: coming publication
     Video: ''
     Year: ''
-https://gpcrdb.org/ligand/biasedpathways:
+https://biasedsignalingatlas.org/biased_signalling/biasedpathways:
     DOI: ''
     Default: 0
     Journal: ''
-    Menu: LigandBiasDb
+    Menu: Biased Signaling Atlas
     Page: Pathway effects
     Section: Pathways
     Title: coming publication

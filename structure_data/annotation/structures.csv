@@ -1,4 +1,4 @@
-PDB	Receptor_UniProt	Resolution	Method	State	ChainID	Note
+PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note
 1F88	opsd_bovin	X-ray	2.8	Inactive	A	
 1HZX	opsd_bovin	X-ray	2.8	Inactive	A	
 1L9H	opsd_bovin	X-ray	2.6	Inactive	A	
@@ -787,3 +787,8 @@ PDB	Receptor_UniProt	Resolution	Method	State	ChainID	Note
 7SF8	agrg1_human	cryo-EM	2.7	Active	A	
 7WUJ	agrg4_human	cryo-EM	3.3	Active	E	
 7EJX	gpr88_human	cryo-EM	2.4	Active	R	
+7XT8	5ht4r_human	cryo-EM	3.1	Active	R	
+7UM4	5ht5a_human	X-ray	2.8	Inactive	A	
+7UM5	5ht5a_human	cryo-EM	2.73	Active	A	
+7XTB	5ht6r_human	cryo-EM	3.3	Active	R	
+7XTC	5ht7r_human	cryo-EM	3.2	Active	R	

@@ -44,7 +44,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 3PXO		RET	638015.0	Agonist	Retinal (all-trans)	Small molecule
 3QAK		UKA	9833519.0	Agonist	UK-432097	Small molecule
 2X72		RET	638015.0	Agonist	Retinal (all-trans)	Small molecule
-2Y01		Y00	65082.0	Agonist (partial)	Dobutamine	Small molecule
+2Y01		Y00	667531.0	Agonist (partial)	Dobutamine	Small molecule
 2YDO		ADN	60961.0	Agonist	Adenosine	Small molecule
 2YDV		NEC	448222.0	Agonist	NECA	Small molecule
 2YCW		CAU	13023332.0	Antagonist	(S)-Carazolol	Small molecule
@@ -839,3 +839,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7SF8		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7WUJ		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7EJX		J5F	58466521.0	Agonist	(1R,2R)-N-[(2S,3S)-2-azanyl-3-methyl-pentyl]-N-[4-(4-propylphenyl)phenyl]-2-pyridin-2-yl-cyclopropane-1-carboxamide	Small molecule
+7XT8		SRO	5202.0	Agonist	Serotonin	Small molecule
+7UM4		NN6	60152964.0	Antagonist	N-(diaminomethylidene)-5-fluoro-8-(2,4,6-trifluorophenyl)-3,4-dihydroisoquinoline-2(1H)-carboxamide	Small molecule
+7UM5		8K3	1809.0	Agonist	5-Carboxamidotryptamine	Small molecule
+7XTB		SRO	5202.0	Agonist	Serotonin	Small molecule
+7XTC		8K3	1809.0	Agonist	5-Carboxamidotryptamine	Small molecule

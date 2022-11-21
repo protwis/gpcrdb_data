@@ -315,9 +315,9 @@
     '5.46': A
 5ht5a_human:
     UniProt: 5ht5a_human
-    Xtal Templ: 5ht1a_human
+    Xtal Templ: 5ht5a_human
     Cl: A
-    Xtalised: NoXtal
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: 2x551
