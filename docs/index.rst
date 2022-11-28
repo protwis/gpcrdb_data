@@ -48,6 +48,14 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
                                       :target: https://www.youtube.com/watch?v=xeeUREA0OlY
 .. |Endogenous browser Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
                                       :target: https://www.youtube.com/watch?v=q-kK7aAuDq0
+.. |Structures Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
+                      :target: https://www.youtube.com/watch?v=zPaCAdOTiaQ
+.. |Structure coverage Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
+                              :target: https://www.youtube.com/watch?v=tLIHn-91iS0
+.. |Structure model validation Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
+                                      :target: https://www.youtube.com/watch?v=mwqG-wzEzr4
+.. |Structure models Video| image:: https://justbewell.info/wp-content/uploads/2020/02/yt.png
+                             :target: https://www.youtube.com/watch?v=UyUBiqcgXRY
 
 
 .. _Sequence alignments: https://docs.gpcrdb.org/sequences.html#structure-based-alignments
@@ -74,6 +82,7 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
 .. _Mutations: https://docs.gpcrdb.org/mutations.html#mutation-browser
 .. _Mutation design tool: https://docs.gpcrdb.org/mutations.html#mutation-browser
 .. _Mutation data submission: https://docs.gpcrdb.org/mutations.html#mutation-data-submission
+
 
 .. |br| raw:: html
 
@@ -103,10 +112,10 @@ along links to specific documentation pages, associated slides and video demonst
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "`Structure coverage`_", "-", "-", "-", "`Isberg et al. NAR 2016`_", "Overview of the structure information |br| available in GPCRdb. Data is shown using |br| detailed inforgraphics and plots."
-   "`Structures`_", "-", "-", "-", "`Isberg et al. NAR 2014`_ |br| `Kooistra et al. NAR 2021`_", "Browser page listing detailed information |br| for all the structures present in GPCRdb."
-   "`Structure models`_", "-", "-", "-", "`Pándy-Szekeres et al. NAR 2023`_", "Browser page listing all the AlphaFold |br| generated homology models present in GPCRdb, |br| with their original associate template. "
-   "Structure model validation", "-", "-", "-", "`Kooistra et al. NAR 2021`_ |br| `Pándy-Szekeres et al. NAR 2023`_", "Browser page listing the RMSD values |br| comparing the latest model before a structure of the |br| same receptor in the same state was published."
+   "`Structure coverage`_", "-", "-", "|Structure coverage Video|", "`Isberg et al. NAR 2016`_", "Overview of the structure information |br| available in GPCRdb. Data is shown using |br| detailed inforgraphics and plots."
+   "`Structures`_", "-", "-", "|Structures Video|", "`Isberg et al. NAR 2014`_ |br| `Kooistra et al. NAR 2021`_", "Browser page listing detailed information |br| for all the structures present in GPCRdb."
+   "`Structure models`_", "-", "-", "|Structure models Video|", "`Pándy-Szekeres et al. NAR 2023`_", "Browser page listing all the AlphaFold |br| generated homology models present in GPCRdb, |br| with their original associate template. "
+   "Structure model validation", "-", "-", "|Structure model validation Video|", "`Kooistra et al. NAR 2021`_ |br| `Pándy-Szekeres et al. NAR 2023`_", "Browser page listing the RMSD values |br| comparing the latest model before a structure of the |br| same receptor in the same state was published."
 
 .. csv-table:: **STRUCTURE ANALYSIS**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
