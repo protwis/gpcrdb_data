@@ -88,10 +88,6 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
 
      <br>
 
-Below, a table overview of all the different pages and functionalities in GPCRdb grouped by sections,
-along links to specific documentation pages, associated slides and video demonstrations.
-
-
 .. csv-table:: **SEQUENCES**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
