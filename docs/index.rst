@@ -82,6 +82,9 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
 .. _Mutations: https://docs.gpcrdb.org/mutations.html#mutation-browser
 .. _Mutation design tool: https://docs.gpcrdb.org/mutations.html#mutation-browser
 .. _Mutation data submission: https://docs.gpcrdb.org/mutations.html#mutation-data-submission
+.. _Endogenous ligands: https://docs.gpcrdb.org/mutations.html#endogenous-ligand-browser
+.. _Ligand coverage: https://docs.gpcrdb.org/mutations.html#ligand-coverage
+.. _Ligands: https://docs.gpcrdb.org/mutations.html#ligands
 
 
 .. |br| raw:: html
@@ -141,14 +144,14 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "Ligand coverage", "-", "-", "|Ligand coverage Video|", "`Pándy-Szekeres et al. NAR 2018`_", "Overview of the ligands information available in GPCRdb. |br| Data is shown using detailed inforgraphics and plots."
-   "Ligands (ChEMBL, GtP, Ki db)", "-", "-", "|Ligand search Video|", "`Pándy-Szekeres et al. NAR 2018`_ |br| `Pándy-Szekeres et al. NAR 2023`_", "Section allowing the search for ligands associated |br| to a specific receptor or using ligand name, database ID |br| or chemical information (SMILES or Inchikey)."
+   "`Ligand coverage`_", "-", "-", "|Ligand coverage Video|", "`Pándy-Szekeres et al. NAR 2018`_", "Overview of the ligands information available in GPCRdb. |br| Data is shown using detailed inforgraphics and plots."
+   "`Ligands`_", "-", "-", "|Ligand search Video|", "`Pándy-Szekeres et al. NAR 2018`_ |br| `Pándy-Szekeres et al. NAR 2023`_", "Section allowing the search for ligands associated |br| to a specific receptor or using ligand name, database ID |br| or chemical information (SMILES or Inchikey)."
 
 .. csv-table:: **ENDOGENOUS LIGANDS**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "Endogenous ligands (GtP)" , "-", "-", "|Endogenous browser Video|", "`Pándy-Szekeres et al. NAR 2023`_", "Browser page listing detailed information for endogenous |br| ligands present in GPCRdb. Data are derived and maintained by |br| Guide to Pharmacology."
+   "`Endogenous ligands`_" , "-", "-", "|Endogenous browser Video|", "`Pándy-Szekeres et al. NAR 2023`_", "Browser page listing detailed information for endogenous |br| ligands present in GPCRdb. Data are derived and maintained by |br| Guide to Pharmacology."
 
 .. csv-table:: **DRUGS & AGENTS IN TRIAL**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
@@ -188,6 +191,7 @@ The documentation is organised into three sections:
     :caption: User documentation
 
     receptors
+    ligands
     signalproteins
     sequences
     sequence_signature
