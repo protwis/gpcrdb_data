@@ -16,9 +16,9 @@ are the ones which have the most GPCRdb generic numbered positions present in th
 Refined structures
 ------------------
 
-GPCRdb provides regularly updated refined structures where missing segments are modeled using the GPCRdb homology modeling 
-pipeline (`Pándy-Szekeres et al. 2018`_). This entails modeling missing segments (helix ends, loops, H8), reverting 
-mutations to wild type and remodeling distorted regions based on our in-house manual structure curation. The refined 
+GPCRdb provides regularly updated refined structures where missing segments are modeled using the GPCRdb homology modeling
+pipeline (`Pándy-Szekeres et al. 2018`_). This entails modeling missing segments (helix ends, loops, H8), reverting
+mutations to wild type and remodeling distorted regions based on our in-house manual structure curation. The refined
 structures are available on the Structures (`gpcrdb.org/structure`_) and Structure models pages (`gpcrdb.org/structure/homology_models`_).
 
 .. _Pándy-Szekeres et al. 2018: https://doi.org/10.1093/NAR/GKX1109
@@ -40,34 +40,34 @@ Structure models
 
 With every database update GPCRdb builds a homology model repository containing models for every human GPCR in three
 different activation states (inactive, intermediate, active). Class T is based on class A and class B2 is based on class B1.
-The models are created based on the GPCRdb homology modeling pipeline (`Pándy-Szekeres et al. 2018`_) that utilizes an 
-automated chimeric modeling approach. For every model a single main template is selected and atomic coordinates from 
-alternative local templates are swapped-in for sections of the model where either the main template is missing coordinates 
+The models are created based on the GPCRdb homology modeling pipeline (`Pándy-Szekeres et al. 2018`_) that utilizes an
+automated chimeric modeling approach. For every model a single main template is selected and atomic coordinates from
+alternative local templates are swapped-in for sections of the model where either the main template is missing coordinates
 or the algorithm predicts a better template based on multiple criteria. These affect helix ends, loops, H8 and structural
 anomalies like bulges and constrictions. Furthermore, an in-house rotamer library is applied for side-chains where there
-is a mismatch between the modeled receptor and the template. The newest version of the homology models can be found on 
-the Structure models page (`gpcrdb.org/structure/homology_models`_) where users can download the older versions as well 
+is a mismatch between the modeled receptor and the template. The newest version of the homology models can be found on
+the Structure models page (`gpcrdb.org/structure/homology_models`_) where users can download the older versions as well
 from the Archive.
 
 .. _Pándy-Szekeres et al. 2018: https://doi.org/10.1093/NAR/GKX1109
 .. _gpcrdb.org/structure/homology_models: https://gpcrdb.org/structure/homology_models
 
-Structure model statistics
+Structure model validation
 --------------------------
 
 To assess GPCRdb homology models we provide root-mean-square deviation (RMSD) calculations between the first published
-experimental structure of a receptor and the latest GPCRdb model before that publish date. The model is in the same 
-activation state as the experimental structure. After a structure is released, manually annotated structural data is 
-added to GPCRdb with the next release. In some cases, there is a delay between the manual annotation and the release 
-of the structure; therefore, some model versions can have a later date than the publication date of the modeled 
+experimental structure of a receptor and the latest GPCRdb model before that publish date. The model is in the same
+activation state as the experimental structure. After a structure is released, manually annotated structural data is
+added to GPCRdb with the next release. In some cases, there is a delay between the manual annotation and the release
+of the structure; therefore, some model versions can have a later date than the publication date of the modeled
 structure; however, these do not contain any information from the modeled structure.
 
 For such structural comparisons the superpositioning method is key. The GPCRdb RMSD calculation workflow employs a
-sequence-dependent comparison where atoms that are missing from either the structure or the model are excluded and only 
+sequence-dependent comparison where atoms that are missing from either the structure or the model are excluded and only
 the 7-transmembrane (7TM) backbone atoms (N, CA, C) determined by GPCRdb sequence alignments are used for the superpositioning.
-All RMSD calculations, which are also sequence-dependent, are carried out from this superpositioned state. For loop segment 
-RMSD scores this makes it possible to factor in not only the structural characteristics of the loop but also its position 
-relative to the 7TM bundle. Futhermore, different properties of the models can be assessed based on which atoms we select for 
+All RMSD calculations, which are also sequence-dependent, are carried out from this superpositioned state. For loop segment
+RMSD scores, this makes it possible to factor in not only the structural characteristics of the loop but also its position
+relative to the 7TM bundle. Furthermore, different properties of the models can be assessed based on which atoms we select for
 the RMSD calculations. The RMSD calculations themselves were done with the following python code:
 
 .. highlight:: python
@@ -75,7 +75,7 @@ the RMSD calculations. The RMSD calculations themselves were done with the follo
 
    round(np.sqrt(sum(sum((array1[1:]-array2[1:])**2))/array1[1:].shape[0]),1)
 
-where array1 and array2 are numpy arrays with atomic coordinates from structure and model respectively. 
+where array1 and array2 are numpy arrays with atomic coordinates from structure and model respectively.
 
 RMSD categories currently available for GPCRdb models:
 
@@ -89,13 +89,6 @@ RMSD categories currently available for GPCRdb models:
 - ICL2: Intracellular loop 2 backbone atoms
 - ECL2: Extracellular loop 2 backbone atoms
 - ECL3: Extracellular loop 3 backbone atoms
-
-Parts of these results were published in `Kooistra et al. 2020`_; however some values in the table online differ from values 
-published in the paper due to the inclusion of `RosettaGPCR`_ models in the latter case. The differences arise from some
-missing atoms in the added models which lead to different superpositionings and different atoms included for RMSD calculations.
-
-.. _Kooistra et al. 2020: https://doi.org/10.1093/nar/gkaa1080
-.. _RosettaGPCR: http://www.meilerlab.org/index.php/gpcrmodeldb
 
 Structure descriptors
 ----------------------

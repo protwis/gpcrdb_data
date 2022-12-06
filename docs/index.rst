@@ -82,9 +82,10 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
 .. _Mutations: https://docs.gpcrdb.org/mutations.html#mutation-browser
 .. _Mutation design tool: https://docs.gpcrdb.org/mutations.html#mutation-browser
 .. _Mutation data submission: https://docs.gpcrdb.org/mutations.html#mutation-data-submission
-.. _Endogenous ligands: https://docs.gpcrdb.org/mutations.html#endogenous-ligand-browser
-.. _Ligand coverage: https://docs.gpcrdb.org/mutations.html#ligand-coverage
-.. _Ligands: https://docs.gpcrdb.org/mutations.html#ligands
+.. _Endogenous ligands: https://docs.gpcrdb.org/ligands.html#endogenous-ligand-browser
+.. _Ligand coverage: https://docs.gpcrdb.org/ligands.html#ligand-coverage
+.. _Ligands: https://docs.gpcrdb.org/ligands.html#ligands
+.. _Structure model validation: https://docs.gpcrdb.org/structures.html#structure-model-validation
 
 
 .. |br| raw:: html
@@ -114,7 +115,7 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
    "`Structure coverage`_", "-", "-", "|Structure coverage Video|", "`Isberg et al. NAR 2016`_", "Overview of the structure information |br| available in GPCRdb. Data is shown using |br| detailed inforgraphics and plots."
    "`Structures`_", "-", "-", "|Structures Video|", "`Isberg et al. NAR 2014`_ |br| `Kooistra et al. NAR 2021`_", "Browser page listing detailed information |br| for all the structures present in GPCRdb."
    "`Structure models`_", "-", "-", "|Structure models Video|", "`Pándy-Szekeres et al. NAR 2023`_", "Browser page listing all the AlphaFold |br| generated homology models present in GPCRdb, |br| with their original associate template. "
-   "Structure model validation", "-", "-", "|Structure model validation Video|", "`Kooistra et al. NAR 2021`_ |br| `Pándy-Szekeres et al. NAR 2023`_", "Browser page listing the RMSD values |br| comparing the latest model before a structure of the |br| same receptor in the same state was published."
+   "`Structure model validation`_", "-", "-", "|Structure model validation Video|", "`Kooistra et al. NAR 2021`_ |br| `Pándy-Szekeres et al. NAR 2023`_", "Browser page listing the RMSD values |br| comparing the latest model before a structure of the |br| same receptor in the same state was published."
 
 .. csv-table:: **STRUCTURE ANALYSIS**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
