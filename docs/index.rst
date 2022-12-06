@@ -96,10 +96,10 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "`Sequence alignments`_", "-", "-", "|Sequence alignment Video|", "`Isberg et al. NAR 2016`_ |br| `Kooistra et al. NAR 2021`_", "Provides sequence alignments analyses of receptors."
+   "`Sequence alignments`_", "-", "-", "|Sequence alignment Video|", "`Isberg et al. NAR 2016`_ |br| `Kooistra et al. NAR 2021`_", "Provides sequence alignment analyses of receptors."
    "`Generic residue number tables`_", "-", "-", "-", "`Isberg et al. TiPS 2015`_", "Displays the generic residue number tables |br| for the single or set of receptors selected."
-   "`Genetic variants`_", "-", "-", "-", "`Hauser et al. Cell 2018`_", "Section showing the variation coverage, |br| single receptor variants and the estimated |br| economic burden for drugs targeting GPCRs"
-   "Isoforms", "-", "-", "-", "`Marti-Solano et al. Nature 2020`_", "Info page highlighting the number |br| of unique isoforms detected for |br| each receptor gene"
+   "`Genetic variants`_", "-", "-", "-", "`Hauser et al. Cell 2018`_", "Section showing the variation coverage, |br| single receptor variants and the estimated |br| economic burden for drugs targeting GPCRs."
+   "Isoforms", "-", "-", "-", "`Marti-Solano et al. Nature 2020`_", "Info page highlighting the number |br| of unique isoforms detected for |br| each receptor gene."
 
 .. csv-table:: **SEQUENCE ANALYSIS**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
@@ -114,31 +114,31 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
 
    "`Structure coverage`_", "-", "-", "|Structure coverage Video|", "`Isberg et al. NAR 2016`_", "Overview of the structure information |br| available in GPCRdb. Data is shown using |br| detailed inforgraphics and plots."
    "`Structures`_", "-", "-", "|Structures Video|", "`Isberg et al. NAR 2014`_ |br| `Kooistra et al. NAR 2021`_", "Browser page listing detailed information |br| for all the structures present in GPCRdb."
-   "`Structure models`_", "-", "-", "|Structure models Video|", "`Pándy-Szekeres et al. NAR 2023`_", "Browser page listing all the AlphaFold |br| generated homology models present in GPCRdb, |br| with their original associate template. "
+   "`Structure models`_", "-", "-", "|Structure models Video|", "`Pándy-Szekeres et al. NAR 2023`_", "Browser page listing all the AlphaFold-Multistate |br| generated homology models and refined structures |br| present in GPCRdb. "
    "`Structure model validation`_", "-", "-", "|Structure model validation Video|", "`Kooistra et al. NAR 2021`_ |br| `Pándy-Szekeres et al. NAR 2023`_", "Browser page listing the RMSD values |br| comparing the latest model before a structure of the |br| same receptor in the same state was published."
 
 .. csv-table:: **STRUCTURE ANALYSIS**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "`Structure comparison tool`_", "-", "-", "|Structure comparison tool Video|", "`Kooistra et al. Nat. Struct. Mol. Biol 2021`_", "Interactive tool for investigation of single structures |br| or comparison of sets of structures. The tool allow |br| for more than 20 different plot representations |br| and lists available contact position pairs. "
+   "`Structure comparison tool`_", "-", "-", "|Structure comparison tool Video|", "`Kooistra et al. Nat. Struct. Mol. Biol 2021`_", "Interactive tool for investigation of single structures |br| or comparison of sets of structures. The tool allows |br| for more than 20 different plot representations |br| and lists available contact position pairs. "
    "`Structure similarity trees`_", "-", "-", "|Structure similarity trees Video|", "`Kooistra et al. Nat. Struct. Mol. Biol 2021`_", "Interactive tool showcasing the similarity trees |br| of selected set of receptors. Generated trees can be |br| further graphically tweaked and downloaded |br| in high resolution format. "
-   "`Structure superposition`_", "-", "-", "-", "`Isberg et al. NAR 2016`_", "Functionality designed for the superimposition of user |br| defined structures (reference and test), allowing |br| analysis for full structures or segment based."
-   "`Generic residue numbering (PDB)`_", "-", "-", "-", "`Isberg et al. NAR 2016`_ |br| `Isberg et al. TiPS 2015`_", "Functionality for the annotation using generic numbers |br| from GPCRdb of user uploaded PDB files."
+   "`Structure superposition`_", "-", "-", "-", "`Isberg et al. NAR 2016`_", "Functionality designed for the superpositioning of user |br| defined structures (reference and test), allowing |br| segment based selection."
+   "`Generic residue numbering (PDB)`_", "-", "-", "-", "`Isberg et al. NAR 2016`_ |br| `Isberg et al. TiPS 2015`_", "GPCRdb generic number annotation |br| of user uploaded PDB files where numbers |br| get deposited in the B-factor column."
 
 .. csv-table:: **STRUCTURE CONSTRUCTS**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "`Construct/Experiment design`_", "-", "-", "-", "`Munk et al. Nat. Methods 2019`_", "Section for the design and alignment of experimental constructs, |br| and associated browser page listing experiments walkthrough."
-   "`Truncation/Fusion analysis`_", "-", "-", "-", "`Munk et al. Nat. Methods 2019`_", "Section with pages showing information about truncation sites, |br| fusion sites and deletion loops across the available GPCRdb data."
+   "`Construct/Experiment design`_", "-", "-", "-", "`Munk et al. Nat. Methods 2019`_", "Section for the design and alignment of experimental constructs |br| and associated browser page listing experiments walkthrough."
+   "`Truncation/Fusion analysis`_", "-", "-", "-", "`Munk et al. Nat. Methods 2019`_", "Section with pages showing information about truncation sites |br| fusion sites and deletion loops across the available GPCRdb data."
    "`Mutation analysis`_", "-", "-", "-", "`Munk et al. Nat. Methods 2019`_", "Section with mutations oriented browsers, |br| listing stabilizing mutations, substitution matrix |br| and a dedicated stabilising mutation analyser."
 
 .. csv-table:: **DETERMINANTS & MUTATIONS**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "`Sequence signature tool`_", "-", "-", "-", "`Kooistra et al. NAR 2021`_", "Interactive tool for the investigation of |br| sequence signature across two different user defined |br| set of receptors.""
+   "`Sequence signature tool`_", "-", "-", "-", "`Kooistra et al. NAR 2021`_", "Interactive tool for the investigation of |br| sequence signature across two different user defined |br| set of receptors."
    "State stabilizing mutation design", "-", "-", "-", "`Kooistra et al. Nat. Struct. Mol. Biol 2021`_", "Browser page listing detailed state stabilising |br| mutation information for each receptor present in GPCRdb."
 
 .. csv-table:: **LIGANDS & BIOACTIVITIES**
@@ -152,13 +152,13 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "`Endogenous ligands`_" , "-", "-", "|Endogenous browser Video|", "`Pándy-Szekeres et al. NAR 2023`_", "Browser page listing detailed information for endogenous |br| ligands present in GPCRdb. Data are derived and maintained by |br| Guide to Pharmacology."
+   "`Endogenous ligands`_", "-", "-", "|Endogenous browser Video|", "`Pándy-Szekeres et al. NAR 2023`_", "Browser page listing detailed information for endogenous |br| ligands present in GPCRdb. Data are derived and maintained by |br| Guide to Pharmacology."
 
 .. csv-table:: **DRUGS & AGENTS IN TRIAL**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
-   "`Drugs targets and indicators`_", "-", "-", "-", "`Hauser et al. Nat. Rev. Drug Discov 2017`_", "Browser page listing information about drugs, |br| their targets of action, therapeutic indication and |br| clinical status, with associated references."
+   "`Drugs targets and indicators`_", "-", "-", "-", "`Hauser et al. Nat. Rev. Drug Discov 2017`_", "Browser page listing information about drugs, |br| their targets of action, therapeutic indication and |br| clinical status with associated references."
    "`Drug target tree`_", "-", "-", "-", "`Hauser et al. Nat. Rev. Drug Discov 2017`_", "Interactive infographic tree showing drug data |br| information on established or under clinical trials |br| GPCR targets."
    "`Drug statistics`_", "-", "-", "-", "`Hauser et al. Nat. Rev. Drug Discov 2017`_", "Overview of the GPCR class as drug target, |br| with focus on receptor family targets, drug molecule types, |br| mode of action and disease indications."
 
@@ -167,14 +167,14 @@ Below, a table overview of all the different pages and functionalities in GPCRdb
    :widths: 25 25 25 25 25 25
 
    "`GPCR-ligand interactions`_", "-", "-", "-", "`Isberg et al. NAR 2016`_ |br| `Munk et al. COPHAR 2016`_", "Functionality showing the protein-ligand interactions |br| for the available PDB structures in GPCRdb using graphical |br| representation and 3D visualization tools."
-   "`Site search`_", "-", "-", "-", "`Isberg et al. NAR 2016`_", "Section designed for the investigation of protein-ligand |br| interactions of set of receptors, either using sequence motifs |br| or ligand complex though a user defined PDB file."
+   "`Site search`_", "-", "-", "-", "`Isberg et al. NAR 2016`_", "Section designed for the investigation of protein-ligand |br| interactions of set of receptors, either using sequence motifs |br| or ligand complex through a user defined PDB file."
 
 .. csv-table:: **LIGAND SITE MUTATIONS**
    :header:  "Page name", "Video", "Slides", "Demo", "Reference", "Short description"
    :widths: 25 25 25 25 25 25
 
    "`Mutation coverage`_", "-", "-", "-", "`Munk et al. COPHAR 2016`_", "Overview of the mutations information available in GPCRdb. |br| Data is shown using detailed inforgraphics."
-   "`Mutations`_", "-", "-", "|Mutations Video|", "`Munk et al. COPHAR 2016`_",  "Browser page listing mutations for user selected receptors |br| and protein segments. Result tables also provides information about |br| ligand affinity for the mutation (FoldChange) if available."
+   "`Mutations`_", "-", "-", "|Mutations Video|", "`Munk et al. COPHAR 2016`_",  "Browser page listing mutations for user selected receptors |br| and protein segments. Result table also provides information about |br| ligand affinity for the mutation (FoldChange) if available."
    "`Mutation design tool`_", "-", "-", "-", "`Munk et al. COPHAR 2016`_", "Section with mutation design tool based either |br| on a PDB code or receptor name. Result page lists suggested mutations |br| with associated structure interactions, supporting ligands, |br| receptors and mutagenesis experiments."
    "`Mutation data submission`_", "-", "-", "-", "`Munk et al. COPHAR 2016`_", "Description to the mutation data submission form |br| and guidelines on how to submit your experimental data to GPCRdb."
 

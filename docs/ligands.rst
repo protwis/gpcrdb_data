@@ -6,8 +6,8 @@ Ligands & Bioactivities
 Ligand coverage
 ---------------
 
-The ligand coverage page is designed to showcase the ligand data present in GPCRdb through a fast visualization trees
-able to convey the message in a timely fashion. In this page,you will find:
+The ligand coverage page is designed to showcase the ligand data present in GPCRdb through a fast visualization tree
+able to convey the message in a timely fashion. In this page you will find:
 
 1.  A table at the top, listing the number of unique ligands per receptor class, divided by each class (family).
     Moreover, the table lists also the average number of ligands per GPCR in each class and the total count.
@@ -19,7 +19,7 @@ able to convey the message in a timely fashion. In this page,you will find:
 
 Phylogenetic trees be default will show the UniProt name of the different GPCRs, but through a dedicated selection
 button users can decide to show the IUPHAR names of those GPCRs. Trees can also be downloaded in several different
-formats (SVG, JPG, TIFF and PNG), allowing for high level pictures for publication purposes.
+formats (SVG, JPG, TIFF and PNG), allowing for high resolution figures for publication purposes.
 
 Ligands (ChEMBL, GtP, Ki db)
 ------------------
@@ -49,7 +49,7 @@ Ligand query
 
 In the ligand query page you will be able to input either the ligand name, ligand ID (from either database of origin, being
 it GPCRdb itself, Guide to Pharmacology, ChEMBL or the PDSP KiDatabase), or structure information (being it SMILES
-or Inchikey) in the search textbox comprehensive of autofill. A dropdwon menu will list the available ligands adhering
+or Inchikey) in the search textbox equipped with autofill. A dropdown menu will list the available ligands adhering
 to the provided input. By clicking on the selected ligand name users will be redirected to that specific
 ligand info page.
 
