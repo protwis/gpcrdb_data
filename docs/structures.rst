@@ -16,14 +16,21 @@ are the ones which have the most GPCRdb generic numbered positions present in th
 Refined structures
 ------------------
 
-GPCRdb provides regularly updated refined structures where missing segments are modeled using the GPCRdb homology modeling
-pipeline (`Pándy-Szekeres et al. 2018`_). This entails modeling missing segments (helix ends, loops, H8), reverting
-mutations to wild type and remodeling distorted regions based on our in-house manual structure curation. The refined
-structures are available on the Structures (`gpcrdb.org/structure`_) and Structure models pages (`gpcrdb.org/structure/homology_models`_).
+GPCRdb provides regularly updated refined structures where missing segments are modeled in and mutations are reverted
+back to wild type. For structures where there is no G protein present, missing coordinates are modelled in from our
+activation state specific AlphaFold-Multistate models (`Pándy-Szekeres et al. 2022`_). For structures where a GPCR is
+in complex with a G protein, the automated chimeric GPCRdb homology modeling pipeline is used (`Pándy-Szekeres et al. 2018`_).
+This entails modeling in missing segments (helix ends, loops, H8), reverting mutations to wild type and remodeling distorted
+regions based on our in-house manual structure curation with the use of alternative structural templates. All refined
+structures are available on the Structures page (`gpcrdb.org/structure`_), just GPCR refined structures are also on the
+Structure models pages (`gpcrdb.org/structure/homology_models`_) and just GPCR-G protein complex refined structures are
+also on the GProteinDb Structure models page (`gproteindb.org/structure/complex_models`_).
 
+.. _Pándy-Szekeres et al. 2022: https://doi.org/10.1093/nar/gkac1013
 .. _Pándy-Szekeres et al. 2018: https://doi.org/10.1093/NAR/GKX1109
 .. _gpcrdb.org/structure: https://gpcrdb.org/structure
 .. _gpcrdb.org/structure/homology_models: https://gpcrdb.org/structure/homology_models
+.. _gproteindb.org/structure/complex_models: https://gproteindb.org/structure/complex_models
 
 Structure statistics
 --------------------
