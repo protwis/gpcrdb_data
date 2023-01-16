@@ -44,7 +44,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 3PXO		RET	638015.0	Agonist	Retinal (all-trans)	Small molecule
 3QAK		UKA	9833519.0	Agonist	UK-432097	Small molecule
 2X72		RET	638015.0	Agonist	Retinal (all-trans)	Small molecule
-2Y01		Y00	667531.0	Agonist (partial)	Dobutamine	Small molecule
+2Y01		Y00	65082.0	Agonist (partial)	Dobutamine	Small molecule
 2YDO		ADN	60961.0	Agonist	Adenosine	Small molecule
 2YDV		NEC	448222.0	Agonist	NECA	Small molecule
 2YCW		CAU	13023332.0	Antagonist	(S)-Carazolol	Small molecule
@@ -839,8 +839,133 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7SF8		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7WUJ		apo	None	Apo (no ligand)	Apo (no ligand)	None
 7EJX		J5F	58466521.0	Agonist	(1R,2R)-N-[(2S,3S)-2-azanyl-3-methyl-pentyl]-N-[4-(4-propylphenyl)phenyl]-2-pyridin-2-yl-cyclopropane-1-carboxamide	Small molecule
-7XT8		SRO	5202.0	Agonist	Serotonin	Small molecule
+7S0G		5FW	443372.0	Agonist	Isoprenaline	Small molecule
+7S0F		5FW	443372.0	Agonist	Isoprenaline	Small molecule
+7W53	C	pep	155817413.0	Agonist	Neuromedin U-25 (human)	Peptide 
+7W55	C	pep	155817413.0	Agonist	Neuromedin U-25 (human)	Peptide 
+7W56	C	pep		Agonist	Neuromedin-S	Peptide 
+7W57	C	pep		Agonist	Neuromedin-S	Peptide 
+7EUO	C	pep		Agonist 	Peptide Agonist fMLF	Peptide
+7SQO		A6F	395151462.0	Agonist 	methyl (2R,3S)-3-[(methanesulfonyl)amino]-2-({[(1s,4S)-4-phenylcyclohexyl]oxy}methyl)piperidine-1-carboxylate	Small molecule 
+7V68		2CU	57664406.0	PAM	LY2119620	Small molecule 
+7V68		IXO	10104167.0	Agonist	Iperoxo	Small molecule 
+7V6A		5XI	9864275.0	Agonist	methyl 4-[4-(3-methyl-2-oxidanylidene-benzimidazol-1-yl)piperidin-1-yl]piperidine-1-carboxylate	Small molecule 
+7VQX	L	pep	16133238.0	Agonist	Pituitary adenylate cyclase activating polypeptide-27	Peptide 
+7WBJ	L	pep	16133238.0	Agonist	Pituitary adenylate cyclase activating polypeptide-27	Peptide 
+7X9A	P	pep	24868177.0	Agonist	Neuropeptide Y	Peptide 
+7X9B	P	pep	24868177.0	Agonist	Neuropeptide Y	Peptide 
+7X9C	P	pep	24868176.0	Agonist	Pancreatic polypeptide	Peptide 
+7XJH		5FW	443372.0	Agonist	Levisoprenaline	Small molecule 
+7XJI		EI5	67469417.0	Agonist	3-[3-[2-[[(2~{S})-2-(3-chlorophenyl)-2-oxidanyl-ethyl]amino]ethylamino]phenyl]benzoic acid	Small molecule 
+7F6H	L	pep	439201.0	Agonist 	Bradykinin	Peptide 
+7F6I	L	pep	5311111.0	Agonist	Kallidin	Peptide 
+7S15		82L	134611223.0	Agonist 	2-[(4-{6-[(2,4-difluorophenyl)methoxy]pyridin-2-yl}piperidin-1-yl)methyl]-1-[(1-ethyl-1H-imidazol-5-yl)methyl]-1H-benzimidazole-6-carboxylic acid	Small molecule 
+7SR8		A6F	395151462.0	Agonist 	methyl (2R,3S)-3-[(methanesulfonyl)amino]-2-({[(1s,4S)-4-phenylcyclohexyl]oxy}methyl)piperidine-1-carboxylate	Small molecule 
+7WIC		pep	16129706.0	Agonist 	Somatostatin-14	Peptide 
+7WIG		9FI	9915239.0	Agonist 	~{N}-[(2~{R})-1-[[(1~{R},3~{S})-3-(aminomethyl)cyclohexyl]methylamino]-3-(1~{H}-indol-3-yl)-1-oxidanylidene-propan-2-yl]spiro[indene-1,4'-piperidine]-1'-carboxamide	Small molecule 
+7F0T		LDP	681.0	Agonist 	Dopamine 	Small molecule 
+7F1O		LDP	681.0	Agonist 	Dopamine 	Small molecule 
+7F1Z		LDP	681.0	Agonist 	Dopamine 	Small molecule 
+7F23		LDP	681.0	Agonist 	Dopamine 	Small molecule 
+7F24		LDP	681.0	Agonist 	Dopamine 	Small molecule 
+7X2C		G3C	12668023.0	Agonist 	Fenoldopam, (R)-	Small molecule 
+7X2D		86W	86764100.0	Agonist 	Tavapadon	Small molecule 
+7X2F		G4C	86290953.0	Agonist 	Mevidalen	Small molecule 
+7X2F		LDP	681.0	Agonist 	Dopamine 	Small molecule 
+7UL2		Q6Q	119192.0	Inverse agonist	Meclinertant	Small molecule 
+7UL3		FO9	3325.0	Antagonist	Famotidine	Small molecule 
+7XJK	A	pep	137699545.0	Agonist	Galanin, Human	Peptide 
+7XJL	A	pep	122705996.0	Agonist	Spexin	Peptide 
+7UL4		NG0	51397022.0	Antagonist	2-[[(2S)-2-benzyl-3-[(3R,4R)-4-(3-hydroxyphenyl)-3,4-dimethylpiperidin-1-ium-1-yl]propanoyl]amino]acetate	Small molecule 
+7WKD	C	pep	4968.0	Agonist	TRH	Peptide 
+7FEE		9GF	104895.0	Agonist	CP55940	Small molecule 
+7FEE		7IC	129407013.0	PAM	6-methyl-3-[(1S)-2-nitro-1-thiophen-2-yl-ethyl]-2-phenyl-1H-indole	Small molecule 
+7WV9		9GF	104895.0	Agonist	CP55940	Small molecule 
+7WV9		7IC	129407013.0	PAM	6-methyl-3-[(1S)-2-nitro-1-thiophen-2-yl-ethyl]-2-phenyl-1H-indole	Small molecule 
+7X8R		BYI	16186241.0	Agonist	2,4-bis(3-methoxy-4-thiophen-2-ylcarbonyloxy-phenyl)-1,3-bis[[4-[(2-methylpropan-2-yl)oxycarbonylamino]phenyl]carbonylamino]cyclobutane-1,3-dicarboxylic acid	Small molecule 
+7X8S		WB2	56945626.0	Agonist	2,4-bis(3-methoxy-4-thiophen-2-ylcarbonyloxy-phenyl)-1,3-bis[[4-(2-methylpropanoylamino)phenyl]carbonylamino]cyclobutane-1,3-dicarboxylic acid	Small molecule 
+7ZI0		V0S	402907865.0	Antagonist	3-chloro-N-[trans-4-(methylamino)cyclohexyl]-N-{[3-(pyridin-4-yl)phenyl]methyl}-1-benzothiophene-2-carboxamide	Small molecule 
+7RAN		3IQ	164575847.0	Agonist	3-[(3R)-3-methyl-1,2,3,6-tetrahydropyridin-1-ium-5-yl]-1H-pyrrolo[2,3-b]pyridine	Small molecule
+7XT8		SRO	5202.0	Agonist 	Serotonin	Small molecule
+7XT9		SRO	5202.0	Agonist 	Serotonin	Small molecule
+7XTA		SRO	5202.0	Agonist 	Serotonin	Small molecule
 7UM4		NN6	60152964.0	Antagonist	N-(diaminomethylidene)-5-fluoro-8-(2,4,6-trifluorophenyl)-3,4-dihydroisoquinoline-2(1H)-carboxamide	Small molecule
 7UM5		8K3	1809.0	Agonist	5-Carboxamidotryptamine	Small molecule
-7XTB		SRO	5202.0	Agonist	Serotonin	Small molecule
+7UM6		H8G	28864.0	Agonist	Lisuride	Small molecule
+7UM7		H8D	8226.0	Agonist	Methylergonovine	Small molecule
+7XTB		SRO	5202.0	Agonist 	Serotonin	Small molecule
 7XTC		8K3	1809.0	Agonist	5-Carboxamidotryptamine	Small molecule
+7SUS		8EH	122701908.0	Agonist	(1R,2S)-N-[4-(2,6-dimethoxyphenyl)-5-(6-methylpyridin-2-yl)-1,2,4-triazol-3-yl]-1-(5-methylpyrimidin-2-yl)-1-oxidanyl-propane-2-sulfonamide	Small molecule
+7W0L		8EH	122701908.0	Agonist	(1R,2S)-N-[4-(2,6-dimethoxyphenyl)-5-(6-methylpyridin-2-yl)-1,2,4-triazol-3-yl]-1-(5-methylpyrimidin-2-yl)-1-oxidanyl-propane-2-sulfonamide	Small molecule
+7W0M		8EH	122701908.0	Agonist	(1R,2S)-N-[4-(2,6-dimethoxyphenyl)-5-(6-methylpyridin-2-yl)-1,2,4-triazol-3-yl]-1-(5-methylpyrimidin-2-yl)-1-oxidanyl-propane-2-sulfonamide	Small molecule
+7W0N	D,E	pep	249565613.0	Agonist	apelin receptor early endogenous ligand	Peptide
+7W0O	D	pep	249565613.0	Agonist	apelin receptor early endogenous ligand	Peptide
+7W0P	D	pep	249565613.0	Agonist	apelin receptor early endogenous ligand	Peptide
+7XOU	L	pep	9833444.0	Agonist	Sincalide	Peptide
+7XOV		IA1	9852833.0	Agonist	SR146131	Small molecule
+7XOW	L	pep	16162108.0	Agonist	Gastrin-17	Peptide
+7XOX	L	pep	9833444.0	Agonist	Sincalide	Peptide
+7XBD	F	pep	137699545.0	Agonist	Galanin, Human	Peptide
+7WJ5	S	pep	16129706.0	Agonist	Somatostatin-14	Peptide
+7XBW		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7XBX	R	pep		Agonist	CX3CL1	Peptide
+7SK3	B	pep		Agonist	Stromal cell-derived factor 1	Peptide
+7SK4	B	pep		Agonist	Stromal cell-derived factor 1	Peptide
+7SK6	B	pep		Agonist	Stromal cell-derived factor 1	Peptide
+7SK5		pep		Agonist	Stromal cell-derived factor 1	Peptide
+7SK7		GJ9	164575505.0	Partial agonist	(1R)-4-[7-(3-carboxypropoxy)-6-methylquinolin-8-yl]-1-{[2-(4-hydroxypiperidin-1-yl)-1,3-thiazol-4-yl]methyl}-1,4-diazepan-1-ium	Small molecule 
+7SK7	B	pep		Agonist	Stromal cell-derived factor 1	Peptide
+7SK8	B	pep		Agonist	Stromal cell-derived factor 1	Peptide
+7SK8		GJ9	164575505.0	Partial agonist	(1R)-4-[7-(3-carboxypropoxy)-6-methylquinolin-8-yl]-1-{[2-(4-hydroxypiperidin-1-yl)-1,3-thiazol-4-yl]methyl}-1,4-diazepan-1-ium	Small molecule 
+7SK9		GJ9	164575505.0	Partial agonist	(1R)-4-[7-(3-carboxypropoxy)-6-methylquinolin-8-yl]-1-{[2-(4-hydroxypiperidin-1-yl)-1,3-thiazol-4-yl]methyl}-1,4-diazepan-1-ium	Small molecule 
+7XTQ		H8I	46195848.0	Agonist	[2-(2,5-Dichloro-phenoxy)-pyridin-3-yl]-(3,4-dihydro-2H-quinolin-1-yl)-methanone	Small molecule 
+7Y12		BAL	4755801.0	Agonist	BETA-ALANINE	Small molecule 
+7Y13		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7Y14		BAL	4755801.0	Agonist	BETA-ALANINE	Small molecule 
+7Y15		apo	None	Apo (no ligand)	Apo (no ligand)	None
+8DCR		Y00	667531.0	Agonist	(R)-Dobutamine	Small molecule 
+8DCS		P32	439573611.0	Agonist	4-{[(2S)-3-(tert-butylamino)-2-hydroxypropyl]oxy}-3H-indole-2-carbonitrile	Small molecule
+8DPF		T4U	11658860.0	Agonist	(1R)-8-chloro-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine	Small molecule 
+8DPG		91Q	4980.0	Agonist	Psilocin	Small molecule 
+8DPH		T4U	11658860.0	Agonist	(1R)-8-chloro-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine	Small molecule 
+8DPI		T4U	11658860.0	Agonist	(1R)-8-chloro-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine	Small molecule 
+7XAT	F	pep	16129706.0	Agonist	Somatostatin-14	Small molecule 
+7XAU	F	pep		Agonist	Octreotide	Peptide
+7XAV	F	pep	71349.0	Agonist	Lanreotide	Peptide
+7XMR	L	pep	16129706.0	Agonist	Somatostatin-14	Peptide
+7XN9		GI9	15965425.0	Antagonist 	tert-butyl (2S)-6-amino-2-[[(2R,3S)-3-(1H-indol-3-yl)-2-[[4-(2-oxo-3H-benzimidazol-1-yl)piperidine-1-carbonyl]amino]butanoyl]amino]hexanoate	Small molecule 
+7XNA	B	pep	16133842.0	Antagonist 	CYN 154806	Peptide
+7XMS	L	pep	16129706.0	Agonist	Somatostatin-14	Peptide
+7XMT		I8B	11442741.0	Agonist	(2~{S})-2-[[(2~{S})-4-azanyl-2-[(4-methylnaphthalen-1-yl)sulfonylamino]butanoyl]amino]-3-phenyl-propanimidic acid	Small molecule 
+7X1T	E	pep	114750.0	Agonist	Taltirelin	Peptide
+7X1U	E	pep	4968.0	Agonist	Endogenous Peptide Agonist TRH	Peptide
+7QVM	L	pep	439302.0	Agonist 	Oxytocin	Peptide
+7XA3	L	pep		Agonist	C-C motif chemokine 2	Peptide
+7X9Y		apo	None	Apo (no ligand)	Apo (no ligand)	None
+7XW5	X	pep		Agonist	Glycoprotein hormones alpha chain	Peptide
+7XW5	Y	pep		Agonist	Thyrotropin subunit beta	Peptide
+7XW5		HOI	118685720.0	Agonist	N-[4-[[5-[(2S)-3-benzyl-5-hydroxy-4-oxo-1,2-dihydroquinazolin-2-yl]-2-methoxyphenyl]methoxy]phenyl]acetamide	Small molecule 
+7XW6		HOI	118685720.0	Agonist	N-[4-[[5-[(2S)-3-benzyl-5-hydroxy-4-oxo-1,2-dihydroquinazolin-2-yl]-2-methoxyphenyl]methoxy]phenyl]acetamide	Small molecule 
+7YXA		B2O	164607208.0	Antagonist 	4-[6-(2-naphthalen-1-ylethoxy)-2,3,4,5-tetrahydro-1H-3-benzazepin-3-ium-3-yl]butanoic acid	Small molecule 
+7T32		ZMA	176407.0	Antagonist 	4-(2-((7-Amino-2-(furan-2-yl)-[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino)ethyl)phenol	Small molecule 
+8CU6		LJX	164885960.0	Antagonist 	(2R,3R,4R)-2-[(8P)-6-amino-2-(hex-1-yn-1-yl)-8-(thiophen-2-yl)-9H-purin-9-yl]oxolane-3,4-diol	Small molecule 
+8CU7		LJX	164885960.0	Antagonist 	(2R,3R,4R)-2-[(8P)-6-amino-2-(hex-1-yn-1-yl)-8-(thiophen-2-yl)-9H-purin-9-yl]oxolane-3,4-diol	Small molecule 
+8DU3		TKO	105526064.0	Antagonist 	(4M)-6-bromo-4-(furan-2-yl)quinazolin-2-amine	Small molecule 
+7VVJ	P	pep		Agonist	PTHrP[1-36]	Peptide
+7VVK	P	pep		Agonist	Parathyroid hormone	Peptide
+7VVL	P	pep		Agonist	Parathyroid hormone	Peptide
+7VVM	P	pep		Agonist	Parathyroid hormone	Peptide
+7VVN	P	pep		Agonist	Parathyroid hormone	Peptide
+7VVO	P	pep		Agonist	Parathyroid hormone	Peptide
+7XKD		AND	5881.0	Agonist	Dehydroepiandrosterone	Small molecule 
+7XKE		AND	5881.0	Agonist	Dehydroepiandrosterone	Small molecule 
+7XKF		AND	5881.0	Agonist	Dehydroepiandrosterone	Small molecule 
+7YP7		apo	None	Apo (no ligand)	Apo (no ligand)	None
+8CXO		CLR	5997.0	Agonist	Cholesterol	Small molecule 
+7XZ5		LSC	5313986.0	Agonist	(4R,7R,18E)-4,7-dihydroxy-N,N,N-trimethyl-10-oxo-3,5,9-trioxa-4-phosphaheptacos-18-en-1-aminium 4-oxide	Small molecule 
+7XZ6		I7J	11705608.0	Agonist	isopropyl 4-(1-(2-fluoro-4-(methylsulfonyl)phenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yloxy)piperidine-1-carboxylate	Small molecule 
+7T9I	A	pep		Agonist	Glycoprotein hormones alpha chain	Peptide
+7T9I	B	pep		Agonist	Thyrotropin subunit beta	Peptide
+7UTZ	A	pep		Agonist	Glycoprotein hormones alpha chain analog TR1402	Peptide
+7UTZ	B	pep		Agonist	Thyrotropin subunit beta	Peptide
+7XP4		apo	None	Apo (no ligand)	Apo (no ligand)	None
