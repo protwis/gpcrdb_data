@@ -77,7 +77,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 4GRV	B	pep	5311318.0	Agonist	Neurotensin (8-13)	Peptide
 4GBR		CAU	13023332.0	Inverse agonist	(S)-Carazolol	Small molecule
 3VW7		VPX	10077130.0	Antagonist	Vorapaxar	Small molecule
-4GPO		apo	None	Apo (no ligand)	Apo (no ligand)	Small molecule
+4GPO		apo	None	Apo (no ligand)	Apo (no ligand)	None
 4IAQ		2GM	10531.0	Agonist	Dihydroergotamine	Small molecule
 4IAR		ERM	8223.0	Agonist	Ergotamine	Small molecule
 4IB4		ERM	8223.0	Agonist	Ergotamine	Small molecule
@@ -136,7 +136,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 4XEE	B	pep	25077406.0	Agonist	Neurotensin	Peptide
 4XES	B	pep	25077406.0	Agonist	Neurotensin	Peptide
 4ZWJ		apo	None	Apo (no ligand)	Apo (no ligand)	None
-5C1M		4VO	11487194.0	Agonist	GTPL9363	Small molecule
+5C1M		VF1	155804574.0	Agonist	BU72	Small molecule
 5CGC		51D	86280685.0	NAM	Q27455391	Small molecule
 5CGD		51E	86763358.0	NAM	Q27455393	Small molecule
 5A8E		XTK	91885640.0	Inverse agonist	7-methylcyanopindolol	Small molecule
@@ -403,15 +403,15 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6TQ6		NVH	145714283.0	Antagonist	2-(5-methylsulfonylpyridin-3-yl)-1,1-bis(oxidanylidene)-4-[[2,4,6-tris(fluoranyl)phenyl]methyl]pyrido[2,3-e][1,2,4]thiadiazin-3-one	Small molecule
 6TQ7		NVK	6604926.0	Antagonist	SB-334867	Small molecule
 6TQ9		NVN	4331799.0	Antagonist	SB-408124	Small molecule
-6ORV		NV2	58327143.0	Agonist	TT-OAD2	Small molecule
+6ORV		N2V	58327143.0	Agonist	TT-OAD2	Small molecule
 6JOD	B	pep	172198.0	Agonist	Angiotensin II	Peptide
 6TOS		NRE	44463491.0	Antagonist	GSK1059865	Small molecule
 6TOT		NRK	56944144.0	Antagonist	Lemborexant	Small molecule
 6KNM	A	pep	None	Agonist	Single domain antibody JN241	Protein
 6P9X	P	pep	70678714.0	Agonist	Corticoliberin	Peptide
 6P9Y	P	pep	44566111.0	Agonist	PACAP	Peptide
-6KPC		8D0	102336704.0	Agonist	(6Ar,9R,10aR)-9-(hydroxymethyl)-3-(8-isothiocyanato-2-methyloctan-2-yl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol	Small molecule
-6KPF		8D0	102336704.0	Agonist	(6Ar,9R,10aR)-9-(hydroxymethyl)-3-(8-isothiocyanato-2-methyloctan-2-yl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol	Small molecule
+6KPC		E3R	145915889.0	Agonist	7-[(6aR,9R,10aR)-1-Hydroxy-9-(hydroxymethyl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-3-yl]-7-methyloctanenitrile	Small molecule
+6KPF		E3R	145915889.0	Agonist	7-[(6aR,9R,10aR)-1-Hydroxy-9-(hydroxymethyl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-3-yl]-7-methyloctanenitrile	Small molecule
 6KPG		8D0	102336704.0	Agonist	(6Ar,9R,10aR)-9-(hydroxymethyl)-3-(8-isothiocyanato-2-methyloctan-2-yl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol	Small molecule
 6LRY	B	pep	71308726.0	Agonist	Sarafotoxin S6b	Peptide
 6NWE		BOG	62852.0	unknown	B-Octylglucoside	Small molecule
@@ -451,7 +451,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 6UO8		QD7	28559746.0	Agonist	(R)-(3-aminopropyl)methylphosphinic acid	Small molecule
 6UO8		QDA	6604928.0	PAM	N~4~,N~6~-dicyclopentyl-2-(methylsulfanyl)-5-nitropyrimidine-4,6-diamine	Small molecule
 6UO9		QD7	28559746.0	Agonist	(R)-(3-aminopropyl)methylphosphinic acid	Small molecule
-6UOA		QD7	28559746.0	Agonist	(R)-(3-aminopropyl)methylphosphinic acid	Small molecule
+6UOA		apo	None	Apo (no ligand)	Apo (no ligand)	None
 6VJM		apo	None	Apo (no ligand)	Apo (no ligand)	None
 6TKO		H98	3083544.0	Agonist	Formoterol	Small molecule
 6VMS		08Y	31101.0	Agonist	Bromocriptine	Small molecule
@@ -640,7 +640,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type
 7F1Q	R	pep	gtoplig:756	Agonist	CCL3	Protein
 7F1R	R	pep	gtoplig:758	Agonist	CCL5	Protein
 7F1S		apo	None	Apo (no ligand)	Apo (no ligand)	None
-7F1T	A	pep	gtoplig:756	Agonist	CCL3	Protein
+7F1T	B	pep	gtoplig:756	Agonist	CCL3	Protein
 7DW9	C	pep	gtoplig:2168	Agonist	CYS-TYR-PHE-GLN-ASN-CYS-PRO-ARG-GLY-NH2	Peptide
 7DH5		H6U	9865528.0	Agonist	Mirabegron	Small molecule
 7DTY	P	pep	90488736.0	Agonist	GIP	Peptide
