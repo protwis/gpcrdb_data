@@ -4,13 +4,11 @@ woot    Wootten "Wootten (Class B)"
 pin Pin "Pin (Class C)"
 wang    Wang    "Wang (Class F)"
 fungal	Fungal	"Fungal (Class D)"
-taste	Taste	"Taste (Class T)"
 gpcrdba GPCRdb(A) "GPCRdb (Class A)"    bw
 gpcrdbb GPCRdb(B) "GPCRdb (Class B)"    woot
 gpcrdbc GPCRdb(C) "GPCRdb (Class C)"    pin
 gpcrdbf GPCRdb(F) "GPCRdb (Class F)"    wang
 gpcrdbd	GPCRdb(D) "GPCRdb (Class D)"	fungal
-gpcrdbt	GPCRdb(T) "GPCRdb (Class T)"	taste
 oli Oliveira    "Oliveira"
 bs  BS  "Baldwin-Schwartz"
 ecd ECD "Class B GPCR Extracellular domain"
