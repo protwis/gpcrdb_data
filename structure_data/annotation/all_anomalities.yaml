@@ -15720,3 +15720,26 @@ ste2_yeast:
     5x461: ''
     6x461: ''
     7x44: ''
+agrg2_mouse:
+    UniProt: agrg2_mouse
+    Xtal Templ: agrg2_mouse
+    Cl: B2
+    Xtalised: Xtal
+    1x36: ''
+    1x411: ''
+    2x551: ''
+    2x581: ''
+    23x501: ''
+    3x28: ''
+    4x491: 4x491
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: ''
+    5x411: ''
+    5x421: 5x421
+    5x431: ''
+    5x461: ''
+    6x461: ''
+    7x44: 7x44
+    7x521: ''

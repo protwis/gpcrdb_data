@@ -416,11 +416,7 @@ PDB	Name
 7XA3	scFv16
 7X9Y	scFv16
 7XW5	Nanobody-35
-7XW6	M22 antibody light chain
 7XW6	Nanobody-35
-7XW6	M22 antibody heavy chain
-7XW7	K1-70 scFv heavy chain
-7XW7	K1-70 scFv light chain
 7WU9	scFv16
 7VVJ	Nanobody-35
 7VVK	Nanobody-35
@@ -441,4 +437,64 @@ PDB	Name
 7T9N	M22 Fab heavy chain
 7T9N	Nanobody-35
 7UTZ	Nanobody-35
+7R0C	scFv30
+7SRR	scFv16
+7SRS	Fab light chain
+7SRS	Fab heavy chain
+7SRS	Fab30 heavy chain
+7SRS	Fab30 light chain
+7T2H	scFv16
+7TS0	scFv16
+7VFX	scFv16
+7VIE	scFv16
+7VIF	scFv16
+7VIG	scFv16
+7VIH	scFv16
+7W6P	scFv16
+7W7E	scFv16
+7WCM	Nanobody-35
+7WCN	Nanobody-35
+7WXU	Nanobody-35
+7WXW	Nanobody-35
+7WY0	scFv16
+7WY5	Nanobody-35
+7WY8	Nanobody-35
+7WYB	scFv16
+7WZ4	scFv16
+7WZ7	scFv16
+7X10	scFv16
+7X2V	scFv16
+7X5H	scFv16
 7XP4	Nanobody-35
+7XP5	Nanobody-35
+7XP6	Nanobody-35
+7XW9	scFv16
+7Y24	scFv16
+7Y26	scFv16
+7Y27	scFv16
+7YU3	scFv16
+7YU5	scFv16
+7YU6	scFv16
+7YU7	scFv16
+7YU8	scFv16
+8DWC	scFv16
+8DWG	scFv16
+8E3X	Nanobody-35
+8E3Y	Nanobody-35
+8E3Z	Nanobody-35
+8E9W	scFv16
+8E9X	scFv16
+8E9Y	scFv16
+8E9Z	scFv16
+8EF5	scFv16
+8EF6	scFv16
+8EFB	scFv16
+8EFL	scFv16
+8EFO	scFv16
+8F7Q	scFv16
+8F7R	scFv16
+8F7W	scFv16
+8F7X	scFv16
+8HA0	Nanobody-35
+8HAF	Nanobody-35
+8HAO	Nanobody-35
