@@ -947,8 +947,8 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note
 7X10	agrl3_mouse	cryo-EM	2.93	Active	R	
 7X2V	agrf1_human	cryo-EM	3.09	Active	R	
 7X5H	5ht5a_human	cryo-EM	3.1	Active	R	
-7XP4	t2r46_human	cryo-EM	3.01	Inactive	R	
-7XP5	t2r46_human	cryo-EM	3.08	Inactive	R	
+7XP4	t2r46_human	cryo-EM	3.01	Active	R	
+7XP5	t2r46_human	cryo-EM	3.08	Active	R	
 7XP6	t2r46_human	cryo-EM	3.01	Active	R	
 7XRR	ox2r_human	X-ray	2.89	Inactive	A	
 7XW9	trfr_human	cryo-EM	2.7	Active	R	
