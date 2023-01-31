@@ -916,4 +916,74 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note
 7T9M	tshr_human	cryo-EM	3.1	Inactive 	R	
 7T9N	tshr_human	cryo-EM	2.9	Active	R	
 7UTZ	tshr_human	cryo-EM	2.4	Active	R	
-7XP4	t2r46_human	cryo-EM	3.01	Active	R	
+7F61	hrh3_human	X-ray	2.6	Inactive	A	
+7PP1	p2y12_human	X-ray	2.78	Inactive	A	
+7R0C	v2r_human	cryo-EM	4.73	Active	A	
+7SRQ	5ht2b_human	cryo-EM	2.7	Intermediate	R	
+7SRR	5ht2b_human	cryo-EM	2.9	Active	R	
+7SRS	5ht2b_human	cryo-EM	3.3	Active	R	
+7T2G	oprm_mouse	cryo-EM	2.5	Active	R	
+7T2H	oprm_mouse	cryo-EM	3.2	Active	D	
+7TRY	crfr2_human	cryo-EM	3.7	Active	P	
+7TS0	crfr2_human	cryo-EM	2.8	Active	P	
+7U2K	oprm_mouse	cryo-EM	3.3	Active	D	
+7VFX	fpr1_human	cryo-EM	2.8	Active	R	
+7VIE	s1pr1_human	cryo-EM	2.86	Active	F	
+7VIF	s1pr1_human	cryo-EM	2.83	Active	F	
+7VIG	s1pr1_human	cryo-EM	2.89	Active	F	
+7VIH	s1pr1_human	cryo-EM	2.98	Active	F	
+7W6P	ada2a_human	cryo-EM	3.47	Active	R	
+7W7E	ada2a_human	cryo-EM	3.4	Active	R	
+7WCM	gp119_human	cryo-EM	2.33	Active	R	
+7WCN	gp119_human	cryo-EM	2.87	Active	R	
+7WXU	agrf1_human	cryo-EM	2.85	Active	R	
+7WXW	agrf1_human	cryo-EM	2.84	Active	R	
+7WY0	agrf1_human	cryo-EM	2.83	Active	R	
+7WY5	agrl3_mouse	cryo-EM	2.83	Active	R	
+7WY8	agrl3_mouse	cryo-EM	2.83	Active	R	
+7WYB	agrl3_mouse	cryo-EM	2.97	Active	R	
+7WZ4	gpr88_human	cryo-EM	3.0	Active	R	
+7WZ7	agrf1_human	cryo-EM	2.83	Active	R	
+7X10	agrl3_mouse	cryo-EM	2.93	Active	R	
+7X2V	agrf1_human	cryo-EM	3.09	Active	R	
+7X5H	5ht5a_human	cryo-EM	3.1	Active	R	
+7XP4	t2r46_human	cryo-EM	3.01	Inactive	R	
+7XP5	t2r46_human	cryo-EM	3.08	Inactive	R	
+7XP6	t2r46_human	cryo-EM	3.01	Active	R	
+7XRR	ox2r_human	X-ray	2.89	Inactive	A	
+7XW9	trfr_human	cryo-EM	2.7	Active	R	
+7Y24	ssr2_human	cryo-EM	3.25	Active	E	
+7Y26	ssr2_human	cryo-EM	3.3	Active	E	
+7Y27	ssr2_human	cryo-EM	3.48	Active	E	
+7Y89	gpr17_human	cryo-EM	3.02	Active	A	
+7YU3	lpar1_human	cryo-EM	3.5	Active	R	
+7YU4	lpar1_human	cryo-EM	3.7	Inactive	A	
+7YU5	lpar1_human	cryo-EM	3.7	Active	R	State 1
+7YU6	lpar1_human	cryo-EM	3.9	Active	R	State 2
+7YU7	lpar1_human	cryo-EM	4.5	Active	R	State 3
+7YU8	lpar1_human	cryo-EM	5.6	Active	R	State 4
+8DWC	mrgx1_human	cryo-EM	2.87	Active	R	
+8DWG	mrgx1_human	cryo-EM	2.71	Active	R	
+8DWH	mrgx1_human	cryo-EM	3.25	Active	R	
+8E3X	pacr_human	cryo-EM	2.3	Active	R	
+8E3Y	vipr1_human	cryo-EM	2.3	Active	R	
+8E3Z	vipr1_human	cryo-EM	2.7	Active	R	
+8E9W	acm3_human	cryo-EM	2.69	Active	A	
+8E9X	acm4_human	cryo-EM	2.7	Active	A	
+8E9Y	acm3_human	cryo-EM	2.79	Active	A	
+8E9Z	acm3_human	cryo-EM	2.69	Active	A	
+8EA0	acm3_human	cryo-EM	2.56	Inactive	A	
+8EF5	oprm_human	cryo-EM	3.3	Active	R	Dimeric 
+8EF6	oprm_human	cryo-EM	3.2	Active	R	Dimeric 
+8EFB	oprm_human	cryo-EM	3.2	Active	R	
+8EFL	oprm_human	cryo-EM	3.2	Active	R	Dimeric 
+8EFO	oprm_human	cryo-EM	2.8	Active	R	Dimeric 
+8EFQ	oprm_human	cryo-EM	3.3	Active	R	
+8F7Q	oprm_human	cryo-EM	3.22	Active	R	Dimeric 
+8F7R	oprm_human	cryo-EM	3.28	Active	R	Dimeric 
+8F7S	oprd_human	cryo-EM	3.0	Active	R	Dimeric 
+8F7W	oprk_human	cryo-EM	3.19	Active	R	
+8F7X	oprx_human	cryo-EM	3.28	Active	R	
+8HA0	pth1r_human	cryo-EM	2.62	Active	R	
+8HAF	pth1r_human	cryo-EM	3.25	Active	R	
+8HAO	pth1r_human	cryo-EM	3.76	Active	R	Dimeric 
