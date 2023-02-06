@@ -9272,7 +9272,7 @@ mrgx1_human:
     '4.58': I
     '4.59': L
     '4.60': E
-    '5.46': L
+    '5.46': W
 mrgx2_human:
     UniProt: mrgx2_human
     Xtal Templ: mrgx2_human
@@ -9342,7 +9342,7 @@ mrgx3_human:
     '4.58': I
     '4.59': L
     '4.60': E
-    '5.46': L
+    '5.46': W
 mrgx4_human:
     UniProt: mrgx4_human
     Xtal Templ: mrgx4_human
@@ -9377,7 +9377,7 @@ mrgx4_human:
     '4.58': M
     '4.59': L
     '4.60': E
-    '5.46': L
+    '5.46': W
 mshr_human:
     UniProt: mshr_human
     Xtal Templ: mshr_human
