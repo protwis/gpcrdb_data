@@ -350,7 +350,7 @@ PDB	Alpha_UniProt	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_Ch
 7XTQ	gnas2_human	A	gbb1_human	B	gbg2_human	G	
 7Y12	gnai1_human	A	gbb1_mouse	B	gbg2_mouse	C	
 7Y15	gnai1_human	A	gbb1_mouse	B	gbg2_mouse	C	
-8DCR	gnas2_bovin	A	gbb1_bovin	B	gbb2_bovin	G	
+8DCR	gnas2_bovin	A	gbb1_bovin	B	gbg2_bovin	G	
 8DCS	gnas2_bovin	A	gbb1_bovin	B	gbg2_bovin	G	
 8DPF	gnaq_human	B	gbb1_human	C	gbg2_human	D	Gi2-mini-Gq chimera
 8DPG	gnaq_human	B	gbb1_human	C	gbg2_human	D	Gi2-mini-Gq chimera
@@ -388,8 +388,8 @@ PDB	Alpha_UniProt	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_Ch
 7SRR	gnaq_human	B	gbb1_human	C	gbg2_human	D	Gi2-mini-Gq chimera
 7T2G	gnai1_human	A	gbb1_human	B	gbg2_human	C	
 7T2H	gnai1_human	A	gbb1_human	B	gbg2_human	C	
-7TRY	gna11_human	A	gbb1_rat	B	gbg2_rat	G	
-7TS0	gnao_human	A	gbb1_rat	B	gbg2_rat	G	
+7TRY	gna11_human	A	gbb1_rat	B	gbg2_mouse	G	
+7TS0	gnao_human	A	gbb1_rat	B	gbg2_mouse	G	
 7U2K	gnai1_human	A	gbb1_human	B	gbg2_human	C	
 7VFX	gnai1_human	A	gbb1_human	B	gbg2_human	G	
 7VIE	gnai1_human	D	gbb1_human	A	gbg2_human	C	
