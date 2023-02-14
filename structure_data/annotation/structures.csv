@@ -859,13 +859,13 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note
 7WJ5	ssr2_human	cryo-EM	3.72	Active	R	
 7XBW	cx3c1_human	cryo-EM	2.8	Active	R	
 7XBX	cx3c1_human	cryo-EM	3.4	Active	R	
-7SK3	ackr3_human	cryo-EM	3.8		A	
-7SK4	ackr3_human	cryo-EM	3.3		A	
-7SK5	ackr3_human	cryo-EM	4.0		A	
-7SK6	ackr3_human	cryo-EM	4.0		A	
-7SK7	ackr3_human	cryo-EM	3.3		A	
-7SK8	ackr3_human	cryo-EM	3.3		A	
-7SK9	ackr3_human	cryo-EM	3.7		A	
+7SK3	ackr3_human	cryo-EM	3.8	Active	A	
+7SK4	ackr3_human	cryo-EM	3.3	Active	A	
+7SK5	ackr3_human	cryo-EM	4.0	Active	A	
+7SK6	ackr3_human	cryo-EM	4.0	Active	A	
+7SK7	ackr3_human	cryo-EM	3.3	Active	A	
+7SK8	ackr3_human	cryo-EM	3.3	Active 	A	
+7SK9	ackr3_human	cryo-EM	3.7	Active	A	
 7XTQ	gpbar_human	cryo-EM	3.2	Active	R	
 7Y12	mrgrd_human	cryo-EM	3.1	Active	R	
 7Y13	mrgrd_human	cryo-EM	3.1	Inactive	R	
