@@ -284,6 +284,7 @@ PDB	Alpha_UniProt	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_Ch
 7SF7	gna13_human	B	gbb1_human	C	gbg2_human	D	Gi2-mini-G13 chimera
 7SF8	gna13_human	B	gbb1_human	C	gbg2_human	D	Gi2-mini-G13 chimera
 7WUJ	gnas2_human	A	gbb1_human	B	gbg2_human	Y	Mini-Gs
+7WUI	gnas2_human	A	gbb1_human	B	gbg2_human	G	Mini-Gs
 7EJX	gnai1_human	A	gbb1_human	B	gbg2_human	G	
 7S0G	gnas2_bovin	A	gbb1_bovin	B	gbg2_bovin	G	Gi1-Gs chimera
 7S0F	gnai1_human	A	gbb1_bovin	B	gbg2_bovin	G	
