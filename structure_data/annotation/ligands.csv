@@ -217,7 +217,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 5X7D		CAU	13023332.0	Antagonist	Carazolol	Small molecule	42963.0	
 5X7D		8VS	129318963.0	Allosteric antagonist	4-carbamoyl-N-[(2R)-2-cyclohexyl-2-phenylacetyl]-L-phenylalanyl-3-bromo-N-methyl-L-phenylalaninamide	Small molecule	42963.0	
 5X93		K87	9810112.0	Antagonist	K-8794	Small molecule	42963.0	
-5XPR		apo	None	Apo (no ligand)	Apo (no ligand)	None	42963.0	
+5XPR		K86	104865.0	Antagonist	Bosentan	Small molecule	42963.0	
 5XSZ		apo	None	Apo (no ligand)	Apo (no ligand)	None	42963.0	
 5NLX		ZMA	176407.0	Antagonist	ZM241385	Small molecule	43005.0	
 5NM2		ZMA	176407.0	Antagonist	ZMA	Small molecule	43005.0	
