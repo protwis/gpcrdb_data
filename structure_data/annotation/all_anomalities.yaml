@@ -2607,7 +2607,7 @@ brs3_human:
     5x411: ''
     5x421: ''
     5x431: ''
-    5x461: ''
+    5x461: 5x461
     6x461: ''
     7x44: 7x44
     7x521: ''
@@ -8120,7 +8120,7 @@ grm8_human:
     '5.46': Y
 grpr_human:
     UniProt: grpr_human
-    Xtal Templ: ednrb_human
+    Xtal Templ: grpr_human
     Cl: A
     Xtalised: NoXtal
     1x36: ''
@@ -8137,7 +8137,7 @@ grpr_human:
     5x411: ''
     5x421: ''
     5x431: ''
-    5x461: ''
+    5x461: 5x461
     6x461: ''
     7x44: 7x44
     7x521: ''
