@@ -1066,8 +1066,6 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 7YS6		SRO	5202.0	Agonist	Serotonin	Small molecule	2023-03-29	
 7ZBC		RET	5280490.0	Inverse agonist	Retinal (11-cis)	Small molecule	2023-03-29	
 7ZBE		RET	5280490.0	Inverse agonist	Retinal (11-cis)	Small molecule	2023-03-29	
-7F6G	L	pep		Agonist	SAR1-AngII	Peptide	2023-03-29	
-7Y65	L	pep		Agonist	C5a	Peptide	2023-03-01	
 7Y66	E	pep		Agonist	BM213	Peptide	2023-03-01	
 7Y67	L	pep		Agonist	C089	Peptide	2023-03-01	
 8HMV		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-03-01	
