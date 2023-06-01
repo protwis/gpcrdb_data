@@ -997,8 +997,6 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date
 7YS6	5ht6r_human	cryo-EM	3.0	Active	A		2023-03-29
 7ZBC	opsd_bovin	X-ray	1.8	Inactive	A		2023-03-29
 7ZBE	opsd_bovin	X-ray	1.8	Inactive	A		2023-03-29
-7F6G	agtr1_human	cryo-EM	2.9	Active	A		2023-03-29
-7Y65	c5ar1_human	cryo-EM	3.2	Active	D		2023-03-01
 7Y66	c5ar1_human	cryo-EM	2.9	Active	D		2023-03-01
 7Y67	c5ar1_human	cryo-EM	2.8	Active	D		2023-03-01
 8A6C	opsd_bovin	X-ray	1.8	Active	A		2023-03-29
