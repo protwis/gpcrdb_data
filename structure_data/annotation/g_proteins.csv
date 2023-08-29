@@ -507,7 +507,7 @@ PDB	Alpha_UniProt	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_Ch
 8DZR	gnat3_human	B	gbb1_human	C	gbg2_human	D	
 8HJ5	gnaq_human	A	gbb1_human	B	gbg2_human	D	
 7TRS	gnai1_human	A	gbb1_human	B	gbg2_human	G	
-7XJJ	gnao1_human	A	gbb1_human	B	gbg2_human	G	
+7XJJ	gnao_human	A	gbb1_human	B	gbg2_human	G	
 8FLS	gnas2_human	A	gbb1_human	B	gbg2_human	G	
 7XWO	gnaq_human	F	gbb1_rat	C	gbg2_bovin	G	
 7Y1F	gnai1_human	A	gbb1_human	B	gbg2_human	C	
