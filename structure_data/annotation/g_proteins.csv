@@ -491,3 +491,55 @@ PDB	Alpha_UniProt	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_Ch
 7W40	gnaq_human	B	gbb1_human	C	gbg2_human	D	
 7XK2	gnai1_human	A	gbb1_human	B	gbg2_human	C	
 7XK8	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8EIT	gnaq_human	A	gbb1_human	B	gbg2_human	C	
+8FU6	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+8IRS	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+8IW1	gnal_human	A	gbb1_human	B	gbg2_human	C	Golf-Gi chimera
+8IW4	gnas2_human	A	gbb1_human	B	gbg2_human	C	
+8IW7	gnas2_human	A	gbb1_human	B	gbg2_human	Y	
+8IW9	gnas2_human	A	gbb1_human	B	gbg2_human	C	mini-Gs
+8G2Y	gnas2_human	A	gbb1_human	B	gbg2_human	G	mini Gs-Gq chimera
+8IBV	gnaq_human	A	gbb1_human	B	gbg2_human	G	
+8GUS	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7XV3	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7XXI	gnai2_human	B	gbb1_human	C	gbg2_human	G	
+8DZP	gnai1_human	B	gbb1_human	C	gbg2_human	D	
+8DZR	gnat3_human	B	gbb1_human	C	gbg2_human	D	
+8HJ5	gnaq_human	A	gbb1_human	B	gbg2_human	D	
+7TRS	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7XJJ	gnao_human	A	gbb1_human	B	gbg2_human	G	
+8FLS	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7XWO	gnaq_human	F	gbb1_rat	C	gbg2_bovin	G	
+7Y1F	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+7Y3G	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+8G94	gnai1_human	B	gbb1_human	C	gbg2_human	D	
+7TRQ	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7XY7	gnas2_human	A	gbb1_human	B	gbg2_human	G	mini Gs
+7YAE	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8DZQ	gnao_human	B	gbb1_human	C	gbg2_human	D	
+8EJC	gnaq_human	A	gbb1_human	B	gbg2_human	C	
+7Y64	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8DZS	gnaz_human	B	gbb1_human	C	gbg2_human	D	
+8HK3	gnai1_human	A	gbb1_rat	B	gbg2_bovin	G	
+8IBU	gnaq_human	A	gbb1_human	B	gbg2_human	G	
+8FLQ	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+8GUT	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8IRV	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7TRK	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7YAC	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8EJK	gnaq_human	A	gbb1_human	B	gbg2_human	C	
+8GUQ	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8HK2	gnai1_human	B	gbb1_rat	C	gbg2_bovin	G	
+8IA8	gnai1_human	C	gbb1_human	B	gbg2_human	G	
+8ITF	gnas2_human	A	gbb1_human	B	gbg2_human	C	
+8FLT	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+8FLU	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+8GHV	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8GUR	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8HK5	gnai1_human	C	gbb1_rat	D	gbg2_bovin	G	
+8IRT	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7TRP	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+7XXH	gna11_human	A	gbb1_human	B	gbg2_human	G	
+8FLR	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7XY6	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+7YKD	gnai1_human	C	gbb1_human	B	gbg2_human	G	

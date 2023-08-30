@@ -14978,6 +14978,41 @@ taar9_human:
     '4.59': S
     '4.60': I
     '5.46': L
+taar9_mouse:
+    UniProt: taar9_mouse
+    Xtal Templ: taar9_mouse
+    Cl: A
+    Xtalised: Xtal
+    1x36: ''
+    1x411: ''
+    2x551: 2x551
+    2x581: ''
+    23x501: ''
+    3x28: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: ''
+    5x411: ''
+    5x421: ''
+    5x431: ''
+    5x461: 5x461
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': D
+    '2.56': T
+    '2.57': V
+    '2.58': M
+    '2.59': P
+    '2.60': F
+    '4.56': Y
+    '4.57': S
+    '4.58': F
+    '4.59': S
+    '4.60': I
+    '5.46': L
 tpra1_human:
     UniProt: tpra1_human
     Xtal Templ: q3ksp2_ebvg
