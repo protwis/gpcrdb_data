@@ -110,7 +110,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 4PXZ		6AD	121990.0	Agonist	2-MeSADP	Small molecule	2014-04-30	
 4PY0		6AT	5310983.0	Agonist (partial)	5310983	Small molecule	2014-04-30	
 4OO9		2U8	9926832.0	NAM	Mavoglurant	Small molecule	2014-07-02	
-4PHU		2YB	24857286.0	Agonist	Fasiglifam	Small molecule	2014-07-16	
+4PHU		2YB	24857286.0	Allosteric agonist	Fasiglifam	Small molecule	2014-07-16	
 4QIM		A8T	24905375.0	Antagonist	AntaXV	Small molecule	2014-07-23	
 4QIN		SG8	44195701.0	Agonist	SAG1.5	Small molecule	2014-07-23	
 4QKX		35V	76210628.0	Agonist	Q27453560	Small molecule	2014-07-23	
@@ -201,7 +201,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 5XF1		97V	23549991.0	NAM	NNC0640	Small molecule	2017-05-24	
 5JTB		ZMA	176407.0	Antagonist	ZM241385	Small molecule	2017-05-31	
 5VBL	A	pep	gtoplig:9587	Agonist	AMG3054	Peptide	2017-05-31	
-5TZR		MK6	73051869.0	Agonist	MK-8666	Small molecule	2017-06-07	
+5TZR		MK6	73051869.0	Allosteric agonist	MK-8666	Small molecule	2017-06-07	
 5TZY		MK6	73051869.0	Agonist	MK-8666	Small molecule	2017-06-07	
 5TZY		7OS	127053597.0	PAM	(2S,3R)-3-Cyclopropyl-3-[(2R)-2-[1-[(1S)-1-[5-fluoro-2-(trifluoromethoxy)phenyl]ethyl]piperidin-4-yl]-3,4-dihydro-2H-chromen-7-yl]-2-methylpropanoic acid	Small molecule	2017-06-07	
 5NX2	B	pep	None	Agonist	Truncated protein agonist	Peptide	2017-06-14	
