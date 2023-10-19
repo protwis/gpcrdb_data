@@ -190,7 +190,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 5NDD		8TZ	126961334.0	Antagonist	AZ8838	Small molecule	2017-05-03	
 5NDZ		8UN	126961335.0	Allosteric antagonist	AZ3451	Small molecule	2017-05-03	
 5NJ6		None	None	None	None	None	2017-05-03	
-5UZ7		None	None	nan	None	None	2017-05-03	
+5UZ7		pep	16220016.0	Agonist	Calcitonin salmon	Peptide	2017-05-03	f
 5VEX		97V	23549991.0	NAM	NNC0640	Small molecule	2017-05-17	
 5UVI		ZMA	176407.0	Antagonist	ZM241385	Small molecule	2017-05-24	
 5V56		836	126970683.0	Antagonist	N-methyl-N-[1-[4-(2-methylpyrazol-3-yl)phthalazin-1-yl]piperidin-4-yl]-4-nitro-2-(trifluoromethyl)benzamide	Small molecule	2017-05-24	
