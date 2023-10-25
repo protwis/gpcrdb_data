@@ -920,11 +920,11 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 7SK4	B	pep		Agonist	Stromal cell-derived factor 1	Peptide	2022-07-27	
 7SK6	B	pep		Agonist	Stromal cell-derived factor 1	Peptide	2022-07-27	
 7SK5	B	pep		Agonist	Stromal cell-derived factor 1	Peptide	2022-07-27	
-7SK7		GJ9	164575505.0	Partial agonist	(1R)-4-[7-(3-carboxypropoxy)-6-methylquinolin-8-yl]-1-{[2-(4-hydroxypiperidin-1-yl)-1,3-thiazol-4-yl]methyl}-1,4-diazepan-1-ium	Small molecule 	2022-07-27	
+7SK7		GJ9	164575505.0	Agonist (partial)	(1R)-4-[7-(3-carboxypropoxy)-6-methylquinolin-8-yl]-1-{[2-(4-hydroxypiperidin-1-yl)-1,3-thiazol-4-yl]methyl}-1,4-diazepan-1-ium	Small molecule 	2022-07-27	
 7SK7	B	pep		Agonist	Stromal cell-derived factor 1	Peptide	2022-07-27	
 7SK8	B	pep		Agonist	Stromal cell-derived factor 1	Peptide	2022-07-27	
-7SK8		GJ9	164575505.0	Partial agonist	(1R)-4-[7-(3-carboxypropoxy)-6-methylquinolin-8-yl]-1-{[2-(4-hydroxypiperidin-1-yl)-1,3-thiazol-4-yl]methyl}-1,4-diazepan-1-ium	Small molecule 	2022-07-27	
-7SK9		GJ9	164575505.0	Partial agonist	(1R)-4-[7-(3-carboxypropoxy)-6-methylquinolin-8-yl]-1-{[2-(4-hydroxypiperidin-1-yl)-1,3-thiazol-4-yl]methyl}-1,4-diazepan-1-ium	Small molecule 	2022-07-27	
+7SK8		GJ9	164575505.0	Agonist (partial)	(1R)-4-[7-(3-carboxypropoxy)-6-methylquinolin-8-yl]-1-{[2-(4-hydroxypiperidin-1-yl)-1,3-thiazol-4-yl]methyl}-1,4-diazepan-1-ium	Small molecule 	2022-07-27	
+7SK9		GJ9	164575505.0	Agonist (partial)	(1R)-4-[7-(3-carboxypropoxy)-6-methylquinolin-8-yl]-1-{[2-(4-hydroxypiperidin-1-yl)-1,3-thiazol-4-yl]methyl}-1,4-diazepan-1-ium	Small molecule 	2022-07-27	
 7XTQ		H8I	46195848.0	Agonist	[2-(2,5-Dichloro-phenoxy)-pyridin-3-yl]-(3,4-dihydro-2H-quinolin-1-yl)-methanone	Small molecule 	2022-07-06	
 7Y12		BAL	4755801.0	Agonist	BETA-ALANINE	Small molecule 	2022-07-20	
 7Y13		apo	None	Apo (no ligand)	Apo (no ligand)	None	2022-07-20	
