@@ -1101,3 +1101,61 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date
 8FLR	pth1r_human	cryo-EM	2.94	Active	R		2023-04-26
 7XY6	aa2br_human	cryo-EM	2.99	Active	R		2023-05-03
 7YKD	cml1_human	cryo-EM	2.81	Active	A		2023-04-19
+7Y35	pth1r_human	cryo-EM	2.9	Active	R		2023-07-05
+7Y36	pth1r_human	cryo-EM	2.8	Active	R		2023-07-05
+7YDH	agre5_human	cryo-EM	3.1	Active	R		2023-07-12
+7YDJ	agre5_human	cryo-EM	3.03	Active	R		2023-07-12
+7YDM	agre5_human	cryo-EM	2.89	Active	R		2023-07-12
+7YDP	agre5_human	cryo-EM	3.1	Active	R		2023-07-12
+7YM8	aa1r_human	cryo-EM	2.92	Active	A		2023-07-05
+7YMH	aa1r_human	cryo-EM	3.52	Active	A		2023-07-05
+7YMJ	aa1r_human	cryo-EM	3.35	Inactive	A		2023-07-05
+8C9W	aa2ar_human	X-ray	2.11	Inactive	A		2023-07-12
+8F0J	calcr_human	cryo-EM	2.0	Active	R		2023-08-02
+8F0K	calcr_human	cryo-EM	1.9	Active	R		2023-08-02
+8F2A	calcr_human	cryo-EM	2.2	Active	R		2023-08-02
+8F2B	calcr_human	cryo-EM	2.0	Active	R		2023-08-02
+8GW8	pth1r_human	cryo-EM	2.9	Active	R		2023-06-14
+8H0P	nmbr_human	cryo-EM	3.15	Active	R		2023-08-09
+8H0Q	grpr_human	cryo-EM	3.3	Active	R		2023-08-09
+8H4I	ffar4_human	cryo-EM	3.06	Active	R		2023-06-21
+8H4K	ffar4_human	cryo-EM	3.1	Active	R		2023-06-21
+8H4L	ffar4_human	cryo-EM	3.07	Active	R		2023-06-21
+8HMP	gpr52_human	cryo-EM	2.77	Active	R		2023-06-21
+8IC0	cxcr1_human	cryo-EM	3.41	Active	A		2023-07-19
+8IRR	drd1_human	cryo-EM	3.2	Active	R		2023-06-21
+8IRU	drd4_human	cryo-EM	3.2	Active	R		2023-06-21
+8IUK	pf2r_human	cryo-EM	2.67	Active	R		2023-07-12
+8IUL	pf2r_human	cryo-EM	2.78	Active	R		2023-07-12
+8IUM	pf2r_human	cryo-EM	3.14	Active	R		2023-07-12
+8IY5	ednrb_human	cryo-EM	2.8	Active	R		2023-08-16
+8IY6	ednrb_human	cryo-EM	3.13	Inactive	R		2023-08-16
+8IYS	ffar4_human	cryo-EM	2.95	Active	R		2023-06-21
+8J18	gpr84_human	cryo-EM	2.89	Active	R		2023-06-21
+8J19	gpr84_human	cryo-EM	3.23	Active	R		2023-06-21
+8J1A	gpr84_human	cryo-EM	3.24	Active	R		2023-06-21
+8JCU	grm2_human	cryo-EM	2.8	Inactive	2.0	heterodimer	2023-06-21
+8JCV	grm2_human	cryo-EM	3.4	Inactive	2.0	heterodimer	2023-06-21
+8JCW	grm2_human	cryo-EM	3.0	Inactive	2.0	heterodimer	2023-06-21
+8JCX	grm2_human	cryo-EM	3.0	Inactive	2.0	heterodimer	2023-06-21
+8JCY	grm2_human	cryo-EM	2.9	Inactive	2.0	heterodimer	2023-06-21
+8JCZ	grm2_human	cryo-EM	3.0	Inactive	2.0	heterodimer	2023-06-21
+8JD0	grm2_human	cryo-EM	3.3	Inactive	2.0	heterodimer	2023-06-21
+8JD1	grm2_human	cryo-EM	3.7	Inactive	2.0	heterodimer	2023-06-21
+8JD2	grm2_human	cryo-EM	2.8	Active	2.0	heterodimer	2023-06-21
+8JD3	grm2_human	cryo-EM	3.3	Active	2.0	heterodimer	2023-06-21
+8JD4	grm2_human	cryo-EM	2.9	Active	2.0	heterodimer	2023-06-21
+8JD5	grm2_human	cryo-EM	3.6	Active	2.0	heterodimer	2023-06-21
+8JD6	grm4_human	cryo-EM	3.4	Active	S		2023-06-21
+8JLZ	5ht6r_human	cryo-EM	3.09	Active	R		2023-06-28
+8JPB	ntr1_human	cryo-EM	3.07	Active	R		2023-08-09
+8JPC	ntr1_human	cryo-EM	3.07	Active	R		2023-08-09
+8JPF	ntr1_human	cryo-EM	3.02	Inactive	R		2023-08-10
+8JR9	pth1r_human	cryo-EM	2.57	Active	R		2023-08-02
+8JRU	glr_human	cryo-EM	3.5	Active	R		2023-08-16
+8JRV	glr_human	cryo-EM	3.3	Active	R		2023-08-16
+8JWY	aa2ar_human	X-ray	2.33	Inactive	A		2023-08-16
+8JWZ	aa2ar_human	X-ray	2.37	Inactive	A		2023-08-16
+8PM2	taa7f_mouse	cryo-EM	2.92	Active	R		2023-08-09
+8THK	ada1a_human	cryo-EM	2.6	Active	R		2023-08-16
+8THL	ada1a_human	cryo-EM	3.1	Active	R		2023-08-16
