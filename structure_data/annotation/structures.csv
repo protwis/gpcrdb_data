@@ -1,989 +1,1161 @@
-PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note
-1F88	opsd_bovin	X-ray	2.8	Inactive	A	
-1HZX	opsd_bovin	X-ray	2.8	Inactive	A	
-1L9H	opsd_bovin	X-ray	2.6	Inactive	A	
-1GZM	opsd_bovin	X-ray	2.65	Inactive	A	
-1U19	opsd_bovin	X-ray	2.2	Inactive	A	
-2HPY	opsd_bovin	X-ray	2.8	Inactive	B	
-2G87	opsd_bovin	X-ray	2.6	Inactive	A	
-2I35	opsd_bovin	X-ray	3.8	Inactive	A	
-2I36	opsd_bovin	X-ray	4.1	Inactive	A	
-2I37	opsd_bovin	X-ray	4.15	Inactive	A	
-2J4Y	opsd_bovin	X-ray	3.4	Inactive	B	
-2PED	opsd_bovin	X-ray	2.95	Inactive	B	
-2RH1	adrb2_human	X-ray	2.4	Inactive	A	
-2R4R	adrb2_human	X-ray	3.4	Inactive	A	
-2R4S	adrb2_human	X-ray	3.4	Inactive	A	
-2ZIY	opsd_todpa	X-ray	3.7	Inactive	A	
-2Z73	opsd_todpa	X-ray	2.5	Inactive	A	
-3D4S	adrb2_human	X-ray	2.8	Inactive	A	
-2VT4	adrb1_melga	X-ray	2.7	Inactive	B	
-3CAP	opsd_bovin	X-ray	2.9	Active	A	
-3C9L	opsd_bovin	X-ray	2.65	Inactive	A	
-3C9M	opsd_bovin	X-ray	3.4	Inactive	A	
-3DQB	opsd_bovin	X-ray	3.2	Active	A	
-3EML	aa2ar_human	X-ray	2.6	Inactive	A	
-3KJ6	adrb2_human	X-ray	3.4	Inactive	A	
-3NY8	adrb2_human	X-ray	2.84	Inactive	A	
-3NY9	adrb2_human	X-ray	2.84	Inactive	A	
-3NYA	adrb2_human	X-ray	3.16	Inactive	A	
-3ODU	cxcr4_human	X-ray	2.5	Inactive	A	
-3OE0	cxcr4_human	X-ray	2.9	Inactive	A	
-3OE6	cxcr4_human	X-ray	3.2	Inactive	A	
-3OE8	cxcr4_human	X-ray	3.1	Inactive	A	
-3OE9	cxcr4_human	X-ray	3.1	Inactive	A	
-3PBL	drd3_human	X-ray	2.89	Inactive	A	
-2Y00	adrb1_melga	X-ray	2.5	Inactive	B	
-2Y02	adrb1_melga	X-ray	2.6	Inactive	B	
-2Y03	adrb1_melga	X-ray	2.85	Inactive	B	
-2Y04	adrb1_melga	X-ray	3.05	Inactive	B	
-3PDS	adrb2_human	X-ray	3.5	Inactive	A	
-3OAX	opsd_bovin	X-ray	2.6	Inactive	A	
-3P0G	adrb2_human	X-ray	3.5	Active	A	
-3PQR	opsd_bovin	X-ray	2.85	Active	A	
-3PXO	opsd_bovin	X-ray	3.0	Active	A	
-3QAK	aa2ar_human	X-ray	2.71	Intermediate	A	
-2X72	opsd_bovin	X-ray	3.0	Active	A	
-2Y01	adrb1_melga	X-ray	2.6	Inactive	A	
-2YDO	aa2ar_human	X-ray	3.0	Intermediate	A	
-2YDV	aa2ar_human	X-ray	2.6	Intermediate	A	
-2YCW	adrb1_melga	X-ray	3.0	Inactive	A	
-2YCX	adrb1_melga	X-ray	3.25	Inactive	A	
-2YCZ	adrb1_melga	X-ray	3.65	Inactive	B	
-2YCY	adrb1_melga	X-ray	3.15	Inactive	A	
-3RZE	hrh1_human	X-ray	3.1	Inactive	A	
-3SN6	adrb2_human	X-ray	3.2	Active	R	
-3AYM	opsd_todpa	X-ray	2.8	Inactive	B	
-3AYN	opsd_todpa	X-ray	2.7	Inactive	B	
-3PWH	aa2ar_human	X-ray	3.3	Inactive	A	
-3REY	aa2ar_human	X-ray	3.31	Inactive	A	
-3RFM	aa2ar_human	X-ray	3.6	Inactive	A	
-4A4M	opsd_bovin	X-ray	3.3	Active	A	
-3UON	acm2_human	X-ray	3.0	Inactive	A	
-3VG9	aa2ar_human	X-ray	2.7	Inactive	A	
-3VGA	aa2ar_human	X-ray	3.1	Inactive	A	
-3V2W	s1pr1_human	X-ray	3.35	Inactive	A	
-3V2Y	s1pr1_human	X-ray	2.8	Inactive	A	
-4DAJ	acm3_rat	X-ray	3.4	Inactive	A	
-3UZA	aa2ar_human	X-ray	3.27	Inactive	A	
-3UZC	aa2ar_human	X-ray	3.34	Inactive	A	
-4DJH	oprk_human	X-ray	2.9	Inactive	A	
-4DKL	oprm_mouse	X-ray	2.8	Inactive	A	
-4EA3	oprx_human	X-ray	3.01	Inactive	A	
-4EJ4	oprd_mouse	X-ray	3.4	Inactive	A	
-4AMI	adrb1_melga	X-ray	3.2	Inactive	A	
-4AMJ	adrb1_melga	X-ray	2.3	Inactive	B	
-4EIY	aa2ar_human	X-ray	1.8	Inactive	A	
-4GRV	ntr1_rat	X-ray	2.8	Intermediate	A	
-4GBR	adrb2_human	X-ray	3.99	Inactive	A	
-3VW7	par1_human	X-ray	2.2	Intermediate	A	
-4GPO	adrb1_melga	X-ray	3.5	Inactive	B	
-4IAQ	5ht1b_human	X-ray	2.8	Intermediate	A	
-4IAR	5ht1b_human	X-ray	2.7	Intermediate	A	
-4IB4	5ht2b_human	X-ray	2.7	Intermediate	A	
-3ZPQ	adrb1_melga	X-ray	2.8	Inactive	B	
-3ZPR	adrb1_melga	X-ray	2.7	Inactive	B	
-4BEZ	opsd_bovin	X-ray	3.3	Active	A	
-4JKV	smo_human	X-ray	2.45	Inactive	A	
-4BEY	opsd_bovin	X-ray	2.9	Active	A	
-4K5Y	crfr1_human	X-ray	2.98	Inactive	C	
-4L6R	glr_human	X-ray	3.3	Inactive	A	
-4MBS	ccr5_human	X-ray	2.71	Inactive	A	
-4LDE	adrb2_human	X-ray	2.79	Active	A	
-4LDL	adrb2_human	X-ray	3.1	Active	A	
-4LDO	adrb2_human	X-ray	3.2	Active	A	
-4J4Q	opsd_bovin	X-ray	2.65	Active	A	
-4MQS	acm2_human	X-ray	3.5	Active	A	
-4MQT	acm2_human	X-ray	3.7	Active	A	
-4NC3	5ht2b_human	X-ray	2.8	Intermediate	A	
-4N6H	oprd_human	X-ray	1.8	Inactive	A	
-4N4W	smo_human	X-ray	2.8	Inactive	A	
-3ZEV	ntr1_rat	X-ray	3.0	Inactive	A	
-4BUO	ntr1_rat	X-ray	2.75	Inactive	A	
-4BV0	ntr1_rat	X-ray	3.1	Inactive	A	
-4BWB	ntr1_rat	X-ray	3.57	Inactive	A	
-4O9R	smo_human	X-ray	3.2	Inactive	A	
-4OR2	grm1_human	X-ray	2.8	Inactive	B	
-4NTJ	p2y12_human	X-ray	2.62	Intermediate	A	
-4BVN	adrb1_melga	X-ray	2.1	Inactive	A	
-4PXZ	p2y12_human	X-ray	2.5	Intermediate	A	
-4PY0	p2y12_human	X-ray	3.1	Intermediate	A	
-4OO9	grm5_human	X-ray	2.6	Inactive	A	
-4PHU	ffar1_human	X-ray	2.33	Intermediate	A	
-4QIM	smo_human	X-ray	2.61	Inactive	A	
-4QIN	smo_human	X-ray	2.6	Inactive	A	
-4QKX	adrb2_human	X-ray	3.3	Active	A	
-4PXF	opsd_bovin	X-ray	2.75	Active	A	
-4U14	acm3_rat	X-ray	3.57	Inactive	A	
-4U15	acm3_rat	X-ray	2.8	Inactive	B	
-4U16	acm3_rat	X-ray	3.7	Inactive	B	
-4RWA	oprd_human	X-ray	3.28	Inactive	A	
-4RWD	oprd_human	X-ray	2.7	Inactive	A	
-4S0V	ox2r_human	X-ray	2.5	Inactive	A	
-4RWS	cxcr4_human	X-ray	3.1	Inactive	A	
-4XT1	us28_hcmva	X-ray	2.89	Active	A	
-4XT3	us28_hcmva	X-ray	3.8	Active	A	
-4XNV	p2ry1_human	X-ray	2.2	Intermediate	A	
-4XNW	p2ry1_human	X-ray	2.7	Intermediate	A	
-4UG2	aa2ar_human	X-ray	2.6	Intermediate	A	
-4UHR	aa2ar_human	X-ray	2.6	Intermediate	A	
-4YAY	agtr1_human	X-ray	2.9	Inactive	A	
-4Z34	lpar1_human	X-ray	3.0	Inactive	A	
-4Z35	lpar1_human	X-ray	2.9	Inactive	A	
-4Z36	lpar1_human	X-ray	2.9	Inactive	A	
-4WW3	opsd_todpa	X-ray	2.8	Inactive	A	
-4XEE	ntr1_rat	X-ray	2.9	Intermediate	A	
-4XES	ntr1_rat	X-ray	2.6	Intermediate	A	
-4ZWJ	opsd_human	X-ray	3.3	Active	A	
-5C1M	oprm_mouse	X-ray	2.1	Active	A	
-5CGC	grm5_human	X-ray	3.1	Inactive	A	
-5CGD	grm5_human	X-ray	2.6	Inactive	A	
-5A8E	adrb1_melga	X-ray	2.4	Inactive	A	
-4ZUD	agtr1_human	X-ray	2.8	Inactive	A	
-5DHG	oprx_human	X-ray	3.0	Inactive	A	
-5DHH	oprx_human	X-ray	3.0	Inactive	A	
-4X1H	opsd_bovin	X-ray	2.29	Active	A	
-5F8U	adrb1_melga	X-ray	3.35	Inactive	A	
-5D5A	adrb2_human	X-ray	2.48	Inactive	A	
-5D5B	adrb2_human	X-ray	3.8	Inactive	A	
-4ZJ8	ox1r_human	X-ray	2.75	Inactive	A	
-4ZJC	ox1r_human	X-ray	2.83	Inactive	A	
-5CXV	acm1_human	X-ray	2.7	Inactive	A	
-5DSG	acm4_human	X-ray	2.6	Inactive	B	
-5DGY	opsd_human	X-ray	7.7	Active	A	
-5EE7	glr_human	X-ray	2.5	Inactive	A	
-4Z9G	crfr1_human	X-ray	3.18	Inactive	A	
-5IU4	aa2ar_human	X-ray	1.72	Inactive	A	
-5IU7	aa2ar_human	X-ray	1.9	Inactive	A	
-5IU8	aa2ar_human	X-ray	2.0	Inactive	A	
-5IUA	aa2ar_human	X-ray	2.2	Inactive	A	
-5IUB	aa2ar_human	X-ray	2.1	Inactive	A	
-5JQH	adrb2_human	X-ray	3.2	Inactive	A	
-5L7D	smo_human	X-ray	3.2	Inactive	B	
-5L7I	smo_human	X-ray	3.3	Inactive	B	
-5G53	aa2ar_human	X-ray	3.4	Active	A	
-5DYS	opsd_bovin	X-ray	2.3	Active	A	
-5EN0	opsd_bovin	X-ray	2.81	Active	A	
-5D6L	adrb2_human	X-ray	3.2	Inactive	A	
-5GLH	ednrb_human	X-ray	2.8	Inactive	A	
-5GLI	ednrb_human	X-ray	2.5	Inactive	A	
-5K2A	aa2ar_human	X-ray	2.5	Inactive	A	
-5K2B	aa2ar_human	X-ray	2.5	Inactive	A	
-5K2C	aa2ar_human	X-ray	1.9	Inactive	A	
-5K2D	aa2ar_human	X-ray	1.9	Inactive	A	
-5TGZ	cnr1_human	X-ray	2.8	Inactive	A	
-5LWE	ccr9_human	X-ray	2.8	Inactive	B	
-5U09	cnr1_human	X-ray	2.6	Inactive	A	
-5T1A	ccr2_human	X-ray	2.81	Inactive	A	
-5T04	ntr1_rat	X-ray	3.3	Active	A	
-5TVN	5ht2b_human	X-ray	2.9	Intermediate	A	
-5UIG	aa2ar_human	X-ray	3.5	Inactive	A	
-5UEN	aa1r_human	X-ray	3.2	Inactive	B	
-5TE3	opsd_bovin	X-ray	2.7	Active	A	
-5TE5	opsd_bovin	X-ray	4.01	Inactive	A	
-5UNF	agtr2_human	X-ray	2.8	Active	A	
-5UNG	agtr2_human	X-ray	2.8	Active	B	
-5UNH	agtr2_human	X-ray	2.9	Active	B	
-5NDD	par2_human	X-ray	2.8	Intermediate	A	
-5NDZ	par2_human	X-ray	3.6	Intermediate	A	
-5NJ6	par2_human	X-ray	4.0	Intermediate	A	
-5UZ7	calcr_human	cryo-EM	4.1	Active	R	
-5VEX	glp1r_human	X-ray	3.0	Inactive	B	
-5UVI	aa2ar_human	X-ray	3.2	Inactive	A	
-5V56	smo_human	X-ray	2.9	Inactive	B	
-5V57	smo_human	X-ray	3.0	Inactive	A	
-5VAI	g1sgd4_rabit	cryo-EM	4.1	Active	R	
-5VEW	glp1r_human	X-ray	2.7	Inactive	A	
-5XEZ	glr_human	X-ray	3.0	Inactive	B	
-5XF1	glr_human	X-ray	3.19	Inactive	B	
-5JTB	aa2ar_human	X-ray	2.8	Inactive	A	
-5VBL	apj_human	X-ray	2.6	Inactive	B	
-5TZR	ffar1_human	X-ray	2.2	Intermediate	A	
-5TZY	ffar1_human	X-ray	3.22	Intermediate	A	
-5NX2	glp1r_human	X-ray	3.7	Intermediate	A	
-5UIW	ccr5_human	X-ray	2.2	Inactive	A	
-5XR8	cnr1_human	X-ray	2.95	Active	A	
-5XRA	cnr1_human	X-ray	2.8	Active	A	
-5MZJ	aa2ar_human	X-ray	2.0	Inactive	A	
-5MZP	aa2ar_human	X-ray	2.1	Inactive	A	
-5N2R	aa2ar_human	X-ray	2.8	Inactive	A	
-5N2S	aa1r_human	X-ray	3.3	Inactive	A	
-5TUD	5ht2b_human	X-ray	3.0	Active	D	
-5W0P	opsd_human	X-ray	3.01	Active	D	
-5X7D	adrb2_human	X-ray	2.7	Inactive	A	
-5X93	ednrb_human	X-ray	2.2	Inactive	A	
-5XPR	ednrb_human	X-ray	3.6	Inactive	A	
-5XSZ	q08bg4_danre	X-ray	3.2	Active	A	
-5NLX	aa2ar_human	X-ray	2.14	Inactive	A	
-5NM2	aa2ar_human	X-ray	1.95	Inactive	A	
-5NM4	aa2ar_human	X-ray	1.7	Inactive	A	
-5WIU	drd4_human	X-ray	1.96	Inactive	A	
-5WIV	drd4_human	X-ray	2.14	Inactive	A	
-5WQC	ox2r_human	X-ray	1.96	Inactive	A	
-5VRA	aa2ar_human	X-ray	2.35	Inactive	A	
-5WKT	opsd_bovin	X-ray	3.2	Active	A	
-5WS3	ox2r_human	X-ray	2.3	Inactive	A	
-5X33	q9wtk1_cavpo	X-ray	3.7	Inactive	A	
-5O9H	c5ar1_human	X-ray	2.7	Inactive	A	
-6AQF	aa2ar_human	X-ray	2.51	Inactive	A	
-5OLG	aa2ar_human	X-ray	1.87	Inactive	A	
-5OLH	aa2ar_human	X-ray	2.6	Inactive	A	
-5OLO	aa2ar_human	X-ray	3.1	Inactive	A	
-5OLV	aa2ar_human	X-ray	2.0	Inactive	A	
-5OLZ	aa2ar_human	X-ray	1.9	Inactive	A	
-5OM1	aa2ar_human	X-ray	2.1	Inactive	A	
-5OM4	aa2ar_human	X-ray	2.0	Inactive	A	
-5YQZ	glr_human	X-ray	3.0	Inactive	R	
-6B73	oprk_human	X-ray	3.1	Active	A	
-5V54	5ht1b_human	X-ray	3.9	Intermediate	A	
-6BQG	5ht2c_human	X-ray	3.0	Active	A	
-6BQH	5ht2c_human	X-ray	2.7	Inactive	A	
-5WF5	aa2ar_human	X-ray	2.6	Intermediate	A	
-5WF6	aa2ar_human	X-ray	2.9	Intermediate	A	
-6B3J	glp1r_human	cryo-EM	3.3	Active	R	
-6FFH	grm5_human	X-ray	2.65	Inactive	A	
-6FFI	grm5_human	X-ray	2.2	Inactive	A	
-6CM4	drd2_human	X-ray	2.87	Inactive	A	
-6FK6	opsd_bovin	X-ray	2.36	Active	A	
-6FK7	opsd_bovin	X-ray	2.62	Active	A	
-6FK8	opsd_bovin	X-ray	2.87	Active	A	
-6FK9	opsd_bovin	X-ray	2.63	Active	A	
-6FKA	opsd_bovin	X-ray	2.7	Active	A	
-6FKB	opsd_bovin	X-ray	3.03	Active	A	
-6FKC	opsd_bovin	X-ray	2.46	Active	A	
-6FKD	opsd_bovin	X-ray	2.49	Active	A	
-5ZBH	npy1r_human	X-ray	3.0	Inactive	A	
-5ZBQ	npy1r_human	X-ray	2.7	Inactive	A	
-5KW2	ffar1_human	X-ray	2.76	Intermediate	A	
-6GDG	aa2ar_human	cryo-EM	4.11	Active	A	
-6D32	q98sw5_xenla	X-ray	3.75	Inactive	A	
-6D35	q98sw5_xenla	X-ray	3.9	Inactive	A	
-6C1Q	c5ar1_human	X-ray	2.9	Inactive	B	
-6C1R	c5ar1_human	X-ray	2.2	Inactive	B	
-5WB1	q80km9_hcmv	X-ray	3.51	Active	A	
-5WB2	q80km9_hcmv	X-ray	3.5	Active	A	
-6DDE	oprm_mouse	cryo-EM	3.5	Active	R	
-6DDF	oprm_mouse	cryo-EM	3.5	Active	R	
-5ZKP	ptafr_human	X-ray	2.81	Other	A	
-5ZKQ	ptafr_human	X-ray	2.9	Intermediate	B	
-6CMO	opsd_human	cryo-EM	4.5	Active	R	
-6D9H	aa1r_human	cryo-EM	3.6	Active	R	
-6G79	5ht1b_human	cryo-EM	3.78	Active	S	
-5XJM	agtr2_human	X-ray	3.2	Active	A	
-6BD4	fzd4_human	X-ray	2.4	Inactive	A	
-6DRX	5ht2b_human	X-ray	3.1	Intermediate	A	
-6DRY	5ht2b_human	X-ray	2.92	Intermediate	A	
-6DRZ	5ht2b_human	X-ray	3.1	Intermediate	A	
-6DS0	5ht2b_human	X-ray	3.19	Intermediate	A	
-6E3Y	calrl_human	cryo-EM	3.3	Active	R	
-6D26	pd2r2_human	X-ray	2.8	Inactive	A	
-6D27	pd2r2_human	X-ray	2.74	Inactive	A	
-6FUF	opsd_bovin	X-ray	3.12	Active	A	
-6H7J	adrb1_melga	X-ray	2.8	Active	A	
-6H7L	adrb1_melga	X-ray	2.7	Active	A	
-6H7M	adrb1_melga	X-ray	2.76	Active	A	
-6H7N	adrb1_melga	X-ray	2.5	Active	A	
-6H7O	adrb1_melga	X-ray	2.8	Active	A	
-6AKX	ccr5_human	X-ray	2.8	Inactive	B	
-6AKY	ccr5_human	X-ray	2.8	Inactive	A	
-6MXT	adrb2_human	X-ray	2.96	Active	A	
-5YC8	acm2_human	X-ray	2.5	Inactive	A	
-5ZK3	acm2_human	X-ray	2.6	Inactive	A	
-5ZK8	acm2_human	X-ray	3.0	Inactive	A	
-5ZKB	acm2_human	X-ray	2.95	Inactive	A	
-5ZKC	acm2_human	X-ray	2.3	Inactive	A	
-6FJ3	pth1r_human	X-ray	2.5	Inactive	A	
-6IGK	ednrb_human	X-ray	2.0	Intermediate	A	
-6IGL	ednrb_human	X-ray	2.7	Inactive	A	
-5ZHP	acm3_rat	X-ray	3.1	Inactive	B	
-5YHL	pe2r4_human	X-ray	4.2	Inactive	A	
-5YWY	pe2r4_human	X-ray	3.2	Inactive	A	
-6AK3	pe2r3_human	X-ray	2.9	Active	B	
-6M9T	pe2r3_human	X-ray	2.5	Intermediate	A	
-6E59	nk1r_human	X-ray	3.4	Inactive	A	
-6MEO	ccr5_human	cryo-EM	3.9	Inactive	B	
-6MET	ccr5_human	cryo-EM	4.5	Inactive	B	
-6IIU	ta2r_human	X-ray	2.5	Inactive	A	
-6IIV	ta2r_human	X-ray	3.0	Inactive	A	
-6GPS	ccr2_human	X-ray	3.3	Inactive	A	
-6GPX	ccr2_human	X-ray	2.7	Inactive	B	
-6IBL	adrb1_melga	X-ray	2.7	Active	A	
-6HLL	nk1r_human	X-ray	3.27	Inactive	A	
-6HLO	nk1r_human	X-ray	2.4	Inactive	A	
-6HLP	nk1r_human	X-ray	2.2	Inactive	A	
-6N51	grm5_human	cryo-EM	4.0	Intermediate	B	
-6N52	grm5_human	cryo-EM	4.0	Inactive	A	
-6NIY	calcr_human	cryo-EM	3.34	Active	R	
-5ZTY	cnr2_human	X-ray	2.8	Inactive	A	
-6DO1	agtr1_human	X-ray	2.9	Active	A	
-6N4B	cnr1_human	cryo-EM	3.0	Active	R	
-6A93	5ht2a_human	X-ray	3.0	Inactive	A	
-6A94	5ht2a_human	X-ray	2.9	Inactive	A	
-6J20	nk1r_human	X-ray	2.7	Inactive	A	
-6J21	nk1r_human	X-ray	3.2	Inactive	A	
-6NBF	pth1r_human	cryo-EM	3.0	Active	R	
-6NBH	pth1r_human	cryo-EM	3.5	Active	R	
-6NBI	pth1r_human	cryo-EM	4.0	Active	R	
-6ME2	mtr1a_human	X-ray	2.8	Inactive	A	
-6ME3	mtr1a_human	X-ray	2.9	Inactive	A	
-6ME4	mtr1a_human	X-ray	3.2	Inactive	A	
-6ME5	mtr1a_human	X-ray	3.2	Inactive	A	
-6ME6	mtr1b_human	X-ray	2.8	Inactive	B	
-6ME7	mtr1b_human	X-ray	3.2	Inactive	A	
-6ME8	mtr1b_human	X-ray	3.1	Inactive	B	
-6ME9	mtr1b_human	X-ray	3.3	Inactive	B	
-6MH8	aa2ar_human	X-ray	4.2	Inactive	A	
-6OIJ	acm1_human	cryo-EM	3.3	Active	R	
-6OIK	acm2_human	cryo-EM	3.6	Active	R	
-6E67	adrb2_human	X-ray	3.7	Active	B	
-6OT0	smo_human	cryo-EM	3.9	Active	R	
-6GT3	aa2ar_human	X-ray	2.0	Inactive	A	
-6N48	adrb2_human	X-ray	3.2	Active	A	
-6I9K	b1b1u5_9arac	X-ray	2.15	Inactive	A	
-6O3C	smo_mouse	X-ray	2.8	Active	A	
-6OS9	ntr1_human	cryo-EM	3.0	Intermediate	R	
-6OSA	ntr1_human	cryo-EM	3.0	Intermediate	R	
-6QNO	opsd_bovin	cryo-EM	4.38	Active	R	
-6K1Q	ednrb_human	X-ray	2.7	Inactive	A	
-6OY9	opsd_bovin	cryo-EM	3.9	Active	R	
-6OYA	opsd_bovin	cryo-EM	3.3	Active	R	
-6IBB	sucr1_rat	X-ray	2.12	Active	A	
-6RNK	sucr1_rat	X-ray	1.94	Active	A	
-6OFJ	opsd_bovin	cryo-EM	4.5	Intermediate	A	
-6QZH	ccr7_human	X-ray	2.1	Inactive	A	
-6KQI	cnr1_human	X-ray	3.25	Inactive	A	
-6JZH	aa2ar_human	X-ray	2.25	Inactive	A	
-6RZ4	cltr1_human	X-ray	2.7	Intermediate	A	
-6RZ5	cltr1_human	X-ray	2.53	Intermediate	B	
-6KJV	glp1r_human	X-ray	2.8	Inactive	B	
-6KK1	glp1r_human	X-ray	2.8	Inactive	B	
-6KK7	glp1r_human	X-ray	3.1	Inactive	B	
-6PRZ	adrb2_human	X-ray	2.8	Inactive	A	
-6PS0	adrb2_human	X-ray	3.4	Inactive	A	
-6PS1	adrb2_human	X-ray	3.2	Inactive	A	
-6PS2	adrb2_human	X-ray	2.4	Inactive	A	
-6PS3	adrb2_human	X-ray	2.5	Inactive	A	
-6PS4	adrb2_human	X-ray	2.6	Inactive	A	
-6PS5	adrb2_human	X-ray	2.9	Inactive	A	
-6PS6	adrb2_human	X-ray	2.7	Inactive	A	
-6PS7	aa2ar_human	X-ray	1.85	Inactive	A	
-6PS8	mtr1a_human	X-ray	3.3	Inactive	A	
-6NI3	adrb2_human	cryo-EM	3.8	Active	R	
-6IQL	drd4_mouse	X-ray	3.5	Inactive	A	
-6KUW	ada2c_human	X-ray	2.8	Inactive	A	
-6KUX	ada2a_human	X-ray	2.7	Inactive	A	
-6KUY	ada2a_human	X-ray	3.2	Inactive	A	
-6PWC	ntr1_human	cryo-EM	4.9	Active	R	
-6OL9	acm5_human	X-ray	2.54	Inactive	A	
-6PT2	oprd_human	X-ray	2.8	Intermediate	A	
-6PT3	oprd_human	X-ray	3.3	Intermediate	A	
-6RZ6	cltr2_human	X-ray	2.43	Intermediate	A	
-6RZ7	cltr2_human	X-ray	2.43	Intermediate	A	
-6RZ8	cltr2_human	X-ray	2.7	Intermediate	A	
-6RZ9	cltr2_human	X-ray	2.73	Intermediate	A	
-6TO7	ox1r_human	X-ray	2.26	Inactive	A	
-6TOD	ox1r_human	X-ray	2.11	Inactive	A	
-6TP3	ox1r_human	X-ray	3.04	Inactive	A	
-6TP4	ox1r_human	X-ray	3.01	Inactive	A	
-6TP6	ox1r_human	X-ray	2.34	Inactive	B	
-6TPG	ox2r_human	X-ray	2.74	Inactive	A	
-6TPJ	ox2r_human	X-ray	2.74	Inactive	A	
-6TPN	ox2r_human	X-ray	2.61	Inactive	A	
-6TQ4	ox1r_human	X-ray	2.3	Inactive	B	
-6TQ6	ox1r_human	X-ray	2.55	Inactive	B	
-6TQ7	ox1r_human	X-ray	2.66	Inactive	A	
-6TQ9	ox1r_human	X-ray	2.66	Inactive	B	
-6ORV	glp1r_human	cryo-EM	3.0	Active	E	
-6JOD	agtr2_human	X-ray	3.2	Active	A	
-6TOS	ox1r_human	X-ray	2.13	Inactive	B	
-6TOT	ox1r_human	X-ray	2.22	Inactive	B	
-6KNM	apj_human	X-ray	3.2	Inactive	B	
-6P9X	crfr1_human	cryo-EM	2.91	Active	R	
-6P9Y	pacr_human	cryo-EM	3.01	Active	R	
-6KPC	cnr2_human	X-ray	3.2	Inactive	A	
-6KPF	cnr2_human	cryo-EM	2.9	Active	R	
-6KPG	cnr1_human	cryo-EM	3.0	Active	R	
-6LRY	ednrb_human	X-ray	3.0	Intermediate	A	
-6NWE	opsd_bovin	X-ray	2.71	Active	A	
-6PB0	crfr1_human	cryo-EM	3.0	Active	R	
-6PB1	crfr2_human	cryo-EM	2.8	Active	P	
-6PT0	cnr2_human	cryo-EM	3.2	Intermediate	R	
-6OS0	agtr1_human	X-ray	2.9	Active	A	
-6OS1	agtr1_human	X-ray	2.79	Active	A	
-6OS2	agtr1_human	X-ray	2.7	Active	A	
-6LI0	gpr52_human	X-ray	2.2	Inactive	A	
-6LI1	gpr52_human	X-ray	2.9	Inactive	A	
-6LI2	gpr52_human	X-ray	2.8	Inactive	A	
-6LI3	gpr52_human	cryo-EM	3.32	Intermediate	R	
-6OMM	fpr2_human	cryo-EM	3.17	Active	R	
-6U1N	acm2_human	cryo-EM	4.0	Intermediate	R	
-6UP7	ntr1_human	cryo-EM	4.2	Active	R	
-6LUQ	drd2_human	X-ray	3.1	Inactive	A	
-6KP6	acm4_human	X-ray	3.0	Inactive	A	
-6LPB	pacr_human	cryo-EM	3.9	Active	R	
-6M1H	pacr_human	cryo-EM	3.6	Active	A	
-6M1I	pacr_human	cryo-EM	3.5	Active	A	
-6LN2	glp1r_human	X-ray	3.2	Inactive	A	
-6VI4	oprk_human	X-ray	3.3	Inactive	B	
-6LW5	fpr2_human	X-ray	2.8	Active	A	
-6OBA	adrb2_human	X-ray	3.1	Inactive	A	
-6UUN	calrl_human	cryo-EM	3.0	Active	R	
-6LMK	glr_human	cryo-EM	3.7	Active	R	
-6LML	glr_human	cryo-EM	3.9	Active	R	
-6UUS	calrl_human	cryo-EM	2.4	Active	R	
-6UVA	calrl_human	cryo-EM	2.3	Active	R	
-6K41	ada2b_human	cryo-EM	2.9	Active	R	
-6K42	ada2b_human	cryo-EM	4.1	Active	R	
-6W25	mc4r_human	X-ray	2.75	Inactive	A	
-6WHC	glr_human	cryo-EM	3.4	Active	R	
-6UO8	gabr2_human	cryo-EM	3.63	Active	B	
-6UO9	gabr2_human	cryo-EM	4.8	Intermediate	B	
-6UOA	gabr2_human	cryo-EM	6.3	Intermediate	B	
-6VJM	gabr2_human	cryo-EM	3.97	Inactive	B	
-6TKO	adrb1_melga	cryo-EM	3.3	Active	A	
-6VMS	drd2_human	cryo-EM	3.8	Intermediate	R	
-6PEL	opsd_bovin	X-ray	3.19	Active	A	
-6WWZ	ccr6_human	cryo-EM	3.34	Active	R	
-6PGS	opsd_bovin	X-ray	2.91	Active	A	
-6PH7	opsd_bovin	X-ray	2.9	Active	A	
-6W2X	gabr2_human	cryo-EM	3.6	Inactive	B	
-6W2Y	gabr1_human	cryo-EM	3.2	Inactive	B	
-6WIV	gabr2_human	cryo-EM	3.3	Inactive	B	
-7C7Q	gabr2_human	cryo-EM	3.0	Active	B	
-7C7S	gabr2_human	cryo-EM	2.9	Inactive	B	
-6WJC	acm1_human	X-ray	2.55	Inactive	A	
-6S0L	aa2ar_human	X-ray	2.65	Inactive	A	
-6S0Q	aa2ar_human	X-ray	2.65	Inactive	A	
-6V9S	ox1r_human	X-ray	3.5	Inactive	A	
-6VCB	glp1r_human	cryo-EM	3.3	Active	R	
-7C61	5ht1b_human	X-ray	3.0	Intermediate	A	
-7C6A	agtr2_human	X-ray	3.4	Active	A	
-6TPK	oxyr_human	X-ray	3.2	Inactive	A	
-7BZ2	adrb2_human	cryo-EM	3.82	Active	R	
-6KO5	ghsr_human	X-ray	3.3	Inactive	A	
-6WI9	sctr_human	cryo-EM	4.3	Active	R	
-6WPW	glr_human	cryo-EM	3.1	Active	R	
-6WZG	sctr_human	cryo-EM	2.3	Active	R	
-6WW2	fzd5_human	cryo-EM	3.7	Inactive	R	
-7C2E	glp1r_human	cryo-EM	4.2	Active	R	
-6LFL	cxcr2_human	X-ray	3.2	Inactive	A	
-6LFM	cxcr2_human	cryo-EM	3.5	Active	R	
-6LFO	cxcr2_human	cryo-EM	3.4	Active	R	
-6VN7	vipr1_human	cryo-EM	3.2	Active	R	
-7BW0	gpbar_human	cryo-EM	3.9	Active	R	
-7JJO	adrb1_melga	cryo-EM	2.6	Active	R	
-6X18	glp1r_human	cryo-EM	2.1	Active	R	
-6X19	glp1r_human	cryo-EM	2.1	Active	R	
-6X1A	glp1r_human	cryo-EM	2.5	Active	R	
-7CFM	gpbar_human	cryo-EM	3.0	Active	R	
-7CFN	gpbar_human	cryo-EM	3.0	Active	R	
-6Z10	sucr1_rat	X-ray	2.27	Active	A	
-6ZDR	aa2ar_human	X-ray	1.92	Inactive	A	
-6ZDV	aa2ar_human	X-ray	2.13	Inactive	A	
-6WGT	5ht2a_human	X-ray	3.4	Inactive	B	
-6WH4	5ht2a_human	X-ray	3.4	Inactive	C	
-6WHA	5ht2a_human	cryo-EM	3.36	Active	A	
-6XBJ	smo_human	cryo-EM	3.88	Active	R	
-6XBK	smo_human	cryo-EM	3.24	Active	R	
-6XBL	smo_human	cryo-EM	3.9	Active	R	
-6XBM	smo_human	cryo-EM	3.15	Active	R	
-7BR3	gnrhr_human	X-ray	2.79	Inactive	A	
-7D3S	sctr_human	cryo-EM	2.9	Active	R	
-7CA3	gabr2_human	cryo-EM	4.5	Active	B	
-7CA5	gabr2_human	cryo-EM	7.6	Inactive	B	
-7CUM	gabr2_human	cryo-EM	3.52	Inactive	B	
-6WQA	aa2ar_human	X-ray	2.0	Inactive	A	
-6XOX	glp1r_human	cryo-EM	3.1	Active	R	
-7CZ5	ghrhr_human	cryo-EM	2.6	Active	R	
-7D7M	pe2r4_human	cryo-EM	3.3	Active	A	
-6LPJ	aa2ar_human	X-ray	1.8	Inactive	A	
-6LPK	aa2ar_human	X-ray	1.8	Inactive	A	
-6LPL	aa2ar_human	X-ray	2.0	Inactive	A	
-7BTS	adrb1_human	X-ray	3.13	Active	A	
-7BU6	adrb1_human	X-ray	2.7	Active	A	
-7BU7	adrb1_human	X-ray	2.6	Active	A	
-7BVQ	adrb1_human	X-ray	2.5	Inactive	A	
-7AD3	ste2_yeast	cryo-EM	3.5	Active	A	
-7D68	glp2r_human	cryo-EM	3.0	Active	R	
-7DHI	adrb2_human	cryo-EM	3.26	Active	R	
-7DHR	adrb2_human	cryo-EM	3.8	Active	R	
-7DFP	drd2_human	X-ray	3.1	Inactive	A	
-7L0P	ntr1_rat	cryo-EM	4.1	Active	C	
-7L0Q	ntr1_rat	cryo-EM	4.3	Active	C	
-7L0R	ntr1_rat	cryo-EM	4.2	Active	C	
-7L0S	ntr1_rat	cryo-EM	4.5	Active	C	
-7LCI	glp1r_human	cryo-EM	2.9	Active	R	
-7LCJ	glp1r_human	cryo-EM	2.82	Active	R	
-7LCK	glp1r_human	cryo-EM	3.24	Active	R	
-7DDZ	npy2r_human	X-ray	2.8	Inactive	A	
-7D76	agrg3_human	cryo-EM	3.1	Active	R	
-7D77	agrg3_human	cryo-EM	2.9	Active	R	
-6YVR	ntr1_rat	X-ray	2.46	Inactive	B	
-6Z4Q	ntr1_rat	X-ray	2.92	Inactive	A	
-6Z4S	ntr1_rat	X-ray	2.71	Inactive	A	
-6Z4V	ntr1_rat	X-ray	2.6	Inactive	A	
-6Z66	ntr1_rat	X-ray	3.19	Inactive	A	
-6Z8N	ntr1_rat	X-ray	2.8	Inactive	A	
-6ZA8	ntr1_rat	X-ray	2.72	Inactive	A	
-6ZIN	ntr1_rat	X-ray	2.64	Inactive	A	
-7L1U	ox2r_human	cryo-EM	3.2	Active	R	
-7L1V	ox2r_human	cryo-EM	3.0	Active	R	
-7K15	lt4r1_human	X-ray	2.88	Inactive	A	
-7JV5	drd1_human	cryo-EM	3.0	Active	R	
-7JVP	drd1_human	cryo-EM	2.9	Active	R	
-7JVQ	drd1_human	cryo-EM	3.0	Active	R	
-7JVR	drd2_human	cryo-EM	2.8	Active	R	
-7KNT	calrl_human	cryo-EM	3.15	Inactive	R	
-7KNU	calrl_human	cryo-EM	3.49	Intermediate	R	
-7CKW	drd1_human	cryo-EM	3.22	Active	R	
-7CKX	drd1_human	cryo-EM	3.54	Active	R	
-7CKY	drd1_human	cryo-EM	3.2	Active	R	
-7CKZ	drd1_human	cryo-EM	3.1	Active	R	
-7CRH	drd1_human	cryo-EM	3.3	Active	R	
-7LJC	drd1_human	cryo-EM	3.0	Active	R	
-7LJD	drd1_human	cryo-EM	3.2	Active	R	
-7CMU	drd3_human	cryo-EM	3.0	Active	R	
-7CMV	drd3_human	cryo-EM	2.7	Active	R	
-7DTT	casr_human	cryo-EM	3.8	Active	A	
-7DTU	casr_human	cryo-EM	4.4	Intermediate	A	
-7DTV	casr_human	cryo-EM	3.5	Active	A	
-7DTW	casr_human	cryo-EM	4.5	Inactive	A	
-7DFL	hrh1_human	cryo-EM	3.3	Active	R	
-7ARO	aa2ar_human	X-ray	3.12	Inactive	A	
-7E2X	5ht1a_human	cryo-EM	3.0	Active	R	
-7E2Y	5ht1a_human	cryo-EM	3.0	Active	R	
-7E2Z	5ht1a_human	cryo-EM	3.1	Active	R	
-7E33	5ht1e_human	cryo-EM	2.9	Active	R	
-7JOZ	drd1_human	X-ray	3.8	Active	R	
-7E32	5ht1d_human	cryo-EM	2.9	Active	R	
-7AUE	mc4r_human	cryo-EM	2.97	Active	R	
-7CX2	pe2r2_human	cryo-EM	2.8	Active	R	
-7CX3	pe2r2_human	cryo-EM	2.8	Active	R	
-7CX4	pe2r2_human	cryo-EM	2.9	Active	R	
-7EB2	gabr2_human	cryo-EM	3.5	Active	D	
-7KH0	v2r_human	cryo-EM	2.8	Active	R	
-7MBX	cckar_human	cryo-EM	1.95	Active	R	
-7MBY	cckar_human	cryo-EM	2.44	Active	R	
-7BB6	v2r_human	cryo-EM	4.2	Intermediate	A	
-7BB7	v2r_human	cryo-EM	4.4	Active	A	
-7C4S	s1pr3_human	X-ray	3.2	Intermediate	A	
-7DD5	casr_human	cryo-EM	3.2	Inactive	A	
-7DD6	casr_human	cryo-EM	3.2	Active	B	
-7DD7	casr_human	cryo-EM	3.2	Active	B	
-7E9G	grm2_human	cryo-EM	3.5	Intermediate	R	
-7E9H	grm4_human	cryo-EM	4.0	Intermediate	R	
-7EPA	grm2_human	cryo-EM	3.6	Intermediate	A	
-7EPB	grm2_human	cryo-EM	3.1	Active	B	
-7EPC	grm7_human	cryo-EM	4.0	Inactive	B	
-7EPD	grm2_human	cryo-EM	3.9	Inactive	A	
-7EPE	grm2_human	X-ray	2.5	Inactive	A	
-7EPF	grm2_human	X-ray	2.7	Inactive	A	
-7M3E	casr_human	cryo-EM	3.2	Inactive	B	
-7M3F	casr_human	cryo-EM	2.8	Active	B	
-7M3G	casr_human	cryo-EM	2.5	Active	A	
-7M3J	casr_human	cryo-EM	4.1	Inactive	A	
-7O7F	ccr5_human	cryo-EM	3.15	Active	C	
-7E14	glp1r_human	cryo-EM	2.9	Active	R	
-7JHJ	q3ksp2_ebvg	cryo-EM	3.2	Active	R	
-7MT8	opsd_bovin	cryo-EM	5.8	Active	R	
-7MT9	opsd_bovin	cryo-EM	7.0	Active	R	
-7MTA	opsd_bovin	cryo-EM	4.1	Active	R	
-7MTB	opsd_bovin	cryo-EM	4.0	Active	R	
-7MTQ	grm2_human	cryo-EM	3.65	Inactive	B	
-7MTR	grm2_human	cryo-EM	3.3	Active	A	
-7MTS	grm2_human	cryo-EM	3.2	Active	A	
-7DUQ	glp1r_human	cryo-EM	2.5	Active	R	
-7F1Q	ccr5_human	cryo-EM	2.9	Active	R	
-7F1R	ccr5_human	cryo-EM	3.0	Active	R	
-7F1S	ccr5_human	cryo-EM	2.8	Active	R	
-7F1T	ccr5_human	X-ray	2.6	Inactive	A	
-7DW9	v2r_human	cryo-EM	2.6	Active	R	
-7DH5	adrb3_canlf	cryo-EM	3.16	Active	R	
-7DTY	gipr_human	cryo-EM	2.98	Active	R	
-7EVW	fzd7_human	cryo-EM	3.22	Active	R	
-7EXD	5ht1f_human	cryo-EM	3.4	Active	R	
-7KI0	glp1r_human	cryo-EM	2.5	Active	R	
-7KI1	glp1r_human	cryo-EM	2.5	Active	R	
-7DUR	glp1r_human	cryo-EM	3.3	Active	R	
-7EVM	glp1r_human	cryo-EM	2.5	Active	R	
-7DB6	mtr1a_human	cryo-EM	3.3	Active	D	
-7F16	pth2r_human	cryo-EM	2.8	Active	R	
-7F9Y	ghsr_human	cryo-EM	2.9	Active	R	
-7F9Z	ghsr_human	cryo-EM	3.2	Active	R	
-7EZH	cckar_human	cryo-EM	3.2	Active	D	
-7EZK	cckar_human	cryo-EM	3.1	Active	D	
-7EZM	cckar_human	cryo-EM	2.9	Active	D	
-7M8W	pd2r2_human	X-ray	2.61	Inactive	A	
-7FD8	grm5_human	cryo-EM	3.8	Active	A	
-7FD9	grm5_human	cryo-EM	4.0	Inactive	A	
-7LD3	aa1r_human	cryo-EM	3.2	Active	R	M4 chimera
-7LD4	aa1r_human	cryo-EM	3.3	Active	R	M4 chimera
-7P2L	grm5_human	X-ray	2.54	Inactive	A	
-7RM5	aa2ar_human	Electron crystallography	2.79	Inactive	A	
-7DGD	grm1_human	cryo-EM	3.96	Inactive	A	
-7DGE	grm1_human	cryo-EM	3.65	Intermediate	A	
-7E6T	casr_human	cryo-EM	3.0	Active	A	
-7E6U	casr_human	cryo-EM	6.0	Inactive	A	
-7EW1	s1pr5_human	cryo-EM	3.4	Active	A	
-7EW2	s1pr3_human	cryo-EM	3.1	Active	R	
-7EW3	s1pr3_human	cryo-EM	3.1	Active	R	
-7EW4	s1pr3_human	cryo-EM	3.2	Active	R	
-7FIG	lshr_human	cryo-EM	3.9	Active	R	
-7FIH	lshr_human	cryo-EM	3.2	Active	R	
-7FII	lshr_human	cryo-EM	4.3	Active	R	
-7FIJ	lshr_human	cryo-EM	3.8	Inactive	R	
-6ZFZ	acm1_human	X-ray	2.17	Inactive	A	
-6ZG4	acm1_human	X-ray	2.33	Inactive	A	
-6ZG9	acm1_human	X-ray	2.5	Inactive	A	
-7RTB	glp1r_human	cryo-EM	2.14	Active	R	
-7EIB	bkrb1_human	cryo-EM	3.0	Active	A	
-7F2O	bkrb2_human	cryo-EM	2.9	Active	R	
-7F8U	cckar_human	X-ray	2.8	Inactive	A	
-7F8V	gasr_human	cryo-EM	3.3	Active	R	
-7F8W	gasr_human	cryo-EM	3.1	Active	R	
-7F8Y	cckar_human	X-ray	2.5	Inactive	A	
-7F53	mc4r_human	cryo-EM	3.0	Active	R	
-7F54	mc4r_human	cryo-EM	3.0	Active	R	
-7F55	mc4r_human	cryo-EM	3.1	Active	R	
-7F58	mc4r_human	cryo-EM	3.1	Active	R	
-7RMG	nk1r_human	cryo-EM	3.0	Active	R	
-7RMH	nk1r_human	cryo-EM	3.1	Active	R	
-7RMI	nk1r_human	cryo-EM	3.2	Active	R	
-7PIU	mc4r_human	cryo-EM	2.58	Active	R	
-7PIV	mc4r_human	cryo-EM	2.86	Active	R	
-7S8L	mrgx2_human	cryo-EM	2.45	Active	R	
-7S8M	mrgx2_human	cryo-EM	2.54	Active	R	
-7S8N	mrgx2_human	cryo-EM	2.9	Active	R	
-7S8O	mrgx2_human	cryo-EM	2.58	Active	R	
-7S8P	mrgx4_human	cryo-EM	2.6	Active	R	
-7V3Z	cnr1_human	X-ray	3.29	Active	A	
-7EWL	gp158_human	cryo-EM	3.52	Inactive	A	
-7EWP	gp158_human	cryo-EM	4.3	Inactive	A	
-7EWR	gp158_human	cryo-EM	4.7	Inactive	A	
-7SHE	gp158_human	cryo-EM	3.4	Inactive	A	
-7SHF	gp158_human	cryo-EM	3.4	Inactive	B	
-7VDH	mrgx2_human	cryo-EM	2.9	Active	R	
-7VDL	mrgx2_human	cryo-EM	3.22	Active	R	
-7VDM	mrgx2_human	cryo-EM	2.98	Active	R	
-7VUY	mrgx2_human	cryo-EM	2.84	Active	R	
-7VUZ	mrgx2_human	cryo-EM	2.89	Active	R	
-7VV0	mrgx2_human	cryo-EM	3.5	Active	R	
-7VV3	mrgx2_human	cryo-EM	2.97	Active	R	
-7VV4	mrgx2_human	cryo-EM	2.97	Active	R	
-7VV5	mrgx2_human	cryo-EM	2.76	Active	R	
-7VV6	mrgx2_human	cryo-EM	3.3	Active	R	
-7NA7	ghsr_human	cryo-EM	2.7	Active	R	
-7NA8	ghsr_human	cryo-EM	2.7	Active	R	
-7P00	nk1r_human	cryo-EM	2.71	Active	R	
-7P02	nk1r_human	cryo-EM	2.87	Active	R	
-7VOD	5ht2a_human	X-ray	3.3	Inactive	A	
-7VOE	5ht2a_human	X-ray	2.9	Inactive	A	
-7F8X	cckar_human	X-ray	3.0	Inactive	A	
-7VUG	gp139_human	cryo-EM	3.2	Active	R	
-7VUH	gp139_human	cryo-EM	3.22	Active	R	
-7VUI	gp139_human	cryo-EM	3.3	Active	R	
-7VUJ	gp139_human	cryo-EM	3.8	Active	R	
-7S1M	glp1r_human	cryo-EM	2.41	Active	R	
-7S3I	glp1r_human	cryo-EM	2.51	Active	R	
-7EO2	s1pr1_human	cryo-EM	2.89	Active	A	
-7EO4	s1pr1_human	cryo-EM	2.86	Active	A	
-7WF7	s1pr1_human	cryo-EM	3.4	Active	A	
-7B6W	ada1b_human	X-ray	2.87	Inactive	A	
-7WC4	5ht2a_human	X-ray	3.2	Active	A	
-7WC5	5ht2a_human	X-ray	3.2	Active	A	
-7WC6	5ht2a_human	X-ray	2.6	Active	A	
-7WC7	5ht2a_human	X-ray	2.6	Active	A	
-7WC8	5ht2a_human	X-ray	2.45	Active	A	
-7WC9	5ht2a_human	X-ray	2.5	Active	A	
-7F83	ghsr_human	X-ray	2.94	Inactive 	A	
-7W2Z	ghsr_human	cryo-EM	2.8	Active	R	
-7LLL	glp1r_human	cryo-EM	3.7	Active	R	
-7LLY	glp1r_human	cryo-EM	3.3	Active	R	
-7RKF	us28_hcmva	cryo-EM	4.0	Active	R	
-7RKM	us28_hcmva	cryo-EM	3.5	Active	R	
-7RKN	us28_hcmva	cryo-EM	3.6	Active	R	
-7SIL	casr_human	cryo-EM	2.7	Active	A	
-7SIN	casr_human	cryo-EM	5.9	Inactive	A	
-7SIM	casr_human	cryo-EM	2.7	Active	A	
-7V9M	ghrhr_human	cryo-EM	3.29	Active	R	
-7EVY	s1pr1_human	cryo-EM	2.98	Active	D	
-7EVZ	s1pr1_human	cryo-EM	3.07	Active	D	
-7EW0	s1pr1_human	cryo-EM	3.42	Active	D	
-7EW7	s1pr1_human	cryo-EM	3.27	Active	D	
-7F4D	mshr_human	cryo-EM	3.0	Active	R	
-7F4F	mshr_human	cryo-EM	2.9	Active	R	
-7F4H	mshr_human	cryo-EM	2.7	Active	R	
-7F4I	mshr_human	cryo-EM	3.1	Active	R	
-7JNI	agtr2_human	X-ray	3.0	Inactive	A	
-7T6T	fpr1_human	cryo-EM	3.2	Active	R	
-7T6S	fpr2_human	cryo-EM	3.0	Active	R	
-7T6U	fpr2_human	cryo-EM	2.9	Active	R	
-7T6V	fpr2_human	cryo-EM	3.1	Active	R	
-7VGX	npy1r_human	cryo-EM	3.2	Active	R	
-7T10	ssr2_human	cryo-EM	2.5	Active	R	
-7T11	ssr2_human	cryo-EM	2.7	Active	R	
-7RYC	oxyr_human	cryo-EM	2.9	Active	O	
-7VL8	ccr1_human	cryo-EM	2.9	Active	R	
-7VL9	ccr1_human	cryo-EM	2.6	Active	R	
-7VLA	ccr1_human	cryo-EM	2.7	Active	R	
-7VKT	lt4r1_human	cryo-EM	2.9	Active	A	
-7TD0	lpar1_human	cryo-EM	2.83	Active	R	
-7TD1	lpar1_human	cryo-EM	3.08	Active	R	
-7TD2	lpar1_human	cryo-EM	3.11	Active	R	
-7TD3	s1pr1_human	cryo-EM	3.0	Active	R	
-7TD4	s1pr1_human	cryo-EM	2.6	Active	R	
-7VGY	mtr1a_human	cryo-EM	3.1	Active	A	
-7VGZ	mtr1a_human	cryo-EM	3.3	Active	B	
-7VH0	mtr1b_human	cryo-EM	3.46	Active	A	
-7PX4	aa2ar_human	X-ray	2.25	Inactive	A	
-7PYR	aa2ar_human	X-ray	2.6	Inactive	A	
-7TYF	calcr_human	cryo-EM	2.2	Active	R	
-7TYH	calcr_human	cryo-EM	3.3	Active	R	
-7TYI	calcr_human	cryo-EM	3.3	Active	R	
-7TYL	calcr_human	cryo-EM	3.3	Active	R	
-7TYN	calcr_human	cryo-EM	2.6	Active	R	
-7TYO	calcr_human	cryo-EM	2.7	Active	R	
-7TYW	calcr_human	cryo-EM	3.0	Active	R	
-7TYX	calcr_human	cryo-EM	2.55	Active	R	
-7TYY	calcr_human	cryo-EM	3.0	Active	R	
-7TZF	calcr_human	cryo-EM	2.4	Active	R	
-7FIN	gipr_human	cryo-EM	3.1	Active	R	
-7FIY	gipr_human	cryo-EM	3.4	Active	R	
-7VAB	gipr_human	cryo-EM	3.2	Active	R	
-7FIM	glp1r_human	cryo-EM	3.4	Active	R	
-7VBI	glp1r_human	cryo-EM	3.0	Active	R	
-7V35	glr_human	cryo-EM	3.5	Active	R	
-7WI6	grm3_human	cryo-EM	3.71	Inactive	A	
-7WI8	grm3_human	cryo-EM	4.17	Inactive	A	
-7WIH	grm3_human	cryo-EM	3.68	Active	A	
-7EJ0	ada2a_HUMAN	cryo-EM	3.2	Active	R	
-7EJ8	ada2a_HUMAN	cryo-EM	3.0	Active	R	
-7EJA	ada2a_HUMAN	cryo-EM	3.6	Active	R	
-7EJK	ada2a_HUMAN	cryo-EM	3.4	Active	R	
-7WVU	fpr1_human	cryo-EM	3.3	Active	R	
-7WVV	fpr2_human	cryo-EM	2.9	Active	R	
-7WVW	fpr2_human	cryo-EM	3.1	Active	R	
-7WVX	fpr2_human	cryo-EM	2.8	Active	R	
-7WVY	fpr2_human	cryo-EM	3.0	Active	R	
-7WQ3	galr1_human	cryo-EM	2.7	Active	R	
-7WQ4	galr2_human	cryo-EM	2.6	Active	R	
-7SBF	oprm_mouse	cryo-EM	2.9	Active	R	
-7SCG	oprm_mouse	cryo-EM	3.0	Active	D	
-7U2L	oprm_mouse	cryo-EM	3.2	Active	D	
-7T6B	s1pr2_human	cryo-EM	3.19	Active	R	
-7EZC	aa2ar_human	X-ray	3.8	Active	B	
-7TUY	gp183_human	cryo-EM	2.98	Inactive	R	
-7TUZ	gp183_human	cryo-EM	3.12	Active	R	
-7RA3	gipr_human	cryo-EM	3.24	Active	R	
-7RBT	gipr_human	cryo-EM	3.08	Active	R	
-7RG9	glp1r_human	cryo-EM	3.2	Active	R	
-7RGP	glp1r_human	cryo-EM	2.9	Active	R	
-7VBH	glp1r_human	cryo-EM	3.0	Active	R	
-7WU2	agrd1_human	cryo-EM	2.8	Active	R	
-7WU3	agrf1_human	cryo-EM	3.1	Active	R	
-7WU4	agrf1_human	cryo-EM	3.4	Active	R	
-7WU5	agrf1_human	cryo-EM	3.0	Active	R	
-7SF7	agrl3_human	cryo-EM	2.9	Active	A	
-7SF8	agrg1_human	cryo-EM	2.7	Active	A	
-7WUI	agrg2_mouse	cryo-EM	3.1	Active	R	
-7WUJ	agrg4_human	cryo-EM	3.3	Active	E	
-7EJX	gpr88_human	cryo-EM	2.4	Active	R	
-7S0G	adrb1_melga	cryo-EM	3.86	Active	R	
-7S0F	adrb1_melga	cryo-EM	2.96	Active	R	
-7W53	nmur1_human	cryo-EM	3.2	Active 	R	
-7W55	nmur2_human	cryo-EM	2.8	Active 	R	
-7W56	nmur1_human	cryo-EM	2.9	Active 	R	
-7W57	nmur2_human	cryo-EM	3.2	Active 	R	
-7WUQ	agrg2_mouse	cryo-EM	2.9	Active 	R	
-7EPT	agrd1_human	cryo-EM	3.0	Active	R	
-7EQ1	agrg5_human	cryo-EM	3.3	Active	R	
-7EUO	fpr1_human	cryo-EM	2.9	Active	R	
-7SQO	ox2r_human	cryo-EM	3.17	Active	R	
-7V68	acm4_human	cryo-EM	3.4	Active	R	
-7V69	acm4_human	cryo-EM	3.4	Active	R	
-7V6A	acm4_human	cryo-EM	3.6	Active	R	
-7VQX	vipr2_human	cryo-EM	2.7	Active	R	
-7WBJ	vipr2_human	cryo-EM	3.42	Active	R	
-7X9A	npy1r_human	cryo-EM	3.2	Active	R	
-7X9B	npy2r_human	cryo-EM	3.4	Active	R	
-7X9C	npy4r_human	cryo-EM	3.0	Active	R	
-7XJH	adrb3_canlf	cryo-EM	3.3	Active	R	
-7XJI	adrb3_canlf	cryo-EM	3.9	Active	R	
-7F6H	bkrb2_human	cryo-EM	2.9	Active	A	
-7F6I	bkrb2_human	cryo-EM	2.8	Active	A	
-7S15	glp1r_human	cryo-EM	3.8	Active	R	
-7SR8	ox2r_human	cryo-EM	3.3	Active	R	
-7WIC	ssr2_human	cryo-EM	2.8	Active	R	
-7WIG	ssr2_human	cryo-EM	2.7	Active	R	
-7F0T	drd1_human	cryo-EM	3.1	Active	F	
-7F1O	drd1_human	cryo-EM	3.13	Active	F	
-7F1Z	drd1_human	cryo-EM	3.46	Active	F	
-7F23	drd1_human	cryo-EM	3.58	Active	F	
-7F24	drd1_human	cryo-EM	4.16	Active	F	
-7X2C	drd1_human	cryo-EM	3.2	Active	F	
-7X2D	drd1_human	cryo-EM	3.3	Active	F	
-7X2F	drd1_human	cryo-EM	3.0	Active	F	
-7UL2	ntr1_human	cryo-EM	2.4	Inactive	R	
-7UL3	hrh2_human	cryo-EM	3.0	Inactive	A	
-7XJK	galr2_human	cryo-EM	3.3	Active	F	
-7XJL	galr2_human	cryo-EM	3.5	Active	F	
-7UL4	oprm_mouse	cryo-EM	2.8	Inactive	A	
-7UL5	ssr2_human	cryo-EM	3.1	Inactive	A	
-7WKD	trfr_human	cryo-EM	3.01	Active	R	
-7FEE	cnr1_human	X-ray 	2.7	Inactive	A	
-7WV9	cnr1_human	cryo-EM	3.36	Active	R	
-7X8R	glp1r_human	cryo-EM	2.61	Active	R	
-7X8S	glp1r_human	cryo-EM	3.09	Active	R	
-7ZI0	smo_human	X-ray 	3.0	Inactive	A	
-7RAN	5ht2a_human	cryo-EM	3.45	Active	A	
-7XT8	5ht4r_human	cryo-EM	3.1	Active	R	
-7XT9	5ht4r_human	cryo-EM	3.2	Active	R	
-7XTA	5ht4r_human	cryo-EM	3.2	Active	R	
-7UM4	5ht5a_human	X-ray	2.8	Inactive 	A	
-7UM5	5ht5a_human	cryo-EM	2.73	Active	A	
-7UM6	5ht5a_human	cryo-EM	2.79	Active	A	
-7UM7	5ht5a_human	cryo-EM	2.75	Active	A	
-7XTB	5ht6r_human	cryo-EM	3.3	Active	R	
-7XTC	5ht7r_human	cryo-EM	3.2	Active	R	
-7SUS	apj_human	X-ray	2.7	Inactive 	A	
-7W0L	apj_human	cryo-EM	3.57	Active	R	Dimeric 
-7W0M	apj_human	cryo-EM	3.71	Active	R	
-7W0N	apj_human	cryo-EM	4.21	Active	R	Dimeric 
-7W0O	apj_human	cryo-EM	3.78	Active	R	
-7W0P	apj_human	cryo-EM	3.16	Active	R	
-7XOU	cckar_human	cryo-EM	3.2	Active	R	
-7XOV	cckar_human	cryo-EM	3.0	Active	R	
-7XOW	gasr_human	cryo-EM	3.1	Active	R	
-7XOX	gasr_human	cryo-EM	3.1	Active	R	
-7XBD	galr2_human	cryo-EM	3.11	Active	A	
-7WJ5	ssr2_human	cryo-EM	3.72	Active	R	
-7XBW	cx3c1_human	cryo-EM	2.8	Active	R	
-7XBX	cx3c1_human	cryo-EM	3.4	Active	R	
-7SK3	ackr3_human	cryo-EM	3.8	Active	A	
-7SK4	ackr3_human	cryo-EM	3.3	Active	A	
-7SK5	ackr3_human	cryo-EM	4.0	Active	A	
-7SK6	ackr3_human	cryo-EM	4.0	Active	A	
-7SK7	ackr3_human	cryo-EM	3.3	Active	A	
-7SK8	ackr3_human	cryo-EM	3.3	Active 	A	
-7SK9	ackr3_human	cryo-EM	3.7	Active	A	
-7XTQ	gpbar_human	cryo-EM	3.2	Active	R	
-7Y12	mrgrd_human	cryo-EM	3.1	Active	R	
-7Y13	mrgrd_human	cryo-EM	3.1	Inactive	R	
-7Y14	mrgrd_human	cryo-EM	3.2	Inactive	R	
-7Y15	mrgrd_human	cryo-EM	2.9	Active	R	
-8DCR	adrb1_melga	cryo-EM	2.6	Active	R	
-8DCS	adrb1_melga	cryo-EM	2.5	Active	R	
-8DPF	5ht2c_human	cryo-EM	2.84	Active	A	
-8DPG	5ht2c_human	cryo-EM	3.6	Active	A	
-8DPH	5ht2c_human	cryo-EM	3.2	Active	A	
-8DPI	5ht2c_human	cryo-EM	3.4	Active	A	
-7XAT	ssr2_human	cryo-EM	2.85	Active	A	
-7XAU	ssr2_human	cryo-EM	2.97	Active	A	
-7XAV	ssr2_human	cryo-EM	2.87	Active	A	
-7XMR	ssr2_human	cryo-EM	3.1	Active	R	
-7XN9	ssr2_human	X-ray 	2.6	Inactive 	A	
-7XNA	ssr2_human	X-ray 	2.65	Inactive 	A	
-7XMS	ssr4_human	cryo-EM	2.9	Active	R	
-7XMT	ssr4_human	cryo-EM	2.8	Active	R	
-7X1T	trfr_human	cryo-EM	3.26	Active	A	
-7X1U	trfr_human	cryo-EM	3.19	Active	A	
-7QVM	oxyr_human	cryo-EM	3.25	Active	R	
-7XA3	ccr2_human	cryo-EM	2.9	Active	R	
-7X9Y	ccr3_human	cryo-EM	3.1	Active	R	
-7XW5	tshr_human	cryo-EM	2.96	Active	R	
-7XW6	tshr_human	cryo-EM	2.78	Active	R	
-7XW7	tshr_human	cryo-EM	5.5	Inactive 	R	
-7YXA	s1pr5_human	X-ray 	2.2	Inactive 	A	
-7WU9	pe2r3_human	cryo-EM	3.38	Active	R	
-7T32	aa2ar_human	cryo-EM	3.4	Inactive 	A	
-8CU6	aa2ar_human	X-ray 	2.8	Inactive 	A	
-8CU7	aa2ar_human	X-ray 	2.05	Inactive 	A	
-8DU3	aa2ar_human	X-ray 	2.5	Inactive 	A	
-7VVJ	pth1r_human	cryo-EM	3.2	Active	R	
-7VVK	pth1r_human	cryo-EM	3.3	Active	R	class 1
-7VVL	pth1r_human	cryo-EM	2.8	Active	R	class 2
-7VVM	pth1r_human	cryo-EM	3.2	Active	R	class 3
-7VVN	pth1r_human	cryo-EM	3.8	Active	R	
-7VVO	pth1r_human	cryo-EM	4.1	Active	R	
-7XKD	agrg2_mouse	cryo-EM	2.4	Active	R	
-7XKE	agrg2_mouse	cryo-EM	2.9	Active	R	
-7XKF	agrg2_mouse	cryo-EM	2.4	Active	R	
-7YP7	agrg2_mouse	cryo-EM	3.1	Active	R	
-8CXO	smo_mouse	cryo-EM	3.7	Inactive 	A	
-7XZ5	gp119_human	cryo-EM	3.1	Active	R	
-7XZ6	gp119_human	cryo-EM	2.8	Active	R	
-7T9I	tshr_human	cryo-EM	2.9	Active	R	
-7T9M	tshr_human	cryo-EM	3.1	Inactive 	R	
-7T9N	tshr_human	cryo-EM	2.9	Active	R	
-7UTZ	tshr_human	cryo-EM	2.4	Active	R	
-7F61	hrh3_human	X-ray	2.6	Inactive	A	
-7PP1	p2y12_human	X-ray	2.78	Inactive	A	
-7R0C	v2r_human	cryo-EM	4.73	Active	A	
-7SRQ	5ht2b_human	cryo-EM	2.7	Intermediate	R	
-7SRR	5ht2b_human	cryo-EM	2.9	Active	R	
-7SRS	5ht2b_human	cryo-EM	3.3	Active	R	
-7T2G	oprm_mouse	cryo-EM	2.5	Active	R	
-7T2H	oprm_mouse	cryo-EM	3.2	Active	D	
-7TRY	crfr2_human	cryo-EM	3.7	Active	P	
-7TS0	crfr2_human	cryo-EM	2.8	Active	P	
-7U2K	oprm_mouse	cryo-EM	3.3	Active	D	
-7VFX	fpr1_human	cryo-EM	2.8	Active	R	
-7VIE	s1pr1_human	cryo-EM	2.86	Active	F	
-7VIF	s1pr1_human	cryo-EM	2.83	Active	F	
-7VIG	s1pr1_human	cryo-EM	2.89	Active	F	
-7VIH	s1pr1_human	cryo-EM	2.98	Active	F	
-7W6P	ada2a_human	cryo-EM	3.47	Active	R	
-7W7E	ada2a_human	cryo-EM	3.4	Active	R	
-7WCM	gp119_human	cryo-EM	2.33	Active	R	
-7WCN	gp119_human	cryo-EM	2.87	Active	R	
-7WXU	agrf1_human	cryo-EM	2.85	Active	R	
-7WXW	agrf1_human	cryo-EM	2.84	Active	R	
-7WY0	agrf1_human	cryo-EM	2.83	Active	R	
-7WY5	agrl3_mouse	cryo-EM	2.83	Active	R	
-7WY8	agrl3_mouse	cryo-EM	2.83	Active	R	
-7WYB	agrl3_mouse	cryo-EM	2.97	Active	R	
-7WZ4	gpr88_human	cryo-EM	3.0	Active	R	
-7WZ7	agrf1_human	cryo-EM	2.83	Active	R	
-7X10	agrl3_mouse	cryo-EM	2.93	Active	R	
-7X2V	agrf1_human	cryo-EM	3.09	Active	R	
-7X5H	5ht5a_human	cryo-EM	3.1	Active	R	
-7XP4	t2r46_human	cryo-EM	3.01	Active	R	
-7XP5	t2r46_human	cryo-EM	3.08	Active	R	
-7XP6	t2r46_human	cryo-EM	3.01	Active	R	
-7XRR	ox2r_human	X-ray	2.89	Inactive	A	
-7XW9	trfr_human	cryo-EM	2.7	Active	R	
-7Y24	ssr2_human	cryo-EM	3.25	Active	E	
-7Y26	ssr2_human	cryo-EM	3.3	Active	E	
-7Y27	ssr2_human	cryo-EM	3.48	Active	E	
-7Y89	gpr17_human	cryo-EM	3.02	Active	A	
-7YU3	lpar1_human	cryo-EM	3.5	Active	R	
-7YU4	lpar1_human	cryo-EM	3.7	Inactive	A	
-7YU5	lpar1_human	cryo-EM	3.7	Active	R	State 1
-7YU6	lpar1_human	cryo-EM	3.9	Active	R	State 2
-7YU7	lpar1_human	cryo-EM	4.5	Active	R	State 3
-7YU8	lpar1_human	cryo-EM	5.6	Active	R	State 4
-8DWC	mrgx1_human	cryo-EM	2.87	Active	R	
-8DWG	mrgx1_human	cryo-EM	2.71	Active	R	
-8DWH	mrgx1_human	cryo-EM	3.25	Active	R	
-8E3X	pacr_human	cryo-EM	2.3	Active	R	
-8E3Y	vipr1_human	cryo-EM	2.3	Active	R	
-8E3Z	vipr1_human	cryo-EM	2.7	Active	R	
-8E9W	acm3_human	cryo-EM	2.69	Active	A	
-8E9X	acm4_human	cryo-EM	2.7	Active	A	
-8E9Y	acm3_human	cryo-EM	2.79	Active	A	
-8E9Z	acm3_human	cryo-EM	2.69	Active	A	
-8EA0	acm3_human	cryo-EM	2.56	Inactive	A	
-8EF5	oprm_human	cryo-EM	3.3	Active	R	Dimeric 
-8EF6	oprm_human	cryo-EM	3.2	Active	R	Dimeric 
-8EFB	oprm_human	cryo-EM	3.2	Active	R	
-8EFL	oprm_human	cryo-EM	3.2	Active	R	Dimeric 
-8EFO	oprm_human	cryo-EM	2.8	Active	R	Dimeric 
-8EFQ	oprm_human	cryo-EM	3.3	Active	R	
-8F7Q	oprm_human	cryo-EM	3.22	Active	R	Dimeric 
-8F7R	oprm_human	cryo-EM	3.28	Active	R	Dimeric 
-8F7S	oprd_human	cryo-EM	3.0	Active	R	Dimeric 
-8F7W	oprk_human	cryo-EM	3.19	Active	R	
-8F7X	oprx_human	cryo-EM	3.28	Active	R	
-8HA0	pth1r_human	cryo-EM	2.62	Active	R	
-8HAF	pth1r_human	cryo-EM	3.25	Active	R	
-8HAO	pth1r_human	cryo-EM	3.76	Active	R	Dimeric 
+PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date
+1F88	opsd_bovin	X-ray	2.8	Inactive	A		2000-08-04
+1HZX	opsd_bovin	X-ray	2.8	Inactive	A		2001-07-04
+1L9H	opsd_bovin	X-ray	2.6	Inactive	A		2002-05-15
+1GZM	opsd_bovin	X-ray	2.65	Inactive	A		2003-11-20
+1U19	opsd_bovin	X-ray	2.2	Inactive	A		2004-10-12
+2HPY	opsd_bovin	X-ray	2.8	Inactive	B		2006-08-22
+2G87	opsd_bovin	X-ray	2.6	Inactive	A		2006-09-02
+2I35	opsd_bovin	X-ray	3.8	Inactive	A		2006-10-17
+2I36	opsd_bovin	X-ray	4.1	Inactive	A		2006-10-17
+2I37	opsd_bovin	X-ray	4.15	Inactive	A		2006-10-17
+2J4Y	opsd_bovin	X-ray	3.4	Inactive	B		2007-09-25
+2PED	opsd_bovin	X-ray	2.95	Inactive	B		2007-10-30
+2RH1	adrb2_human	X-ray	2.4	Inactive	A		2007-10-30
+2R4R	adrb2_human	X-ray	3.4	Inactive	A		2007-11-06
+2R4S	adrb2_human	X-ray	3.4	Inactive	A		2007-11-06
+2ZIY	opsd_todpa	X-ray	3.7	Inactive	A		2008-05-06
+2Z73	opsd_todpa	X-ray	2.5	Inactive	A		2008-05-13
+3D4S	adrb2_human	X-ray	2.8	Inactive	A		2008-06-17
+2VT4	adrb1_melga	X-ray	2.7	Inactive	B		2008-06-24
+3CAP	opsd_bovin	X-ray	2.9	Active	A		2008-06-24
+3C9L	opsd_bovin	X-ray	2.65	Inactive	A		2008-08-05
+3C9M	opsd_bovin	X-ray	3.4	Inactive	A		2008-08-05
+3DQB	opsd_bovin	X-ray	3.2	Active	A		2008-09-23
+3EML	aa2ar_human	X-ray	2.6	Inactive	A		2008-10-14
+3KJ6	adrb2_human	X-ray	3.4	Inactive	A		2010-02-16
+3NY8	adrb2_human	X-ray	2.84	Inactive	A		2010-08-11
+3NY9	adrb2_human	X-ray	2.84	Inactive	A		2010-08-11
+3NYA	adrb2_human	X-ray	3.16	Inactive	A		2010-08-11
+3ODU	cxcr4_human	X-ray	2.5	Inactive	A		2010-10-27
+3OE0	cxcr4_human	X-ray	2.9	Inactive	A		2010-10-27
+3OE6	cxcr4_human	X-ray	3.2	Inactive	A		2010-10-27
+3OE8	cxcr4_human	X-ray	3.1	Inactive	A		2010-10-27
+3OE9	cxcr4_human	X-ray	3.1	Inactive	A		2010-10-27
+3PBL	drd3_human	X-ray	2.89	Inactive	A		2010-11-03
+2Y00	adrb1_melga	X-ray	2.5	Inactive	B		2011-01-12
+2Y02	adrb1_melga	X-ray	2.6	Inactive	B		2011-01-12
+2Y03	adrb1_melga	X-ray	2.85	Inactive	B		2011-01-12
+2Y04	adrb1_melga	X-ray	3.05	Inactive	B		2011-01-12
+3PDS	adrb2_human	X-ray	3.5	Inactive	A		2011-01-12
+3OAX	opsd_bovin	X-ray	2.6	Inactive	A		2011-01-19
+3P0G	adrb2_human	X-ray	3.5	Active	A		2011-01-19
+3PQR	opsd_bovin	X-ray	2.85	Active	A		2011-03-09
+3PXO	opsd_bovin	X-ray	3.0	Active	A		2011-03-09
+3QAK	aa2ar_human	X-ray	2.71	Intermediate	A		2011-03-09
+2X72	opsd_bovin	X-ray	3.0	Active	A		2011-03-16
+2Y01	adrb1_melga	X-ray	2.6	Inactive	A		2011-03-30
+2YDO	aa2ar_human	X-ray	3.0	Intermediate	A		2011-05-18
+2YDV	aa2ar_human	X-ray	2.6	Intermediate	A		2011-05-18
+2YCW	adrb1_melga	X-ray	3.0	Inactive	A		2011-06-01
+2YCX	adrb1_melga	X-ray	3.25	Inactive	A		2011-06-01
+2YCZ	adrb1_melga	X-ray	3.65	Inactive	B		2011-06-01
+2YCY	adrb1_melga	X-ray	3.15	Inactive	A		2011-06-08
+3RZE	hrh1_human	X-ray	3.1	Inactive	A		2011-06-15
+3SN6	adrb2_human	X-ray	3.2	Active	R		2011-07-20
+3AYM	opsd_todpa	X-ray	2.8	Inactive	B		2011-08-17
+3AYN	opsd_todpa	X-ray	2.7	Inactive	B		2011-08-17
+3PWH	aa2ar_human	X-ray	3.3	Inactive	A		2011-09-07
+3REY	aa2ar_human	X-ray	3.31	Inactive	A		2011-09-07
+3RFM	aa2ar_human	X-ray	3.6	Inactive	A		2011-09-07
+4A4M	opsd_bovin	X-ray	3.3	Active	A		2012-01-25
+3UON	acm2_human	X-ray	3.0	Inactive	A		2012-02-01
+3VG9	aa2ar_human	X-ray	2.7	Inactive	A		2012-02-01
+3VGA	aa2ar_human	X-ray	3.1	Inactive	A		2012-02-01
+3V2W	s1pr1_human	X-ray	3.35	Inactive	A		2012-02-15
+3V2Y	s1pr1_human	X-ray	2.8	Inactive	A		2012-02-15
+4DAJ	acm3_rat	X-ray	3.4	Inactive	A		2012-02-22
+3UZA	aa2ar_human	X-ray	3.27	Inactive	A		2012-03-21
+3UZC	aa2ar_human	X-ray	3.34	Inactive	A		2012-03-21
+4DJH	oprk_human	X-ray	2.9	Inactive	A		2012-03-21
+4DKL	oprm_mouse	X-ray	2.8	Inactive	A		2012-03-21
+4EA3	oprx_human	X-ray	3.01	Inactive	A		2012-04-25
+4EJ4	oprd_mouse	X-ray	3.4	Inactive	A		2012-05-16
+4AMI	adrb1_melga	X-ray	3.2	Inactive	A		2012-05-23
+4AMJ	adrb1_melga	X-ray	2.3	Inactive	B		2012-05-23
+4EIY	aa2ar_human	X-ray	1.8	Inactive	A		2012-07-25
+4GRV	ntr1_rat	X-ray	2.8	Intermediate	A		2012-10-17
+4GBR	adrb2_human	X-ray	3.99	Inactive	A		2012-10-24
+3VW7	par1_human	X-ray	2.2	Intermediate	A		2012-12-12
+4GPO	adrb1_melga	X-ray	3.5	Inactive	B		2013-02-27
+4IAQ	5ht1b_human	X-ray	2.8	Intermediate	A		2013-03-13
+4IAR	5ht1b_human	X-ray	2.7	Intermediate	A		2013-03-13
+4IB4	5ht2b_human	X-ray	2.7	Intermediate	A		2013-03-13
+3ZPQ	adrb1_melga	X-ray	2.8	Inactive	B		2013-04-03
+3ZPR	adrb1_melga	X-ray	2.7	Inactive	B		2013-04-03
+4BEZ	opsd_bovin	X-ray	3.3	Active	A		2013-04-24
+4JKV	smo_human	X-ray	2.45	Inactive	A		2013-04-24
+4BEY	opsd_bovin	X-ray	2.9	Active	A		2013-05-08
+4K5Y	crfr1_human	X-ray	2.98	Inactive	C		2013-07-17
+4L6R	glr_human	X-ray	3.3	Inactive	A		2013-07-24
+4MBS	ccr5_human	X-ray	2.71	Inactive	A		2013-09-11
+4LDE	adrb2_human	X-ray	2.79	Active	A		2013-09-25
+4LDL	adrb2_human	X-ray	3.1	Active	A		2013-09-25
+4LDO	adrb2_human	X-ray	3.2	Active	A		2013-09-25
+4J4Q	opsd_bovin	X-ray	2.65	Active	A		2013-10-30
+4MQS	acm2_human	X-ray	3.5	Active	A		2013-11-27
+4MQT	acm2_human	X-ray	3.7	Active	A		2013-11-27
+4NC3	5ht2b_human	X-ray	2.8	Intermediate	A		2013-12-18
+4N6H	oprd_human	X-ray	1.8	Inactive	A		2013-12-25
+4N4W	smo_human	X-ray	2.8	Inactive	A		2014-01-22
+3ZEV	ntr1_rat	X-ray	3.0	Inactive	A		2014-01-29
+4BUO	ntr1_rat	X-ray	2.75	Inactive	A		2014-01-29
+4BV0	ntr1_rat	X-ray	3.1	Inactive	A		2014-01-29
+4BWB	ntr1_rat	X-ray	3.57	Inactive	A		2014-01-29
+4O9R	smo_human	X-ray	3.2	Inactive	A		2014-03-05
+4OR2	grm1_human	X-ray	2.8	Inactive	B		2014-03-19
+4NTJ	p2y12_human	X-ray	2.62	Intermediate	A		2014-03-26
+4BVN	adrb1_melga	X-ray	2.1	Inactive	A		2014-04-02
+4PXZ	p2y12_human	X-ray	2.5	Intermediate	A		2014-04-30
+4PY0	p2y12_human	X-ray	3.1	Intermediate	A		2014-04-30
+4OO9	grm5_human	X-ray	2.6	Inactive	A		2014-07-02
+4PHU	ffar1_human	X-ray	2.33	Intermediate	A		2014-07-16
+4QIM	smo_human	X-ray	2.61	Inactive	A		2014-07-23
+4QIN	smo_human	X-ray	2.6	Inactive	A		2014-07-23
+4QKX	adrb2_human	X-ray	3.3	Active	A		2014-07-23
+4PXF	opsd_bovin	X-ray	2.75	Active	A		2014-09-17
+4U14	acm3_rat	X-ray	3.57	Inactive	A		2014-11-26
+4U15	acm3_rat	X-ray	2.8	Inactive	B		2014-11-26
+4U16	acm3_rat	X-ray	3.7	Inactive	B		2014-11-26
+4RWA	oprd_human	X-ray	3.28	Inactive	A		2015-01-14
+4RWD	oprd_human	X-ray	2.7	Inactive	A		2015-01-14
+4S0V	ox2r_human	X-ray	2.5	Inactive	A		2015-01-14
+4RWS	cxcr4_human	X-ray	3.1	Inactive	A		2015-02-11
+4XT1	us28_hcmva	X-ray	2.89	Active	A		2015-03-04
+4XT3	us28_hcmva	X-ray	3.8	Active	A		2015-03-04
+4XNV	p2ry1_human	X-ray	2.2	Intermediate	A		2015-04-01
+4XNW	p2ry1_human	X-ray	2.7	Intermediate	A		2015-04-01
+4UG2	aa2ar_human	X-ray	2.6	Intermediate	A		2015-04-08
+4UHR	aa2ar_human	X-ray	2.6	Intermediate	A		2015-04-08
+4YAY	agtr1_human	X-ray	2.9	Inactive	A		2015-04-22
+4Z34	lpar1_human	X-ray	3.0	Inactive	A		2015-06-03
+4Z35	lpar1_human	X-ray	2.9	Inactive	A		2015-06-03
+4Z36	lpar1_human	X-ray	2.9	Inactive	A		2015-06-03
+4WW3	opsd_todpa	X-ray	2.8	Inactive	A		2015-06-17
+4XEE	ntr1_rat	X-ray	2.9	Intermediate	A		2015-07-29
+4XES	ntr1_rat	X-ray	2.6	Intermediate	A		2015-07-29
+4ZWJ	opsd_human	X-ray	3.3	Active	A		2015-07-29
+5C1M	oprm_mouse	X-ray	2.1	Active	A		2015-08-05
+5CGC	grm5_human	X-ray	3.1	Inactive	A		2015-08-12
+5CGD	grm5_human	X-ray	2.6	Inactive	A		2015-08-12
+5A8E	adrb1_melga	X-ray	2.4	Inactive	A		2015-09-30
+4ZUD	agtr1_human	X-ray	2.8	Inactive	A		2015-10-07
+5DHG	oprx_human	X-ray	3.0	Inactive	A		2015-10-21
+5DHH	oprx_human	X-ray	3.0	Inactive	A		2015-10-21
+4X1H	opsd_bovin	X-ray	2.29	Active	A		2015-11-04
+5F8U	adrb1_melga	X-ray	3.35	Inactive	A		2015-12-23
+5D5A	adrb2_human	X-ray	2.48	Inactive	A		2016-01-13
+5D5B	adrb2_human	X-ray	3.8	Inactive	A		2016-01-13
+4ZJ8	ox1r_human	X-ray	2.75	Inactive	A		2016-03-09
+4ZJC	ox1r_human	X-ray	2.83	Inactive	A		2016-03-09
+5CXV	acm1_human	X-ray	2.7	Inactive	A		2016-03-09
+5DSG	acm4_human	X-ray	2.6	Inactive	B		2016-03-16
+5DGY	opsd_human	X-ray	7.7	Active	A		2016-03-23
+5EE7	glr_human	X-ray	2.5	Inactive	A		2016-04-20
+4Z9G	crfr1_human	X-ray	3.18	Inactive	A		2016-06-29
+5IU4	aa2ar_human	X-ray	1.72	Inactive	A		2016-06-29
+5IU7	aa2ar_human	X-ray	1.9	Inactive	A		2016-06-29
+5IU8	aa2ar_human	X-ray	2.0	Inactive	A		2016-06-29
+5IUA	aa2ar_human	X-ray	2.2	Inactive	A		2016-06-29
+5IUB	aa2ar_human	X-ray	2.1	Inactive	A		2016-06-29
+5JQH	adrb2_human	X-ray	3.2	Inactive	A		2016-07-13
+5L7D	smo_human	X-ray	3.2	Inactive	B		2016-07-20
+5L7I	smo_human	X-ray	3.3	Inactive	B		2016-07-20
+5G53	aa2ar_human	X-ray	3.4	Active	A		2016-08-03
+5DYS	opsd_bovin	X-ray	2.3	Active	A		2016-08-10
+5EN0	opsd_bovin	X-ray	2.81	Active	A		2016-08-10
+5D6L	adrb2_human	X-ray	3.2	Inactive	A		2016-08-17
+5GLH	ednrb_human	X-ray	2.8	Inactive	A		2016-09-07
+5GLI	ednrb_human	X-ray	2.5	Inactive	A		2016-09-07
+5K2A	aa2ar_human	X-ray	2.5	Inactive	A		2016-09-21
+5K2B	aa2ar_human	X-ray	2.5	Inactive	A		2016-09-21
+5K2C	aa2ar_human	X-ray	1.9	Inactive	A		2016-09-21
+5K2D	aa2ar_human	X-ray	1.9	Inactive	A		2016-09-21
+5TGZ	cnr1_human	X-ray	2.8	Inactive	A		2016-11-02
+5LWE	ccr9_human	X-ray	2.8	Inactive	B		2016-12-07
+5U09	cnr1_human	X-ray	2.6	Inactive	A		2016-12-07
+5T1A	ccr2_human	X-ray	2.81	Inactive	A		2016-12-14
+5T04	ntr1_rat	X-ray	3.3	Active	A		2016-12-21
+5TVN	5ht2b_human	X-ray	2.9	Intermediate	A		2017-02-01
+5UIG	aa2ar_human	X-ray	3.5	Inactive	A		2017-02-08
+5UEN	aa1r_human	X-ray	3.2	Inactive	B		2017-03-01
+5TE3	opsd_bovin	X-ray	2.7	Active	A		2017-03-15
+5TE5	opsd_bovin	X-ray	4.01	Inactive	A		2017-03-15
+5UNF	agtr2_human	X-ray	2.8	Active	A		2017-04-05
+5UNG	agtr2_human	X-ray	2.8	Active	B		2017-04-05
+5UNH	agtr2_human	X-ray	2.9	Active	B		2017-04-05
+5NDD	par2_human	X-ray	2.8	Intermediate	A		2017-05-03
+5NDZ	par2_human	X-ray	3.6	Intermediate	A		2017-05-03
+5NJ6	par2_human	X-ray	4.0	Intermediate	A		2017-05-03
+5UZ7	calcr_human	cryo-EM	4.1	Active	R		2017-05-03
+5VEX	glp1r_human	X-ray	3.0	Inactive	B		2017-05-17
+5UVI	aa2ar_human	X-ray	3.2	Inactive	A		2017-05-24
+5V56	smo_human	X-ray	2.9	Inactive	B		2017-05-24
+5V57	smo_human	X-ray	3.0	Inactive	A		2017-05-24
+5VAI	g1sgd4_rabit	cryo-EM	4.1	Active	R		2017-05-24
+5VEW	glp1r_human	X-ray	2.7	Inactive	A		2017-05-24
+5XEZ	glr_human	X-ray	3.0	Inactive	B		2017-05-24
+5XF1	glr_human	X-ray	3.19	Inactive	B		2017-05-24
+5JTB	aa2ar_human	X-ray	2.8	Inactive	A		2017-05-31
+5VBL	apj_human	X-ray	2.6	Inactive	B		2017-05-31
+5TZR	ffar1_human	X-ray	2.2	Intermediate	A		2017-06-07
+5TZY	ffar1_human	X-ray	3.22	Intermediate	A		2017-06-07
+5NX2	glp1r_human	X-ray	3.7	Intermediate	A		2017-06-14
+5UIW	ccr5_human	X-ray	2.2	Inactive	A		2017-06-28
+5XR8	cnr1_human	X-ray	2.95	Active	A		2017-07-12
+5XRA	cnr1_human	X-ray	2.8	Active	A		2017-07-12
+5MZJ	aa2ar_human	X-ray	2.0	Inactive	A		2017-07-26
+5MZP	aa2ar_human	X-ray	2.1	Inactive	A		2017-07-26
+5N2R	aa2ar_human	X-ray	2.8	Inactive	A		2017-07-26
+5N2S	aa1r_human	X-ray	3.3	Inactive	A		2017-07-26
+5TUD	5ht2b_human	X-ray	3.0	Active	D		2017-07-26
+5W0P	opsd_human	X-ray	3.01	Active	D		2017-08-09
+5X7D	adrb2_human	X-ray	2.7	Inactive	A		2017-08-16
+5X93	ednrb_human	X-ray	2.2	Inactive	A		2017-08-16
+5XPR	ednrb_human	X-ray	3.6	Inactive	A		2017-08-16
+5XSZ	q08bg4_danre	X-ray	3.2	Active	A		2017-08-16
+5NLX	aa2ar_human	X-ray	2.14	Inactive	A		2017-09-27
+5NM2	aa2ar_human	X-ray	1.95	Inactive	A		2017-09-27
+5NM4	aa2ar_human	X-ray	1.7	Inactive	A		2017-09-27
+5WIU	drd4_human	X-ray	1.96	Inactive	A		2017-10-18
+5WIV	drd4_human	X-ray	2.14	Inactive	A		2017-10-18
+5WQC	ox2r_human	X-ray	1.96	Inactive	A		2017-11-29
+5VRA	aa2ar_human	X-ray	2.35	Inactive	A		2017-12-13
+5WKT	opsd_bovin	X-ray	3.2	Active	A		2017-12-13
+5WS3	ox2r_human	X-ray	2.3	Inactive	A		2017-12-13
+5X33	q9wtk1_cavpo	X-ray	3.7	Inactive	A		2018-01-03
+5O9H	c5ar1_human	X-ray	2.7	Inactive	A		2018-01-10
+6AQF	aa2ar_human	X-ray	2.51	Inactive	A		2018-01-10
+5OLG	aa2ar_human	X-ray	1.87	Inactive	A		2018-01-17
+5OLH	aa2ar_human	X-ray	2.6	Inactive	A		2018-01-17
+5OLO	aa2ar_human	X-ray	3.1	Inactive	A		2018-01-17
+5OLV	aa2ar_human	X-ray	2.0	Inactive	A		2018-01-17
+5OLZ	aa2ar_human	X-ray	1.9	Inactive	A		2018-01-17
+5OM1	aa2ar_human	X-ray	2.1	Inactive	A		2018-01-17
+5OM4	aa2ar_human	X-ray	2.0	Inactive	A		2018-01-17
+5YQZ	glr_human	X-ray	3.0	Inactive	R		2018-01-17
+6B73	oprk_human	X-ray	3.1	Active	A		2018-01-17
+5V54	5ht1b_human	X-ray	3.9	Intermediate	A		2018-02-07
+6BQG	5ht2c_human	X-ray	3.0	Active	A		2018-02-14
+6BQH	5ht2c_human	X-ray	2.7	Inactive	A		2018-02-14
+5WF5	aa2ar_human	X-ray	2.6	Intermediate	A		2018-02-21
+5WF6	aa2ar_human	X-ray	2.9	Intermediate	A		2018-02-21
+6B3J	glp1r_human	cryo-EM	3.3	Active	R		2018-02-21
+6FFH	grm5_human	X-ray	2.65	Inactive	A		2018-03-07
+6FFI	grm5_human	X-ray	2.2	Inactive	A		2018-03-07
+6CM4	drd2_human	X-ray	2.87	Inactive	A		2018-03-14
+6FK6	opsd_bovin	X-ray	2.36	Active	A		2018-04-04
+6FK7	opsd_bovin	X-ray	2.62	Active	A		2018-04-04
+6FK8	opsd_bovin	X-ray	2.87	Active	A		2018-04-04
+6FK9	opsd_bovin	X-ray	2.63	Active	A		2018-04-04
+6FKA	opsd_bovin	X-ray	2.7	Active	A		2018-04-04
+6FKB	opsd_bovin	X-ray	3.03	Active	A		2018-04-04
+6FKC	opsd_bovin	X-ray	2.46	Active	A		2018-04-04
+6FKD	opsd_bovin	X-ray	2.49	Active	A		2018-04-04
+5ZBH	npy1r_human	X-ray	3.0	Inactive	A		2018-04-25
+5ZBQ	npy1r_human	X-ray	2.7	Inactive	A		2018-04-25
+5KW2	ffar1_human	X-ray	2.76	Intermediate	A		2018-05-02
+6GDG	aa2ar_human	cryo-EM	4.11	Active	A		2018-05-16
+6D32	q98sw5_xenla	X-ray	3.75	Inactive	A		2018-05-23
+6D35	q98sw5_xenla	X-ray	3.9	Inactive	A		2018-05-23
+6C1Q	c5ar1_human	X-ray	2.9	Inactive	B		2018-05-30
+6C1R	c5ar1_human	X-ray	2.2	Inactive	B		2018-05-30
+5WB1	q80km9_hcmv	X-ray	3.51	Active	A		2018-06-13
+5WB2	q80km9_hcmv	X-ray	3.5	Active	A		2018-06-13
+6DDE	oprm_mouse	cryo-EM	3.5	Active	R		2018-06-13
+6DDF	oprm_mouse	cryo-EM	3.5	Active	R		2018-06-13
+5ZKP	ptafr_human	X-ray	2.81	Other	A		2018-06-20
+5ZKQ	ptafr_human	X-ray	2.9	Intermediate	B		2018-06-20
+6CMO	opsd_human	cryo-EM	4.5	Active	R		2018-06-20
+6D9H	aa1r_human	cryo-EM	3.6	Active	R		2018-06-20
+6G79	5ht1b_human	cryo-EM	3.78	Active	S		2018-06-20
+5XJM	agtr2_human	X-ray	3.2	Active	A		2018-07-11
+6BD4	fzd4_human	X-ray	2.4	Inactive	A		2018-08-22
+6DRX	5ht2b_human	X-ray	3.1	Intermediate	A		2018-08-29
+6DRY	5ht2b_human	X-ray	2.92	Intermediate	A		2018-08-29
+6DRZ	5ht2b_human	X-ray	3.1	Intermediate	A		2018-08-29
+6DS0	5ht2b_human	X-ray	3.19	Intermediate	A		2018-08-29
+6E3Y	calrl_human	cryo-EM	3.3	Active	R		2018-09-19
+6D26	pd2r2_human	X-ray	2.8	Inactive	A		2018-10-03
+6D27	pd2r2_human	X-ray	2.74	Inactive	A		2018-10-03
+6FUF	opsd_bovin	X-ray	3.12	Active	A		2018-10-03
+6H7J	adrb1_melga	X-ray	2.8	Active	A		2018-10-17
+6H7L	adrb1_melga	X-ray	2.7	Active	A		2018-10-17
+6H7M	adrb1_melga	X-ray	2.76	Active	A		2018-10-17
+6H7N	adrb1_melga	X-ray	2.5	Active	A		2018-10-17
+6H7O	adrb1_melga	X-ray	2.8	Active	A		2018-10-17
+6AKX	ccr5_human	X-ray	2.8	Inactive	B		2018-10-24
+6AKY	ccr5_human	X-ray	2.8	Inactive	A		2018-10-24
+6MXT	adrb2_human	X-ray	2.96	Active	A		2018-11-14
+5YC8	acm2_human	X-ray	2.5	Inactive	A		2018-11-21
+5ZK3	acm2_human	X-ray	2.6	Inactive	A		2018-11-21
+5ZK8	acm2_human	X-ray	3.0	Inactive	A		2018-11-21
+5ZKB	acm2_human	X-ray	2.95	Inactive	A		2018-11-21
+5ZKC	acm2_human	X-ray	2.3	Inactive	A		2018-11-21
+6FJ3	pth1r_human	X-ray	2.5	Inactive	A		2018-11-21
+6IGK	ednrb_human	X-ray	2.0	Intermediate	A		2018-11-21
+6IGL	ednrb_human	X-ray	2.7	Inactive	A		2018-11-21
+5ZHP	acm3_rat	X-ray	3.1	Inactive	B		2018-11-28
+5YHL	pe2r4_human	X-ray	4.2	Inactive	A		2018-12-05
+5YWY	pe2r4_human	X-ray	3.2	Inactive	A		2018-12-05
+6AK3	pe2r3_human	X-ray	2.9	Active	B		2018-12-05
+6M9T	pe2r3_human	X-ray	2.5	Intermediate	A		2018-12-05
+6E59	nk1r_human	X-ray	3.4	Inactive	A		2018-12-12
+6MEO	ccr5_human	cryo-EM	3.9	Inactive	B		2018-12-12
+6MET	ccr5_human	cryo-EM	4.5	Inactive	B		2018-12-12
+6IIU	ta2r_human	X-ray	2.5	Inactive	A		2018-12-19
+6IIV	ta2r_human	X-ray	3.0	Inactive	A		2018-12-19
+6GPS	ccr2_human	X-ray	3.3	Inactive	A		2019-01-02
+6GPX	ccr2_human	X-ray	2.7	Inactive	B		2019-01-02
+6IBL	adrb1_melga	X-ray	2.7	Active	A		2019-01-09
+6HLL	nk1r_human	X-ray	3.27	Inactive	A		2019-01-16
+6HLO	nk1r_human	X-ray	2.4	Inactive	A		2019-01-16
+6HLP	nk1r_human	X-ray	2.2	Inactive	A		2019-01-16
+6N51	grm5_human	cryo-EM	4.0	Intermediate	B		2019-01-23
+6N52	grm5_human	cryo-EM	4.0	Inactive	A		2019-01-23
+6NIY	calcr_human	cryo-EM	3.34	Active	R		2019-01-23
+5ZTY	cnr2_human	X-ray	2.8	Inactive	A		2019-01-30
+6DO1	agtr1_human	X-ray	2.9	Active	A		2019-01-30
+6N4B	cnr1_human	cryo-EM	3.0	Active	R		2019-01-30
+6A93	5ht2a_human	X-ray	3.0	Inactive	A		2019-02-13
+6A94	5ht2a_human	X-ray	2.9	Inactive	A		2019-02-13
+6J20	nk1r_human	X-ray	2.7	Inactive	A		2019-03-06
+6J21	nk1r_human	X-ray	3.2	Inactive	A		2019-03-06
+6NBF	pth1r_human	cryo-EM	3.0	Active	R		2019-04-17
+6NBH	pth1r_human	cryo-EM	3.5	Active	R		2019-04-17
+6NBI	pth1r_human	cryo-EM	4.0	Active	R		2019-04-17
+6ME2	mtr1a_human	X-ray	2.8	Inactive	A		2019-04-24
+6ME3	mtr1a_human	X-ray	2.9	Inactive	A		2019-04-24
+6ME4	mtr1a_human	X-ray	3.2	Inactive	A		2019-04-24
+6ME5	mtr1a_human	X-ray	3.2	Inactive	A		2019-04-24
+6ME6	mtr1b_human	X-ray	2.8	Inactive	B		2019-04-24
+6ME7	mtr1b_human	X-ray	3.2	Inactive	A		2019-04-24
+6ME8	mtr1b_human	X-ray	3.1	Inactive	B		2019-04-24
+6ME9	mtr1b_human	X-ray	3.3	Inactive	B		2019-04-24
+6MH8	aa2ar_human	X-ray	4.2	Inactive	A		2019-04-24
+6OIJ	acm1_human	cryo-EM	3.3	Active	R		2019-05-08
+6OIK	acm2_human	cryo-EM	3.6	Active	R		2019-05-08
+6E67	adrb2_human	X-ray	3.7	Active	B		2019-06-05
+6OT0	smo_human	cryo-EM	3.9	Active	R		2019-06-12
+6GT3	aa2ar_human	X-ray	2.0	Inactive	A		2019-06-26
+6N48	adrb2_human	X-ray	3.2	Active	A		2019-06-26
+6I9K	b1b1u5_9arac	X-ray	2.15	Inactive	A		2019-07-03
+6O3C	smo_mouse	X-ray	2.8	Active	A		2019-07-03
+6OS9	ntr1_human	cryo-EM	3.0	Intermediate	R		2019-07-10
+6OSA	ntr1_human	cryo-EM	3.0	Intermediate	R		2019-07-10
+6QNO	opsd_bovin	cryo-EM	4.38	Active	R		2019-07-10
+6K1Q	ednrb_human	X-ray	2.7	Inactive	A		2019-07-17
+6OY9	opsd_bovin	cryo-EM	3.9	Active	R		2019-07-24
+6OYA	opsd_bovin	cryo-EM	3.3	Active	R		2019-07-24
+6IBB	sucr1_rat	X-ray	2.12	Active	A		2019-08-14
+6RNK	sucr1_rat	X-ray	1.94	Active	A		2019-08-14
+6OFJ	opsd_bovin	cryo-EM	4.5	Intermediate	A		2019-08-21
+6QZH	ccr7_human	X-ray	2.1	Inactive	A		2019-09-04
+6KQI	cnr1_human	X-ray	3.25	Inactive	A		2019-10-23
+6JZH	aa2ar_human	X-ray	2.25	Inactive	A		2019-10-30
+6RZ4	cltr1_human	X-ray	2.7	Intermediate	A		2019-10-30
+6RZ5	cltr1_human	X-ray	2.53	Intermediate	B		2019-10-30
+6KJV	glp1r_human	X-ray	2.8	Inactive	B		2019-11-13
+6KK1	glp1r_human	X-ray	2.8	Inactive	B		2019-11-13
+6KK7	glp1r_human	X-ray	3.1	Inactive	B		2019-11-13
+6PRZ	adrb2_human	X-ray	2.8	Inactive	A		2019-11-13
+6PS0	adrb2_human	X-ray	3.4	Inactive	A		2019-11-13
+6PS1	adrb2_human	X-ray	3.2	Inactive	A		2019-11-13
+6PS2	adrb2_human	X-ray	2.4	Inactive	A		2019-11-13
+6PS3	adrb2_human	X-ray	2.5	Inactive	A		2019-11-13
+6PS4	adrb2_human	X-ray	2.6	Inactive	A		2019-11-13
+6PS5	adrb2_human	X-ray	2.9	Inactive	A		2019-11-13
+6PS6	adrb2_human	X-ray	2.7	Inactive	A		2019-11-13
+6PS7	aa2ar_human	X-ray	1.85	Inactive	A		2019-11-13
+6PS8	mtr1a_human	X-ray	3.3	Inactive	A		2019-11-13
+6NI3	adrb2_human	cryo-EM	3.8	Active	R		2019-11-20
+6IQL	drd4_mouse	X-ray	3.5	Inactive	A		2019-12-04
+6KUW	ada2c_human	X-ray	2.8	Inactive	A		2019-12-04
+6KUX	ada2a_human	X-ray	2.7	Inactive	A		2019-12-04
+6KUY	ada2a_human	X-ray	3.2	Inactive	A		2019-12-04
+6PWC	ntr1_human	cryo-EM	4.9	Active	R		2019-12-04
+6OL9	acm5_human	X-ray	2.54	Inactive	A		2019-12-11
+6PT2	oprd_human	X-ray	2.8	Intermediate	A		2019-12-11
+6PT3	oprd_human	X-ray	3.3	Intermediate	A		2019-12-11
+6RZ6	cltr2_human	X-ray	2.43	Intermediate	A		2019-12-11
+6RZ7	cltr2_human	X-ray	2.43	Intermediate	A		2019-12-11
+6RZ8	cltr2_human	X-ray	2.7	Intermediate	A		2019-12-11
+6RZ9	cltr2_human	X-ray	2.73	Intermediate	A		2019-12-11
+6TO7	ox1r_human	X-ray	2.26	Inactive	A		2020-01-01
+6TOD	ox1r_human	X-ray	2.11	Inactive	A		2020-01-01
+6TP3	ox1r_human	X-ray	3.04	Inactive	A		2020-01-01
+6TP4	ox1r_human	X-ray	3.01	Inactive	A		2020-01-01
+6TP6	ox1r_human	X-ray	2.34	Inactive	B		2020-01-01
+6TPG	ox2r_human	X-ray	2.74	Inactive	A		2020-01-01
+6TPJ	ox2r_human	X-ray	2.74	Inactive	A		2020-01-01
+6TPN	ox2r_human	X-ray	2.61	Inactive	A		2020-01-01
+6TQ4	ox1r_human	X-ray	2.3	Inactive	B		2020-01-01
+6TQ6	ox1r_human	X-ray	2.55	Inactive	B		2020-01-01
+6TQ7	ox1r_human	X-ray	2.66	Inactive	A		2020-01-01
+6TQ9	ox1r_human	X-ray	2.66	Inactive	B		2020-01-01
+6ORV	glp1r_human	cryo-EM	3.0	Active	E		2020-01-08
+6JOD	agtr2_human	X-ray	3.2	Active	A		2020-01-15
+6TOS	ox1r_human	X-ray	2.13	Inactive	B		2020-01-15
+6TOT	ox1r_human	X-ray	2.22	Inactive	B		2020-01-15
+6KNM	apj_human	X-ray	3.2	Inactive	B		2020-01-29
+6P9X	crfr1_human	cryo-EM	2.91	Active	R		2020-02-05
+6P9Y	pacr_human	cryo-EM	3.01	Active	R		2020-02-05
+6KPC	cnr2_human	X-ray	3.2	Inactive	A		2020-02-12
+6KPF	cnr2_human	cryo-EM	2.9	Active	R		2020-02-12
+6KPG	cnr1_human	cryo-EM	3.0	Active	R		2020-02-12
+6LRY	ednrb_human	X-ray	3.0	Intermediate	A		2020-02-12
+6NWE	opsd_bovin	X-ray	2.71	Active	A		2020-02-12
+6PB0	crfr1_human	cryo-EM	3.0	Active	R		2020-02-12
+6PB1	crfr2_human	cryo-EM	2.8	Active	P		2020-02-12
+6PT0	cnr2_human	cryo-EM	3.2	Intermediate	R		2020-02-12
+6OS0	agtr1_human	X-ray	2.9	Active	A		2020-02-19
+6OS1	agtr1_human	X-ray	2.79	Active	A		2020-02-19
+6OS2	agtr1_human	X-ray	2.7	Active	A		2020-02-19
+6LI0	gpr52_human	X-ray	2.2	Inactive	A		2020-02-26
+6LI1	gpr52_human	X-ray	2.9	Inactive	A		2020-02-26
+6LI2	gpr52_human	X-ray	2.8	Inactive	A		2020-02-26
+6LI3	gpr52_human	cryo-EM	3.32	Intermediate	R		2020-02-26
+6OMM	fpr2_human	cryo-EM	3.17	Active	R		2020-02-26
+6U1N	acm2_human	cryo-EM	4.0	Intermediate	R		2020-02-26
+6UP7	ntr1_human	cryo-EM	4.2	Active	R		2020-02-26
+6LUQ	drd2_human	X-ray	3.1	Inactive	A		2020-03-04
+6KP6	acm4_human	X-ray	3.0	Inactive	A		2020-03-11
+6LPB	pacr_human	cryo-EM	3.9	Active	R		2020-03-11
+6M1H	pacr_human	cryo-EM	3.6	Active	A		2020-03-11
+6M1I	pacr_human	cryo-EM	3.5	Active	A		2020-03-11
+6LN2	glp1r_human	X-ray	3.2	Inactive	A		2020-03-18
+6VI4	oprk_human	X-ray	3.3	Inactive	B		2020-03-18
+6LW5	fpr2_human	X-ray	2.8	Active	A		2020-03-25
+6OBA	adrb2_human	X-ray	3.1	Inactive	A		2020-03-25
+6UUN	calrl_human	cryo-EM	3.0	Active	R		2020-03-25
+6LMK	glr_human	cryo-EM	3.7	Active	R		2020-04-01
+6LML	glr_human	cryo-EM	3.9	Active	R		2020-04-01
+6UUS	calrl_human	cryo-EM	2.4	Active	R		2020-04-01
+6UVA	calrl_human	cryo-EM	2.3	Active	R		2020-04-01
+6K41	ada2b_human	cryo-EM	2.9	Active	R		2020-04-15
+6K42	ada2b_human	cryo-EM	4.1	Active	R		2020-04-15
+6W25	mc4r_human	X-ray	2.75	Inactive	A		2020-04-29
+6WHC	glr_human	cryo-EM	3.4	Active	R		2020-05-27
+6UO8	gabr2_human	cryo-EM	3.63	Active	B		2020-06-10
+6UO9	gabr2_human	cryo-EM	4.8	Intermediate	B		2020-06-10
+6UOA	gabr2_human	cryo-EM	6.3	Intermediate	B		2020-06-10
+6VJM	gabr2_human	cryo-EM	3.97	Inactive	B		2020-06-10
+6TKO	adrb1_melga	cryo-EM	3.3	Active	A		2020-06-17
+6VMS	drd2_human	cryo-EM	3.8	Intermediate	R		2020-06-17
+6PEL	opsd_bovin	X-ray	3.19	Active	A		2020-06-24
+6WWZ	ccr6_human	cryo-EM	3.34	Active	R		2020-06-24
+6PGS	opsd_bovin	X-ray	2.91	Active	A		2020-07-01
+6PH7	opsd_bovin	X-ray	2.9	Active	A		2020-07-01
+6W2X	gabr2_human	cryo-EM	3.6	Inactive	B		2020-07-01
+6W2Y	gabr1_human	cryo-EM	3.2	Inactive	B		2020-07-01
+6WIV	gabr2_human	cryo-EM	3.3	Inactive	B		2020-07-01
+7C7Q	gabr2_human	cryo-EM	3.0	Active	B		2020-07-01
+7C7S	gabr2_human	cryo-EM	2.9	Inactive	B		2020-07-01
+6WJC	acm1_human	X-ray	2.55	Inactive	A		2020-07-08
+6S0L	aa2ar_human	X-ray	2.65	Inactive	A		2020-07-15
+6S0Q	aa2ar_human	X-ray	2.65	Inactive	A		2020-07-15
+6V9S	ox1r_human	X-ray	3.5	Inactive	A		2020-07-15
+6VCB	glp1r_human	cryo-EM	3.3	Active	R		2020-07-22
+7C61	5ht1b_human	X-ray	3.0	Intermediate	A		2020-07-29
+7C6A	agtr2_human	X-ray	3.4	Active	A		2020-07-29
+6TPK	oxyr_human	X-ray	3.2	Inactive	A		2020-08-05
+7BZ2	adrb2_human	cryo-EM	3.82	Active	R		2020-08-05
+6KO5	ghsr_human	X-ray	3.3	Inactive	A		2020-08-12
+6WI9	sctr_human	cryo-EM	4.3	Active	R		2020-08-12
+6WPW	glr_human	cryo-EM	3.1	Active	R		2020-08-12
+6WZG	sctr_human	cryo-EM	2.3	Active	R		2020-08-12
+6WW2	fzd5_human	cryo-EM	3.7	Inactive	R		2020-08-19
+7C2E	glp1r_human	cryo-EM	4.2	Active	R		2020-08-26
+6LFL	cxcr2_human	X-ray	3.2	Inactive	A		2020-09-02
+6LFM	cxcr2_human	cryo-EM	3.5	Active	R		2020-09-02
+6LFO	cxcr2_human	cryo-EM	3.4	Active	R		2020-09-02
+6VN7	vipr1_human	cryo-EM	3.2	Active	R		2020-09-02
+7BW0	gpbar_human	cryo-EM	3.9	Active	R		2020-09-02
+7JJO	adrb1_melga	cryo-EM	2.6	Active	R		2020-09-02
+6X18	glp1r_human	cryo-EM	2.1	Active	R		2020-09-09
+6X19	glp1r_human	cryo-EM	2.1	Active	R		2020-09-09
+6X1A	glp1r_human	cryo-EM	2.5	Active	R		2020-09-09
+7CFM	gpbar_human	cryo-EM	3.0	Active	R		2020-09-09
+7CFN	gpbar_human	cryo-EM	3.0	Active	R		2020-09-09
+6Z10	sucr1_rat	X-ray	2.27	Active	A		2020-09-16
+6ZDR	aa2ar_human	X-ray	1.92	Inactive	A		2020-09-16
+6ZDV	aa2ar_human	X-ray	2.13	Inactive	A		2020-09-16
+6WGT	5ht2a_human	X-ray	3.4	Inactive	B		2020-09-23
+6WH4	5ht2a_human	X-ray	3.4	Inactive	C		2020-09-23
+6WHA	5ht2a_human	cryo-EM	3.36	Active	A		2020-09-23
+6XBJ	smo_human	cryo-EM	3.88	Active	R		2020-09-30
+6XBK	smo_human	cryo-EM	3.24	Active	R		2020-09-30
+6XBL	smo_human	cryo-EM	3.9	Active	R		2020-09-30
+6XBM	smo_human	cryo-EM	3.15	Active	R		2020-09-30
+7BR3	gnrhr_human	X-ray	2.79	Inactive	A		2020-10-07
+7D3S	sctr_human	cryo-EM	2.9	Active	R		2020-11-04
+7CA3	gabr2_human	cryo-EM	4.5	Active	B		2020-11-11
+7CA5	gabr2_human	cryo-EM	7.6	Inactive	B		2020-11-11
+7CUM	gabr2_human	cryo-EM	3.52	Inactive	B		2020-11-11
+6WQA	aa2ar_human	X-ray	2.0	Inactive	A		2020-11-18
+6XOX	glp1r_human	cryo-EM	3.1	Active	R		2020-11-18
+7CZ5	ghrhr_human	cryo-EM	2.6	Active	R		2020-11-18
+7D7M	pe2r4_human	cryo-EM	3.3	Active	A		2020-11-18
+6LPJ	aa2ar_human	X-ray	1.8	Inactive	A		2020-11-25
+6LPK	aa2ar_human	X-ray	1.8	Inactive	A		2020-11-25
+6LPL	aa2ar_human	X-ray	2.0	Inactive	A		2020-11-25
+7BTS	adrb1_human	X-ray	3.13	Active	A		2020-12-02
+7BU6	adrb1_human	X-ray	2.7	Active	A		2020-12-02
+7BU7	adrb1_human	X-ray	2.6	Active	A		2020-12-02
+7BVQ	adrb1_human	X-ray	2.5	Inactive	A		2020-12-02
+7AD3	ste2_yeast	cryo-EM	3.5	Active	A		2020-12-09
+7D68	glp2r_human	cryo-EM	3.0	Active	R		2020-12-16
+7DHI	adrb2_human	cryo-EM	3.26	Active	R		2020-12-16
+7DHR	adrb2_human	cryo-EM	3.8	Active	R		2020-12-16
+7DFP	drd2_human	X-ray	3.1	Inactive	A		2020-12-30
+7L0P	ntr1_rat	cryo-EM	4.1	Active	C		2021-01-06
+7L0Q	ntr1_rat	cryo-EM	4.3	Active	C		2021-01-06
+7L0R	ntr1_rat	cryo-EM	4.2	Active	C		2021-01-06
+7L0S	ntr1_rat	cryo-EM	4.5	Active	C		2021-01-06
+7LCI	glp1r_human	cryo-EM	2.9	Active	R		2021-01-20
+7LCJ	glp1r_human	cryo-EM	2.82	Active	R		2021-01-20
+7LCK	glp1r_human	cryo-EM	3.24	Active	R		2021-01-20
+7DDZ	npy2r_human	X-ray	2.8	Inactive	A		2021-01-27
+7D76	agrg3_human	cryo-EM	3.1	Active	R		2021-02-03
+7D77	agrg3_human	cryo-EM	2.9	Active	R		2021-02-03
+6YVR	ntr1_rat	X-ray	2.46	Inactive	B		2021-02-10
+6Z4Q	ntr1_rat	X-ray	2.92	Inactive	A		2021-02-10
+6Z4S	ntr1_rat	X-ray	2.71	Inactive	A		2021-02-10
+6Z4V	ntr1_rat	X-ray	2.6	Inactive	A		2021-02-10
+6Z66	ntr1_rat	X-ray	3.19	Inactive	A		2021-02-10
+6Z8N	ntr1_rat	X-ray	2.8	Inactive	A		2021-02-10
+6ZA8	ntr1_rat	X-ray	2.72	Inactive	A		2021-02-10
+6ZIN	ntr1_rat	X-ray	2.64	Inactive	A		2021-02-10
+7L1U	ox2r_human	cryo-EM	3.2	Active	R		2021-02-10
+7L1V	ox2r_human	cryo-EM	3.0	Active	R		2021-02-10
+7K15	lt4r1_human	X-ray	2.88	Inactive	A		2021-02-17
+7JV5	drd1_human	cryo-EM	3.0	Active	R		2021-02-24
+7JVP	drd1_human	cryo-EM	2.9	Active	R		2021-02-24
+7JVQ	drd1_human	cryo-EM	3.0	Active	R		2021-02-24
+7JVR	drd2_human	cryo-EM	2.8	Active	R		2021-02-24
+7KNT	calrl_human	cryo-EM	3.15	Inactive	R		2021-02-24
+7KNU	calrl_human	cryo-EM	3.49	Intermediate	R		2021-02-24
+7CKW	drd1_human	cryo-EM	3.22	Active	R		2021-03-03
+7CKX	drd1_human	cryo-EM	3.54	Active	R		2021-03-03
+7CKY	drd1_human	cryo-EM	3.2	Active	R		2021-03-03
+7CKZ	drd1_human	cryo-EM	3.1	Active	R		2021-03-03
+7CRH	drd1_human	cryo-EM	3.3	Active	R		2021-03-03
+7LJC	drd1_human	cryo-EM	3.0	Active	R		2021-03-03
+7LJD	drd1_human	cryo-EM	3.2	Active	R		2021-03-03
+7CMU	drd3_human	cryo-EM	3.0	Active	R		2021-03-10
+7CMV	drd3_human	cryo-EM	2.7	Active	R		2021-03-10
+7DTT	casr_human	cryo-EM	3.8	Active	A		2021-03-10
+7DTU	casr_human	cryo-EM	4.4	Intermediate	A		2021-03-10
+7DTV	casr_human	cryo-EM	3.5	Active	A		2021-03-10
+7DTW	casr_human	cryo-EM	4.5	Inactive	A		2021-03-10
+7DFL	hrh1_human	cryo-EM	3.3	Active	R		2021-03-31
+7ARO	aa2ar_human	X-ray	3.12	Inactive	A		2021-04-07
+7E2X	5ht1a_human	cryo-EM	3.0	Active	R		2021-04-14
+7E2Y	5ht1a_human	cryo-EM	3.0	Active	R		2021-04-14
+7E2Z	5ht1a_human	cryo-EM	3.1	Active	R		2021-04-14
+7E33	5ht1e_human	cryo-EM	2.9	Active	R		2021-04-14
+7JOZ	drd1_human	X-ray	3.8	Active	R		2021-04-14
+7E32	5ht1d_human	cryo-EM	2.9	Active	R		2021-04-21
+7AUE	mc4r_human	cryo-EM	2.97	Active	R		2021-04-28
+7CX2	pe2r2_human	cryo-EM	2.8	Active	R		2021-05-05
+7CX3	pe2r2_human	cryo-EM	2.8	Active	R		2021-05-05
+7CX4	pe2r2_human	cryo-EM	2.9	Active	R		2021-05-05
+7EB2	gabr2_human	cryo-EM	3.5	Active	D		2021-05-05
+7KH0	v2r_human	cryo-EM	2.8	Active	R		2021-05-26
+7MBX	cckar_human	cryo-EM	1.95	Active	R		2021-05-26
+7MBY	cckar_human	cryo-EM	2.44	Active	R		2021-05-26
+7BB6	v2r_human	cryo-EM	4.2	Intermediate	A		2021-06-02
+7BB7	v2r_human	cryo-EM	4.4	Active	A		2021-06-02
+7C4S	s1pr3_human	X-ray	3.2	Intermediate	A		2021-06-09
+7DD5	casr_human	cryo-EM	3.2	Inactive	A		2021-06-16
+7DD6	casr_human	cryo-EM	3.2	Active	B		2021-06-16
+7DD7	casr_human	cryo-EM	3.2	Active	B		2021-06-16
+7E9G	grm2_human	cryo-EM	3.5	Intermediate	R		2021-06-23
+7E9H	grm4_human	cryo-EM	4.0	Intermediate	R		2021-06-23
+7EPA	grm2_human	cryo-EM	3.6	Intermediate	A		2021-06-23
+7EPB	grm2_human	cryo-EM	3.1	Active	B		2021-06-23
+7EPC	grm7_human	cryo-EM	4.0	Inactive	B		2021-06-23
+7EPD	grm2_human	cryo-EM	3.9	Inactive	A		2021-06-23
+7EPE	grm2_human	X-ray	2.5	Inactive	A		2021-06-23
+7EPF	grm2_human	X-ray	2.7	Inactive	A		2021-06-23
+7M3E	casr_human	cryo-EM	3.2	Inactive	B		2021-06-30
+7M3F	casr_human	cryo-EM	2.8	Active	B		2021-06-30
+7M3G	casr_human	cryo-EM	2.5	Active	A		2021-06-30
+7M3J	casr_human	cryo-EM	4.1	Inactive	A		2021-06-30
+7O7F	ccr5_human	cryo-EM	3.15	Active	C		2021-06-30
+7E14	glp1r_human	cryo-EM	2.9	Active	R		2021-07-07
+7JHJ	q3ksp2_ebvg	cryo-EM	3.2	Active	R		2021-07-07
+7MT8	opsd_bovin	cryo-EM	5.8	Active	R		2021-07-07
+7MT9	opsd_bovin	cryo-EM	7.0	Active	R		2021-07-07
+7MTA	opsd_bovin	cryo-EM	4.1	Active	R		2021-07-07
+7MTB	opsd_bovin	cryo-EM	4.0	Active	R		2021-07-07
+7MTQ	grm2_human	cryo-EM	3.65	Inactive	B		2021-07-07
+7MTR	grm2_human	cryo-EM	3.3	Active	A		2021-07-07
+7MTS	grm2_human	cryo-EM	3.2	Active	A		2021-07-07
+7DUQ	glp1r_human	cryo-EM	2.5	Active	R		2021-07-14
+7F1Q	ccr5_human	cryo-EM	2.9	Active	R		2021-07-14
+7F1R	ccr5_human	cryo-EM	3.0	Active	R		2021-07-14
+7F1S	ccr5_human	cryo-EM	2.8	Active	R		2021-07-14
+7F1T	ccr5_human	X-ray	2.6	Inactive	A		2021-07-14
+7DW9	v2r_human	cryo-EM	2.6	Active	R		2021-07-21
+7DH5	adrb3_canlf	cryo-EM	3.16	Active	R		2021-08-04
+7DTY	gipr_human	cryo-EM	2.98	Active	R		2021-08-04
+7EVW	fzd7_human	cryo-EM	3.22	Active	R		2021-08-04
+7EXD	5ht1f_human	cryo-EM	3.4	Active	R		2021-08-04
+7KI0	glp1r_human	cryo-EM	2.5	Active	R		2021-08-04
+7KI1	glp1r_human	cryo-EM	2.5	Active	R		2021-08-04
+7DUR	glp1r_human	cryo-EM	3.3	Active	R		2021-08-11
+7EVM	glp1r_human	cryo-EM	2.5	Active	R		2021-08-11
+7DB6	mtr1a_human	cryo-EM	3.3	Active	D		2021-08-18
+7F16	pth2r_human	cryo-EM	2.8	Active	R		2021-08-18
+7F9Y	ghsr_human	cryo-EM	2.9	Active	R		2021-08-18
+7F9Z	ghsr_human	cryo-EM	3.2	Active	R		2021-08-18
+7EZH	cckar_human	cryo-EM	3.2	Active	D		2021-08-25
+7EZK	cckar_human	cryo-EM	3.1	Active	D		2021-08-25
+7EZM	cckar_human	cryo-EM	2.9	Active	D		2021-08-25
+7M8W	pd2r2_human	X-ray	2.61	Inactive	A		2021-08-25
+7FD8	grm5_human	cryo-EM	3.8	Active	A		2021-09-08
+7FD9	grm5_human	cryo-EM	4.0	Inactive	A		2021-09-08
+7LD3	aa1r_human	cryo-EM	3.2	Active	R	M4 chimera	2021-09-08
+7LD4	aa1r_human	cryo-EM	3.3	Active	R	M4 chimera	2021-09-08
+7P2L	grm5_human	X-ray	2.54	Inactive	A		2021-09-08
+7RM5	aa2ar_human	Electron crystallography	2.79	Inactive	A		2021-09-08
+7DGD	grm1_human	cryo-EM	3.96	Inactive	A		2021-09-22
+7DGE	grm1_human	cryo-EM	3.65	Intermediate	A		2021-09-22
+7E6T	casr_human	cryo-EM	3.0	Active	A		2021-09-22
+7E6U	casr_human	cryo-EM	6.0	Inactive	A		2021-09-22
+7EW1	s1pr5_human	cryo-EM	3.4	Active	A		2021-09-29
+7EW2	s1pr3_human	cryo-EM	3.1	Active	R		2021-09-29
+7EW3	s1pr3_human	cryo-EM	3.1	Active	R		2021-09-29
+7EW4	s1pr3_human	cryo-EM	3.2	Active	R		2021-09-29
+7FIG	lshr_human	cryo-EM	3.9	Active	R		2021-09-29
+7FIH	lshr_human	cryo-EM	3.2	Active	R		2021-09-29
+7FII	lshr_human	cryo-EM	4.3	Active	R		2021-09-29
+7FIJ	lshr_human	cryo-EM	3.8	Inactive	R		2021-09-29
+6ZFZ	acm1_human	X-ray	2.17	Inactive	A		2021-10-06
+6ZG4	acm1_human	X-ray	2.33	Inactive	A		2021-10-06
+6ZG9	acm1_human	X-ray	2.5	Inactive	A		2021-10-06
+7RTB	glp1r_human	cryo-EM	2.14	Active	R		2021-10-06
+7EIB	bkrb1_human	cryo-EM	3.0	Active	A		2021-10-13
+7F2O	bkrb2_human	cryo-EM	2.9	Active	R		2021-10-13
+7F8U	cckar_human	X-ray	2.8	Inactive	A		2021-10-13
+7F8V	gasr_human	cryo-EM	3.3	Active	R		2021-10-13
+7F8W	gasr_human	cryo-EM	3.1	Active	R		2021-10-13
+7F8Y	cckar_human	X-ray	2.5	Inactive	A		2021-10-13
+7F53	mc4r_human	cryo-EM	3.0	Active	R		2021-11-03
+7F54	mc4r_human	cryo-EM	3.0	Active	R		2021-11-03
+7F55	mc4r_human	cryo-EM	3.1	Active	R		2021-11-03
+7F58	mc4r_human	cryo-EM	3.1	Active	R		2021-11-03
+7RMG	nk1r_human	cryo-EM	3.0	Active	R		2021-11-03
+7RMH	nk1r_human	cryo-EM	3.1	Active	R		2021-11-03
+7RMI	nk1r_human	cryo-EM	3.2	Active	R		2021-11-03
+7PIU	mc4r_human	cryo-EM	2.58	Active	R		2021-11-17
+7PIV	mc4r_human	cryo-EM	2.86	Active	R		2021-11-17
+7S8L	mrgx2_human	cryo-EM	2.45	Active	R		2021-11-17
+7S8M	mrgx2_human	cryo-EM	2.54	Active	R		2021-11-17
+7S8N	mrgx2_human	cryo-EM	2.9	Active	R		2021-11-17
+7S8O	mrgx2_human	cryo-EM	2.58	Active	R		2021-11-17
+7S8P	mrgx4_human	cryo-EM	2.6	Active	R		2021-11-17
+7V3Z	cnr1_human	X-ray	3.29	Active	A		2021-11-24
+7EWL	gp158_human	cryo-EM	3.52	Inactive	A		2021-12-01
+7EWP	gp158_human	cryo-EM	4.3	Inactive	A		2021-12-01
+7EWR	gp158_human	cryo-EM	4.7	Inactive	A		2021-12-01
+7SHE	gp158_human	cryo-EM	3.4	Inactive	A		2021-12-01
+7SHF	gp158_human	cryo-EM	3.4	Inactive	B		2021-12-01
+7VDH	mrgx2_human	cryo-EM	2.9	Active	R		2021-12-01
+7VDL	mrgx2_human	cryo-EM	3.22	Active	R		2021-12-01
+7VDM	mrgx2_human	cryo-EM	2.98	Active	R		2021-12-01
+7VUY	mrgx2_human	cryo-EM	2.84	Active	R		2021-12-01
+7VUZ	mrgx2_human	cryo-EM	2.89	Active	R		2021-12-01
+7VV0	mrgx2_human	cryo-EM	3.5	Active	R		2021-12-01
+7VV3	mrgx2_human	cryo-EM	2.97	Active	R		2021-12-01
+7VV4	mrgx2_human	cryo-EM	2.97	Active	R		2021-12-01
+7VV5	mrgx2_human	cryo-EM	2.76	Active	R		2021-12-01
+7VV6	mrgx2_human	cryo-EM	3.3	Active	R		2021-12-01
+7NA7	ghsr_human	cryo-EM	2.7	Active	R		2021-12-15
+7NA8	ghsr_human	cryo-EM	2.7	Active	R		2021-12-15
+7P00	nk1r_human	cryo-EM	2.71	Active	R		2021-12-15
+7P02	nk1r_human	cryo-EM	2.87	Active	R		2021-12-15
+7VOD	5ht2a_human	X-ray	3.3	Inactive	A		2021-12-22
+7VOE	5ht2a_human	X-ray	2.9	Inactive	A		2021-12-22
+7F8X	cckar_human	X-ray	3.0	Inactive	A		2021-12-29
+7VUG	gp139_human	cryo-EM	3.2	Active	R		2021-12-29
+7VUH	gp139_human	cryo-EM	3.22	Active	R		2021-12-29
+7VUI	gp139_human	cryo-EM	3.3	Active	R		2021-12-29
+7VUJ	gp139_human	cryo-EM	3.8	Active	R		2021-12-29
+7S1M	glp1r_human	cryo-EM	2.41	Active	R		2022-01-05
+7S3I	glp1r_human	cryo-EM	2.51	Active	R		2022-01-05
+7EO2	s1pr1_human	cryo-EM	2.89	Active	A		2022-01-05
+7EO4	s1pr1_human	cryo-EM	2.86	Active	A		2022-01-05
+7WF7	s1pr1_human	cryo-EM	3.4	Active	A		2022-01-05
+7B6W	ada1b_human	X-ray	2.87	Inactive	A		2022-01-12
+7WC4	5ht2a_human	X-ray	3.2	Active	A		2022-01-26
+7WC5	5ht2a_human	X-ray	3.2	Active	A		2022-01-26
+7WC6	5ht2a_human	X-ray	2.6	Active	A		2022-01-26
+7WC7	5ht2a_human	X-ray	2.6	Active	A		2022-01-26
+7WC8	5ht2a_human	X-ray	2.45	Active	A		2022-01-26
+7WC9	5ht2a_human	X-ray	2.5	Active	A		2022-01-26
+7F83	ghsr_human	X-ray	2.94	Inactive 	A		2022-01-19
+7W2Z	ghsr_human	cryo-EM	2.8	Active	R		2022-01-19
+7LLL	glp1r_human	cryo-EM	3.7	Active	R		2022-01-12
+7LLY	glp1r_human	cryo-EM	3.3	Active	R		2022-01-12
+7RKF	us28_hcmva	cryo-EM	4.0	Active	R		2022-01-26
+7RKM	us28_hcmva	cryo-EM	3.5	Active	R		2022-01-26
+7RKN	us28_hcmva	cryo-EM	3.6	Active	R		2022-01-26
+7SIL	casr_human	cryo-EM	2.7	Active	A		2022-01-19
+7SIN	casr_human	cryo-EM	5.9	Inactive	A		2022-01-19
+7SIM	casr_human	cryo-EM	2.7	Active	A		2022-01-19
+7V9M	ghrhr_human	cryo-EM	3.29	Active	R		2021-10-20
+7EVY	s1pr1_human	cryo-EM	2.98	Active	D		2021-09-29
+7EVZ	s1pr1_human	cryo-EM	3.07	Active	D		2021-09-29
+7EW0	s1pr1_human	cryo-EM	3.42	Active	D		2021-09-29
+7EW7	s1pr1_human	cryo-EM	3.27	Active	D		2021-09-29
+7F4D	mshr_human	cryo-EM	3.0	Active	R		2021-09-08
+7F4F	mshr_human	cryo-EM	2.9	Active	R		2021-09-08
+7F4H	mshr_human	cryo-EM	2.7	Active	R		2021-09-08
+7F4I	mshr_human	cryo-EM	3.1	Active	R		2021-09-08
+7JNI	agtr2_human	X-ray	3.0	Inactive	A		2022-02-09
+7T6T	fpr1_human	cryo-EM	3.2	Active	R		2022-03-30
+7T6S	fpr2_human	cryo-EM	3.0	Active	R		2022-03-30
+7T6U	fpr2_human	cryo-EM	2.9	Active	R		2022-03-30
+7T6V	fpr2_human	cryo-EM	3.1	Active	R		2022-03-30
+7VGX	npy1r_human	cryo-EM	3.2	Active	R		2022-02-23
+7T10	ssr2_human	cryo-EM	2.5	Active	R		2022-03-09
+7T11	ssr2_human	cryo-EM	2.7	Active	R		2022-03-09
+7RYC	oxyr_human	cryo-EM	2.9	Active	O		2022-03-09
+7VL8	ccr1_human	cryo-EM	2.9	Active	R		2022-03-23
+7VL9	ccr1_human	cryo-EM	2.6	Active	R		2022-03-23
+7VLA	ccr1_human	cryo-EM	2.7	Active	R		2022-03-23
+7VKT	lt4r1_human	cryo-EM	2.9	Active	A		2022-03-09
+7TD0	lpar1_human	cryo-EM	2.83	Active	R		2022-02-09
+7TD1	lpar1_human	cryo-EM	3.08	Active	R		2022-02-09
+7TD2	lpar1_human	cryo-EM	3.11	Active	R		2022-02-09
+7TD3	s1pr1_human	cryo-EM	3.0	Active	R		2022-02-09
+7TD4	s1pr1_human	cryo-EM	2.6	Active	R		2022-02-09
+7VGY	mtr1a_human	cryo-EM	3.1	Active	A		2022-03-02
+7VGZ	mtr1a_human	cryo-EM	3.3	Active	B		2022-03-02
+7VH0	mtr1b_human	cryo-EM	3.46	Active	A		2022-03-02
+7PX4	aa2ar_human	X-ray	2.25	Inactive	A		2022-03-02
+7PYR	aa2ar_human	X-ray	2.6	Inactive	A		2022-03-02
+7TYF	calcr_human	cryo-EM	2.2	Active	R		2022-03-23
+7TYH	calcr_human	cryo-EM	3.3	Active	R		2022-03-23
+7TYI	calcr_human	cryo-EM	3.3	Active	R		2022-03-30
+7TYL	calcr_human	cryo-EM	3.3	Active	R		2022-03-23
+7TYN	calcr_human	cryo-EM	2.6	Active	R		2022-03-30
+7TYO	calcr_human	cryo-EM	2.7	Active	R		2022-03-23
+7TYW	calcr_human	cryo-EM	3.0	Active	R		2022-03-23
+7TYX	calcr_human	cryo-EM	2.55	Active	R		2022-03-30
+7TYY	calcr_human	cryo-EM	3.0	Active	R		2022-03-23
+7TZF	calcr_human	cryo-EM	2.4	Active	R		2022-03-23
+7FIN	gipr_human	cryo-EM	3.1	Active	R		2022-02-23
+7FIY	gipr_human	cryo-EM	3.4	Active	R		2022-03-02
+7VAB	gipr_human	cryo-EM	3.2	Active	R		2022-03-02
+7FIM	glp1r_human	cryo-EM	3.4	Active	R		2022-03-02
+7VBI	glp1r_human	cryo-EM	3.0	Active	R		2022-03-02
+7V35	glr_human	cryo-EM	3.5	Active	R		2022-03-02
+7WI6	grm3_human	cryo-EM	3.71	Inactive	A		2022-03-16
+7WI8	grm3_human	cryo-EM	4.17	Inactive	A		2022-03-16
+7WIH	grm3_human	cryo-EM	3.68	Active	A		2022-03-16
+7EJ0	ada2a_HUMAN	cryo-EM	3.2	Active	R		2022-04-13
+7EJ8	ada2a_HUMAN	cryo-EM	3.0	Active	R		2022-04-13
+7EJA	ada2a_HUMAN	cryo-EM	3.6	Active	R		2022-04-13
+7EJK	ada2a_HUMAN	cryo-EM	3.4	Active	R		2022-04-13
+7WVU	fpr1_human	cryo-EM	3.3	Active	R		2022-04-13
+7WVV	fpr2_human	cryo-EM	2.9	Active	R		2022-04-13
+7WVW	fpr2_human	cryo-EM	3.1	Active	R		2022-04-13
+7WVX	fpr2_human	cryo-EM	2.8	Active	R		2022-04-13
+7WVY	fpr2_human	cryo-EM	3.0	Active	R		2022-04-13
+7WQ3	galr1_human	cryo-EM	2.7	Active	R		2022-04-20
+7WQ4	galr2_human	cryo-EM	2.6	Active	R		2022-04-20
+7SBF	oprm_mouse	cryo-EM	2.9	Active	R		2022-04-20
+7SCG	oprm_mouse	cryo-EM	3.0	Active	D		2022-04-20
+7U2L	oprm_mouse	cryo-EM	3.2	Active	D		2022-05-04
+7T6B	s1pr2_human	cryo-EM	3.19	Active	R		2022-04-06
+7EZC	aa2ar_human	X-ray	3.8	Active	B		2022-04-13
+7TUY	gp183_human	cryo-EM	2.98	Inactive	R		2022-04-13
+7TUZ	gp183_human	cryo-EM	3.12	Active	R		2022-04-13
+7RA3	gipr_human	cryo-EM	3.24	Active	R		2022-04-13
+7RBT	gipr_human	cryo-EM	3.08	Active	R		2022-04-13
+7RG9	glp1r_human	cryo-EM	3.2	Active	R		2022-04-13
+7RGP	glp1r_human	cryo-EM	2.9	Active	R		2022-04-13
+7VBH	glp1r_human	cryo-EM	3.0	Active	R		2022-04-06
+7WU2	agrd1_human	cryo-EM	2.8	Active	R		2022-04-27
+7WU3	agrf1_human	cryo-EM	3.1	Active	R		2022-04-27
+7WU4	agrf1_human	cryo-EM	3.4	Active	R		2022-04-27
+7WU5	agrf1_human	cryo-EM	3.0	Active	R		2022-04-27
+7SF7	agrl3_human	cryo-EM	2.9	Active	A		2022-04-27
+7SF8	agrg1_human	cryo-EM	2.7	Active	A		2022-04-27
+7WUI	agrg2_mouse	cryo-EM	3.1	Active	R		2022-04-27
+7WUJ	agrg4_human	cryo-EM	3.3	Active	E		2022-04-27
+7EJX	gpr88_human	cryo-EM	2.4	Active	R		2022-04-13
+7S0G	adrb1_melga	cryo-EM	3.86	Active	R		2021-11-17
+7S0F	adrb1_melga	cryo-EM	2.96	Active	R		2021-11-17
+7W53	nmur1_human	cryo-EM	3.2	Active 	R		2022-04-20
+7W55	nmur2_human	cryo-EM	2.8	Active 	R		2022-04-20
+7W56	nmur1_human	cryo-EM	2.9	Active 	R		2022-04-20
+7W57	nmur2_human	cryo-EM	3.2	Active 	R		2022-04-20
+7WUQ	agrg2_mouse	cryo-EM	2.9	Active 	R		2022-04-27
+7EPT	agrd1_human	cryo-EM	3.0	Active	R		2022-05-11
+7EQ1	agrg5_human	cryo-EM	3.3	Active	R		2022-05-11
+7EUO	fpr1_human	cryo-EM	2.9	Active	R		2022-05-25
+7SQO	ox2r_human	cryo-EM	3.17	Active	R		2022-05-25
+7V68	acm4_human	cryo-EM	3.4	Active	R		2022-05-11
+7V69	acm4_human	cryo-EM	3.4	Active	R		2022-05-11
+7V6A	acm4_human	cryo-EM	3.6	Active	R		2022-05-11
+7VQX	vipr2_human	cryo-EM	2.7	Active	R		2022-05-18
+7WBJ	vipr2_human	cryo-EM	3.42	Active	R		2022-05-18
+7X9A	npy1r_human	cryo-EM	3.2	Active	R		2022-05-18
+7X9B	npy2r_human	cryo-EM	3.4	Active	R		2022-05-18
+7X9C	npy4r_human	cryo-EM	3.0	Active	R		2022-05-18
+7XJH	adrb3_canlf	cryo-EM	3.3	Active	R		2022-05-04
+7XJI	adrb3_canlf	cryo-EM	3.9	Active	R		2022-05-04
+7F6H	bkrb2_human	cryo-EM	2.9	Active	A		2022-01-05
+7F6I	bkrb2_human	cryo-EM	2.8	Active	A		2022-01-05
+7S15	glp1r_human	cryo-EM	3.8	Active	R		2022-06-08
+7SR8	ox2r_human	cryo-EM	3.3	Active	R		2022-06-08
+7WIC	ssr2_human	cryo-EM	2.8	Active	R		2022-06-01
+7WIG	ssr2_human	cryo-EM	2.7	Active	R		2022-06-01
+7F0T	drd1_human	cryo-EM	3.1	Active	F		2022-06-15
+7F1O	drd1_human	cryo-EM	3.13	Active	F		2022-06-15
+7F1Z	drd1_human	cryo-EM	3.46	Active	F		2022-06-15
+7F23	drd1_human	cryo-EM	3.58	Active	F		2022-06-15
+7F24	drd1_human	cryo-EM	4.16	Active	F		2022-06-15
+7X2C	drd1_human	cryo-EM	3.2	Active	F		2022-06-29
+7X2D	drd1_human	cryo-EM	3.3	Active	F		2022-06-15
+7X2F	drd1_human	cryo-EM	3.0	Active	F		2022-06-15
+7UL2	ntr1_human	cryo-EM	2.4	Inactive	R		2022-06-29
+7UL3	hrh2_human	cryo-EM	3.0	Inactive	A		2022-06-29
+7XJK	galr2_human	cryo-EM	3.3	Active	F		2022-06-29
+7XJL	galr2_human	cryo-EM	3.5	Active	F		2022-06-29
+7UL4	oprm_mouse	cryo-EM	2.8	Inactive	A		2022-06-29
+7UL5	ssr2_human	cryo-EM	3.1	Inactive	A		2022-06-29
+7WKD	trfr_human	cryo-EM	3.01	Active	R		2022-06-15
+7FEE	cnr1_human	X-ray 	2.7	Inactive	A		2022-06-15
+7WV9	cnr1_human	cryo-EM	3.36	Active	R		2022-06-15
+7X8R	glp1r_human	cryo-EM	2.61	Active	R		2022-06-29
+7X8S	glp1r_human	cryo-EM	3.09	Active	R		2022-06-29
+7ZI0	smo_human	X-ray 	3.0	Inactive	A		2022-06-15
+7RAN	5ht2a_human	cryo-EM	3.45	Active	A		2022-07-06
+7XT8	5ht4r_human	cryo-EM	3.1	Active	R		2022-07-27
+7XT9	5ht4r_human	cryo-EM	3.2	Active	R		2022-07-27
+7XTA	5ht4r_human	cryo-EM	3.2	Active	R		2022-07-27
+7UM4	5ht5a_human	X-ray	2.8	Inactive 	A		2022-07-20
+7UM5	5ht5a_human	cryo-EM	2.73	Active	A		2022-07-20
+7UM6	5ht5a_human	cryo-EM	2.79	Active	A		2022-07-20
+7UM7	5ht5a_human	cryo-EM	2.75	Active	A		2022-07-20
+7XTB	5ht6r_human	cryo-EM	3.3	Active	R		2022-07-27
+7XTC	5ht7r_human	cryo-EM	3.2	Active	R		2022-07-27
+7SUS	apj_human	X-ray	2.7	Inactive 	A		2022-07-27
+7W0L	apj_human	cryo-EM	3.57	Active	R	Dimeric 	2022-07-27
+7W0M	apj_human	cryo-EM	3.71	Active	R		2022-07-27
+7W0N	apj_human	cryo-EM	4.21	Active	R	Dimeric 	2022-07-27
+7W0O	apj_human	cryo-EM	3.78	Active	R		2022-07-27
+7W0P	apj_human	cryo-EM	3.16	Active	R		2022-07-27
+7XOU	cckar_human	cryo-EM	3.2	Active	R		2022-07-20
+7XOV	cckar_human	cryo-EM	3.0	Active	R		2022-07-20
+7XOW	gasr_human	cryo-EM	3.1	Active	R		2022-07-20
+7XOX	gasr_human	cryo-EM	3.1	Active	R		2022-07-20
+7XBD	galr2_human	cryo-EM	3.11	Active	A		2022-07-13
+7WJ5	ssr2_human	cryo-EM	3.72	Active	R		2022-07-13
+7XBW	cx3c1_human	cryo-EM	2.8	Active	R		2022-07-13
+7XBX	cx3c1_human	cryo-EM	3.4	Active	R		2022-07-13
+7SK3	ackr3_human	cryo-EM	3.8	Active	A		2022-07-27
+7SK4	ackr3_human	cryo-EM	3.3	Active	A		2022-07-27
+7SK5	ackr3_human	cryo-EM	4.0	Active	A		2022-07-27
+7SK6	ackr3_human	cryo-EM	4.0	Active	A		2022-07-27
+7SK7	ackr3_human	cryo-EM	3.3	Active	A		2022-07-27
+7SK8	ackr3_human	cryo-EM	3.3	Active 	A		2022-07-27
+7SK9	ackr3_human	cryo-EM	3.7	Active	A		2022-07-27
+7XTQ	gpbar_human	cryo-EM	3.2	Active	R		2022-07-06
+7Y12	mrgrd_human	cryo-EM	3.1	Active	R		2022-07-20
+7Y13	mrgrd_human	cryo-EM	3.1	Inactive	R		2022-07-20
+7Y14	mrgrd_human	cryo-EM	3.2	Inactive	R		2022-07-20
+7Y15	mrgrd_human	cryo-EM	2.9	Active	R		2022-07-20
+8DCR	adrb1_melga	cryo-EM	2.6	Active	R		2022-07-27
+8DCS	adrb1_melga	cryo-EM	2.5	Active	R		2022-07-27
+8DPF	5ht2c_human	cryo-EM	2.84	Active	A		2022-08-24
+8DPG	5ht2c_human	cryo-EM	3.6	Active	A		2022-08-24
+8DPH	5ht2c_human	cryo-EM	3.2	Active	A		2022-08-24
+8DPI	5ht2c_human	cryo-EM	3.4	Active	A		2022-08-24
+7XAT	ssr2_human	cryo-EM	2.85	Active	A		2022-08-31
+7XAU	ssr2_human	cryo-EM	2.97	Active	A		2022-08-31
+7XAV	ssr2_human	cryo-EM	2.87	Active	A		2022-08-31
+7XMR	ssr2_human	cryo-EM	3.1	Active	R		2022-08-03
+7XN9	ssr2_human	X-ray 	2.6	Inactive 	A		2022-08-03
+7XNA	ssr2_human	X-ray 	2.65	Inactive 	A		2022-08-03
+7XMS	ssr4_human	cryo-EM	2.9	Active	R		2022-08-03
+7XMT	ssr4_human	cryo-EM	2.8	Active	R		2022-08-03
+7X1T	trfr_human	cryo-EM	3.26	Active	A		2022-08-31
+7X1U	trfr_human	cryo-EM	3.19	Active	A		2022-08-31
+7QVM	oxyr_human	cryo-EM	3.25	Active	R		2022-08-10
+7XA3	ccr2_human	cryo-EM	2.9	Active	R		2022-08-24
+7X9Y	ccr3_human	cryo-EM	3.1	Active	R		2022-08-24
+7XW5	tshr_human	cryo-EM	2.96	Active	R		2022-08-24
+7XW6	tshr_human	cryo-EM	2.78	Active	R		2022-08-17
+7XW7	tshr_human	cryo-EM	5.5	Inactive 	R		2022-08-17
+7YXA	s1pr5_human	X-ray 	2.2	Inactive 	A		2022-08-10
+7WU9	pe2r3_human	cryo-EM	3.38	Active	R		2022-08-17
+7T32	aa2ar_human	cryo-EM	3.4	Inactive 	A		2022-08-10
+8CU6	aa2ar_human	X-ray 	2.8	Inactive 	A		2022-08-31
+8CU7	aa2ar_human	X-ray 	2.05	Inactive 	A		2022-08-31
+8DU3	aa2ar_human	X-ray 	2.5	Inactive 	A		2022-08-10
+7VVJ	pth1r_human	cryo-EM	3.2	Active	R		2022-08-03
+7VVK	pth1r_human	cryo-EM	3.3	Active	R	class 1	2022-08-03
+7VVL	pth1r_human	cryo-EM	2.8	Active	R	class 2	2022-08-03
+7VVM	pth1r_human	cryo-EM	3.2	Active	R	class 3	2022-08-03
+7VVN	pth1r_human	cryo-EM	3.8	Active	R		2022-08-03
+7VVO	pth1r_human	cryo-EM	4.1	Active	R		2022-08-03
+7XKD	agrg2_mouse	cryo-EM	2.4	Active	R		2022-08-10
+7XKE	agrg2_mouse	cryo-EM	2.9	Active	R		2022-08-10
+7XKF	agrg2_mouse	cryo-EM	2.4	Active	R		2022-08-10
+7YP7	agrg2_mouse	cryo-EM	3.1	Active	R		2022-08-24
+8CXO	smo_mouse	cryo-EM	3.7	Inactive 	A		2022-08-03
+7XZ5	gp119_human	cryo-EM	3.1	Active	R		2022-08-24
+7XZ6	gp119_human	cryo-EM	2.8	Active	R		2022-08-24
+7T9I	tshr_human	cryo-EM	2.9	Active	R		2022-08-03
+7T9M	tshr_human	cryo-EM	3.1	Inactive 	R		2022-08-10
+7T9N	tshr_human	cryo-EM	2.9	Active	R		2022-08-03
+7UTZ	tshr_human	cryo-EM	2.4	Active	R		2022-08-03
+7F61	hrh3_human	X-ray	2.6	Inactive	A		2022-10-26
+7PP1	p2y12_human	X-ray	2.78	Inactive	A		2022-11-02
+7R0C	v2r_human	cryo-EM	4.73	Active	A		2022-09-14
+7SRQ	5ht2b_human	cryo-EM	2.7	Intermediate	R		2022-09-21
+7SRR	5ht2b_human	cryo-EM	2.9	Active	R		2022-09-21
+7SRS	5ht2b_human	cryo-EM	3.3	Active	R		2022-09-21
+7T2G	oprm_mouse	cryo-EM	2.5	Active	R		2022-12-07
+7T2H	oprm_mouse	cryo-EM	3.2	Active	D		2022-12-07
+7TRY	crfr2_human	cryo-EM	3.7	Active	P		2022-11-09
+7TS0	crfr2_human	cryo-EM	2.8	Active	P		2022-11-09
+7U2K	oprm_mouse	cryo-EM	3.3	Active	D		2022-12-07
+7VFX	fpr1_human	cryo-EM	2.8	Active	R		2022-09-21
+7VIE	s1pr1_human	cryo-EM	2.86	Active	F		2022-09-28
+7VIF	s1pr1_human	cryo-EM	2.83	Active	F		2022-09-28
+7VIG	s1pr1_human	cryo-EM	2.89	Active	F		2022-09-28
+7VIH	s1pr1_human	cryo-EM	2.98	Active	F		2022-09-28
+7W6P	ada2a_human	cryo-EM	3.47	Active	R		2022-09-28
+7W7E	ada2a_human	cryo-EM	3.4	Active	R		2022-09-28
+7WCM	gp119_human	cryo-EM	2.33	Active	R		2022-12-21
+7WCN	gp119_human	cryo-EM	2.87	Active	R		2022-12-21
+7WXU	agrf1_human	cryo-EM	2.85	Active	R		2022-09-28
+7WXW	agrf1_human	cryo-EM	2.84	Active	R		2022-09-28
+7WY0	agrf1_human	cryo-EM	2.83	Active	R		2022-09-28
+7WY5	agrl3_mouse	cryo-EM	2.83	Active	R		2022-10-26
+7WY8	agrl3_mouse	cryo-EM	2.83	Active	R		2022-10-26
+7WYB	agrl3_mouse	cryo-EM	2.97	Active	R		2022-10-26
+7WZ4	gpr88_human	cryo-EM	3.0	Active	R		2022-10-26
+7WZ7	agrf1_human	cryo-EM	2.83	Active	R		2022-09-28
+7X10	agrl3_mouse	cryo-EM	2.93	Active	R		2022-11-09
+7X2V	agrf1_human	cryo-EM	3.09	Active	R		2022-09-28
+7X5H	5ht5a_human	cryo-EM	3.1	Active	R		2022-09-14
+7XP4	t2r46_human	cryo-EM	3.01	Active	R		2022-10-12
+7XP5	t2r46_human	cryo-EM	3.08	Active	R		2022-10-12
+7XP6	t2r46_human	cryo-EM	3.01	Active	R		2022-10-12
+7XRR	ox2r_human	X-ray	2.89	Inactive	A		2022-11-23
+7XW9	trfr_human	cryo-EM	2.7	Active	R		2022-12-28
+7Y24	ssr2_human	cryo-EM	3.25	Active	E		2022-10-19
+7Y26	ssr2_human	cryo-EM	3.3	Active	E		2022-10-19
+7Y27	ssr2_human	cryo-EM	3.48	Active	E		2022-10-19
+7Y89	gpr17_human	cryo-EM	3.02	Active	A		2022-10-12
+7YU3	lpar1_human	cryo-EM	3.5	Active	R		2022-10-05
+7YU4	lpar1_human	cryo-EM	3.7	Inactive	A		2022-10-05
+7YU5	lpar1_human	cryo-EM	3.7	Active	R	State 1	2022-10-05
+7YU6	lpar1_human	cryo-EM	3.9	Active	R	State 2	2022-10-05
+7YU7	lpar1_human	cryo-EM	4.5	Active	R	State 3	2022-10-05
+7YU8	lpar1_human	cryo-EM	5.6	Active	R	State 4	2022-10-05
+8DWC	mrgx1_human	cryo-EM	2.87	Active	R		2022-11-02
+8DWG	mrgx1_human	cryo-EM	2.71	Active	R		2022-11-02
+8DWH	mrgx1_human	cryo-EM	3.25	Active	R		2022-11-02
+8E3X	pacr_human	cryo-EM	2.3	Active	R		2022-11-23
+8E3Y	vipr1_human	cryo-EM	2.3	Active	R		2022-11-23
+8E3Z	vipr1_human	cryo-EM	2.7	Active	R		2022-11-23
+8E9W	acm3_human	cryo-EM	2.69	Active	A		2022-11-30
+8E9X	acm4_human	cryo-EM	2.7	Active	A		2022-11-30
+8E9Y	acm3_human	cryo-EM	2.79	Active	A		2022-11-30
+8E9Z	acm3_human	cryo-EM	2.69	Active	A		2022-11-30
+8EA0	acm3_human	cryo-EM	2.56	Inactive	A		2022-11-30
+8EF5	oprm_human	cryo-EM	3.3	Active	R	Dimeric 	2022-11-09
+8EF6	oprm_human	cryo-EM	3.2	Active	R	Dimeric 	2022-11-09
+8EFB	oprm_human	cryo-EM	3.2	Active	R		2022-11-09
+8EFL	oprm_human	cryo-EM	3.2	Active	R	Dimeric 	2022-11-09
+8EFO	oprm_human	cryo-EM	2.8	Active	R	Dimeric 	2022-11-09
+8EFQ	oprm_human	cryo-EM	3.3	Active	R		2022-11-09
+8F7Q	oprm_human	cryo-EM	3.22	Active	R	Dimeric 	2022-12-14
+8F7R	oprm_human	cryo-EM	3.28	Active	R	Dimeric 	2022-12-14
+8F7S	oprd_human	cryo-EM	3.0	Active	R	Dimeric 	2022-12-14
+8F7W	oprk_human	cryo-EM	3.19	Active	R		2022-12-14
+8F7X	oprx_human	cryo-EM	3.28	Active	R		2022-12-14
+8HA0	pth1r_human	cryo-EM	2.62	Active	R		2022-12-21
+8HAF	pth1r_human	cryo-EM	3.25	Active	R		2022-12-21
+8HAO	pth1r_human	cryo-EM	3.76	Active	R	Dimeric 	2022-12-21
+7F6G	agtr1_human	cryo-EM	2.9	Active	A		2023-03-29
+7Y65	c5ar1_human	cryo-EM	3.2	Active	D		2023-03-01
+7YJ4	rl3r2_human	cryo-EM	3.19	Active	R		2023-03-01
+7YK6	rl3r2_human	cryo-EM	3.03	Active	R		2023-03-01
+7YK7	rl3r2_human	cryo-EM	2.75	Active	R		2023-03-01
+7YON	npy2r_human	cryo-EM	2.95	Active	R		2023-03-22
+7YOO	npy2r_human	cryo-EM	3.11	Active	R		2023-03-22
+7YS6	5ht6r_human	cryo-EM	3.0	Active	A		2023-03-29
+7ZBC	opsd_bovin	X-ray	1.8	Inactive	A		2023-03-29
+7ZBE	opsd_bovin	X-ray	1.8	Inactive	A		2023-03-29
+7Y66	c5ar1_human	cryo-EM	2.9	Active	D		2023-03-01
+7Y67	c5ar1_human	cryo-EM	2.8	Active	D		2023-03-01
+8A6C	opsd_bovin	X-ray	1.8	Active	A		2023-03-29
+8A6D	opsd_bovin	X-ray 	1.8	Active	A		2023-03-29
+8A6E	opsd_bovin	X-ray	1.8	Active	A		2023-03-29
+8F76	o51e2_human	cryo-EM	3.1	Active	A		2023-03-22
+8FMZ	ntr1_rat	cryo-EM	2.59	Active	A		2023-03-29
+8FN0	ntr1_rat	cryo-EM	2.89	Active	A		2023-03-29
+8FN1	ntr1_rat	cryo-EM	2.88	Active	A		2023-03-29
+8FYN	aa2ar_human	Electron crystallography	2.0	Inactive	A		2023-03-08
+8G59	ffar4_human	cryo-EM	2.64	Active	R		2023-03-08
+8GNE	aa2ar_human	X-ray	2.3	Inactive	A		2023-03-22
+8GNG	aa2ar_human	X-ray	3.2	Inactive	X		2022-03-22
+8GY7	acthr_human	cryo-EM	3.3	Active	R		2023-01-11
+8H8J	gpr35_human	cryo-EM	3.2	Active	C		2023-02-08
+8HBD	ednrb_human	cryo-EM	2.99	Active	R		2023-03-22
+8HCQ	ednra_human	cryo-EM	3.01	Active	R		2023-03-22
+8HCX	ednrb_human	cryo-EM	3.5	Active	C		2023-03-22
+8HDO	aa2br_human	cryo-EM	2.87	Active	R		2023-01-18
+8HDP	aa2br_human	cryo-EM	3.2	Active	R		2023-01-18
+8HIX	gpr21_human	cryo-EM	3.12	Active	R		2023-03-15
+8HJ0	gpr21_human	cryo-EM	3.12	Active	R		2023-03-15
+8HJ2	gpr21_human	cryo-EM	3.8	Active	R		2023-03-15
+8HMV	gpr21_human	cryo-EM	2.91	Active	A		2023-03-01
+8HS2	gpr20_human	cryo-EM	3.08	Inactive	R		2023-03-08
+8HS3	gpr20_human	cryo-EM	3.14	Active	R		2023-03-08
+8HSC	gpr20_human	cryo-EM	3.22	Active	R		2023-03-08
+8I2G	fshr_human	cryo-EM	2.8	Active	R		2023-03-29
+8I2H	fshr_human	cryo-EM	6.0	Inactive	A		2023-03-22
+8ID3	ffar4_human	cryo-EM	3.1	Active	R		2023-03-15
+8ID4	ffar4_human	cryo-EM	3.1	Active	R		2023-03-15
+8ID6	ffar4_human	cryo-EM	2.8	Active	R		2023-03-15
+8ID8	ffar4_human	cryo-EM	3.0	Active	R		2023-03-15
+8ID9	ffar4_human	cryo-EM	3.0	Active	R		2023-03-15
+7T8X	acm2_human	cryo-EM	3.21	Active	A		2023-01-25
+7T90	acm2_human	cryo-EM	3.32	Active	A		2023-01-25
+7T94	acm2_human	cryo-EM	3.16	Active	A	State 1	2023-01-25
+7T96	acm2_human	cryo-EM	3.22	Active	A	State 2	2023-01-25
+7TMW	rxfp1_human	cryo-EM	3.2	Active	R		2023-02-15
+7W3Z	grpr_human	cryo-EM	3.0	Active	A		2023-02-22
+7W40	grpr_human	cryo-EM	3.0	Active	A		2023-02-22
+7W41	grpr_human	X-ray	2.95	Inactive	A		2023-02-22
+7XK2	hcar2_human	cryo-EM	3.1	Active	R		2023-02-22
+7XK8	nmur2_human	cryo-EM	3.3	Active	R		2023-02-22
+7YIT	oprk_human	X-ray	3.3	Inactive	A		2023-04-12
+8EIT	ffar1_human	cryo-EM	2.8	Active	R		2023-05-24
+8FU6	glr_human	cryo-EM	2.9	Active	R		2023-04-12
+8IRS	drd2_human	cryo-EM	3.0	Active	R		2023-06-07
+8IWM	taar9_mouse	cryo-EM	3.17	Inactive 	R		2023-05-31
+8IW1	taar9_mouse	cryo-EM	3.4	Active	R		2023-05-31
+8IW4	taar9_mouse	cryo-EM	3.49	Active	R		2023-05-31
+8IW7	taar9_mouse	cryo-EM	2.97	Active	R		2023-05-31
+8IW9	taar9_mouse	cryo-EM	3.08	Active	R		2023-05-31
+8IWE	taar9_mouse	cryo-EM	3.4	Inactive	R		2023-05-31
+7XKA	adrb2_human	X-ray	3.1	Inactive	A		2023-04-26
+8G2Y	agrf1_human	cryo-EM	3.44	Active	R		2023-05-10
+8IBV	mtlr_human	cryo-EM	3.19	Active	R		2023-04-12
+8GUS	cnr2_human	cryo-EM	2.97	Active	R		2023-05-10
+7XV3	gp174_human	cryo-EM	2.76	Active	R		2023-02-15
+7XXI	p2y12_human	cryo-EM	3.0	Active	A		2023-06-07
+8DZP	oprk_human	cryo-EM	2.71	Active	A		2023-05-03
+8DZR	oprk_human	cryo-EM	2.61	Active	A		2023-05-03
+8HJ5	mrgx1_human	cryo-EM	3.0	Active	F		2023-05-31
+7TRS	acm4_human	cryo-EM	2.8	Active	R		2023-05-17
+7XK9	adrb2_human	X-ray	3.4	Inactive	A		2023-04-26
+7ZLY	hcar2_human	X-ray 	2.7	Inactive	A		2023-04-12
+7ZL9	hcar2_human	X-ray	2.7	Inactive	A		2023-04-12
+7XJJ	galr1_human	cryo-EM	3.3	Active	E		2023-05-03
+8FLS	pth1r_human	cryo-EM	3.09	Active	R		2023-04-26
+8CIC	aa2ar_human	X-ray	2.1	Inactive	A		2023-05-31
+7XWO	nk2r_human	cryo-EM	2.7	Active	B		2023-05-31
+7Y1F	oprk_human	cryo-EM	3.3	Active	R		2023-05-24
+7Y3G	gpr12_human	cryo-EM	2.77	Active	R		2023-06-07
+8G94	s1pr1_human	cryo-EM	3.15	Active	A		2023-04-19
+7TRQ	acm4_human	cryo-EM	2.5	Active	R		2023-05-17
+7XY7	aa2br_human	cryo-EM	3.26	Active	R		2023-05-03
+7YAE	ssr2_human	cryo-EM	3.37	Active	E		2023-04-19
+8DZQ	oprk_human	cryo-EM	2.82	Active	A		2023-05-03
+8EJC	ffar1_human	cryo-EM	3.0	Active	R		2023-05-24
+7Y64	c5ar1_human	cryo-EM	2.9	Active	D		2023-03-01
+8DZS	oprk_human	cryo-EM	2.65	Active	A		2023-05-03
+8HK3	c3ar_human	cryo-EM	3.2	Active	C		2023-05-10
+8IBU	mtlr_human	cryo-EM	3.51	Active	R		2023-04-12
+8FLQ	pth1r_human	cryo-EM	2.55	Active	R		2023-04-26
+8GUT	cnr2_human	cryo-EM	2.98	Active	R		2023-05-10
+8IRV	drd5_human	cryo-EM	3.1	Active	R		2023-06-07
+7TRK	acm4_human	cryo-EM	2.8	Active	R		2023-05-17
+7YAC	ssr2_human	cryo-EM	3.24	Active	E		2023-04-19
+8EJK	ffar1_human	cryo-EM	3.4	Active	R		2023-05-24
+8GUQ	cnr2_human	cryo-EM	2.08	Active	R		2023-05-10
+8HK2	c3ar_human	cryo-EM	2.9	Active	A		2023-05-10
+8IA8	c3ar_human	cryo-EM	2.86	Active	A		2023-05-24
+8ITF	taar9_mouse	cryo-EM	3.46	Active	R		2023-05-31
+8FLT	pth1r_human	cryo-EM	3.03	Active	R		2023-04-26
+8FLU	pth1r_human	cryo-EM	2.76	Active	R		2023-04-26
+8GHV	cnr1_human	cryo-EM	2.8	Active	D		2023-05-24
+8GUR	cnr2_human	cryo-EM	2.84	Active	R		2023-05-10
+8HK5	c5ar1_human	cryo-EM	3.0	Active	A		2023-05-10
+8IRT	drd3_human	cryo-EM	2.7	Active	R		2023-06-07
+7TRP	acm4_human	cryo-EM	2.4	Active	R		2023-05-17
+7XXH	p2ry1_human	cryo-EM	2.9	Active	R		2023-06-07
+8FLR	pth1r_human	cryo-EM	2.94	Active	R		2023-04-26
+7XY6	aa2br_human	cryo-EM	2.99	Active	R		2023-05-03
+7YKD	cml1_human	cryo-EM	2.81	Active	A		2023-04-19
+7Y35	pth1r_human	cryo-EM	2.9	Active	R		2023-07-05
+7Y36	pth1r_human	cryo-EM	2.8	Active	R		2023-07-05
+7YDH	agre5_human	cryo-EM	3.1	Active	R		2023-07-12
+7YDJ	agre5_human	cryo-EM	3.03	Active	R		2023-07-12
+7YDM	agre5_human	cryo-EM	2.89	Active	R		2023-07-12
+7YDP	agre5_human	cryo-EM	3.1	Active	R		2023-07-12
+7YM8	ada1a_human	cryo-EM	2.92	Active	A		2023-07-05
+7YMH	ada1a_human	cryo-EM	3.52	Active	A		2023-07-05
+7YMJ	ada1a_human	cryo-EM	3.35	Inactive	A		2023-07-05
+8C9W	aa2ar_human	X-ray	2.11	Inactive	A		2023-07-12
+8F0J	calcr_human	cryo-EM	2.0	Active	R		2023-08-02
+8F0K	calcr_human	cryo-EM	1.9	Active	R		2023-08-02
+8F2A	calcr_human	cryo-EM	2.2	Active	R		2023-08-02
+8F2B	calcr_human	cryo-EM	2.0	Active	R		2023-08-02
+8GW8	pth1r_human	cryo-EM	2.9	Active	R		2023-06-14
+8H0P	nmbr_human	cryo-EM	3.15	Active	R		2023-08-09
+8H0Q	grpr_human	cryo-EM	3.3	Active	R		2023-08-09
+8H4I	ffar4_human	cryo-EM	3.06	Active	R		2023-06-21
+8H4K	ffar4_human	cryo-EM	3.1	Active	R		2023-06-21
+8H4L	ffar4_human	cryo-EM	3.07	Active	R		2023-06-21
+8HMP	gpr52_human	cryo-EM	2.77	Active	R		2023-06-21
+8IC0	cxcr1_human	cryo-EM	3.41	Active	A		2023-07-19
+8IRR	drd1_human	cryo-EM	3.2	Active	R		2023-06-21
+8IRU	drd4_human	cryo-EM	3.2	Active	R		2023-06-21
+8IUK	pf2r_human	cryo-EM	2.67	Active	R		2023-07-12
+8IUL	pf2r_human	cryo-EM	2.78	Active	R		2023-07-12
+8IUM	pf2r_human	cryo-EM	3.14	Active	R		2023-07-12
+8IY5	ednrb_human	cryo-EM	2.8	Active	R		2023-08-16
+8IY6	ednrb_human	cryo-EM	3.13	Inactive	R		2023-08-16
+8IYS	ffar4_human	cryo-EM	2.95	Active	R		2023-06-21
+8J18	gpr84_human	cryo-EM	2.89	Active	R		2023-06-21
+8J19	gpr84_human	cryo-EM	3.23	Active	R		2023-06-21
+8J1A	gpr84_human	cryo-EM	3.24	Active	R		2023-06-21
+8JCU	grm2_human	cryo-EM	2.8	Inactive	2.0	heterodimer	2023-06-21
+8JCV	grm2_human	cryo-EM	3.4	Inactive	2.0	heterodimer	2023-06-21
+8JCW	grm2_human	cryo-EM	3.0	Inactive	2.0	heterodimer	2023-06-21
+8JCX	grm2_human	cryo-EM	3.0	Inactive	2.0	heterodimer	2023-06-21
+8JCY	grm2_human	cryo-EM	2.9	Inactive	2.0	heterodimer	2023-06-21
+8JCZ	grm2_human	cryo-EM	3.0	Inactive	2.0	heterodimer	2023-06-21
+8JD0	grm2_human	cryo-EM	3.3	Inactive	2.0	heterodimer	2023-06-21
+8JD1	grm2_human	cryo-EM	3.7	Inactive	2.0	heterodimer	2023-06-21
+8JD2	grm2_human	cryo-EM	2.8	Active	2.0	heterodimer	2023-06-21
+8JD3	grm2_human	cryo-EM	3.3	Active	2.0	heterodimer	2023-06-21
+8JD4	grm2_human	cryo-EM	2.9	Active	2.0	heterodimer	2023-06-21
+8JD5	grm2_human	cryo-EM	3.6	Active	2.0	heterodimer	2023-06-21
+8JD6	grm4_human	cryo-EM	3.4	Active	S		2023-06-21
+8JLZ	5ht6r_human	cryo-EM	3.09	Active	R		2023-06-28
+8JPB	ntr1_human	cryo-EM	3.07	Active	R		2023-08-09
+8JPC	ntr1_human	cryo-EM	3.07	Active	R		2023-08-09
+8JPF	ntr1_human	cryo-EM	3.02	Inactive	R		2023-08-10
+8JR9	pth1r_human	cryo-EM	2.57	Active	R		2023-08-02
+8JRU	glr_human	cryo-EM	3.5	Active	R		2023-08-16
+8JRV	glr_human	cryo-EM	3.3	Active	R		2023-08-16
+8JWY	aa2ar_human	X-ray	2.33	Inactive	A		2023-08-16
+8JWZ	aa2ar_human	X-ray	2.37	Inactive	A		2023-08-16
+8PM2	taa7f_mouse	cryo-EM	2.92	Active	R		2023-08-09
+8THK	ada1a_human	cryo-EM	2.6	Active	R		2023-08-16
+8THL	ada1a_human	cryo-EM	3.1	Active	R		2023-08-16
