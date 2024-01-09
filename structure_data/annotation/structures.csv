@@ -1107,9 +1107,9 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date
 7YDJ	agre5_human	cryo-EM	3.03	Active	R		2023-07-12
 7YDM	agre5_human	cryo-EM	2.89	Active	R		2023-07-12
 7YDP	agre5_human	cryo-EM	3.1	Active	R		2023-07-12
-7YM8	aa1r_human	cryo-EM	2.92	Active	A		2023-07-05
-7YMH	aa1r_human	cryo-EM	3.52	Active	A		2023-07-05
-7YMJ	aa1r_human	cryo-EM	3.35	Inactive	A		2023-07-05
+7YM8	ada1a_human	cryo-EM	2.92	Active	A		2023-07-05
+7YMH	ada1a_human	cryo-EM	3.52	Active	A		2023-07-05
+7YMJ	ada1a_human	cryo-EM	3.35	Inactive	A		2023-07-05
 8C9W	aa2ar_human	X-ray	2.11	Inactive	A		2023-07-12
 8F0J	calcr_human	cryo-EM	2.0	Active	R		2023-08-02
 8F0K	calcr_human	cryo-EM	1.9	Active	R		2023-08-02

@@ -410,8 +410,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 6KNM	A	pep	None	Agonist	Single domain antibody JN241	Protein	2020-01-29	
 6P9X	P	pep	70678714.0	Agonist	Corticoliberin	Peptide	2020-02-05	
 6P9Y	P	pep	44566111.0	Agonist	PACAP	Peptide	2020-02-05	
-6KPC		E3R	145915889.0	Agonist	7-[(6aR,9R,10aR)-1-Hydroxy-9-(hydroxymethyl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-3-yl]-7-methyloctanenitrile	Small molecule	2020-02-12	
-6KPF		E3R	145915889.0	Agonist	7-[(6aR,9R,10aR)-1-Hydroxy-9-(hydroxymethyl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-3-yl]-7-methyloctanenitrile	Small molecule	2020-02-12	
+6KPC		E3R	145915889.0	Agonist	AM12033	Small molecule	2020-02-12	
+6KPF		E3R	145915889.0	Agonist	AM12033	Small molecule	2020-02-12	
 6KPG		8D0	102336704.0	Agonist	(6Ar,9R,10aR)-9-(hydroxymethyl)-3-(8-isothiocyanato-2-methyloctan-2-yl)-6,6-dimethyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol	Small molecule	2020-02-12	
 6LRY	B	pep	71308726.0	Agonist	Sarafotoxin S6b	Peptide	2020-02-12	
 6NWE		BOG	62852.0	unknown	B-Octylglucoside	Small molecule	2020-02-12	
@@ -1184,12 +1184,16 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 7YMH		E5E	6921840.0	Agonist	Noradrenaline	Small molecule	2023-07-05	
 7YMJ		JGX	129211.0	Antagonist	Tamsulosin	Small molecule 	2023-07-05	
 8C9W		U30	135242184.0	Antagonist	Etrumadenant	Small molecule 	2023-07-12	
+7YDP		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-07-12	
+7YDM		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-07-12	
+7YDJ		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-07-12	
+7YDH		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-07-12	
 8F0J	P	pep		Agonist	Pramlintide analogue San45	Peptide	2023-08-02	
 8F0K	P	pep		Agonist	San385	Peptide	2023-08-02	
 8F2A	P	pep		Agonist	Pramlintide analogue San385	Peptide	2023-08-02	
 8F2B	P	pep		Agonist	Pramlintide analogue San45	Peptide	2023-08-02	
 8GW8		KHF	76283707.0	Agonist	1-[3,5-dimethyl-4-[2-[[4-oxidanylidene-2-[4-(trifluoromethyloxy)phenyl]-1,3,8-triazaspiro[4.5]dec-1-en-8-yl]sulfonyl]ethyl]phenyl]-5,5-dimethyl-imidazolidine-2,4-dione	Small molecule	2023-06-14	
-8H0P		pep		Agonist	NMB30	Peptide	2023-08-09	
+8H0P	L	pep		Agonist	NMB30	Peptide	2023-08-09	
 8H0Q	L	pep	56841900.0	Agonist	Gastrin-releasing peptide	Peptide	2023-08-09	
 8H4K		WPT	11595431.0	Agonist	3-(4-((3-Phenoxybenzyl)amino)phenyl)propanoic acid	Small molecule	2023-06-21	
 8H4I		HXA	445580.0	Agonist	DOCOSA-4,7,10,13,16,19-HEXAENOIC ACID	Small molecule	2023-06-21	
@@ -1232,12 +1236,10 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 8JD6		BK0	836002.0	Agonist	N-(3-chlorophenyl)pyridine-2-carboxamide	Small molecule	2023-06-21	
 8JLZ		UQL	9921064.0	Agonist	5-Chloro-N,N,2-trimethyl-1H-indole-3-ethanamine	Small molecule	2023-06-28	
 8JPB	L	pep	5311318.0	Agonist	NTS(8-13)	Peptide	2023-08-09	
-8JPB		STU	44259.0		STAUROSPORINE	Small molecule	2023-08-09	
 8JPB		SRW	118610427.0	PAM	2-[{2-(1-fluorocyclopropyl)-4-[4-(2-methoxyphenyl)piperidin-1-yl]quinazolin-6-yl}(methyl)amino]ethan-1-ol	Small molecule	2023-08-09	
-8JPC		pep	5311318.0	Agonist	NTS(8-13)	Peptide	2023-08-09	
-8JPC		STU	44259.0		STAUROSPORINE	Small molecule	2023-08-09	
+8JPC	L	pep	5311318.0	Agonist	NTS(8-13)	Peptide	2023-08-09	
 8JPC		SRW	118610427.0	PAM	2-[{2-(1-fluorocyclopropyl)-4-[4-(2-methoxyphenyl)piperidin-1-yl]quinazolin-6-yl}(methyl)amino]ethan-1-ol	Small molecule	2023-08-09	
-8JPF		pep	5311318.0	Agonist	NTS(8-13)	Peptide	2023-08-10	
+8JPF	L	pep	5311318.0	Agonist	NTS(8-13)	Peptide	2023-08-10	
 8JPF		SRW	118610427.0	PAM	2-[{2-(1-fluorocyclopropyl)-4-[4-(2-methoxyphenyl)piperidin-1-yl]quinazolin-6-yl}(methyl)amino]ethan-1-ol	Small molecule	2023-08-10	
 8JR9		KHF	76283707.0	Agonist	1-[3,5-dimethyl-4-[2-[[4-oxidanylidene-2-[4-(trifluoromethyloxy)phenyl]-1,3,8-triazaspiro[4.5]dec-1-en-8-yl]sulfonyl]ethyl]phenyl]-5,5-dimethyl-imidazolidine-2,4-dione	Small molecule	2023-08-02	
 8JRU		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-08-16	
