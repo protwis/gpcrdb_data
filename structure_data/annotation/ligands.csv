@@ -1253,7 +1253,6 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 7YFD		ITF	3692.0	Agonist	Imetit	Small molecule	2023-10-25	
 8A2O		TEP	2153.0	Antagonist	Theophylline	Small molecule	2023-08-30	
 8A2P		9Y2	16122818.0	Antagonist	Benzamide, 4-[(3,3-dimethyl-1-oxobutyl)amino]-3,5-difluoro-N-2-thiazolyl-	Small molecule	2023-08-30	
-7ZY3		RET	5280490.0	Inverse agonist	Retinal (11-cis)	Small molecule	2023-06-14	
 8E0G		VF1	155804574.0	Agonist	BU72	Small molecule	2023-10-18	
 8FCZ		RET	5280490.0	Inverse agonist	Retinal (11-cis)	Small molecule	2023-08-30	
 8FD0		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-08-30	
