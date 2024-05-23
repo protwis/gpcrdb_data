@@ -2693,6 +2693,41 @@ c5ar1_human:
     '4.59': P
     '4.60': S
     '5.46': G
+c5ar1_mouse:
+    UniProt: c5ar1_mouse
+    Xtal Templ: c5ar1_mouse
+    Cl: A
+    Xtalised: Xtal
+    1x36: ''
+    1x411: ''
+    2x551: ''
+    2x581: ''
+    23x501: ''
+    3x28: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: 4x58
+    5x411: ''
+    5x421: ''
+    5x431: ''
+    5x461: 5x461
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': D
+    '2.56': A
+    '2.57': L
+    '2.58': P
+    '2.59': I
+    '2.60': L
+    '4.56': L
+    '4.57': T
+    '4.58': I
+    '4.59': P
+    '4.60': S
+    '5.46': G
 c5ar2_human:
     UniProt: c5ar2_human
     Xtal Templ: c5ar1_human
