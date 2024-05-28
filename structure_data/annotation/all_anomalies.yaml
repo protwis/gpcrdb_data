@@ -11093,6 +11093,41 @@ o51v1_human:
     '4.59': P
     '4.60': P
     '5.46': I
+o52e4_human:
+    UniProt: o52e4_human
+    Xtal Templ: o52e4_human
+    Cl: A
+    Xtalised: Xtal
+    1x36: ''
+    1x411: ''
+    2x551: 2x551
+    2x581: ''
+    23x501: ''
+    3x28: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: ''
+    5x411: ''
+    5x421: ''
+    5x431: ''
+    5x461: ''
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': D
+    '2.56': C
+    '2.57': T
+    '2.58': L
+    '2.59': P
+    '2.60': T
+    '4.56': L
+    '4.57': I
+    '4.58': F
+    '4.59': P
+    '4.60': L
+    '5.46': T
 ogr1_human:
     UniProt: ogr1_human
     Xtal Templ: ccr1_human
@@ -14773,6 +14808,41 @@ taar1_human:
     Xtal Templ: drd1_human
     Cl: A
     Xtalised: NoXtal
+    1x36: ''
+    1x411: ''
+    2x551: 2x551
+    2x581: ''
+    23x501: ''
+    3x28: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: ''
+    5x411: ''
+    5x421: ''
+    5x431: ''
+    5x461: 5x461
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': D
+    '2.56': L
+    '2.57': V
+    '2.58': M
+    '2.59': P
+    '2.60': Y
+    '4.56': F
+    '4.57': A
+    '4.58': F
+    '4.59': G
+    '4.60': M
+    '5.46': S
+taar1_mouse:
+    UniProt: taar1_mouse
+    Xtal Templ: taar1_mouse
+    Cl: A
+    Xtalised: Xtal
     1x36: ''
     1x411: ''
     2x551: 2x551
