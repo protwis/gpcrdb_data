@@ -1297,7 +1297,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 8IHI		P9X	76969700.0	Agonist	(5S)-5-methyl-4-oxo-5-phenylfuran-2-carboxylic acid	Small molecule	2023-08-30	
 8IHJ		P9X	76969700.0	Agonist	(5S)-5-methyl-4-oxo-5-phenylfuran-2-carboxylic acid	Small molecule	2023-08-30	
 8IHK		P9X	76969700.0	Agonist	(5S)-5-methyl-4-oxo-5-phenylfuran-2-carboxylic acid	Small molecule	2023-08-30	
-8IJ3		apo	None	Apo (no ligand)	Apo (no ligand)	small molecule	2024-01-03	
+8IJ3		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-01-03	
 8IJA		NIO	938.0	Agonist	Nicotinic acid	Small molecule	2024-01-03	
 8IJB		OJX	59806020.0	Agonist	5-Methyl-4-oxidanyl-pyrazin-4-ium-2-carboxylic acid	Small molecule	2024-01-03	
 8IJD		FI7	135416394.0	Agonist	2-[[2,2-dimethyl-3-[3-(5-oxidanylpyridin-2-yl)-1,2,4-oxadiazol-5-yl]propanoyl]amino]cyclohexene-1-carboxylic acid	Small molecule	2024-01-03	
@@ -1306,7 +1306,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 8IOD	L	pep	44366214.0	Agonist	PG-901	Peptide	2023-09-20	
 8IZB		UBL	5311263.0	Agonist	1-Oleoyl Lysophosphatidic Acid	Small molecule	2023-11-01	
 8IZB		SER	5951.0	Agonist	Serine 	Small molecule	2023-11-01	
-8J46		apo	None	Apo (no ligand)	Apo (no ligand)	Small molecule	2023-12-20	
+8J46		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-12-20	
 8J6D	D	pep		Agonist	EP141 peptide agonist	Peptide	2023-10-18	
 8J6P		NIO	938.0	Agonist	Nicotinic acid	Small molecule	2023-12-06	
 8J6Q		3HR	92135.0	Agonist	(3R)-3-hydroxybutanoic acid	Small molecule	2023-12-06	
@@ -1352,7 +1352,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 8TAO		QUS	40539.0	Agonist	Quisqualic acid	Small molecule	2023-10-11	
 8TB7		ZOB	168510218.0	Inverse agonist	6-{[(3,5-difluoropyridin-4-yl)methyl]amino}-N-(4-ethoxy-6-methylpyrimidin-2-yl)-2-methoxy-N-(2-methoxyethyl)pyridine-3-sulfonamide	Small molecule	2023-10-04	
 8U26	S	pep		Agonist	Protachykinin-1	Peptide	2023-11-15	
-8W77		apo	None	Apo (no ligand)	Apo (no ligand)	Small molecule	2023-12-20	
+8W77		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-12-20	
 8W87		B40	10836.0	Agonist	Methamphetamine	Small molecule	2023-11-22	
 8W88		UJL	89532783.0	Agonist	Ulotaront	Small molecule	2023-11-22	
 8W89		PEA	448751.0	Agonist	2-Phenylethanaminium	Small molecule	2023-11-22	
