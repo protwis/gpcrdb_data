@@ -589,11 +589,11 @@ PDB	Alpha_UniProt	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_Ch
 8FX5	gnai1_mouse	A	gbb1_human	B	gbg2_human	G	
 8G05	gnai1_human	A	gbb1_human	B	gbg2_human	G	
 8GCM	gnai1_human	A	gbb1_human	B	gbg2_human	C	
-8GCP	gnai1_human	A	gbb1_human	B	a0a7j7xnr4_rhife	C	
-8GD9	gnas2_human	A	gbb1_human	B	a0a7j7xnr4_rhife	G	
-8GDA	gnas2_human	A	gbb1_human	B	a0a7j7xnr4_rhife	G	
-8GDB	gnas2_human	A	gbb1_human	B	a0a7j7xnr4_rhife	G	
-8GDC	gnai1_human	A	gbb1_human	B	a0a7j7xnr4_rhife	C	
+8GCP	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8GD9	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+8GDA	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+8GDB	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+8GDC	gnai1_human	A	gbb1_human	B	gbg2_human	C	
 8H2G	gnai1_human	B	gbb1_human	C	gbg2_human	D	
 8HJ1	gnas2_human	A	gbb1_human	B	gbg2_human	G	
 8HN8	gnai1_human	A	gbb1_human	B	gbg2_human	G	
