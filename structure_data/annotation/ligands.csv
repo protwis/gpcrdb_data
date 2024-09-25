@@ -12,8 +12,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 2J4Y		RET	5280490.0	Inverse agonist	Retinal (11-cis)	Small molecule	2007-09-25	
 2PED		RET	6436082.0	Inverse agonist	Retinal (9-cis)	Small molecule	2007-10-30	
 2RH1		CAU	13023332.0	Inverse agonist	Carazolol	Small molecule	2007-10-30	
-2R4R		None	None	Inverse agonist	None	Small molecule	2007-11-06	
-2R4S		None	None	Inverse agonist	None	Small molecule	2007-11-06	
+2R4R		CAU	13023332.0	Inverse agonist	Carazolol	Small molecule	2007-11-06	f
+2R4S		CAU	13023332.0	Inverse agonist	Carazolol	Small molecule	2007-11-06	f
 2ZIY		RET	5280490.0	Inverse agonist	Retinal (11-cis)	Small molecule	2008-05-06	
 2Z73		RET	5280490.0	Inverse agonist	Retinal (11-cis)	Small molecule	2008-05-13	
 3D4S		TIM	33624.0	Inverse agonist	Timolol	Small molecule	2008-06-17	
@@ -23,7 +23,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 3C9M		RET	5280490.0	Inverse agonist	Retinal (11-cis)	Small molecule	2008-08-05	
 3DQB		apo	None	Apo (no ligand)	Apo (no ligand)	None	2008-09-23	
 3EML		ZMA	176407.0	Antagonist	ZM241385	Small molecule	2008-10-14	
-3KJ6		None	None	nan	None	None	2010-02-16	
+3KJ6		CAU	13023332.0	Inverse agonist	Carazolol	Small molecule	2010-02-16	f
 3NY8		JRZ	5311179.0	Inverse agonist	ICI-118551	Small molecule	2010-08-11	
 3NY9		JSZ	913103.0	Inverse agonist	Q27461782	Small molecule	2010-08-11	
 3NYA		JTZ	204665.0	Antagonist	JTZ	Small molecule	2010-08-11	
@@ -87,7 +87,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 4JKV		1KS	49848070.0	Antagonist	Taladegib	Small molecule	2013-04-24	
 4BEY		apo	None	Apo (no ligand)	Apo (no ligand)	None	2013-05-08	
 4K5Y		1Q5	9862166.0	Antagonist	CP-376395	Small molecule	2013-07-17	
-4L6R		None	None	nan	None	None	2013-07-24	
+4L6R		pep	None	Agonist	Glucagon model	Peptide	2013-07-24	f
 4MBS		MRV	3002977.0	Antagonist	Maraviroc	Small molecule	2013-09-11	
 4LDE		P0G	49837874.0	Agonist	BI-167107	Small molecule	2013-09-25	
 4LDL		XQC	44328881.0	Agonist	Hydroxybenzylisoproterenol	Small molecule	2013-09-25	
@@ -161,7 +161,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 5IUA		6DX	121225601.0	Antagonist	2-(Furan-2-yl)-5-N-[3-(4-phenylpiperazin-1-yl)propyl]-1H-[1,2,4]triazolo[1,5-a][1,3,5]triazin-8-ium-5,7-diamine	Small molecule	2016-06-29	
 5IUB		6DV	44394716.0	Antagonist	Q27456344	Small molecule	2016-06-29	
 5JQH		CAU	13023332.0	Inverse agonist	Carazolol	Small molecule	2016-07-13	
-5L7D		None	None	nan	None	None	2016-07-20	
+5L7D		apo	None	Apo (no ligand)	Apo (no ligand)	None	2016-07-20	
 5L7I		VIS	24776445.0	Antagonist	Vismodegib	Small molecule	2016-07-20	
 5G53		NEC	448222.0	Agonist	NECA	Small molecule	2016-08-03	
 5DYS		RET	638015.0	Agonist	Retinal (all-trans)	Small molecule	2016-08-10	
@@ -189,7 +189,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 5UNH		8EM	126456406.0	Antagonist	'N-[(Furan-2-Yl)methyl]-N-(4-Oxo-2-Propyl-3-{[2''-(2h-Tetrazol-5-Yl)[1,1''-Biphenyl]-4-Yl]methyl}-3,4-Dihydroquinazolin-6-Yl)benzamide'	Small molecule	2017-04-05	
 5NDD		8TZ	126961334.0	Antagonist	AZ8838	Small molecule	2017-05-03	
 5NDZ		8UN	126961335.0	Allosteric antagonist	AZ3451	Small molecule	2017-05-03	
-5NJ6		None	None	None	None	None	2017-05-03	
+5NJ6		apo	None	Apo (no ligand)	Apo (no ligand)	None	2017-05-03	
 5UZ7		pep	16220016.0	Agonist	Calcitonin salmon	Peptide	2017-05-03	f
 5VEX		97V	23549991.0	NAM	NNC0640	Small molecule	2017-05-17	
 5UVI		ZMA	176407.0	Antagonist	ZM241385	Small molecule	2017-05-24	
@@ -267,7 +267,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 6C1Q		9P2	10210160.0	NAM	H94Wrl71FP	Small molecule	2018-05-30	
 6C1R	L	pep	6918468.0	Antagonist	PMX53	Peptide	2018-05-30	
 6C1R		EFD	49841217.0	NAM	Avacopan	Small molecule	2018-05-30	
-5WB1		None	None	.nan	None	None	2018-06-13	
+5WB1		apo	None	Apo (no ligand)	Apo (no ligand)	None	2018-06-13	
 5WB2	B	pep	gtoplig:856	Agonist	CX3CL1	Peptide	2018-06-13	
 6DDE	D	pep	5462471.0	Agonist	DAMGO	Peptide	2018-06-13	
 6DDF	D	pep	5462471.0	Agonist	DAMGO	Peptide	2018-06-13	
@@ -277,7 +277,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 6D9H		ADN	60961.0	Agonist	Adenosine	Small molecule	2018-06-20	
 6G79		EP5	197706.0	Agonist	Donitriptan	Small molecule	2018-06-20	
 5XJM	B	pep	10079601.0	Agonist	(Sar1,Ile8)-Angiontensin II	Peptide	2018-07-11	
-6BD4		None	None	None	None	None	2018-08-22	
+6BD4		apo	None	Apo (no ligand)	Apo (no ligand)	None	2018-08-22	
 6DRX		H8G	28864.0	Antagonist	Lisuride	Small molecule	2018-08-29	
 6DRY		H8D	8226.0	Agonist	Methylergonovine	Small molecule	2018-08-29	
 6DRZ		H8J	9681.0	Antagonist	Methysergide	Small molecule	2018-08-29	
@@ -319,7 +319,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 6HLO		GBQ	6918365.0	Antagonist	Aprepitant	Small molecule	2019-01-16	
 6HLP		GAW	6451149.0	Antagonist	Netupitant	Small molecule	2019-01-16	
 6N51		QUS	40539.0	Agonist	Quisqualic acid	Small molecule	2019-01-23	
-6N52		None	None	.nan	None	None	2019-01-23	
+6N52		apo	None	Apo (no ligand)	Apo (no ligand)	None	2019-01-23	
 6NIY	P	pep	16220016.0	Agonist	Calcitonin salmon	Peptide	2019-01-23	
 5ZTY		9JU	137321161.0	Antagonist	AM10257	Small molecule	2019-01-30	
 6DO1	H	pep	10079601.0	Agonist	(Sar1,Ile8)-Angiotensin II	Peptide	2019-01-30	
@@ -356,7 +356,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 6K1Q		D2U	5311192.0	Inverse agonist	IRL2500	Small molecule	2019-07-17	
 6OY9		RET	638015.0	Agonist	Retinal (all-trans)	Small molecule	2019-07-24	
 6OYA		RET	638015.0	Agonist	Retinal (all-trans)	Small molecule	2019-07-24	
-6IBB		None	None	.nan	None	None	2019-08-14	
+6IBB		apo	None	Apo (no ligand)	Apo (no ligand)	None	2019-08-14	
 6RNK		KAZ	138811017.0	Antagonist	NF-56-EJ40	Small molecule	2019-08-14	
 6OFJ		apo	None	Apo (no ligand)	Apo (no ligand)	None	2019-08-21	
 6QZH		JLW	136165388.0	Allosteric antagonist	SCHEMBL13407377	Small molecule	2019-09-04	
@@ -941,7 +941,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 7XAU	F	pep		Agonist	Octreotide	Peptide	2022-08-31	
 7XAV	F	pep	71349.0	Agonist	Lanreotide	Peptide	2022-08-31	
 7XMR	L	pep	16129706.0	Agonist	Somatostatin-14	Peptide	2022-08-03	
-7XN9		GI9	15965425.0	Antagonist	tert-butyl (2S)-6-amino-2-[[(2R,3S)-3-(1H-indol-3-yl)-2-[[4-(2-oxo-3H-benzimidazol-1-yl)piperidine-1-carbonyl]amino]butanoyl]amino]hexanoate	Small molecule 	2022-08-03	
+7XN9		GI9	15965425.0	Agonist	tert-butyl (2S)-6-amino-2-[[(2R,3S)-3-(1H-indol-3-yl)-2-[[4-(2-oxo-3H-benzimidazol-1-yl)piperidine-1-carbonyl]amino]butanoyl]amino]hexanoate	Small molecule 	2022-08-03	
 7XNA	B	pep	16133842.0	Antagonist	CYN 154806	Peptide	2022-08-03	
 7XMS	L	pep	16129706.0	Agonist	Somatostatin-14	Peptide	2022-08-03	
 7XMT		I8B	11442741.0	Agonist	(2~{S})-2-[[(2~{S})-4-azanyl-2-[(4-methylnaphthalen-1-yl)sulfonylamino]butanoyl]amino]-3-phenyl-propanimidic acid	Small molecule 	2022-08-03	
@@ -1249,3 +1249,144 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 8PM2		8IA	7415.0	Agonist	N,N-Dimethylcyclohexylamine	Small molecule	2023-08-09	
 8THK		CGZ	10804826.0	Agonist	N-[(5S)-5-(4,5-dihydro-1H-imidazol-2-yl)-2-hydroxy-5,6,7,8-tetrahydronaphthalen-1-yl]methanesulfonamide	Small molecule	2023-08-16	
 8THL		ALE	5816.0	Agonist	Epinephrine	Small molecule	2023-08-16	
+7YFC		HSM	774.0	Agonist	Histamine	Small molecule	2023-10-25	
+7YFD		ITF	3692.0	Agonist	Imetit	Small molecule	2023-10-25	
+8A2O		TEP	2153.0	Antagonist	Theophylline	Small molecule	2023-08-30	
+8A2P		9Y2	16122818.0	Antagonist	Benzamide, 4-[(3,3-dimethyl-1-oxobutyl)amino]-3,5-difluoro-N-2-thiazolyl-	Small molecule	2023-08-30	
+8E0G		VF1	155804574.0	Agonist	BU72	Small molecule	2023-10-18	
+8FCZ		RET	5280490.0	Inverse agonist	Retinal (11-cis)	Small molecule	2023-08-30	
+8FD0		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-08-30	
+8FD1		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-08-30	
+8FEG	A	pep		Agonist	ACE-TYR-ALA-DTY-THR-THR-CYS-THR-DPN-XT9	Peptide	2023-12-06	
+8FX5		XNO	60809.0	Agonist	Xanomeline	Small molecule	2023-09-13	
+8G05		YI9	168719775.0	Agonist	6-Octylimino-1,3-diazinane-2,4-dione	Lipid	2023-11-01	
+8GCM		YX9	25014543.0	Agonist	(5S)-5-[(3R)-4,4-difluoro-3-hydroxy-4-phenylbutyl]-1-[6-(1H-tetrazol-5-yl)hexyl]pyrrolidin-2-one	Lipid	2024-01-03	
+8GCP		P2E	5280360.0	Agonist	Prostaglandin E2	Small molecule	2024-01-03	
+8GD9		Z2C	169501697.0	Agonist	4-({2-[(1R,2R,3R,5S)-3,5-dihydroxy-2-{(3S)-3-hydroxy-4-[3-(methoxymethyl)phenyl]butyl}cyclopentyl]ethyl}sulfanyl)butanoic acid	Small molecule	2024-01-10	
+8GDA		YZV	169501698.0	Agonist	(2S,5R)-5-[(1E,3S)-4,4-difluoro-3-hydroxy-4-phenylbut-1-en-1-yl]-1-[6-(1H-tetrazol-5-yl)hexyl]pyrrolidin-2-ol	Small molecule	2024-01-10	
+8GDB		P2E	5280360.0	Agonist	Prostaglandin E2	Small molecule	2024-01-10	
+8GDC		P2E	5280360.0	Agonist	Prostaglandin E2	Small molecule	2024-01-10	
+8GTG		CW9	44517108.0	Antagonist	8-(4-bromo-2,6-dimethoxyphenyl)-N,N-bis(2-methoxyethyl)-2,7-dimethylpyrazolo[1,5-a][1,3,5]triazin-4-amine	Small molecule	2023-09-13	
+8GTI		0JS	168477797.0	Antagonist	8-(4-bromo-2,6-dimethoxyphenyl)-N-butyl-N-(cyclopropylmethyl)-2,7-dimethylpyrazolo[1,5-a][1,3,5]triazin-4-amine	Small molecule	2023-09-13	
+8GTM		0VI		Antagonist	7-(4-bromanyl-2,6-dimethoxy-phenyl)-4,8-dimethyl-~{N},~{N}-bis[4,4,4-tris(fluoranyl)butyl]-1$l^{4},3,5,9-tetrazabicyclo[4.3.0]nona-1(6),2,4,8-tetraen-2-amine	Small molecule	2023-09-13	
+8H2G		NIO	938.0	Agonist	Nicotinic acid	Small molecule	2023-10-11	
+8HJ1		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-12-27	
+8HN1	C	pep	178103275.0	Antagonist	AdTx1	Peptide	2023-12-20	
+8HN8		HSM	774.0	Agonist	Histamine	Small molecule	2023-12-20	
+8HNK	L	pep		Agonist	C-X-C motif chemokine 11	Peptide	2023-11-29	
+8HNL		4AI	12000484.0	Agonist	(3S)-N-[(2S)-5-carbamimidamido-1-(cyclohexylmethylamino)-1-oxidanylidene-pentan-2-yl]-2-(4-oxidanylidene-4-phenyl-butanoyl)-3,4-dihydro-1H-isoquinoline-3-carboxamide	Small molecule	2023-11-29	
+8HNM		4IE	71459295.0	Agonist	[4-(2-bromophenyl)phenyl]methyl-[[(1R,5S)-6,6-dimethyl-2-bicyclo[3.1.1]hept-2-enyl]methyl]-dimethyl-azanium	Small molecule	2023-11-29	
+8HNN		43I	11995774.0	Antagonist	(S)-3-Amino-6-chloro-5-(4-(1-(4-chlorobenzyl)piperidin-4-yl)-3-ethylpiperazin-1-yl)pyrazine-2-carboxamide	Small molecule	2023-11-29	
+8HOC		ITF	3692.0	Agonist	Imetit	Small molecule	2023-12-20	
+8HPT	D	pep		Agonist	MEA-LYS-PRO-ZAL-ALC-DAR	Peptide	2023-10-18	
+8HQC	D	pep		Agonist	C5a anaphylatoxin	Peptide	2023-10-18	
+8HQE		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-10-11	
+8HQM		140.0	10236758.0	Agonist	1-[3-(4-Butylpiperidin-1-yl)propyl]-3,4-dihydroquinolin-2-one	Small molecule	2023-10-11	
+8HTI		OCA	379.0	Agonist	Octanoic Acid 	Small molecule	2023-12-20	
+8HVI		NFI	168654812.0	Agonist	3-Methyl-5-[(4-oxidanylidene-4-phenyl-butanoyl)amino]-1-benzofuran-2-carboxylic acid	Small molecule	2023-10-11	
+8I95	D	pep		Agonist	EP54 ligand	Peptide	2023-10-18	
+8I97		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-10-18	
+8I9A	D	pep		Agonist	EP54 ligand	None	2023-10-18	
+8I9L	C	pep	14608354.0	Agonist	C3a anaphylatoxin	Peptide	2023-10-18	
+8I9S		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-10-18	
+8IA2	D	pep		Agonist	C5a anaphylatoxin	Peptide	2023-10-18	
+8IA7	L	pep		Agonist	CCK-8	Peptide	2023-12-06	
+8IHB		OKL	46215799.0	Agonist	8-chloro-3-pentyl-7H-purine-2,6-dione	Small molecule	2023-09-13	
+8IHF		FI7	135416394.0	Agonist	2-[[2,2-dimethyl-3-[3-(5-oxidanylpyridin-2-yl)-1,2,4-oxadiazol-5-yl]propanoyl]amino]cyclohexene-1-carboxylic acid	Small molecule	2023-08-30	
+8IHH		P8A	6485181.0	Agonist	5-Butyl-1H-pyrazole-3-carboxylic acid	Small molecule	2023-08-30	
+8IHI		P9X	76969700.0	Agonist	(5S)-5-methyl-4-oxo-5-phenylfuran-2-carboxylic acid	Small molecule	2023-08-30	
+8IHJ		P9X	76969700.0	Agonist	(5S)-5-methyl-4-oxo-5-phenylfuran-2-carboxylic acid	Small molecule	2023-08-30	
+8IHK		P9X	76969700.0	Agonist	(5S)-5-methyl-4-oxo-5-phenylfuran-2-carboxylic acid	Small molecule	2023-08-30	
+8IJ3		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-01-03	
+8IJA		NIO	938.0	Agonist	Nicotinic acid	Small molecule	2024-01-03	
+8IJB		OJX	59806020.0	Agonist	5-Methyl-4-oxidanyl-pyrazin-4-ium-2-carboxylic acid	Small molecule	2024-01-03	
+8IJD		FI7	135416394.0	Agonist	2-[[2,2-dimethyl-3-[3-(5-oxidanylpyridin-2-yl)-1,2,4-oxadiazol-5-yl]propanoyl]amino]cyclohexene-1-carboxylic acid	Small molecule	2024-01-03	
+8INR	L	pep	44273719.0	Agonist	alpha-melanocyte-stimulating hormone	Peptide	2023-09-20	
+8IOC	L	pep	166638272.0	Agonist	gamma-melanocyte-stimulating hormone	Peptide	2023-09-20	
+8IOD	L	pep	44366214.0	Agonist	PG-901	Peptide	2023-09-20	
+8IZB		UBL	5311263.0	Agonist	1-Oleoyl Lysophosphatidic Acid	Small molecule	2023-11-01	
+8IZB		SER	5951.0	Agonist	Serine 	Small molecule	2023-11-01	
+8J46		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-12-20	
+8J6D	D	pep		Agonist	EP141 peptide agonist	Peptide	2023-10-18	
+8J6P		NIO	938.0	Agonist	Nicotinic acid	Small molecule	2023-12-06	
+8J6Q		3HR	92135.0	Agonist	(3R)-3-hydroxybutanoic acid	Small molecule	2023-12-06	
+8J6R		FI7	135416394.0	Agonist	2-[[2,2-dimethyl-3-[3-(5-oxidanylpyridin-2-yl)-1,2,4-oxadiazol-5-yl]propanoyl]amino]cyclohexene-1-carboxylic acid	Small molecule	2023-12-06	
+8JHY		IX8	25101223.0	PAM	7-methyl-N-[(2R)-1-phenoxypropan-2-yl]-3-(4-propan-2-ylphenyl)pyrazolo[1,5-a]pyrimidine-6-carboxamide	Small molecule	2023-09-06	
+8JII		IX8	25101223.0	PAM	7-methyl-N-[(2R)-1-phenoxypropan-2-yl]-3-(4-propan-2-ylphenyl)pyrazolo[1,5-a]pyrimidine-6-carboxamide	Small molecule	2023-09-06	
+8JII		NIO	938.0	Agonist	Nicotinic acid	Small molecule	2023-09-06	
+8JIL		NIO	938.0	Agonist	Nicotinic acid	Small molecule	2023-09-06	
+8JIM		AW9	10236758.0	Agonist	1-[3-(4-Butylpiperidin-1-yl)propyl]-3,4-dihydroquinolin-2-one	Small molecule	2023-09-06	
+8JIP	P	pep		Agonist	MEDI0382	Peptide	2023-09-06	
+8JIQ	E	pep		Agonist	Peptide 15	Peptide	2023-09-13	
+8JIR	P	pep		Agonist	SAR425899	Peptide	2023-09-06	
+8JIS	P	pep		Agonist	Peptide 15	Peptide	2023-11-08	
+8JIT	P	pep		Agonist	MEDI0382	Peptide	2023-09-06	
+8JIU	P	pep		Agonist	SAR425899	Peptide	2023-09-13	
+8JJ8		H98	3083544.0	Agonist (partial)	Arformoterol	Small molecule	2023-09-06	
+8JJL		DZQ	11504295.0	Agonist	Olodaterol	Small molecule	2023-09-06	
+8JJO		JTZ	204665.0	Antagonist	2S)-1-[(1-methylethyl)amino]-3-(2-prop-2-en-1-ylphenoxy)propan-2-ol	Small molecule	2023-09-06	
+8JLJ		UJF	9950514.0	Agonist	3-Iodothyronamine	Small molecule	2023-11-15	
+8JLK		UJL	89532783.0	Agonist	Ulotaront	Small molecule	2023-11-15	
+8JLN		UJF	9950514.0	Agonist	3-Iodothyronamine	Small molecule	2023-11-15	
+8JLO		UJL	89532783.0	Agonist	Ulotaront	Small molecule	2023-11-15	
+8JLP		UJU	130429734.0	Agonist	Ralmitaront	Small molecule	2023-11-15	
+8JLQ		G3C	12668023.0	Agonist	Fenoldopam	Small molecule	2023-11-15	
+8JLR		VRK	92209710.0	Agonist	(1~{S},3~{R})-3-(1-adamantyl)-1-(aminomethyl)-3,4-dihydro-1~{H}-isochromene-5,6-diol	Small molecule	2023-11-15	
+8JMT		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-09-06	
+8JSO		1WE	5826.0	Agonist	Dextroamphetamine	Small molecule	2023-11-15	
+8JSP		UJL	89532783.0	Agonist	Ulotaront	Small molecule	2023-11-15	
+8JZ7		FI7	135416394.0	Agonist	2-[[2,2-dimethyl-3-[3-(5-oxidanylpyridin-2-yl)-1,2,4-oxadiazol-5-yl]propanoyl]amino]cyclohexene-1-carboxylic acid	Small molecule	2023-10-04	
+8JZZ	D	pep		Agonist	C5a anaphylatoxin	Small molecule	2023-10-18	
+8K2W		FI6	24957182.0	Agonist	Benzeneacetamide, N-((1R)-1-(3-(4-ethoxyphenyl)-3,4-dihydro-4-oxopyrido(2,3-d)pyrimidin-2-yl)ethyl)-N-(3-pyridinylmethyl)-4-(trifluoromethoxy)-	Small molecule	2023-11-29	
+8K2X	L	pep		Agonist	C-X-C motif chemokine 10	Small molecule	2023-11-29	
+8K4N		VF0	168719765.0	Agonist	(2R)-2-azanyl-3-[oxidanyl-[(2R)-2-oxidanyl-3-tetradec-9-enoyloxy-propoxy]phosphoryl]oxy-propanoic acid	Small molecule	2023-10-25	
+8K5B		NIO	938.0	Agonist	Nicotinic acid	Small molecule	2023-11-22	
+8K5C		OJX	59806020.0	Agonist	5-Methyl-4-oxidanyl-pyrazin-4-ium-2-carboxylic acid	Small molecule	2023-11-22	
+8K5D		OKL	46215799.0	Agonist	8-chloro-3-pentyl-7H-purine-2,6-dione	Small molecule	2023-11-22	
+8SAI		S12	137349977.0	Agonist	O-[(S)-Hydroxy{[(2s)-2-Hydroxy-3-(Octadec-9-Enoyloxy)propyl]oxy}phosphoryl]-L-Serine	Small molecule	2023-10-04	
+8SG1	L	pep	156598973.0	Agonist	Chemerin 9	Peptide	2023-11-01	
+8T6J		YKU	11245456.0	Agonist	3-cyano-N-(1,3-diphenyl-1H-pyrazol-5-yl)benzamide	Small molecule	2023-10-11	
+8T7H		QUS	40539.0	Agonist	Quisqualic acid	Small molecule	2023-10-11	
+8T8M		QUS	40539.0	Agonist	Quisqualic acid	Small molecule	2023-10-11	
+8TAO		YKU	11245456.0	Agonist	3-cyano-N-(1,3-diphenyl-1H-pyrazol-5-yl)benzamide	Small molecule	2023-10-11	
+8TAO		QUS	40539.0	Agonist	Quisqualic acid	Small molecule	2023-10-11	
+8TB7		ZOB	168510218.0	Inverse agonist	6-{[(3,5-difluoropyridin-4-yl)methyl]amino}-N-(4-ethoxy-6-methylpyrimidin-2-yl)-2-methoxy-N-(2-methoxyethyl)pyridine-3-sulfonamide	Small molecule	2023-10-04	
+8U26	S	pep		Agonist	Protachykinin-1	Peptide	2023-11-15	
+8W77		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-12-20	
+8W87		B40	10836.0	Agonist	Methamphetamine	Small molecule	2023-11-22	
+8W88		UJL	89532783.0	Agonist	Ulotaront	Small molecule	2023-11-22	
+8W89		PEA	448751.0	Agonist	2-Phenylethanaminium	Small molecule	2023-11-22	
+8W8A		T5U	24963286.0	Agonist	(4S)-4-[(2S)-2-phenylbutyl]-1,3-oxazolidin-2-imine	Small molecule	2023-11-22	
+8W8B		UJL	89532783.0	Agonist	Ulotaront	Small molecule	2023-11-22	
+8W8R		U7D	848971.0	Agonist	1-(4-Methylpyridin-2-yl)-3-[3-(trifluoromethyl)phenyl]thiourea	Small molecule	2024-01-03	
+8W8S		U7D	848971.0	Agonist	1-(4-Methylpyridin-2-yl)-3-[3-(trifluoromethyl)phenyl]thiourea	Small molecule	2024-01-03	
+8WC3		UJL	89532783.0	Agonist	Ulotaront	Small molecule	2023-12-27	
+8WC4		VMT	533915.0	Agonist	4-Bromophenethylamine	Small molecule	2023-12-27	
+8WC5		TMA	6380.0	Agonist	Tetramethylammonium	Small molecule	2023-12-27	
+8WC6		PEA	448751.0	Agonist	2-Phenylethanaminium	Small molecule	2023-12-27	
+8WC7		VMK	39243566.0	Agonist	2-[4-(3-Fluorophenyl)phenyl]ethan-1-amine	Small molecule	2023-12-27	
+8WC8		VMT	533915.0	Agonist	4-Bromophenethylamine	Small molecule	2023-12-27	
+8WC9		VMT	533915.0	Agonist	4-Bromophenethylamine	Small molecule	2023-12-27	
+8WCA		PEA	448751.0	Agonist	2-Phenylethanaminium	Small molecule	2023-12-27	
+8WCB		HAI	1549093.0	Agonist	Cyclohexylammonium ion	Small molecule	2023-12-27	
+8WCC		HAI	1549093.0	Agonist	Cyclohexylammonium ion	Small molecule	2023-12-27	
+8WPG		YP4	156419.0	Agonist	N-[(1R)-1-(naphthalen-1-yl)ethyl]-3-[3-(trifluoromethyl)phenyl]propan-1-amine	Small molecule	2023-11-22	
+8WPG		CA	271.0	Agonist	Calcium cation 	Small molecule	2023-11-22	
+8WPU		YP4	156419.0	Agonist	N-[(1R)-1-(naphthalen-1-yl)ethyl]-3-[3-(trifluoromethyl)phenyl]propan-1-amine	Small molecule	2023-11-22	
+8WPU		CA	271.0	Agonist	Calcium cation 	Small molecule	2023-11-22	
+8WRB		UBL	5311263.0	Agonist	1-Oleoyl Lysophosphatidic Acid	Small molecule	2023-11-08	
+8XBH		KW3	162656636.0	Agonist	(2~{S})-2-azanyl-3-[[(2~{R})-1-ethoxy-3-[3-[2-[(3-phenoxyphenyl)methoxy]phenyl]propanoyloxy]propan-2-yl]oxy-oxidanyl-phosphoryl]oxy-propanoic acid	Small molecule	2023-12-27	
+8XBI		KW3	162656636.0	Agonist	(2~{S})-2-azanyl-3-[[(2~{R})-1-ethoxy-3-[3-[2-[(3-phenoxyphenyl)methoxy]phenyl]propanoyloxy]propan-2-yl]oxy-oxidanyl-phosphoryl]oxy-propanoic acid	Small molecule	2023-12-27	
+8HQN		9HO	5312830.0	Agonist	9(S)-HODE	Lipid	2023-10-11	
+8ITL		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-10-18	
+8ITM		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-10-18	
+8KGK		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-10-11	
+8KH4		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-10-11	
+8KH5		LPS	17754066.0	Agonist	Lysophosphotidylserine	Small molecule	2023-10-18	
+8PWN		TEP	2153.0	Antagonist	Theophylline	Small molecule	2023-10-25	
+8QOT	B	pep	None	Antagonist	Nanobody-E	Protein	2023-12-27	
+8TB0		apo	None	Apo (no ligand)	Apo (no ligand)	None	2023-10-04	
+8U1U	P	pep	None	Agonist	CCL1	Protein	2023-12-20	
+8TLM		pep	None	Antagonist	mAb1	Protein	2023-12-20	f
+8W8Q		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-01-03	
+7V9L		apo	None	Apo (no ligand)	Apo (no ligand)	None	2022-04-06	

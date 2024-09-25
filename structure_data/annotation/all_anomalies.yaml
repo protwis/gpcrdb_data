@@ -2693,6 +2693,41 @@ c5ar1_human:
     '4.59': P
     '4.60': S
     '5.46': G
+c5ar1_mouse:
+    UniProt: c5ar1_mouse
+    Xtal Templ: c5ar1_mouse
+    Cl: A
+    Xtalised: Xtal
+    1x36: ''
+    1x411: ''
+    2x551: ''
+    2x581: ''
+    23x501: ''
+    3x28: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: 4x58
+    5x411: ''
+    5x421: ''
+    5x431: ''
+    5x461: 5x461
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': D
+    '2.56': A
+    '2.57': L
+    '2.58': P
+    '2.59': I
+    '2.60': L
+    '4.56': L
+    '4.57': T
+    '4.58': I
+    '4.59': P
+    '4.60': S
+    '5.46': G
 c5ar2_human:
     UniProt: c5ar2_human
     Xtal Templ: c5ar1_human
@@ -5372,7 +5407,7 @@ gp101_human:
     5x411: ''
     5x421: ''
     5x431: ''
-    5x461: ''
+    5x461: 5x461
     6x461: ''
     7x44: 7x44
     7x521: ''
@@ -7088,7 +7123,7 @@ gpr34_human:
     5x421: ''
     5x431: ''
     5x461: ''
-    6x461: ''
+    6x461: 6x461
     7x44: 7x44
     7x521: ''
     '2.50': D
@@ -10218,846 +10253,6 @@ ntr2_human:
     '4.59': P
     '4.60': M
     '5.46': S
-o2t11_human:
-    UniProt: o2t11_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: 5x461
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': T
-    '2.57': T
-    '2.58': V
-    '2.59': P
-    '2.60': K
-    '4.56': D
-    '4.57': G
-    '4.58': F
-    '4.59': L
-    '4.60': L
-    '5.46': M
-o51a2_human:
-    UniProt: o51a2_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': S
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': L
-    '4.57': V
-    '4.58': L
-    '4.59': P
-    '4.60': F
-    '5.46': C
-o51a4_human:
-    UniProt: o51a4_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': S
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': L
-    '4.57': V
-    '4.58': L
-    '4.59': P
-    '4.60': F
-    '5.46': C
-o51a7_human:
-    UniProt: o51a7_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': S
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': L
-    '4.57': V
-    '4.58': I
-    '4.59': P
-    '4.60': F
-    '5.46': C
-o51b2_human:
-    UniProt: o51b2_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': T
-    '2.57': T
-    '2.58': M
-    '2.59': P
-    '2.60': T
-    '4.56': S
-    '4.57': I
-    '4.58': L
-    '4.59': P
-    '4.60': V
-    '5.46': T
-o51b4_human:
-    UniProt: o51b4_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': T
-    '2.57': T
-    '2.58': M
-    '2.59': P
-    '2.60': T
-    '4.56': S
-    '4.57': I
-    '4.58': L
-    '4.59': P
-    '4.60': I
-    '5.46': T
-o51b5_human:
-    UniProt: o51b5_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': T
-    '2.57': T
-    '2.58': M
-    '2.59': P
-    '2.60': T
-    '4.56': S
-    '4.57': V
-    '4.58': V
-    '4.59': P
-    '4.60': P
-    '5.46': I
-o51b6_human:
-    UniProt: o51b6_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': T
-    '2.57': T
-    '2.58': M
-    '2.59': P
-    '2.60': T
-    '4.56': S
-    '4.57': I
-    '4.58': M
-    '4.59': P
-    '4.60': I
-    '5.46': M
-o51d1_human:
-    UniProt: o51d1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': I
-    '2.57': T
-    '2.58': M
-    '2.59': P
-    '2.60': K
-    '4.56': F
-    '4.57': F
-    '4.58': F
-    '4.59': P
-    '4.60': L
-    '5.46': V
-o51e1_human:
-    UniProt: o51e1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': S
-    '2.58': M
-    '2.59': P
-    '2.60': K
-    '4.56': L
-    '4.57': M
-    '4.58': A
-    '4.59': P
-    '4.60': L
-    '5.46': A
-o51e2_human:
-    UniProt: o51e2_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': T
-    '2.58': M
-    '2.59': P
-    '2.60': K
-    '4.56': F
-    '4.57': F
-    '4.58': F
-    '4.59': P
-    '4.60': L
-    '5.46': V
-o51f1_human:
-    UniProt: o51f1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': S
-    '2.58': L
-    '2.59': S
-    '2.60': T
-    '4.56': L
-    '4.57': I
-    '4.58': L
-    '4.59': P
-    '4.60': L
-    '5.46': T
-o51f2_human:
-    UniProt: o51f2_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': C
-    '2.57': T
-    '2.58': L
-    '2.59': S
-    '2.60': T
-    '4.56': V
-    '4.57': M
-    '4.58': L
-    '4.59': P
-    '4.60': V
-    '5.46': T
-o51g1_human:
-    UniProt: o51g1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': T
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': L
-    '4.57': I
-    '4.58': L
-    '4.59': P
-    '4.60': L
-    '5.46': T
-o51g2_human:
-    UniProt: o51g2_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: Xtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': C
-    '2.57': T
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': L
-    '4.57': I
-    '4.58': F
-    '4.59': P
-    '4.60': L
-    '5.46': T
-o51i1_human:
-    UniProt: o51i1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': T
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': T
-    '4.57': L
-    '4.58': F
-    '4.59': P
-    '4.60': F
-    '5.46': T
-o51i2_human:
-    UniProt: o51i2_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': A
-    '2.57': T
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': T
-    '4.57': L
-    '4.58': F
-    '4.59': P
-    '4.60': L
-    '5.46': T
-o51j1_human:
-    UniProt: o51j1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': E
-    '2.56': S
-    '2.57': T
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': L
-    '4.57': L
-    '4.58': W
-    '4.59': P
-    '4.60': Q
-    '5.46': T
-o51l1_human:
-    UniProt: o51l1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': T
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': V
-    '4.57': V
-    '4.58': L
-    '4.59': P
-    '4.60': T
-    '5.46': T
-o51m1_human:
-    UniProt: o51m1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': T
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': A
-    '4.57': T
-    '4.58': I
-    '4.59': P
-    '4.60': I
-    '5.46': T
-o51q1_human:
-    UniProt: o51q1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': T
-    '2.57': T
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': A
-    '4.57': V
-    '4.58': L
-    '4.59': P
-    '4.60': S
-    '5.46': I
-o51s1_human:
-    UniProt: o51s1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': A
-    '2.57': L
-    '2.58': M
-    '2.59': P
-    '2.60': T
-    '4.56': L
-    '4.57': H
-    '4.58': L
-    '4.59': P
-    '4.60': L
-    '5.46': A
-o51t1_human:
-    UniProt: o51t1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': T
-    '2.57': T
-    '2.58': L
-    '2.59': P
-    '2.60': T
-    '4.56': F
-    '4.57': L
-    '4.58': L
-    '4.59': P
-    '4.60': L
-    '5.46': L
-o51v1_human:
-    UniProt: o51v1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': S
-    '2.57': T
-    '2.58': V
-    '2.59': Y
-    '2.60': T
-    '4.56': F
-    '4.57': I
-    '4.58': T
-    '4.59': P
-    '4.60': P
-    '5.46': I
 ogr1_human:
     UniProt: ogr1_human
     Xtal Templ: ccr1_human
@@ -11618,76 +10813,6 @@ opsr_human:
     '4.59': P
     '4.60': P
     '5.46': C
-or1a1_human:
-    UniProt: or1a1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: 5x461
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': V
-    '2.57': T
-    '2.58': I
-    '2.59': P
-    '2.60': K
-    '4.56': N
-    '4.57': A
-    '4.58': L
-    '4.59': P
-    '4.60': H
-    '5.46': I
-or1g1_human:
-    UniProt: or1g1_human
-    Xtal Templ: o51g2_human
-    Cl: A
-    Xtalised: NoXtal
-    1x36: ''
-    1x411: ''
-    2x551: 2x551
-    2x581: ''
-    23x501: ''
-    3x28: ''
-    4x491: ''
-    4x52: ''
-    4x56: ''
-    4x57: ''
-    4x58: ''
-    5x411: ''
-    5x421: ''
-    5x431: ''
-    5x461: ''
-    6x461: ''
-    7x44: 7x44
-    7x521: ''
-    '2.50': D
-    '2.56': T
-    '2.57': T
-    '2.58': V
-    '2.59': P
-    '2.60': K
-    '4.56': H
-    '4.57': S
-    '4.58': L
-    '4.59': L
-    '4.60': H
-    '5.46': T
 ox1r_human:
     UniProt: ox1r_human
     Xtal Templ: ox1r_human
@@ -14768,6 +13893,41 @@ taar1_human:
     '4.59': G
     '4.60': M
     '5.46': S
+taar1_mouse:
+    UniProt: taar1_mouse
+    Xtal Templ: taar1_mouse
+    Cl: A
+    Xtalised: Xtal
+    1x36: ''
+    1x411: ''
+    2x551: 2x551
+    2x581: ''
+    23x501: ''
+    3x28: ''
+    4x491: ''
+    4x52: ''
+    4x56: ''
+    4x57: ''
+    4x58: ''
+    5x411: ''
+    5x421: ''
+    5x431: ''
+    5x461: 5x461
+    6x461: ''
+    7x44: 7x44
+    7x521: ''
+    '2.50': D
+    '2.56': L
+    '2.57': V
+    '2.58': M
+    '2.59': P
+    '2.60': Y
+    '4.56': F
+    '4.57': A
+    '4.58': F
+    '4.59': G
+    '4.60': M
+    '5.46': S
 taar2_human:
     UniProt: taar2_human
     Xtal Templ: ada2a_human
@@ -14962,7 +14122,7 @@ taar9_human:
     5x411: ''
     5x421: ''
     5x431: ''
-    5x461: 5x461
+    5x461: ''
     6x461: ''
     7x44: 7x44
     7x521: ''
@@ -14997,7 +14157,7 @@ taar9_mouse:
     5x411: ''
     5x421: ''
     5x431: ''
-    5x461: 5x461
+    5x461: ''
     6x461: ''
     7x44: 7x44
     7x521: ''
@@ -15855,3 +15015,2157 @@ tm116_human:
     6x461: ''
     7x44: 7x44
     7x521: ''
+o10a2_human:
+  7x44: 7x44
+  UniProt: o10a2_human
+  Xtal Templ: o10a2_human
+  Xtalised: NoXtal
+o10a3_human:
+  7x44: 7x44
+  UniProt: o10a3_human
+  Xtal Templ: o10a3_human
+  Xtalised: NoXtal
+o10a4_human:
+  7x44: 7x44
+  UniProt: o10a4_human
+  Xtal Templ: o10a4_human
+  Xtalised: NoXtal
+o10a5_human:
+  7x44: 7x44
+  UniProt: o10a5_human
+  Xtal Templ: o10a5_human
+  Xtalised: NoXtal
+o10a6_human:
+  7x44: 7x44
+  UniProt: o10a6_human
+  Xtal Templ: o10a6_human
+  Xtalised: NoXtal
+o10a7_human:
+  7x44: 7x44
+  UniProt: o10a7_human
+  Xtal Templ: o10a7_human
+  Xtalised: NoXtal
+o10ac_human:
+  7x44: 7x44
+  UniProt: o10ac_human
+  Xtal Templ: o10ac_human
+  Xtalised: NoXtal
+o10ad_human:
+  7x44: 7x44
+  UniProt: o10ad_human
+  Xtal Templ: o10ad_human
+  Xtalised: NoXtal
+o10ag_human:
+  7x44: 7x44
+  UniProt: o10ag_human
+  Xtal Templ: o10ag_human
+  Xtalised: NoXtal
+o10c1_human:
+  7x44: 7x44
+  UniProt: o10c1_human
+  Xtal Templ: o10c1_human
+  Xtalised: NoXtal
+o10d3_human:
+  7x44: 7x44
+  UniProt: o10d3_human
+  Xtal Templ: o10d3_human
+  Xtalised: NoXtal
+o10d4_human:
+  7x44: 7x44
+  UniProt: o10d4_human
+  Xtal Templ: o10d4_human
+  Xtalised: NoXtal
+o10g2_human:
+  7x44: 7x44
+  UniProt: o10g2_human
+  Xtal Templ: o10g2_human
+  Xtalised: NoXtal
+o10g3_human:
+  7x44: 7x44
+  UniProt: o10g3_human
+  Xtal Templ: o10g3_human
+  Xtalised: NoXtal
+o10g4_human:
+  7x44: 7x44
+  UniProt: o10g4_human
+  Xtal Templ: o10g4_human
+  Xtalised: NoXtal
+o10g6_human:
+  7x44: 7x44
+  UniProt: o10g6_human
+  Xtal Templ: o10g6_human
+  Xtalised: NoXtal
+o10g7_human:
+  7x44: 7x44
+  UniProt: o10g7_human
+  Xtal Templ: o10g7_human
+  Xtalised: NoXtal
+o10g8_human:
+  7x44: 7x44
+  UniProt: o10g8_human
+  Xtal Templ: o10g8_human
+  Xtalised: NoXtal
+o10g9_human:
+  7x44: 7x44
+  UniProt: o10g9_human
+  Xtal Templ: o10g9_human
+  Xtalised: NoXtal
+o10h1_human:
+  7x44: 7x44
+  UniProt: o10h1_human
+  Xtal Templ: o10h1_human
+  Xtalised: NoXtal
+o10h2_human:
+  7x44: 7x44
+  UniProt: o10h2_human
+  Xtal Templ: o10h2_human
+  Xtalised: NoXtal
+o10h3_human:
+  7x44: 7x44
+  UniProt: o10h3_human
+  Xtal Templ: o10h3_human
+  Xtalised: NoXtal
+o10h4_human:
+  7x44: 7x44
+  UniProt: o10h4_human
+  Xtal Templ: o10h4_human
+  Xtalised: NoXtal
+o10h5_human:
+  7x44: 7x44
+  UniProt: o10h5_human
+  Xtal Templ: o10h5_human
+  Xtalised: NoXtal
+o10j1_human:
+  7x44: 7x44
+  UniProt: o10j1_human
+  Xtal Templ: o10j1_human
+  Xtalised: NoXtal
+o10j3_human:
+  7x44: 7x44
+  UniProt: o10j3_human
+  Xtal Templ: o10j3_human
+  Xtalised: NoXtal
+o10j4_human:
+  7x44: 7x44
+  UniProt: o10j4_human
+  Xtal Templ: o10j4_human
+  Xtalised: NoXtal
+o10j5_human:
+  7x44: 7x44
+  UniProt: o10j5_human
+  Xtal Templ: o10j5_human
+  Xtalised: NoXtal
+o10j6_human:
+  7x44: 7x44
+  UniProt: o10j6_human
+  Xtal Templ: o10j6_human
+  Xtalised: NoXtal
+o10k1_human:
+  7x44: 7x44
+  UniProt: o10k1_human
+  Xtal Templ: o10k1_human
+  Xtalised: NoXtal
+o10k2_human:
+  7x44: 7x44
+  UniProt: o10k2_human
+  Xtal Templ: o10k2_human
+  Xtalised: NoXtal
+o10p1_human:
+  7x44: 7x44
+  UniProt: o10p1_human
+  Xtal Templ: o10p1_human
+  Xtalised: NoXtal
+o10q1_human:
+  7x44: 7x44
+  UniProt: o10q1_human
+  Xtal Templ: o10q1_human
+  Xtalised: NoXtal
+o10r2_human:
+  7x44: 7x44
+  UniProt: o10r2_human
+  Xtal Templ: o10r2_human
+  Xtalised: NoXtal
+o10s1_human:
+  7x44: 7x44
+  UniProt: o10s1_human
+  Xtal Templ: o10s1_human
+  Xtalised: NoXtal
+o10t2_human:
+  7x44: 7x44
+  UniProt: o10t2_human
+  Xtal Templ: o10t2_human
+  Xtalised: NoXtal
+o10v1_human:
+  7x44: 7x44
+  UniProt: o10v1_human
+  Xtal Templ: o10v1_human
+  Xtalised: NoXtal
+o10w1_human:
+  7x44: 7x44
+  UniProt: o10w1_human
+  Xtal Templ: o10w1_human
+  Xtalised: NoXtal
+o10x1_human:
+  7x44: 7x44
+  UniProt: o10x1_human
+  Xtal Templ: o10x1_human
+  Xtalised: NoXtal
+o10z1_human:
+  7x44: 7x44
+  UniProt: o10z1_human
+  Xtal Templ: o10z1_human
+  Xtalised: NoXtal
+o11a1_human:
+  7x44: 7x44
+  UniProt: o11a1_human
+  Xtal Templ: o11a1_human
+  Xtalised: NoXtal
+o11g2_human:
+  7x44: 7x44
+  UniProt: o11g2_human
+  Xtal Templ: o11g2_human
+  Xtalised: NoXtal
+o11h1_human:
+  7x44: 7x44
+  UniProt: o11h1_human
+  Xtal Templ: o11h1_human
+  Xtalised: NoXtal
+o11h2_human:
+  7x44: 7x44
+  UniProt: o11h2_human
+  Xtal Templ: o11h2_human
+  Xtalised: NoXtal
+o11h4_human:
+  7x44: 7x44
+  UniProt: o11h4_human
+  Xtal Templ: o11h4_human
+  Xtalised: NoXtal
+o11h6_human:
+  7x44: 7x44
+  UniProt: o11h6_human
+  Xtal Templ: o11h6_human
+  Xtalised: NoXtal
+o11h7_human:
+  7x44: 7x44
+  UniProt: o11h7_human
+  Xtal Templ: o11h7_human
+  Xtalised: NoXtal
+o11hc_human:
+  7x44: 7x44
+  UniProt: o11hc_human
+  Xtal Templ: o11hc_human
+  Xtalised: NoXtal
+o11l1_human:
+  7x44: 7x44
+  UniProt: o11l1_human
+  Xtal Templ: o11l1_human
+  Xtalised: NoXtal
+o12d1_human:
+  7x44: 7x44
+  UniProt: o12d1_human
+  Xtal Templ: o12d1_human
+  Xtalised: NoXtal
+o12d2_human:
+  7x44: 7x44
+  UniProt: o12d2_human
+  Xtal Templ: o12d2_human
+  Xtalised: NoXtal
+o12d3_human:
+  7x44: 7x44
+  UniProt: o12d3_human
+  Xtal Templ: o12d3_human
+  Xtalised: NoXtal
+o13a1_human:
+  7x44: 7x44
+  UniProt: o13a1_human
+  Xtal Templ: o13a1_human
+  Xtalised: NoXtal
+o13c2_human:
+  7x44: 7x44
+  UniProt: o13c2_human
+  Xtal Templ: o13c2_human
+  Xtalised: NoXtal
+o13c3_human:
+  7x44: 7x44
+  UniProt: o13c3_human
+  Xtal Templ: o13c3_human
+  Xtalised: NoXtal
+o13c4_human:
+  7x44: 7x44
+  UniProt: o13c4_human
+  Xtal Templ: o13c4_human
+  Xtalised: NoXtal
+o13c5_human:
+  7x44: 7x44
+  UniProt: o13c5_human
+  Xtal Templ: o13c5_human
+  Xtalised: NoXtal
+o13c6_human:
+  7x44: 7x44
+  UniProt: o13c6_human
+  Xtal Templ: o13c6_human
+  Xtalised: NoXtal
+o13c7_human:
+  7x44: 7x44
+  UniProt: o13c7_human
+  Xtal Templ: o13c7_human
+  Xtalised: NoXtal
+o13c8_human:
+  7x44: 7x44
+  UniProt: o13c8_human
+  Xtal Templ: o13c8_human
+  Xtalised: NoXtal
+o13c9_human:
+  7x44: 7x44
+  UniProt: o13c9_human
+  Xtal Templ: o13c9_human
+  Xtalised: NoXtal
+o13d1_human:
+  7x44: 7x44
+  UniProt: o13d1_human
+  Xtal Templ: o13d1_human
+  Xtalised: NoXtal
+o13f1_human:
+  7x44: 7x44
+  UniProt: o13f1_human
+  Xtal Templ: o13f1_human
+  Xtalised: NoXtal
+o13g1_human:
+  7x44: 7x44
+  UniProt: o13g1_human
+  Xtal Templ: o13g1_human
+  Xtalised: NoXtal
+o13h1_human:
+  7x44: 7x44
+  UniProt: o13h1_human
+  Xtal Templ: o13h1_human
+  Xtalised: NoXtal
+o13j1_human:
+  7x44: 7x44
+  UniProt: o13j1_human
+  Xtal Templ: o13j1_human
+  Xtalised: NoXtal
+o14a2_human:
+  7x44: 7x44
+  UniProt: o14a2_human
+  Xtal Templ: o14a2_human
+  Xtalised: NoXtal
+o14ag_human:
+  7x44: 7x44
+  UniProt: o14ag_human
+  Xtal Templ: o14ag_human
+  Xtalised: NoXtal
+o14cz_human:
+  7x44: 7x44
+  UniProt: o14cz_human
+  Xtal Templ: o14cz_human
+  Xtalised: NoXtal
+o14i1_human:
+  7x44: 7x44
+  UniProt: o14i1_human
+  Xtal Templ: o14i1_human
+  Xtalised: NoXtal
+o14j1_human:
+  7x44: 7x44
+  UniProt: o14j1_human
+  Xtal Templ: o14j1_human
+  Xtalised: NoXtal
+o14k1_human:
+  7x44: 7x44
+  UniProt: o14k1_human
+  Xtal Templ: o14k1_human
+  Xtalised: NoXtal
+o14l1_human:
+  7x44: 7x44
+  UniProt: o14l1_human
+  Xtal Templ: o14l1_human
+  Xtalised: NoXtal
+o2a12_human:
+  7x44: 7x44
+  UniProt: o2a12_human
+  Xtal Templ: o2a12_human
+  Xtalised: NoXtal
+o2a14_human:
+  7x44: 7x44
+  UniProt: o2a14_human
+  Xtal Templ: o2a14_human
+  Xtalised: NoXtal
+o2a25_human:
+  7x44: 7x44
+  UniProt: o2a25_human
+  Xtal Templ: o2a25_human
+  Xtalised: NoXtal
+o2ae1_human:
+  7x44: 7x44
+  UniProt: o2ae1_human
+  Xtal Templ: o2ae1_human
+  Xtalised: NoXtal
+o2ag1_human:
+  7x44: 7x44
+  UniProt: o2ag1_human
+  Xtal Templ: o2ag1_human
+  Xtalised: NoXtal
+o2ag2_human:
+  7x44: 7x44
+  UniProt: o2ag2_human
+  Xtal Templ: o2ag2_human
+  Xtalised: NoXtal
+o2aj1_human:
+  7x44: 7x44
+  UniProt: o2aj1_human
+  Xtal Templ: o2aj1_human
+  Xtalised: NoXtal
+o2ak2_human:
+  7x44: 7x44
+  UniProt: o2ak2_human
+  Xtal Templ: o2ak2_human
+  Xtalised: NoXtal
+o2ap1_human:
+  7x44: 7x44
+  UniProt: o2ap1_human
+  Xtal Templ: o2ap1_human
+  Xtalised: NoXtal
+o2at4_human:
+  7x44: 7x44
+  UniProt: o2at4_human
+  Xtal Templ: o2at4_human
+  Xtalised: NoXtal
+o2t10_human:
+  7x44: 7x44
+  UniProt: o2t10_human
+  Xtal Templ: o2t10_human
+  Xtalised: NoXtal
+o2t11_human:
+  7x44: 7x44
+  UniProt: o2t11_human
+  Xtal Templ: o2t11_human
+  Xtalised: NoXtal
+o2t12_human:
+  7x44: 7x44
+  UniProt: o2t12_human
+  Xtal Templ: o2t12_human
+  Xtalised: NoXtal
+o2t27_human:
+  7x44: 7x44
+  UniProt: o2t27_human
+  Xtal Templ: o2t27_human
+  Xtalised: NoXtal
+o2t29_human:
+  7x44: 7x44
+  UniProt: o2t29_human
+  Xtal Templ: o2t29_human
+  Xtalised: NoXtal
+o2t33_human:
+  7x44: 7x44
+  UniProt: o2t33_human
+  Xtal Templ: o2t33_human
+  Xtalised: NoXtal
+o2t34_human:
+  7x44: 7x44
+  UniProt: o2t34_human
+  Xtal Templ: o2t34_human
+  Xtalised: NoXtal
+o2t35_human:
+  7x44: 7x44
+  UniProt: o2t35_human
+  Xtal Templ: o2t35_human
+  Xtalised: NoXtal
+o4a15_human:
+  7x44: 7x44
+  UniProt: o4a15_human
+  Xtal Templ: o4a15_human
+  Xtalised: NoXtal
+o4a16_human:
+  7x44: 7x44
+  UniProt: o4a16_human
+  Xtal Templ: o4a16_human
+  Xtalised: NoXtal
+o4a47_human:
+  7x44: 7x44
+  UniProt: o4a47_human
+  Xtal Templ: o4a47_human
+  Xtalised: NoXtal
+o4c45_human:
+  7x44: 7x44
+  UniProt: o4c45_human
+  Xtal Templ: o4c45_human
+  Xtalised: NoXtal
+o4c46_human:
+  7x44: 7x44
+  UniProt: o4c46_human
+  Xtal Templ: o4c46_human
+  Xtalised: NoXtal
+o4f15_human:
+  7x44: 7x44
+  UniProt: o4f15_human
+  Xtal Templ: o4f15_human
+  Xtalised: NoXtal
+o4f17_human:
+  7x44: 7x44
+  UniProt: o4f17_human
+  Xtal Templ: o4f17_human
+  Xtalised: NoXtal
+o4f21_human:
+  7x44: 7x44
+  UniProt: o4f21_human
+  Xtal Templ: o4f21_human
+  Xtalised: NoXtal
+o51a2_human:
+  7x44: 7x44
+  UniProt: o51a2_human
+  Xtal Templ: o51a2_human
+  Xtalised: NoXtal
+o51a4_human:
+  7x44: 7x44
+  UniProt: o51a4_human
+  Xtal Templ: o51a4_human
+  Xtalised: NoXtal
+o51a7_human:
+  7x44: 7x44
+  UniProt: o51a7_human
+  Xtal Templ: o51a7_human
+  Xtalised: NoXtal
+o51b2_human:
+  7x44: 7x44
+  UniProt: o51b2_human
+  Xtal Templ: o51b2_human
+  Xtalised: NoXtal
+o51b4_human:
+  7x44: 7x44
+  UniProt: o51b4_human
+  Xtal Templ: o51b4_human
+  Xtalised: NoXtal
+o51b5_human:
+  7x44: 7x44
+  UniProt: o51b5_human
+  Xtal Templ: o51b5_human
+  Xtalised: NoXtal
+o51b6_human:
+  7x44: 7x44
+  UniProt: o51b6_human
+  Xtal Templ: o51b6_human
+  Xtalised: NoXtal
+o51d1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51d1_human
+  Xtal Templ: o51d1_human
+  Xtalised: NoXtal
+o51e1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51e1_human
+  Xtal Templ: o51e1_human
+  Xtalised: NoXtal
+o51e2_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51e2_human
+  Xtal Templ: o51e2_human
+  Xtalised: NoXtal
+o51f1_human:
+  7x44: 7x44
+  UniProt: o51f1_human
+  Xtal Templ: o51f1_human
+  Xtalised: NoXtal
+o51f2_human:
+  7x44: 7x44
+  UniProt: o51f2_human
+  Xtal Templ: o51f2_human
+  Xtalised: NoXtal
+o51g1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51g1_human
+  Xtal Templ: o51g1_human
+  Xtalised: NoXtal
+o51g2_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51g2_human
+  Xtal Templ: o51g2_human
+  Xtalised: NoXtal
+o51h1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51h1_human
+  Xtal Templ: o51h1_human
+  Xtalised: NoXtal
+o51i1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51i1_human
+  Xtal Templ: o51i1_human
+  Xtalised: NoXtal
+o51i2_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51i2_human
+  Xtal Templ: o51i2_human
+  Xtalised: NoXtal
+o51j1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51j1_human
+  Xtal Templ: o51j1_human
+  Xtalised: NoXtal
+o51l1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51l1_human
+  Xtal Templ: o51l1_human
+  Xtalised: NoXtal
+o51m1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51m1_human
+  Xtal Templ: o51m1_human
+  Xtalised: NoXtal
+o51q1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51q1_human
+  Xtal Templ: o51q1_human
+  Xtalised: NoXtal
+o51s1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o51s1_human
+  Xtal Templ: o51s1_human
+  Xtalised: NoXtal
+o51t1_human:
+  7x44: 7x44
+  UniProt: o51t1_human
+  Xtal Templ: o51t1_human
+  Xtalised: NoXtal
+o51v1_human:
+  7x44: 7x44
+  UniProt: o51v1_human
+  Xtal Templ: o51v1_human
+  Xtalised: NoXtal
+o52a1_human:
+  7x44: 7x44
+  UniProt: o52a1_human
+  Xtal Templ: o52a1_human
+  Xtalised: NoXtal
+o52a4_human:
+  7x44: 7x44
+  UniProt: o52a4_human
+  Xtal Templ: o52a4_human
+  Xtalised: NoXtal
+o52a5_human:
+  7x44: 7x44
+  UniProt: o52a5_human
+  Xtal Templ: o52a5_human
+  Xtalised: NoXtal
+o52b2_human:
+  7x44: 7x44
+  UniProt: o52b2_human
+  Xtal Templ: o52b2_human
+  Xtalised: NoXtal
+o52b4_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o52b4_human
+  Xtal Templ: o52b4_human
+  Xtalised: NoXtal
+o52b6_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o52b6_human
+  Xtal Templ: o52b6_human
+  Xtalised: NoXtal
+o52d1_human:
+  7x44: 7x44
+  UniProt: o52d1_human
+  Xtal Templ: o52d1_human
+  Xtalised: NoXtal
+o52e1_human:
+  7x44: 7x44
+  UniProt: o52e1_human
+  Xtal Templ: o52e1_human
+  Xtalised: NoXtal
+o52e2_human:
+  7x44: 7x44
+  UniProt: o52e2_human
+  Xtal Templ: o52e2_human
+  Xtalised: NoXtal
+o52e4_human:
+  7x44: 7x44
+  UniProt: o52e4_human
+  Xtal Templ: o52e4_human
+  Xtalised: NoXtal
+o52e5_human:
+  7x44: 7x44
+  UniProt: o52e5_human
+  Xtal Templ: o52e5_human
+  Xtalised: NoXtal
+o52e6_human:
+  7x44: 7x44
+  UniProt: o52e6_human
+  Xtal Templ: o52e6_human
+  Xtalised: NoXtal
+o52e8_human:
+  7x44: 7x44
+  UniProt: o52e8_human
+  Xtal Templ: o52e8_human
+  Xtalised: NoXtal
+o52h1_human:
+  7x44: 7x44
+  UniProt: o52h1_human
+  Xtal Templ: o52h1_human
+  Xtalised: NoXtal
+o52i1_human:
+  7x44: 7x44
+  UniProt: o52i1_human
+  Xtal Templ: o52i1_human
+  Xtalised: NoXtal
+o52i2_human:
+  7x44: 7x44
+  UniProt: o52i2_human
+  Xtal Templ: o52i2_human
+  Xtalised: NoXtal
+o52j3_human:
+  7x44: 7x44
+  UniProt: o52j3_human
+  Xtal Templ: o52j3_human
+  Xtalised: NoXtal
+o52k1_human:
+  7x44: 7x44
+  UniProt: o52k1_human
+  Xtal Templ: o52k1_human
+  Xtalised: NoXtal
+o52k2_human:
+  7x44: 7x44
+  UniProt: o52k2_human
+  Xtal Templ: o52k2_human
+  Xtalised: NoXtal
+o52l1_human:
+  7x44: 7x44
+  UniProt: o52l1_human
+  Xtal Templ: o52l1_human
+  Xtalised: NoXtal
+o52l2_human:
+  7x44: 7x44
+  UniProt: o52l2_human
+  Xtal Templ: o52l2_human
+  Xtalised: NoXtal
+o52m1_human:
+  7x44: 7x44
+  UniProt: o52m1_human
+  Xtal Templ: o52m1_human
+  Xtalised: NoXtal
+o52n1_human:
+  7x44: 7x44
+  UniProt: o52n1_human
+  Xtal Templ: o52n1_human
+  Xtalised: NoXtal
+o52n2_human:
+  7x44: 7x44
+  UniProt: o52n2_human
+  Xtal Templ: o52n2_human
+  Xtalised: NoXtal
+o52n4_human:
+  7x44: 7x44
+  UniProt: o52n4_human
+  Xtal Templ: o52n4_human
+  Xtalised: NoXtal
+o52n5_human:
+  7x44: 7x44
+  UniProt: o52n5_human
+  Xtal Templ: o52n5_human
+  Xtalised: NoXtal
+o52p1_human:
+  7x44: 7x44
+  UniProt: o52p1_human
+  Xtal Templ: o52p1_human
+  Xtalised: NoXtal
+o52r1_human:
+  7x44: 7x44
+  UniProt: o52r1_human
+  Xtal Templ: o52r1_human
+  Xtalised: NoXtal
+o52w1_human:
+  7x44: 7x44
+  UniProt: o52w1_human
+  Xtal Templ: o52w1_human
+  Xtalised: NoXtal
+o52z1_human:
+  7x44: 7x44
+  UniProt: o52z1_human
+  Xtal Templ: o52z1_human
+  Xtalised: NoXtal
+o56a1_human:
+  7x44: 7x44
+  UniProt: o56a1_human
+  Xtal Templ: o56a1_human
+  Xtalised: NoXtal
+o56a3_human:
+  7x44: 7x44
+  UniProt: o56a3_human
+  Xtal Templ: o56a3_human
+  Xtalised: NoXtal
+o56a4_human:
+  7x44: 7x44
+  UniProt: o56a4_human
+  Xtal Templ: o56a4_human
+  Xtalised: NoXtal
+o56a5_human:
+  7x44: 7x44
+  UniProt: o56a5_human
+  Xtal Templ: o56a5_human
+  Xtalised: NoXtal
+o56b1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o56b1_human
+  Xtal Templ: o56b1_human
+  Xtalised: NoXtal
+o56b2_human:
+  7x44: 7x44
+  UniProt: o56b2_human
+  Xtal Templ: o56b2_human
+  Xtalised: NoXtal
+o56b4_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: o56b4_human
+  Xtal Templ: o56b4_human
+  Xtalised: NoXtal
+o5ac1_human:
+  7x44: 7x44
+  UniProt: o5ac1_human
+  Xtal Templ: o5ac1_human
+  Xtalised: NoXtal
+o5ac2_human:
+  7x44: 7x44
+  UniProt: o5ac2_human
+  Xtal Templ: o5ac2_human
+  Xtalised: NoXtal
+o5ak2_human:
+  7x44: 7x44
+  UniProt: o5ak2_human
+  Xtal Templ: o5ak2_human
+  Xtalised: NoXtal
+o5ak3_human:
+  7x44: 7x44
+  UniProt: o5ak3_human
+  Xtal Templ: o5ak3_human
+  Xtalised: NoXtal
+o5al1_human:
+  7x44: 7x44
+  UniProt: o5al1_human
+  Xtal Templ: o5al1_human
+  Xtalised: NoXtal
+o5an1_human:
+  7x44: 7x44
+  UniProt: o5an1_human
+  Xtal Templ: o5an1_human
+  Xtalised: NoXtal
+o5ap2_human:
+  7x44: 7x44
+  UniProt: o5ap2_human
+  Xtal Templ: o5ap2_human
+  Xtalised: NoXtal
+o5ar1_human:
+  7x44: 7x44
+  UniProt: o5ar1_human
+  Xtal Templ: o5ar1_human
+  Xtalised: NoXtal
+o5as1_human:
+  7x44: 7x44
+  UniProt: o5as1_human
+  Xtal Templ: o5as1_human
+  Xtalised: NoXtal
+o5au1_human:
+  7x44: 7x44
+  UniProt: o5au1_human
+  Xtal Templ: o5au1_human
+  Xtalised: NoXtal
+o5b21_human:
+  7x44: 7x44
+  UniProt: o5b21_human
+  Xtal Templ: o5b21_human
+  Xtalised: NoXtal
+o5h14_human:
+  7x44: 7x44
+  UniProt: o5h14_human
+  Xtal Templ: o5h14_human
+  Xtalised: NoXtal
+o5h15_human:
+  7x44: 7x44
+  UniProt: o5h15_human
+  Xtal Templ: o5h15_human
+  Xtalised: NoXtal
+o6c65_human:
+  7x44: 7x44
+  UniProt: o6c65_human
+  Xtal Templ: o6c65_human
+  Xtalised: NoXtal
+o6c68_human:
+  7x44: 7x44
+  UniProt: o6c68_human
+  Xtal Templ: o6c68_human
+  Xtalised: NoXtal
+o6c70_human:
+  7x44: 7x44
+  UniProt: o6c70_human
+  Xtal Templ: o6c70_human
+  Xtalised: NoXtal
+o6c74_human:
+  7x44: 7x44
+  UniProt: o6c74_human
+  Xtal Templ: o6c74_human
+  Xtalised: NoXtal
+o6c75_human:
+  7x44: 7x44
+  UniProt: o6c75_human
+  Xtal Templ: o6c75_human
+  Xtalised: NoXtal
+o6c76_human:
+  2x49: 2x49
+  7x44: 7x44
+  UniProt: o6c76_human
+  Xtal Templ: o6c76_human
+  Xtalised: NoXtal
+o7e24_human:
+  7x44: 7x44
+  UniProt: o7e24_human
+  Xtal Templ: o7e24_human
+  Xtalised: NoXtal
+o8g2p_human:
+  7x44: 7x44
+  UniProt: o8g2p_human
+  Xtal Templ: o8g2p_human
+  Xtalised: NoXtal
+or1a1_human:
+  7x44: 7x44
+  UniProt: or1a1_human
+  Xtal Templ: or1a1_human
+  Xtalised: NoXtal
+or1a2_human:
+  7x44: 7x44
+  UniProt: or1a2_human
+  Xtal Templ: or1a2_human
+  Xtalised: NoXtal
+or1b1_human:
+  7x44: 7x44
+  UniProt: or1b1_human
+  Xtal Templ: or1b1_human
+  Xtalised: NoXtal
+or1c1_human:
+  7x44: 7x44
+  UniProt: or1c1_human
+  Xtal Templ: or1c1_human
+  Xtalised: NoXtal
+or1d2_human:
+  7x44: 7x44
+  UniProt: or1d2_human
+  Xtal Templ: or1d2_human
+  Xtalised: NoXtal
+or1d4_human:
+  7x44: 7x44
+  UniProt: or1d4_human
+  Xtal Templ: or1d4_human
+  Xtalised: NoXtal
+or1d5_human:
+  7x44: 7x44
+  UniProt: or1d5_human
+  Xtal Templ: or1d5_human
+  Xtalised: NoXtal
+or1e1_human:
+  7x44: 7x44
+  UniProt: or1e1_human
+  Xtal Templ: or1e1_human
+  Xtalised: NoXtal
+or1e2_human:
+  7x44: 7x44
+  UniProt: or1e2_human
+  Xtal Templ: or1e2_human
+  Xtalised: NoXtal
+or1e3_human:
+  7x44: 7x44
+  UniProt: or1e3_human
+  Xtal Templ: or1e3_human
+  Xtalised: NoXtal
+or1f1_human:
+  7x44: 7x44
+  UniProt: or1f1_human
+  Xtal Templ: or1f1_human
+  Xtalised: NoXtal
+or1f2_human:
+  7x44: 7x44
+  UniProt: or1f2_human
+  Xtal Templ: or1f2_human
+  Xtalised: NoXtal
+or1fc_human:
+  7x44: 7x44
+  UniProt: or1fc_human
+  Xtal Templ: or1fc_human
+  Xtalised: NoXtal
+or1g1_human:
+  7x44: 7x44
+  UniProt: or1g1_human
+  Xtal Templ: or1g1_human
+  Xtalised: NoXtal
+or1i1_human:
+  7x44: 7x44
+  UniProt: or1i1_human
+  Xtal Templ: or1i1_human
+  Xtalised: NoXtal
+or1j1_human:
+  7x44: 7x44
+  UniProt: or1j1_human
+  Xtal Templ: or1j1_human
+  Xtalised: NoXtal
+or1j2_human:
+  7x44: 7x44
+  UniProt: or1j2_human
+  Xtal Templ: or1j2_human
+  Xtalised: NoXtal
+or1j4_human:
+  7x44: 7x44
+  UniProt: or1j4_human
+  Xtal Templ: or1j4_human
+  Xtalised: NoXtal
+or1k1_human:
+  7x44: 7x44
+  UniProt: or1k1_human
+  Xtal Templ: or1k1_human
+  Xtalised: NoXtal
+or1l1_human:
+  7x44: 7x44
+  UniProt: or1l1_human
+  Xtal Templ: or1l1_human
+  Xtalised: NoXtal
+or1l3_human:
+  7x44: 7x44
+  UniProt: or1l3_human
+  Xtal Templ: or1l3_human
+  Xtalised: NoXtal
+or1l4_human:
+  7x44: 7x44
+  UniProt: or1l4_human
+  Xtal Templ: or1l4_human
+  Xtalised: NoXtal
+or1l6_human:
+  7x44: 7x44
+  UniProt: or1l6_human
+  Xtal Templ: or1l6_human
+  Xtalised: NoXtal
+or1l8_human:
+  7x44: 7x44
+  UniProt: or1l8_human
+  Xtal Templ: or1l8_human
+  Xtalised: NoXtal
+or1m1_human:
+  7x44: 7x44
+  UniProt: or1m1_human
+  Xtal Templ: or1m1_human
+  Xtalised: NoXtal
+or1n1_human:
+  7x44: 7x44
+  UniProt: or1n1_human
+  Xtal Templ: or1n1_human
+  Xtalised: NoXtal
+or1n2_human:
+  7x44: 7x44
+  UniProt: or1n2_human
+  Xtal Templ: or1n2_human
+  Xtalised: NoXtal
+or1p1_human:
+  7x44: 7x44
+  UniProt: or1p1_human
+  Xtal Templ: or1p1_human
+  Xtalised: NoXtal
+or1q1_human:
+  7x44: 7x44
+  UniProt: or1q1_human
+  Xtal Templ: or1q1_human
+  Xtalised: NoXtal
+or1s1_human:
+  7x44: 7x44
+  UniProt: or1s1_human
+  Xtal Templ: or1s1_human
+  Xtalised: NoXtal
+or1s2_human:
+  7x44: 7x44
+  UniProt: or1s2_human
+  Xtal Templ: or1s2_human
+  Xtalised: NoXtal
+or2a1_human:
+  7x44: 7x44
+  UniProt: or2a1_human
+  Xtal Templ: or2a1_human
+  Xtalised: NoXtal
+or2a2_human:
+  7x44: 7x44
+  UniProt: or2a2_human
+  Xtal Templ: or2a2_human
+  Xtalised: NoXtal
+or2a4_human:
+  7x44: 7x44
+  UniProt: or2a4_human
+  Xtal Templ: or2a4_human
+  Xtalised: NoXtal
+or2a5_human:
+  7x44: 7x44
+  UniProt: or2a5_human
+  Xtal Templ: or2a5_human
+  Xtalised: NoXtal
+or2a7_human:
+  7x44: 7x44
+  UniProt: or2a7_human
+  Xtal Templ: or2a7_human
+  Xtalised: NoXtal
+or2b2_human:
+  7x44: 7x44
+  UniProt: or2b2_human
+  Xtal Templ: or2b2_human
+  Xtalised: NoXtal
+or2b3_human:
+  7x44: 7x44
+  UniProt: or2b3_human
+  Xtal Templ: or2b3_human
+  Xtalised: NoXtal
+or2b6_human:
+  7x44: 7x44
+  UniProt: or2b6_human
+  Xtal Templ: or2b6_human
+  Xtalised: NoXtal
+or2b8_human:
+  7x44: 7x44
+  UniProt: or2b8_human
+  Xtal Templ: or2b8_human
+  Xtalised: NoXtal
+or2bb_human:
+  7x44: 7x44
+  UniProt: or2bb_human
+  Xtal Templ: or2bb_human
+  Xtalised: NoXtal
+or2c1_human:
+  7x44: 7x44
+  UniProt: or2c1_human
+  Xtal Templ: or2c1_human
+  Xtalised: NoXtal
+or2c3_human:
+  7x44: 7x44
+  UniProt: or2c3_human
+  Xtal Templ: or2c3_human
+  Xtalised: NoXtal
+or2d2_human:
+  7x44: 7x44
+  UniProt: or2d2_human
+  Xtal Templ: or2d2_human
+  Xtalised: NoXtal
+or2d3_human:
+  7x44: 7x44
+  UniProt: or2d3_human
+  Xtal Templ: or2d3_human
+  Xtalised: NoXtal
+or2f1_human:
+  7x44: 7x44
+  UniProt: or2f1_human
+  Xtal Templ: or2f1_human
+  Xtalised: NoXtal
+or2f2_human:
+  7x44: 7x44
+  UniProt: or2f2_human
+  Xtal Templ: or2f2_human
+  Xtalised: NoXtal
+or2g2_human:
+  7x44: 7x44
+  UniProt: or2g2_human
+  Xtal Templ: or2g2_human
+  Xtalised: NoXtal
+or2g3_human:
+  7x44: 7x44
+  UniProt: or2g3_human
+  Xtal Templ: or2g3_human
+  Xtalised: NoXtal
+or2g6_human:
+  7x44: 7x44
+  UniProt: or2g6_human
+  Xtal Templ: or2g6_human
+  Xtalised: NoXtal
+or2h1_human:
+  7x44: 7x44
+  UniProt: or2h1_human
+  Xtal Templ: or2h1_human
+  Xtalised: NoXtal
+or2h2_human:
+  7x44: 7x44
+  UniProt: or2h2_human
+  Xtal Templ: or2h2_human
+  Xtalised: NoXtal
+or2i1_human:
+  7x44: 7x44
+  UniProt: or2i1_human
+  Xtal Templ: or2i1_human
+  Xtalised: NoXtal
+or2j1_human:
+  7x44: 7x44
+  UniProt: or2j1_human
+  Xtal Templ: or2j1_human
+  Xtalised: NoXtal
+or2j2_human:
+  7x44: 7x44
+  UniProt: or2j2_human
+  Xtal Templ: or2j2_human
+  Xtalised: NoXtal
+or2j3_human:
+  7x44: 7x44
+  UniProt: or2j3_human
+  Xtal Templ: or2j3_human
+  Xtalised: NoXtal
+or2k2_human:
+  7x44: 7x44
+  UniProt: or2k2_human
+  Xtal Templ: or2k2_human
+  Xtalised: NoXtal
+or2l2_human:
+  7x44: 7x44
+  UniProt: or2l2_human
+  Xtal Templ: or2l2_human
+  Xtalised: NoXtal
+or2l3_human:
+  7x44: 7x44
+  UniProt: or2l3_human
+  Xtal Templ: or2l3_human
+  Xtalised: NoXtal
+or2l5_human:
+  7x44: 7x44
+  UniProt: or2l5_human
+  Xtal Templ: or2l5_human
+  Xtalised: NoXtal
+or2l8_human:
+  7x44: 7x44
+  UniProt: or2l8_human
+  Xtal Templ: or2l8_human
+  Xtalised: NoXtal
+or2ld_human:
+  7x44: 7x44
+  UniProt: or2ld_human
+  Xtal Templ: or2ld_human
+  Xtalised: NoXtal
+or2m2_human:
+  7x44: 7x44
+  UniProt: or2m2_human
+  Xtal Templ: or2m2_human
+  Xtalised: NoXtal
+or2m3_human:
+  7x44: 7x44
+  UniProt: or2m3_human
+  Xtal Templ: or2m3_human
+  Xtalised: NoXtal
+or2m4_human:
+  7x44: 7x44
+  UniProt: or2m4_human
+  Xtal Templ: or2m4_human
+  Xtalised: NoXtal
+or2m5_human:
+  7x44: 7x44
+  UniProt: or2m5_human
+  Xtal Templ: or2m5_human
+  Xtalised: NoXtal
+or2m7_human:
+  7x44: 7x44
+  UniProt: or2m7_human
+  Xtal Templ: or2m7_human
+  Xtalised: NoXtal
+or2s1_human:
+  7x44: 7x44
+  UniProt: or2s1_human
+  Xtal Templ: or2s1_human
+  Xtalised: NoXtal
+or2t1_human:
+  7x44: 7x44
+  UniProt: or2t1_human
+  Xtal Templ: or2t1_human
+  Xtalised: NoXtal
+or2t2_human:
+  7x44: 7x44
+  UniProt: or2t2_human
+  Xtal Templ: or2t2_human
+  Xtalised: NoXtal
+or2t3_human:
+  7x44: 7x44
+  UniProt: or2t3_human
+  Xtal Templ: or2t3_human
+  Xtalised: NoXtal
+or2t4_human:
+  7x44: 7x44
+  UniProt: or2t4_human
+  Xtal Templ: or2t4_human
+  Xtalised: NoXtal
+or2t5_human:
+  7x44: 7x44
+  UniProt: or2t5_human
+  Xtal Templ: or2t5_human
+  Xtalised: NoXtal
+or2t6_human:
+  7x44: 7x44
+  UniProt: or2t6_human
+  Xtal Templ: or2t6_human
+  Xtalised: NoXtal
+or2t7_human:
+  7x44: 7x44
+  UniProt: or2t7_human
+  Xtal Templ: or2t7_human
+  Xtalised: NoXtal
+or2t8_human:
+  7x44: 7x44
+  UniProt: or2t8_human
+  Xtal Templ: or2t8_human
+  Xtalised: NoXtal
+or2v1_human:
+  7x44: 7x44
+  UniProt: or2v1_human
+  Xtal Templ: or2v1_human
+  Xtalised: NoXtal
+or2v2_human:
+  7x44: 7x44
+  UniProt: or2v2_human
+  Xtal Templ: or2v2_human
+  Xtalised: NoXtal
+or2w1_human:
+  7x44: 7x44
+  UniProt: or2w1_human
+  Xtal Templ: or2w1_human
+  Xtalised: NoXtal
+or2w3_human:
+  7x44: 7x44
+  UniProt: or2w3_human
+  Xtal Templ: or2w3_human
+  Xtalised: NoXtal
+or2w5_human:
+  7x44: 7x44
+  UniProt: or2w5_human
+  Xtal Templ: or2w5_human
+  Xtalised: NoXtal
+or2w6_human:
+  7x44: 7x44
+  UniProt: or2w6_human
+  Xtal Templ: or2w6_human
+  Xtalised: NoXtal
+or2y1_human:
+  7x44: 7x44
+  UniProt: or2y1_human
+  Xtal Templ: or2y1_human
+  Xtalised: NoXtal
+or2z1_human:
+  7x44: 7x44
+  UniProt: or2z1_human
+  Xtal Templ: or2z1_human
+  Xtalised: NoXtal
+or3a1_human:
+  7x44: 7x44
+  UniProt: or3a1_human
+  Xtal Templ: or3a1_human
+  Xtalised: NoXtal
+or3a2_human:
+  7x44: 7x44
+  UniProt: or3a2_human
+  Xtal Templ: or3a2_human
+  Xtalised: NoXtal
+or3a3_human:
+  7x44: 7x44
+  UniProt: or3a3_human
+  Xtal Templ: or3a3_human
+  Xtalised: NoXtal
+or3a4_human:
+  7x44: 7x44
+  UniProt: or3a4_human
+  Xtal Templ: or3a4_human
+  Xtalised: NoXtal
+or4a4_human:
+  7x44: 7x44
+  UniProt: or4a4_human
+  Xtal Templ: or4a4_human
+  Xtalised: NoXtal
+or4a5_human:
+  7x44: 7x44
+  UniProt: or4a5_human
+  Xtal Templ: or4a5_human
+  Xtalised: NoXtal
+or4a8_human:
+  7x44: 7x44
+  UniProt: or4a8_human
+  Xtal Templ: or4a8_human
+  Xtalised: NoXtal
+or4b1_human:
+  7x44: 7x44
+  UniProt: or4b1_human
+  Xtal Templ: or4b1_human
+  Xtalised: NoXtal
+or4c3_human:
+  7x44: 7x44
+  UniProt: or4c3_human
+  Xtal Templ: or4c3_human
+  Xtalised: NoXtal
+or4c5_human:
+  7x44: 7x44
+  UniProt: or4c5_human
+  Xtal Templ: or4c5_human
+  Xtalised: NoXtal
+or4c6_human:
+  7x44: 7x44
+  UniProt: or4c6_human
+  Xtal Templ: or4c6_human
+  Xtalised: NoXtal
+or4cb_human:
+  7x44: 7x44
+  UniProt: or4cb_human
+  Xtal Templ: or4cb_human
+  Xtalised: NoXtal
+or4cc_human:
+  7x44: 7x44
+  UniProt: or4cc_human
+  Xtal Templ: or4cc_human
+  Xtalised: NoXtal
+or4cd_human:
+  7x44: 7x44
+  UniProt: or4cd_human
+  Xtal Templ: or4cd_human
+  Xtalised: NoXtal
+or4cf_human:
+  7x44: 7x44
+  UniProt: or4cf_human
+  Xtal Templ: or4cf_human
+  Xtalised: NoXtal
+or4cg_human:
+  7x44: 7x44
+  UniProt: or4cg_human
+  Xtal Templ: or4cg_human
+  Xtalised: NoXtal
+or4d1_human:
+  7x44: 7x44
+  UniProt: or4d1_human
+  Xtal Templ: or4d1_human
+  Xtalised: NoXtal
+or4d2_human:
+  7x44: 7x44
+  UniProt: or4d2_human
+  Xtal Templ: or4d2_human
+  Xtalised: NoXtal
+or4d5_human:
+  7x44: 7x44
+  UniProt: or4d5_human
+  Xtal Templ: or4d5_human
+  Xtalised: NoXtal
+or4d6_human:
+  7x44: 7x44
+  UniProt: or4d6_human
+  Xtal Templ: or4d6_human
+  Xtalised: NoXtal
+or4d9_human:
+  7x44: 7x44
+  UniProt: or4d9_human
+  Xtal Templ: or4d9_human
+  Xtalised: NoXtal
+or4da_human:
+  7x44: 7x44
+  UniProt: or4da_human
+  Xtal Templ: or4da_human
+  Xtalised: NoXtal
+or4db_human:
+  7x44: 7x44
+  UniProt: or4db_human
+  Xtal Templ: or4db_human
+  Xtalised: NoXtal
+or4e1_human:
+  7x44: 7x44
+  UniProt: or4e1_human
+  Xtal Templ: or4e1_human
+  Xtalised: NoXtal
+or4e2_human:
+  7x44: 7x44
+  UniProt: or4e2_human
+  Xtal Templ: or4e2_human
+  Xtalised: NoXtal
+or4f3_human:
+  7x44: 7x44
+  UniProt: or4f3_human
+  Xtal Templ: or4f3_human
+  Xtalised: NoXtal
+or4f4_human:
+  7x44: 7x44
+  UniProt: or4f4_human
+  Xtal Templ: or4f4_human
+  Xtalised: NoXtal
+or4f5_human:
+  7x44: 7x44
+  UniProt: or4f5_human
+  Xtal Templ: or4f5_human
+  Xtalised: NoXtal
+or4f6_human:
+  7x44: 7x44
+  UniProt: or4f6_human
+  Xtal Templ: or4f6_human
+  Xtalised: NoXtal
+or4k1_human:
+  7x44: 7x44
+  UniProt: or4k1_human
+  Xtal Templ: or4k1_human
+  Xtalised: NoXtal
+or4k2_human:
+  7x44: 7x44
+  UniProt: or4k2_human
+  Xtal Templ: or4k2_human
+  Xtalised: NoXtal
+or4k3_human:
+  7x44: 7x44
+  UniProt: or4k3_human
+  Xtal Templ: or4k3_human
+  Xtalised: NoXtal
+or4k5_human:
+  7x44: 7x44
+  UniProt: or4k5_human
+  Xtal Templ: or4k5_human
+  Xtalised: NoXtal
+or4kd_human:
+  7x44: 7x44
+  UniProt: or4kd_human
+  Xtal Templ: or4kd_human
+  Xtalised: NoXtal
+or4ke_human:
+  7x44: 7x44
+  UniProt: or4ke_human
+  Xtal Templ: or4ke_human
+  Xtalised: NoXtal
+or4kf_human:
+  7x44: 7x44
+  UniProt: or4kf_human
+  Xtal Templ: or4kf_human
+  Xtalised: NoXtal
+or4kh_human:
+  7x44: 7x44
+  UniProt: or4kh_human
+  Xtal Templ: or4kh_human
+  Xtalised: NoXtal
+or4l1_human:
+  7x44: 7x44
+  UniProt: or4l1_human
+  Xtal Templ: or4l1_human
+  Xtalised: NoXtal
+or4m1_human:
+  7x44: 7x44
+  UniProt: or4m1_human
+  Xtal Templ: or4m1_human
+  Xtalised: NoXtal
+or4m2_human:
+  7x44: 7x44
+  UniProt: or4m2_human
+  Xtal Templ: or4m2_human
+  Xtalised: NoXtal
+or4n2_human:
+  7x44: 7x44
+  UniProt: or4n2_human
+  Xtal Templ: or4n2_human
+  Xtalised: NoXtal
+or4n4_human:
+  7x44: 7x44
+  UniProt: or4n4_human
+  Xtal Templ: or4n4_human
+  Xtalised: NoXtal
+or4n5_human:
+  7x44: 7x44
+  UniProt: or4n5_human
+  Xtal Templ: or4n5_human
+  Xtalised: NoXtal
+or4p4_human:
+  7x44: 7x44
+  UniProt: or4p4_human
+  Xtal Templ: or4p4_human
+  Xtalised: NoXtal
+or4q2_human:
+  7x44: 7x44
+  UniProt: or4q2_human
+  Xtal Templ: or4q2_human
+  Xtalised: NoXtal
+or4q3_human:
+  7x44: 7x44
+  UniProt: or4q3_human
+  Xtal Templ: or4q3_human
+  Xtalised: NoXtal
+or4s1_human:
+  7x44: 7x44
+  UniProt: or4s1_human
+  Xtal Templ: or4s1_human
+  Xtalised: NoXtal
+or4s2_human:
+  7x44: 7x44
+  UniProt: or4s2_human
+  Xtal Templ: or4s2_human
+  Xtalised: NoXtal
+or4x1_human:
+  7x44: 7x44
+  UniProt: or4x1_human
+  Xtal Templ: or4x1_human
+  Xtalised: NoXtal
+or4x2_human:
+  7x44: 7x44
+  UniProt: or4x2_human
+  Xtal Templ: or4x2_human
+  Xtalised: NoXtal
+or5a1_human:
+  7x44: 7x44
+  UniProt: or5a1_human
+  Xtal Templ: or5a1_human
+  Xtalised: NoXtal
+or5a2_human:
+  7x44: 7x44
+  UniProt: or5a2_human
+  Xtal Templ: or5a2_human
+  Xtalised: NoXtal
+or5b2_human:
+  7x44: 7x44
+  UniProt: or5b2_human
+  Xtal Templ: or5b2_human
+  Xtalised: NoXtal
+or5b3_human:
+  7x44: 7x44
+  UniProt: or5b3_human
+  Xtal Templ: or5b3_human
+  Xtalised: NoXtal
+or5bc_human:
+  7x44: 7x44
+  UniProt: or5bc_human
+  Xtal Templ: or5bc_human
+  Xtalised: NoXtal
+or5bh_human:
+  7x44: 7x44
+  UniProt: or5bh_human
+  Xtal Templ: or5bh_human
+  Xtalised: NoXtal
+or5c1_human:
+  7x44: 7x44
+  UniProt: or5c1_human
+  Xtal Templ: or5c1_human
+  Xtalised: NoXtal
+or5dd_human:
+  7x44: 7x44
+  UniProt: or5dd_human
+  Xtal Templ: or5dd_human
+  Xtalised: NoXtal
+or5de_human:
+  7x44: 7x44
+  UniProt: or5de_human
+  Xtal Templ: or5de_human
+  Xtalised: NoXtal
+or5dg_human:
+  7x44: 7x44
+  UniProt: or5dg_human
+  Xtal Templ: or5dg_human
+  Xtalised: NoXtal
+or5di_human:
+  7x44: 7x44
+  UniProt: or5di_human
+  Xtal Templ: or5di_human
+  Xtalised: NoXtal
+or5f1_human:
+  7x44: 7x44
+  UniProt: or5f1_human
+  Xtal Templ: or5f1_human
+  Xtalised: NoXtal
+or5g3_human:
+  7x44: 7x44
+  UniProt: or5g3_human
+  Xtal Templ: or5g3_human
+  Xtalised: NoXtal
+or5h1_human:
+  7x44: 7x44
+  UniProt: or5h1_human
+  Xtal Templ: or5h1_human
+  Xtalised: NoXtal
+or5h2_human:
+  7x44: 7x44
+  UniProt: or5h2_human
+  Xtal Templ: or5h2_human
+  Xtalised: NoXtal
+or5h6_human:
+  7x44: 7x44
+  UniProt: or5h6_human
+  Xtal Templ: or5h6_human
+  Xtalised: NoXtal
+or5h8_human:
+  7x44: 7x44
+  UniProt: or5h8_human
+  Xtal Templ: or5h8_human
+  Xtalised: NoXtal
+or5i1_human:
+  7x44: 7x44
+  UniProt: or5i1_human
+  Xtal Templ: or5i1_human
+  Xtalised: NoXtal
+or5j2_human:
+  7x44: 7x44
+  UniProt: or5j2_human
+  Xtal Templ: or5j2_human
+  Xtalised: NoXtal
+or5k1_human:
+  7x44: 7x44
+  UniProt: or5k1_human
+  Xtal Templ: or5k1_human
+  Xtalised: NoXtal
+or5k2_human:
+  7x44: 7x44
+  UniProt: or5k2_human
+  Xtal Templ: or5k2_human
+  Xtalised: NoXtal
+or5k3_human:
+  7x44: 7x44
+  UniProt: or5k3_human
+  Xtal Templ: or5k3_human
+  Xtalised: NoXtal
+or5k4_human:
+  7x44: 7x44
+  UniProt: or5k4_human
+  Xtal Templ: or5k4_human
+  Xtalised: NoXtal
+or5l1_human:
+  7x44: 7x44
+  UniProt: or5l1_human
+  Xtal Templ: or5l1_human
+  Xtalised: NoXtal
+or5l2_human:
+  7x44: 7x44
+  UniProt: or5l2_human
+  Xtal Templ: or5l2_human
+  Xtalised: NoXtal
+or5m1_human:
+  7x44: 7x44
+  UniProt: or5m1_human
+  Xtal Templ: or5m1_human
+  Xtalised: NoXtal
+or5m3_human:
+  7x44: 7x44
+  UniProt: or5m3_human
+  Xtal Templ: or5m3_human
+  Xtalised: NoXtal
+or5m8_human:
+  7x44: 7x44
+  UniProt: or5m8_human
+  Xtal Templ: or5m8_human
+  Xtalised: NoXtal
+or5m9_human:
+  7x44: 7x44
+  UniProt: or5m9_human
+  Xtal Templ: or5m9_human
+  Xtalised: NoXtal
+or5ma_human:
+  7x44: 7x44
+  UniProt: or5ma_human
+  Xtal Templ: or5ma_human
+  Xtalised: NoXtal
+or5mb_human:
+  7x44: 7x44
+  UniProt: or5mb_human
+  Xtal Templ: or5mb_human
+  Xtalised: NoXtal
+or5p2_human:
+  7x44: 7x44
+  UniProt: or5p2_human
+  Xtal Templ: or5p2_human
+  Xtalised: NoXtal
+or5p3_human:
+  7x44: 7x44
+  UniProt: or5p3_human
+  Xtal Templ: or5p3_human
+  Xtalised: NoXtal
+or5r1_human:
+  7x44: 7x44
+  UniProt: or5r1_human
+  Xtal Templ: or5r1_human
+  Xtalised: NoXtal
+or5t1_human:
+  7x44: 7x44
+  UniProt: or5t1_human
+  Xtal Templ: or5t1_human
+  Xtalised: NoXtal
+or5t2_human:
+  7x44: 7x44
+  UniProt: or5t2_human
+  Xtal Templ: or5t2_human
+  Xtalised: NoXtal
+or5t3_human:
+  7x44: 7x44
+  UniProt: or5t3_human
+  Xtal Templ: or5t3_human
+  Xtalised: NoXtal
+or5v1_human:
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: or5v1_human
+  Xtal Templ: or5v1_human
+  Xtalised: NoXtal
+or5w2_human:
+  7x44: 7x44
+  UniProt: or5w2_human
+  Xtal Templ: or5w2_human
+  Xtalised: NoXtal
+or6a2_human:
+  7x44: 7x44
+  UniProt: or6a2_human
+  Xtal Templ: or6a2_human
+  Xtalised: NoXtal
+or6b1_human:
+  7x44: 7x44
+  UniProt: or6b1_human
+  Xtal Templ: or6b1_human
+  Xtalised: NoXtal
+or6b2_human:
+  7x44: 7x44
+  UniProt: or6b2_human
+  Xtal Templ: or6b2_human
+  Xtalised: NoXtal
+or6b3_human:
+  7x44: 7x44
+  UniProt: or6b3_human
+  Xtal Templ: or6b3_human
+  Xtalised: NoXtal
+or6c1_human:
+  7x44: 7x44
+  UniProt: or6c1_human
+  Xtal Templ: or6c1_human
+  Xtalised: NoXtal
+or6c2_human:
+  7x44: 7x44
+  UniProt: or6c2_human
+  Xtal Templ: or6c2_human
+  Xtalised: NoXtal
+or6c3_human:
+  7x44: 7x44
+  UniProt: or6c3_human
+  Xtal Templ: or6c3_human
+  Xtalised: NoXtal
+or6c4_human:
+  7x44: 7x44
+  UniProt: or6c4_human
+  Xtal Templ: or6c4_human
+  Xtalised: NoXtal
+or6c6_human:
+  7x44: 7x44
+  UniProt: or6c6_human
+  Xtal Templ: or6c6_human
+  Xtalised: NoXtal
+or6f1_human:
+  7x44: 7x44
+  UniProt: or6f1_human
+  Xtal Templ: or6f1_human
+  Xtalised: NoXtal
+or6j1_human:
+  7x44: 7x44
+  UniProt: or6j1_human
+  Xtal Templ: or6j1_human
+  Xtalised: NoXtal
+or6k2_human:
+  7x44: 7x44
+  UniProt: or6k2_human
+  Xtal Templ: or6k2_human
+  Xtalised: NoXtal
+or6k3_human:
+  7x44: 7x44
+  UniProt: or6k3_human
+  Xtal Templ: or6k3_human
+  Xtalised: NoXtal
+or6k6_human:
+  7x44: 7x44
+  UniProt: or6k6_human
+  Xtal Templ: or6k6_human
+  Xtalised: NoXtal
+or6m1_human:
+  7x44: 7x44
+  UniProt: or6m1_human
+  Xtal Templ: or6m1_human
+  Xtalised: NoXtal
+or6n1_human:
+  7x44: 7x44
+  UniProt: or6n1_human
+  Xtal Templ: or6n1_human
+  Xtalised: NoXtal
+or6n2_human:
+  7x44: 7x44
+  UniProt: or6n2_human
+  Xtal Templ: or6n2_human
+  Xtalised: NoXtal
+or6p1_human:
+  7x44: 7x44
+  UniProt: or6p1_human
+  Xtal Templ: or6p1_human
+  Xtalised: NoXtal
+or6q1_human:
+  7x44: 7x44
+  UniProt: or6q1_human
+  Xtal Templ: or6q1_human
+  Xtalised: NoXtal
+or6s1_human:
+  7x44: 7x44
+  UniProt: or6s1_human
+  Xtal Templ: or6s1_human
+  Xtalised: NoXtal
+or6t1_human:
+  7x44: 7x44
+  UniProt: or6t1_human
+  Xtal Templ: or6t1_human
+  Xtalised: NoXtal
+or6v1_human:
+  7x44: 7x44
+  UniProt: or6v1_human
+  Xtal Templ: or6v1_human
+  Xtalised: NoXtal
+or6x1_human:
+  7x44: 7x44
+  UniProt: or6x1_human
+  Xtal Templ: or6x1_human
+  Xtalised: NoXtal
+or6y1_human:
+  7x44: 7x44
+  UniProt: or6y1_human
+  Xtal Templ: or6y1_human
+  Xtalised: NoXtal
+or7a2_human:
+  7x44: 7x44
+  UniProt: or7a2_human
+  Xtal Templ: or7a2_human
+  Xtalised: NoXtal
+or7a5_human:
+  7x44: 7x44
+  UniProt: or7a5_human
+  Xtal Templ: or7a5_human
+  Xtalised: NoXtal
+or7aa_human:
+  7x44: 7x44
+  UniProt: or7aa_human
+  Xtal Templ: or7aa_human
+  Xtalised: NoXtal
+or7ah_human:
+  7x44: 7x44
+  UniProt: or7ah_human
+  Xtal Templ: or7ah_human
+  Xtalised: NoXtal
+or7c1_human:
+  7x44: 7x44
+  UniProt: or7c1_human
+  Xtal Templ: or7c1_human
+  Xtalised: NoXtal
+or7c2_human:
+  7x44: 7x44
+  UniProt: or7c2_human
+  Xtal Templ: or7c2_human
+  Xtalised: NoXtal
+or7d2_human:
+  7x44: 7x44
+  UniProt: or7d2_human
+  Xtal Templ: or7d2_human
+  Xtalised: NoXtal
+or7d4_human:
+  7x44: 7x44
+  UniProt: or7d4_human
+  Xtal Templ: or7d4_human
+  Xtalised: NoXtal
+or7g1_human:
+  7x44: 7x44
+  UniProt: or7g1_human
+  Xtal Templ: or7g1_human
+  Xtalised: NoXtal
+or7g2_human:
+  7x44: 7x44
+  UniProt: or7g2_human
+  Xtal Templ: or7g2_human
+  Xtalised: NoXtal
+or7g3_human:
+  7x44: 7x44
+  UniProt: or7g3_human
+  Xtal Templ: or7g3_human
+  Xtalised: NoXtal
+or83p_human:
+  7x44: 7x44
+  UniProt: or83p_human
+  Xtal Templ: or83p_human
+  Xtalised: NoXtal
+or8a1_human:
+  7x44: 7x44
+  UniProt: or8a1_human
+  Xtal Templ: or8a1_human
+  Xtalised: NoXtal
+or8b2_human:
+  7x44: 7x44
+  UniProt: or8b2_human
+  Xtal Templ: or8b2_human
+  Xtalised: NoXtal
+or8b3_human:
+  7x44: 7x44
+  UniProt: or8b3_human
+  Xtal Templ: or8b3_human
+  Xtalised: NoXtal
+or8b4_human:
+  7x44: 7x44
+  UniProt: or8b4_human
+  Xtal Templ: or8b4_human
+  Xtalised: NoXtal
+or8b8_human:
+  7x44: 7x44
+  UniProt: or8b8_human
+  Xtal Templ: or8b8_human
+  Xtalised: NoXtal
+or8bc_human:
+  7x44: 7x44
+  UniProt: or8bc_human
+  Xtal Templ: or8bc_human
+  Xtalised: NoXtal
+or8d1_human:
+  7x44: 7x44
+  UniProt: or8d1_human
+  Xtal Templ: or8d1_human
+  Xtalised: NoXtal
+or8d2_human:
+  7x44: 7x44
+  UniProt: or8d2_human
+  Xtal Templ: or8d2_human
+  Xtalised: NoXtal
+or8d4_human:
+  7x44: 7x44
+  UniProt: or8d4_human
+  Xtal Templ: or8d4_human
+  Xtalised: NoXtal
+or8g1_human:
+  7x44: 7x44
+  UniProt: or8g1_human
+  Xtal Templ: or8g1_human
+  Xtalised: NoXtal
+or8g5_human:
+  7x44: 7x44
+  UniProt: or8g5_human
+  Xtal Templ: or8g5_human
+  Xtalised: NoXtal
+or8h1_human:
+  7x44: 7x44
+  UniProt: or8h1_human
+  Xtal Templ: or8h1_human
+  Xtalised: NoXtal
+or8h2_human:
+  7x44: 7x44
+  UniProt: or8h2_human
+  Xtal Templ: or8h2_human
+  Xtalised: NoXtal
+or8h3_human:
+  7x44: 7x44
+  UniProt: or8h3_human
+  Xtal Templ: or8h3_human
+  Xtalised: NoXtal
+or8i2_human:
+  7x44: 7x44
+  UniProt: or8i2_human
+  Xtal Templ: or8i2_human
+  Xtalised: NoXtal
+or8j1_human:
+  7x44: 7x44
+  UniProt: or8j1_human
+  Xtal Templ: or8j1_human
+  Xtalised: NoXtal
+or8j2_human:
+  7x44: 7x44
+  UniProt: or8j2_human
+  Xtal Templ: or8j2_human
+  Xtalised: NoXtal
+or8j3_human:
+  7x44: 7x44
+  UniProt: or8j3_human
+  Xtal Templ: or8j3_human
+  Xtalised: NoXtal
+or8k1_human:
+  7x44: 7x44
+  UniProt: or8k1_human
+  Xtal Templ: or8k1_human
+  Xtalised: NoXtal
+or8k3_human:
+  7x44: 7x44
+  UniProt: or8k3_human
+  Xtal Templ: or8k3_human
+  Xtalised: NoXtal
+or8k5_human:
+  7x44: 7x44
+  UniProt: or8k5_human
+  Xtal Templ: or8k5_human
+  Xtalised: NoXtal
+or8s1_human:
+  7x44: 7x44
+  UniProt: or8s1_human
+  Xtal Templ: or8s1_human
+  Xtalised: NoXtal
+or8u1_human:
+  7x44: 7x44
+  UniProt: or8u1_human
+  Xtal Templ: or8u1_human
+  Xtalised: NoXtal
+or8u8_human:
+  7x44: 7x44
+  UniProt: or8u8_human
+  Xtal Templ: or8u8_human
+  Xtalised: NoXtal
+or8u9_human:
+  7x44: 7x44
+  UniProt: or8u9_human
+  Xtal Templ: or8u9_human
+  Xtalised: NoXtal
+or9a1_human:
+  7x44: 7x44
+  UniProt: or9a1_human
+  Xtal Templ: or9a1_human
+  Xtalised: NoXtal
+or9a2_human:
+  7x44: 7x44
+  UniProt: or9a2_human
+  Xtal Templ: or9a2_human
+  Xtalised: NoXtal
+or9a4_human:
+  7x44: 7x44
+  UniProt: or9a4_human
+  Xtal Templ: or9a4_human
+  Xtalised: NoXtal
+or9g1_human:
+  7x44: 7x44
+  UniProt: or9g1_human
+  Xtal Templ: or9g1_human
+  Xtalised: NoXtal
+or9g4_human:
+  7x44: 7x44
+  UniProt: or9g4_human
+  Xtal Templ: or9g4_human
+  Xtalised: NoXtal
+or9g9_human:
+  7x44: 7x44
+  UniProt: or9g9_human
+  Xtal Templ: or9g9_human
+  Xtalised: NoXtal
+or9i1_human:
+  7x44: 7x44
+  UniProt: or9i1_human
+  Xtal Templ: or9i1_human
+  Xtalised: NoXtal
+or9k2_human:
+  7x44: 7x44
+  UniProt: or9k2_human
+  Xtal Templ: or9k2_human
+  Xtalised: NoXtal
+or9q1_human:
+  7x44: 7x44
+  UniProt: or9q1_human
+  Xtal Templ: or9q1_human
+  Xtalised: NoXtal
+or9q2_human:
+  7x44: 7x44
+  UniProt: or9q2_human
+  Xtal Templ: or9q2_human
+  Xtalised: NoXtal
+orm2b_human:
+  7x44: 7x44
+  UniProt: orm2b_human
+  Xtal Templ: orm2b_human
+  Xtalised: NoXtal
+orn4c_human:
+  7x44: 7x44
+  UniProt: orn4c_human
+  Xtal Templ: orn4c_human
+  Xtalised: NoXtal
