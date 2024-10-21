@@ -1700,8 +1700,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 9IJA		A1A	167312460.0	Allosteric agonist	TAS2R14 agonist-2	Small molecule	2024-07-24	
 9IJD		CAU	13023332.0	Inverse agonist	Carazolol	Small molecule	2024-08-21	
 9IJE		ALE	5816.0	Agonist	Epinephrine	Small molecule	2024-08-21	
-9IMA		pep	None	Antagonist	Talquetamab Fab heavy chain	Protein	2024-09-11	
-9IMA		pep	None	Antagonist	Talquetamab Fab light chain	Protein	2024-09-11	
+9IMA	C	pep	None	Antagonist	Talquetamab Fab heavy chain	Protein	2024-09-11	
+9IMA	D	pep	None	Antagonist	Talquetamab Fab light chain	Protein	2024-09-11	
 8IKG		Q2B	703205.0	Agonist	3-[(1S)-1-(furan-2-yl)-2-nitro-ethyl]-2-phenyl-1H-indole	Small molecule	2024-06-05	
 8IKH		Q2L	171393541.0	Agonist	3-[(1R)-1-(2-methoxyphenyl)-2-nitro-ethyl]-2-phenyl-1H-indole	Small molecule	2024-06-05	
 8IRJ		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-09-18	
