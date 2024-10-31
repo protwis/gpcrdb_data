@@ -1572,7 +1572,7 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date
 8ZSJ	taar1_human	cryo-EM	2.8	Active	R		2024-07-24
 8ZSP	taar1_human	cryo-EM	3.14	Active	R		2024-07-24
 8ZSS	taar1_human	cryo-EM	3.07	Active	R		2024-07-24
-8ZSV	taar1_human	cryo-EM	2.96	Active	R		2024-07-24
+8ZSV	taar1_mouse	cryo-EM	2.96	Active	R		2024-07-24
 9ASB	casr_human	cryo-EM	3.4	Active	R		2024-04-17
 9AUC	calcr_human	cryo-EM	2.4	Active	R		2024-04-24
 9AVG	casr_human	cryo-EM	3.6	Active	R		2024-04-17
