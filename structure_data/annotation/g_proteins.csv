@@ -767,8 +767,8 @@ PDB	Alpha_UniProt	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_Ch
 8JXW	gnai1_human	B	gbb1_human	C	gbg2_human	D	
 8JXX	gnai1_human	B	gbb1_human	C	gbg2_human	D	
 8K8J	gnas2_human	A	gbb1_human	B	gbg2_human	G	
-8K9K	gnai3_macaque	A	gbb1_human	B	gbg2_human	G	
-8K9L	gnai3_macaque	A	gbb1_human	B	gbg2_human	G	
+8K9K	f6vl43_macmu	A	gbb1_human	B	gbg2_human	G	
+8K9L	f6vl43_macmu	A	gbb1_human	B	gbg2_human	G	
 8KFX	gnai1_human	A	gbb1_human	B	gbg2_human	C	
 8KFY	gnai1_human	A	gbb1_human	B	gbg2_human	C	
 8KFZ	gnai1_human	A	gbb1_human	B	gbg2_human	C	
