@@ -1726,3 +1726,44 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 8JHC		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-01-17	
 8JHI		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-01-17	
 8IKL		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-01-24	
+8UXY		XUQ	16666.0	Agonist	l-Menthol	Small molecule	2024-10-30	
+8UY0		OWU	16724.0	Agonist	(5S)-2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-one	Small molecule	2024-10-30	
+8UYQ		XVT	6999028.0	Agonist	(2R)-2-methyl-1,3-thiazolidine	Small molecule	2024-10-30	
+8VHF		8VP	25025505.0	Agonist	4-((4-(1H-tetrazol-1-yl)phenoxy)methyl)-2-(1-(5-ethylpyrimidin-2-yl)piperidin-4-yl)thiazole	Small molecule	2024-10-30	
+8WGB		W9R	888023.0	Agonist	(1R,2S)-2-[[3,5-bis(chloranyl)phenyl]carbamoyl]cyclohexane-1-carboxylic acid	Small molecule	2024-10-30	
+8WVX	C	pep		Agonist	Norrin	Peptide	2024-10-30	
+8WVY	E	pep		Agonist	Norrin	Peptide	2024-10-30	
+8XGO	F	pep		Agonist	TAK448	Peptide	2024-10-30	
+8XGS	F	pep	71306396.0	Agonist	Metastin	Peptide	2024-10-30	
+8XGU	E	pep		Agonist	TAK448	Peptide	2024-10-30	
+8XWP	L	pep	44284481.0	Agonist	Endothelin-1	Peptide	2024-10-02	
+8XWQ	L	pep	44284481.0	Agonist	Endothelin-1	Peptide	2024-10-02	
+8YN2		HSM	774.0	Agonist	Histamine	Small molecule	2024-10-09	
+8YN3		HSM	774.0	Agonist	Histamine	Small molecule	2024-10-09	
+8YN4		HSM	774.0	Agonist	Histamine	Small molecule	2024-03-09	
+8YN5		HSM	774.0	Agonist	Histamine	Small molecule	2024-10-09	
+8YN6		ITF	3692.0	Agonist	Imetit	Small molecule	2024-10-09	
+8YN7		A1LYA	134746894.0	Agonist	[(2R)-3-[(E)-hexadec-9-enoyl]oxy-2-octadecanoyloxypropyl] 2-(trimethylazaniumyl)ethyl phosphate	Lipid	2024-10-16	
+8YN8		A1LY3	6421522.0	Agonist	Proxyfan 	Small molecule	2024-10-16	
+8YN9		HSM	774.0	Agonist	Histamine	Small molecule	2024-10-09	
+8YNA		A1LY4	3035842.0	Agonist	Immepip	Small molecule	2024-10-09	
+8ZRT	L	pep	44284481.0	Agonist	Endothelin-1	Peptide	2024-10-02	
+9C1P		A1ATP	172011841.0	PAM	(5R)-N-[2-(1,2-benzothiazol-3-yl)ethyl]-1-methyl-2,3,4,5-tetrahydro-1H-1-benzazepin-5-amine	Small molecule	2024-10-02	
+9C2F		A1ATX	165950140.0	PAM	(1R)-1-(2H-1,3-benzodioxol-4-yl)-N-[2-(1,2-benzothiazol-3-yl)ethyl]ethan-1-amine	Small molecule	2024-10-02	
+9D3E		EBX	153466996.0	Allosteric antagonist	4-[[3,4-Dioxo-2-[[(1R)-1-(4-propan-2-ylfuran-2-yl)propyl]amino]cyclobuten-1-yl]amino]-3-hydroxy-N,N-dimethylpyridine-2-carboxamide	Small molecule	2024-09-11	
+9D3E		A1A1W		Allosteric antagonist	OXM2	Small molecule	2024-09-11	
+9EPP		A1H6M	11659594.0	Agonist	11,20-Ethanoretinal	Small molecule	2024-10-23	
+9EPQ		A1H6M	11659594.0	Agonist	11,20-Ethanoretinal	Small molecule	2024-10-23	
+9EPR		RET	5280490.0	Agonist	Retinal 	Small molecule	2024-10-30	
+9GYO		FWX	71541719.0	Agonist	P395	Small molecule	2024-10-09	
+9IQT		NIO	938.0	Agonist	Nicotinic acid	Small molecule	2024-10-02	
+9JKQ		B40	10836.0	Agonist	Methamphetamine	Small molecule	2024-10-16	
+9JR2	P	pep	481101779.0	Agonist	Parathyroid hormone 	Peptide	2024-10-16	
+9JR3	P	pep	481101779.0	Agonist	Parathyroid hormone 	Peptide	2024-10-16	
+8UXV		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-10-30	
+8WJX		ADP	6022.0	Agonist	ADP	Small molecule	2024-10-02	
+8WVU	B	pep	None	Agonist	R-spondin-1	Protein	2024-10-30	
+8WVV		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-10-30	
+8WVW		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-10-30	
+9EPO		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-10-02	
+9EW2		apo	None	Apo (no ligand)	Apo (no ligand)	None	2024-10-02	
