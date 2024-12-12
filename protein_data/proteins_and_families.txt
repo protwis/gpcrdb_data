@@ -275,6 +275,7 @@ Class A (Rhodopsin) | gpcrdba
             "gpcr","975","Short-wave-sensitive opsin 1","2960","OPN1SW","","","","","","","","","","","P03999","","","","","","","","","","","","","","","","",""
             "gpcr","975","Medium-wave-sensitive opsin 1","2962","OPN1MW","","","","","","","","","","","P04001","","","","","","","","","","","","","","","","",""
             "gpcr","975","Long-wave-sensitive opsin 1","2961","OPN1LW","","","","","","","","","","","P04000","","","","","","","","","","","","","","","","",""
+            "gpcr","","Peropsin","","RRH","","","","","","","","","","","O14718","","","","","","","","","","","","","","","","",""
     Orphan receptors
         Class A orphans
             "gpcr","16","Class A Orphans","83","GPR3","","","","Gpcr21|GPCR3|ACCA orphan receptor|adenylate cyclase constitutive activator|G protein-coupled receptor R4|Gpcr20","4484","GPR3","G protein-coupled receptor 3","1p36.1-p35","NM_005281","NP_005272","P46089","2827","628686","Gpr3","G protein-coupled receptor 3","5q36","NM_153727","NP_714949","Q8K1Q3","266769","MGI:101908","Gpr3","G-protein coupled receptor 3","4 D3","NM_008154","NP_032180","P35413","14748"
