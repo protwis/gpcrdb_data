@@ -925,3 +925,33 @@ PDB	Alpha_UniProt	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_Ch
 8K6M	gnai2_human	A	gbb1_human	B	gbg2_human	C	
 8K6N	gnai2_human	A	gbb1_human	B	gbg2_human	C	
 8K6O	gnai2_human	A	gbb1_human	B	gbg2_human	C	
+8UXV	gnas2_human	X	gbb1_human	Y	gbg2_human	Z	Mini-Gs
+8UXY	gnas2_human	X	gbb1_human	Y	gbg2_human	Z	Mini-Gs
+8UY0	gnas2_human	X	gbb1_human	Y	gbg2_human	Z	Mini-Gs
+8UYQ	gnas2_human	X	gbb1_human	Y	gbg2_human	Z	Mini-Gs
+8VHF	gnas2_human	A	gbb1_human	B	gbg2_human	C	
+8WGB	gnai3_human	C	gbb1_human	B	gbg2_human	E	
+8WJX	gnas2_human	A	gbb1_human	B	gbg2_human	G	
+8XGO	gnaq_human	E	gbb1_human	B	gbg2_human	C	
+8XGS	gnaq_human	E	gbb1_human	B	gbg2_human	C	
+8XGU	gnai1_human	C	gbb1_human	B	gbg2_human	G	
+8XWP	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8XWQ	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8YN2	gnaq_human	A	gbb1_human	B	gbg2_human	C	Mini-Gq
+8YN3	gnaq_human	A	gbb1_human	B	gbg2_human	C	Mini-Gq
+8YN4	gnaq_human	A	gbb1_human	B	gbg2_human	C	Mini-Gq
+8YN5	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8YN6	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8YN7	gnao_human	A	gbb1_human	B	gbg2_human	C	Mini-Go
+8YN8	gnao_human	A	gbb1_human	B	gbg2_human	C	Mini-Go
+8YN9	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+8YNA	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+9EPP	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+9EPQ	gnai1_human	A	gbb1_human	B	gbg2_human	G	
+9EPR	gnai1_human	A	gbb1_human	B	gbg1_bovin	G	
+9EW2	gnas2_human	A	gbb1_human	B	gbg2_human	C	
+9GYO	gnas2_human	A	gbb1_human	B	gbg2_human	G	Mini-Gs
+9IQT	gnai1_human	A	gbb1_human	B	gbg2_human	C	
+9JKQ	gnas2_human	A	gbb1_human	B	gbg2_human	C	
+9JR2	gnaq_human	A	gbb1_rat	B	gbg2_bovin	G	Mini-Gq
+9JR3	gnaq_human	A	gbb1_rat	B	gbg2_bovin	G	Mini-Gq
