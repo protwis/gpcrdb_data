@@ -1649,3 +1649,74 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date
 9JKQ	taar1_human	cryo-EM	2.66	Active	R		2024-10-16
 9JR2	pth1r_human	cryo-EM	2.8	Active	R		2024-10-16
 9JR3	pth1r_human	cryo-EM	2.8	Active	R		2024-10-16
+8JEF	hcar3_human	cryo-EM	2.96	Active	A		2024-12-18
+8JEI	hcar3_human	cryo-EM	2.73	Active	A		2024-11-20
+8K4S	mrgx4_human	cryo-EM	2.9	Active	E		2024-11-06
+8KEX	mrgx4_human	cryo-EM	3.2	Active	E		2024-11-06
+8P12	opsd_bovin	cryo-EM	3.21	Active	R		2024-11-20
+8P15	opsd_bovin	cryo-EM	5.9	Active	R		2024-11-20
+8RQL	t2r14_human	cryo-EM	3.03	Active	R		2024-11-27
+8S4D	apj_human	X-ray	2.58	Inactive	A		2024-12-04
+8T1V	gpr6_human	X-ray	2.6	Inactive	A		2024-12-04
+8T1W	gpr6_human	X-ray	3.49	Inactive	A		2024-12-04
+8P13	opsd_bovin	cryo-EM	5.2	Active	R		2024-11-20
+8TF5	gpr6_human	X-ray	2.1	Inactive	A		2024-12-04
+8TYW	gpr6_human	cryo-EM	3.43	Active	A		2024-12-04
+8UGW	aa2ar_human	X-ray	3.9	Inactive	A		2024-12-28
+8WG9	grm4_human	cryo-EM	4.46	Active	B		2024-11-27
+8WGC	grm2_human	cryo-EM	5.95	Active	D		2024-11-27
+8WGD	grm4_human	cryo-EM	4.45	Inactive	B		2024-11-27
+8WWH	mchr1_human	cryo-EM	2.84	Active	R	S1 state	2024-11-13
+8WWI	mchr1_human	cryo-EM	3.43	Active	R	S3 state	2024-11-13
+8WWJ	mchr1_human	cryo-EM	3.03	Active	R	S2 state	2024-11-13
+8WWK	mchr1_human	cryo-EM	2.61	Active	R	T1 state	2024-11-13
+8WWL	mchr1_human	cryo-EM	2.78	Active	R	T2 state	2024-11-13
+8WWM	mchr1_human	cryo-EM	2.81	Active	R	L2 state	2024-11-13
+8WWN	mchr1_human	cryo-EM	2.65	Active	R	L1 state	2024-11-13
+8X0B	grm5_human	cryo-EM	3.1	Active	A		2024-11-06
+8X0C	grm5_human	cryo-EM	3.2	Active	A		2024-11-06
+8X0D	grm5_human	cryo-EM	3.5	Active	A		2024-11-06
+8X0E	grm5_human	cryo-EM	3.4	Active	A		2024-11-06
+8X0F	grm5_human	cryo-EM	3.3	Active	A		2024-11-06
+8X0G	grm5_human	cryo-EM	3.0	Active	A		2024-11-06
+8X0H	grm5_human	cryo-EM	4.1	Active	A		2024-11-06
+8X3L	cnr2_human	cryo-EM	3.13	Active	R		2024-11-20
+8XFP	lgr4_human	cryo-EM	3.21	Active	A		2024-12-04
+8XFS	lgr4_human	cryo-EM	3.2	Active	A		2024-12-04
+8XFT	lgr4_human	cryo-EM	3.24	Active	A		2024-12-04
+8XML	ccr8_human	cryo-EM	2.58	Active	R		2025-01-01
+8XXU	pd2r2_human	cryo-EM	2.54	Active	A		2024-12-04
+8XXV	pd2r2_human	cryo-EM	2.33	Active	A		2024-12-04
+8XYD	ptafr_human	cryo-EM	2.9	Active	A		2024-11-13
+8Y45	oprd_human	cryo-EM	3.45	Active	A		2024-11-27
+8Y69	lgr4_human	cryo-EM	3.38	Active	D		2024-12-04
+8YH0	w5qed6_sheep	cryo-EM	2.86	Active	R		2024-11-06
+8YH2	w5qed6_sheep	cryo-EM	3.27	Active	R		2024-11-06
+8YH3	w5qed6_sheep	cryo-EM	3.4	Active	R		2024-11-06
+8YH5	w5qed6_sheep	cryo-EM	3.66	Active	R		2024-11-06
+8YH6	w5qed6_sheep	cryo-EM	3.62	Active	R		2024-11-06
+8YIC	s1pr1_human	cryo-EM	3.47	Active	R		2024-12-11
+8YNS	mchr1_human	cryo-EM	3.33	Inactive	R	S1 state	2024-12-18
+8YNT	mchr1_human	cryo-EM	3.43	Inactive	R	S2 state	2024-12-18
+8ZX4	gpr55_human	cryo-EM	2.85	Active	R		2024-11-13
+8ZX5	gpr55_human	cryo-EM	3.03	Active	R		2024-11-13
+9AST	xcr1_human	cryo-EM	3.07	Active	R		2024-12-11
+9B9Y	cnr1_human	cryo-EM	3.5	Inactive	R		2024-11-20
+9B9Z	cnr1_human	cryo-EM	3.3	Inactive	R		2024-11-20
+9BA0	cnr1_human	cryo-EM	3.13	Inactive	R		2024-11-20
+9CHU	adrb2_human	cryo-EM	3.49	Inactive	A		2024-11-13
+9CHV	adrb2_human	cryo-EM	3.95	Inactive	A		2024-11-13
+9CHX	adrb2_human	cryo-EM	3.5	Inactive	A		2024-11-13
+9DQH	mrgrd_human	cryo-EM	2.92	Active	A		2024-12-11
+9DQJ	mrgrd_human	cryo-EM	2.9	Active	A		2024-12-11
+9IVG	glp1r_human	cryo-EM	3.0	Active	R		2024-11-27
+9IVM	glp1r_human	cryo-EM	3.22	Active	R		2024-11-13
+9IY8	gpr55_human	cryo-EM	3.01	Active	R		2025-01-01
+9IYA	gpr55_human	cryo-EM	3.04	Inactive	A		2025-01-01
+9IYB	pd2r2_human	cryo-EM	2.82	Active	A		2024-12-04
+9IZF	lpar1_human	cryo-EM	3.14	Active	R		2025-01-01
+9IZG	lpar1_human	cryo-EM	3.04	Active	R		2025-01-01
+9IZH	lpar1_human	cryo-EM	3.04	Active	R		2025-01-01
+9J5V	lpar1_human	cryo-EM	2.86	Active	R		2024-11-27
+9K1C	ffar1_human	cryo-EM	3.2	Active	R		2024-12-11
+9K1D	ffar2_human	cryo-EM	3.34	Active	R		2024-12-11
