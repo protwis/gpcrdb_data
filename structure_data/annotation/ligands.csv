@@ -1817,8 +1817,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 8YH3		6MD		102175	Agonist	N6-Methyladenosine	Small molecule	2024-11-06	
 8YH5		ZIR	24405.0	Agonist	Riboprine	Small molecule	2024-11-06	
 8YH6		XS0	3035850.0	Agonist	Chloro-IB-MECA	Small molecule	2024-11-06	
-8YIC		A1LYQ	53312127.0	Agonist	SAR247799
-SAR247799	Small molecule	2024-12-11	
+8YIC		A1LYQ	53312127.0	Agonist	SAR247799	Small molecule	2024-12-11	
 8YNS		A1D6T	16756754.0	Antagonist	SNAP-94847	Small molecule	2024-12-18	
 8YNT		A1D6T	16756754.0	Antagonist	SNAP-94847	Small molecule	2024-12-18	
 8ZX4		A1D9E	None	Agonist	LPI	Small molecule	2024-11-13	
