@@ -1810,7 +1810,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 8XXU		A1D5Q	None	PAM	[(2~{R})-1-hexadecanoyloxy-3-[oxidanyl-[(2~{S},3~{R},5~{R},6~{S})-2,3,4,5,6-pentakis(oxidanyl)cyclohexyl]oxy-phosphoryl]oxy-propan-2-yl] (~{Z})-octadec-9-enoate	Lipid	2024-12-04	
 8XXV		A1D5Q	None	PAM	[(2~{R})-1-hexadecanoyloxy-3-[oxidanyl-[(2~{S},3~{R},5~{R},6~{S})-2,3,4,5,6-pentakis(oxidanyl)cyclohexyl]oxy-phosphoryl]oxy-propan-2-yl] (~{Z})-octadec-9-enoate	Lipid	2024-12-04	
 8XYD		PFS	108156.0	Agonist	Platelet activating factor	Lipid	2024-11-13	
-8Y45		A1LXY		11417954	Agonist	N,N-diethyl-4-(5-hydroxyspiro(2H-1-benzopyran-2,4'-piperidin)-4-yl)-benzamide	Small molecule	2024-11-27	
+8Y45		A1LXY	11417954.0	Agonist	N,N-diethyl-4-(5-hydroxyspiro(2H-1-benzopyran-2,4'-piperidin)-4-yl)-benzamide	Small molecule	2024-11-27	
 8Y69	J	pep	None	Agonist	R-spondin-2	Protein	2024-12-04	
 8YH0		NEC	448222.0	Agonist	NECA	Small molecule	2024-11-06	
 8YH2		ADN	60961.0	Agonist	Adenosine	Small molecule	2024-11-06	
