@@ -2,6 +2,48 @@ N-term terminus 0 "N-terminus" GPCR
 D1S1 sheet 1 "Class D1 sheet 1" GPCR
 D1T1 turn 1 "Class D1 turn 1" GPCR
 D1S2 sheet 1 "Class D1 sheet 2" GPCR
+A.H1 helix 1 A.H1 GPCR GAIN
+A.h1h2 loop 0 A.h1h2 GPCR GAIN
+A.H2 helix 1 A.H2 GPCR GAIN
+A.h2h3 loop 0 A.h2h3 GPCR GAIN
+A.H3 helix 1 A.H3 GPCR GAIN
+A.h3h4 loop 0 A.h3h4 GPCR GAIN
+A.H4 helix 1 A.H4 GPCR GAIN
+A.h4h5 loop 0 A.h4h5 GPCR GAIN
+A.H5 helix 1 A.H5 GPCR GAIN
+A.h5h6 loop 0 A.h5h6 GPCR GAIN
+A.H6 helix 1 A.H6 GPCR GAIN
+A.h6s1 loop 0 A.h6s1 GPCR GAIN
+B.S1 sheet 1 B.S1 GPCR GAIN
+B.s1s2 loop 0 B.s1s2 GPCR GAIN
+B.S2 sheet 1 B.S2 GPCR GAIN
+B.s2s3 loop 0 B.s2s3 GPCR GAIN
+B.S3 sheet 1 B.S3 GPCR GAIN
+B.s3s4 loop 0 B.s3s4 GPCR GAIN
+B.S4 sheet 1 B.S4 GPCR GAIN
+B.s4s5 loop 0 B.s4s5 GPCR GAIN
+B.S5 sheet 1 B.S5 GPCR GAIN
+B.s5s6 loop 0 B.s5s6 GPCR GAIN
+B.S6 sheet 1 B.S6 GPCR GAIN
+B.s6s7 loop 0 B.s6s7 GPCR GAIN
+B.S7 sheet 1 B.S7 GPCR GAIN
+B.s7s8 loop 0 B.s7s8 GPCR GAIN
+B.S8 sheet 1 B.S8 GPCR GAIN
+B.s8s9 loop 0 B.s8s9 GPCR GAIN
+B.S9 sheet 1 B.S9 GPCR GAIN
+B.s9s10 loop 0 B.s9s10 GPCR GAIN
+B.S10 sheet 1 B.S10 GPCR GAIN
+B.s10s11 loop 0 B.s10s11 GPCR GAIN
+B.S11 sheet 1 B.S11 GPCR GAIN
+B.s11s12 loop 0 B.s11s12 GPCR GAIN
+B.S12 sheet 1 B.S12 GPCR GAIN
+B.s12s13 loop 0 B.s12s13 GPCR GAIN
+B.S13 sheet 1 B.S13 GPCR GAIN
+B.s13gps loop 0 B.s13gps GPCR GAIN
+B.GPS sheet 1 B.GPS GPCR GAIN
+B.gpss14 loop 0 B.gpss14 GPCR GAIN
+B.S14 sheet 1 B.S14 GPCR GAIN
+B.s14tm1 loop 0 B.s14tm1 GPCR GAIN
 TM1 helix 1 "Transmembrane helix 1" GPCR
 ICL1 loop 0 "Intracellular loop 1" GPCR
 TM2 helix 1 "Transmembrane helix 2" GPCR

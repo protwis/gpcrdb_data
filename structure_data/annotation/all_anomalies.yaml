@@ -17179,3 +17179,17 @@ q76sf8_hhv8:
   UniProt: q76sf8_hhv8
   Xtal Templ: q76sf8_hhv8
   Xtalised: NoXtal
+opsx_human:
+  2x551: 2x551
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: opsx_human
+  Xtal Templ: opsx_human
+  Xtalised: NoXtal
+w5qed6_sheep:
+  2x551: 2x551
+  5x461: 5x461
+  7x44: 7x44
+  UniProt: w5qed6_sheep
+  Xtal Templ: w5qed6_sheep
+  Xtalised: NoXtal
