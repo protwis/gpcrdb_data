@@ -1,0 +1,36 @@
+ArrestinDb:
+-   DOI: ''
+    Journal: ''
+    Order: 1
+    Title: Manuscript
+    Year: ''
+BiasedSignalingAtlas:
+-   DOI: 10.1038/S41589-023-01292-8
+    Journal: Nature Chemical Biology
+    Order: 1
+    Title: A community Biased Signaling Atlas
+    Year: 2023.0
+GPCRdb:
+-   DOI: 10.1093/NAR/GKAE1065
+    Journal: NAR
+    Order: 1
+    Title: 'GPCRdb in 2025: adding odorant receptors, data mapper, structure similarity
+        search and models of physiological ligand complexes'
+    Year: 2025.0
+GproteinDb:
+-   DOI: 10.1093/NAR/GKAD1089
+    Journal: NAR
+    Order: 1
+    Title: 'GproteinDb in 2024: new G protein-GPCR couplings, AlphaFold2-multimer
+        models and interface interactions'
+    Year: 2024.0
+-   DOI: 10.1093/NAR/GKAB852
+    Journal: NAR
+    Order: 2
+    Title: The G protein database, GproteinDb
+    Year: 2022.0
+-   DOI: 10.7554/ELIFE.74107
+    Journal: eLife
+    Order: 3
+    Title: Common coupling map advances GPCR-G protein selectivity
+    Year: 2022.0
