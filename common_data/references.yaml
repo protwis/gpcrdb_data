@@ -1508,7 +1508,7 @@ https://gpcrdb.org/protein/*:
         Year: ''
     Section: Proteins
     Video: ''
-https://gpcrdb.org/familiy/*:
+https://gpcrdb.org/family/*:
     Default: GPCRdb
     Menu: GPCRdb
     Menu Section: ''
