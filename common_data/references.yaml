@@ -1,851 +1,2695 @@
-https://arrestindb.org/signprot/arrestin:
-    DOI: ''
+https://arrestindb.org/*:
     Default: ArrestinDb
-    Journal: TBD
-    Menu: ArrestinDb
-    Page: Arrestin page
-    Section: Proteins
-    Title: Manuscript
+    Menu: ArrestinDB
+    Menu Section: ''
+    Menu subsection: ''
+    Page: ArrestinDB
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: ''
     Video: ''
-    Year: 2022.0
-https://arrestindb.org/alignment/arrestinselection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: ArrestinDb
-    Page: Sequence alignments
-    Section: Sequences
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://arrestindb.org/residue/residuetable_arrestin:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: ArrestinDb
-    Page: Generic residue number tables
-    Section: Sequences
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://arrestindb.org/signprot/arrestincouplings:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: ArrestinDb
-    Page: Arrestin couplings
-    Section: Arrestin coupling
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://arrestindb.org/signprot/arrestin_venn:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: ArrestinDb
-    Page: Arrestin selectivity Venn
-    Section: Arrestin coupling
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://arrestindb.org/signprot/arrestin_tree:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: ArrestinDb
-    Page: Arrestin selectivity tree
-    Section: Arrestin coupling
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://arrestindb.org/structure/arrestin_statistics:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: ArrestinDb
-    Page: Structure statistics
-    Section: Structures
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://arrestindb.org/structure/arrestin_structure_browser:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: ArrestinDb
-    Page: Structures
-    Section: Structures
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://arrestindb.org/signprot/arr_matrix:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: ArrestinDb
-    Page: Interface interactions & profiling
-    Section: Structure Comparison
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/bias_guidelines:
-    DOI: 10.1111/BPH.15811
-    Default: 0
-    Journal: BJP
-    Menu: Biased Signaling Atlas
-    Page: Community guidelines paper
-    Section: Guidelines
-    Title: 'Community guidelines for GPCR ligand bias: IUPHAR review 32'
-    Video: ''
-    Year: 2022.0
-https://biasedsignalingatlas.org/biased_signalling/reference_selection:
-    DOI: ''
+https://biasedsignalingatlas.org/*:
     Default: BiasedSignalingAtlas
-    Journal: TBD
     Menu: Biased Signaling Atlas
-    Page: Reference ligand selection
-    Section: Guidelines
-    Title: coming publication
+    Menu Section: ''
+    Menu subsection: ''
+    Page: Biased Signaling Atlas
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: ''
     Video: ''
-    Year: 2022.0
-https://biasedsignalingatlas.org/biased_signalling/bias_coverage:
-    DOI: ''
-    Default: 0
-    Journal: ''
+https://biasedsignalingatlas.org/biased_signalling/*:
+    Default: BiasedSignalingAtlas
     Menu: Biased Signaling Atlas
-    Page: Biased ligand coverage
-    Section: Biased ligands (transducer family)
-    Title: coming publication
+    Menu Section: ''
+    Menu subsection: ''
+    Page: Biased Signaling Atlas
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: ''
     Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/biasedbrowser:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Biased ligands (\u2206\u2206log(Emax/EC50) & \u2206\u2206log(Tau/KA)"
-    Section: Biased ligands (transducer family)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/emax_rank_order_selection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Ligand bias rank orders (\u0394\u0394log(Emax/EC50))"
-    Section: Biased ligands (transducer family)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/tau_rank_order_selection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Ligand bias rank orders (\u0394\u0394log(Tau/KA))"
-    Section: Biased ligands (transducer family)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/emax_path_profiles_selection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Ligand pathway profiles (\u0394log(Emax/EC50))"
-    Section: Biased ligands (transducer family)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/tau_path_profiles_selection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Ligand pathway profiles (\u0394log(Tau/KA))"
-    Section: Biased ligands (transducer family)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/subtype_coverage:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: Biased ligand coverage
-    Section: Biased ligands (transducer subtype)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/biasedsubtypesbrowser:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Biased ligands (subtype \u2206\u2206log(Emax/EC50) & \u2206\u2206log(Tau/KA)"
-    Section: Biased ligands (transducer subtype)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/subtype_emax_rank_order_selection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Ligand bias rank orders (\u0394\u0394log(Emax/EC50))"
-    Section: Biased ligands (transducer subtype)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/subtype_tau_rank_order_selection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Ligand bias rank orders (\u0394\u0394log(Tau/KA))"
-    Section: Biased ligands (transducer subtype)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/subtype_emax_path_profiles_selection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Ligand pathway profiles (\u0394log(Emax/EC50))"
-    Section: Biased ligands (transducer subtype)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/subtype_tau_path_profiles_selection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Ligand pathway profiles (\u0394log(Tau/KA))"
-    Section: Biased ligands (transducer subtype)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/path_preference_coverage:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: Pathway-preffering ligand coverage
-    Section: Pathway-preferring ligands (transducer family)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/pathwaypreferencebrowser:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Pathway-preferring ligands (pathway \u2206Log/(Emax/EC50)"
-    Section: Pathway-preferring ligands (transducer family)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/path_preference_emax_rankorder_selection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: "Ligand pathway preference rank orders (\u0394log(Emax/EC50))"
-    Section: Pathway-preferring ligands (transducer family)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/path_preference_emax_path_profiles_selection:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: Ligand pathway profiles (Log(Emax/EC50))
-    Section: Pathway-preferring ligands (transducer family)
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://biasedsignalingatlas.org/biased_signalling/biasedpathways:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Biased Signaling Atlas
-    Page: Pathway effects
-    Section: Pathways
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://gpcrdb.org/endogenousbrowser:
-    DOI: ''
-    Default: 0
-    Journal: ''
-    Menu: Drugs & Ligands
-    Page: Endogenous ligands (GtP)
-    Section: Endogenous ligands
-    Title: coming publication
-    Video: ''
-    Year: ''
-https://gpcrdb.org/drugs/drugbrowser:
-    DOI: 10.1038/NRD.2017.178
-    Default: 0
-    Journal: NRDD
-    Menu: Drugs & Ligands
-    Page: Drug, targets & indications
-    Section: Drugs & agents in trial
-    Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
-    Video: ''
-    Year: 2017.0
-https://gpcrdb.org/drugs/drugmapping:
-    DOI: 10.1038/NRD.2017.178
-    Default: 0
-    Journal: NRDD
-    Menu: Drugs & Ligands
-    Page: Drug target tree
-    Section: Drugs & agents in trial
-    Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
-    Video: ''
-    Year: 2017.0
-https://gpcrdb.org/drugs/drugstatistics:
-    DOI: 10.1038/NRD.2017.178
-    Default: 0
-    Journal: NRDD
-    Menu: Drugs & Ligands
-    Page: Drug statistics
-    Section: Drugs & agents in trial
-    Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
-    Video: ''
-    Year: 2017.0
-https://gpcrdb.org/mutations/statistics:
-    DOI: 10.1111/BPH.13509
-    Default: 0
-    Journal: BJP
-    Menu: Drugs & Ligands
-    Page: Mutation coverage
-    Section: Ligand site mutations
-    Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
-    Video: ''
-    Year: 2016.0
-https://gpcrdb.org/mutations/:
-    DOI: 10.1016/J.COPH.2016.07.003
-    Default: 0
-    Journal: COPHAR
-    Menu: Drugs & Ligands
-    Page: Mutations
-    Section: Ligand site mutations
-    Title: Integrating structural and mutagenesis data to elucidate GPCR ligand binding
-    Video: http://files.gpcrdb.org/video/mutations1.mp4
-    Year: 2018.0
-https://gpcrdb.org/mutations/design:
-    DOI: 10.1111/BPH.13509
-    Default: 0
-    Journal: BJP
-    Menu: Drugs & Ligands
-    Page: By receptor name
-    Section: Ligand site mutations
-    Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
-    Video: ''
-    Year: 2016.0
-https://gpcrdb.org/mutations/designpdb:
-    DOI: 10.1111/BPH.13509
-    Default: 0
-    Journal: BJP
-    Menu: Drugs & Ligands
-    Page: By PDB id
-    Section: Ligand site mutations
-    Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
-    Video: ''
-    Year: 2016.0
-https://docs.gpcrdb.org/mutations.html#mutation-data-submission:
-    DOI: 10.1016/J.COPH.2016.07.003
-    Default: 0
-    Journal: COPHAR
-    Menu: Drugs & Ligands
-    Page: Mutation data submission
-    Section: Ligand site mutations
-    Title: Integrating structural and mutagenesis data to elucidate GPCR ligand binding
-    Video: ''
-    Year: 2019.0
-https://gpcrdb.org/interaction/:
-    DOI: 10.1016/J.COPH.2016.07.003
-    Default: 0
-    Journal: COPHAR
-    Menu: Drugs & Ligands
-    Page: GPCR-ligand interactions
-    Section: Ligand sites
-    Title: Integrating structural and mutagenesis data to elucidate GPCR ligand binding
-    Video: http://files.gpcrdb.org/video/interactions1.mp4
-    Year: 2020.0
-https://gpcrdb.org/sitesearch/targetselection:
-    DOI: 10.1093/NAR/GKV1178
-    Default: 0
-    Journal: NAR
-    Menu: GPCRdb
-    Page: Site search (by seq. motif)
-    Section: Sequence Comparison
-    Title: 'GPCRdb: an information system for G protein-coupled receptors'
-    Video: ''
-    Year: 2016.0
-https://gpcrdb.org/sitesearch/targetselectionpdb:
-    DOI: 10.1093/NAR/GKV1178
-    Default: 0
-    Journal: NAR
-    Menu: Drugs & Ligands
-    Page: Site search (by ligand complex)
-    Section: Ligand sites
-    Title: 'GPCRdb: an information system for G protein-coupled receptors'
-    Video: http://files.gpcrdb.org/video/interactions2.mp4
-    Year: 2016.0
-https://gpcrdb.org/ligand/statistics:
-    DOI: 10.1093/NAR/GKX1109
-    Default: 0
-    Journal: NAR
-    Menu: Drugs & Ligands
-    Page: Ligand coverage
-    Section: Ligands
-    Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
-    Video: ''
-    Year: 2018.0
-https://gpcrdb.org/ligand/:
-    DOI: 10.1093/NAR/GKX1109
-    Default: 0
-    Journal: NAR
-    Menu: Drugs & Ligands
-    Page: Ligands (ChEMBL)
-    Section: Ligands
-    Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
-    Video: ''
-    Year: 2018.0
-http://files.gpcrdb.org/GPCR-Gprotein_Mutations.xlsx:
-    DOI: 10.1038/NATURE22070
-    Default: 0
-    Journal: Nature
-    Menu: GproteinDb
-    Page: Interface mutations & chimeras
-    Section: Determinants & Mutations
-    Title: "Selectivity determinants of GPCR\u2013G-protein binding"
-    Video: ''
-    Year: 2017.0
-https://gproteindb.org/mutations/gprot_coupling:
-    DOI: 10.1093/NAR/GKAB852
-    Default: GproteinDb
-    Journal: NAR
-    Menu: GproteinDb
-    Page: Coupling determinant mutation design
-    Section: Determinants & Mutations
-    Title: The G protein database, GproteinDb
-    Video: ''
-    Year: 2021.0
-https://gproteindb.org/signprot/couplings:
-    DOI: 10.1093/NAR/GKAB852
-    Default: 0
-    Journal: NAR
-    Menu: GproteinDb
-    Page: G protein couplings
-    Section: G protein coupling
-    Title: The G protein database, GproteinDb
-    Video: ''
-    Year: 2021.0
-https://gproteindb.org/signprot/statistics_venn:
-    DOI: 10.1093/NAR/GKAB852
-    Default: 0
-    Journal: NAR
-    Menu: GproteinDb
-    Page: G protein selectivity Venn
-    Section: G protein coupling
-    Title: The G protein database, GproteinDb
-    Video: ''
-    Year: 2021.0
-https://gproteindb.org/signprot/statistics_tree:
-    DOI: 10.1093/NAR/GKAB852
-    Default: 0
-    Journal: NAR
-    Menu: GproteinDb
-    Page: G protein selectivity tree
-    Section: G protein coupling
-    Title: The G protein database, GproteinDb
-    Video: ''
-    Year: 2021.0
-https://gproteindb.org/signprot/gprotein:
-    DOI: 10.1038/NATURE22070
-    Default: 0
-    Journal: Nature
-    Menu: GproteinDb
-    Page: G protein page
+https://arrestindb.org/signprot/arrestin:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: ''
+    Menu subsection: ''
+    Page: Arrestin page
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Proteins
-    Title: "Selectivity determinants of GPCR\u2013G-protein binding"
     Video: ''
-    Year: 2017.0
-https://gproteindb.org/alignment/gproteinselection:
-    DOI: 10.1038/NATURE22070
-    Default: 0
-    Journal: Nature
-    Menu: GproteinDb
-    Page: Sequence alignments
-    Section: Sequences
-    Title: "Selectivity determinants of GPCR\u2013G-protein binding"
-    Video: ''
-    Year: 2017.0
-https://gproteindb.org/residue/residuetable_gprot:
-    DOI: 10.1093/NAR/GKAB852
-    Default: 0
-    Journal: NAR
-    Menu: GproteinDb
-    Page: Generic residue number tables
-    Section: Sequences
-    Title: The G protein database, GproteinDb
-    Video: ''
-    Year: 2021.0
-https://gproteindb.org/signprot/matrix:
-    DOI: 10.1093/NAR/GKAB852
-    Default: 0
-    Journal: NAR
-    Menu: GproteinDb
-    Page: Interface interactions & profiling
-    Section: Structure Comparison
-    Title: The G protein database, GproteinDb
-    Video: ''
-    Year: 2021.0
-https://gproteindb.org/structure/g_protein_structure_browser:
-    DOI: 10.1093/NAR/GKAB852
-    Default: 0
-    Journal: NAR
-    Menu: GproteinDb
-    Page: Structures
-    Section: Structures
-    Title: The G protein database, GproteinDb
-    Video: ''
-    Year: 2021.0
-https://gproteindb.org/structure/complex_models:
-    DOI: 10.1093/NAR/GKAB852
-    Default: 0
-    Journal: NAR
-    Menu: GproteinDb
-    Page: Structure models
-    Section: Structures
-    Title: The G protein database, GproteinDb
-    Video: ''
-    Year: 2021.0
-https://gproteindb.org/structure/gprot_statistics:
-    DOI: 10.1093/NAR/GKAB852
-    Default: 0
-    Journal: NAR
-    Menu: GproteinDb
-    Page: Structure statistics
-    Section: Structures
-    Title: The G protein database, GproteinDb
-    Video: ''
-    Year: 2021.0
-https://gpcrdb.org/protein/ste2_yeast/:
-    DOI: 10.1038/S41586-020-2994-1
-    Default: 0
-    Journal: Nature
-    Menu: GPCRdb
-    Page: Class D1 - STE2
-    Section: Class D1
-    Title: Structure of the class D GPCR Ste2 dimer coupled to two G proteins
-    Video: ''
-    Year: 2020.0
-https://gpcrdb.org/protein/:
-    DOI: 10.1093/NAR/GKV1178
-    Default: 0
-    Journal: NAR
-    Menu: GPCRdb
-    Page: Receptor page
+https://arrestindb.org/signprot/*:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: ''
+    Menu subsection: ''
+    Page: Arrestin page
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Proteins
-    Title: 'GPCRdb: an information system for G protein-coupled receptors'
-    Video: http://files.gpcrdb.org/video/receptors1.mp4
-    Year: 2016.0
-https://gpcrdb.org/seqsign/:
-    DOI: 10.1111/BPH.13509
-    Default: 0
-    Journal: BJP
-    Menu: GPCRdb
-    Page: Sequence signature tool
-    Section: Determinants & Mutations
-    Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
     Video: ''
-    Year: 2016.0
-https://gpcrdb.org/mutations/state_stabilizing:
-    DOI: 10.1111/BPH.13509
-    Default: 0
-    Journal: BJP
-    Menu: GPCRdb
-    Page: State-affecting mutation design
-    Section: Determinants & Mutations
-    Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
+https://arrestindb.org/signprot/arrestincouplings:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: Couplings
+    Menu subsection: ''
+    Page: (Arrestin) Couplings
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Arrestin coupling
     Video: ''
-    Year: 2016.0
-https://gpcrdb.org/similaritysearch/referenceselection:
-    DOI: 10.1093/NAR/GKV1178
-    Default: 0
-    Journal: NAR
-    Menu: GPCRdb
-    Page: BLAST (GPCRdb alignment)
-    Section: Sequence Comparison
-    Title: 'GPCRDB: an information system for G protein-coupled receptors'
-    Video: http://files.gpcrdb.org/video/sequences2.mp4
-    Year: 2014.0
-https://gpcrdb.org/alignment/blastsearch:
-    DOI: 10.1111/BPH.13509
-    Default: 0
-    Journal: BJP
-    Menu: GPCRdb
-    Page: BLAST (non-GPCRdb query)
-    Section: Sequence Comparison
-    Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
+https://arrestindb.org/signprot/arrestin_tree:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: Coupling analysis
+    Menu subsection: ''
+    Page: Arrestin selectivity (tree)
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Arrestin coupling
     Video: ''
-    Year: 2016.0
-https://gpcrdb.org/phylogenetic_trees/targetselection:
-    DOI: 10.1093/NAR/GKV1178
-    Default: 0
-    Journal: NAR
-    Menu: GPCRdb
-    Page: Phylogenetic trees
-    Section: Sequence Comparison
-    Title: 'GPCRdb: an information system for G protein-coupled receptors'
+https://arrestindb.org/signprot/arrestin_venn:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: Coupling analysis
+    Menu subsection: ''
+    Page: Arrestin selectivity (Venn)
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Arrestin coupling
     Video: ''
-    Year: 2016.0
-https://gpcrdb.org/similaritymatrix/targetselection:
-    DOI: 10.1111/BPH.13509
-    Default: 0
-    Journal: BJP
-    Menu: GPCRdb
-    Page: Similarity matrix (all-to-all)
-    Section: Sequence Comparison
-    Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
-    Video: ''
-    Year: 2016.0
-https://gpcrdb.org/alignment/targetselection:
-    DOI: 10.1093/NAR/GKV1178
-    Default: 0
-    Journal: NAR
-    Menu: GPCRdb
+https://arrestindb.org/alignment/arrestinselection:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: Sequences
+    Menu subsection: ''
     Page: Sequence alignments
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Sequences
-    Title: 'GPCRdb: an information system for G protein-coupled receptors'
-    Video: http://files.gpcrdb.org/video/sequences1.mp4
-    Year: 2016.0
-https://gpcrdb.org/residue/residuetable:
-    DOI: 10.1093/NAR/GKV1178
-    Default: 0
-    Journal: NAR
-    Menu: GPCRdb
+    Video: ''
+https://arrestindb.org/alignment/segmentselectionarrestin:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Sequence alignments
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://arrestindb.org/alignment/render/*:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Sequence alignments
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://arrestindb.org/residue/residuetable_arrestin:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: Sequences
+    Menu subsection: ''
     Page: Generic residue number tables
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Sequences
-    Title: 'GPCRdb: an information system for G protein-coupled receptors'
     Video: ''
-    Year: 2016.0
-https://gpcrdb.org/protein/isoforms:
-    DOI: 10.1038/S41586-020-2888-2
-    Default: 0
-    Journal: Nature
-    Menu: GPCRdb
-    Page: Isoforms
+https://arrestindb.org/residue/residuetabledisplay:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Generic residue number tables
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Sequences
-    Title: Combinatorial expression of GPCR isoforms affects signalling and drug responses
     Video: ''
-    Year: 2020.0
-https://gpcrdb.org/mutational_landscape/statistics:
-    DOI: 10.1016/J.CELL.2017.11.033
-    Default: 0
-    Journal: Cell
-    Menu: GPCRdb
-    Page: Variation coverage
-    Section: Sequences
-    Title: Pharmacogenomics of GPCR Drug Targets
-    Video: ''
-    Year: 2018.0
-https://gpcrdb.org/mutational_landscape/:
-    DOI: 10.1016/J.CELL.2017.11.033
-    Default: 0
-    Journal: Cell
-    Menu: GPCRdb
-    Page: Receptor variant browser
-    Section: Sequences
-    Title: Pharmacogenomics of GPCR Drug Targets
-    Video: ''
-    Year: 2018.0
-https://gpcrdb.org/mutational_landscape/economicburden:
-    DOI: 10.1016/J.CELL.2017.11.033
-    Default: 0
-    Journal: Cell
-    Menu: GPCRdb
-    Page: Estimated economic burden
-    Section: Sequences
-    Title: Pharmacogenomics of GPCR Drug Targets
-    Video: ''
-    Year: 2018.0
-https://gpcrdb.org/structure_comparison/comparative_analysis:
-    DOI: 10.1038/S41594-021-00675-6
-    Default: 0
-    Journal: Nature Structural & Molecular Biology
-    Menu: GPCRdb
-    Page: Structure comparison tool
-    Section: Structure Comparison
-    Title: An online GPCR structure analysis platform
-    Video: https://www.youtube.com/watch?v=X8j_xpryZ4U&start=4880
-    Year: 2021.0
-https://gpcrdb.org/structure_comparison/structure_clustering:
-    DOI: 10.1038/S41594-021-00675-6
-    Default: 0
-    Journal: Nature Structural & Molecular Biology
-    Menu: GPCRdb
-    Page: Structure similarity trees
-    Section: Structure Comparison
-    Title: An online GPCR structure analysis platform
-    Video: https://www.youtube.com/watch?v=X8j_xpryZ4U&start=4490
-    Year: 2021.0
-https://gpcrdb.org/structure/statistics:
-    DOI: 10.1111/BPH.13509
-    Default: 0
-    Journal: BJP
-    Menu: GPCRdb
+https://arrestindb.org/structure/arrestin_statistics:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: Structures
+    Menu subsection: ''
     Page: Structure coverage
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structures
-    Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
-    Video: http://files.gpcrdb.org/video/structures1.mp4
-    Year: 2016.0
-https://gpcrdb.org/structure/:
-    DOI: 10.1093/NAR/GKAA1080
-    Default: GPCRdb
-    Journal: NAR
-    Menu: GPCRdb
+    Video: ''
+https://arrestindb.org/structure/arrestin_structure_browser:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: Structures
+    Menu subsection: ''
     Page: Structures
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structures
-    Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
     Video: ''
-    Year: 2020.0
-https://gpcrdb.org/structure/homology_models:
-    DOI: 10.1093/NAR/GKX1109
-    Default: 0
-    Journal: NAR
+https://arrestindb.org/signprot/arr_matrix:
+    Default: ArrestinDb
+    Menu: ArrestinDb
+    Menu Section: 'Structure analysis '
+    Menu subsection: ''
+    Page: Interface interactions (single structure)
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Comparison
+    Video: ''
+https://gpcrdb.org/ligand/coverage:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligands & bioactivities
+    Menu subsection: ''
+    Page: Ligand coverage
+    Publication:
+    -   DOI: 10.1093/NAR/GKX1109
+        Journal: NAR
+        Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
+        Year: 2018.0
+    -   DOI: 10.1093/NAR/GKAE1065
+        Journal: NAR
+        Title: 'GPCRdb in 2025: adding odorant receptors, data mapper, structure similarity
+            search and models of physiological ligand complexes'
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligands & bioactivities
+    Video: ''
+https://gpcrdb.org/ligand/:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligands & bioactivities
+    Menu subsection: Ligands (ChEMBL, GtP, Ki db)
+    Page: Ligands (by receptor query)
+    Publication:
+    -   DOI: 10.1093/NAR/GKX1109
+        Journal: NAR
+        Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
+        Year: 2018.0
+    -   DOI: 10.1093/NAR/GKAC1013
+        Journal: NAR
+        Title: 'GPCRdb in 2023: state-specific structure models using alphafold2 and
+            expansion of ligand resources'
+        Year: 2023.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligands & bioactivities
+    Video: ''
+https://gpcrdb.org/ligand/*/info:
+    Default: GPCRdb
+    Menu: ''
+    Menu Section: ''
+    Menu subsection: ''
+    Page: ''
+    Publication:
+    -   DOI: 10.1093/NAR/GKX1109
+        Journal: NAR
+        Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
+        Year: 2018.0
+    -   DOI: 10.1093/NAR/GKAC1013
+        Journal: NAR
+        Title: 'GPCRdb in 2023: state-specific structure models using alphafold2 and
+            expansion of ligand resources'
+        Year: 2023.0
+    -   DOI: 10.1038/S44386-025-00010-9
+        Journal: npj Drug Discovery
+        Title: An online GPCR drug discovery resource
+        Year: 2025.0
+    Section: ''
+    Video: ''
+https://gpcrdb.org/ligand/targets_compact:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligands & bioactivities
+    Menu subsection: Ligands (ChEMBL, GtP, Ki db)
+    Page: Ligands (by receptor query)
+    Publication:
+    -   DOI: 10.1093/NAR/GKX1109
+        Journal: NAR
+        Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
+        Year: 2018.0
+    -   DOI: 10.1093/NAR/GKAC1013
+        Journal: NAR
+        Title: 'GPCRdb in 2023: state-specific structure models using alphafold2 and
+            expansion of ligand resources'
+        Year: 2023.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligands & bioactivities
+    Video: ''
+https://gpcrdb.org/ligand/target_detail:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligands & bioactivities
+    Menu subsection: Ligands (ChEMBL, GtP, Ki db)
+    Page: Ligands (by receptor query)
+    Publication:
+    -   DOI: 10.1093/NAR/GKX1109
+        Journal: NAR
+        Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
+        Year: 2018.0
+    -   DOI: 10.1093/NAR/GKAC1013
+        Journal: NAR
+        Title: 'GPCRdb in 2023: state-specific structure models using alphafold2 and
+            expansion of ligand resources'
+        Year: 2023.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligands & bioactivities
+    Video: ''
+https://gpcrdb.org/ligand/ligand_by_name:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligands & bioactivities
+    Menu subsection: Ligands & bioactivities
+    Page: Ligands (by ligand query)
+    Publication:
+    -   DOI: 10.1093/NAR/GKAE1065
+        Journal: NAR
+        Title: 'GPCRdb in 2025: adding odorant receptors, data mapper, structure similarity
+            search and models of physiological ligand complexes'
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligands & bioactivities
+    Video: ''
+https://gpcrdb.org/ligand/ligand_structural_search:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligands & bioactivities
+    Menu subsection: Ligands & bioactivities
+    Page: Ligands (by ligand query)
+    Publication:
+    -   DOI: 10.1093/NAR/GKAE1065
+        Journal: NAR
+        Title: 'GPCRdb in 2025: adding odorant receptors, data mapper, structure similarity
+            search and models of physiological ligand complexes'
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligands & bioactivities
+    Video: ''
+https://gpcrdb.org/ligand/physiological_ligands/:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: ''
+    Menu subsection: ''
+    Page: Physiological ligands (GtP)
+    Publication:
+    -   DOI: 10.1093/NAR/GKAE1065
+        Journal: NAR
+        Title: 'GPCRdb in 2025: adding odorant receptors, data mapper, structure similarity
+            search and models of physiological ligand complexes'
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Physiological ligands (GtP)
+    Video: ''
+https://gpcrdb.org/drugs/drug_selection:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Drugs & agents in trial
+    Menu subsection: Agents/drugs
+    Page: Agent/drug page
+    Publication:
+    -   DOI: 10.1038/NRD.2017.178
+        Journal: NRDD
+        Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
+        Year: 2017.0
+    -   DOI: 10.1038/S44386-025-00010-9
+        Journal: npj Drug Discovery
+        Title: An online GPCR drug discovery resource
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Drugs & agents in trial
+    Video: ''
+https://gpcrdb.org/drugs/drugs_venn:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Drugs & agents in trial
+    Menu subsection: Agents/drugs
+    Page: Agents/drugs by phase I-IV
+    Publication:
+    -   DOI: 10.1038/NRD.2017.178
+        Journal: NRDD
+        Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
+        Year: 2017.0
+    -   DOI: 10.1038/S44386-025-00010-9
+        Journal: npj Drug Discovery
+        Title: An online GPCR drug discovery resource
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Drugs & agents in trial
+    Video: ''
+https://gpcrdb.org/drugs/target_selection:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Drugs & agents in trial
+    Menu subsection: Targets
+    Page: Target page
+    Publication:
+    -   DOI: 10.1038/NRD.2017.178
+        Journal: NRDD
+        Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
+        Year: 2017.0
+    -   DOI: 10.1038/S44386-025-00010-9
+        Journal: npj Drug Discovery
+        Title: An online GPCR drug discovery resource
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Drugs & agents in trial
+    Video: ''
+https://gpcrdb.org/drugs/target_venn:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Drugs & agents in trial
+    Menu subsection: Targets
+    Page: Targets by phase I-IV
+    Publication:
+    -   DOI: 10.1038/NRD.2017.178
+        Journal: NRDD
+        Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
+        Year: 2017.0
+    -   DOI: 10.1038/S44386-025-00010-9
+        Journal: npj Drug Discovery
+        Title: An online GPCR drug discovery resource
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Drugs & agents in trial
+    Video: ''
+https://gpcrdb.org/drugs/overview:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Drugs & agents in trial
+    Menu subsection: Targets
+    Page: The drugged GPCRome
+    Publication:
+    -   DOI: 10.1038/NRD.2017.178
+        Journal: NRDD
+        Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
+        Year: 2017.0
+    -   DOI: 10.1038/S44386-025-00010-9
+        Journal: npj Drug Discovery
+        Title: An online GPCR drug discovery resource
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Drugs & agents in trial
+    Video: ''
+https://gpcrdb.org/drugs/TargetSelectionTool:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Drugs & agents in trial
+    Menu subsection: Targets
+    Page: Target selection tool
+    Publication:
+    -   DOI: 10.1038/NRD.2017.178
+        Journal: NRDD
+        Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
+        Year: 2017.0
+    -   DOI: 10.1038/S44386-025-00010-9
+        Journal: npj Drug Discovery
+        Title: An online GPCR drug discovery resource
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Drugs & agents in trial
+    Video: ''
+https://gpcrdb.org/drugs/indication_selection:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Drugs & agents in trial
+    Menu subsection: Diseases
+    Page: Disease page
+    Publication:
+    -   DOI: 10.1038/NRD.2017.178
+        Journal: NRDD
+        Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
+        Year: 2017.0
+    -   DOI: 10.1038/S44386-025-00010-9
+        Journal: npj Drug Discovery
+        Title: An online GPCR drug discovery resource
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Drugs & agents in trial
+    Video: ''
+https://gpcrdb.org/drugs/disease_overview:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Drugs & agents in trial
+    Menu subsection: Diseases
+    Page: Disease overview
+    Publication:
+    -   DOI: 10.1038/NRD.2017.178
+        Journal: NRDD
+        Title: 'Trends in GPCR drug discovery: new agents, targets and indications'
+        Year: 2017.0
+    -   DOI: 10.1038/S44386-025-00010-9
+        Journal: npj Drug Discovery
+        Title: An online GPCR drug discovery resource
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Drugs & agents in trial
+    Video: ''
+https://gpcrdb.org/interaction/:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand sites
+    Menu subsection: Site search
+    Page: GPCR-ligand interactions
+    Publication:
+    -   DOI: 10.1016/J.COPH.2016.07.003
+        Journal: COPHAR
+        Title: Integrating structural and mutagenesis data to elucidate GPCR ligand
+            binding
+        Year: 2016.0
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand sites
+    Video: http://files.gpcrdb.org/video/interactions1.mp4
+https://gpcrdb.org/interaction/*:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand sites
+    Menu subsection: Site search
+    Page: GPCR-ligand interactions
+    Publication:
+    -   DOI: 10.1016/J.COPH.2016.07.003
+        Journal: COPHAR
+        Title: Integrating structural and mutagenesis data to elucidate GPCR ligand
+            binding
+        Year: 2016.0
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand sites
+    Video: ''
+https://gpcrdb.org/sitesearch/targetselection:
+    Default: GPCRdb
     Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: ''
+    Page: Site search (by seq. motif)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/sitesearch/targetselectionpdb:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand sites
+    Menu subsection: Site search
+    Page: Site search (by ligand complex)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand sites
+    Video: http://files.gpcrdb.org/video/interactions2.mp4
+https://gpcrdb.org/mutations/statistics:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand site mutations
+    Menu subsection: ''
+    Page: Mutation coverage
+    Publication:
+    -   DOI: 10.1016/J.COPH.2016.07.003
+        Journal: COPHAR
+        Title: Integrating structural and mutagenesis data to elucidate GPCR ligand
+            binding
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand site mutations
+    Video: ''
+https://gpcrdb.org/mutations/:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand site mutations
+    Menu subsection: ''
+    Page: Mutations
+    Publication:
+    -   DOI: 10.1016/J.COPH.2016.07.003
+        Journal: COPHAR
+        Title: Integrating structural and mutagenesis data to elucidate GPCR ligand
+            binding
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand site mutations
+    Video: http://files.gpcrdb.org/video/mutations1.mp4
+https://gpcrdb.org/mutations/segmentselection:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand site mutations
+    Menu subsection: ''
+    Page: Mutations
+    Publication:
+    -   DOI: 10.1016/J.COPH.2016.07.003
+        Journal: COPHAR
+        Title: Integrating structural and mutagenesis data to elucidate GPCR ligand
+            binding
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand site mutations
+    Video: ''
+https://gpcrdb.org/mutations/design:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand site mutations
+    Menu subsection: Mutation design tool
+    Page: By receptor name
+    Publication:
+    -   DOI: 10.1016/J.COPH.2016.07.003
+        Journal: COPHAR
+        Title: Integrating structural and mutagenesis data to elucidate GPCR ligand
+            binding
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand site mutations
+    Video: ''
+https://gpcrdb.org/mutations/calculate:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand site mutations
+    Menu subsection: Mutation design tool
+    Page: By receptor name
+    Publication:
+    -   DOI: 10.1016/J.COPH.2016.07.003
+        Journal: COPHAR
+        Title: Integrating structural and mutagenesis data to elucidate GPCR ligand
+            binding
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand site mutations
+    Video: ''
+https://gpcrdb.org/mutations/designpdb:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand site mutations
+    Menu subsection: Mutation design tool
+    Page: By PDB id
+    Publication:
+    -   DOI: 10.1016/J.COPH.2016.07.003
+        Journal: COPHAR
+        Title: Integrating structural and mutagenesis data to elucidate GPCR ligand
+            binding
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand site mutations
+    Video: ''
+https://gpcrdb.org/mutations/calculatepdb:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand site mutations
+    Menu subsection: Mutation design tool
+    Page: By PDB id
+    Publication:
+    -   DOI: 10.1016/J.COPH.2016.07.003
+        Journal: COPHAR
+        Title: Integrating structural and mutagenesis data to elucidate GPCR ligand
+            binding
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand site mutations
+    Video: ''
+https://docs.gpcrdb.org/mutations.html#mutation-data-submission:
+    Default: GPCRdb
+    Menu: Drugs & Ligands
+    Menu Section: Ligand site mutations
+    Menu subsection: ''
+    Page: Mutation data submission
+    Publication:
+    -   DOI: 10.1016/J.COPH.2016.07.003
+        Journal: COPHAR
+        Title: Integrating structural and mutagenesis data to elucidate GPCR ligand
+            binding
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Ligand site mutations
+    Video: ''
+https://gproteindb.org/*:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: ''
+    Menu subsection: ''
+    Page: GproteinDb
+    Publication:
+    -   DOI: 10.1093/NAR/GKAD1089
+        Journal: NAR
+        Title: 'GproteinDb in 2024: new G protein-GPCR couplings, AlphaFold2-multimer
+            models and interface interactions'
+        Year: 2024.0
+    -   DOI: 10.7554/ELIFE.74107
+        Journal: eLife
+        Title: Common coupling map advances GPCR-G protein selectivity
+        Year: 2022.0
+    -   DOI: 10.1093/NAR/GKAB852
+        Journal: NAR
+        Title: The G protein database, GproteinDb
+        Year: 2022.0
+    Section: ''
+    Video: ''
+https://gproteindb.org/signprot/gprotein:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: ''
+    Menu subsection: ''
+    Page: G protein page
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: ''
+    Video: ''
+https://gproteindb.org/signprot/couplings:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Couplings
+    Menu subsection: ''
+    Page: G protein couplings
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Couplings
+    Video: ''
+https://gproteindb.org/signprot/coupling_datasets:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Couplings
+    Menu subsection: ''
+    Page: Datasets
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Couplings
+    Video: ''
+https://gproteindb.org/signprot/coupling_biosensors:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Couplings
+    Menu subsection: ''
+    Page: Biosensors
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Couplings
+    Video: ''
+https://gproteindb.org/signprot/statistics_venn:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Coupling analysis
+    Menu subsection: ''
+    Page: G protein selectivity (Venn)
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Coupling analysis
+    Video: ''
+https://gproteindb.org/signprot/statistics_tree:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Coupling analysis
+    Menu subsection: ''
+    Page: G protein selectivity (tree)
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Coupling analysis
+    Video: ''
+https://gproteindb.org/alignment/gproteinselection:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Sequence alignments
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://gproteindb.org/alignment/segmentselectiongprot:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Sequence alignments
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://gproteindb.org/alignment/render:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Sequence alignments
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://gproteindb.org/residue/residuetable_gprot:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Generic residue number tables
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://gproteindb.org/residue/residuetabledisplay:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Generic residue number tables
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://gproteindb.org/structure/gprot_statistics:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structure coverage
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: ''
+https://gproteindb.org/structure/g_protein_structure_browser:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structures
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: ''
+https://gproteindb.org/structure/superposition_workflow_gprot_index:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structures (G protein superimposition)
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: ''
+https://gproteindb.org/structure/complex_models:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Structures
+    Menu subsection: ''
     Page: Structure models
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structures
-    Title: 'GPCRdb in 2018: adding GPCR structure models and ligands'
     Video: ''
-    Year: 2017.0
-https://gpcrdb.org/structure/model_statistics:
-    DOI: 10.1093/NAR/GKAA1080
-    Default: 0
-    Journal: NAR
-    Menu: GPCRdb
-    Page: Structure model coverage
+https://gproteindb.org/alignment/segmentselection:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structure models (receptor alignment)
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structures
-    Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
     Video: ''
-    Year: 2020.0
-https://gpcrdb.org/structure/superposition_workflow_index/true:
-    DOI: 10.1093/NAR/GKV1178
-    Default: 0
-    Journal: NAR
-    Menu: GPCRdb
+https://gproteindb.org/alignment/render/*:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structure models (receptor alignment)
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: ''
+https://gproteindb.org/signprot/matrix:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Structure analysis
+    Menu subsection: ''
+    Page: Interface interactions & profiling
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure analysis
+    Video: ''
+https://gproteindb.org/structure/superposition_workflow_gprot_index/true:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Structure analysis
+    Menu subsection: ''
     Page: Structure superposition
-    Section: Structure Comparison
-    Title: 'GPCRdb: an information system for G protein-coupled receptors'
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure analysis
     Video: ''
-    Year: 2016.0
+https://gproteindb.org/structure/segmentselectiongprot:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Structure analysis
+    Menu subsection: ''
+    Page: Structure superposition
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure analysis
+    Video: ''
+https://gproteindb.org/structure/superposition_workflow_results_gprot:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Structure analysis
+    Menu subsection: ''
+    Page: Structure superposition
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure analysis
+    Video: ''
+https://gproteindb.org/mutations/gprot_coupling:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Determinants & Mutations
+    Menu subsection: ''
+    Page: Coupling determinant mutation design
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Determinants & Mutations
+    Video: ''
+https://gproteindb.org/mutations/gprot_coupling_*:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Determinants & Mutations
+    Menu subsection: ''
+    Page: Coupling determinant mutation design
+    Publication:
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Determinants & Mutations
+    Video: ''
+http://files.gpcrdb.org/GPCR-Gprotein_Mutations.xlsx:
+    Default: GproteinDb
+    Menu: GproteinDb
+    Menu Section: Determinants & Mutations
+    Menu subsection: ''
+    Page: Interface mutations & chimeras
+    Publication:
+    -   DOI: 10.1093/NAR/GKAB852
+        Journal: NAR
+        Title: The G protein database, GproteinDb
+        Year: 2022.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Determinants & Mutations
+    Video: ''
+https://gpcrdb.org/protein/:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: ''
+    Menu subsection: ''
+    Page: Receptor page
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1093/NAR/GKT1255
+        Journal: NAR
+        Title: 'GPCRDB: an information system for g protein-coupled receptors'
+        Year: 2014.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Proteins
+    Video: http://files.gpcrdb.org/video/receptors1.mp4
+https://gpcrdb.org/protein/*:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: ''
+    Menu subsection: ''
+    Page: Receptor page
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1093/NAR/GKT1255
+        Journal: NAR
+        Title: 'GPCRDB: an information system for g protein-coupled receptors'
+        Year: 2014.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Proteins
+    Video: ''
+https://gpcrdb.org/family/*:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: ''
+    Menu subsection: ''
+    Page: (Family page)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1093/NAR/GKT1255
+        Journal: NAR
+        Title: 'GPCRDB: an information system for g protein-coupled receptors'
+        Year: 2014.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: ''
+    Video: ''
+https://gpcrdb.org/mapper/DataMapperHomeNumeric/:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: ''
+    Menu subsection: Data maper
+    Page: Numeric data
+    Publication:
+    -   DOI: 10.1093/NAR/GKAE1065
+        Journal: NAR
+        Title: 'GPCRdb in 2025: adding odorant receptors, data mapper, structure similarity
+            search and models of physiological ligand complexes'
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: ''
+    Video: ''
+https://gpcrdb.org/mapper/DataMapperHomeText/:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: ''
+    Menu subsection: Data maper
+    Page: Text data
+    Publication:
+    -   DOI: 10.1093/NAR/GKAE1065
+        Journal: NAR
+        Title: 'GPCRdb in 2025: adding odorant receptors, data mapper, structure similarity
+            search and models of physiological ligand complexes'
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: ''
+    Video: ''
+https://gpcrdb.org/mapper/*:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: ''
+    Menu subsection: Data maper
+    Page: ''
+    Publication:
+    -   DOI: 10.1093/NAR/GKAE1065
+        Journal: NAR
+        Title: 'GPCRdb in 2025: adding odorant receptors, data mapper, structure similarity
+            search and models of physiological ligand complexes'
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: ''
+    Video: ''
+https://gpcrdb.org/alignment/targetselection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Sequence alignments
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: http://files.gpcrdb.org/video/sequences1.mp4
+https://gpcrdb.org/alignment/segmentselection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Sequence alignments
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2017.0
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://gpcrdb.org/alignment/render/*:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Sequence alignments
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2018.0
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://gpcrdb.org/residue/residuetable:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Generic residue number tables
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1016/J.TIPS.2014.11.001
+        Journal: TiPS
+        Title: Generic GPCR residue numbers - aligning topology maps while minding
+            the gaps
+        Year: 2015.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://gpcrdb.org/residue/residuetabledisplay:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Generic residue number tables
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1016/J.TIPS.2014.11.001
+        Journal: TiPS
+        Title: Generic GPCR residue numbers - aligning topology maps while minding
+            the gaps
+        Year: 2015.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://gpcrdb.org/protein/isoforms:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequences
+    Menu subsection: ''
+    Page: Isoforms
+    Publication:
+    -   DOI: 10.1038/S41586-020-2888-2
+        Journal: Nature
+        Title: Combinatorial expression of GPCR isoforms affects signalling and drug
+            responses
+        Year: 2020.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequences
+    Video: ''
+https://gpcrdb.org/similaritysearch/referenceselection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: BLAST (GPCRdb alignment)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRDB: an information system for G protein-coupled receptors'
+        Year: 2014.0
+    Section: Sequence Comparison
+    Video: http://files.gpcrdb.org/video/sequences2.mp4
+https://gpcrdb.org/similaritysearch/segmentselection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: BLAST (GPCRdb alignment)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/similaritysearch/targetselection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: BLAST (GPCRdb alignment)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/similaritysearch/render:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: BLAST (GPCRdb alignment)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/alignment/blastsearch:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: BLAST (non-GPCRdb query)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/alignment/blastsearchresults:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: BLAST (non-GPCRdb query)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/phylogenetic_trees/targetselection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: Phylogenetic trees
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/phylogenetic_trees/segmentselection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: Phylogenetic trees
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/similaritymatrix/targetselection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: Similarity matrix (all-to-all)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/phylogenetic_trees/treesettings:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: Similarity matrix (all-to-all)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/phylogenetic_trees/render_v3:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: Receptor similarity
+    Page: Similarity matrix (all-to-all)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: 'GPCRdb: the g protein-coupled receptor database - an introduction'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/sitesearch/segmentselection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: ''
+    Page: Site search (by seq. motif)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/sitesearch/render:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Sequence analysis
+    Menu subsection: ''
+    Page: Site search (by seq. motif)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Sequence Comparison
+    Video: ''
+https://gpcrdb.org/structure/statistics:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structure coverage
+    Publication:
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: http://files.gpcrdb.org/video/structures1.mp4
+https://gpcrdb.org/structure/:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structures
+    Publication:
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: 10.1093/NAR/GKT1255
+        Journal: NAR
+        Title: 'GPCRDB: an information system for g protein-coupled receptors'
+        Year: 2014.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: ''
+https://gpcrdb.org/structure/pdb_download:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structures (PDB download)
+    Publication:
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: 10.1093/NAR/GKT1255
+        Journal: NAR
+        Title: 'GPCRDB: an information system for g protein-coupled receptors'
+        Year: 2014.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: ''
+https://gpcrdb.org/structure/pdb_segment_selection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structures (PDB download, segment selection)
+    Publication:
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: 10.1093/NAR/GKT1255
+        Journal: NAR
+        Title: 'GPCRDB: an information system for g protein-coupled receptors'
+        Year: 2014.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: ''
+https://gpcrdb.org/structure/pdb_download_custom:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structures (PDB download, result)
+    Publication:
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: 10.1093/NAR/GKT1255
+        Journal: NAR
+        Title: 'GPCRDB: an information system for g protein-coupled receptors'
+        Year: 2014.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: ''
+https://gpcrdb.org/structure/superposition_workflow_index:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structures (superposition)
+    Publication:
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: 10.1093/NAR/GKT1255
+        Journal: NAR
+        Title: 'GPCRDB: an information system for g protein-coupled receptors'
+        Year: 2014.0
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: GPCRdb
+        Title: NAR
+        Year: 'GPCRdb: an information system for G protein-coupled receptors'
+    Section: Structures
+    Video: ''
+https://gpcrdb.org/structure/homology_models:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structure models (receptor)
+    Publication:
+    -   DOI: 10.1093/NAR/GKAC1013
+        Journal: NAR
+        Title: 'GPCRdb in 2023: state-specific structure models using alphafold2 and
+            expansion of ligand resources'
+        Year: 2023.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: ''
+https://gpcrdb.org/structure/ligand_complex_models:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structures
+    Menu subsection: ''
+    Page: Structure models (ligand complexes)
+    Publication:
+    -   DOI: 10.1093/NAR/GKAE1065
+        Journal: NAR
+        Title: 'GPCRdb in 2025: adding odorant receptors, data mapper, structure similarity
+            search and models of physiological ligand complexes'
+        Year: 2025.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structures
+    Video: ''
+https://gpcrdb.org/structure_comparison/comparative_analysis:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure  analysis
+    Menu subsection: ''
+    Page: Structure comparison tool
+    Publication:
+    -   DOI: 10.1038/S41594-021-00675-6
+        Journal: Nature Structural & Molecular Biology
+        Title: An online GPCR structure analysis platform
+        Year: 2021.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Comparison
+    Video: https://www.youtube.com/watch?v=X8j_xpryZ4U&start=4880
+https://gpcrdb.org/structure_comparison/structure_clustering:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure  analysis
+    Menu subsection: ''
+    Page: Structure similarity trees
+    Publication:
+    -   DOI: 10.1038/S41594-021-00675-6
+        Journal: Nature Structural & Molecular Biology
+        Title: An online GPCR structure analysis platform
+        Year: 2021.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Comparison
+    Video: https://www.youtube.com/watch?v=X8j_xpryZ4U&start=4490
+https://gpcrdb.org/structure/superposition_workflow_index/true:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure  analysis
+    Menu subsection: ''
+    Page: Structure superposition
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Comparison
+    Video: ''
+https://gpcrdb.org/structure/superposition_workflow_selection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure  analysis
+    Menu subsection: ''
+    Page: Structure superposition
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Comparison
+    Video: ''
+https://gpcrdb.org/structure/superposition_workflow_results:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure  analysis
+    Menu subsection: ''
+    Page: Structure superposition
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Comparison
+    Video: ''
+https://gpcrdb.org/structure/structure_similarity_search:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure  analysis
+    Menu subsection: ''
+    Page: Structure similarity search
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Comparison
+    Video: ''
 https://gpcrdb.org/structure/generic_numbering_index:
-    DOI: 10.1016/J.TIPS.2014.11.001
-    Default: 0
-    Journal: TiPS
+    Default: GPCRdb
     Menu: GPCRdb
+    Menu Section: Structure  analysis
+    Menu subsection: ''
     Page: Generic residue numbering (PDB)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: 10.1016/J.TIPS.2014.11.001
+        Journal: TiPS
+        Title: "Generic GPCR residue numbers \u2013 aligning topology maps while minding\
+            \ the gaps"
+        Year: 2015.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structure Comparison
-    Title: "Generic GPCR residue numbers \u2013 aligning topology maps while minding\
-        \ the gaps"
     Video: ''
-    Year: 2015.0
+https://gpcrdb.org/structure/generic_numbering_results:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure  analysis
+    Menu subsection: ''
+    Page: Generic residue numbering (PDB)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Comparison
+    Video: ''
+https://gpcrdb.org/structure/generic_numbering_selection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure  analysis
+    Menu subsection: ''
+    Page: Generic residue numbering (PDB)
+    Publication:
+    -   DOI: 10.1093/NAR/GKV1178
+        Journal: NAR
+        Title: 'GPCRdb: an information system for G protein-coupled receptors'
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Comparison
+    Video: ''
 https://gpcrdb.org/construct/:
-    DOI: 10.1038/S41592-018-0302-X
-    Default: 0
-    Journal: Nat Methods
+    Default: GPCRdb
     Menu: GPCRdb
+    Menu Section: Structure Constructs
+    Menu subsection: Construct/Experiment design
     Page: Construct alignments
+    Publication:
+    -   DOI: 10.1038/S41592-018-0302-X
+        Journal: Nat Methods
+        Title: An online resource for GPCR structure determination and analysis
+        Year: 2019.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structure Constructs
-    Title: An online resource for GPCR structure determination and analysis
     Video: ''
-    Year: 2019.0
 https://gpcrdb.org/construct/design:
-    DOI: 10.1038/S41592-018-0302-X
-    Default: 0
-    Journal: Nat Methods
+    Default: GPCRdb
     Menu: GPCRdb
+    Menu Section: Structure Constructs
+    Menu subsection: Construct/Experiment design
     Page: Construct design tool
+    Publication:
+    -   DOI: 10.1038/S41592-018-0302-X
+        Journal: Nat Methods
+        Title: An online resource for GPCR structure determination and analysis
+        Year: 2019.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structure Constructs
-    Title: An online resource for GPCR structure determination and analysis
     Video: http://files.gpcrdb.org/video/constructtool3.mp4
-    Year: 2019.0
+https://gpcrdb.org/construct/tool/:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure Constructs
+    Menu subsection: Construct/Experiment design
+    Page: Construct design tool
+    Publication:
+    -   DOI: 10.1038/S41592-018-0302-X
+        Journal: Nat Methods
+        Title: An online resource for GPCR structure determination and analysis
+        Year: 2019.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Constructs
+    Video: ''
 https://gpcrdb.org/construct/experiments:
-    DOI: 10.1038/S41592-018-0302-X
-    Default: 0
-    Journal: Nat Methods
+    Default: GPCRdb
     Menu: GPCRdb
+    Menu Section: Structure Constructs
+    Menu subsection: Construct/Experiment design
     Page: Experiment browser
+    Publication:
+    -   DOI: 10.1038/S41592-018-0302-X
+        Journal: Nat Methods
+        Title: An online resource for GPCR structure determination and analysis
+        Year: 2019.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structure Constructs
-    Title: An online resource for GPCR structure determination and analysis
     Video: ''
-    Year: 2019.0
-https://gpcrdb.org/construct/mutations:
-    DOI: 10.1038/S41592-018-0302-X
-    Default: 0
-    Journal: Nat Methods
-    Menu: GPCRdb
-    Page: Stabilising mutations
-    Section: Structure Constructs
-    Title: An online resource for GPCR structure determination and analysis
-    Video: ''
-    Year: 2019.0
-https://gpcrdb.org/construct/stabilisation:
-    DOI: 10.1038/S41592-018-0302-X
-    Default: 0
-    Journal: Nat Methods
-    Menu: GPCRdb
-    Page: StabMutAnalyser
-    Section: Structure Constructs
-    Title: An online resource for GPCR structure determination and analysis
-    Video: ''
-    Year: 2019.0
-https://gpcrdb.org/construct/analysis#mutations:
-    DOI: 10.1038/S41592-018-0302-X
-    Default: 0
-    Journal: Nat Methods
-    Menu: GPCRdb
-    Page: Mutation substitution matrix
-    Section: Structure Constructs
-    Title: An online resource for GPCR structure determination and analysis
-    Video: ''
-    Year: 2019.0
 https://gpcrdb.org/construct/analysis#truncations:
-    DOI: 10.1038/S41592-018-0302-X
-    Default: 0
-    Journal: Nat Methods
+    Default: GPCRdb
     Menu: GPCRdb
+    Menu Section: Structure Constructs
+    Menu subsection: Truncation/Fusion analysis
     Page: Truncation sites
+    Publication:
+    -   DOI: 10.1038/S41592-018-0302-X
+        Journal: Nat Methods
+        Title: An online resource for GPCR structure determination and analysis
+        Year: 2019.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structure Constructs
-    Title: An online resource for GPCR structure determination and analysis
     Video: ''
-    Year: 2019.0
 https://gpcrdb.org/construct/analysis#fusions:
-    DOI: 10.1038/S41592-018-0302-X
-    Default: 0
-    Journal: Nat Methods
+    Default: GPCRdb
     Menu: GPCRdb
+    Menu Section: Structure Constructs
+    Menu subsection: Truncation/Fusion analysis
     Page: Fusion sites
+    Publication:
+    -   DOI: 10.1038/S41592-018-0302-X
+        Journal: Nat Methods
+        Title: An online resource for GPCR structure determination and analysis
+        Year: 2019.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structure Constructs
-    Title: An online resource for GPCR structure determination and analysis
     Video: ''
-    Year: 2019.0
 https://gpcrdb.org/construct/analysis#loopdeletions:
-    DOI: 10.1038/S41592-018-0302-X
-    Default: 0
-    Journal: Nat Methods
+    Default: GPCRdb
     Menu: GPCRdb
+    Menu Section: Structure Constructs
+    Menu subsection: Truncation/Fusion analysis
     Page: Loop deletions
+    Publication:
+    -   DOI: 10.1038/S41592-018-0302-X
+        Journal: Nat Methods
+        Title: An online resource for GPCR structure determination and analysis
+        Year: 2019.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
     Section: Structure Constructs
-    Title: An online resource for GPCR structure determination and analysis
     Video: ''
-    Year: 2019.0
+https://gpcrdb.org/construct/mutations:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure Constructs
+    Menu subsection: Mutation analysis
+    Page: Stabilising mutations
+    Publication:
+    -   DOI: 10.1038/S41592-018-0302-X
+        Journal: Nat Methods
+        Title: An online resource for GPCR structure determination and analysis
+        Year: 2019.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Constructs
+    Video: ''
+https://gpcrdb.org/construct/stabilisation:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure Constructs
+    Menu subsection: Mutation analysis
+    Page: StabMutAnalyser
+    Publication:
+    -   DOI: 10.1038/S41592-018-0302-X
+        Journal: Nat Methods
+        Title: An online resource for GPCR structure determination and analysis
+        Year: 2019.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Constructs
+    Video: ''
+https://gpcrdb.org/construct/analysis#mutations:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Structure Constructs
+    Menu subsection: Mutation analysis
+    Page: Mutation substitution matrix
+    Publication:
+    -   DOI: 10.1038/S41592-018-0302-X
+        Journal: Nat Methods
+        Title: An online resource for GPCR structure determination and analysis
+        Year: 2019.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Structure Constructs
+    Video: ''
+https://gpcrdb.org/seqsign/:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Determinants & Mutations
+    Menu subsection: ''
+    Page: Sequence signature tool
+    Publication:
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Determinants & Mutations
+    Video: ''
+https://gpcrdb.org/seqsign/negativegroupselection:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Determinants & Mutations
+    Menu subsection: ''
+    Page: Sequence signature tool
+    Publication:
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Determinants & Mutations
+    Video: ''
+https://gpcrdb.org/seqsign/segmentselectionsignature:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Determinants & Mutations
+    Menu subsection: ''
+    Page: Sequence signature tool
+    Publication:
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Determinants & Mutations
+    Video: ''
+https://gpcrdb.org/seqsign/render_signature:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Determinants & Mutations
+    Menu subsection: ''
+    Page: Sequence signature tool
+    Publication:
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Determinants & Mutations
+    Video: ''
+https://gpcrdb.org/seqsign/render_signature_match_scores/*:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Determinants & Mutations
+    Menu subsection: ''
+    Page: Sequence signature tool
+    Publication:
+    -   DOI: 10.1093/NAR/GKAA1080
+        Journal: NAR
+        Title: 'GPCRdb in 2021: integrating GPCR sequence, structure and function'
+        Year: 2021.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Determinants & Mutations
+    Video: ''
+https://gpcrdb.org/mutations/state_stabilizing:
+    Default: GPCRdb
+    Menu: GPCRdb
+    Menu Section: Determinants & Mutations
+    Menu subsection: ''
+    Page: State stabilizing mutation design
+    Publication:
+    -   DOI: 10.1111/BPH.13509
+        Journal: BJP
+        Title: "GPCRdb: the G protein\u2010coupled receptor database \u2013 an introduction"
+        Year: 2016.0
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    -   DOI: ''
+        Journal: ''
+        Title: ''
+        Year: ''
+    Section: Determinants & Mutations
+    Video: ''
