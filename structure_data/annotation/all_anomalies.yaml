@@ -7383,6 +7383,16 @@ gpr4_human:
     '4.59': A
     '4.60': P
     '5.46': G
+gpr4_mouse:
+    UniProt: gpr4_mouse
+    Xtal Templ: gpr4_mouse
+    5x461: 5x461
+    7x44: 7x44
+gpr4_xentr:
+    UniProt: gpr4_xentr
+    Xtal Templ: gpr4_xentr
+    5x461: 5x461
+    7x44: 7x44
 gpr52_human:
     UniProt: gpr52_human
     Xtal Templ: gpr52_human
@@ -8258,6 +8268,13 @@ hcar2_human:
     '4.59': H
     '4.60': L
     '5.46': E
+hcar2_mouse:
+    UniProt: hcar2_mouse
+    Xtal Templ: hcar2_mouse
+    Cl: A
+    Xtalised: Xtal
+    5x461: 5x461
+    7x44: 7x44
 hcar3_human:
     UniProt: hcar3_human
     Xtal Templ: p2ry1_human
@@ -17169,10 +17186,10 @@ orn4c_human:
   UniProt: orn4c_human
   Xtal Templ: orn4c_human
   Xtalised: NoXtal
-e7fel0_danre:
+gpr4_danre:
   7x44: 7x44
-  UniProt: e7fel0_danre
-  Xtal Templ: e7fel0_danre
+  UniProt: gpr4_danre
+  Xtal Templ: gpr4_danre
   Xtalised: NoXtal
 q76sf8_hhv8:
   7x44: 7x44
@@ -17186,10 +17203,15 @@ opsx_human:
   UniProt: opsx_human
   Xtal Templ: opsx_human
   Xtalised: NoXtal
-w5qed6_sheep:
+aa3r_sheep:
   2x551: 2x551
   5x461: 5x461
   7x44: 7x44
-  UniProt: w5qed6_sheep
-  Xtal Templ: w5qed6_sheep
-  Xtalised: NoXtal
+  UniProt: aa3r_sheep
+  Xtal Templ: aa3r_sheep
+  Xtalised: Xtal
+a0a9l0jpp9_equas:
+  7x44: 7x44
+  UniProt: a0a9l0jpp9_equas
+  Xtal Templ: a0a9l0jpp9_equas
+  Xtalised: Xtal

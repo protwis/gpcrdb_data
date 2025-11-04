@@ -692,7 +692,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 7F8V	E	pep	16162108.0	Agonist	Gastrin-17	Peptide	2021-10-13	
 7F8W	E	pep	16162108.0	Agonist	Gastrin-17	Peptide	2021-10-13	
 7F8Y		1OZ	443375.0	Antagonist	Devazepide	Small molecule	2021-10-13	
-7F53	L	pep	gtoplig:1320	Agonist	MSH	Peptide	2021-11-03	
+7F53	L	pep	16133793.0	Agonist	alpha-MSH	Peptide	2021-11-03	
 7F54	L	pep	16197727.0	Agonist	Afamelanotide	Peptide	2021-11-03	
 7F55	L	pep	9941379.0	Agonist	Bremelanotide	Peptide	2021-11-03	
 7F58		1I8	9938402.0	Agonist	Thiq	Small molecule	2021-11-03	
@@ -1814,7 +1814,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 8Y69	J	pep	None	Agonist	R-spondin-2	Protein	2024-12-04	
 8YH0		NEC	448222.0	Agonist	NECA	Small molecule	2024-11-06	
 8YH2		ADN	60961.0	Agonist	Adenosine	Small molecule	2024-11-06	
-8YH3		6MD		102175	Agonist	N6-Methyladenosine	Small molecule	2024-11-06	
+8YH3		6MD	102175.0	Agonist	N6-Methyladenosine	Small molecule	2024-11-06	
 8YH5		ZIR	24405.0	Agonist	Riboprine	Small molecule	2024-11-06	
 8YH6		XS0	3035850.0	Agonist	Chloro-IB-MECA	Small molecule	2024-11-06	
 8YIC		A1LYQ	53312127.0	Agonist	SAR247799	Small molecule	2024-12-11	
@@ -1903,7 +1903,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 9EAI		LSN	3961.0	Antagonist	Losartan	Small molecule	2025-03-05	
 9FUP		JQ9	5311037.0	Antagonist	Istradefylline	Small molecule	2025-01-22	
 9GE2		A1IKH	2440433.0	Agonist	3-[4-(2,3-dimethylphenyl)piperazin-1-yl]carbonyl-N,N-dimethyl-4-pyrrolidin-1-yl-benzenesulfonamide	Small molecule	2025-03-05	
-9GE3		A1lKT	71296207.0	Agonist	[(2R)-2-oxidanyl-3-[oxidanyl-[(2R,3S,5R,6R)-2,3,4,5,6-pentakis(oxidanyl)cyclohexyl]oxy-phosphoryl]oxy-propyl] hexadecanoate	Small molecule	2025-03-05	
+9GE3		A1IKT	71296207.0	Agonist	[(2R)-2-oxidanyl-3-[oxidanyl-[(2R,3S,5R,6R)-2,3,4,5,6-pentakis(oxidanyl)cyclohexyl]oxy-phosphoryl]oxy-propyl] hexadecanoate	Small molecule	2025-03-05	
 9II2		GLU	33032.0	Agonist	Glutamic acid	Amino acid	2025-03-05	
 9II3		GLU	33032.0	Agonist	Glutamic acid	Amino acid	2025-03-05	
 9ITB		NKP	49837858.0	Agonist	lysophosphatidic acid	Small molecule	2025-01-15	
