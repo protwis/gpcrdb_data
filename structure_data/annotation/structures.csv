@@ -1558,7 +1558,7 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date
 8YZK	gpc5d_human	cryo-EM	3.4	Inactive	B		2024-07-03
 8ZBE	ssr5_human	cryo-EM	3.24	Active	A		2024-07-10
 8ZCJ	ssr5_human	cryo-EM	3.09	Active	G		2024-07-10
-8ZFJ	e7fel0_danre	cryo-EM	3.1	Active	R		2024-08-07
+8ZFJ	gpr4_danre	cryo-EM	3.1	Active	R		2024-08-07
 8ZH8	qrfpr_human	cryo-EM	3.19	Active	R		2024-07-03
 8ZJD	kissr_human	cryo-EM	3.06	Active	R		2024-07-03
 8ZJE	kissr_human	cryo-EM	3.07	Active	R		2024-07-03
@@ -1690,11 +1690,11 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date
 8XYD	ptafr_human	cryo-EM	2.9	Active	A		2024-11-13
 8Y45	oprd_human	cryo-EM	3.45	Active	A		2024-11-27
 8Y69	lgr4_human	cryo-EM	3.38	Active	D		2024-12-04
-8YH0	w5qed6_sheep	cryo-EM	2.86	Active	R		2024-11-06
-8YH2	w5qed6_sheep	cryo-EM	3.27	Active	R		2024-11-06
-8YH3	w5qed6_sheep	cryo-EM	3.4	Active	R		2024-11-06
-8YH5	w5qed6_sheep	cryo-EM	3.66	Active	R		2024-11-06
-8YH6	w5qed6_sheep	cryo-EM	3.62	Active	R		2024-11-06
+8YH0	aa3r_sheep	cryo-EM	2.86	Active	R		2024-11-06
+8YH2	aa3r_sheep	cryo-EM	3.27	Active	R		2024-11-06
+8YH3	aa3r_sheep	cryo-EM	3.4	Active	R		2024-11-06
+8YH5	aa3r_sheep	cryo-EM	3.66	Active	R		2024-11-06
+8YH6	aa3r_sheep	cryo-EM	3.62	Active	R		2024-11-06
 8YIC	s1pr1_human	cryo-EM	3.47	Active	R		2024-12-11
 8YNS	mchr1_human	cryo-EM	3.33	Inactive	R	S1 state	2024-12-18
 8YNT	mchr1_human	cryo-EM	3.43	Inactive	R	S2 state	2024-12-18
