@@ -1041,7 +1041,7 @@ PDB	Alpha_UniProt	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_Ch
 9BIP	gnas2_human	A	gbb1_human	B	gbg2_human	G	Mini-Gs
 9D61	gnai1_human	B	gbb1_human	C	gbg2_human	D	
 9GE2	gna13_human	A	gbb1_human	B	gbg2_human	G	
-9GE3	gna13_human	A	gbb1_human	B	gbb2_human	G	
+9GE3	gna13_human	A	gbb1_human	B	gbg2_human	G	
 9ITB	gnaq_human	A	gbb1_human	B	gbg2_human	G	Mini-Gq
 9ITE	gna13_human	A	gbb1_human	B	gbg2_human	G	Mini-G13
 9IV1	gnas2_human	A	gbb1_human	B	gbg2_human	G	
