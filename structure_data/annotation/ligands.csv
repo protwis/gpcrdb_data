@@ -190,7 +190,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 5NDD		8TZ	126961334.0	Antagonist	AZ8838	Small molecule	2017-05-03	
 5NDZ		8UN	126961335.0	Allosteric antagonist	AZ3451	Small molecule	2017-05-03	
 5NJ6		apo	None	Apo (no ligand)	Apo (no ligand)	None	2017-05-03	
-5UZ7		pep	16220016.0	Agonist	Calcitonin salmon	Peptide	2017-05-03	f
+5UZ7		pep	16220016.0	Agonist	calcitonin (salmon synthetic)	Peptide	2017-05-03	f
 5VEX		97V	23549991.0	NAM	NNC0640	Small molecule	2017-05-17	
 5UVI		ZMA	176407.0	Antagonist	ZM241385	Small molecule	2017-05-24	
 5V56		836	126970683.0	Antagonist	N-methyl-N-[1-[4-(2-methylpyrazol-3-yl)phthalazin-1-yl]piperidin-4-yl]-4-nitro-2-(trifluoromethyl)benzamide	Small molecule	2017-05-24	
@@ -320,7 +320,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 6HLP		GAW	6451149.0	Antagonist	Netupitant	Small molecule	2019-01-16	
 6N51		QUS	40539.0	Agonist	Quisqualic acid	Small molecule	2019-01-23	
 6N52		apo	None	Apo (no ligand)	Apo (no ligand)	None	2019-01-23	
-6NIY	P	pep	16220016.0	Agonist	Calcitonin salmon	Peptide	2019-01-23	
+6NIY	P	pep	16220016.0	Agonist	calcitonin (salmon synthetic)	Peptide	2019-01-23	
 5ZTY		9JU	137321161.0	Antagonist	AM10257	Small molecule	2019-01-30	
 6DO1	H	pep	10079601.0	Agonist	(Sar1,Ile8)-Angiotensin II	Peptide	2019-01-30	
 6N4B		KCA	119025665.0	Agonist	Fub-mdmb	Small molecule	2019-01-30	
@@ -393,7 +393,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 6RZ9		KO5	145704685.0	Antagonist	ONO-2770372	Small molecule	2019-12-11	
 6TO7		SUV	24965990.0	Antagonist	Suvorexant	Small molecule	2020-01-01	
 6TOD		7MA	9981404.0	Antagonist	Empa	Small molecule	2020-01-01	
-6TP3		NS2	91801202.0	Antagonist	Nemorexant	Small molecule	2020-01-01	
+6TP3		NS2	91801202.0	Antagonist	daridorexant	Small molecule	2020-01-01	
 6TP4		NRZ	40924317.0	Antagonist	ACT-462206	Small molecule	2020-01-01	
 6TP6		NT5	25128145.0	Antagonist	Filorexant	Small molecule	2020-01-01	
 6TPG		7MA	9981404.0	Antagonist	Empa	Small molecule	2020-01-01	
@@ -792,11 +792,11 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 7TYH	P	pep	45055432.0	Agonist	Calcitonin human	Peptide	2022-03-23	
 7TYI	P	pep	123773280.0	Agonist	Amylin rat	Peptide	2022-03-30	
 7TYL	P	pep		Agonist	amylin peptide	Peptide	2022-03-23	
-7TYN	P	pep	16220016.0	Agonist	Calcitonin salmon	Peptide	2022-03-30	
+7TYN	P	pep	16220016.0	Agonist	calcitonin (salmon synthetic)	Peptide	2022-03-30	
 7TYO	P	pep	45055432.0	Agonist	Calcitonin human	Peptide	2022-03-23	
-7TYW	P	pep	16220016.0	Agonist	Calcitonin salmon	Peptide	2022-03-23	
+7TYW	P	pep	16220016.0	Agonist	calcitonin (salmon synthetic)	Peptide	2022-03-23	
 7TYX	P	pep		Agonist	amylin peptide	Peptide	2022-03-30	
-7TYY	P	pep	16220016.0	Agonist	Calcitonin salmon	Peptide	2022-03-23	
+7TYY	P	pep	16220016.0	Agonist	calcitonin (salmon synthetic)	Peptide	2022-03-23	
 7TZF	P	pep		Agonist	amylin peptide	Peptide	2022-03-23	
 7FIN	P	pep		Agonist	Peptide-20	Peptide	2022-02-23	
 7FIY	P	pep	156588324.0	Agonist	Tirzepatide	Peptide	2022-03-02	
@@ -985,7 +985,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure
 7T9N	L	pep	None	Agonist	M22 antibody light chain	Protein	2022-08-03	
 7T9N	H	pep	None	Agonist	M22 antibody heavy chain	Protein	2022-08-03	
 7F61		1IB	439576231.0	Antagonist	N-ethyl-3-fluoro-3-[3-fluoro-4-(pyrrolidin-1-ylmethyl)phenyl]cyclobutane-1-carboxamide	Small molecule	2022-10-26	
-7PP1		7Y5	59534142.0	Antagonist	selatogrel	Small molecule	2022-11-02	
+7PP1		7Y5	59534142.0	Antagonist	Selatogrel	Small molecule	2022-11-02	
 7R0C	B	pep	644077.0	Agonist	Arginine vasopressin	Peptide	2022-09-14	
 7SRQ		7LD	5761.0	Agonist	LSD	Small molecule	2022-09-21	
 7SRR		7LD	5761.0	Agonist	LSD	Small molecule	2022-09-21	
