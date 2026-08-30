@@ -1,0 +1,29 @@
+unit,assay_type,parameter_class,modality
+pKi,Binding,Affinity,Unknown
+pKd,Binding,Affinity,Unknown
+Ki,Binding,Affinity,Unknown
+Kd,Binding,Affinity,Unknown
+K(i),Binding,Affinity,Unknown
+K(d),Binding,Affinity,Unknown
+pK(d),Binding,Affinity,Unknown
+pK(i),Binding,Affinity,Unknown
+Specific binding,Binding,Binding level,Unknown
+K(act),Kinetic,Association rate,Unknown
+Potency,Functional,Activity (generic),Unknown
+ED50,Functional,Activity (in vivo potency),Stimulatory
+ED50,Functional,Activity (in vivo potency),Inhibitory
+ED50,Functional,Activity (in vivo potency),Unknown
+pA2,Binding,Affinity (derived),Inhibitory
+pKB,Binding,Affinity (derived),Inhibitory
+pKb,Binding,Affinity (derived),Inhibitory
+KB,Binding,Affinity (derived),Inhibitory
+pK(b),Binding,Affinity (derived),Inhibitory
+Emax,Functional,Efficacy,Stimulatory
+AC50,Functional,Potency,Stimulatory
+AC50,Functional,Potency,Inhibitory
+AC50,Functional,Potency,Unknown
+IC50,Functional,Potency,Inhibitory
+pIC50,Functional,Potency,Inhibitory
+EC50,Functional,Potency,Stimulatory
+pEC50,Functional,Potency,Stimulatory
+XC50,Functional,Potency,Unknown

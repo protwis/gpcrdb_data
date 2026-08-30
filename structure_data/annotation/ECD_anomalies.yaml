@@ -16,9 +16,9 @@ pth1r_human:
     S6x501: S6x501
 pth2r_human:
     S6x501: S6x501
-crfr1_human:
+crhr1_human:
     S6x501: S6x501
-crfr2_human:
+crhr2_human:
     S6x501: S6x501
 sctr_human:
     S6x501: '-'

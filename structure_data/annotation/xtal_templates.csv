@@ -50,7 +50,7 @@ agrb2_human,agrl3_human
 agrb1_human,agrl3_human
 agrf2_human,agrf1_human
 g137a_human,fpr1_human
-tpra1_human,q3ksp2_ebvg
+tpra1_human,q3ksp2_ebv
 agre5_human,agrl3_human
 celr3_human,agrd1_human
 gp157_human,5ht2c_human
@@ -141,7 +141,7 @@ bkrb2_human,bkrb2_human
 rl3r2_human,oprd_mouse
 lt4r1_human,lt4r1_human
 apj_human,apj_human
-ogr1_human,ccr1_human
+gpr68_human,ccr1_human
 rl3r1_human,ssr2_human
 gp182_human,apj_human
 lgr4_human,lshr_human
@@ -164,8 +164,8 @@ ccr6_human,ccr6_human
 cx3c1_human,ccr1_human
 ccr2_human,ccr2_human
 ackr2_human,ccr1_human
-crfr2_human,crfr2_human
-crfr1_human,crfr1_human
+crhr2_human,crhr2_human
+crhr1_human,crhr1_human
 calrl_human,calrl_human
 calcr_human,calcr_human
 c5ar2_human,c5ar1_human
@@ -216,8 +216,8 @@ gpc5b_human,grm3_human
 gpc5c_human,grm3_human
 grm1_human,grm1_human
 gp156_human,gabr2_human
-gp158_human,gp158_human
-gp179_human,gp158_human
+mglyr_human,mglyr_human
+gp179_human,mglyr_human
 grm6_human,grm7_human
 grm3_human,grm3_human
 grm2_human,grm2_human
@@ -341,7 +341,7 @@ gpr17_human,cltr2_human
 mrgrd_human,mrgx4_human
 gpr18_human,gp183_human
 mas_human,mrgx2_human
-psyr_human,cxcr2_human
+gpr65_human,cxcr2_human
 p2ry1_human,p2ry1_human
 mrgx1_human,mrgx4_human
 lpar6_human,cltr1_human
@@ -410,9 +410,9 @@ smo_mouse,smo_mouse
 us28_hcmva,us28_hcmva
 gp149_human,s1pr1_human
 g1sgd4_rabit,g1sgd4_rabit
-q98sw5_xenla,q98sw5_xenla
-q80km9_hcmv,q80km9_hcmv
-q3ksp2_ebvg,q3ksp2_ebvg
+smos_xenla,smos_xenla
+us28_hcmvt,us28_hcmvt
+q3ksp2_ebv,q3ksp2_ebv
 or1a1_human,ada2b_human
 or1g1_human,cxcr2_human
 o2t11_human,oprx_human

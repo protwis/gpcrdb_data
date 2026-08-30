@@ -9123,7 +9123,7 @@ cnr2_human__wt:
     7e: 302.0
     8b: 303.0
     8e: 319.0
-crfr1_human_4K5Y:
+crhr1_human_4K5Y:
     1b: 117.0
     1e: 144.0
     i1b: 145.0
@@ -9148,7 +9148,7 @@ crfr1_human_4K5Y:
     7e: 367.0
     8b: '-'
     8e: '-'
-crfr1_human_4K5Y_dist:
+crhr1_human_4K5Y_dist:
     1b: 117.0
     1e: 144.0
     i1b: 145.0
@@ -9173,7 +9173,7 @@ crfr1_human_4K5Y_dist:
     7e: 366.0
     8b: '-'
     8e: '-'
-crfr1_human_4Z9G:
+crhr1_human_4Z9G:
     1b: 111.0
     1e: 144.0
     i1b: 145.0
@@ -9198,7 +9198,7 @@ crfr1_human_4Z9G:
     7e: 362.0
     8b: '-'
     8e: '-'
-crfr1_human_4Z9G_dist:
+crhr1_human_4Z9G_dist:
     1b: 112.0
     1e: 144.0
     i1b: 145.0
@@ -9223,7 +9223,7 @@ crfr1_human_4Z9G_dist:
     7e: 369.0
     8b: '-'
     8e: '-'
-crfr1_human_6P9X:
+crhr1_human_6P9X:
     1b: 114.0
     1e: 144.0
     i1b: 145.0
@@ -9248,7 +9248,7 @@ crfr1_human_6P9X:
     7e: 366.0
     8b: 367.0
     8e: 381.0
-crfr1_human_6PB0:
+crhr1_human_6PB0:
     1b: 112.0
     1e: 144.0
     i1b: '-'
@@ -9273,7 +9273,7 @@ crfr1_human_6PB0:
     7e: 366.0
     8b: 367.0
     8e: 386.0
-crfr1_human__wt:
+crhr1_human__wt:
     1b: 103.0
     1e: 144.0
     i1b: 145.0
@@ -9298,7 +9298,7 @@ crfr1_human__wt:
     7e: 366.0
     8b: 367.0
     8e: 392.0
-crfr2_human_6PB1:
+crhr2_human_6PB1:
     1b: 111.0
     1e: 141.0
     i1b: 142.0
@@ -9323,7 +9323,7 @@ crfr2_human_6PB1:
     7e: 362.0
     8b: 363.0
     8e: 382.0
-crfr2_human__wt:
+crhr2_human__wt:
     1b: 100.0
     1e: 141.0
     i1b: 142.0
@@ -13498,7 +13498,7 @@ gp139_human__wt:
     7e: 288.0
     8b: 289.0
     8e: 304.0
-gp158_human_7EWL:
+mglyr_human_7EWL:
     1b: 413.0
     1e: 441.0
     i1b: 444.0
@@ -13523,7 +13523,7 @@ gp158_human_7EWL:
     7e: 667.0
     8b: '-'
     8e: '-'
-gp158_human_7EWP:
+mglyr_human_7EWP:
     1b: 414.0
     1e: 441.0
     i1b: 444.0
@@ -13548,7 +13548,7 @@ gp158_human_7EWP:
     7e: 668.0
     8b: '-'
     8e: '-'
-gp158_human_7EWR:
+mglyr_human_7EWR:
     1b: 414.0
     1e: 441.0
     i1b: 444.0
@@ -13573,7 +13573,7 @@ gp158_human_7EWR:
     7e: 668.0
     8b: '-'
     8e: '-'
-gp158_human_7SHE:
+mglyr_human_7SHE:
     1b: 413.0
     1e: 441.0
     i1b: 444.0
@@ -13598,7 +13598,7 @@ gp158_human_7SHE:
     7e: 668.0
     8b: '-'
     8e: '-'
-gp158_human_7SHF:
+mglyr_human_7SHF:
     1b: 416.0
     1e: 442.0
     i1b: 444.0
@@ -13623,7 +13623,7 @@ gp158_human_7SHF:
     7e: 668.0
     8b: '-'
     8e: '-'
-gp158_human__wt:
+mglyr_human__wt:
     1b: 413.0
     1e: 441.0
     i1b: 444.0
@@ -21073,7 +21073,7 @@ q08bg4_danre__wt:
     7e: 305.0
     8b: 306.0
     8e: 320.0
-q3ksp2_ebvg_7JHJ:
+q3ksp2_ebv_7JHJ:
     1b: 33.0
     1e: 60.0
     i1b: '-'
@@ -21098,7 +21098,7 @@ q3ksp2_ebvg_7JHJ:
     7e: 285.0
     8b: 286.0
     8e: 301.0
-q3ksp2_ebvg__wt:
+q3ksp2_ebv__wt:
     1b: 33.0
     1e: 61.0
     i1b: 62.0
@@ -21123,7 +21123,7 @@ q3ksp2_ebvg__wt:
     7e: 285.0
     8b: 286.0
     8e: 301.0
-q80km9_hcmv_5WB1:
+us28_hcmvt_5WB1:
     1b: 25.0
     1e: 60.0
     i1b: '-'
@@ -21148,7 +21148,7 @@ q80km9_hcmv_5WB1:
     7e: 294.0
     8b: 295.0
     8e: 310.0
-q80km9_hcmv_5WB2:
+us28_hcmvt_5WB2:
     1b: 25.0
     1e: 60.0
     i1b: '-'
@@ -21173,7 +21173,7 @@ q80km9_hcmv_5WB2:
     7e: 294.0
     8b: 295.0
     8e: 307.0
-q80km9_hcmv__wt:
+us28_hcmvt__wt:
     1b: 25.0
     1e: 61.0
     i1b: 62.0
@@ -21198,7 +21198,7 @@ q80km9_hcmv__wt:
     7e: 294.0
     8b: 295.0
     8e: 310.0
-q98sw5_xenla_6D32:
+smos_xenla_6D32:
     1b: 196.0
     1e: 228.0
     i1b: 229.0
@@ -21223,7 +21223,7 @@ q98sw5_xenla_6D32:
     7e: 510.0
     8b: 511.0
     8e: 520.0
-q98sw5_xenla_6D35:
+smos_xenla_6D35:
     1b: 196.0
     1e: 228.0
     i1b: 229.0
@@ -21248,7 +21248,7 @@ q98sw5_xenla_6D35:
     7e: 510.0
     8b: 511.0
     8e: 520.0
-q98sw5_xenla__wt:
+smos_xenla__wt:
     1b: 196.0
     1e: 228.0
     i1b: 229.0

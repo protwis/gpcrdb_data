@@ -466,7 +466,7 @@ ghrhr_human:
     H4b: 107.0
     H4x50: 112.0
     H4e: 112.0
-crfr1_human:
+crhr1_human:
     H1b: 17.0
     H1x50: 30.0
     H1e: 34.0
@@ -518,7 +518,7 @@ crfr1_human:
     H4b: 99.0
     H4x50: 102.0
     H4e: 102.0
-crfr2_human:
+crhr2_human:
     H1b: 1.0
     H1x50: 14.0
     H1e: 28.0

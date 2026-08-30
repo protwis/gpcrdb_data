@@ -262,8 +262,8 @@ cnr1_human:
     2x57: F
     2x58: V
     2x59: Y
-crfr1_human:
-    UniProt: crfr1_human
+crhr1_human:
+    UniProt: crhr1_human
     Cl: B1
     1x411: ''
     2x551: ''

@@ -1,0 +1,346 @@
+ID   GBB3_HUMAN              Reviewed;         340 AA.
+AC   P16520; Q96B71; Q9BQC0;
+DT   01-AUG-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1990, sequence version 1.
+DT   10-JUN-2026, entry version 236.
+DE   RecName: Full=Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3;
+DE   AltName: Full=Transducin beta chain 3;
+GN   Name=GNB3;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+RX   PubMed=2107550; DOI=10.1073/pnas.87.6.2329;
+RA   Levine M.A., Smallwood P.M., Moen P.T. Jr., Helman L.J., Ahn T.G.;
+RT   "Molecular cloning of beta 3 subunit, a third form of the G protein beta-
+RT   subunit polypeptide.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:2329-2333(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORM 1).
+RX   PubMed=8723724; DOI=10.1101/gr.6.4.314;
+RA   Ansari-Lari M.A., Muzny D.M., Lu J., Lu F., Lilley C.E., Spanos S.,
+RA   Malley T., Gibbs R.A.;
+RT   "A gene-rich cluster between the CD4 and triosephosphate isomerase genes at
+RT   human chromosome 12p13.";
+RL   Genome Res. 6:314-326(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   TISSUE=Brain;
+RX   PubMed=9074930; DOI=10.1101/gr.7.3.268;
+RA   Ansari-Lari M.A., Shen Y., Muzny D.M., Lee W., Gibbs R.A.;
+RT   "Large-scale sequencing in human chromosome 12p13: experimental and
+RT   computational gene structure determination.";
+RL   Genome Res. 7:268-280(1997).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=10904009; DOI=10.1161/01.hyp.36.1.33;
+RA   Rosskopf D., Busch S., Manthey I., Siffert W.;
+RT   "G protein beta 3 gene: structure, promoter, and additional
+RT   polymorphisms.";
+RL   Hypertension 36:33-41(2000).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Brain;
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction sequenced by
+RT   the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1), AND VARIANT SER-272.
+RA   Kalnine N., Chen X., Rolfs A., Halleck A., Hines L., Eisenstein S.,
+RA   Koundinya M., Raphael J., Moreira D., Kelley T., LaBaer J., Lin Y.,
+RA   Phelan M., Farmer A.;
+RT   "Cloning of human full-length CDSs in BD Creator(TM) system donor vector.";
+RL   Submitted (MAY-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RG   SeattleSNPs variation discovery resource;
+RL   Submitted (MAY-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2), AND VARIANT
+RP   SER-272.
+RC   TISSUE=Eye;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [9]
+RP   PROTEIN SEQUENCE OF 69-78 AND 90-96, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RC   TISSUE=Colon carcinoma;
+RA   Bienvenut W.V., Heiserich L., Gottlieb E.;
+RL   Submitted (MAR-2008) to UniProtKB.
+RN   [10]
+RP   INTERACTION WITH RASD2.
+RX   PubMed=19255495; DOI=10.1159/000204075;
+RA   Hill C., Goddard A., Ladds G., Davey J.;
+RT   "The cationic region of Rhes mediates its interactions with specific Gbeta
+RT   subunits.";
+RL   Cell. Physiol. Biochem. 23:1-8(2009).
+RN   [11]
+RP   INVOLVEMENT IN CSNB1H, AND VARIANTS CSNB1H LYS-57 DEL AND PHE-67.
+RX   PubMed=27063057; DOI=10.1016/j.ajhg.2016.03.021;
+RG   GNB3 Consortium;
+RA   Vincent A., Audo I., Tavares E., Maynes J.T., Tumber A., Wright T., Li S.,
+RA   Michiels C., Condroyer C., MacDonald H., Verdet R., Sahel J.A., Hamel C.P.,
+RA   Zeitz C., Heon E.;
+RT   "Biallelic mutations in GNB3 cause a unique form of autosomal-recessive
+RT   congenital stationary night blindness.";
+RL   Am. J. Hum. Genet. 98:1011-1019(2016).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are involved
+CC       as a modulator or transducer in various transmembrane signaling
+CC       systems. The beta and gamma chains are required for the GTPase
+CC       activity, for replacement of GDP by GTP, and for G protein-effector
+CC       interaction.
+CC   -!- SUBUNIT: G proteins are composed of 3 units, alpha, beta and gamma.
+CC       Interacts with RASD2. {ECO:0000269|PubMed:19255495}.
+CC   -!- INTERACTION:
+CC       P16520; P32302: CXCR5; NbExp=3; IntAct=EBI-2880663, EBI-2835269;
+CC       P16520-2; Q9UHD4: CIDEB; NbExp=3; IntAct=EBI-17871073, EBI-7062247;
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1;
+CC         IsoId=P16520-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P16520-2; Sequence=VSP_055233;
+CC   -!- DISEASE: Night blindness, congenital stationary, 1H (CSNB1H)
+CC       [MIM:617024]: A form of congenital stationary night blindness, a non-
+CC       progressive retinal disorder characterized by impaired night vision or
+CC       in dim light, with good vision only on bright days. CSNB1H patients
+CC       present with childhood-onset night blindness and middle age-onset
+CC       photophobia, but have near-normal vision and do not exhibit nystagmus
+CC       or high myopia. CSNB1H inheritance is autosomal recessive.
+CC       {ECO:0000269|PubMed:27063057}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the WD repeat G protein beta family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M31328; AAA52582.1; -; mRNA.
+DR   EMBL; U47924; AAB51313.1; -; Genomic_DNA.
+DR   EMBL; U47930; AAC50468.1; -; mRNA.
+DR   EMBL; Y12050; CAA72779.1; -; Genomic_DNA.
+DR   EMBL; Y12051; CAA72779.1; JOINED; Genomic_DNA.
+DR   EMBL; Y12052; CAA72779.1; JOINED; Genomic_DNA.
+DR   EMBL; Y12053; CAA72779.1; JOINED; Genomic_DNA.
+DR   EMBL; Y12054; CAA72779.1; JOINED; Genomic_DNA.
+DR   EMBL; Y12055; CAA72779.1; JOINED; Genomic_DNA.
+DR   EMBL; Y12056; CAA72779.1; JOINED; Genomic_DNA.
+DR   EMBL; Y12057; CAA72779.1; JOINED; Genomic_DNA.
+DR   EMBL; Y12058; CAA72779.1; JOINED; Genomic_DNA.
+DR   EMBL; AF501884; AAM15920.1; -; mRNA.
+DR   EMBL; BT009800; AAP88802.1; -; mRNA.
+DR   EMBL; AY631872; AAT38116.1; -; Genomic_DNA.
+DR   EMBL; BC000115; AAH00115.1; -; mRNA.
+DR   EMBL; BC002454; AAH02454.1; -; mRNA.
+DR   EMBL; BC015920; AAH15920.1; -; mRNA.
+DR   CCDS; CCDS8564.1; -. [P16520-1]
+DR   PIR; A35096; RGHUB3.
+DR   RefSeq; NP_001284500.1; NM_001297571.1.
+DR   RefSeq; NP_002066.1; NM_002075.4. [P16520-1]
+DR   RefSeq; XP_047284659.1; XM_047428703.1. [P16520-1]
+DR   AlphaFoldDB; P16520; -.
+DR   SMR; P16520; -.
+DR   BioGRID; 109046; 62.
+DR   CORUM; P16520; -.
+DR   DIP; DIP-601N; -.
+DR   FunCoup; P16520; 1077.
+DR   IntAct; P16520; 28.
+DR   MINT; P16520; -.
+DR   NDEx; IQUERY-CP-GNB3; 13 NDEx IQuery Curated Pathways.
+DR   STRING; 9606.ENSP00000229264; -.
+DR   iPTMnet; P16520; -.
+DR   PhosphoSitePlus; P16520; -.
+DR   SwissPalm; P16520; -.
+DR   BioMuta; GNB3; -.
+DR   DMDM; 121011; -.
+DR   OGP; P16520; -.
+DR   jPOST; P16520; -.
+DR   MassIVE; P16520; -.
+DR   PaxDb; 9606-ENSP00000229264; -.
+DR   PeptideAtlas; P16520; -.
+DR   ProteomicsDB; 53379; -. [P16520-1]
+DR   Antibodypedia; 1080; 230 antibodies from 35 providers.
+DR   DNASU; 2784; -.
+DR   Ensembl; ENST00000229264.8; ENSP00000229264.3; ENSG00000111664.12. [P16520-1]
+DR   Ensembl; ENST00000884021.1; ENSP00000554080.1; ENSG00000111664.12. [P16520-1]
+DR   GeneID; 2784; -.
+DR   KEGG; hsa:2784; -.
+DR   MANE-Select; ENST00000229264.8; ENSP00000229264.3; NM_002075.4; NP_002066.1.
+DR   UCSC; uc001qrd.3; human. [P16520-1]
+DR   AGR; HGNC:4400; -.
+DR   ClinPGx; PA176; -.
+DR   CTD; 2784; -.
+DR   DisGeNET; 2784; -.
+DR   GeneCards; GNB3; -.
+DR   HGNC; HGNC:4400; GNB3.
+DR   HPA; ENSG00000111664; Tissue enriched (retina).
+DR   MalaCards; GNB3; -.
+DR   MIM; 139130; gene.
+DR   MIM; 617024; phenotype.
+DR   OpenTargets; ENSG00000111664; -.
+DR   VEuPathDB; HostDB:ENSG00000111664; -.
+DR   eggNOG; KOG0286; Eukaryota.
+DR   GeneTree; ENSGT01000000214413; -.
+DR   InParanoid; P16520; -.
+DR   OMA; VYSHETI; -.
+DR   OrthoDB; 10255630at2759; -.
+DR   PAN-GO; P16520; 4 GO annotations based on evolutionary models.
+DR   PhylomeDB; P16520; -.
+DR   PathwayCommons; P16520; -.
+DR   Reactome; R-HSA-1296041; Activation of G protein gated Potassium channels.
+DR   Reactome; R-HSA-163359; Glucagon signaling in metabolic regulation.
+DR   Reactome; R-HSA-202040; G-protein activation.
+DR   Reactome; R-HSA-381676; Glucagon-like Peptide-1 (GLP1) regulates insulin secretion.
+DR   Reactome; R-HSA-381771; Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1).
+DR   Reactome; R-HSA-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-HSA-392451; G beta:gamma signalling through PI3Kgamma.
+DR   Reactome; R-HSA-392851; Prostacyclin signalling through prostacyclin receptor.
+DR   Reactome; R-HSA-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-HSA-4086398; Ca2+ pathway.
+DR   Reactome; R-HSA-416476; G alpha (q) signalling events.
+DR   Reactome; R-HSA-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-HSA-418217; G beta:gamma signalling through PLC beta.
+DR   Reactome; R-HSA-418555; G alpha (s) signalling events.
+DR   Reactome; R-HSA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-HSA-418594; G alpha (i) signalling events.
+DR   Reactome; R-HSA-418597; G alpha (z) signalling events.
+DR   Reactome; R-HSA-420092; Glucagon-type ligand receptors.
+DR   Reactome; R-HSA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-HSA-432040; Vasopressin regulates renal water homeostasis via Aquaporins.
+DR   Reactome; R-HSA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Reactome; R-HSA-500657; Presynaptic function of Kainate receptors.
+DR   Reactome; R-HSA-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Reactome; R-HSA-8964315; G beta:gamma signalling through BTK.
+DR   Reactome; R-HSA-8964616; G beta:gamma signalling through CDC42.
+DR   Reactome; R-HSA-9009391; Extra-nuclear estrogen signaling.
+DR   Reactome; R-HSA-9634597; GPER1 signaling.
+DR   Reactome; R-HSA-9660821; ADORA2B mediated anti-inflammatory cytokines production.
+DR   Reactome; R-HSA-9717207; Sensory perception of sweet, bitter, and umami (glutamate) taste.
+DR   Reactome; R-HSA-9856530; High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells.
+DR   Reactome; R-HSA-997272; Inhibition of voltage gated Ca2+ channels via Gbeta/gamma subunits.
+DR   SignaLink; P16520; -.
+DR   SIGNOR; P16520; -.
+DR   Agora; ENSG00000111664; -.
+DR   BioGRID-ORCS; 2784; 18 hits in 1153 CRISPR screens.
+DR   ChiTaRS; GNB3; human.
+DR   GeneWiki; GNB3; -.
+DR   GenomeRNAi; 2784; -.
+DR   Pharos; P16520; Tbio.
+DR   PRO; PR:P16520; -.
+DR   Proteomes; UP000005640; Chromosome 12.
+DR   RNAct; P16520; protein.
+DR   Bgee; ENSG00000111664; Expressed in adenohypophysis and 119 other cell types or tissues.
+DR   ExpressionAtlas; P16520; baseline and differential.
+DR   GO; GO:0044297; C:cell body; IEA:Ensembl.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0003924; F:GTPase activity; TAS:ProtInc.
+DR   GO; GO:0051020; F:GTPase binding; IPI:UniProtKB.
+DR   GO; GO:0030159; F:signaling receptor complex adaptor activity; IBA:GO_Central.
+DR   GO; GO:0030507; F:spectrin binding; IEA:Ensembl.
+DR   GO; GO:0006884; P:cell volume homeostasis; IGI:ARUK-UCL.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0008217; P:regulation of blood pressure; TAS:ProtInc.
+DR   GO; GO:0090181; P:regulation of cholesterol metabolic process; IGI:ARUK-UCL.
+DR   GO; GO:0045598; P:regulation of fat cell differentiation; IGI:ARUK-UCL.
+DR   GO; GO:0010468; P:regulation of gene expression; IGI:ARUK-UCL.
+DR   GO; GO:0010906; P:regulation of glucose metabolic process; IGI:ARUK-UCL.
+DR   GO; GO:0032350; P:regulation of hormone metabolic process; IGI:ARUK-UCL.
+DR   GO; GO:1903725; P:regulation of phospholipid metabolic process; IGI:ARUK-UCL.
+DR   GO; GO:0090207; P:regulation of triglyceride metabolic process; IGI:ARUK-UCL.
+DR   CDD; cd00200; WD40; 1.
+DR   FunFam; 2.130.10.10:FF:000007; Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1; 1.
+DR   Gene3D; 2.130.10.10; YVTN repeat-like/Quinoprotein amine dehydrogenase; 1.
+DR   InterPro; IPR016346; G-protein_beta_1-5.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   InterPro; IPR001632; WD40_G-protein_beta-like.
+DR   InterPro; IPR020472; WD40_PAC1.
+DR   InterPro; IPR019775; WD40_repeat_CS.
+DR   InterPro; IPR036322; WD40_repeat_dom_sf.
+DR   InterPro; IPR001680; WD40_rpt.
+DR   PANTHER; PTHR19850; GUANINE NUCLEOTIDE-BINDING PROTEIN BETA G PROTEIN BETA; 1.
+DR   Pfam; PF25391; WD40_Gbeta; 1.
+DR   PIRSF; PIRSF002394; GN-bd_beta; 1.
+DR   PRINTS; PR00319; GPROTEINB.
+DR   PRINTS; PR00320; GPROTEINBRPT.
+DR   SMART; SM00320; WD40; 7.
+DR   SUPFAM; SSF50978; WD40 repeat-like; 1.
+DR   PROSITE; PS00678; WD_REPEATS_1; 3.
+DR   PROSITE; PS50082; WD_REPEATS_2; 5.
+DR   PROSITE; PS50294; WD_REPEATS_REGION; 1.
+PE   1: Evidence at protein level;
+KW   Alternative splicing; Congenital stationary night blindness;
+KW   Direct protein sequencing; Disease variant; Proteomics identification;
+KW   Reference proteome; Repeat; Transducer; WD repeat.
+FT   CHAIN           1..340
+FT                   /note="Guanine nucleotide-binding protein G(I)/G(S)/G(T)
+FT                   subunit beta-3"
+FT                   /id="PRO_0000127699"
+FT   REPEAT          53..83
+FT                   /note="WD 1"
+FT   REPEAT          95..125
+FT                   /note="WD 2"
+FT   REPEAT          141..170
+FT                   /note="WD 3"
+FT   REPEAT          182..212
+FT                   /note="WD 4"
+FT   REPEAT          224..254
+FT                   /note="WD 5"
+FT   REPEAT          268..298
+FT                   /note="WD 6"
+FT   REPEAT          310..340
+FT                   /note="WD 7"
+FT   VAR_SEQ         236..278
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:15489334"
+FT                   /id="VSP_055233"
+FT   VARIANT         40
+FT                   /note="V -> M (in dbSNP:rs45569331)"
+FT                   /id="VAR_049268"
+FT   VARIANT         57
+FT                   /note="Missing (in CSNB1H; dbSNP:rs879253774)"
+FT                   /evidence="ECO:0000269|PubMed:27063057"
+FT                   /id="VAR_077012"
+FT   VARIANT         67
+FT                   /note="S -> F (in CSNB1H; uncertain significance;
+FT                   dbSNP:rs140263599)"
+FT                   /evidence="ECO:0000269|PubMed:27063057"
+FT                   /id="VAR_077013"
+FT   VARIANT         76
+FT                   /note="D -> N (in dbSNP:rs2234756)"
+FT                   /id="VAR_014756"
+FT   VARIANT         81
+FT                   /note="V -> M (in dbSNP:rs45616032)"
+FT                   /id="VAR_049269"
+FT   VARIANT         272
+FT                   /note="G -> S (in dbSNP:rs5442)"
+FT                   /evidence="ECO:0000269|PubMed:15489334, ECO:0000269|Ref.6"
+FT                   /id="VAR_014757"
+FT   VARIANT         280
+FT                   /note="L -> F (in dbSNP:rs28395776)"
+FT                   /id="VAR_029304"
+FT   VARIANT         324
+FT                   /note="G -> E (in dbSNP:rs28395775)"
+FT                   /id="VAR_029305"
+FT   VARIANT         339
+FT                   /note="W -> L (in dbSNP:rs5444)"
+FT                   /id="VAR_014758"
+SQ   SEQUENCE   340 AA;  37221 MW;  896E706A61B8D74F CRC64;
+     MGEMEQLRQE AEQLKKQIAD ARKACADVTL AELVSGLEVV GRVQMRTRRT LRGHLAKIYA
+     MHWATDSKLL VSASQDGKLI VWDSYTTNKV HAIPLRSSWV MTCAYAPSGN FVACGGLDNM
+     CSIYNLKSRE GNVKVSRELS AHTGYLSCCR FLDDNNIVTS SGDTTCALWD IETGQQKTVF
+     VGHTGDCMSL AVSPDFNLFI SGACDASAKL WDVREGTCRQ TFTGHESDIN AICFFPNGEA
+     ICTGSDDASC RLFDLRADQE LICFSHESII CGITSVAFSL SGRLLFAGYD DFNCNVWDSM
+     KSERVGILSG HDNRVSCLGV TADGMAVATG SWDSFLKIWN
+//

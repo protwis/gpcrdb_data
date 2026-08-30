@@ -1834,8 +1834,8 @@ cnr2_human__wt:
     2e3b: 35.0
     e1e3b: 15
     3ei2b: 1.0
-crfr1_human__wt:
-    Key: crfr1_human__wt
+crhr1_human__wt:
+    Key: crhr1_human__wt
     1b: 19.0
     1e: 60.0
     i1b: 48.0
@@ -1868,8 +1868,8 @@ crfr1_human__wt:
     2e3b: 38.0
     e1e3b: 15
     3ei2b: 15
-crfr2_human__wt:
-    Key: crfr2_human__wt
+crhr2_human__wt:
+    Key: crhr2_human__wt
     1b: 19.0
     1e: 60.0
     i1b: 48.0
@@ -2854,8 +2854,8 @@ gp139_human__wt:
     2e3b: 34.0
     e1e3b: 15
     3ei2b: 1.0
-gp158_human__wt:
-    Key: gp158_human__wt
+mglyr_human__wt:
+    Key: mglyr_human__wt
     1b: 32.0
     1e: 60.0
     i1b: 47.0
@@ -4588,8 +4588,8 @@ q08bg4_danre__wt:
     2e3b: 35.0
     e1e3b: 1.0
     3ei2b: 1.0
-q3ksp2_ebvg__wt:
-    Key: q3ksp2_ebvg__wt
+q3ksp2_ebv__wt:
+    Key: q3ksp2_ebv__wt
     1b: 32.0
     1e: 60.0
     i1b: 48.0
@@ -4622,8 +4622,8 @@ q3ksp2_ebvg__wt:
     2e3b: 30.0
     e1e3b: 15
     3ei2b: 15
-q80km9_hcmv__wt:
-    Key: q80km9_hcmv__wt
+us28_hcmvt__wt:
+    Key: us28_hcmvt__wt
     1b: 24.0
     1e: 60.0
     i1b: 48.0
@@ -4656,8 +4656,8 @@ q80km9_hcmv__wt:
     2e3b: 34.0
     e1e3b: 15
     3ei2b: 15
-q98sw5_xenla__wt:
-    Key: q98sw5_xenla__wt
+smos_xenla__wt:
+    Key: smos_xenla__wt
     1b: 28.0
     1e: 60.0
     i1b: 47.0

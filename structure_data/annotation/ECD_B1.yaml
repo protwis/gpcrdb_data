@@ -218,7 +218,7 @@ pacr_human:
     x63: D
     x64: M
     x65: G
-crfr1_human:
+crhr1_human:
     x47: P
     x48: A
     x49: F
@@ -238,7 +238,7 @@ crfr1_human:
     x63: T
     x64: T
     x65: N
-crfr2_human:
+crhr2_human:
     x47: P
     x48: E
     x49: Y

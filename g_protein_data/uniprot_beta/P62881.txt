@@ -1,0 +1,383 @@
+ID   GNB5_MOUSE              Reviewed;         395 AA.
+AC   P62881; O35354; P54314; Q91WB3;
+DT   16-AUG-2004, integrated into UniProtKB/Swiss-Prot.
+DT   16-AUG-2004, sequence version 1.
+DT   10-JUN-2026, entry version 169.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit beta-5;
+DE   AltName: Full=Gbeta5;
+DE   AltName: Full=Transducin beta chain 5;
+GN   Name=Gnb5;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha; Muroidea; Muridae;
+OC   Murinae; Mus; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2), TISSUE SPECIFICITY, AND SUBCELLULAR
+RP   LOCATION.
+RC   TISSUE=Brain;
+RX   PubMed=8071339; DOI=10.1016/s0021-9258(17)31768-4;
+RA   Watson A.J., Katz A., Simon M.I.;
+RT   "A fifth member of the mammalian G-protein beta-subunit family. Expression
+RT   in brain and activation of the beta 2 isotype of phospholipase C.";
+RL   J. Biol. Chem. 269:22150-22156(1994).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), SUBCELLULAR LOCATION, AND TISSUE
+RP   SPECIFICITY.
+RX   PubMed=8910430; DOI=10.1074/jbc.271.45.28154;
+RA   Watson A.J., Aragay A.M., Slepak V.Z., Simon M.I.;
+RT   "A novel form of the G protein beta subunit Gbeta5 is specifically
+RT   expressed in the vertebrate retina.";
+RL   J. Biol. Chem. 271:28154-28160(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).
+RC   TISSUE=Eye, and Retina;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [4]
+RP   PROTEIN SEQUENCE OF 75-86 AND 322-338, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RC   TISSUE=Hippocampus;
+RA   Lubec G., Klug S.;
+RL   Submitted (MAR-2007) to UniProtKB.
+RN   [5]
+RP   INTERACTION WITH RGS9 AND RGS9BP.
+RC   STRAIN=C57BL/6 X 129; TISSUE=Retina;
+RX   PubMed=12119397; DOI=10.1073/pnas.152094799;
+RA   Hu G., Wensel T.G.;
+RT   "R9AP, a membrane anchor for the photoreceptor GTPase accelerating protein,
+RT   RGS9-1.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:9755-9760(2002).
+RN   [6]
+RP   INTERACTION WITH RGS9 AND RGS9BP.
+RX   PubMed=16908407; DOI=10.1016/j.neuron.2006.07.010;
+RA   Krispel C.M., Chen D., Melling N., Chen Y.-J., Martemyanov K.A.,
+RA   Quillinan N., Arshavsky V.Y., Wensel T.G., Chen C.-K., Burns M.E.;
+RT   "RGS expression rate-limits recovery of rod photoresponses.";
+RL   Neuron 51:409-416(2006).
+RN   [7]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Brain;
+RX   PubMed=21183079; DOI=10.1016/j.cell.2010.12.001;
+RA   Huttlin E.L., Jedrychowski M.P., Elias J.E., Goswami T., Rad R.,
+RA   Beausoleil S.A., Villen J., Haas W., Sowa M.E., Gygi S.P.;
+RT   "A tissue-specific atlas of mouse protein phosphorylation and expression.";
+RL   Cell 143:1174-1189(2010).
+RN   [8]
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 43-395 IN COMPLEX WITH RGS9, AND
+RP   INTERACTION WITH RGS9.
+RX   PubMed=18204463; DOI=10.1038/nsmb.1377;
+RA   Cheever M.L., Snyder J.T., Gershburg S., Siderovski D.P., Harden T.K.,
+RA   Sondek J.;
+RT   "Crystal structure of the multifunctional Gbeta5-RGS9 complex.";
+RL   Nat. Struct. Mol. Biol. 15:155-162(2008).
+RN   [9]
+RP   INTERACTION WITH GPR158.
+RX   PubMed=31311860; DOI=10.1074/jbc.ra119.007533;
+RA   Song C., Orlandi C., Sutton L.P., Martemyanov K.A.;
+RT   "The signaling proteins GPR158 and RGS7 modulate excitability of L2/3
+RT   pyramidal neurons and control A-type potassium channel in the prelimbic
+RT   cortex.";
+RL   J. Biol. Chem. 294:13145-13157(2019).
+RN   [10] {ECO:0007744|PDB:7SHF}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.40 ANGSTROMS) OF 43-395 IN COMPLEX WITH
+RP   GPR158 AND RGS7, AND INTERACTION WITH RGS7 AND GPR158.
+RX   PubMed=34793198; DOI=10.1126/science.abl4732;
+RA   Patil D.N., Singh S., Laboute T., Strutzenberg T.S., Qiu X., Wu D.,
+RA   Novick S.J., Robinson C.V., Griffin P.R., Hunt J.F., Izard T., Singh A.K.,
+RA   Martemyanov K.A.;
+RT   "Cryo-EM structure of human GPR158 receptor coupled to the RGS7-Gbeta5
+RT   signaling complex.";
+RL   Science 375:86-91(2022).
+CC   -!- FUNCTION: Enhances GTPase-activating protein (GAP) activity of
+CC       regulator of G protein signaling (RGS) proteins, such as RGS7 and RGS9,
+CC       hence involved in the termination of the signaling initiated by the G
+CC       protein-coupled receptors (GPCRs) by accelerating the GTP hydrolysis on
+CC       the G-alpha subunits, thereby promoting their inactivation (By
+CC       similarity). Increases RGS7 GTPase-activating protein (GAP) activity,
+CC       thereby regulating mood and cognition (By similarity). Increases RGS9
+CC       GTPase-activating protein (GAP) activity, hence contributes to the
+CC       deactivation of G protein signaling initiated by D(2) dopamine
+CC       receptors (By similarity). May play an important role in neuronal
+CC       signaling, including in the parasympathetic, but not sympathetic,
+CC       control of heart rate (By similarity). {ECO:0000250|UniProtKB:A1L271,
+CC       ECO:0000250|UniProtKB:O14775}.
+CC   -!- SUBUNIT: Component of a complex composed of RGS9 (isoform RGS9-1), GNB5
+CC       and RGS9BP; within this complex, the presence of GNB5 stabilizes both
+CC       itself and RGS9 and increases RGS9 GTPase-activating protein (GAP)
+CC       activity (PubMed:12119397, PubMed:16908407, PubMed:18204463). Interacts
+CC       with RGS7, forming the RGS7-GNB5 complex; within this complex, the
+CC       presence of GNB5 increases RGS7 GTPase-activating protein (GAP)
+CC       activity (PubMed:31311860, PubMed:34793198). Interacts with GPR158;
+CC       promotes the GTPase activator activity of the RGS7-GNB5 complex in
+CC       absence of glycine, in contrast GTPase activator activity of the RGS7-
+CC       GNB5 complex is inhibited in presence of glycine (PubMed:31311860,
+CC       PubMed:34793198). Interacts with RGS6 (By similarity).
+CC       {ECO:0000250|UniProtKB:O14775, ECO:0000269|PubMed:12119397,
+CC       ECO:0000269|PubMed:16908407, ECO:0000269|PubMed:18204463,
+CC       ECO:0000269|PubMed:31311860, ECO:0000269|PubMed:34793198}.
+CC   -!- SUBCELLULAR LOCATION: Membrane {ECO:0000269|PubMed:8071339,
+CC       ECO:0000269|PubMed:8910430}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=2;
+CC       Name=1; Synonyms=Long, Beta-5L, Gbeta5L;
+CC         IsoId=P62881-1, P54314-1; Sequence=Displayed;
+CC       Name=2;
+CC         IsoId=P62881-2, P54314-2; Sequence=VSP_008766;
+CC   -!- TISSUE SPECIFICITY: Isoform 1 is only detected in retina
+CC       (PubMed:8910430). Isoform 2 is detected in brain (at protein level)
+CC       (PubMed:8071339). Isoform 2 is detected in brain (PubMed:8071339).
+CC       {ECO:0000269|PubMed:8071339, ECO:0000269|PubMed:8910430}.
+CC   -!- SIMILARITY: Belongs to the WD repeat G protein beta family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; L34290; AAA93084.1; -; mRNA.
+DR   EMBL; U69145; AAC52886.1; -; mRNA.
+DR   EMBL; BC016135; AAH16135.1; -; mRNA.
+DR   CCDS; CCDS40692.1; -.
+DR   CCDS; CCDS90626.1; -. [P62881-2]
+DR   PIR; A54969; A54969.
+DR   RefSeq; NP_034443.1; NM_010313.2. [P62881-1]
+DR   RefSeq; NP_619733.1; NM_138719.5. [P62881-2]
+DR   PDB; 2PBI; X-ray; 1.95 A; B/D=43-395.
+DR   PDB; 6N9G; X-ray; 2.13 A; C/D=43-395.
+DR   PDB; 7SHF; EM; 3.40 A; D=43-395.
+DR   PDBsum; 2PBI; -.
+DR   PDBsum; 6N9G; -.
+DR   PDBsum; 7SHF; -.
+DR   AlphaFoldDB; P62881; -.
+DR   EMDB; EMD-25126; -.
+DR   SMR; P62881; -.
+DR   BioGRID; 199981; 26.
+DR   CORUM; P62881; -.
+DR   DIP; DIP-264N; -.
+DR   FunCoup; P62881; 991.
+DR   IntAct; P62881; 2.
+DR   STRING; 10090.ENSMUSP00000149938; -.
+DR   iPTMnet; P62881; -.
+DR   PhosphoSitePlus; P62881; -.
+DR   SwissPalm; P62881; -.
+DR   PaxDb; 10090-ENSMUSP00000149938; -.
+DR   PeptideAtlas; P62881; -.
+DR   ProteomicsDB; 271413; -.
+DR   ProteomicsDB; 271414; -. [P62881-2]
+DR   Pumba; P62881; -.
+DR   Antibodypedia; 24930; 300 antibodies from 32 providers.
+DR   DNASU; 14697; -.
+DR   Ensembl; ENSMUST00000076889.7; ENSMUSP00000076155.7; ENSMUSG00000032192.10. [P62881-1]
+DR   Ensembl; ENSMUST00000213990.2; ENSMUSP00000149938.2; ENSMUSG00000032192.10. [P62881-1]
+DR   Ensembl; ENSMUST00000215875.2; ENSMUSP00000150492.2; ENSMUSG00000032192.10. [P62881-2]
+DR   GeneID; 14697; -.
+DR   KEGG; mmu:14697; -.
+DR   UCSC; uc009qry.2; mouse.
+DR   AGR; MGI:101848; -.
+DR   CTD; 10681; -.
+DR   MGI; MGI:101848; Gnb5.
+DR   VEuPathDB; HostDB:ENSMUSG00000032192; -.
+DR   eggNOG; KOG0286; Eukaryota.
+DR   GeneTree; ENSGT01000000214413; -.
+DR   HOGENOM; CLU_000288_57_34_1; -.
+DR   InParanoid; P62881; -.
+DR   OrthoDB; 10255630at2759; -.
+DR   PhylomeDB; P62881; -.
+DR   Reactome; R-MMU-1296041; Activation of G protein gated Potassium channels.
+DR   Reactome; R-MMU-202040; G-protein activation.
+DR   Reactome; R-MMU-2514859; Inactivation, recovery and regulation of the phototransduction cascade.
+DR   Reactome; R-MMU-381676; Glucagon-like Peptide-1 (GLP1) regulates insulin secretion.
+DR   Reactome; R-MMU-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-MMU-392451; G beta:gamma signalling through PI3Kgamma.
+DR   Reactome; R-MMU-392851; Prostacyclin signalling through prostacyclin receptor.
+DR   Reactome; R-MMU-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-MMU-4086398; Ca2+ pathway.
+DR   Reactome; R-MMU-416476; G alpha (q) signalling events.
+DR   Reactome; R-MMU-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-MMU-418217; G beta:gamma signalling through PLC beta.
+DR   Reactome; R-MMU-418555; G alpha (s) signalling events.
+DR   Reactome; R-MMU-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-MMU-418594; G alpha (i) signalling events.
+DR   Reactome; R-MMU-418597; G alpha (z) signalling events.
+DR   Reactome; R-MMU-420092; Glucagon-type ligand receptors.
+DR   Reactome; R-MMU-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-MMU-432040; Vasopressin regulates renal water homeostasis via Aquaporins.
+DR   Reactome; R-MMU-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Reactome; R-MMU-500657; Presynaptic function of Kainate receptors.
+DR   Reactome; R-MMU-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Reactome; R-MMU-8964315; G beta:gamma signalling through BTK.
+DR   Reactome; R-MMU-8964616; G beta:gamma signalling through CDC42.
+DR   Reactome; R-MMU-9009391; Extra-nuclear estrogen signaling.
+DR   Reactome; R-MMU-9634597; GPER1 signaling.
+DR   Reactome; R-MMU-9856530; High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells.
+DR   Reactome; R-MMU-997272; Inhibition of voltage gated Ca2+ channels via Gbeta/gamma subunits.
+DR   BioGRID-ORCS; 14697; 3 hits in 80 CRISPR screens.
+DR   CD-CODE; CE726F99; Postsynaptic density.
+DR   EvolutionaryTrace; P62881; -.
+DR   PRO; PR:P62881; -.
+DR   Proteomes; UP000000589; Chromosome 9.
+DR   RNAct; P62881; protein.
+DR   Bgee; ENSMUSG00000032192; Expressed in retinal neural layer and 261 other cell types or tissues.
+DR   ExpressionAtlas; P62881; baseline and differential.
+DR   GO; GO:0044297; C:cell body; ISO:GO_Central.
+DR   GO; GO:0051286; C:cell tip; IDA:MGI.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0005829; C:cytosol; ISO:GO_Central.
+DR   GO; GO:0030425; C:dendrite; IDA:MGI.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0043209; C:myelin sheath; HDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:MGI.
+DR   GO; GO:0098688; C:parallel fiber to Purkinje cell synapse; IDA:SynGO.
+DR   GO; GO:0001917; C:photoreceptor inner segment; IDA:MGI.
+DR   GO; GO:0001750; C:photoreceptor outer segment; IDA:MGI.
+DR   GO; GO:0005886; C:plasma membrane; IDA:MGI.
+DR   GO; GO:0045211; C:postsynaptic membrane; IDA:SynGO.
+DR   GO; GO:0098793; C:presynapse; IDA:SynGO.
+DR   GO; GO:0042734; C:presynaptic membrane; IDA:SynGO.
+DR   GO; GO:0032991; C:protein-containing complex; ISO:GO_Central.
+DR   GO; GO:0045202; C:synapse; IDA:SynGO.
+DR   GO; GO:0031682; F:G-protein gamma-subunit binding; ISS:CAFA.
+DR   GO; GO:0032794; F:GTPase activating protein binding; ISO:GO_Central.
+DR   GO; GO:0005096; F:GTPase activator activity; ISO:GO_Central.
+DR   GO; GO:0051087; F:protein-folding chaperone binding; ISS:CAFA.
+DR   GO; GO:0030159; F:signaling receptor complex adaptor activity; IBA:GO_Central.
+DR   GO; GO:1990603; P:dark adaptation; IDA:MGI.
+DR   GO; GO:0007212; P:G protein-coupled dopamine receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IDA:MGI.
+DR   GO; GO:0036367; P:light adaption; IDA:MGI.
+DR   CDD; cd00200; WD40; 1.
+DR   FunFam; 2.130.10.10:FF:000020; Guanine nucleotide-binding protein beta subunit; 1.
+DR   Gene3D; 2.130.10.10; YVTN repeat-like/Quinoprotein amine dehydrogenase; 1.
+DR   InterPro; IPR016346; G-protein_beta_1-5.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   InterPro; IPR001632; WD40_G-protein_beta-like.
+DR   InterPro; IPR020472; WD40_PAC1.
+DR   InterPro; IPR019775; WD40_repeat_CS.
+DR   InterPro; IPR036322; WD40_repeat_dom_sf.
+DR   InterPro; IPR001680; WD40_rpt.
+DR   PANTHER; PTHR19850; GUANINE NUCLEOTIDE-BINDING PROTEIN BETA G PROTEIN BETA; 1.
+DR   Pfam; PF25391; WD40_Gbeta; 1.
+DR   PIRSF; PIRSF002394; GN-bd_beta; 1.
+DR   PRINTS; PR00319; GPROTEINB.
+DR   PRINTS; PR00320; GPROTEINBRPT.
+DR   SMART; SM00320; WD40; 7.
+DR   SUPFAM; SSF50978; WD40 repeat-like; 1.
+DR   PROSITE; PS00678; WD_REPEATS_1; 3.
+DR   PROSITE; PS50082; WD_REPEATS_2; 6.
+DR   PROSITE; PS50294; WD_REPEATS_REGION; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Direct protein sequencing; Membrane;
+KW   Reference proteome; Repeat; Transducer; WD repeat.
+FT   CHAIN           1..395
+FT                   /note="Guanine nucleotide-binding protein subunit beta-5"
+FT                   /id="PRO_0000127706"
+FT   REPEAT          103..142
+FT                   /note="WD 1"
+FT   REPEAT          145..184
+FT                   /note="WD 2"
+FT   REPEAT          193..234
+FT                   /note="WD 3"
+FT   REPEAT          236..278
+FT                   /note="WD 4"
+FT   REPEAT          279..318
+FT                   /note="WD 5"
+FT   REPEAT          320..362
+FT                   /note="WD 6"
+FT   REPEAT          365..394
+FT                   /note="WD 7"
+FT   VAR_SEQ         1..42
+FT                   /note="Missing (in isoform 2)"
+FT                   /evidence="ECO:0000303|PubMed:8071339"
+FT                   /id="VSP_008766"
+FT   HELIX           52..73
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   HELIX           80..83
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   TURN            84..86
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   HELIX           88..90
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          97..102
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          108..113
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          117..124
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          127..133
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   TURN            134..136
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          139..144
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          146..148
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          152..155
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          159..166
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          169..175
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          179..182
+FT                   /evidence="ECO:0007829|PDB:6N9G"
+FT   HELIX           185..187
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          189..193
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          198..203
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          205..214
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          217..223
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   TURN            224..226
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          229..234
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          240..245
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          253..258
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          263..267
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   TURN            268..270
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          273..277
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          284..289
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          293..300
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          305..309
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   TURN            310..313
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          314..319
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          328..333
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          337..344
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          349..353
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   TURN            354..356
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          358..363
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          370..375
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          382..386
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+FT   STRAND          389..394
+FT                   /evidence="ECO:0007829|PDB:2PBI"
+SQ   SEQUENCE   395 AA;  43565 MW;  972A41AAEC4CB3F8 CRC64;
+     MCDQTFLVNV FGSCDKCFKQ RALRPVFKKS QQLNYCSTCA EIMATDGLHE NETLASLKSE
+     AESLKGKLEE ERAKLHDVEL HQVAERVEAL GQFVMKTRRT LKGHGNKVLC MDWCKDKRRI
+     VSSSQDGKVI VWDSFTTNKE HAVTMPCTWV MACAYAPSGC AIACGGLDNK CSVYPLTFDK
+     NENMAAKKKS VAMHTNYLSA CSFTNSDMQI LTASGDGTCA LWDVESGQLL QSFHGHGADV
+     LCLDLAPSET GNTFVSGGCD KKAMVWDMRS GQCVQAFETH ESDVNSVRYY PSGDAFASGS
+     DDATCRLYDL RADREVAIYS KESIIFGASS VDFSLSGRLL FAGYNDYTIN VWDVLKGSRV
+     SILFGHENRV STLRVSPDGT AFCSGSWDHT LRVWA
+//

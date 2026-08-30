@@ -1,0 +1,294 @@
+ID   GBG13_HUMAN             Reviewed;          67 AA.
+AC   Q9P2W3; B2R5C8; Q52LX0; Q9UJJ3;
+DT   31-JAN-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   10-JUN-2026, entry version 182.
+DE   RecName: Full=Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13;
+DE   Flags: Precursor;
+GN   Name=GNG13;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=10570481; DOI=10.1038/15981;
+RA   Huang L., Shanker Y.G., Dubauskaite J., Zheng J.Z., Yan W., Rosenzweig S.,
+RA   Spielman A.I., Max M., Margolskee R.F.;
+RT   "Ggamma13 colocalizes with gustducin in taste receptor cells and mediates
+RT   IP3 responses to bitter denatonium.";
+RL   Nat. Neurosci. 2:1055-1062(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Brain;
+RA   Inoue S., Sano H., Ohta M.;
+RT   "E.coli toxicity assay: a novel expression screening method for isolation
+RT   of mammalian genes with membrane-associated domains or ATP binding/ATPase
+RT   domains.";
+RL   Submitted (JUL-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Puhl H.L. III, Ikeda S.R., Aronstam R.S.;
+RT   "cDNA clones of human proteins involved in signal transduction sequenced by
+RT   the Guthrie cDNA resource center (www.cdna.org).";
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Cerebellum;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A., Sudo H.,
+RA   Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M., Takahashi M.,
+RA   Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y., Abe K., Kamihara K.,
+RA   Katsuta N., Sato K., Tanikawa M., Yamazaki M., Ninomiya K., Ishibashi T.,
+RA   Yamashita H., Murakawa K., Fujimori K., Tanai H., Kimata M., Watanabe M.,
+RA   Hiraoka S., Chiba Y., Ishida S., Ono Y., Takiguchi S., Watanabe S.,
+RA   Yosida M., Hotuta T., Kusano J., Kanehori K., Takahashi-Fujii A., Hara H.,
+RA   Tanase T.-O., Nomura Y., Togiya S., Komai F., Hara R., Takeuchi K.,
+RA   Arita M., Imose N., Musashino K., Yuuki H., Oshima A., Sasaki N.,
+RA   Aotsuka S., Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y., Fujimori Y.,
+RA   Komiyama M., Tashiro H., Tanigami A., Fujiwara T., Ono T., Yamada K.,
+RA   Fujii Y., Ozaki K., Hirao M., Ohmori Y., Kawabata A., Hikiji T.,
+RA   Kobatake N., Inagaki H., Ikema Y., Okamoto S., Okitani R., Kawakami T.,
+RA   Noguchi S., Itoh T., Shigeta K., Senba T., Matsumura K., Nakajima Y.,
+RA   Mizuno T., Morinaga M., Sasaki M., Togashi T., Oyama M., Hata H.,
+RA   Watanabe M., Komatsu T., Mizushima-Sugano J., Satoh T., Shirai Y.,
+RA   Takahashi Y., Nakagawa K., Okumura K., Nagase T., Nomura N., Kikuchi H.,
+RA   Masuho Y., Yamashita R., Nakai K., Yada T., Nakamura Y., Ohara O.,
+RA   Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=11157797; DOI=10.1093/hmg/10.4.339;
+RA   Daniels R.J., Peden J.F., Lloyd C., Horsley S.W., Clark K., Tufarelli C.,
+RA   Kearney L., Buckle V.J., Doggett N.A., Flint J., Higgs D.R.;
+RT   "Sequence, structure and pathology of the fully annotated terminal 2 Mb of
+RT   the short arm of human chromosome 16.";
+RL   Hum. Mol. Genet. 10:339-352(2001).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=15616553; DOI=10.1038/nature03187;
+RA   Martin J., Han C., Gordon L.A., Terry A., Prabhakar S., She X., Xie G.,
+RA   Hellsten U., Chan Y.M., Altherr M., Couronne O., Aerts A., Bajorek E.,
+RA   Black S., Blumer H., Branscomb E., Brown N.C., Bruno W.J., Buckingham J.M.,
+RA   Callen D.F., Campbell C.S., Campbell M.L., Campbell E.W., Caoile C.,
+RA   Challacombe J.F., Chasteen L.A., Chertkov O., Chi H.C., Christensen M.,
+RA   Clark L.M., Cohn J.D., Denys M., Detter J.C., Dickson M.,
+RA   Dimitrijevic-Bussod M., Escobar J., Fawcett J.J., Flowers D., Fotopulos D.,
+RA   Glavina T., Gomez M., Gonzales E., Goodstein D., Goodwin L.A., Grady D.L.,
+RA   Grigoriev I., Groza M., Hammon N., Hawkins T., Haydu L., Hildebrand C.E.,
+RA   Huang W., Israni S., Jett J., Jewett P.B., Kadner K., Kimball H.,
+RA   Kobayashi A., Krawczyk M.-C., Leyba T., Longmire J.L., Lopez F., Lou Y.,
+RA   Lowry S., Ludeman T., Manohar C.F., Mark G.A., McMurray K.L., Meincke L.J.,
+RA   Morgan J., Moyzis R.K., Mundt M.O., Munk A.C., Nandkeshwar R.D.,
+RA   Pitluck S., Pollard M., Predki P., Parson-Quintana B., Ramirez L., Rash S.,
+RA   Retterer J., Ricke D.O., Robinson D.L., Rodriguez A., Salamov A.,
+RA   Saunders E.H., Scott D., Shough T., Stallings R.L., Stalvey M.,
+RA   Sutherland R.D., Tapia R., Tesmer J.G., Thayer N., Thompson L.S., Tice H.,
+RA   Torney D.C., Tran-Gyamfi M., Tsai M., Ulanovsky L.E., Ustaszewska A.,
+RA   Vo N., White P.S., Williams A.L., Wills P.L., Wu J.-R., Wu K., Yang J.,
+RA   DeJong P., Bruce D., Doggett N.A., Deaven L., Schmutz J., Grimwood J.,
+RA   Richardson P., Rokhsar D.S., Eichler E.E., Gilna P., Lucas S.M.,
+RA   Myers R.M., Rubin E.M., Pennacchio L.A.;
+RT   "The sequence and analysis of duplication-rich human chromosome 16.";
+RL   Nature 432:988-994(2004).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are involved
+CC       as a modulator or transducer in various transmembrane signaling
+CC       systems. The beta and gamma chains are required for the GTPase
+CC       activity, for replacement of GDP by GTP, and for G protein-effector
+CC       interaction.
+CC   -!- SUBUNIT: G proteins are composed of 3 units, alpha, beta and gamma.
+CC   -!- INTERACTION:
+CC       Q9P2W3; Q9P2A4: ABI3; NbExp=3; IntAct=EBI-11427343, EBI-742038;
+CC       Q9P2W3; Q6UY14-3: ADAMTSL4; NbExp=3; IntAct=EBI-11427343, EBI-10173507;
+CC       Q9P2W3; Q5H9J7: BEX5; NbExp=3; IntAct=EBI-11427343, EBI-10243741;
+CC       Q9P2W3; Q8TD31-3: CCHCR1; NbExp=3; IntAct=EBI-11427343, EBI-10175300;
+CC       Q9P2W3; P78358: CTAG1B; NbExp=3; IntAct=EBI-11427343, EBI-1188472;
+CC       Q9P2W3; A8MQ03: CYSRT1; NbExp=3; IntAct=EBI-11427343, EBI-3867333;
+CC       Q9P2W3; Q9NRI5-2: DISC1; NbExp=3; IntAct=EBI-11427343, EBI-11988027;
+CC       Q9P2W3; Q9Y6C2-2: EMILIN1; NbExp=3; IntAct=EBI-11427343, EBI-11748557;
+CC       Q9P2W3; Q9C0B1-2: FTO; NbExp=3; IntAct=EBI-11427343, EBI-18138793;
+CC       Q9P2W3; O76003: GLRX3; NbExp=3; IntAct=EBI-11427343, EBI-374781;
+CC       Q9P2W3; Q68CZ6: HAUS3; NbExp=3; IntAct=EBI-11427343, EBI-2558217;
+CC       Q9P2W3; P31260-2: HOXA10; NbExp=3; IntAct=EBI-11427343, EBI-12896693;
+CC       Q9P2W3; Q7Z3Y8: KRT27; NbExp=3; IntAct=EBI-11427343, EBI-3044087;
+CC       Q9P2W3; O76011: KRT34; NbExp=3; IntAct=EBI-11427343, EBI-1047093;
+CC       Q9P2W3; O76014: KRT37; NbExp=3; IntAct=EBI-11427343, EBI-1045716;
+CC       Q9P2W3; O76015: KRT38; NbExp=3; IntAct=EBI-11427343, EBI-1047263;
+CC       Q9P2W3; Q9BYQ4: KRTAP9-2; NbExp=3; IntAct=EBI-11427343, EBI-1044640;
+CC       Q9P2W3; Q6FHY5: MEOX2; NbExp=3; IntAct=EBI-11427343, EBI-16439278;
+CC       Q9P2W3; Q02548: PAX5; NbExp=3; IntAct=EBI-11427343, EBI-296331;
+CC       Q9P2W3; Q9NRY7: PLSCR2; NbExp=3; IntAct=EBI-11427343, EBI-3937430;
+CC       Q9P2W3; A6NK89: RASSF10; NbExp=3; IntAct=EBI-11427343, EBI-6912267;
+CC       Q9P2W3; Q9NS64: RPRM; NbExp=3; IntAct=EBI-11427343, EBI-1052363;
+CC       Q9P2W3; Q2I0M5: RSPO4; NbExp=3; IntAct=EBI-11427343, EBI-12821217;
+CC       Q9P2W3; Q15562-2: TEAD2; NbExp=3; IntAct=EBI-11427343, EBI-9370956;
+CC       Q9P2W3; Q96N21: TEPSIN; NbExp=3; IntAct=EBI-11427343, EBI-11139477;
+CC       Q9P2W3; Q9BYV2: TRIM54; NbExp=3; IntAct=EBI-11427343, EBI-2130429;
+CC       Q9P2W3; Q9BRT2: UQCC2; NbExp=3; IntAct=EBI-11427343, EBI-1054584;
+CC       Q9P2W3; Q6GMQ7: VPS16; NbExp=3; IntAct=EBI-11427343, EBI-17974829;
+CC       Q9P2W3; Q9Y3C0: WASHC3; NbExp=3; IntAct=EBI-11427343, EBI-712969;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000305}; Lipid-anchor
+CC       {ECO:0000305}; Cytoplasmic side {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the G protein gamma family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; AY029486; AAK40269.1; -; mRNA.
+DR   EMBL; AB030207; BAA92768.1; -; mRNA.
+DR   EMBL; AF493880; AAM12594.1; -; mRNA.
+DR   EMBL; AK312139; BAG35075.1; -; mRNA.
+DR   EMBL; AE006465; AAK61257.1; -; Genomic_DNA.
+DR   EMBL; AL031033; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC093760; AAH93760.1; -; mRNA.
+DR   EMBL; BC095525; AAH95525.1; -; mRNA.
+DR   CCDS; CCDS10427.1; -.
+DR   RefSeq; NP_057625.1; NM_016541.3.
+DR   AlphaFoldDB; Q9P2W3; -.
+DR   SMR; Q9P2W3; -.
+DR   BioGRID; 119721; 35.
+DR   CORUM; Q9P2W3; -.
+DR   FunCoup; Q9P2W3; 1714.
+DR   IntAct; Q9P2W3; 36.
+DR   NDEx; IQUERY-CP-GNG13; 11 NDEx IQuery Curated Pathways.
+DR   STRING; 9606.ENSP00000248150; -.
+DR   iPTMnet; Q9P2W3; -.
+DR   PhosphoSitePlus; Q9P2W3; -.
+DR   BioMuta; GNG13; -.
+DR   DMDM; 20138402; -.
+DR   MassIVE; Q9P2W3; -.
+DR   PaxDb; 9606-ENSP00000248150; -.
+DR   PeptideAtlas; Q9P2W3; -.
+DR   ProteomicsDB; 83903; -.
+DR   Antibodypedia; 52208; 55 antibodies from 18 providers.
+DR   DNASU; 51764; -.
+DR   Ensembl; ENST00000248150.5; ENSP00000248150.4; ENSG00000127588.6.
+DR   Ensembl; ENST00000851007.1; ENSP00000521082.1; ENSG00000127588.6.
+DR   GeneID; 51764; -.
+DR   KEGG; hsa:51764; -.
+DR   MANE-Select; ENST00000248150.5; ENSP00000248150.4; NM_016541.3; NP_057625.1.
+DR   UCSC; uc002ckh.4; human.
+DR   AGR; HGNC:14131; -.
+DR   ClinPGx; PA28783; -.
+DR   CTD; 51764; -.
+DR   DisGeNET; 51764; -.
+DR   GeneCards; GNG13; -.
+DR   HGNC; HGNC:14131; GNG13.
+DR   HPA; ENSG00000127588; Group enriched (brain, retina).
+DR   MIM; 607298; gene.
+DR   OpenTargets; ENSG00000127588; -.
+DR   VEuPathDB; HostDB:ENSG00000127588; -.
+DR   eggNOG; KOG4119; Eukaryota.
+DR   GeneTree; ENSGT00530000064157; -.
+DR   HOGENOM; CLU_168377_1_1_1; -.
+DR   InParanoid; Q9P2W3; -.
+DR   OMA; DEWDAPQ; -.
+DR   OrthoDB; 9922095at2759; -.
+DR   PAN-GO; Q9P2W3; 3 GO annotations based on evolutionary models.
+DR   PhylomeDB; Q9P2W3; -.
+DR   PathwayCommons; Q9P2W3; -.
+DR   Reactome; R-HSA-1296041; Activation of G protein gated Potassium channels.
+DR   Reactome; R-HSA-163359; Glucagon signaling in metabolic regulation.
+DR   Reactome; R-HSA-202040; G-protein activation.
+DR   Reactome; R-HSA-381676; Glucagon-like Peptide-1 (GLP1) regulates insulin secretion.
+DR   Reactome; R-HSA-381753; Olfactory Signaling Pathway.
+DR   Reactome; R-HSA-381771; Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1).
+DR   Reactome; R-HSA-392170; ADP signalling through P2Y purinoceptor 12.
+DR   Reactome; R-HSA-392451; G beta:gamma signalling through PI3Kgamma.
+DR   Reactome; R-HSA-392851; Prostacyclin signalling through prostacyclin receptor.
+DR   Reactome; R-HSA-400042; Adrenaline,noradrenaline inhibits insulin secretion.
+DR   Reactome; R-HSA-4086398; Ca2+ pathway.
+DR   Reactome; R-HSA-416476; G alpha (q) signalling events.
+DR   Reactome; R-HSA-416482; G alpha (12/13) signalling events.
+DR   Reactome; R-HSA-418217; G beta:gamma signalling through PLC beta.
+DR   Reactome; R-HSA-418555; G alpha (s) signalling events.
+DR   Reactome; R-HSA-418592; ADP signalling through P2Y purinoceptor 1.
+DR   Reactome; R-HSA-418594; G alpha (i) signalling events.
+DR   Reactome; R-HSA-418597; G alpha (z) signalling events.
+DR   Reactome; R-HSA-420092; Glucagon-type ligand receptors.
+DR   Reactome; R-HSA-428930; Thromboxane signalling through TP receptor.
+DR   Reactome; R-HSA-432040; Vasopressin regulates renal water homeostasis via Aquaporins.
+DR   Reactome; R-HSA-456926; Thrombin signalling through proteinase activated receptors (PARs).
+DR   Reactome; R-HSA-500657; Presynaptic function of Kainate receptors.
+DR   Reactome; R-HSA-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   Reactome; R-HSA-8964315; G beta:gamma signalling through BTK.
+DR   Reactome; R-HSA-8964616; G beta:gamma signalling through CDC42.
+DR   Reactome; R-HSA-9009391; Extra-nuclear estrogen signaling.
+DR   Reactome; R-HSA-9634597; GPER1 signaling.
+DR   Reactome; R-HSA-9660821; ADORA2B mediated anti-inflammatory cytokines production.
+DR   Reactome; R-HSA-9717207; Sensory perception of sweet, bitter, and umami (glutamate) taste.
+DR   Reactome; R-HSA-9856530; High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells.
+DR   Reactome; R-HSA-997272; Inhibition of voltage gated Ca2+ channels via Gbeta/gamma subunits.
+DR   SignaLink; Q9P2W3; -.
+DR   Agora; ENSG00000127588; -.
+DR   BioGRID-ORCS; 51764; 29 hits in 1136 CRISPR screens.
+DR   GeneWiki; GNG13; -.
+DR   GenomeRNAi; 51764; -.
+DR   Pharos; Q9P2W3; Tbio.
+DR   PRO; PR:Q9P2W3; -.
+DR   Proteomes; UP000005640; Chromosome 16.
+DR   RNAct; Q9P2W3; protein.
+DR   Bgee; ENSG00000127588; Expressed in right hemisphere of cerebellum and 69 other cell types or tissues.
+DR   GO; GO:0030425; C:dendrite; IEA:Ensembl.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IBA:GO_Central.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0045202; C:synapse; IEA:Ensembl.
+DR   GO; GO:0031681; F:G-protein beta-subunit binding; IPI:UniProtKB.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0007200; P:phospholipase C-activating G protein-coupled receptor signaling pathway; IEA:InterPro.
+DR   GO; GO:0050909; P:sensory perception of taste; IEA:InterPro.
+DR   CDD; cd00068; GGL; 1.
+DR   FunFam; 4.10.260.10:FF:000004; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13; 1.
+DR   Gene3D; 4.10.260.10; Transducin (heterotrimeric G protein), gamma chain; 1.
+DR   InterPro; IPR001770; G-protein_gamma.
+DR   InterPro; IPR015898; G-protein_gamma-like_dom.
+DR   InterPro; IPR036284; GGL_sf.
+DR   InterPro; IPR039227; GNG13.
+DR   PANTHER; PTHR15936; GUANINE NUCLEOTIDE-BINDING PROTEIN G I /G S /G O GAMMA-13 SUBUNIT; 1.
+DR   PANTHER; PTHR15936:SF2; GUANINE NUCLEOTIDE-BINDING PROTEIN G(I)_G(S)_G(O) SUBUNIT GAMMA-13; 1.
+DR   Pfam; PF00631; G-gamma; 1.
+DR   PRINTS; PR00321; GPROTEING.
+DR   SMART; SM01224; G_gamma; 1.
+DR   SMART; SM00224; GGL; 1.
+DR   SUPFAM; SSF48670; Transducin (heterotrimeric G protein), gamma chain; 1.
+DR   PROSITE; PS50058; G_PROTEIN_GAMMA; 1.
+PE   1: Evidence at protein level;
+KW   Cell membrane; Lipoprotein; Membrane; Methylation; Prenylation;
+KW   Proteomics identification; Reference proteome; Transducer.
+FT   CHAIN           1..64
+FT                   /note="Guanine nucleotide-binding protein G(I)/G(S)/G(O)
+FT                   subunit gamma-13"
+FT                   /id="PRO_0000012671"
+FT   PROPEP          65..67
+FT                   /note="Removed in mature form"
+FT                   /evidence="ECO:0000250"
+FT                   /id="PRO_0000012672"
+FT   MOD_RES         64
+FT                   /note="Cysteine methyl ester"
+FT                   /evidence="ECO:0000250"
+FT   LIPID           64
+FT                   /note="S-farnesyl cysteine"
+FT                   /evidence="ECO:0000250"
+SQ   SEQUENCE   67 AA;  7949 MW;  080E0C34A8F70327 CRC64;
+     MEEWDVPQMK KEVESLKYQL AFQREMASKT IPELLKWIED GIPKDPFLNP DLMKNNPWVE
+     KGKCTIL
+//

@@ -1,0 +1,84 @@
+ID   A0A9X9ZA26_RAT          Unreviewed;        71 AA.
+AC   A0A9X9ZA26;
+DT   08-NOV-2023, integrated into UniProtKB/TrEMBL.
+DT   08-NOV-2023, sequence version 1.
+DT   28-JAN-2026, entry version 10.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit gamma {ECO:0000256|RuleBase:RU004973};
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha; Muroidea; Muridae;
+OC   Murinae; Rattus.
+OX   NCBI_TaxID=10116 {ECO:0000313|PDB:7TS0};
+RN   [1] {ECO:0007829|PDB:7TRY, ECO:0007829|PDB:7TS0}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.80 ANGSTROMS).
+RX   PubMed=36335102; DOI=10.1038/s41467-022-33851-3;
+RA   Zhao L.H., Lin J., Ji S.Y., Zhou X.E., Mao C., Shen D.D., He X., Xiao P.,
+RA   Sun J., Melcher K., Zhang Y., Yu X., Xu H.E.;
+RT   "Structure insights into selective coupling of G protein subtypes by a
+RT   class B G protein-coupled receptor.";
+RL   Nat. Commun. 13:6670-6670(2022).
+RN   [2] {ECO:0007829|PDB:8ZBE}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (3.24 ANGSTROMS).
+RX   PubMed=38926478; DOI=10.1038/s41401-024-01314-8;
+RA   Li Y.G., Meng X.Y., Yang X., Ling S.L., Shi P., Tian C.L., Yang F.;
+RT   "Structural insights into somatostatin receptor 5 bound with cyclic
+RT   peptides.";
+RL   Acta Pharmacol. Sin. 45:2432-2440(2024).
+CC   -!- FUNCTION: Guanine nucleotide-binding proteins (G proteins) are involved
+CC       as a modulator or transducer in various transmembrane signaling
+CC       systems. The beta and gamma chains are required for the GTPase
+CC       activity, for replacement of GDP by GTP, and for G protein-effector
+CC       interaction. {ECO:0000256|RuleBase:RU004973}.
+CC   -!- SUBUNIT: G proteins are composed of 3 units; alpha, beta and gamma.
+CC       {ECO:0000256|RuleBase:RU004973}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000256|ARBA:ARBA00004342,
+CC       ECO:0000256|RuleBase:RU004973}; Lipid-anchor
+CC       {ECO:0000256|ARBA:ARBA00004342, ECO:0000256|RuleBase:RU004973};
+CC       Cytoplasmic side {ECO:0000256|ARBA:ARBA00004342,
+CC       ECO:0000256|RuleBase:RU004973}.
+CC   -!- SIMILARITY: Belongs to the G protein gamma family.
+CC       {ECO:0000256|ARBA:ARBA00007431, ECO:0000256|RuleBase:RU004973}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   PDB; 7TRY; EM; 3.70 A; G=1-71.
+DR   PDB; 7TS0; EM; 2.80 A; G=1-71.
+DR   PDB; 8ZBE; EM; 3.24 A; D=1-71.
+DR   AlphaFoldDB; A0A9X9ZA26; -.
+DR   EMDB; EMD-26103; -.
+DR   EMDB; EMD-26104; -.
+DR   EMDB; EMD-39901; -.
+DR   SMR; A0A9X9ZA26; -.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IEA:InterPro.
+DR   GO; GO:0031681; F:G-protein beta-subunit binding; IEA:InterPro.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IEA:InterPro.
+DR   CDD; cd00068; GGL; 1.
+DR   FunFam; 4.10.260.10:FF:000001; Guanine nucleotide-binding protein subunit gamma; 1.
+DR   Gene3D; 4.10.260.10; Transducin (heterotrimeric G protein), gamma chain; 1.
+DR   InterPro; IPR001770; G-protein_gamma.
+DR   InterPro; IPR015898; G-protein_gamma-like_dom.
+DR   InterPro; IPR036284; GGL_sf.
+DR   PANTHER; PTHR13809; GUANINE NUCLEOTIDE-BINDING PROTEIN GAMMA SUBUNIT; 1.
+DR   Pfam; PF00631; G-gamma; 1.
+DR   PRINTS; PR00321; GPROTEING.
+DR   SMART; SM01224; G_gamma; 1.
+DR   SMART; SM00224; GGL; 1.
+DR   SUPFAM; SSF48670; Transducin (heterotrimeric G protein), gamma chain; 1.
+DR   PROSITE; PS50058; G_PROTEIN_GAMMA; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0007829|PDB:7TRY, ECO:0007829|PDB:7TS0};
+KW   Cell membrane {ECO:0000256|ARBA:ARBA00022475,
+KW   ECO:0000256|RuleBase:RU004973};
+KW   Lipoprotein {ECO:0000256|ARBA:ARBA00023288, ECO:0000256|RuleBase:RU004973};
+KW   Membrane {ECO:0000256|ARBA:ARBA00023136, ECO:0000256|RuleBase:RU004973};
+KW   Methylation {ECO:0000256|ARBA:ARBA00022481};
+KW   Prenylation {ECO:0000256|ARBA:ARBA00023289};
+KW   Transducer {ECO:0000256|ARBA:ARBA00023224, ECO:0000256|RuleBase:RU004973}.
+FT   DOMAIN          5..71
+FT                   /note="G protein gamma"
+FT                   /evidence="ECO:0000259|PROSITE:PS50058"
+SQ   SEQUENCE   71 AA;  7850 MW;  EDB74E4135E7A37A CRC64;
+     MASNNTASIA QARKLVEQLK MEANIDRIKV SKAAADLMAY CEAHAKEDPL LTPVPASENP
+     FREKKFFCAI L
+//

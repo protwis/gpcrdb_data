@@ -1,0 +1,2139 @@
+PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
+10TM	F, R	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H	R:401, R:402, F:401, F:402
+1F88	A, B	ZN	Zinc ion	Ion	Cofactor	J, K, P, Q	A:907, A:910, B:908, B:909
+1F88	A, B	HG	Mercury (ii) ion	Ion		G, H, I, M, N, O	A:901, A:903, A:905, B:902, B:904, B:906
+1GZM	A, B	PLM	Palmitic acid	Lipid	Cofactor	H, I, T, U	A:1333, A:1334, B:1333, B:1334
+1GZM	A, B	PEF	Di-palmitoyl-3-sn-phosphatidylethanolamine	Other	Cofactor	J, X	A:1341, B:1342
+1GZM	A, B	C8E	(hydroxyethyloxy)tri(ethyloxy)octane	Other	Cofactor	AA, BA, CA, L, M, N, O, P, Q, V, W, Z	B:1345, B:1346, B:1347, A:1343, A:1344, A:1345, A:1346, A:1347, A:1348, B:1340, B:1341, B:1344
+1GZM	A, B	ZN	Zinc ion	Ion	Cofactor	EA, R	B:1349, A:1349
+1GZM	A, B	LDA	Lauramine oxide	Detergent		DA, K, Y	B:1348, A:1342, B:1343
+1HZX	A, B	PLM	Palmitic acid	Lipid	Cofactor	HA, S, T	B:1322, A:1322, A:1323
+1HZX	A, B	ZN	Zinc ion	Ion	Cofactor	EA, FA, GA, O, P, Q, R	B:956, B:958, B:963, A:957, A:959, A:962, A:964
+1HZX	A, B	BNG	Nonyl glucoside	Detergent		AA, G, H, I, J, K, Z	B:1506, A:1500, A:1501, A:1503, A:1504, A:1505, B:1502
+1HZX	A, B	HG	Mercury (ii) ion	Ion		BA, CA, DA, L, M, N	B:902, B:904, B:906, A:901, A:903, A:905
+1L9H	A, B	PLM	Palmitic acid	Lipid	Cofactor	IA, KA, W, Y, Z	B:1407, B:1322, A:1410, A:1322, A:1323
+1L9H	A, B	ZN	Zinc ion	Ion	Cofactor	FA, GA, HA, O, P, Q, R	B:956, B:958, B:963, A:957, A:959, A:962, A:2011
+1L9H	A, B	BNG	Nonyl glucoside	Detergent		AA, BA, G, H, I, J, K	B:1502, B:1506, A:1500, A:1501, A:1503, A:1504, A:1505
+1L9H	A, B	HG	Mercury (ii) ion	Ion		CA, DA, EA, L, M, N	B:902, B:904, B:906, A:901, A:903, A:905
+1U19	A, B	PLM	Palmitic acid	Lipid	Cofactor	AA, CA, O, P, Q, Z	B:1323, B:1407, A:1322, A:1323, A:1410, B:1322
+1U19	A, B	ZN	Zinc ion	Ion	Cofactor	J, K, L, M, V, W, X	A:957, A:959, A:962, A:2011, B:956, B:958, B:963
+1U19	A, B	HG	Mercury (ii) ion	Ion		G, H, I, S, T, U	A:901, A:903, A:905, B:902, B:904, B:906
+1U19	A, B	HTG	Heptyl 1-thio-glucoside	Detergent		DA, EA, FA, R	B:1506, B:1508, B:1509, A:1507
+23SO	M, R	CLR	Cholesterol	Lipid	Cofactor	H, I, J, K, L, N, O, P, Q, R	M:501, M:502, M:503, M:504, M:505, R:501, R:502, R:503, R:504, R:505
+2G87	A, B	PLM	Palmitic acid	Lipid	Cofactor	AA, CA, O, P, Q, Z	B:1323, B:1407, A:1322, A:1323, A:1410, B:1322
+2G87	A, B	ZN	Zinc ion	Ion	Cofactor	J, K, L, M, V, W, X	A:957, A:959, A:962, A:2011, B:956, B:958, B:963
+2G87	A, B	HTG	Heptyl 1-thio-glucoside	Detergent		DA, EA, FA, R	B:1506, B:1508, B:1509, A:1507
+2G87	A, B	HG	Mercury (ii) ion	Ion		G, H, I, S, T, U	A:901, A:903, A:905, B:902, B:904, B:906
+2HPY	A, B	PLM	Palmitic acid	Lipid	Cofactor	AA, BA, DA, O, P, Q	B:1322, B:1323, B:1407, A:1322, A:1323, A:1410
+2HPY	A, B	ZN	Zinc ion	Ion	Cofactor	J, K, L, M, W, X, Y	A:957, A:959, A:962, A:2011, B:956, B:958, B:963
+2HPY	A, B	HG	Mercury (ii) ion	Ion		G, H, I, T, U, V	A:901, A:903, A:905, B:902, B:904, B:906
+2HPY	A, B	HTG	Heptyl 1-thio-glucoside	Detergent		EA, FA, R, S	B:1506, B:1509, A:1507, A:1508
+2I36	A	PLM	Palmitic acid	Lipid	Cofactor	J	A:401
+2J4Y	A, B	NAG	D-glcnac	Other		D, F	A:1327, B:1327
+2PED	A, B	PLM	Palmitic acid	Lipid	Cofactor	AA, BA, DA, O, P, Q	B:1322, B:1323, B:1407, A:1322, A:1323, A:1410
+2PED	A, B	ZN	Zinc ion	Ion	Cofactor	J, K, L, M, W, X, Y	A:957, A:959, A:962, A:2011, B:956, B:958, B:963
+2PED	A, B	HG	Mercury (ii) ion	Ion		G, H, I, T, U, V	A:901, A:903, A:905, B:902, B:904, B:906
+2PED	A, B	HTG	Heptyl 1-thio-glucoside	Detergent		EA, FA, R, S	B:1506, B:1509, A:1507, A:1508
+2RH1	A	CLR	Cholesterol	Lipid	Cofactor	M, N, O	A:412, A:413, A:414
+2RH1	A	PLM	Palmitic acid	Lipid	Cofactor	P	A:415
+2RH1	A	BU1	1,4-butanediol	Other	Cofactor	J, K	A:409, A:410
+2RH1	A	ACM	Acetamide	Other	Cofactor	L	A:411
+2VT4	A, B, C, D	NA	Sodium ion	Ion	Cofactor	F, L, Q, W	A:401, B:401, C:401, D:401
+2VT4	A, B, C, D	SOG	Octyl 1-thio-glucoside	Detergent		G, H, I, M, N, O, R, S, T, X, Y, Z	A:402, A:403, A:405, B:402, B:404, B:405, C:402, C:404, C:405, D:402, D:403, D:405
+2X72	A	ACT	Acetate ion	Other	Cofactor	J	A:412
+2X72	A	PLM	Palmitic acid	Lipid	Cofactor	F, G	A:403, A:404
+2X72	A	PEF	Di-palmitoyl-3-sn-phosphatidylethanolamine	Other	Cofactor	D	A:401
+2X72	A	LPP	3-sn-phosphatidic acid	Other	Cofactor	I	A:411
+2X72	A	BOG	Octyl glucoside	Detergent		E	A:402
+2Y00	A	NA	Sodium ion	Ion	Cofactor	K	A:1359
+2Y00	A, B	Y01	Cholesterol hemisuccinate	Lipid		C, D, L, M	A:401, A:402, B:401, B:402
+2Y00	A, B	2CV	Hega-10	Detergent		E, F, G, H, I, N, O, P, Q, R	A:501, A:502, A:503, A:504, A:505, B:501, B:502, B:503, B:504, B:505
+2Y01	A, B	Y01	Cholesterol hemisuccinate	Lipid		C, D, K, L	A:401, A:402, B:401, B:402
+2Y01	A, B	2CV	Hega-10	Detergent		E, F, G, H, I, M, N, O, P, Q	A:501, A:502, A:503, A:504, A:505, B:501, B:502, B:503, B:504, B:505
+2Y02	A	NA	Sodium ion	Ion	Cofactor	K	A:701
+2Y02	A, B	Y01	Cholesterol hemisuccinate	Lipid		C, D, L, M	A:401, A:402, B:401, B:402
+2Y02	A, B	2CV	Hega-10	Detergent		E, F, G, H, I, N, O, P, Q, R	A:501, A:502, A:503, A:504, A:505, B:501, B:502, B:503, B:504, B:505
+2Y03	A	NA	Sodium ion	Ion	Cofactor	H	A:701
+2Y03	A, B	Y01	Cholesterol hemisuccinate	Lipid		C, I	A:401, B:401
+2Y03	A, B	2CV	Hega-10	Detergent		D, E, F, J, K, L	A:501, A:502, A:503, B:501, B:502, B:503
+2Y04	A	NA	Sodium ion	Ion	Cofactor	K	A:701
+2Y04	A, B	Y01	Cholesterol hemisuccinate	Lipid		C, D, L, M	A:401, A:402, B:401, B:402
+2Y04	A, B	2CV	Hega-10	Detergent		E, F, G, H, I, N, O, P, Q, R	A:501, A:502, A:503, A:504, A:505, B:501, B:502, B:503, B:504, B:505
+2YCW	A, B	NA	Sodium ion	Ion	Cofactor	F, K	A:1362, B:1363
+2YCW	A, B	2CV	Hega-10	Detergent		D, E, H, I, J	A:1360, A:1361, B:1360, B:1361, B:1362
+2Z73	A, B	PLM	Palmitic acid	Lipid	Cofactor	E, F, K, L	A:1001, A:1002, B:1001, B:1002
+2Z73	A, B	TWT	Docosane	Other	Cofactor	G, M	A:1003, B:1003
+2Z73	B	PC1	3-sn-phosphatidylcholine	Other	Cofactor	N	B:1004
+2Z73	A, B	BOG	Octyl glucoside	Detergent		C, H	A:1005, B:1005
+3AYN	A, B	PLM	Palmitic acid	Lipid	Cofactor	D, E, H	A:1001, A:1004, B:1001
+3AYN	B	PC1	3-sn-phosphatidylcholine	Other	Cofactor	I	B:1004
+3AYN	B	BOG	Octyl glucoside	Detergent		J	B:1005
+3C9L	A	ZN	Zinc ion	Ion	Cofactor	D	A:1349
+3C9L	A	PLM	Palmitic acid	Lipid	Cofactor	G, H	A:1333, A:1334
+3C9L	A	PEF	Di-palmitoyl-3-sn-phosphatidylethanolamine	Other	Cofactor	I	A:1341
+3C9L	A	C8E	(hydroxyethyloxy)tri(ethyloxy)octane	Other	Cofactor	K, L, M, N, O, P	A:1343, A:1344, A:1345, A:1346, A:1347, A:1348
+3C9L	A	LDA	Lauramine oxide	Detergent		J	A:1342
+3CAP	A, B	PLM	Palmitic acid	Lipid	Cofactor	K, N	A:901, B:902
+3CAP	A, B	BGL	2-o-octyl-glucose	Other	Cofactor	G, H, I, J, L, M	A:801, A:802, A:803, A:804, B:805, B:806
+3DQB	A	PLM	Palmitic acid	Lipid	Cofactor	H, I	A:701, A:702
+3DQB	A	BOG	Octyl glucoside	Detergent		E, F, G	A:601, A:602, A:603
+3OAX	A, B	PLM	Palmitic acid	Lipid	Cofactor	H, I, V, W	A:1322, A:1323, B:1322, B:1323
+3OAX	A, B	ZN	Zinc ion	Ion	Cofactor	AA, BA, CA, M, N, O, P	B:956, B:958, B:963, A:957, A:959, A:962, A:2011
+3OAX	A, B	4E6	(4e,6e)-hexadeca-1,4,6-triene	Other	Cofactor	EA, Q	B:1407, A:1410
+3OAX	A, B	HG	Mercury (ii) ion	Ion		J, K, L, X, Y, Z	A:901, A:903, A:905, B:902, B:904, B:906
+3OAX	A, B	HTG	Heptyl 1-thio-glucoside	Detergent		FA, GA, R, S	B:1506, B:1509, A:1507, A:1508
+3ODU	A, B	OLA	Oleic acid	Lipid	Cofactor	G, K, L, M, N, O	A:1610, B:1605, B:1606, B:1607, B:1608, B:1609
+3ODU	A, B	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, I, J	A:1600, A:1603, A:1604, B:1601, B:1602
+3OE6	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E	A:1600, A:1601, A:1602
+3PQR	A	PLM	Palmitic acid	Lipid	Cofactor	I	A:701
+3PQR	A	ACT	Acetate ion	Other	Cofactor	K, L	A:901, A:902
+3PQR	A	NAG	D-glcnac	Other		F	A:501
+3PQR	A	BOG	Octyl glucoside	Detergent		G, H	A:601, A:602
+3ZEV	A	GLY	Glycine	Other	Cofactor	E, F, G, H, I	A:1387, A:1388, A:1389, A:1390, A:1391
+3ZPR	A, B	NA	Sodium ion	Ion	Cofactor	C, D, K, L	A:1, A:2, B:1, B:2
+3ZPR	A, B	Y01	Cholesterol hemisuccinate	Lipid		E, F, M, N	A:401, A:402, B:401, B:402
+3ZPR	A, B	2CV	Hega-10	Detergent		H, I, J, P, Q, R, S, T	A:501, A:502, A:503, B:501, B:502, B:503, B:505, B:506
+4A4M	A	ACT	Acetate ion	Other	Cofactor	E	A:1402
+4A4M	A	PLM	Palmitic acid	Lipid	Cofactor	G	A:1404
+4A4M	A	BOG	Octyl glucoside	Detergent		F	A:1403
+4AMJ	A, B	NA	Sodium ion	Ion	Cofactor	D, O	A:1360, B:1361
+4AMJ	A, B	2CV	Hega-10	Detergent		E, F, G, H, I, J, K, L, M, P, Q, R	A:1361, A:1362, A:1363, A:1364, A:1365, A:1366, A:1367, A:1368, B:1359, B:1362, B:1363, B:1364
+4BEY	A	ACT	Acetate ion	Other	Cofactor	E	A:1328
+4BEY	A	PLM	Palmitic acid	Lipid	Cofactor	F	A:1329
+4BEY	A	BOG	Octyl glucoside	Detergent		G	A:1334
+4BUO	A, B	GLY	Glycine	Other	Cofactor	E, F, G, H, I, J, K, L, M, N, O	A:1385, A:1386, A:1387, A:1388, A:1389, A:1390, A:1391, A:1392, B:1387, B:1388, B:1389
+4BVN	A	NA	Sodium ion	Ion	Cofactor	B, C	A:1359, A:1360
+4BVN	A	MHA	N-(2-acetamido)iminodiacetic acid	Other	Cofactor	E	A:1362
+4BVN	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G, H, I, J, K, L	A:2001, A:2002, A:2003, A:2004, A:2005, A:2006, A:2007
+4DKL	A	CLR	Cholesterol	Lipid	Cofactor	O	A:614
+4DKL	A	MPG	[(z)-octadec-9-enyl] (2r)-2,3-bis(oxidanyl)propanoate	Other	Cofactor	P, Q	A:615, A:616
+4DKL	A	CL	Chloride ion	Ion		S	A:618
+4EA3	A	OLA	Oleic acid	Lipid	Cofactor	E	A:1503
+4EA3	B	OLC	1-oleoyl-r-glycerol	Lipid		G	B:1502
+4EA3	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		D	A:1502
+4EIY	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2403, A:2404, A:2405
+4EIY	A	OLA	Oleic acid	Lipid		G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V	A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421
+4EIY	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, W, X, Y, Z	A:2427, A:2428, A:2422, A:2423, A:2424, A:2425
+4EIY	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		AA	A:2426
+4J4Q	A	PLM	Palmitic acid	Lipid	Cofactor	I	A:409
+4J4Q	A	ACT	Acetate ion	Other	Cofactor	K	A:411
+4J4Q	A	BOG	Octyl glucoside	Detergent		E, F, G, H	A:405, A:406, A:407, A:408
+4K5Y	A, C	OLA	Oleic acid	Lipid	Cofactor	E, S	A:501, C:501
+4K5Y	B	PGW	Phosphatidylglycerol	Other	Cofactor	K, L, M	B:502, B:503, B:504
+4K5Y	A, B	OLC	1-oleoyl-r-glycerol	Lipid		F, G, J	A:502, A:503, B:501
+4MBS	A, B	ZN	Zinc ion	Ion	Cofactor	D, L	A:1102, B:1102
+4MBS	A, B	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I, J, M, N, O, P	A:1103, A:1104, A:1105, A:1106, A:1107, A:1108, B:1103, B:1104, B:1105, B:1106
+4QKX	A	NA	Sodium ion	Ion	Cofactor	C, D	A:1401, A:1402
+4U15	B	OLC	1-oleoyl-r-glycerol	Lipid		J, K	B:1202, B:1203
+4WW3	B	PC1	3-sn-phosphatidylcholine	Other	Cofactor	M	B:406
+4WW3	A, B	TWT	Docosane	Other	Cofactor	F, L	A:404, B:405
+4WW3	A, B	PLM	Palmitic acid	Lipid	Cofactor	D, E, J, K	A:402, A:403, B:403, B:404
+4WW3	A, B	BOG	Octyl glucoside	Detergent		G, N	A:405, B:407
+4X1H	A	PLM	Palmitic acid	Lipid	Cofactor	G, H	A:1322, A:1323
+4X1H	A	BNG	Nonyl glucoside	Detergent		E, F	A:407, A:410
+4XNW	A, C	ZN	Zinc ion	Ion	Cofactor	D, F	A:1102, C:1102
+4ZJC	A	OLA	Oleic acid	Lipid	Cofactor	C, D	A:2002, A:2003
+5A8E	A	NA	Sodium ion	Ion	Cofactor	B, C	A:401, A:402
+5A8E	A	MHA	N-(2-acetamido)iminodiacetic acid	Other	Cofactor	E	A:801
+5A8E	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G, H, I, J	A:2001, A:2002, A:2003, A:2004, A:2005
+5CXV	A	Y01	Cholesterol hemisuccinate	Lipid		D	A:502
+5D5A	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I	A:1206, A:1207, A:1208
+5D5A	A	PLM	Palmitic acid	Lipid	Cofactor	J	A:1209
+5D5A	A	ACM	Acetamide	Other	Cofactor	F	A:1205
+5D5A	A	BU1	1,4-butanediol	Other	Cofactor	D, E	A:1203, A:1204
+5DHG	A, B	OLA	Oleic acid	Lipid	Cofactor	D, E, F, I, J	A:1202, A:1203, A:1204, B:1503, B:1504
+5DHG	B	OLC	1-oleoyl-r-glycerol	Lipid		H	B:1502
+5DHH	A, B	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, I, J	A:1201, A:1202, A:1203, A:1204, A:1205, B:1501, B:1502
+5DHH	B	OLC	1-oleoyl-r-glycerol	Lipid		L	B:1504
+5DSG	A, B	OLA	Oleic acid	Lipid	Cofactor	D, E, K, N, O	A:1202, A:1203, A:1209, B:1203, B:1204
+5DSG	A	EDT	Edetic acid	Other	Cofactor	F	A:1204
+5DSG	A, B	OLC	1-oleoyl-r-glycerol	Lipid		H, I, J, M, Q	A:1206, A:1207, A:1208, B:1202, B:1206
+5EE7	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, H, I, J, K, L, M, N, O, P	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215
+5EE7	A	PE5	Polyethylene glycol peg400	Other	Cofactor	Q	A:1216
+5EN0	A	ACT	Acetate ion	Other	Cofactor	E, F	A:402, A:403
+5EN0	A	PLM	Palmitic acid	Lipid	Cofactor	H, I	A:405, A:406
+5EN0	A	BOG	Octyl glucoside	Detergent		G, J	A:404, A:411
+5K2C	A	NA	Sodium ion	Ion	Cofactor	C	A:1202
+5K2C	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+5K2C	A	OLA	Oleic acid	Lipid	Cofactor	P, Q, R, S, T, U, V, W, X, Y, Z	A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+5K2C	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, G, H, I, J, K, L, M, N, O	A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214
+5L7D	A	NA	Sodium ion	Ion	Cofactor	F, G	A:1204, A:1205
+5L7D	A	NAG	D-glcnac	Other		C, D	A:1201, A:1202
+5L7I	B	NA	Sodium ion	Ion	Cofactor	E	B:1201
+5L7I	B	MPG	[(z)-octadec-9-enyl] (2r)-2,3-bis(oxidanyl)propanoate	Other	Cofactor	G, H	B:1203, B:1204
+5L7I	A	NAG	D-glcnac	Other		C	A:1201
+5NDZ	A	NA	Sodium ion	Ion	Cofactor	C	A:2202
+5O9H	A, B	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, DA, EA, F, FA, G, GA, H, HA, I, IA, J, JA, K, KA, L, LA, M, MA, N, O, P, Q, R, S, T, W, X, Y, Z	B:407, B:408, B:409, B:410, B:411, A:404, B:412, A:405, B:413, A:406, B:414, A:407, B:415, A:408, B:416, A:409, B:417, A:410, B:418, A:411, B:419, A:412, A:413, A:414, A:415, A:416, A:417, A:418, B:403, B:404, B:405, B:406
+5T04	A	TCE	3,3',3''-phosphanetriyltripropanoic acid	Other	Cofactor	C	A:1201
+5UEN	A, B	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, I, J, K	A:1202, A:1203, A:1204, A:1205, B:1202, B:1203, B:1204
+5V56	A, B	FMN	Flavin mononucleotide	Other		D, G	A:1202, B:1202
+5V56	A	NAG	D-glcnac	Other		E	A:1203
+5V57	B	OLC	1-oleoyl-r-glycerol	Lipid		G	B:1203
+5V57	A, B	FMN	Flavin mononucleotide	Other		D, F	A:1202, B:1202
+5VEW	A	OLA	Oleic acid	Lipid	Cofactor	F	A:1204
+5VEW	A, B	OLC	1-oleoyl-r-glycerol	Lipid		D, E, G, I, J, K	A:1202, A:1203, B:1201, B:1203, B:1204, B:1205
+5WIU	A	OLA	Oleic acid	Lipid		F, G, H, I, J, K, L, M, N	A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213
+5WKT	A	BOG	Octyl glucoside	Detergent		E, F, G	A:405, A:406, A:407
+5X7D	A	CLR	Cholesterol	Lipid	Cofactor	D, E	A:1203, A:1204
+5X7D	A	BU1	1,4-butanediol	Other	Cofactor	H	A:1207
+5X7D	A	ACM	Acetamide	Other	Cofactor	I	A:1208
+5XF1	B	NAG	D-glcnac	Other		N	B:1206
+5XRA	A	CLR	Cholesterol	Lipid	Cofactor	I	A:608
+5XRA	A	OLA	Oleic acid	Lipid	Cofactor	D, E	A:603, A:604
+5XRA	A	FMN	Flavin mononucleotide	Other		B	A:601
+5XRA	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G	A:605, A:606
+5ZKQ	A, B	ZN	Zinc ion	Ion	Cofactor	H, M	A:506, B:1205
+5ZKQ	A, B	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, G, J, K, L	A:502, A:503, A:504, A:505, B:1202, B:1203, B:1204
+6AKX	A, B	NO3	Nitrate ion	Other	Cofactor	D, G	A:2002, B:2002
+6AKX	A, B	ZN	Zinc ion	Ion	Cofactor	C, F	A:2001, B:2001
+6AKY	A	ZN	Zinc ion	Ion	Cofactor	B	A:2001
+6AKY	A	OLC	1-oleoyl-r-glycerol	Lipid		C	A:2002
+6C1R	B	MLI	Malonate ion	Other	Cofactor	D, E	B:502, B:503
+6C1R	B	NA	Sodium ion	Ion	Cofactor	F	B:504
+6C1R	B	OLA	Oleic acid	Lipid	Cofactor	J, K, L, M	B:508, B:509, B:510, B:511
+6C1R	B	OLC	1-oleoyl-r-glycerol	Lipid		H, I	B:506, B:507
+6D26	A	SIN	Succinic acid	Other	Cofactor	L, M, N, O, P	A:2411, A:2412, A:2413, A:2414, A:2415
+6D26	A	OLA	Oleic acid	Lipid	Cofactor	R	A:2417
+6D26	A	PGO	S-1,2-propanediol	Other	Cofactor	S	A:2418
+6D27	A	OLA	Oleic acid	Lipid	Cofactor	K, L	A:2410, A:2411
+6D27	A	PGO	S-1,2-propanediol	Other	Cofactor	O, P, Q, R	A:2414, A:2415, A:2416, A:2417
+6FJ3	A	OLA	Oleic acid	Lipid	Cofactor	I, J, K, L, M, N, O, P, Q	A:1518, A:1519, A:1520, A:1521, A:1522, A:1523, A:1524, A:1525, A:1526
+6FJ3	A	ACY	Acetic acid	Other	Cofactor	R	A:1527
+6FJ3	A	CL	Chloride ion	Ion		T	A:1529
+6FJ3	A	MAN	Mannose	Other		F, G, H	A:1511, A:1516, A:1517
+6H7J	A, B	NA	Sodium ion	Ion	Cofactor	H, N	A:402, B:403
+6H7J	A, B	2CV	Hega-10	Detergent		I, J, K, L, O	A:403, A:404, A:405, B:401, B:404
+6H7O	A, B	NA	Sodium ion	Ion	Cofactor	H, O	A:402, B:402
+6H7O	A, B	2CV	Hega-10	Detergent		I, J, K, L, M, P, Q	A:403, A:404, A:405, A:406, A:407, B:403, B:404
+6KUW	A, B	CLR	Cholesterol	Lipid	Cofactor	D, M	A:1202, B:1202
+6KUW	A	OLA	Oleic acid	Lipid	Cofactor	J, K	A:1208, A:1209
+6KUW	A, B	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I, N, O	A:1203, A:1204, A:1205, A:1206, A:1207, B:1203, B:1204
+6LN2	A	ZN	Zinc ion	Ion	Cofactor	E	A:502
+6LN2	A	NAG	D-glcnac	Other		D	A:501
+6LPL	A	NA	Sodium ion	Ion	Cofactor	C	A:2402
+6LPL	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2403, A:2404, A:2405
+6LPL	A	ER0	[(2~{r},3~{s})-2,3,4-tris(oxidanyl)butyl] (5~{r},9~{r},13~{r})-5,9,13,17-tetramethyloctadecanoate	Other	Cofactor	Q, X	A:2416, A:2423
+6LPL	A	8K6	Octadecane	Other	Cofactor	K, S, T	A:2410, A:2418, A:2419
+6LPL	A	D12	Dodecane	Other	Cofactor	G	A:2406
+6LPL	A	HEX	Hexane	Other	Cofactor	I	A:2408
+6LPL	A	MYS	Pentadecane	Other	Cofactor	AA, H, J, O, R, Y	A:2426, A:2407, A:2409, A:2414, A:2417, A:2424
+6LPL	A	OCT	N-octane	Other	Cofactor	M, N, V	A:2412, A:2413, A:2421
+6LPL	A	TRD	Tridecane	Other	Cofactor	BA, U, W, Z	A:2427, A:2420, A:2422, A:2425
+6LPL	A	UND	Undecane	Other	Cofactor	P	A:2415
+6ME6	A	ZN	Zinc ion	Ion	Cofactor	D	A:2202
+6ME6	B	OLC	1-oleoyl-r-glycerol	Lipid		F	B:2202
+6ME7	A	ZN	Zinc ion	Ion	Cofactor	D	A:2202
+6ME7	B	OLC	1-oleoyl-r-glycerol	Lipid		F	B:2202
+6MEO	B	A2G	Tn saccharide	Other	Cofactor	U	B:401
+6MEO	G	BMA	Mannose	Other	Cofactor	N	G:612
+6MEO	G	NAG	D-glcnac	Other		M, O, P, Q, R, S, T	G:601, G:619, G:620, G:626, G:627, G:628, G:631
+6MET	B	A2G	Tn saccharide	Other	Cofactor	T	B:401
+6MET	G	NAG	D-glcnac	Other		M, N, O, P, Q, R, S	G:601, G:619, G:620, G:626, G:627, G:628, G:631
+6NBF	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:601, R:602, R:603, R:604, R:605, R:606
+6NBF	R	PLM	Palmitic acid	Lipid	Cofactor	M, N, O, P	R:607, R:608, R:609, R:610
+6NBH	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L, M	R:601, R:602, R:603, R:604, R:605, R:606, R:607
+6NBH	R	PLM	Palmitic acid	Lipid	Cofactor	N, O, P	R:608, R:609, R:610
+6NBI	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:601, R:602, R:603
+6NWE	A	PLM	Palmitic acid	Lipid	Cofactor	H	A:409
+6NWE	A	BOG	Octyl glucoside	Detergent		D, E, F, G, K	A:405, A:406, A:407, A:408, A:412
+6O3C	A	NA	Sodium ion	Ion	Cofactor	D	A:602
+6O3C	A	NAG	D-glcnac	Other		K, L	A:609, A:610
+6O3C	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		E, F, G, H, I, J	A:603, A:604, A:605, A:606, A:607, A:608
+6OIJ	R	Y01	Cholesterol hemisuccinate	Lipid		G, H	R:502, R:503
+6PB0	R	PLM	Palmitic acid	Lipid	Cofactor	K, M, N, O, P, Q, R	R:405, R:407, R:408, R:409, R:410, R:411, R:412
+6PEL	A	PLM	Palmitic acid	Lipid	Cofactor	F	A:407
+6PEL	A	BOG	Octyl glucoside	Detergent		E	A:406
+6PGS	A	PLM	Palmitic acid	Lipid	Cofactor	E	A:402
+6PGS	A	BOG	Octyl glucoside	Detergent		D	A:401
+6PH7	A	PLM	Palmitic acid	Lipid	Cofactor	E	A:406
+6PH7	A	BOG	Octyl glucoside	Detergent		D	A:401
+6PT2	A, B	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, J, K, L	A:1202, A:1203, B:1201, B:1202, B:1203, B:1204, B:1205
+6PT2	A	CLR	Cholesterol	Lipid	Cofactor	E	A:1201
+6PT2	B	OLC	1-oleoyl-r-glycerol	Lipid		M	B:1206
+6RZ5	A, B	OLA	Oleic acid	Lipid	Cofactor	IA, JA, KA, L, LA, M, MA, N, NA, O, OA, P, PA, Q, R, S, T, U, V	B:2011, B:2012, B:2013, A:2010, B:2014, A:2011, B:2015, A:2012, B:2016, A:2013, B:2017, A:2014, B:2018, A:2015, A:2016, A:2017, A:2018, A:2019, A:2020
+6RZ5	A, B	OLC	1-oleoyl-r-glycerol	Lipid		AA, BA, CA, D, DA, E, EA, F, FA, G, GA, H, HA, I, J, K, Z	B:2003, B:2004, B:2005, A:2002, B:2006, A:2003, B:2007, A:2004, B:2008, A:2005, B:2009, A:2006, B:2010, A:2007, A:2008, A:2009, B:2002
+6TOD	A, B	NA	Sodium ion	Ion	Cofactor	FA, LB	A:430, B:432
+6TOD	A, B	PGW	Phosphatidylglycerol	Other	Cofactor	EA, KB	A:429, B:431
+6TOD	A, B	SOG	Octyl 1-thio-glucoside	Detergent		AA, AB, BA, BB, CA, CB, DA, DB, EB, FB, GB, HB, I, IB, J, JB, K, L, LA, M, MA, N, NA, O, OA, P, PA, Q, QA, R, RA, S, SA, T, TA, U, UA, V, VA, W, WA, X, XA, Y, YA, Z, ZA	A:425, B:421, A:426, B:422, A:427, B:423, A:428, B:424, B:425, B:426, B:427, B:428, A:407, B:429, A:408, B:430, A:409, A:410, B:406, A:411, B:407, A:412, B:408, A:413, B:409, A:414, B:410, A:415, B:411, A:416, B:412, A:417, B:413, A:418, B:414, A:419, B:415, A:420, B:416, A:421, B:417, A:422, B:418, A:423, B:419, A:424, B:420
+6TP4	A, B	PGW	Phosphatidylglycerol	Other	Cofactor	H, M	A:406, B:405
+6TP4	A, B	SOG	Octyl 1-thio-glucoside	Detergent		D, E, F, I, J	A:402, A:403, A:404, B:401, B:402
+6TP6	A, B	PGW	Phosphatidylglycerol	Other	Cofactor	M, V	A:411, B:409
+6TP6	A, B	SOG	Octyl 1-thio-glucoside	Detergent		G, H, I, J, K, R, S, T, U	A:405, A:406, A:407, A:408, A:409, B:405, B:406, B:407, B:408
+6TP6	A	CL	Chloride ion	Ion		L	A:410
+6TPJ	A, B	OLA	Oleic acid	Lipid	Cofactor	AA, BA, C, CA, DA, EA, F, FA, G, GA, HA, I, IA, J, JA, K, KA, L, LA, M, MA, N, NA, O, OA, P, PA, Q, QA, R, RA, X, Y, Z	B:2108, B:2109, A:1201, B:2110, B:2111, B:2112, A:1204, B:2113, A:1205, B:2114, B:2115, A:1207, B:2116, A:1208, B:2117, A:1209, B:2118, A:1210, B:2119, A:1211, B:2120, A:1212, B:2121, A:1213, B:2122, A:1214, B:2123, A:1215, B:2124, A:1216, B:2125, B:2105, B:2106, B:2107
+6TQ4	A	NA	Sodium ion	Ion	Cofactor	O	A:413
+6TQ4	A, B	PGW	Phosphatidylglycerol	Other	Cofactor	F, S	A:404, B:404
+6TQ4	A, B	SOG	Octyl 1-thio-glucoside	Detergent		G, H, I, J, K, L, M, N, T, U, V, W, X	A:405, A:406, A:407, A:408, A:409, A:410, A:411, A:412, B:405, B:406, B:407, B:408, B:409
+6TQ7	A, B	PGW	Phosphatidylglycerol	Other	Cofactor	M, V	A:411, B:409
+6TQ7	A, B	SOG	Octyl 1-thio-glucoside	Detergent		F, G, H, I, J, K, L, R, S, T, U	A:404, A:405, A:406, A:407, A:408, A:409, A:410, B:405, B:406, B:407, B:408
+6TQ9	A	PGW	Phosphatidylglycerol	Other	Cofactor	L, M	A:410, A:411
+6TQ9	A, B	SOG	Octyl 1-thio-glucoside	Detergent		E, F, G, H, I, O, P, Q, R, S	A:403, A:404, A:405, A:406, A:407, B:402, B:403, B:404, B:405, B:406
+6UO9	B	NAG	D-glcnac	Other		I, J	B:1001, B:1002
+6UOA	B	NAG	D-glcnac	Other		H	B:903
+6VI4	B	CLR	Cholesterol	Lipid	Cofactor	G	B:402
+6W2Y	A, B	L9Q	1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine	Lipid	Cofactor	H, M	A:906, B:906
+6W2Y	A, B	MG	Magnesium ion	Ion	Cofactor	G, L	A:905, B:905
+6W2Y	A, B	NAG	D-glcnac	Other		E, F, J, K	A:901, A:904, B:901, B:902
+6WH4	A, C	CLR	Cholesterol	Lipid	Cofactor	G, M	A:1204, C:1202
+6WH4	A, B, C	OLA	Oleic acid	Lipid	Cofactor	E, F, K, Q	A:1202, A:1203, B:1203, C:1206
+6WH4	C	NDS	Ethyl dimethyl ammonio propane sulfonate	Other	Cofactor	P	C:1205
+6WIV	A	U3G	(2r)-3-{[(s)-(2-aminoethoxy)(hydroxy)phosphoryl]oxy}-2-{[(9z)-octadec-9-enoyl]oxy}propyl (5z,8z,11z,14z)-icosa-5,8,11,14-tetraenoate	Lipid	Cofactor	G	A:905
+6WIV	A, B	CLR	Cholesterol	Lipid	Cofactor	H, I, J, K, N, O, P, Q, R, S	A:906, A:907, A:908, A:909, B:903, B:904, B:905, B:906, B:907, B:908
+6WIV	A, B	NAG	D-glcnac	Other		C, D, E, L	A:901, A:902, A:903, B:901
+6YVR	AAA, BBB	BNG	Nonyl glucoside	Detergent		E, F, G, H, I, J, K, L	AAA:4001, AAA:4002, AAA:4003, BBB:4001, BBB:4002, BBB:4003, BBB:4004, BBB:4005
+7AD3	A, B	NAG	D-glcnac	Other		I, M	B:501, A:501
+7AD3	A, B	Y01	Cholesterol hemisuccinate	Lipid		J, K, L, N, O, P	B:502, B:503, B:504, A:502, A:503, A:504
+7BVQ	A	CLR	Cholesterol	Lipid	Cofactor	D	A:1401
+7BVQ	A	NA	Sodium ion	Ion	Cofactor	M	A:1410
+7BVQ	A, B	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	L, V	A:1409, B:1405
+7CA3	A, B	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1001, A:1002, B:901
+7CFM	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:402, R:403, R:404
+7CFN	R	CLR	Cholesterol	Lipid	Cofactor	G	R:402
+7CFN	R	PLM	Palmitic acid	Lipid	Cofactor	I	R:404
+7CKZ	R	CLR	Cholesterol	Lipid	Cofactor	F	R:501
+7CZ5	A, R	PLM	Palmitic acid	Lipid	Cofactor	G, I	R:601, A:401
+7CZ5	R	CLR	Cholesterol	Lipid	Cofactor	H	R:602
+7D76	A, R	PLM	Palmitic acid	Lipid	Cofactor	E, G, H	A:401, R:602, R:603
+7D76	R	CLR	Cholesterol	Lipid	Cofactor	J, K	R:605, R:606
+7D76	R	Y01	Cholesterol hemisuccinate	Lipid		F	R:601
+7D77	A, R	PLM	Palmitic acid	Lipid	Cofactor	F, H, I	A:401, R:602, R:603
+7D77	R	CLR	Cholesterol	Lipid	Cofactor	K, L	R:605, R:606
+7D77	R	Y01	Cholesterol hemisuccinate	Lipid		G	R:601
+7DD5	A, B	NAG	D-glcnac	Other		K, L, M, T, U, V	A:1105, A:1106, A:1107, B:1104, B:1105, B:1106
+7DD5	A, B	CL	Chloride ion	Ion		G, Q	A:1101, B:1101
+7DD6	A, B	NAG	D-glcnac	Other		K, L, M, S, T, U	A:1105, A:1106, A:1107, B:1105, B:1106, B:1107
+7DD6	A, B	CL	Chloride ion	Ion		G, O	A:1101, B:1101
+7DD7	A, B	CL	Chloride ion	Ion		G, P	A:1101, B:1102
+7DD7	A, B	NAG	D-glcnac	Other		J, K, L, T, U, V	A:1104, A:1105, A:1106, B:1106, B:1107, B:1108
+7DTT	A, B	NAG	D-glcnac	Other		I, J, K, L, O, P, Q, R	A:1103, A:1104, A:1105, A:1106, B:1103, B:1104, B:1105, B:1106
+7DTY	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:601, R:602, R:603, R:604, R:605, R:606
+7E14	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	R:502, R:503, R:504, R:505, R:506
+7E2X	R	PLM	Palmitic acid	Lipid	Cofactor	J, Q, R	R:606, R:613, R:614
+7E2Y	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J	R:503, R:504, R:505, R:506
+7E2Z	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H	R:502, R:503, R:504
+7E6T	A, B	NAG	D-glcnac	Other		G, H, N, O	B:905, B:906, A:905, A:906
+7F16	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J	R:501, R:502, R:503, R:504
+7F16	R	PLM	Palmitic acid	Lipid		K, L, M, N, O, P	R:505, R:506, R:507, R:508, R:509, R:510
+7F1T	A	ZN	Zinc ion	Ion	Cofactor	B	A:1101
+7F61	A	CLR	Cholesterol	Lipid	Cofactor	D	A:502
+7F6G	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	A:402, A:403, A:404, A:405, A:406, A:407
+7F6G	A	NAG	D-glcnac	Other		F	A:401
+7F6H	A	CLR	Cholesterol	Lipid	Cofactor	F, G	A:501, A:502
+7F83	A, B	OLC	1-oleoyl-r-glycerol	Lipid		C, D, F, G, H, I	A:1201, A:1202, B:1201, B:1202, B:1203, B:1204
+7F9Y	R	CLR	Cholesterol	Lipid	Cofactor	H, I	R:601, R:602
+7FIG	R, X, Y	NAG	D-glcnac	Other		H, I, J, K, L	R:2000, R:2001, X:101, X:102, Y:1000
+7FIN	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L, M	R:601, R:602, R:603, R:604, R:605, R:606, R:607
+7FIN	P	GGL	L-glutamate	Other	Cofactor	N	P:501
+7FIY	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:601, R:602, R:603, R:604, R:605, R:606
+7IN4	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IN4	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7IN4	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IN4	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INC	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INC	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INC	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INC	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7IOF	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOF	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOF	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOF	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7ION	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7ION	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7ION	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7ION	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IOR	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOR	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOR	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOR	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IPF	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IPF	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IPF	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IPF	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7KI0	P	WF1	17-amino-10-oxo-3,6,12,15-tetraoxa-9-azaheptadecan-1-oic acid	Other	Cofactor	G	P:101
+7LJC	R	CLR	Cholesterol	Lipid	Cofactor	H, I, J, K, L, M	R:503, R:504, R:505, R:506, R:507, R:508
+7LJC	R	PLM	Palmitic acid	Lipid	Cofactor	N, O, P, Q, R, S	R:509, R:510, R:511, R:512, R:513, R:514
+7LJD	R	CLR	Cholesterol	Lipid	Cofactor	H, I, J, K, L	R:503, R:504, R:505, R:506, R:507
+7LJD	R	PLM	Palmitic acid	Lipid	Cofactor	M, N, O, P	R:508, R:509, R:510, R:511
+7MBY	R	Y01	Cholesterol hemisuccinate	Lipid		F	R:501
+7P00	R	CLR	Cholesterol	Lipid	Cofactor	G	R:401
+7RKF	A	GDP	Guanosine-5'-diphosphate	Other	Cofactor	G	A:401
+7RKF	L	NAG	D-glcnac	Other		H	L:101
+7RKM	R	CLR	Cholesterol	Lipid	Cofactor	G	R:401
+7SHE	A	PEE	Phosphatidylethanolamine	Other	Cofactor	C	A:801
+7SHE	A	EIJ	(2s)-1-{[(s)-hydroxy{[(1s,2r,3r,4r,5s,6s)-2,3,4,5,6-pentahydroxycyclohexyl]oxy}phosphoryl]oxy}-3-(octadecanoyloxy)propan-2-yl (5e,8e,11e,14e)-icosa-5,8,11,14-tetraenoate	Other	Cofactor	D	A:802
+7SHE	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:803, A:804, A:805, A:806, A:807, A:808, A:809, A:810, A:811, A:812, A:813, B:801, B:802, B:803, B:804, B:805, B:806, B:807, B:808, B:809, B:810, B:811
+7SHF	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	B:801, B:802, B:803, B:804, B:805, B:806, B:807, B:808, B:809, B:810, A:801, A:802, A:803, A:804, A:805, A:806, A:807, A:808, A:809, A:810, A:811, A:812
+7SHF	A	EIJ	(2s)-1-{[(s)-hydroxy{[(1s,2r,3r,4r,5s,6s)-2,3,4,5,6-pentahydroxycyclohexyl]oxy}phosphoryl]oxy}-3-(octadecanoyloxy)propan-2-yl (5e,8e,11e,14e)-icosa-5,8,11,14-tetraenoate	Other	Cofactor	AA	A:813
+7SHF	A	PEE	Phosphatidylethanolamine	Other	Cofactor	BA	A:814
+7SIM	A, B	CLR	Cholesterol	Lipid	Cofactor	AA, BA, N, O, P, Q, R, Z	B:909, B:910, A:908, A:909, A:910, A:911, A:912, B:908
+7SIM	A, B	NAG	D-glcnac	Other		G, S	A:901, B:901
+7SR8	R	OLA	Oleic acid	Lipid	Cofactor	G, H, I, J	R:502, R:503, R:504, R:505
+7T6T	R	PLM	Palmitic acid	Lipid	Cofactor	F, G	R:401, R:402
+7T6U	R	PLM	Palmitic acid	Lipid	Cofactor	G, H	R:401, R:402
+7T9I	A, B, R	NAG	D-glcnac	Other		I, J, K, L, M, N	A:101, B:201, R:801, R:802, R:803, R:804
+7TD3	R	NAG	D-glcnac	Other		F	R:402
+7TD4	R	NAG	D-glcnac	Other		E	R:401
+7UTZ	A, B, R	NAG	D-glcnac	Other		H, I, J, K, L, M, N	A:101, A:102, B:201, R:801, R:802, R:803, R:804
+7V35	P	D6M	N-hexadecanoyl-l-glutamic acid	Other	Cofactor	G	P:501
+7V3Z	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
+7V3Z	A	FMN	Flavin mononucleotide	Other		D	A:1203
+7VKT	A	8IO	[(2r)-2-[(z)-hexadec-9-enoyl]oxy-3-[oxidanyl-[(2s,3r,5r,6s)-2,3,4,5,6-pentakis(oxidanyl)cyclohexyl]oxy-phosphoryl]oxy-propyl] octadecanoate	Other	Cofactor	K	A:406
+7VKT	A	Y01	Cholesterol hemisuccinate	Lipid		G, H, I, J	A:402, A:403, A:404, A:405
+7VOD	A	CLR	Cholesterol	Lipid	Cofactor	C, D, H	A:1202, A:1203, A:1207
+7VOD	A	MG	Magnesium ion	Ion	Cofactor	B	A:1201
+7VOD	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G	A:1204, A:1205, A:1206
+7VUI	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	F	A:401
+7VUI	A	MG	Magnesium ion	Ion	Cofactor	G	A:402
+7VUJ	A	GDP	Guanosine-5'-diphosphate	Other	Cofactor	G	A:402
+7VUJ	A	MG	Magnesium ion	Ion	Cofactor	F	A:401
+7VUY	R	CLR	Cholesterol	Lipid	Cofactor	F	R:401
+7VUZ	R	CLR	Cholesterol	Lipid	Cofactor	F	R:401
+7WQ4	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:401, R:402
+7WU5	R	CLR	Cholesterol	Lipid	Cofactor	E	R:901
+7X2C	F	CLR	Cholesterol	Lipid	Cofactor	F	F:501
+7XW6	R	CLR	Cholesterol	Lipid	Cofactor	AA, BA, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	R:820, R:821, R:805, R:806, R:807, R:808, R:809, R:810, R:811, R:812, R:813, R:814, R:815, R:816, R:817, R:818, R:819
+7XW6	R	PLM	Palmitic acid	Lipid	Cofactor	CA, DA, EA, FA, GA	R:822, R:823, R:824, R:825, R:826
+7XW6	R	NAG	D-glcnac	Other		H, I, J, K	R:801, R:802, R:803, R:804
+7Y15	R	PLM	Palmitic acid	Lipid	Cofactor	F, G, H	R:401, R:402, R:403
+7Y27	E	CLR	Cholesterol	Lipid	Cofactor	G	E:401
+7YFC	R	CLR	Cholesterol	Lipid	Cofactor	H	R:602
+7YFD	R	CLR	Cholesterol	Lipid	Cofactor	H, I	R:602, R:603
+7YM8	A	Y01	Cholesterol hemisuccinate	Lipid		E	A:502
+7YXA	B	OLA	Oleic acid	Lipid	Cofactor	J, K	B:2503, B:2504
+7YXA	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G	A:2503, A:2504, A:2505
+7YXA	A, B	NAG	D-glcnac	Other		C, H	A:2501, B:2501
+7ZI0	A	NA	Sodium ion	Ion	Cofactor	F, G	A:704, A:705
+7ZI0	A	MPG	[(z)-octadec-9-enyl] (2r)-2,3-bis(oxidanyl)propanoate	Other	Cofactor	H	A:706
+7ZI0	A	NAG	D-glcnac	Other		E	A:703
+8DPF	A	CLR	Cholesterol	Lipid	Cofactor	G	A:502
+8DPG	A	CLR	Cholesterol	Lipid	Cofactor	G	A:502
+8DPH	A	CLR	Cholesterol	Lipid	Cofactor	G, H	A:502, A:503
+8DPI	A	CLR	Cholesterol	Lipid	Cofactor	G	A:502
+8E0G	A	CLR	Cholesterol	Lipid	Cofactor	E	A:403
+8E0G	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D	A:401, A:402
+8E9Z	A	Y01	Cholesterol hemisuccinate	Lipid		G	A:802
+8F0J	R	PLM	Palmitic acid	Lipid	Cofactor	L, Q, R, S, T, U, V, W	R:505, R:510, R:511, R:512, R:513, R:514, R:515, R:516
+8F0J	R	PTY	Phosphatidylethanolamine	Other	Cofactor	J, K, O	R:503, R:504, R:508
+8F0J	R	P42	1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine	Other	Cofactor	P	R:509
+8F0J	R	NAG	D-glcnac	Other		H, I	R:501, R:502
+8F0J	R	Y01	Cholesterol hemisuccinate	Lipid		M, N	R:506, R:507
+8F2B	R	P42	1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine	Other	Cofactor	T	R:512
+8F2B	R	PLM	Palmitic acid	Lipid	Cofactor	L, M, N, O, P, Q, R, S	R:504, R:505, R:506, R:507, R:508, R:509, R:510, R:511
+8F2B	R	NAG	D-glcnac	Other		I, J, K	R:501, R:502, R:503
+8F2B	R	Y01	Cholesterol hemisuccinate	Lipid		U, V	R:513, R:514
+8F7Q	M, R	CLR	Cholesterol	Lipid	Cofactor	J, K, L, M, N, O, P, Q, R, S	R:401, R:402, R:403, R:404, R:405, M:401, M:402, M:403, M:404, M:405
+8F7R	M, R	CLR	Cholesterol	Lipid	Cofactor	J, K, L, M, N, O, P, Q, R, S	R:401, R:402, R:403, R:404, R:405, M:401, M:402, M:403, M:404, M:405
+8G2Y	R	LPC	[1-myristoyl-glycerol-3-yl]phosphonylcholine	Lipid	Cofactor	F	R:1001
+8H0Q	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:401, R:402, R:403
+8H8J	C	CLR	Cholesterol	Lipid	Cofactor	H, I, J	C:403, C:404, C:405
+8HAF	R	CLR	Cholesterol	Lipid	Cofactor	R, S, T, U, V, W	R:1512, R:1513, R:1514, R:1515, R:1516, R:1517
+8HAF	R	PLM	Palmitic acid	Lipid	Cofactor	G, H, I, J, K, L, M, N, O, P, Q	R:1501, R:1502, R:1503, R:1504, R:1505, R:1506, R:1507, R:1508, R:1509, R:1510, R:1511
+8HDP	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J	R:402, R:403, R:404, R:405
+8I2G	R	CLR	Cholesterol	Lipid	Cofactor	AA, I, J, K, L, M, S, U, V, W, X, Y, Z	R:719, R:701, R:702, R:703, R:704, R:705, R:711, R:713, R:714, R:715, R:716, R:717, R:718
+8I2G	R	PLM	Palmitic acid	Lipid	Cofactor	N, O, P	R:706, R:707, R:708
+8I2G	R	MYR	Myristic acid	Lipid	Cofactor	Q, R	R:709, R:710
+8I2G	R, X, Y	NAG	D-glcnac	Other		CA, DA, EA, T	X:101, Y:201, Y:202, R:712
+8IZ4	R	CLR	Cholesterol	Lipid	Cofactor	H	R:603
+8IZB	R	CLR	Cholesterol	Lipid	Cofactor	H, I	R:503, R:504
+8JCU	2, 3	NAG	D-glcnac	Other		D, E	2:1102, 3:2001
+8JCX	2, 3	NAG	D-glcnac	Other		C, E	2:1101, 3:1001
+8JD3	2, 3	CLR	Cholesterol	Lipid	Cofactor	H, J, K	2:903, 3:902, 3:903
+8JD3	3	PEF	Di-palmitoyl-3-sn-phosphatidylethanolamine	Other	Cofactor	L	3:904
+8JD5	2, 4	CLR	Cholesterol	Lipid	Cofactor	I, L, M, N, R	2:903, 2:906, 2:907, 4:1001, 4:1005
+8JD5	2	PEF	Di-palmitoyl-3-sn-phosphatidylethanolamine	Other	Cofactor	J	2:904
+8JD5	2, 4	NAG	D-glcnac	Other		K, P	2:905, 4:1003
+8JPB	Q	GDP	Guanosine-5'-diphosphate	Other	Cofactor	F	Q:401
+8JPB	Q	ALF	Tetrafluoroaluminate ion	Other	Cofactor	H	Q:403
+8JPB	Q	MG	Magnesium ion	Ion	Cofactor	G	Q:402
+8JPB	G	STU	Staurosporine	Other	Cofactor	E	G:701
+8JPC	Q	GDP	Guanosine-5'-diphosphate	Other	Cofactor	G	Q:401
+8JPC	Q	ALF	Tetrafluoroaluminate ion	Other	Cofactor	I	Q:403
+8JPC	Q	MG	Magnesium ion	Ion	Cofactor	H	Q:402
+8JPC	G	STU	Staurosporine	Other	Cofactor	F	G:701
+8JRV	A	PIO	Dioctanoyl l-alpha-phosphatidyl-d-myo-inositol 4,5-diphosphate	Other	Cofactor	G	A:701
+8PJK	R	CLR	Cholesterol	Lipid	Cofactor	E, F	R:501, R:502
+8RWI	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+8RWI	A	NA	Sodium ion	Ion	Cofactor	W	A:1222
+8RWI	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V	A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221
+8S4D	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, H	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207
+8SZF	A, B	NAG	D-glcnac	Other		F, G, N, O, T	A:1201, A:1202, B:1001, B:1002, B:1007
+8SZG	B	CLR	Cholesterol	Lipid	Cofactor	T	B:1401
+8SZG	A	PCW	1,2-dioleoyl-sn-glycero-3-phosphocholine	Lipid	Cofactor	L	A:1204
+8SZG	A, B	NAG	D-glcnac	Other		J, K, U, V	A:1202, A:1203, B:1402, B:1403
+8SZH	A, B	PCW	1,2-dioleoyl-sn-glycero-3-phosphocholine	Lipid	Cofactor	J, T	A:902, B:1403
+8SZH	B	CLR	Cholesterol	Lipid	Cofactor	R	B:1401
+8SZH	A, B	NAG	D-glcnac	Other		K, U, V	A:903, B:1404, B:1405
+8SZI	B	CLR	Cholesterol	Lipid	Cofactor	P	B:1401
+8SZI	A, B	PCW	1,2-dioleoyl-sn-glycero-3-phosphocholine	Lipid	Cofactor	I, Q	A:1001, B:1402
+8SZI	A, B	NAG	D-glcnac	Other		J, R, S	A:1002, B:1403, B:1404
+8T3O	R	PLM	Palmitic acid	Lipid	Cofactor	H	R:403
+8T3O	R	2Y5	Phosphatidylinositol-4-phosphate	Other	Cofactor	G	R:402
+8T3S	R	CLR	Cholesterol	Lipid	Cofactor	G	R:302
+8T3S	R	PLM	Palmitic acid	Lipid	Cofactor	H, I	R:303, R:304
+8T3V	R	CLR	Cholesterol	Lipid	Cofactor	F	R:301
+8TF5	A	CLR	Cholesterol	Lipid	Cofactor	U	A:1220
+8TF5	A	P15	2,5,8,11,14,17-hexaoxanonadecan-19-ol	Other	Cofactor	D, F	A:1203, A:1205
+8TF5	A	OLC	1-oleoyl-r-glycerol	Lipid		B, C, L, M, O	A:1201, A:1202, A:1211, A:1212, A:1214
+8TH3	A	Y01	Cholesterol hemisuccinate	Lipid		E, F	A:1401, A:1402
+8U4S	C, G, R	CLR	Cholesterol	Lipid	Cofactor	J, L, M, O, P, R	R:701, R:703, C:701, C:703, G:701, G:703
+8U4S	C, G, R	D21	(2r)-1-(hexadecanoyloxy)-3-(phosphonooxy)propan-2-yl (9z)-octadec-9-enoate	Other	Cofactor	K, N, Q	R:702, C:702, G:702
+8W1V	B	AV0	Lauryl maltose neopentyl glycol	Detergent		G	B:1202
+8WJX	R	CLR	Cholesterol	Lipid	Cofactor	G	R:602
+8WM9	A, B	Y01	Cholesterol hemisuccinate	Lipid		D, E, F, G, H, I, J, K, L, M	A:601, A:602, A:603, A:604, A:605, B:601, B:602, B:603, B:604, B:605
+8WPG	A, B	NAG	D-glcnac	Other		G, H, I, P, Q	B:901, B:902, B:903, A:901, A:902
+8WPU	B	CLR	Cholesterol	Lipid	Cofactor	R	B:1110
+8WPU	A, B	NAG	D-glcnac	Other		I, J, K, L, T, U, V, W, X	B:1101, B:1102, B:1103, B:1104, A:1102, A:1103, A:1104, A:1105, A:1106
+8WRB	R	CLR	Cholesterol	Lipid	Cofactor	F	R:601
+8WW2	R	PLM	Palmitic acid	Lipid	Cofactor	H	R:603
+8WW2	R	Y01	Cholesterol hemisuccinate	Lipid		G	R:602
+8X0F	A, B	NAG	D-glcnac	Other		C, F	A:901, B:901
+8XOR	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, J, K	R:1401, R:1402, R:1403, R:1404, R:1405, R:1406
+8XXU	A	A1D5Q	[(2~{r})-1-hexadecanoyloxy-3-[oxidanyl-[(2~{s},3~{r},5~{r},6~{s})-2,3,4,5,6-pentakis(oxidanyl)cyclohexyl]oxy-phosphoryl]oxy-propan-2-yl] (~{z})-octadec-9-enoate	Other	Cofactor	F	A:401
+8Y69	D, H	CLR	Cholesterol	Lipid	Cofactor	I, J	D:901, H:301
+8YJP	A, B	MW9	1-stearoyl-2-oleoyl-sn-glycero-3-phospho-(1'-rac-glycerol)	Other	Cofactor	C, D, L, M	A:401, A:402, B:403, B:404
+8YJP	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J, K, N, O	A:403, A:404, A:405, A:406, A:407, B:401, B:402, B:405, B:406
+8YK0	A, B	MW9	1-stearoyl-2-oleoyl-sn-glycero-3-phospho-(1'-rac-glycerol)	Other	Cofactor	F, G, P, Q	B:401, B:402, A:403, A:404
+8YK0	A, B	CLR	Cholesterol	Lipid	Cofactor	H, I, J, K, L, M, N, O, R, S, T	B:403, B:404, B:405, B:406, B:407, B:408, A:401, A:402, A:405, A:406, A:407
+8YN2	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	R:702, R:703, R:704, R:705, R:706
+8YN4	R	CLR	Cholesterol	Lipid	Cofactor	G	R:702
+8YU7	A, B, C, D	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X	A:401, A:402, A:403, A:404, A:405, A:406, B:401, B:402, B:403, B:404, B:405, C:401, C:402, C:403, C:404, D:401, D:402, D:403, D:404, D:405
+8YUU	R	CLR	Cholesterol	Lipid	Cofactor	G	R:502
+8YYX	E	CLR	Cholesterol	Lipid	Cofactor	F	E:401
+8Z9O	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:401, R:402
+8Z9P	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:401, R:402
+8ZYU	R	PIO	Dioctanoyl l-alpha-phosphatidyl-d-myo-inositol 4,5-diphosphate	Other	Cofactor	G	R:501
+9ASB	R	A1AF7	(19r,22s,25r)-22,25,26-trihydroxy-16,22-dioxo-17,21,23-trioxa-22lambda~5~-phosphahexacosan-19-yl (9z)-octadec-9-enoate	Other	Cofactor	CA	R:1009
+9ASB	Q, R	NAG	D-glcnac	Other		J, K, L, U, V, W	Q:1001, Q:1002, Q:1003, R:1001, R:1002, R:1003
+9ASB	Q	Y01	Cholesterol hemisuccinate	Lipid		T	Q:1011
+9AU0	R	NAG	D-glcnac	Other		G	R:402
+9AU0	R	Y01	Cholesterol hemisuccinate	Lipid		H	R:403
+9AVG	R	A1AF7	(19r,22s,25r)-22,25,26-trihydroxy-16,22-dioxo-17,21,23-trioxa-22lambda~5~-phosphahexacosan-19-yl (9z)-octadec-9-enoate	Other	Cofactor	BA	R:1009
+9AVG	Q, R	NAG	D-glcnac	Other		J, K, L, T, U	Q:1001, Q:1002, Q:1003, R:1001, R:1002
+9AVG	Q	Y01	Cholesterol hemisuccinate	Lipid		S	Q:1010
+9AVL	R	A1AF7	(19r,22s,25r)-22,25,26-trihydroxy-16,22-dioxo-17,21,23-trioxa-22lambda~5~-phosphahexacosan-19-yl (9z)-octadec-9-enoate	Other	Cofactor	AA	R:1010
+9AVL	Q, R	NAG	D-glcnac	Other		J, R, S, T	Q:1001, R:1001, R:1002, R:1003
+9AVL	Q	Y01	Cholesterol hemisuccinate	Lipid		Q	Q:1008
+9AXF	Q, R	CLR	Cholesterol	Lipid	Cofactor	AA, BA, OA, PA, QA, RA, SA, Z	R:1016, R:1017, Q:1013, Q:1014, Q:1015, Q:1016, Q:1017, R:1015
+9AXF	Q, R	NAG	D-glcnac	Other		CA, DA, EA, FA, L, M, N, O	Q:1001, Q:1002, Q:1003, Q:1004, R:1001, R:1002, R:1003, R:1004
+9AXF	R	AV0	Lauryl maltose neopentyl glycol	Detergent		V	R:1011
+9AXF	Q, R	Y01	Cholesterol hemisuccinate	Lipid		NA, W, X, Y	Q:1012, R:1012, R:1013, R:1014
+9AYF	Q, R	NAG	D-glcnac	Other		K, L, M, U, V, W	Q:1001, Q:1002, Q:1003, R:1001, R:1002, R:1003
+9AYF	R	AV0	Lauryl maltose neopentyl glycol	Detergent		DA	R:1010
+9BI6	R	Y01	Cholesterol hemisuccinate	Lipid		F	R:1000
+9BP3	P	A1B90	Icosanedioic acid	Other	Cofactor	H	P:101
+9BP3	R	P42	1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine	Other	Cofactor	L	R:504
+9BP3	R	NAG	D-glcnac	Other		I, J, K	R:501, R:502, R:503
+9BP3	R	Y01	Cholesterol hemisuccinate	Lipid		M, N	R:505, R:506
+9BQ3	P	A1B90	Icosanedioic acid	Other	Cofactor	H	P:101
+9BUB	P	A1B90	Icosanedioic acid	Other	Cofactor	G	P:101
+9BUB	R	P42	1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine	Other	Cofactor	H	R:501
+9C1P	A, B	NAG	D-glcnac	Other		C, L, M, N, O, V	A:1001, A:1010, A:1011, B:1001, B:1002, B:1009
+9CLW	R	PLM	Palmitic acid	Lipid	Cofactor	I	R:504
+9CLW	R	CLR	Cholesterol	Lipid	Cofactor	H	R:503
+9CM3	R	CLR	Cholesterol	Lipid	Cofactor	H	R:503
+9CM3	R	PLM	Palmitic acid	Lipid	Cofactor	I	R:504
+9D3E	A	CLR	Cholesterol	Lipid	Cofactor	E	A:501
+9D3G	A	CLR	Cholesterol	Lipid	Cofactor	E	A:1001
+9DYD	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H	R:502, R:503, R:504
+9EAH	A	CLR	Cholesterol	Lipid	Cofactor	F	A:1402
+9EAI	A	CLR	Cholesterol	Lipid	Cofactor	H	A:1404
+9EAI	A	Y01	Cholesterol hemisuccinate	Lipid		F, G	A:1402, A:1403
+9EPO	A, D	PLM	Palmitic acid	Lipid	Cofactor	D, H	A:702, D:703
+9EPO	A, D	Y01	Cholesterol hemisuccinate	Lipid		C, E, F, G	A:701, A:703, D:701, D:702
+9GE2	R	CLR	Cholesterol	Lipid	Cofactor	H	R:402
+9GGG	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J	R:402, R:403, R:404, R:405
+9GL2	R	CLR	Cholesterol	Lipid	Cofactor	E	R:501
+9GYO	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:402, R:403, R:404
+9ITB	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:402, R:403, R:404
+9ITB	R	PLM	Palmitic acid	Lipid	Cofactor	J	R:405
+9ITE	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:501, R:601, R:701
+9ITE	R	PLM	Palmitic acid	Lipid	Cofactor	J	R:801
+9IYB	A	A1D5Q	[(2~{r})-1-hexadecanoyloxy-3-[oxidanyl-[(2~{s},3~{r},5~{r},6~{s})-2,3,4,5,6-pentakis(oxidanyl)cyclohexyl]oxy-phosphoryl]oxy-propan-2-yl] (~{z})-octadec-9-enoate	Other	Cofactor	F	A:401
+9J87	A	CLR	Cholesterol	Lipid	Cofactor	G, H	A:502, A:503
+9JCL	R	CLR	Cholesterol	Lipid	Cofactor	G	R:602
+9JCO	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:401, R:402
+9JCP	R	CLR	Cholesterol	Lipid	Cofactor	F	R:401
+9JFK	R	CHO	Glycochenodeoxycholic acid	Other	Cofactor	G, H	R:401, R:402
+9JH5	R	CLR	Cholesterol	Lipid	Cofactor	H, I	R:402, R:403
+9JMC	R	CLR	Cholesterol	Lipid	Cofactor	F	R:501
+9JMD	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:501, R:502
+9KB8	A	NAG	D-glcnac	Other		E, F, G, H	A:1001, A:1002, A:1003, A:1004
+9KB9	A, D	NAG	D-glcnac	Other		G, H, I, J	A:1001, A:1002, D:1001, D:1002
+9KDF	F	FK5	Tacro	Other	Cofactor	J	F:2001
+9KDF	R	CA	Calcium ion	Ion	Cofactor	D, E, F, G	R:1501, R:1502, R:1503, R:1504
+9KDF	R	ZN	Zinc ion	Ion	Cofactor	I	R:1506
+9KDF	R	FE	Fe (iii) ion	Ion		H	R:1505
+9KDG	F	FK5	Tacro	Other	Cofactor	I	F:1201
+9KDG	A	CA	Calcium ion	Ion	Cofactor	C, D, E, F	A:1701, A:1702, A:1703, A:1704
+9KDG	A	ZN	Zinc ion	Ion	Cofactor	H	A:1706
+9KDG	A	FE	Fe (iii) ion	Ion		G	A:1705
+9KUV	R	CLR	Cholesterol	Lipid	Cofactor	D	R:402
+9KUW	Q, R	CLR	Cholesterol	Lipid	Cofactor	F, G	Q:402, R:401
+9L42	A	CLR	Cholesterol	Lipid	Cofactor	F	A:401
+9LL9	R	CLR	Cholesterol	Lipid	Cofactor	F	R:502
+9LLB	R	CLR	Cholesterol	Lipid	Cofactor	E	R:501
+9LLJ	R	PLM	Palmitic acid	Lipid	Cofactor	J, K	R:702, R:703
+9LQT	A, B	CLR	Cholesterol	Lipid	Cofactor	D, E, F, G, H, I, J, K, M, N, O, P, Q, R, S, T	A:402, A:403, A:404, A:405, A:406, A:407, A:408, A:409, B:402, B:403, B:404, B:405, B:406, B:407, B:408, B:409
+9LQT	A, B	PCF	Colfoscerili palmitas	Other	Cofactor	C, L	A:401, B:401
+9M88	A, B	1DO	1-dodecanol	Other	Cofactor	G, H, K, L, S, T, U, V	A:403, A:404, A:407, A:408, B:405, B:406, B:407, B:408
+9M88	A, B	A1EM1	Tetracosan-1-ol	Other	Cofactor	F, R	A:402, B:404
+9M88	A, B	A1EQ8	Icosan-1-ol	Other	Cofactor	M, P, Y, Z	A:409, B:402, B:411, B:412
+9M88	A, B	A1EM3	[(2r)-3-[2-azanylethoxy(oxidanyl)phosphoryl]oxy-2-decanoyloxy-propyl] dodecanoate	Other	Cofactor	I, J, W, X	A:405, A:406, B:409, B:410
+9MD1	C, R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, M, N, O, P	C:502, C:503, C:504, C:505, R:502, R:503, R:504, R:505
+9NOT	A, B	NAG	D-glcnac	Other		C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R	B:901, B:902, B:903, B:904, B:905, B:906, B:907, B:908, A:901, A:902, A:903, A:904, A:905, A:906, A:907, A:908
+9ODG	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+9ODJ	D	CLR	Cholesterol	Lipid	Cofactor	E	D:501
+9ODJ	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	G	A:401
+9ODJ	A	MG	Magnesium ion	Ion	Cofactor	H	A:402
+9P1S	A	LMN	Lauryl maltose neopentyl glycol	Detergent		B	A:501
+9P85	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	G	A:402
+9P85	A	MG	Magnesium ion	Ion	Cofactor	F	A:401
+9PU5	F, R	CLR	Cholesterol	Lipid	Cofactor	K, L, M, O, P, Q, R, S	R:401, R:402, R:403, F:401, F:402, F:403, F:404, F:405
+9PUD	F, R	CLR	Cholesterol	Lipid	Cofactor	K, L, M, N	R:401, R:402, F:401, F:402
+9PXU	R	NA	Sodium ion	Ion	Cofactor	G	R:502
+9PY2	R	CLR	Cholesterol	Lipid	Cofactor	E, F	R:501, R:502
+9PY2	A	VSN	5'-o-[(r)-hydroxy(thiophosphonooxy)phosphoryl]guanosine	Other	Cofactor	H	A:401
+9RKI	A	CLR	Cholesterol	Lipid	Cofactor	I, J, Y	A:1208, A:1209, A:1224
+9RKI	A	PLM	Palmitic acid	Lipid	Cofactor	K	A:1210
+9RKI	A	ACM	Acetamide	Other	Cofactor	H	A:1207
+9RKI	A	OLC	1-oleoyl-r-glycerol	Lipid		N, O, P, S, U, V, W	A:1213, A:1214, A:1215, A:1218, A:1220, A:1221, A:1222
+9UAM	A	CLR	Cholesterol	Lipid	Cofactor	H, I	A:603, A:604
+9UAM	A	Y01	Cholesterol hemisuccinate	Lipid		F	A:601
+9UAN	A	CLR	Cholesterol	Lipid	Cofactor	H	A:603
+9UAN	A	Y01	Cholesterol hemisuccinate	Lipid		F	A:601
+9UXU	r	CLR	Cholesterol	Lipid	Cofactor	M, N	r:404, r:405
+9UXU	r	Y01	Cholesterol hemisuccinate	Lipid		K, L	r:402, r:403
+9UY3	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:601, R:602
+9VB6	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	G	A:401
+9VJ6	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:502, R:503
+9VJ6	R	T7M	Phosphatidylinositol-4-phosphate	Other	Cofactor	I	R:504
+9WQL	X, Y	CLR	Cholesterol	Lipid	Cofactor	N, O, P, Q, X, Y, Z	X:908, X:909, X:910, X:911, Y:2007, Y:2008, Y:2009
+9WQL	X, Y	CL	Chloride ion	Ion		M, W	X:907, Y:2006
+9WQL	X, Y	NAG	D-glcnac	Other		I, J, K, L, S, T, U, V	X:903, X:904, X:905, X:906, Y:2002, Y:2003, Y:2004, Y:2005
+9WQM	X, Y	CLR	Cholesterol	Lipid	Cofactor	M, N, O, P, X, Y	X:2007, X:2008, X:2009, X:2010, Y:2007, Y:2008
+9WQM	X, Y	CL	Chloride ion	Ion		L, W	X:2006, Y:2006
+9WQM	X, Y	NAG	D-glcnac	Other		H, I, J, K, S, T, U, V	X:2002, X:2003, X:2004, X:2005, Y:2002, Y:2003, Y:2004, Y:2005
+9WQN	X, Y	CLR	Cholesterol	Lipid	Cofactor	M, N, O, Q, X, Y, Z	X:2007, X:2008, X:2009, Y:3501, Y:3508, Y:3509, Y:3510
+9WQN	X, Y	CL	Chloride ion	Ion		L, W	X:2006, Y:3507
+9WQN	X, Y	NAG	D-glcnac	Other		H, I, J, K, S, T, U, V	X:2002, X:2003, X:2004, X:2005, Y:3503, Y:3504, Y:3505, Y:3506
+9XHH	R	CLR	Cholesterol	Lipid	Cofactor	G	R:601
+9XHI	R	CLR	Cholesterol	Lipid	Cofactor	G	R:601
+10KT	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+10KT	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+10KT	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, EA, FA, G, H, I, J, K, L, M, N, O, P, Q, R	A:1226, A:1227, A:1228, A:1230, A:1231, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217
+10KT	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		V	A:1221
+10KT	A	OLC	1-oleoyl-r-glycerol	Lipid		DA, S, T, U, W, X	A:1229, A:1218, A:1219, A:1220, A:1222, A:1223
+10TL	F, R	CLR	Cholesterol	Lipid	Cofactor	E, F, G, I, J, K, L, M	R:401, R:402, R:403, F:401, F:402, F:403, F:404, F:405
+20ZL	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	F	A:401
+22ES	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:401, R:402, R:403
+22XC	C, G, R	CLR	Cholesterol	Lipid	Cofactor	G, I, K	C:401, G:401, R:401
+22XC	C, G, R	D21	(2r)-1-(hexadecanoyloxy)-3-(phosphonooxy)propan-2-yl (9z)-octadec-9-enoate	Other	Cofactor	H, J, L	C:402, G:402, R:402
+27TM	X, Y	CLR	Cholesterol	Lipid	Cofactor	I, Q	X:2007, Y:2007
+27TM	X, Y	NAG	D-glcnac	Other		D, E, F, G, L, M, N, O	X:2002, X:2003, X:2004, X:2005, Y:2002, Y:2003, Y:2004, Y:2005
+27TM	X, Y	CL	Chloride ion	Ion		H, P	X:2006, Y:2006
+2I35	A	PLM	Palmitic acid	Lipid	Cofactor	E, F	A:1333, A:1334
+2YCX	B	SOG	Octyl 1-thio-glucoside	Detergent		E, F, G	B:1360, B:1361, B:1362
+2YCY	B	NA	Sodium ion	Ion	Cofactor	J	B:1363
+2YCY	A, B	SOG	Octyl 1-thio-glucoside	Detergent		D, E, G, H, I	A:1360, A:1361, B:1360, B:1361, B:1362
+2YCZ	B	SOG	Octyl 1-thio-glucoside	Detergent		E	B:1360
+2YDO	A	SOG	Octyl 1-thio-glucoside	Detergent		C, D	A:501, A:502
+2YDV	A	SOG	Octyl 1-thio-glucoside	Detergent		C, D, E, F, G	A:501, A:502, A:503, A:504, A:505
+2ZIY	A	PLM	Palmitic acid	Lipid	Cofactor	C, D	A:381, A:382
+3AYM	A	PLM	Palmitic acid	Lipid	Cofactor	C	A:1001
+3AYM	B	PC1	3-sn-phosphatidylcholine	Other	Cofactor	G	B:1004
+3AYM	A, B	BOG	Octyl glucoside	Detergent		D, H	A:1005, B:1005
+3C9M	A	NAG	D-glcnac	Other		B	A:1335
+3D4S	A	CLR	Cholesterol	Lipid	Cofactor	C, D	A:402, A:403
+3D4S	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G	A:404, A:405, A:406
+3EML	A	STE	Stearic acid	Lipid	Cofactor	C, D, E, F, G	A:402, A:403, A:404, A:405, A:406
+3NY8	A	CLR	Cholesterol	Lipid	Cofactor	B, C	A:1201, A:1202
+3NY8	A	OLA	Oleic acid	Lipid	Cofactor	E	A:1204
+3NY8	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G	A:1205, A:1206
+3NY9	A	CLR	Cholesterol	Lipid	Cofactor	B, C	A:1201, A:1202
+3NY9	A	OLC	1-oleoyl-r-glycerol	Lipid		E	A:1204
+3NYA	A	CLR	Cholesterol	Lipid	Cofactor	B, C	A:1201, A:1202
+3PDS	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
+3PXO	A	PLM	Palmitic acid	Lipid	Cofactor	F	A:701
+3PXO	A	BOG	Octyl glucoside	Detergent		D, E	A:601, A:602
+3QAK	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D	A:1201, A:1202
+3RZE	A	OLC	1-oleoyl-r-glycerol	Lipid		G	A:1205
+3UON	A	BGC	Glucose	Other	Cofactor	C	A:1163
+3UON	A	CL	Chloride ion	Ion		D, E	A:1164, A:1165
+3V2W	A	NAG	D-glcnac	Other		C	A:1202
+3V2Y	A	NAG	D-glcnac	Other		C	A:1202
+3VG9	A	STE	Stearic acid	Lipid	Cofactor	E, F, G, H, I, J	A:402, A:403, A:404, A:405, A:406, A:407
+3VG9	A	LMT	Dodecyl-beta-d-maltoside	Detergent		K	A:408
+3VW7	A	NA	Sodium ion	Ion	Cofactor	M	A:2012
+3VW7	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E, F, G, H, I, J, K	A:2002, A:2003, A:2004, A:2005, A:2006, A:2007, A:2008, A:2009, A:2010
+3VW7	A	CL	Chloride ion	Ion		L	A:2011
+3ZPQ	A, B	NA	Sodium ion	Ion	Cofactor	J, R, T	A:1360, B:1359, B:1361
+3ZPQ	A, B	Y01	Cholesterol hemisuccinate	Lipid		C, D, K, L	A:401, A:402, B:401, B:402
+3ZPQ	A, B	2CV	Hega-10	Detergent		E, F, G, H, M, N, O, P, Q	A:502, A:503, A:505, A:506, B:502, B:503, B:504, B:505, B:506
+4AMI	A, B	2CV	Hega-10	Detergent		D, E, F, H, I	A:1360, B:1358, B:1359, B:1361, B:1362
+4BEZ	A	ACT	Acetate ion	Other	Cofactor	C	A:1327
+4BEZ	A	PLM	Palmitic acid	Lipid	Cofactor	E	A:1329
+4BEZ	A	BOG	Octyl glucoside	Detergent		F	A:1334
+4DJH	B	OLC	1-oleoyl-r-glycerol	Lipid		F, G	B:1302, B:1303
+4IAR	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		C	A:2002
+4IB4	A	CLR	Cholesterol	Lipid	Cofactor	D	A:2003
+4IB4	A	OLA	Oleic acid	Lipid	Cofactor	I, J	A:2008, A:2009
+4IB4	A	PLM	Palmitic acid	Lipid	Cofactor	C	A:2002
+4IB4	A	OLC	1-oleoyl-r-glycerol	Lipid		E	A:2004
+4IB4	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		F, G, H	A:2005, A:2006, A:2007
+4JKV	A, B	OLA	Oleic acid	Lipid	Cofactor	G, H, O	A:605, A:606, B:604
+4JKV	A, B	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, M, N	A:602, A:603, A:604, B:602, B:603
+4LDE	A	NA	Sodium ion	Ion	Cofactor	D	A:1402
+4LDE	A	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	E	A:1403
+4LDL	A	NA	Sodium ion	Ion	Cofactor	D	A:1402
+4LDL	A	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	E	A:1403
+4LDO	A	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	C	A:1401
+4LDO	A	NA	Sodium ion	Ion	Cofactor	E, F	A:1403, A:1404
+4N4W	A	ZN	Zinc ion	Ion	Cofactor	D, E	A:606, A:607
+4N4W	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G	A:608, A:609
+4N6H	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E, F, G, J, K, L, P, Q, R	A:1201, A:1202, A:1203, A:1204, A:1205, A:1206, A:1209, A:1210, A:1211, A:1215, A:1216, A:1217
+4N6H	A	OLC	1-oleoyl-r-glycerol	Lipid		H, I, M, W, X	A:1207, A:1208, A:1212, A:1222, A:1223
+4NC3	A	CLR	Cholesterol	Lipid	Cofactor	D	A:1203
+4NC3	A	OLA	Oleic acid	Lipid	Cofactor	K, L, M	A:1210, A:1211, A:1212
+4NC3	A	PLM	Palmitic acid	Lipid	Cofactor	B	A:1201
+4NC3	A	DGA	Diacyl glycerol	Other	Cofactor	N, O	A:1213, A:1214
+4NC3	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, H, I	A:1204, A:1205, A:1207, A:1208
+4NTJ	A	CLR	Cholesterol	Lipid	Cofactor	C, D	A:1202, A:1203
+4NTJ	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F	A:1204, A:1205
+4OO9	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E	A:4001, A:4002, A:4003, A:4004
+4OR2	A, B	CLR	Cholesterol	Lipid	Cofactor	D, E, F, G, O, P	A:1902, A:1903, A:1904, A:1905, B:1905, B:1906
+4OR2	A	OLA	Oleic acid	Lipid	Cofactor	H	A:1906
+4OR2	A, B	OLC	1-oleoyl-r-glycerol	Lipid		I, J, N	A:1907, A:1908, B:1904
+4PHU	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E, F, G	A:2402, A:2403, A:2404, A:2405, A:2406
+4PXF	A	PLM	Palmitic acid	Lipid	Cofactor	H	A:408
+4PXF	A	ACT	Acetate ion	Other	Cofactor	J	A:410
+4PXF	A	BOG	Octyl glucoside	Detergent		E, F, G	A:405, A:406, A:407
+4PXZ	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
+4PXZ	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F	A:1203, A:1204, A:1205
+4PY0	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D	A:1202, A:1203
+4QIM	A	ZN	Zinc ion	Ion	Cofactor	C	A:1202
+4RWA	A	OLC	1-oleoyl-r-glycerol	Lipid		E	A:1201
+4RWD	A, B	NA	Sodium ion	Ion	Cofactor	F, L	A:1202, B:1202
+4RWD	A, B	OLA	Oleic acid	Lipid	Cofactor	E, G, J, K, M, N, P	A:1201, A:1203, A:1206, B:1201, B:1203, B:1204, B:1206
+4RWD	A, B	OLC	1-oleoyl-r-glycerol	Lipid		H, I, O	A:1204, A:1205, B:1205
+4S0V	A	OLA	Oleic acid	Lipid	Cofactor	C	A:2002
+4UG2	A, B	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		C, E	A:1310, B:1306
+4XEE	A	FLC	Citrate anion	Other	Cofactor	F	A:1204
+4XNV	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1102
+4XNV	A	ZN	Zinc ion	Ion	Cofactor	P	A:1115
+4XNV	A	Y01	Cholesterol hemisuccinate	Lipid		D, E, F	A:1103, A:1104, A:1105
+4XNV	A	OLC	1-oleoyl-r-glycerol	Lipid		G, H, I, J, K, L, M, N	A:1106, A:1107, A:1108, A:1109, A:1110, A:1111, A:1112, A:1113
+4XT1	A	CLR	Cholesterol	Lipid	Cofactor	D, E	A:401, A:402
+4XT1	A	SIN	Succinic acid	Other	Cofactor	S	A:416
+4XT1	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G, H, I, J, K	A:403, A:404, A:405, A:406, A:407, A:408
+4Z34	A	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	C	A:2002
+4Z35	A	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	C	A:2002
+4Z36	A	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	C	A:2001
+4Z9G	A, B, C	OLA	Oleic acid	Lipid	Cofactor	D, E, F, J, K, L, N, O, P, Q	A:1201, A:1202, A:1203, B:1201, B:1202, B:1203, C:1201, C:1202, C:1203, C:1204
+4ZJ8	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, H	A:2002, A:2003, A:2004, A:2005, A:2006, A:2007
+5C1M	A	CLR	Cholesterol	Lipid	Cofactor	E	A:403
+5C1M	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D	A:401, A:402
+5CGC	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E	A:4001, A:4002, A:4003, A:4004
+5CGD	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E	A:4001, A:4002, A:4003, A:4004
+5D5B	A	CLR	Cholesterol	Lipid	Cofactor	F, G, H	A:1205, A:1206, A:1207
+5D5B	A	PLM	Palmitic acid	Lipid	Cofactor	I	A:1208
+5D5B	A	BU1	1,4-butanediol	Other	Cofactor	D	A:1203
+5D5B	A	ACM	Acetamide	Other	Cofactor	E	A:1204
+5D6L	A	CLR	Cholesterol	Lipid	Cofactor	M, N, O	A:1212, A:1213, A:1214
+5D6L	A	PLM	Palmitic acid	Lipid	Cofactor	P	A:1215
+5D6L	A	BU1	1,4-butanediol	Other	Cofactor	J, K	A:1209, A:1210
+5D6L	A	ACM	Acetamide	Other	Cofactor	L	A:1211
+5DYS	A	ACT	Acetate ion	Other	Cofactor	D, E	A:402, A:403
+5DYS	A	PLM	Palmitic acid	Lipid	Cofactor	G, H	A:405, A:406
+5DYS	A	BOG	Octyl glucoside	Detergent		F, I	A:404, A:412
+5G53	C	GDP	Guanosine-5'-diphosphate	Other	Cofactor	I	C:400
+5G53	A	SOG	Octyl 1-thio-glucoside	Detergent		F, G	A:501, A:502
+5GLI	A	OLA	Oleic acid	Lipid	Cofactor	H	A:1207
+5GLI	A	OLC	1-oleoyl-r-glycerol	Lipid		G, I	A:1206, A:1208
+5IU4	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+5IU4	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F, G	A:2402, A:2403, A:2404, A:2405
+5IU4	A	OLA	Oleic acid	Lipid	Cofactor	AA, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+5IU4	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		BA, CA, DA	A:2426, A:2427, A:2428
+5IU4	A	OLC	1-oleoyl-r-glycerol	Lipid		EA, FA	A:2429, A:2430
+5IU7	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+5IU7	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F, G	A:2402, A:2403, A:2404, A:2405
+5IU7	A	OLA	Oleic acid	Lipid	Cofactor	H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y	A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423
+5IU7	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		AA, BA, CA, DA, EA, FA, Z	A:2425, A:2426, A:2427, A:2428, A:2429, A:2430, A:2424
+5IU7	A	OLC	1-oleoyl-r-glycerol	Lipid		GA	A:2431
+5IU8	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+5IU8	A	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H	A:2403, A:2404, A:2405, A:2406
+5IU8	A	OLA	Oleic acid	Lipid	Cofactor	AA, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+5IU8	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		BA, CA	A:2426, A:2427
+5IU8	A	OLC	1-oleoyl-r-glycerol	Lipid		DA, EA, FA, GA	A:2428, A:2429, A:2430, A:2431
+5IUA	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+5IUA	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F, G	A:2402, A:2403, A:2404, A:2405
+5IUA	A	OLA	Oleic acid	Lipid	Cofactor	H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X	A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422
+5IUA	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		AA, BA, CA, DA, EA, FA, Y, Z	A:2425, A:2426, A:2427, A:2428, A:2429, A:2430, A:2423, A:2424
+5IUB	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+5IUB	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+5IUB	A	OLA	Oleic acid	Lipid	Cofactor	G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V	A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420
+5IUB	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		AA, BA, CA, W, X, Y, Z	A:2425, A:2426, A:2427, A:2421, A:2422, A:2423, A:2424
+5IUB	A	OLC	1-oleoyl-r-glycerol	Lipid		DA, EA	A:2428, A:2429
+5JQH	A, B	CLR	Cholesterol	Lipid	Cofactor	F, H	A:1402, B:1402
+5JTB	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+5JTB	A	IOD	Iodide ion	Other	Cofactor	F, G, H, I, J, K	A:1205, A:1206, A:1207, A:1208, A:1209, A:1210
+5JTB	A	OLA	Oleic acid	Lipid	Cofactor	N, O, P, Q	A:1213, A:1214, A:1215, A:1216
+5JTB	A	OLC	1-oleoyl-r-glycerol	Lipid		R, S, T, U, V, W	A:1217, A:1218, A:1219, A:1220, A:1221, A:1222
+5JTB	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		X	A:1223
+5K2A	A	NA	Sodium ion	Ion	Cofactor	C	A:1202
+5K2A	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+5K2A	A	OLA	Oleic acid	Lipid	Cofactor	P, Q, R, S, T, U, V, W, X, Y	A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224
+5K2A	A	OLC	1-oleoyl-r-glycerol	Lipid		AA, G, H, I, J, K, L, M, N, O	A:1226, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214
+5K2B	A	NA	Sodium ion	Ion	Cofactor	C	A:1202
+5K2B	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+5K2B	A	OLA	Oleic acid	Lipid	Cofactor	N, O, P, Q, R, S, T, X	A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1223
+5K2B	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		G	A:1206
+5K2B	A	OLC	1-oleoyl-r-glycerol	Lipid		H, I, J, K, L, M, U, V, W	A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1220, A:1221, A:1222
+5K2D	A	NA	Sodium ion	Ion	Cofactor	C	A:1202
+5K2D	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+5K2D	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, N, O, P, Q, R, S, T, X, Y	A:1226, A:1227, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1223, A:1224
+5K2D	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		G, K	A:1206, A:1210
+5K2D	A	OLC	1-oleoyl-r-glycerol	Lipid		H, I, J, L, M, U, V, W	A:1207, A:1208, A:1209, A:1211, A:1212, A:1220, A:1221, A:1222
+5LWE	A, B	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, D, DA, E, EA, F, FA, G, GA, H, HA, I, J, K, L, M, N, O, P, Q, R, V, W, X, Y, Z	B:407, B:408, B:409, A:402, B:410, A:403, B:411, A:404, B:412, A:405, B:413, A:406, B:414, A:407, A:408, A:409, A:410, A:411, A:412, A:413, A:414, A:415, A:416, B:402, B:403, B:404, B:405, B:406
+5LWE	A	CLR	Cholesterol	Lipid	Cofactor	S	A:417
+5LWE	A, B	MLI	Malonate ion	Other	Cofactor	IA, T	B:415, A:418
+5MZJ	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+5MZJ	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+5MZJ	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+5MZJ	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+5MZP	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+5MZP	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F, G	A:2402, A:2403, A:2404, A:2405
+5MZP	A	OLA	Oleic acid	Lipid	Cofactor	H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y	A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423
+5MZP	A	OLC	1-oleoyl-r-glycerol	Lipid		AA, BA, CA, DA, EA, FA, Z	A:2425, A:2426, A:2427, A:2428, A:2429, A:2430, A:2424
+5N2R	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+5N2R	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+5N2R	A	OLA	Oleic acid	Lipid	Cofactor	AA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+5N2R	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA	A:2426, A:2427, A:2428, A:2429, A:2430
+5NDD	A	NA	Sodium ion	Ion	Cofactor	C	A:2202
+5NLX	A	NA	Sodium ion	Ion	Cofactor	E	A:504
+5NLX	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I	A:506, A:507, A:508
+5NLX	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D	A:501, A:502, A:503
+5NM2	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+5NM2	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R	A:1203, A:1204, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217
+5NM2	A	CLR	Cholesterol	Lipid	Cofactor	W, X, Y	A:1222, A:1223, A:1224
+5NM2	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		S, T	A:1218, A:1219
+5NM2	A	OLC	1-oleoyl-r-glycerol	Lipid		U, V	A:1220, A:1221
+5NM4	A	NA	Sodium ion	Ion	Cofactor	G	A:506
+5NM4	A	CLR	Cholesterol	Lipid	Cofactor	I, J, K	A:508, A:509, A:510
+5NM4	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E, F	A:501, A:502, A:503, A:504, A:505
+5NX2	A	NAG	D-glcnac	Other		D	A:603
+5NX2	A	SOG	Octyl 1-thio-glucoside	Detergent		E, F, G	A:604, A:605, A:606
+5OLG	A	NA	Sodium ion	Ion	Cofactor	FA	A:1231
+5OLG	A	OLA	Oleic acid	Lipid	Cofactor	G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W	A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222
+5OLG	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E, F	A:1202, A:1203, A:1204, A:1205
+5OLG	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA	A:1227, A:1228, A:1229
+5OLH	A	NA	Sodium ion	Ion	Cofactor	D	A:1203
+5OLH	A	CLR	Cholesterol	Lipid	Cofactor	E, F, G	A:1204, A:1205, A:1206
+5OLH	A	OLA	Oleic acid	Lipid	Cofactor	C, CA, H, I, J, K, L, M, N, O, P, Q, R, S, T	A:1202, A:1228, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219
+5OLH	A	OLC	1-oleoyl-r-glycerol	Lipid		AA, BA, U, V, W, X, Y, Z	A:1226, A:1227, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+5OLO	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+5OLO	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O	A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214
+5OLO	A	NA	Sodium ion	Ion	Cofactor	X	A:1223
+5OLO	A	OLC	1-oleoyl-r-glycerol	Lipid		P, Q, R, S, T, U, V, W	A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222
+5OLV	A	NA	Sodium ion	Ion	Cofactor	C	A:1202
+5OLV	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F, G	A:1203, A:1204, A:1205, A:1206
+5OLV	A	OLA	Oleic acid	Lipid	Cofactor	BA, CA, H, I, J, K, L, M, N, O, P, Q, R	A:1227, A:1228, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217
+5OLV	A	OLC	1-oleoyl-r-glycerol	Lipid		AA, DA, S, T, U, V, W, X, Y, Z	A:1226, A:1229, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+5OLZ	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E, F	A:1202, A:1203, A:1204, A:1205
+5OLZ	A	OLA	Oleic acid	Lipid	Cofactor	G, GA, H, I, J, K, L, M, N, O, P, Q, R, S, T	A:1206, A:1232, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219
+5OLZ	A	NA	Sodium ion	Ion	Cofactor	IA	A:1234
+5OLZ	A	OLC	1-oleoyl-r-glycerol	Lipid		AA, BA, CA, DA, EA, U, V, W, X, Y, Z	A:1226, A:1227, A:1228, A:1229, A:1230, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+5OM1	A	NA	Sodium ion	Ion	Cofactor	C	A:1202
+5OM1	A	OLA	Oleic acid	Lipid	Cofactor	D, I, J, K, L, M, N, O, P, Q, R, S, T, U	A:1203, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220
+5OM1	A	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H	A:1204, A:1205, A:1206, A:1207
+5OM1	A	OLC	1-oleoyl-r-glycerol	Lipid		AA, BA, CA, DA, EA, FA, GA, V, W, X, Y, Z	A:1226, A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1221, A:1222, A:1223, A:1224, A:1225
+5OM1	A	CL	Chloride ion	Ion		HA	A:1233
+5OM4	A	NA	Sodium ion	Ion	Cofactor	C	A:1202
+5OM4	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F, G	A:1203, A:1204, A:1205, A:1206
+5OM4	A	OLA	Oleic acid	Lipid	Cofactor	H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W	A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222
+5OM4	A	OLC	1-oleoyl-r-glycerol	Lipid		AA, BA, CA, DA, EA, FA, GA, HA, X, Y, Z	A:1226, A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1223, A:1224, A:1225
+5T1A	A	ZN	Zinc ion	Ion	Cofactor	I	A:1208
+5T1A	A	OLC	1-oleoyl-r-glycerol	Lipid		H	A:1207
+5TE3	A	PLM	Palmitic acid	Lipid	Cofactor	E, H	A:403, A:406
+5TE3	A	BOG	Octyl glucoside	Detergent		C, D, I	A:401, A:402, A:407
+5TGZ	A	OLA	Oleic acid	Lipid	Cofactor	E, F, G	A:2004, A:2005, A:2006
+5TGZ	A	FMN	Flavin mononucleotide	Other		C	A:2002
+5TGZ	A	OLC	1-oleoyl-r-glycerol	Lipid		D	A:2003
+5TVN	A	CLR	Cholesterol	Lipid	Cofactor	C	A:2002
+5TVN	A	OLC	1-oleoyl-r-glycerol	Lipid		D	A:2003
+5TZR	A	NA	Sodium ion	Ion	Cofactor	B	A:2401
+5TZR	A	MLI	Malonate ion	Other	Cofactor	D	A:2403
+5TZR	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I, J, K, L	A:2404, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411
+5TZY	A	OLC	1-oleoyl-r-glycerol	Lipid		B	A:2401
+5UIG	A	EDT	Edetic acid	Other	Cofactor	B	A:501
+5UIW	A	OLA	Oleic acid	Lipid	Cofactor	J, K	A:1108, A:1109
+5UIW	A	ZN	Zinc ion	Ion	Cofactor	C	A:1101
+5UIW	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, G, H, I	A:1102, A:1103, A:1104, A:1105, A:1106, A:1107
+5UNG	B	OLA	Oleic acid	Lipid	Cofactor	D	B:1203
+5UNG	B	OLC	1-oleoyl-r-glycerol	Lipid		C	B:1202
+5UVI	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+5UVI	A	OLA	Oleic acid	Lipid	Cofactor	H	A:1207
+5UVI	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G	A:1205, A:1206
+5VBL	B	ZN	Zinc ion	Ion	Cofactor	C	B:1101
+5VBL	B	OLC	1-oleoyl-r-glycerol	Lipid		D	B:1102
+5VRA	A	NA	Sodium ion	Ion	Cofactor	C	A:2402
+5VRA	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2403, A:2404, A:2405
+5VRA	A	OLA	Oleic acid	Lipid	Cofactor	M, N, O, P, Q, R, S, T, U, V	A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421
+5VRA	A	OLC	1-oleoyl-r-glycerol	Lipid		G, H, I, J, K, L	A:2406, A:2407, A:2408, A:2409, A:2410, A:2411
+5VRA	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		W	A:2422
+5WB2	A	CLR	Cholesterol	Lipid	Cofactor	D, E	A:1201, A:1202
+5WB2	B	ZN	Zinc ion	Ion	Cofactor	J	B:101
+5WB2	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G, H, I	A:1203, A:1204, A:1205, A:1206
+5WF5	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D	A:1202, A:1203
+5WF6	A	OLC	1-oleoyl-r-glycerol	Lipid		C	A:1202
+5WIV	A	OLA	Oleic acid	Lipid	Cofactor	H, I, J, K, L, M, N, O	A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214
+5WQC	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G	A:3001, A:3002, A:3003, A:3004, A:3005
+5WS3	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F	A:2002, A:2003, A:2004, A:2005
+5X93	A	CLR	Cholesterol	Lipid	Cofactor	N	A:1213
+5X93	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E, F, G, H, I, J, K, L, M	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212
+5XEZ	A, B	NAG	D-glcnac	Other		L, N, O	A:1201, B:1203, B:1204
+5XR8	A	CLR	Cholesterol	Lipid	Cofactor	D	A:1203
+5XR8	A	FMN	Flavin mononucleotide	Other		B	A:1201
+5XSZ	A	OLC	1-oleoyl-r-glycerol	Lipid		B, C, D	A:1201, A:1202, A:1203
+5YC8	A	HG	Mercury (ii) ion	Ion		C, D, E	A:502, A:503, A:504
+5YQZ	R	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I, J	R:1205, R:1206, R:1207, R:1208, R:1209, R:1210
+5ZKP	A	FMN	Flavin mononucleotide	Other		C	A:1202
+5ZTY	A	OLA	Oleic acid	Lipid	Cofactor	C	A:1202
+5ZTY	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F	A:1203, A:1204, A:1205
+6A93	A, B	CLR	Cholesterol	Lipid	Cofactor	D, K	A:3002, B:3003
+6A93	A	ZN	Zinc ion	Ion	Cofactor	E	A:3003
+6A93	B	PLM	Palmitic acid	Lipid	Cofactor	J	B:3002
+6A94	A, B	CLR	Cholesterol	Lipid	Cofactor	D, I	A:3002, B:3003
+6A94	B	PLM	Palmitic acid	Lipid	Cofactor	H	B:3002
+6A94	B	A6L	Monoolein	Other	Cofactor	J	B:3004
+6A94	A	ZN	Zinc ion	Ion	Cofactor	F	A:3004
+6AK3	A, B	POV	(2s)-3-(hexadecanoyloxy)-2-[(9z)-octadec-9-enoyloxy]propyl 2-(trimethylammonio)ethyl phosphate	Other	Cofactor	D, F	B:1202, A:1202
+6AQF	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+6AQF	A	OLA	Oleic acid	Lipid	Cofactor	G, H, I, J, K, L, M	A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212
+6AQF	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		F	A:1205
+6AQF	A	OLC	1-oleoyl-r-glycerol	Lipid		N, O, P, Q	A:1213, A:1214, A:1215, A:1216
+6B73	A, B	CLR	Cholesterol	Lipid	Cofactor	F, I	A:2002, B:2002
+6B73	A	OLA	Oleic acid	Lipid	Cofactor	G	A:2003
+6BD4	A	OLA	Oleic acid	Lipid	Cofactor	G, H, I, J, K	A:1106, A:1107, A:1108, A:1109, A:1110
+6BD4	A	ZN	Zinc ion	Ion	Cofactor	B	A:1101
+6BD4	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E, F	A:1102, A:1103, A:1104, A:1105
+6BQG	A	OLC	1-oleoyl-r-glycerol	Lipid		C	A:1202
+6BQH	A	OLA	Oleic acid	Lipid	Cofactor	J, K	A:1209, A:1210
+6BQH	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E, F, G, H	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207
+6CM4	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H	A:2005, A:2006, A:2007
+6DO1	A, B	NAG	D-glcnac	Other		I, O	A:1001, B:1001
+6DO1	A, B	CL	Chloride ion	Ion		J, K, L, P, Q	A:1002, A:1003, A:1004, B:1002, B:1003
+6DO1	A, B	OLC	1-oleoyl-r-glycerol	Lipid		M, N, R, S, T	A:1005, A:1006, B:1004, B:1005, B:1006
+6DRX	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
+6DRX	A	OLC	1-oleoyl-r-glycerol	Lipid		D	A:1203
+6DRY	A	CLR	Cholesterol	Lipid	Cofactor	C	A:2002
+6DRY	A	OLA	Oleic acid	Lipid	Cofactor	D	A:2003
+6DRY	A	OLC	1-oleoyl-r-glycerol	Lipid		E	A:2004
+6DRZ	A	CLR	Cholesterol	Lipid	Cofactor	B	A:1201
+6DRZ	A	OLA	Oleic acid	Lipid	Cofactor	C	A:1202
+6DRZ	A	OLC	1-oleoyl-r-glycerol	Lipid		D	A:1203
+6DS0	A	CLR	Cholesterol	Lipid	Cofactor	B	A:1201
+6DS0	A	OLC	1-oleoyl-r-glycerol	Lipid		C	A:1202
+6FFH	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E, H	A:4001, A:4002, A:4003, A:4004, A:4007
+6FFH	A	OLC	1-oleoyl-r-glycerol	Lipid		I	A:4008
+6FFI	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E, F, H, I	A:4001, A:4002, A:4003, A:4004, A:4005, A:4007, A:4008
+6FK6	A	PLM	Palmitic acid	Lipid	Cofactor	C	A:401
+6FK6	A	BOG	Octyl glucoside	Detergent		D, E, F, G	A:407, A:408, A:409, A:410
+6FK7	A	PLM	Palmitic acid	Lipid	Cofactor	C	A:401
+6FK7	A	BOG	Octyl glucoside	Detergent		D, E, F, G, H	A:402, A:403, A:404, A:405, A:406
+6FK8	A	PLM	Palmitic acid	Lipid	Cofactor	C	A:401
+6FK8	A	BOG	Octyl glucoside	Detergent		E, F	A:408, A:409
+6FK9	A	PLM	Palmitic acid	Lipid	Cofactor	C	A:401
+6FK9	A	BOG	Octyl glucoside	Detergent		D, E, F, G	A:407, A:408, A:409, A:410
+6FKA	A	PLM	Palmitic acid	Lipid	Cofactor	C	A:401
+6FKA	A	BOG	Octyl glucoside	Detergent		D, E, F, G, H	A:407, A:408, A:409, A:410, A:411
+6FKB	A	BMA	Mannose	Other	Cofactor	E	A:404
+6FKB	A	PLM	Palmitic acid	Lipid	Cofactor	B	A:401
+6FKB	A	MAN	Mannose	Other		F, G	A:405, A:406
+6FKB	A	BOG	Octyl glucoside	Detergent		H, I, J, K, L	A:407, A:408, A:409, A:410, A:411
+6FKB	A	NAG	D-glcnac	Other		C, D	A:402, A:403
+6FKC	A	PLM	Palmitic acid	Lipid	Cofactor	C	A:401
+6FKC	A	BOG	Octyl glucoside	Detergent		E, F, G, H, I	A:408, A:409, A:410, A:411, A:412
+6FKD	A	PLM	Palmitic acid	Lipid	Cofactor	C	A:401
+6FKD	A	BOG	Octyl glucoside	Detergent		D, E, F, G, H	A:407, A:408, A:409, A:410, A:411
+6FUF	A	NAG	D-glcnac	Other		D	A:402
+6GPS	A	ZN	Zinc ion	Ion	Cofactor	B	A:1101
+6GPX	A, B	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I, J, K, L, M, N, P, Q, R	A:402, A:403, A:404, A:405, A:406, A:407, A:408, A:409, A:410, A:411, A:412, B:401, B:402, B:403
+6GPX	A	ZN	Zinc ion	Ion	Cofactor	C	A:401
+6GT3	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+6GT3	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+6GT3	A	OLA	Oleic acid	Lipid	Cofactor	G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U	A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419
+6GT3	A	OLC	1-oleoyl-r-glycerol	Lipid		AA, BA, CA, DA, EA, V, W, X, Y, Z	A:2425, A:2426, A:2427, A:2428, A:2429, A:2420, A:2421, A:2422, A:2423, A:2424
+6H7L	A, B	NA	Sodium ion	Ion	Cofactor	H, O	A:401, B:401
+6H7L	A, B, E	2CV	Hega-10	Detergent		G, I, J, K, L, N, P, Q, R	E:201, A:402, A:403, A:404, A:405, A:407, B:402, B:403, B:404
+6H7M	A, B	NA	Sodium ion	Ion	Cofactor	K, Q	A:505, B:406
+6H7M	A, B	2CV	Hega-10	Detergent		G, H, I, L, M, N, O	A:501, A:502, A:503, B:401, B:402, B:403, B:404
+6H7N	A, B	NA	Sodium ion	Ion	Cofactor	H, N	A:402, B:403
+6H7N	A, B	2CV	Hega-10	Detergent		I, J, K, L, O	A:403, A:404, A:405, B:401, B:404
+6HLO	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T	A:1503, A:1504, A:1505, A:1506, A:1507, A:1508, A:1509, A:1510, A:1511, A:1512, A:1513, A:1514, A:1515, A:1516, A:1517, A:1518, A:1519
+6HLO	A	OLC	1-oleoyl-r-glycerol	Lipid		U, V, W	A:1520, A:1521, A:1522
+6HLP	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I, J, K, L	A:1503, A:1504, A:1505, A:1506, A:1507, A:1508, A:1509, A:1510, A:1511
+6HLP	A	OLC	1-oleoyl-r-glycerol	Lipid		M, N, NA, O, OA, P, Q	A:1512, A:1513, A:1539, A:1514, A:1540, A:1515, A:1516
+6I9K	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E, F, G, H, I, J, K, L, M	A:402, A:403, A:404, A:405, A:406, A:407, A:408, A:409, A:410, A:411, A:412
+6IBB	A	H95	(2~{s},5~{r})-hexane-2,5-diol	Other	Cofactor	N	A:410
+6IBB	C	CLR	Cholesterol	Lipid	Cofactor	Q	C:403
+6IBB	A, C	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I, J, K, L, O, P, R, S, T, U, V	A:401, A:402, A:403, A:404, A:405, A:406, A:407, A:408, C:401, C:402, C:404, C:405, C:406, C:407, C:408
+6IBL	A, B	NA	Sodium ion	Ion	Cofactor	F, M	A:502, B:502
+6IBL	A, B	2CV	Hega-10	Detergent		G, H, I, J, K, N, O, P	A:503, A:504, A:505, A:506, A:507, B:503, B:504, B:505
+6IGK	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E, F, G, H, I, J, K, L, M, N	A:1201, A:1202, A:1203, A:1204, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212
+6IGL	A	OLC	1-oleoyl-r-glycerol	Lipid		H, I, J	A:1206, A:1207, A:1208
+6IIU	A	CLR	Cholesterol	Lipid	Cofactor	D	A:9003
+6IIU	A	ZN	Zinc ion	Ion	Cofactor	C	A:9002
+6IIU	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F	A:9004, A:9005
+6IIV	A	CLR	Cholesterol	Lipid	Cofactor	D	A:9003
+6IIV	A	ZN	Zinc ion	Ion	Cofactor	C	A:9002
+6J21	A	OLC	1-oleoyl-r-glycerol	Lipid		C	A:1202
+6JZH	A	NA	Sodium ion	Ion	Cofactor	B	A:2001
+6JZH	A	CLR	Cholesterol	Lipid	Cofactor	W, X, Y	A:2022, A:2023, A:2024
+6JZH	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V	A:2003, A:2004, A:2005, A:2006, A:2007, A:2008, A:2009, A:2010, A:2011, A:2012, A:2013, A:2014, A:2015, A:2016, A:2017, A:2018, A:2019, A:2020, A:2021
+6K1Q	A	OLC	1-oleoyl-r-glycerol	Lipid		G, H, I, J, K, L, M, N	A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213
+6KJV	A, B	OLC	1-oleoyl-r-glycerol	Lipid		D, F	A:2002, B:2002
+6KNM	B	ZN	Zinc ion	Ion	Cofactor	C	B:1101
+6KQI	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G	A:1203, A:1204, A:1205, A:1206
+6KQI	A	OLC	1-oleoyl-r-glycerol	Lipid		H, I	A:1207, A:1208
+6KUX	A	OLA	Oleic acid	Lipid	Cofactor	H	A:1207
+6KUX	A	FLC	Citrate anion	Other	Cofactor	I	A:1208
+6LFM	R	CLR	Cholesterol	Lipid	Cofactor	H	R:401
+6LFO	R	CLR	Cholesterol	Lipid	Cofactor	G	R:401
+6LI0	A	FLC	Citrate anion	Other	Cofactor	O	A:1414
+6LI0	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, G, H, I, J, L, M, N, P, Q, R, S, T, U, V	A:1403, A:1404, A:1405, A:1406, A:1407, A:1408, A:1409, A:1411, A:1412, A:1413, A:1415, A:1416, A:1417, A:1418, A:1419, A:1420, A:1421
+6LI0	A	FMN	Flavin mononucleotide	Other		C	A:1402
+6LI1	A	FMN	Flavin mononucleotide	Other		C	A:1202
+6LI1	A	OLC	1-oleoyl-r-glycerol	Lipid		B, E	A:1201, A:1204
+6LI2	A	ZN	Zinc ion	Ion	Cofactor	B	A:1201
+6LI2	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E, F, G, H, I, J, K, L, M	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212
+6LPJ	A	NA	Sodium ion	Ion	Cofactor	C	A:2402
+6LPJ	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2403, A:2404, A:2405
+6LPJ	A	ER0	[(2~{r},3~{s})-2,3,4-tris(oxidanyl)butyl] (5~{r},9~{r},13~{r})-5,9,13,17-tetramethyloctadecanoate	Other	Cofactor	Q, X	A:2416, A:2423
+6LPJ	A	8K6	Octadecane	Other	Cofactor	K, S, T	A:2410, A:2418, A:2419
+6LPJ	A	D12	Dodecane	Other	Cofactor	G	A:2406
+6LPJ	A	HEX	Hexane	Other	Cofactor	I	A:2408
+6LPJ	A	MYS	Pentadecane	Other	Cofactor	AA, H, J, O, R, Y	A:2426, A:2407, A:2409, A:2414, A:2417, A:2424
+6LPJ	A	TRD	Tridecane	Other	Cofactor	BA, U, W, Z	A:2427, A:2420, A:2422, A:2425
+6LPJ	A	UND	Undecane	Other	Cofactor	P	A:2415
+6LPJ	A	OCT	N-octane	Other	Cofactor	M, N, V	A:2412, A:2413, A:2421
+6LPK	A	NA	Sodium ion	Ion	Cofactor	C	A:2402
+6LPK	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2403, A:2404, A:2405
+6LPK	A	ER0	[(2~{r},3~{s})-2,3,4-tris(oxidanyl)butyl] (5~{r},9~{r},13~{r})-5,9,13,17-tetramethyloctadecanoate	Other	Cofactor	Q, X	A:2416, A:2423
+6LPK	A	D12	Dodecane	Other	Cofactor	G	A:2406
+6LPK	A	HEX	Hexane	Other	Cofactor	I	A:2408
+6LPK	A	8K6	Octadecane	Other	Cofactor	K, S, T	A:2410, A:2418, A:2419
+6LPK	A	OCT	N-octane	Other	Cofactor	M, N, V	A:2412, A:2413, A:2421
+6LPK	A	UND	Undecane	Other	Cofactor	P	A:2415
+6LPK	A	TRD	Tridecane	Other	Cofactor	BA, U, W, Z	A:2427, A:2420, A:2422, A:2425
+6LPK	A	MYS	Pentadecane	Other	Cofactor	AA, H, J, O, R, Y	A:2426, A:2407, A:2409, A:2414, A:2417, A:2424
+6LUQ	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F	A:1202, A:1203, A:1204, A:1205
+6LW5	A	CLR	Cholesterol	Lipid	Cofactor	C, D	A:1201, A:1202
+6M9T	A	OLA	Oleic acid	Lipid	Cofactor	H, I, J, K	A:2107, A:2108, A:2109, A:2110
+6M9T	A	OLC	1-oleoyl-r-glycerol	Lipid		G	A:2106
+6ME2	A	OLA	Oleic acid	Lipid	Cofactor	C, D	A:1202, A:1203
+6ME3	A	OLA	Oleic acid	Lipid	Cofactor	C	A:1202
+6ME5	A	OLA	Oleic acid	Lipid	Cofactor	C	A:1202
+6ME8	A	ZN	Zinc ion	Ion	Cofactor	D	A:2202
+6ME9	A	ZN	Zinc ion	Ion	Cofactor	D	A:2202
+6MXT	A	MG	Magnesium ion	Ion	Cofactor	D	A:1402
+6MXT	A	OLA	Oleic acid	Lipid	Cofactor	H	A:1406
+6MXT	A	P33	Peg330	Other	Cofactor	I	A:1407
+6MXT	A, N	NI	Nickel (ii) ion	Ion		E, J, K	A:1403, N:201, N:202
+6MXT	A	OLC	1-oleoyl-r-glycerol	Lipid		F	A:1404
+6N48	A	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	D	A:1402
+6N4B	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:502, R:503
+6N51	A, B	NAG	D-glcnac	Other		E, F, H, I	B:901, B:902, A:901, A:902
+6N52	A, B	NAG	D-glcnac	Other		C, D, E, F	A:901, A:902, B:901, B:902
+6OBA	A	CLR	Cholesterol	Lipid	Cofactor	B, C	A:1201, A:1202
+6OL9	A	OLA	Oleic acid	Lipid	Cofactor	B, C	A:1201, A:1202
+6OL9	A	P33	Peg330	Other	Cofactor	E	A:1204
+6OL9	A	OLC	1-oleoyl-r-glycerol	Lipid		F	A:1205
+6OMM	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	R:401, R:402, R:403, R:404, R:405
+6OMM	R	PLM	Palmitic acid	Lipid	Cofactor	L, M, N	R:406, R:407, R:408
+6OS0	A	CL	Chloride ion	Ion		E, F	A:2002, A:2003
+6OS0	A	NAG	D-glcnac	Other		D	A:2001
+6OS1	A	CLR	Cholesterol	Lipid	Cofactor	J	A:1407
+6OS1	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, G, H, I	A:1401, A:1402, A:1403, A:1404, A:1405, A:1406
+6OS2	A	CLR	Cholesterol	Lipid	Cofactor	K	A:1408
+6OS2	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I, J	A:1402, A:1403, A:1404, A:1405, A:1406, A:1407
+6OS2	A	NAG	D-glcnac	Other		D	A:1401
+6PB1	P	PLM	Palmitic acid	Lipid	Cofactor	K, L, M, N, O	P:405, P:406, P:407, P:408, P:409
+6PRZ	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
+6PRZ	A	OLA	Oleic acid	Lipid	Cofactor	G, H	A:1206, A:1207
+6PRZ	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F	A:1203, A:1204, A:1205
+6PS0	A	CLR	Cholesterol	Lipid	Cofactor	F	A:1205
+6PS0	A	OLA	Oleic acid	Lipid	Cofactor	J	A:1209
+6PS0	A	OLC	1-oleoyl-r-glycerol	Lipid		G, H, I	A:1206, A:1207, A:1208
+6PS1	A	CLR	Cholesterol	Lipid	Cofactor	F	A:1205
+6PS1	A	OLA	Oleic acid	Lipid	Cofactor	I	A:1208
+6PS1	A	OLC	1-oleoyl-r-glycerol	Lipid		G, H	A:1206, A:1207
+6PS2	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
+6PS2	A	OLA	Oleic acid	Lipid	Cofactor	R, S, T, U	A:1217, A:1218, A:1219, A:1220
+6PS2	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		D, E, F, G, H, I, K	A:1203, A:1204, A:1205, A:1206, A:1207, A:1208, A:1210
+6PS2	A	OLC	1-oleoyl-r-glycerol	Lipid		J, P, Q	A:1209, A:1215, A:1216
+6PS3	A	CLR	Cholesterol	Lipid	Cofactor	G	A:1206
+6PS3	A	OLA	Oleic acid	Lipid	Cofactor	N, O, P, Q	A:1213, A:1214, A:1215, A:1216
+6PS3	A	OLC	1-oleoyl-r-glycerol	Lipid		H, I, J, K, L, M	A:1207, A:1208, A:1209, A:1210, A:1211, A:1212
+6PS4	A	CLR	Cholesterol	Lipid	Cofactor	F	A:1205
+6PS4	A	OLA	Oleic acid	Lipid	Cofactor	G, H, I, J	A:1206, A:1207, A:1208, A:1209
+6PS4	A	OLC	1-oleoyl-r-glycerol	Lipid		K, L, M, N, O, P, Q, R, S, T	A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219
+6PS5	A	CLR	Cholesterol	Lipid	Cofactor	G	A:1206
+6PS5	A	OLA	Oleic acid	Lipid	Cofactor	H, I	A:1207, A:1208
+6PS5	A	OLC	1-oleoyl-r-glycerol	Lipid		J, K, L, M	A:1209, A:1210, A:1211, A:1212
+6PS6	A	CLR	Cholesterol	Lipid	Cofactor	G	A:1206
+6PS6	A	OLA	Oleic acid	Lipid	Cofactor	O, P, Q, R	A:1214, A:1215, A:1216, A:1217
+6PS6	A	OLC	1-oleoyl-r-glycerol	Lipid		H, I, J, K, L, M, N	A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213
+6PS7	A	CLR	Cholesterol	Lipid	Cofactor	L, M, N	A:1211, A:1212, A:1213
+6PS7	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+6PS7	A	NA	Sodium ion	Ion	Cofactor	CA	A:1228
+6PS7	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		O	A:1214
+6PS7	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E, F, G, H, I, J, K	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210
+6PT0	R	CLR	Cholesterol	Lipid	Cofactor	H, I, J, K	R:403, R:404, R:405, R:406
+6PT0	R	PLM	Palmitic acid	Lipid	Cofactor	G, L, M, N	R:402, R:407, R:408, R:409
+6QZH	A	NA	Sodium ion	Ion	Cofactor	D	A:1503
+6RNK	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, G, H, I, J, K, L, M, N, O, P	A:402, A:403, A:404, A:405, A:406, A:407, A:408, A:409, A:410, A:411, A:412, A:413, A:414
+6RZ4	A	OLA	Oleic acid	Lipid	Cofactor	M	A:2012
+6RZ4	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, G, H, I, J, K, L	A:2003, A:2004, A:2005, A:2006, A:2007, A:2008, A:2009, A:2010, A:2011
+6RZ6	A	CLR	Cholesterol	Lipid	Cofactor	C	A:2002
+6RZ6	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, DA, U, V, W, X, Y, Z	A:2026, A:2027, A:2028, A:2029, A:2020, A:2021, A:2022, A:2023, A:2024, A:2025
+6RZ6	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T	A:2004, A:2005, A:2006, A:2007, A:2008, A:2009, A:2010, A:2011, A:2012, A:2013, A:2014, A:2015, A:2016, A:2017, A:2018, A:2019
+6RZ7	A	CLR	Cholesterol	Lipid	Cofactor	C	A:2002
+6RZ7	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2005, A:2006, A:2007, A:2008, A:2009, A:2010, A:2011, A:2012, A:2013, A:2014, A:2015, A:2016, A:2017, A:2018, A:2019, A:2020, A:2021, A:2022, A:2023, A:2024, A:2025
+6RZ7	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E	A:2003, A:2004
+6RZ8	A	OLA	Oleic acid	Lipid	Cofactor	M, N, O	A:2012, A:2013, A:2014
+6RZ8	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D, E, F, G, H, I, J, K, L	A:2002, A:2003, A:2004, A:2005, A:2006, A:2007, A:2008, A:2009, A:2010, A:2011
+6RZ9	A	CLR	Cholesterol	Lipid	Cofactor	C	A:2002
+6RZ9	A	OLA	Oleic acid	Lipid	Cofactor	R, S, T, U, V, W, X	A:2017, A:2018, A:2019, A:2020, A:2021, A:2022, A:2023
+6RZ9	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I, J, K, L, M, N, O, P, Q	A:2004, A:2005, A:2006, A:2007, A:2008, A:2009, A:2010, A:2011, A:2012, A:2013, A:2014, A:2015, A:2016
+6S0L	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, H, I	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207, A:1208
+6S0L	A	CLR	Cholesterol	Lipid	Cofactor	N, O, P	A:1213, A:1214, A:1215
+6S0L	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		J, K	A:1209, A:1210
+6S0L	A	OLC	1-oleoyl-r-glycerol	Lipid		L, M	A:1211, A:1212
+6S0Q	A	CLR	Cholesterol	Lipid	Cofactor	N, O, P	A:1213, A:1214, A:1215
+6S0Q	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, H, I	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207, A:1208
+6S0Q	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		J, K	A:1209, A:1210
+6S0Q	A	OLC	1-oleoyl-r-glycerol	Lipid		L, M	A:1211, A:1212
+6TO7	A, B	PGW	Phosphatidylglycerol	Other	Cofactor	BA, CB	A:426, B:426
+6TO7	A, B	NA	Sodium ion	Ion	Cofactor	CA, DB	A:427, B:427
+6TO7	A, B	SOG	Octyl 1-thio-glucoside	Detergent		AA, AB, BB, F, G, H, HA, I, IA, J, JA, K, KA, L, LA, M, MA, N, NA, O, OA, P, PA, Q, QA, R, RA, S, SA, T, TA, U, UA, V, VA, W, WA, X, XA, Y, YA, Z, ZA	A:425, B:424, B:425, A:404, A:405, A:406, B:405, A:407, B:406, A:408, B:407, A:409, B:408, A:410, B:409, A:411, B:410, A:412, B:411, A:413, B:412, A:414, B:413, A:415, B:414, A:416, B:415, A:417, B:416, A:418, B:417, A:419, B:418, A:420, B:419, A:421, B:420, A:422, B:421, A:423, B:422, A:424, B:423
+6TOS	A	NA	Sodium ion	Ion	Cofactor	U	A:419
+6TOS	B	PGW	Phosphatidylglycerol	Other	Cofactor	Y, Z	B:404, B:405
+6TOS	A, B	SOG	Octyl 1-thio-glucoside	Detergent		AA, BA, CA, DA, EA, FA, GA, HA, I, IA, J, JA, K, KA, L, LA, M, MA, N, NA, O, OA, P, Q, R, S, T	B:406, B:407, B:408, B:409, B:410, B:411, B:412, B:413, A:407, B:414, A:408, B:415, A:409, B:416, A:410, B:417, A:411, B:418, A:412, B:419, A:413, B:420, A:414, A:415, A:416, A:417, A:418
+6TOT	A	PGW	Phosphatidylglycerol	Other	Cofactor	K, L	A:409, A:410
+6TOT	A, B	SOG	Octyl 1-thio-glucoside	Detergent		G, H, I, J, P, Q, R, S, T	A:405, A:406, A:407, A:408, B:404, B:405, B:406, B:407, B:408
+6TP3	A, B	PGW	Phosphatidylglycerol	Other	Cofactor	F, P	A:404, B:403
+6TP3	A, B	SOG	Octyl 1-thio-glucoside	Detergent		G, H, I, J, K, L, M, Q, R, S, T, U, V, W	A:405, A:406, A:407, A:408, A:409, A:410, A:411, B:404, B:405, B:406, B:407, B:408, B:409, B:410
+6TPG	A	OLA	Oleic acid	Lipid	Cofactor	D	A:1203
+6TPN	A	OLA	Oleic acid	Lipid	Cofactor	G, H, I, J	A:1206, A:1207, A:1208, A:1209
+6TPN	A	NO3	Nitrate ion	Other	Cofactor	C, D	A:1202, A:1203
+6TQ6	A, B	PGW	Phosphatidylglycerol	Other	Cofactor	F, O	A:404, B:404
+6TQ6	A, B	SOG	Octyl 1-thio-glucoside	Detergent		G, H, I, J, P, Q, R, S, T, U	A:405, A:406, A:407, A:408, B:405, B:406, B:407, B:408, B:409, B:410
+6UO8	A, B	NAG	D-glcnac	Other		G, H, J, K, L, M	A:1002, A:1005, B:903, B:904, B:905, B:906
+6V9S	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
+6V9S	A	OLA	Oleic acid	Lipid	Cofactor	D	A:1203
+6VJM	A, B	NAG	D-glcnac	Other		G, H	A:1006, B:1002
+6VN7	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:601, R:602, R:603, R:604, R:605, R:606
+6VN7	R	PLM	Palmitic acid	Lipid	Cofactor	M, N, O, P	R:607, R:608, R:609, R:610
+6W25	A	CA	Calcium ion	Ion	Cofactor	C	A:2101
+6W25	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I, J, K	A:2102, A:2103, A:2104, A:2105, A:2106, A:2107, A:2108, A:2109
+6W2X	A, B	L9Q	1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine	Lipid	Cofactor	G, J	A:905, B:1003
+6W2X	A	MG	Magnesium ion	Ion	Cofactor	I	A:907
+6W2X	A	NAG	D-glcnac	Other		E, F	A:901, A:902
+6WGT	A, B	OLA	Oleic acid	Lipid	Cofactor	F, G, K	A:1203, A:1204, B:1202
+6WGT	A	CLR	Cholesterol	Lipid	Cofactor	E, I	A:1202, A:1206
+6WJC	A	ACM	Acetamide	Other	Cofactor	C	A:501
+6WJC	A	Y01	Cholesterol hemisuccinate	Lipid		D, E, F, G	A:502, A:503, A:504, A:505
+6WQA	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+6WQA	A	CLR	Cholesterol	Lipid	Cofactor	D, Q, R	A:1203, A:1216, A:1217
+6WQA	A	OLA	Oleic acid	Lipid	Cofactor	E, F, G, H, I, J, K, M, O, T, U, V, W, Y, Z	A:1204, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1212, A:1214, A:1219, A:1220, A:1221, A:1222, A:1224, A:1225
+6WQA	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		X	A:1223
+6WQA	A	OLC	1-oleoyl-r-glycerol	Lipid		AA, BA, L, P, S	A:1226, A:1227, A:1211, A:1215, A:1218
+6Z10	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, G, H, I, J, K, L, M, N, O	A:402, A:403, A:404, A:405, A:406, A:407, A:408, A:409, A:410, A:411, A:412, A:413
+6Z10	A	CL	Chloride ion	Ion		Q	A:415
+6ZDR	A	NA	Sodium ion	Ion	Cofactor	C	A:1202
+6ZDR	A	OLA	Oleic acid	Lipid	Cofactor	G, H, I, J, K, O, P, R, S, T, U	A:1206, A:1207, A:1208, A:1209, A:1210, A:1214, A:1215, A:1217, A:1218, A:1219, A:1220
+6ZDR	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+6ZDR	A	OLC	1-oleoyl-r-glycerol	Lipid		L, M, N, Q	A:1211, A:1212, A:1213, A:1216
+6ZDV	A	NA	Sodium ion	Ion	Cofactor	C	A:1202
+6ZDV	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+6ZDV	A	OLA	Oleic acid	Lipid	Cofactor	H, I, J, K, L, M, N, O, P, Q, R, S, T, U	A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220
+6ZDV	A	OLC	1-oleoyl-r-glycerol	Lipid		V	A:1221
+6ZDV	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		G	A:1206
+6ZFZ	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, H, I, J, K	A:1202, A:1203, A:1204, A:1205, A:1207, A:1208, A:1209, A:1210
+6ZFZ	A	OLC	1-oleoyl-r-glycerol	Lipid		L	A:1211
+6ZG4	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, H, L, M, N, O, P	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207, A:1211, A:1212, A:1213, A:1214, A:1215
+6ZG9	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I	A:1203, A:1204, A:1205, A:1206, A:1207, A:1208
+7ARO	A	NA	Sodium ion	Ion	Cofactor	H	A:1207
+7ARO	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F	A:1202, A:1203, A:1204, A:1205
+7ARO	A	CLR	Cholesterol	Lipid	Cofactor	G	A:1206
+7BR3	A	1QW	1-lauroyl-rac-glycerol	Other	Cofactor	B	A:1201
+7BR3	A	OLC	1-oleoyl-r-glycerol	Lipid		C, D	A:1202, A:1203
+7BTS	A	NA	Sodium ion	Ion	Cofactor	J	A:1408
+7BTS	A	CLR	Cholesterol	Lipid	Cofactor	L	A:1410
+7BTS	A	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	M	A:1411
+7BU6	A	NA	Sodium ion	Ion	Cofactor	L	A:1410
+7BU6	A	480	(2s)-2,3-dihydroxypropyl octanoate	Other	Cofactor	N	A:1412
+7BU6	A	CLR	Cholesterol	Lipid	Cofactor	O	A:1413
+7BU7	A	CLR	Cholesterol	Lipid	Cofactor	K	A:1409
+7BU7	A	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	L	A:1410
+7BU7	A	NA	Sodium ion	Ion	Cofactor	M	A:1411
+7C7Q	A, B	NAG	D-glcnac	Other		C, D, E, F, G, J, K, L	A:1001, A:1002, A:1003, A:1004, A:1005, B:1001, B:1002, B:1003
+7C7S	A, B	NAG	D-glcnac	Other		C, D, E, F, G, I, J, K	A:1001, A:1002, A:1003, A:1004, A:1005, B:1001, B:1002, B:1003
+7CKW	R	CLR	Cholesterol	Lipid	Cofactor	G	R:502
+7CKX	R	CLR	Cholesterol	Lipid	Cofactor	G	R:502
+7CKY	R	CLR	Cholesterol	Lipid	Cofactor	F	R:501
+7CUM	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, K, L, M, N, O, P, Q, R, S, T, U	A:1003, A:1004, A:1005, A:1006, A:1007, B:902, B:903, B:904, B:905, B:906, B:907, B:908, B:909, B:910, B:911, B:912
+7DDZ	A	FMN	Flavin mononucleotide	Other		C	A:1202
+7DTU	A, B	NAG	D-glcnac	Other		H, I, J, L, M, N	A:1102, A:1103, A:1104, B:1102, B:1103, B:1104
+7DTV	A, B	NAG	D-glcnac	Other		J, K, L, M, Q, R, S, T	A:1104, A:1105, A:1106, A:1107, B:1103, B:1104, B:1105, B:1106
+7DTW	A, B	NAG	D-glcnac	Other		G, H, I, J, K, L	A:1101, A:1102, A:1103, B:1101, B:1102, B:1103
+7DUQ	R	CLR	Cholesterol	Lipid	Cofactor	H, I, J, K, L, M, N	R:502, R:503, R:504, R:505, R:506, R:507, R:508
+7DUR	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:702, R:703, R:704, R:705, R:706, R:707
+7DW9	R	CLR	Cholesterol	Lipid	Cofactor	H, I, J	R:601, R:602, R:603
+7E32	R	CLR	Cholesterol	Lipid	Cofactor	G	R:402
+7EJX	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:402, R:403, R:404
+7EPE	A	FMN	Flavin mononucleotide	Other		B	A:1201
+7EPF	A	FMN	Flavin mononucleotide	Other		B	A:1201
+7EPT	R	PLM	Palmitic acid	Lipid	Cofactor	F	R:1001
+7EUO	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:401, R:402
+7EVM	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:502, R:503, R:504, R:505, R:506, R:507
+7EVY	D	NAG	D-glcnac	Other		G	D:402
+7EVZ	D	PLM	Palmitic acid	Lipid	Cofactor	G, H, I, J	D:402, D:403, D:404, D:405
+7EW3	R	PLM	Palmitic acid	Lipid	Cofactor	G, H, I, J	R:402, R:403, R:404, R:405
+7EW4	R	PLM	Palmitic acid	Lipid	Cofactor	G, H	R:402, R:403
+7F1O	A	GDP	Guanosine-5'-diphosphate	Other	Cofactor	H	A:402
+7F1O	A	MG	Magnesium ion	Ion	Cofactor	G	A:401
+7F1Z	A	GDP	Guanosine-5'-diphosphate	Other	Cofactor	F	A:401
+7F23	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	G	A:401
+7F24	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+7F54	R	CA	Calcium ion	Ion	Cofactor	G	R:601
+7F55	R	CA	Calcium ion	Ion	Cofactor	G	R:601
+7F58	R	CA	Calcium ion	Ion	Cofactor	G	R:602
+7F6I	A	CLR	Cholesterol	Lipid	Cofactor	F, G, H	A:501, A:502, A:503
+7FD8	A, B	Y01	Cholesterol hemisuccinate	Lipid		E, H	A:903, B:903
+7FD8	A, B	NAG	D-glcnac	Other		C, F	A:901, B:901
+7FD9	A, B	NAG	D-glcnac	Other		C, E	A:901, B:901
+7FEE	A	CLR	Cholesterol	Lipid	Cofactor	B, C	A:1201, A:1202
+7FEE	A	OLA	Oleic acid	Lipid	Cofactor	N, O, P, Q	A:1213, A:1214, A:1215, A:1216
+7FEE	A	OLC	1-oleoyl-r-glycerol	Lipid		L, M	A:1211, A:1212
+7IN1	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7IN1	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IN1	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IN1	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7IN2	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IN2	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7IN2	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IN2	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7IN3	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IN3	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7IN3	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IN3	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7IN5	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IN5	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7IN5	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IN5	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7IN6	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IN6	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7IN6	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IN6	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7IN7	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IN7	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7IN7	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IN7	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7IN8	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IN8	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IN8	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7IN8	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7IN9	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IN9	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7IN9	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IN9	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INA	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INA	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INA	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INA	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INB	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INB	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INB	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INB	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7IND	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IND	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7IND	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IND	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INE	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INE	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INE	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INE	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INF	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INF	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INF	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INF	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7ING	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7ING	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7ING	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7ING	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INH	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INH	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INH	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INH	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INI	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INI	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INI	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INI	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INJ	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INJ	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INJ	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INJ	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INK	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INK	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INK	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INK	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INL	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INL	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INL	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INL	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INM	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INM	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INM	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INM	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INN	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INN	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INN	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INN	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INO	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INO	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INO	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INO	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INP	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INP	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INP	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INP	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INQ	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INQ	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INQ	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INQ	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INR	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INR	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INR	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INR	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INT	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INT	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INT	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INT	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INU	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INU	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INU	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INU	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INV	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7INV	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+7INV	A	OLA	Oleic acid	Lipid	Cofactor	AA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7INV	A	OLC	1-oleoyl-r-glycerol	Lipid		BA, CA, DA, EA, FA, GA, HA	A:1227, A:1228, A:1229, A:1230, A:1231, A:1232, A:1233
+7INW	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7INW	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7INW	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7INW	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7INX	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7INX	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7INX	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7INX	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7INY	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7INY	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7INY	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7INY	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7INZ	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7INZ	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7INZ	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7INZ	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IO0	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IO0	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IO0	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IO0	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IO1	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IO1	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IO1	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IO1	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IO2	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IO2	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IO2	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IO2	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IO3	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IO3	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IO3	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IO3	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IO4	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IO4	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IO4	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IO4	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IO5	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IO5	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7IO5	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IO5	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IO6	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IO6	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IO6	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IO6	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IO7	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IO7	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IO7	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IO7	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IO8	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IO8	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IO8	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IO8	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IO9	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IO9	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IO9	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IO9	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOA	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOA	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOA	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOA	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOB	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOB	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOB	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOB	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOC	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7IOC	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IOC	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IOC	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IOD	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOD	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOD	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOD	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOE	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IOE	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7IOE	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IOE	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IOG	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOG	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOG	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOG	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOH	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOH	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOH	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOH	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOI	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOI	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOI	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOI	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOJ	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOJ	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOJ	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOJ	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOK	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOK	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOK	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOK	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOL	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOL	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOL	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOL	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOM	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOM	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOM	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOM	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOO	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOO	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOO	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOO	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOP	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IOP	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7IOP	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IOP	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IOQ	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOQ	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOQ	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOQ	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOS	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOS	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOS	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOS	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOT	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOT	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOT	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOT	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOU	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOU	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOU	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOU	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOV	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOV	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOV	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOV	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOW	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOW	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOW	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOW	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOX	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IOX	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IOX	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IOX	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IOY	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IOY	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7IOY	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IOY	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IOZ	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IOZ	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7IOZ	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IOZ	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IP0	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IP0	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IP0	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IP0	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IP1	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IP1	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IP1	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IP1	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IP2	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IP2	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IP2	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IP2	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IP3	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IP3	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IP3	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IP3	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IP4	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IP4	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IP4	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IP4	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IP5	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IP5	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IP5	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IP5	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IP6	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IP6	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IP6	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IP6	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IP7	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IP7	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7IP7	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IP7	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IP8	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IP8	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7IP8	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IP8	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IP9	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IP9	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IP9	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IP9	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IPA	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IPA	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IPA	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IPA	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IPB	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7IPB	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IPB	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IPB	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IPC	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+7IPC	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:1203, A:1204, A:1205
+7IPC	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+7IPC	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:1228, A:1229, A:1230, A:1231, A:1232, A:1233, A:1234
+7IPD	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IPD	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IPD	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IPD	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IPE	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IPE	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IPE	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IPE	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7IPG	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F	A:2402, A:2403, A:2404
+7IPG	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2425, A:2426, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424
+7IPG	A	NA	Sodium ion	Ion	Cofactor	B	A:2400
+7IPG	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, DA, EA, FA, GA, HA, IA	A:2427, A:2428, A:2429, A:2430, A:2431, A:2432, A:2433
+7JHJ	R	Y01	Cholesterol hemisuccinate	Lipid		F	R:401
+7JNI	A, B	OLA	Oleic acid	Lipid	Cofactor	E, F, I, M	A:1202, A:1203, A:1206, B:1201
+7JNI	A	HEZ	Hexane-1,6-diol	Other	Cofactor	K	A:1208
+7JNI	A	OLC	1-oleoyl-r-glycerol	Lipid		D, G, H	A:1201, A:1204, A:1205
+7JV5	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:502, R:503, R:504, R:505, R:506, R:507
+7JV5	R	PLM	Palmitic acid	Lipid	Cofactor	M, N, O, P, Q, R	R:508, R:509, R:510, R:511, R:512, R:513
+7JVP	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:502, R:503, R:504, R:505, R:506, R:507
+7JVP	R	PLM	Palmitic acid	Lipid	Cofactor	M, N, O, P, Q	R:508, R:509, R:510, R:511, R:512
+7JVQ	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	R:502, R:503, R:504, R:505, R:506
+7JVQ	R	PLM	Palmitic acid	Lipid	Cofactor	L, M, N	R:507, R:508, R:509
+7K15	A	NA	Sodium ion	Ion	Cofactor	C	A:2102
+7K15	A	OLA	Oleic acid	Lipid	Cofactor	E	A:2104
+7K15	A	2PE	Nonaethylene glycol	Other	Cofactor	I	A:2108
+7K15	A	FMN	Flavin mononucleotide	Other		D	A:2103
+7K15	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G	A:2105, A:2106
+7M3E	A, B	NAG	D-glcnac	Other		E, F, G, H, O, P, Q, R, S	A:902, A:903, A:904, A:905, B:902, B:903, B:904, B:905, B:906
+7M3F	A, B	NAG	D-glcnac	Other		F, G, H, I, P, Q, R, S, T	A:901, A:902, A:903, A:904, B:901, B:902, B:903, B:904, B:905
+7M3G	A, B	NAG	D-glcnac	Other		K, L, M, T, U	A:902, A:903, A:904, B:902, B:903
+7M3J	A, B	NAG	D-glcnac	Other		E, F, G, J, K	A:902, A:903, A:904, B:902, B:903
+7M8W	A	NA	Sodium ion	Ion	Cofactor	C	A:2402
+7M8W	A	FLC	Citrate anion	Other	Cofactor	D	A:2403
+7MBX	R	Y01	Cholesterol hemisuccinate	Lipid		G	R:501
+7MT8	G	SGV	Sangivamycin	Other	Cofactor	C	G:601
+7MT9	G	SGV	Sangivamycin	Other	Cofactor	C	G:601
+7MTA	G	SGV	Sangivamycin	Other	Cofactor	E	G:601
+7MTB	G	SGV	Sangivamycin	Other	Cofactor	E	G:601
+7MTQ	A, B	NAG	D-glcnac	Other		C, F	A:901, B:902
+7MTR	A, B	NAG	D-glcnac	Other		D, F	B:902, A:902
+7MTS	A, B	NAG	D-glcnac	Other		H, J	A:903, B:902
+7NA7	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:401, R:402
+7P02	R	CLR	Cholesterol	Lipid	Cofactor	G	R:401
+7PIU	R	CA	Calcium ion	Ion	Cofactor	G	R:401
+7PIV	R	CA	Calcium ion	Ion	Cofactor	G	R:401
+7PP1	AAA	CLR	Cholesterol	Lipid	Cofactor	C	AAA:1202
+7PX4	A	CLR	Cholesterol	Lipid	Cofactor	B, C, D	A:2401, A:2402, A:2403
+7PX4	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, DA, EA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2426, A:2427, A:2428, A:2429, A:2430, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424, A:2425
+7PX4	A	OLC	1-oleoyl-r-glycerol	Lipid		FA, GA, HA	A:2431, A:2432, A:2433
+7PYR	A	CLR	Cholesterol	Lipid	Cofactor	B, C, D	A:2401, A:2402, A:2403
+7PYR	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, DA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2426, A:2427, A:2428, A:2429, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424, A:2425
+7PYR	A	OLC	1-oleoyl-r-glycerol	Lipid		EA, FA, GA, HA	A:2430, A:2431, A:2432, A:2433
+7RM5	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E, F	A:1202, A:1203, A:1204, A:1205
+7RM5	A	NA	Sodium ion	Ion	Cofactor	G	A:1206
+7SIL	A, B	CLR	Cholesterol	Lipid	Cofactor	EA, FA, GA, HA, Q, R, S, T	B:911, B:912, B:913, B:914, A:911, A:912, A:913, A:914
+7SIL	A, B	NAG	D-glcnac	Other		G, H, I, U, V, W	A:901, A:902, A:903, B:901, B:902, B:903
+7SK3	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L, M, N	A:601, A:602, A:603, A:604, A:605, A:606, A:607, A:608
+7SK4	A	CLR	Cholesterol	Lipid	Cofactor	G, H	A:401, A:402
+7SK5	A, F	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, J, K, L	A:401, A:402, A:403, A:404, A:405, A:406, F:301
+7SK7	A	CLR	Cholesterol	Lipid	Cofactor	G	A:402
+7SK8	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, M	A:401, A:402, A:403, A:404, A:405, A:407
+7SK8	A	LMN	Lauryl maltose neopentyl glycol	Detergent		L	A:406
+7SK9	A	CLR	Cholesterol	Lipid	Cofactor	E, F	A:402, A:403
+7SQO	R	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I	R:501, R:502, R:503, R:504
+7SRQ	R	NAG	D-glcnac	Other		B	R:501
+7SRS	R	NAG	D-glcnac	Other		G	R:501
+7SUS	A	ZN	Zinc ion	Ion	Cofactor	B	A:1101
+7SUS	A	OLC	1-oleoyl-r-glycerol	Lipid		D	A:1103
+7T2G	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:502, R:503
+7T6V	R	PLM	Palmitic acid	Lipid	Cofactor	G	R:401
+7T9M	R	NAG	D-glcnac	Other		E, F, G	R:801, R:802, R:803
+7T9N	R	Z41	(2s)-3-hydroxypropane-1,2-diyl dihexadecanoate	Other	Cofactor	H	R:801
+7T9N	R	NAG	D-glcnac	Other		I, J, K	R:802, R:803, R:804
+7TYF	R	PLM	Palmitic acid	Lipid	Cofactor	J, K, N, O, P, R, S, T, V	R:503, R:504, R:507, R:508, R:509, R:511, R:512, R:513, R:515
+7TYF	R	P42	1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine	Other	Cofactor	Q	R:510
+7TYF	R	PTY	Phosphatidylethanolamine	Other	Cofactor	U	R:514
+7TYF	R	NAG	D-glcnac	Other		H, I	R:501, R:502
+7TYF	R	Y01	Cholesterol hemisuccinate	Lipid		L, M	R:505, R:506
+7TYI	R	PLM	Palmitic acid	Lipid	Cofactor	G, J, K, L, M, N, O, P, Q, R	R:512, R:503, R:504, R:505, R:506, R:507, R:508, R:509, R:510, R:511
+7TYI	R	NAG	D-glcnac	Other		H, I	R:501, R:502
+7TYN	R	PLM	Palmitic acid	Lipid	Cofactor	J, K, L, N, O, P, Q, R, S, T, U, V, W	R:504, R:505, R:506, R:508, R:509, R:510, R:511, R:512, R:513, R:514, R:515, R:516, R:517
+7TYN	R	P42	1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine	Other	Cofactor	I	R:503
+7TYN	R	NAG	D-glcnac	Other		G, H	R:501, R:502
+7TYN	R	Y01	Cholesterol hemisuccinate	Lipid		M	R:507
+7TYO	R	NAG	D-glcnac	Other		G	R:501
+7TYO	R	Y01	Cholesterol hemisuccinate	Lipid		H, I	R:502, R:503
+7TYW	E, R	PLM	Palmitic acid	Lipid	Cofactor	H, M	E:201, R:505
+7TYW	R	NAG	D-glcnac	Other		I, J	R:501, R:502
+7TYW	R	Y01	Cholesterol hemisuccinate	Lipid		K, L	R:503, R:504
+7TYX	R	PLM	Palmitic acid	Lipid	Cofactor	H, L, O, P, Q, R, S, T	R:513, R:504, R:507, R:508, R:509, R:510, R:511, R:512
+7TYX	R	NAG	D-glcnac	Other		I, J, K	R:501, R:502, R:503
+7TYX	R	Y01	Cholesterol hemisuccinate	Lipid		M, N	R:505, R:506
+7TYY	R	PLM	Palmitic acid	Lipid	Cofactor	I, L, M, N, O	R:502, R:505, R:506, R:507, R:508
+7TYY	R	NAG	D-glcnac	Other		H	R:501
+7TYY	R	Y01	Cholesterol hemisuccinate	Lipid		J, K	R:503, R:504
+7TZF	R	PLM	Palmitic acid	Lipid	Cofactor	M, N, Q, R, S, T, U, V, W, X, Y	R:504, R:505, R:508, R:509, R:510, R:511, R:512, R:513, R:514, R:515, R:516
+7TZF	P	P42	1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine	Other	Cofactor	I	P:101
+7TZF	E, R	NAG	D-glcnac	Other		H, J, K, L	E:201, R:501, R:502, R:503
+7TZF	R	Y01	Cholesterol hemisuccinate	Lipid		O, P	R:506, R:507
+7VAB	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:601, R:602, R:603, R:604, R:605, R:606
+7VBH	P	D6M	N-hexadecanoyl-l-glutamic acid	Other	Cofactor	G	P:501
+7VDH	R	CLR	Cholesterol	Lipid	Cofactor	F	R:401
+7VDL	R	CLR	Cholesterol	Lipid	Cofactor	G	R:401
+7VDM	R	CLR	Cholesterol	Lipid	Cofactor	G	R:401
+7VFX	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:401, R:402, R:403
+7VFX	R	PLM	Palmitic acid	Lipid	Cofactor	J	R:404
+7VGY	A	CLR	Cholesterol	Lipid	Cofactor	F	A:401
+7VGZ	B	CLR	Cholesterol	Lipid	Cofactor	G	B:402
+7VL8	R	CLR	Cholesterol	Lipid	Cofactor	F	R:401
+7VL9	R	CLR	Cholesterol	Lipid	Cofactor	G	R:401
+7VLA	R	CLR	Cholesterol	Lipid	Cofactor	G	R:401
+7VOE	A	CLR	Cholesterol	Lipid	Cofactor	B, G, I	A:1701, A:1706, A:1708
+7VOE	A	MG	Magnesium ion	Ion	Cofactor	K	A:1710
+7VOE	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, H	A:1703, A:1704, A:1705, A:1707
+7VV0	R	CLR	Cholesterol	Lipid	Cofactor	C	R:401
+7VV3	R	CLR	Cholesterol	Lipid	Cofactor	F	R:401
+7VV4	R	CLR	Cholesterol	Lipid	Cofactor	C	R:401
+7VV5	R	CLR	Cholesterol	Lipid	Cofactor	F	R:401
+7VV6	R	CLR	Cholesterol	Lipid	Cofactor	B	R:401
+7W2Z	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:401, R:402
+7WC4	A	CLR	Cholesterol	Lipid	Cofactor	B, C, H	A:1401, A:1402, A:1407
+7WC4	A	MG	Magnesium ion	Ion	Cofactor	I	A:1408
+7WC4	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G	A:1404, A:1405, A:1406
+7WC5	A	CLR	Cholesterol	Lipid	Cofactor	C, E	A:1202, A:1204
+7WC5	A	MG	Magnesium ion	Ion	Cofactor	B	A:1201
+7WC5	A	OLC	1-oleoyl-r-glycerol	Lipid		D, F, H	A:1203, A:1205, A:1207
+7WC6	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
+7WC6	A	MG	Magnesium ion	Ion	Cofactor	B	A:1201
+7WC6	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, H, I	A:1203, A:1204, A:1207, A:1208
+7WC7	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
+7WC7	A	MG	Magnesium ion	Ion	Cofactor	B	A:1201
+7WC7	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I	A:1204, A:1205, A:1206, A:1207, A:1208
+7WC8	A	CLR	Cholesterol	Lipid	Cofactor	C, L, N, R	A:1202, A:1211, A:1213, A:1217
+7WC8	A	MG	Magnesium ion	Ion	Cofactor	B	A:1201
+7WC8	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, I, J, K, M, O, P, Q, S	A:1204, A:1205, A:1206, A:1208, A:1209, A:1210, A:1212, A:1214, A:1215, A:1216, A:1218
+7WC9	A	CLR	Cholesterol	Lipid	Cofactor	C, D, O	A:1202, A:1203, A:1214
+7WC9	A	MG	Magnesium ion	Ion	Cofactor	B	A:1201
+7WC9	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, H, I, M, N	A:1204, A:1205, A:1207, A:1208, A:1212, A:1213
+7WI6	A, B	NAG	D-glcnac	Other		D, F	A:902, B:902
+7WI8	A, B	NAG	D-glcnac	Other		C, E	A:901, B:901
+7WIH	A, B	NAG	D-glcnac	Other		C, E	A:901, B:901
+7WQ3	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	R:401, R:402, R:403, R:404, R:405
+7WU4	R	CLR	Cholesterol	Lipid	Cofactor	E	R:901
+7X2D	F	CLR	Cholesterol	Lipid	Cofactor	F	F:501
+7X2F	F	CLR	Cholesterol	Lipid	Cofactor	F, H	F:501, F:503
+7XK9	A	NA	Sodium ion	Ion	Cofactor	D	A:1402
+7XKA	A	NA	Sodium ion	Ion	Cofactor	D	A:1402
+7XT8	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, J	R:401, R:402, R:403, R:404, R:405
+7XT8	R	PLM	Palmitic acid	Lipid	Cofactor	K, L	R:406, R:407
+7XT9	R	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H	R:401, R:402, R:403, R:404
+7XT9	R	PLM	Palmitic acid	Lipid	Cofactor	I, J	R:405, R:406
+7XTC	R	CLR	Cholesterol	Lipid	Cofactor	G	R:502
+7XW5	R	CLR	Cholesterol	Lipid	Cofactor	M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	R:806, R:807, R:808, R:809, R:810, R:811, R:812, R:813, R:814, R:815, R:816, R:817, R:818, R:819
+7XW5	R	PLM	Palmitic acid	Lipid	Cofactor	AA, BA, CA, DA, EA	R:820, R:821, R:822, R:823, R:824
+7XW5	R, X, Y	NAG	D-glcnac	Other		FA, GA, H, HA, I, J, K	X:201, X:202, R:801, Y:201, R:802, R:803, R:804
+7Y12	R	PLM	Palmitic acid	Lipid	Cofactor	G, H, I	R:1002, R:1003, R:1004
+7Y13	R	PLM	Palmitic acid	Lipid	Cofactor	B, C, D, E, F, G, H	R:401, R:402, R:403, R:404, R:405, R:406, R:407
+7Y14	R	PLM	Palmitic acid	Lipid	Cofactor	C, D, E, F	R:1002, R:1003, R:1004, R:1005
+7YAE	E	CLR	Cholesterol	Lipid	Cofactor	G, H	E:401, E:402
+7YKD	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	A:401, A:402, A:403, A:404, A:405
+7ZBC	A, B	PLM	Palmitic acid	Lipid	Cofactor	N, Y	A:410, B:406
+7ZBC	A	DAO	Lauric acid	Lipid	Cofactor	H	A:404
+7ZBC	A, B	NAG	D-glcnac	Other		G, V	A:403, B:403
+7ZBC	A, B	OLC	1-oleoyl-r-glycerol	Lipid		I, J, K, L, M, O, P, Q, R, S, W, X, Z	A:405, A:406, A:407, A:408, A:409, A:411, A:412, A:413, A:414, A:415, B:404, B:405, B:407
+7ZBE	A	DAO	Lauric acid	Lipid	Cofactor	H	A:404
+7ZBE	A, B	PLM	Palmitic acid	Lipid	Cofactor	N, Y	A:410, B:407
+7ZBE	A, B	NAG	D-glcnac	Other		G, U	A:403, B:403
+7ZBE	A, B	OLC	1-oleoyl-r-glycerol	Lipid		I, J, K, L, M, O, P, Q, R, V, W, X, Z	A:405, A:406, A:407, A:408, A:409, A:411, A:412, A:413, A:414, B:404, B:405, B:406, B:408
+7ZL9	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E, F	A:1201, A:1202, A:1203, A:1204, A:1205
+7ZL9	A	OLC	1-oleoyl-r-glycerol	Lipid		G	A:1206
+7ZLY	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E, F, G	A:501, A:502, A:503, A:504, A:505, A:506
+7ZLY	A	OLC	1-oleoyl-r-glycerol	Lipid		H	A:507
+8A2O	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:2402, A:2403, A:2404
+8A2O	A	OLA	Oleic acid	Lipid	Cofactor	F, I, J	A:2405, A:2408, A:2409
+8A2O	A	NA	Sodium ion	Ion	Cofactor	K	A:2410
+8A2O	A	OLC	1-oleoyl-r-glycerol	Lipid		G, H	A:2406, A:2407
+8A2P	A	NA	Sodium ion	Ion	Cofactor	J	A:1209
+8A2P	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+8A2P	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I	A:1205, A:1206, A:1207, A:1208
+8A6C	A	DAO	Lauric acid	Lipid	Cofactor	H	A:404
+8A6C	A, B	PLM	Palmitic acid	Lipid	Cofactor	N, Y	A:410, B:408
+8A6C	A, B	NAG	D-glcnac	Other		G, T	A:403, B:403
+8A6C	A, B	OLC	1-oleoyl-r-glycerol	Lipid		I, J, K, L, M, O, P, Q, U, V, W, X, Z	A:405, A:406, A:407, A:408, A:409, A:411, A:412, A:413, B:404, B:405, B:406, B:407, B:409
+8A6D	A	DAO	Lauric acid	Lipid	Cofactor	H	A:404
+8A6D	A, B	PLM	Palmitic acid	Lipid	Cofactor	N, Y	A:410, B:407
+8A6D	A, B	OLC	1-oleoyl-r-glycerol	Lipid		I, J, K, L, M, O, P, Q, R, V, W, X, Z	A:405, A:406, A:407, A:408, A:409, A:411, A:412, A:413, A:414, B:404, B:405, B:406, B:408
+8A6D	A, B	NAG	D-glcnac	Other		G, U	A:403, B:403
+8A6E	A	DAO	Lauric acid	Lipid	Cofactor	G	A:803
+8A6E	A, B	PLM	Palmitic acid	Lipid	Cofactor	M, W	A:809, B:805
+8A6E	A, B	NAG	D-glcnac	Other		F, T	A:802, B:802
+8A6E	A, B	OLC	1-oleoyl-r-glycerol	Lipid		H, I, J, K, L, N, O, P, Q, R, U, V, X	A:804, A:805, A:806, A:807, A:808, A:810, A:811, A:812, A:813, A:814, B:803, B:804, B:806
+8C9W	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+8C9W	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, N	A:1205, A:1206, A:1207, A:1208, A:1213
+8C9W	A	OLC	1-oleoyl-r-glycerol	Lipid		J, L	A:1209, A:1211
+8C9W	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		K	A:1210
+8CIC	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+8CIC	A	CLR	Cholesterol	Lipid	Cofactor	D, E, F, G	A:1203, A:1204, A:1205, A:1206
+8CIC	A	OLA	Oleic acid	Lipid	Cofactor	H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V	A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221
+8CIC	A	OLC	1-oleoyl-r-glycerol	Lipid		AA, BA, CA, DA, Z	A:1226, A:1227, A:1228, A:1229, A:1225
+8CIC	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		W, X, Y	A:1222, A:1223, A:1224
+8CU6	A	CLR	Cholesterol	Lipid	Cofactor	J, K, L	A:1209, A:1210, A:1211
+8CU6	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E, G, M, N, O, R, S, T, U, V, W, X, Y	A:1201, A:1202, A:1203, A:1204, A:1206, A:1212, A:1213, A:1214, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224
+8CU6	A	OLC	1-oleoyl-r-glycerol	Lipid		F, P, Q	A:1205, A:1215, A:1216
+8CU7	A	NA	Sodium ion	Ion	Cofactor	D	A:1203
+8CU7	A	CLR	Cholesterol	Lipid	Cofactor	J, K, L	A:1209, A:1210, A:1211
+8CU7	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, DA, EA, F, FA, GA, H, HA, I, M, N, O, P, Q, R, S, T, U, V, Y, Z	A:1226, A:1227, A:1228, A:1229, A:1230, A:1205, A:1231, A:1232, A:1207, A:1233, A:1208, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1224, A:1225
+8CU7	A	ETF	Trifluoroethanol	Other	Cofactor	IA	A:1234
+8CU7	A	OLC	1-oleoyl-r-glycerol	Lipid		E, G, MA, NA, OA, W, X	A:1204, A:1206, A:1238, A:1239, A:1240, A:1222, A:1223
+8CXO	A	CLR	Cholesterol	Lipid	Cofactor	B	A:1301
+8DU3	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:3002, A:3003, A:3004
+8DU3	A	OLA	Oleic acid	Lipid	Cofactor	J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:3009, A:3010, A:3011, A:3012, A:3013, A:3014, A:3015, A:3016, A:3017, A:3018, A:3019, A:3020, A:3021, A:3022, A:3023, A:3024, A:3025
+8DU3	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G, H, I	A:3005, A:3006, A:3007, A:3008
+8EA0	A	Y01	Cholesterol hemisuccinate	Lipid		C	A:802
+8EF5	M, R	CLR	Cholesterol	Lipid	Cofactor	I, J, K, L, M, O, P, Q, R, S	R:502, R:503, R:504, R:505, R:506, M:502, M:503, M:504, M:505, M:506
+8EF6	M, R	CLR	Cholesterol	Lipid	Cofactor	I, J, K, L, M, O, P, Q, R, S	R:402, R:403, R:404, R:405, R:406, M:402, M:403, M:404, M:405, M:406
+8EFL	M, R	CLR	Cholesterol	Lipid	Cofactor	I, J, K, L, M, O, P, Q, R, S	R:402, R:403, R:404, R:405, R:406, M:402, M:403, M:404, M:405, M:406
+8EFO	M, R	CLR	Cholesterol	Lipid	Cofactor	I, J, K, L, M, N, P, Q, R, S	R:402, R:403, R:404, R:405, R:406, R:407, M:402, M:403, M:404, M:405
+8F0K	R	PLM	Palmitic acid	Lipid	Cofactor	N, Q, R, S, T, U, V, X	R:505, R:508, R:509, R:510, R:511, R:512, R:513, R:515
+8F0K	R	P42	1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine	Other	Cofactor	M	R:504
+8F0K	R	PTY	Phosphatidylethanolamine	Other	Cofactor	W	R:514
+8F0K	E, R	NAG	D-glcnac	Other		H, I, J, K, L	E:201, E:202, R:501, R:502, R:503
+8F0K	R	Y01	Cholesterol hemisuccinate	Lipid		O, P	R:506, R:507
+8F2A	E, R	NAG	D-glcnac	Other		H, I, J, K	E:201, E:202, R:501, R:502
+8F7S	D, R	CLR	Cholesterol	Lipid	Cofactor	I, J, T, U, V	R:401, R:402, D:403, D:404, D:405
+8F7S	D, R	PLM	Palmitic acid	Lipid	Cofactor	K, L, M, N, O, P, Q, R, S, W, X, Y	R:403, R:404, R:405, R:406, R:407, R:408, R:409, D:401, D:402, D:406, D:407, D:408
+8F7W	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:401, R:402, R:403
+8F7W	R	PLM	Palmitic acid	Lipid	Cofactor	J, K	R:404, R:405
+8FY8	R	J40	[(2r)-1-[oxidanyl-[(2r,3r,5s,6r)-2,3,5,6-tetrakis(oxidanyl)-4-phosphonooxy-cyclohexyl]oxy-phosphoryl]oxy-3-tetradecanoyloxy-propan-2-yl] (5e,8e)-hexadeca-5,8,11,14-tetraenoate	Other	Cofactor	F	R:502
+8FY8	R	Y01	Cholesterol hemisuccinate	Lipid		G, H	R:503, R:504
+8FYE	R	J40	[(2r)-1-[oxidanyl-[(2r,3r,5s,6r)-2,3,5,6-tetrakis(oxidanyl)-4-phosphonooxy-cyclohexyl]oxy-phosphoryl]oxy-3-tetradecanoyloxy-propan-2-yl] (5e,8e)-hexadeca-5,8,11,14-tetraenoate	Other	Cofactor	F	R:502
+8FYE	R	Y01	Cholesterol hemisuccinate	Lipid		G, H	R:503, R:504
+8FYL	R	J40	[(2r)-1-[oxidanyl-[(2r,3r,5s,6r)-2,3,5,6-tetrakis(oxidanyl)-4-phosphonooxy-cyclohexyl]oxy-phosphoryl]oxy-3-tetradecanoyloxy-propan-2-yl] (5e,8e)-hexadeca-5,8,11,14-tetraenoate	Other	Cofactor	E	R:501
+8FYL	R	Y01	Cholesterol hemisuccinate	Lipid		G, H	R:503, R:504
+8FYN	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:2402, A:2403, A:2404
+8FYN	A	NA	Sodium ion	Ion	Cofactor	AA	A:2426
+8FYN	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T	A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419
+8FYN	A	OLC	1-oleoyl-r-glycerol	Lipid		U, V, W, Y, Z	A:2420, A:2421, A:2422, A:2424, A:2425
+8FYN	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		X	A:2423
+8FYT	R	J40	[(2r)-1-[oxidanyl-[(2r,3r,5s,6r)-2,3,5,6-tetrakis(oxidanyl)-4-phosphonooxy-cyclohexyl]oxy-phosphoryl]oxy-3-tetradecanoyloxy-propan-2-yl] (5e,8e)-hexadeca-5,8,11,14-tetraenoate	Other	Cofactor	F	R:502
+8FYT	R	Y01	Cholesterol hemisuccinate	Lipid		G, H	R:503, R:504
+8FYX	R	J40	[(2r)-1-[oxidanyl-[(2r,3r,5s,6r)-2,3,5,6-tetrakis(oxidanyl)-4-phosphonooxy-cyclohexyl]oxy-phosphoryl]oxy-3-tetradecanoyloxy-propan-2-yl] (5e,8e)-hexadeca-5,8,11,14-tetraenoate	Other	Cofactor	F	R:502
+8FYX	R	Y01	Cholesterol hemisuccinate	Lipid		G, H	R:503, R:504
+8G05	R	CLR	Cholesterol	Lipid	Cofactor	G	R:402
+8GFV	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GFW	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GFX	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GFY	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GFZ	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GG0	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GG1	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GG2	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GG3	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GG4	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GG5	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GG6	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GG7	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GG8	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GG9	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GGA	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GGB	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GGC	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GGE	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GGF	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8GNE	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+8GNE	A	NA	Sodium ion	Ion	Cofactor	Y	A:1224
+8GNE	A	PE4	Polyethylene glycol peg4000	Other	Cofactor	X	A:1223
+8GNE	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W	A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222
+8GNG	A, X	OLC	1-oleoyl-r-glycerol	Lipid		H, I, J, K, M, N, P, R, S, T	A:402, A:403, A:404, A:405, A:407, A:408, X:401, X:403, X:404, X:405
+8GNG	A, X	CL	Chloride ion	Ion		L, U	A:406, X:406
+8GNG	L, Y	K	Potassium ion	Ion		O, V	L:301, Y:301
+8GTI	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G	A:701, A:702, A:703, A:704, A:705
+8HA0	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J	R:1501, R:1502, R:1503, R:1504
+8HA0	R	PLM	Palmitic acid	Lipid	Cofactor	K, L, M	R:1505, R:1506, R:1507
+8HDO	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, J, K, L	R:401, R:402, R:403, R:404, R:405, R:406, R:407
+8HK2	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	A:501, A:502, A:503, A:504, A:505
+8HK2	A	PLM	Palmitic acid	Lipid	Cofactor	L, M	A:506, A:507
+8HK5	A	PLM	Palmitic acid	Lipid	Cofactor	F, G	A:401, A:402
+8HNK	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:601, R:602
+8HNL	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:601, R:602
+8HNM	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:601, R:602
+8HNN	R	CLR	Cholesterol	Lipid	Cofactor	D	R:402
+8IHB	R	NAG	D-glcnac	Other		F	R:601
+8IHF	R	NAG	D-glcnac	Other		F	R:601
+8IHH	R	NAG	D-glcnac	Other		F	R:601
+8IHI	R	NAG	D-glcnac	Other		F	R:601
+8IKJ	R	NAG	D-glcnac	Other		B, C, D	R:901, R:902, R:903
+8IOD	R	CA	Calcium ion	Ion	Cofactor	G	R:501
+8IRR	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:502, R:503, R:504
+8IRV	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O	R:502, R:503, R:504, R:505, R:506, R:507, R:508, R:509, R:510, R:511
+8IRV	R	PLM	Palmitic acid	Lipid	Cofactor	P	R:512
+8IYS	A	GDP	Guanosine-5'-diphosphate	Other	Cofactor	F	A:401
+8J6P	R	CLR	Cholesterol	Lipid	Cofactor	G, I	R:402, R:404
+8J6P	R	NAG	D-glcnac	Other		J	R:405
+8J6Q	R	CLR	Cholesterol	Lipid	Cofactor	G, I	R:402, R:404
+8J6Q	R	NAG	D-glcnac	Other		J	R:405
+8J6R	R	NAG	D-glcnac	Other		G	R:402
+8JCV	2, 3	NAG	D-glcnac	Other		C, E	2:2001, 3:2001
+8JCW	2, 3	CLR	Cholesterol	Lipid	Cofactor	E, H	2:1103, 3:1003
+8JCW	2, 3	NAG	D-glcnac	Other		C, F	2:1101, 3:1001
+8JCY	2, 3	CLR	Cholesterol	Lipid	Cofactor	E, F, G, J, K, L, M	2:2003, 2:2004, 2:2005, 3:2003, 3:2004, 3:2005, 3:2006
+8JCY	2, 3	NAG	D-glcnac	Other		C, H	2:2001, 3:2001
+8JCZ	2, 3	NAG	D-glcnac	Other		C, E	2:2001, 3:2001
+8JD0	2, 3	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, K, L, M, N, O	2:1103, 2:1104, 2:1105, 2:1106, 3:1003, 3:1004, 3:1005, 3:1006, 3:1007
+8JD0	2, 3	NAG	D-glcnac	Other		C, J	2:1101, 3:1002
+8JD1	3	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J, K	3:1002, 3:1003, 3:1004, 3:1005, 3:1006, 3:1007, 3:1008
+8JD2	2, 3	NAG	D-glcnac	Other		D, F	2:1102, 3:1002
+8JD4	2, 4	NAG	D-glcnac	Other		C, D, G	2:2001, 2:2002, 4:1102
+8JHY	A	CLR	Cholesterol	Lipid	Cofactor	G	A:402
+8JII	A	CLR	Cholesterol	Lipid	Cofactor	G	A:402
+8JIL	A	CLR	Cholesterol	Lipid	Cofactor	G	A:402
+8JIM	E	CLR	Cholesterol	Lipid	Cofactor	G	E:402
+8JIU	P	D6M	N-hexadecanoyl-l-glutamic acid	Other	Cofactor	G	P:101
+8JJP	A	CLR	Cholesterol	Lipid	Cofactor	G	A:401
+8JRU	A	PIO	Dioctanoyl l-alpha-phosphatidyl-d-myo-inositol 4,5-diphosphate	Other	Cofactor	F	A:701
+8JT6	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, K	R:501, R:502, R:503, R:504, R:506
+8JT6	R	PLM	Palmitic acid	Lipid	Cofactor	J, L	R:505, R:507
+8JT6	R	J40	[(2r)-1-[oxidanyl-[(2r,3r,5s,6r)-2,3,5,6-tetrakis(oxidanyl)-4-phosphonooxy-cyclohexyl]oxy-phosphoryl]oxy-3-tetradecanoyloxy-propan-2-yl] (5e,8e)-hexadeca-5,8,11,14-tetraenoate	Other	Cofactor	M	R:508
+8JT8	A	CLR	Cholesterol	Lipid	Cofactor	E, F	A:1204, A:1205
+8JT8	A	MG	Magnesium ion	Ion	Cofactor	B	A:1201
+8JT8	A	OLC	1-oleoyl-r-glycerol	Lipid		D, G, H, I, J, N, O	A:1203, A:1206, A:1207, A:1208, A:1209, A:1213, A:1214
+8JWY	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
+8JWY	A	NA	Sodium ion	Ion	Cofactor	L	A:1211
+8JWY	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I, J, K, M, N, O, P, Q, R, S, U, V, W	A:1203, A:1204, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1220, A:1221, A:1222
+8JWY	A	OLC	1-oleoyl-r-glycerol	Lipid		T	A:1219
+8JWZ	A	NA	Sodium ion	Ion	Cofactor	I	A:508
+8JWZ	A	CLR	Cholesterol	Lipid	Cofactor	Y	A:524
+8JWZ	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E, F, G, H, J, K, L, M, N, O, P, R, S, T, W	A:501, A:502, A:503, A:504, A:505, A:506, A:507, A:509, A:510, A:511, A:512, A:513, A:514, A:515, A:517, A:518, A:519, A:522
+8JWZ	A	OLC	1-oleoyl-r-glycerol	Lipid		Q, V	A:516, A:521
+8K2W	R	CLR	Cholesterol	Lipid	Cofactor	C	R:401
+8K2W	R	PCW	1,2-dioleoyl-sn-glycero-3-phosphocholine	Lipid	Cofactor	D	R:402
+8K2W	R	LPC	[1-myristoyl-glycerol-3-yl]phosphonylcholine	Lipid	Cofactor	E	R:403
+8K2X	R	CLR	Cholesterol	Lipid	Cofactor	G	R:601
+8KH4	A	CLR	Cholesterol	Lipid	Cofactor	F	A:401
+8KH5	A	CLR	Cholesterol	Lipid	Cofactor	F, H	A:401, A:403
+8PKM	R	CLR	Cholesterol	Lipid	Cofactor	E	R:501
+8PM2	R	Y01	Cholesterol hemisuccinate	Lipid		F	R:401
+8PWN	A	CLR	Cholesterol	Lipid	Cofactor	O, P, Q	A:513, A:514, A:515
+8PWN	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, H, I, J, K, L, M, N	A:501, A:502, A:503, A:504, A:505, A:506, A:507, A:508, A:509, A:510, A:511, A:512
+8RLN	A	CLR	Cholesterol	Lipid	Cofactor	B, C, D	A:1201, A:1202, A:1203
+8RLN	A	OLA	Oleic acid	Lipid	Cofactor	E, F, G, M	A:1204, A:1205, A:1206, A:1212
+8RLN	A	OLC	1-oleoyl-r-glycerol	Lipid		H, J, N	A:1207, A:1209, A:1213
+8RLN	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		I	A:1208
+8RQQ	A	NA	Sodium ion	Ion	Cofactor	Q	A:1216
+8RQQ	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+8RQQ	A	A1H52	7.10 monoacylglycerol (r-form)	Other	Cofactor	K	A:1210
+8RQQ	A	A1H2K	7.10 monoacylglycerol (s-form)	Other	Cofactor	F, G, H, I, J, L, M, P	A:1205, A:1206, A:1207, A:1208, A:1209, A:1211, A:1212, A:1215
+8RVW	A	NA	Sodium ion	Ion	Cofactor	Z	A:1225
+8RVW	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I	A:1206, A:1207, A:1208
+8RVW	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y	A:1201, A:1202, A:1203, A:1204, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224
+8RW0	A	CLR	Cholesterol	Lipid	Cofactor	C, D, G	A:1202, A:1203, A:1206
+8RW0	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, E, F, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1204, A:1205, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+8RW0	A	NA	Sodium ion	Ion	Cofactor	CA	A:1228
+8RW4	A	NA	Sodium ion	Ion	Cofactor	Y	A:1224
+8RW4	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+8RW4	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X	A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223
+8RW7	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+8RW7	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, DA, EA, F, G, H, I, J, K, L, M, N, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1229, A:1230, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+8RW7	A	NA	Sodium ion	Ion	Cofactor	FA	A:1231
+8RW7	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		P	A:1215
+8RW7	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, O, Q	A:1228, A:1214, A:1216
+8RWC	A	NA	Sodium ion	Ion	Cofactor	FA	A:1231
+8RWC	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E, F	A:1202, A:1203, A:1204, A:1205
+8RWC	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, DA, EA, H, J, K, M, N, O, P, Q, R, S, T, U, X, Y, Z	A:1226, A:1227, A:1229, A:1230, A:1207, A:1209, A:1210, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1223, A:1224, A:1225
+8RWC	A	OLC	1-oleoyl-r-glycerol	Lipid		CA, G, I, L, V, W	A:1228, A:1206, A:1208, A:1211, A:1221, A:1222
+8RWD	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+8RWD	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, DA, EA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1228, A:1229, A:1230, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+8RWD	A	NA	Sodium ion	Ion	Cofactor	FA	A:1231
+8RWE	A	NA	Sodium ion	Ion	Cofactor	FA	A:1231
+8RWE	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+8RWE	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, DA, EA, F, G, H, I, K, L, M, N, O, R, S, T, U, V, W, X, Y, Z	A:1226, A:1227, A:1228, A:1229, A:1230, A:1205, A:1206, A:1207, A:1208, A:1210, A:1211, A:1212, A:1213, A:1214, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+8RWE	A	OLC	1-oleoyl-r-glycerol	Lipid		J, P, Q	A:1209, A:1215, A:1216
+8RWH	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+8RWH	A	NA	Sodium ion	Ion	Cofactor	DA	A:1229
+8RWH	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, Z	A:1226, A:1227, A:1228, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1225
+8RWH	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		X	A:1223
+8RWH	A	OLC	1-oleoyl-r-glycerol	Lipid		Y	A:1224
+8RWX	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217
+8SG1	R	PLM	Palmitic acid	Lipid	Cofactor	H, I	R:402, R:403
+8SG1	R	CLR	Cholesterol	Lipid	Cofactor	G	R:401
+8T1V	A	NA	Sodium ion	Ion	Cofactor	C	A:1202
+8TQB	A, B	CA	Calcium ion	Ion	Cofactor	D, E, G, H	A:1002, A:1003, B:1002, B:1003
+8TR2	A, B	CA	Calcium ion	Ion	Cofactor	D, E, G, H	A:1002, A:1003, B:1002, B:1003
+8U1U	A	NAG	D-glcnac	Other		F	A:900
+8U4N	R	CLR	Cholesterol	Lipid	Cofactor	E	R:701
+8U4O	R	CLR	Cholesterol	Lipid	Cofactor	F	R:701
+8U4P	R	CLR	Cholesterol	Lipid	Cofactor	E	R:701
+8U4Q	R	CLR	Cholesterol	Lipid	Cofactor	G	R:701
+8U4R	R	CLR	Cholesterol	Lipid	Cofactor	D	R:701
+8U4T	AA, I, Q, R	CLR	Cholesterol	Lipid	Cofactor	AA, BA, CA, DA, FA, M, N, O, Q, R, S, T, V, W, X, Y	Q:705, AA:701, AA:702, AA:703, AA:705, R:701, R:702, R:703, R:705, I:701, I:702, I:703, I:705, Q:701, Q:702, Q:703
+8U4T	AA, I, Q, R	D21	(2r)-1-(hexadecanoyloxy)-3-(phosphonooxy)propan-2-yl (9z)-octadec-9-enoate	Other	Cofactor	EA, P, U, Z	AA:704, R:704, I:704, Q:704
+8UGY	R	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I	R:401, R:402, R:403, R:404, R:405
+8UH3	D	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I	D:401, D:402, D:403, D:404
+8UNL	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNM	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNN	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNO	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNP	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNQ	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNR	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNS	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNT	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNU	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNV	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNW	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNX	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNY	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UNZ	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UO0	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UO1	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UO1	A	MG	Magnesium ion	Ion	Cofactor	F	A:402
+8UO2	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UO3	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UO3	A	MG	Magnesium ion	Ion	Cofactor	F	A:402
+8UO4	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
+8UO4	A	MG	Magnesium ion	Ion	Cofactor	F	A:402
+8W1Z	B	CLR	Cholesterol	Lipid	Cofactor	I	B:804
+8W1Z	A, B	NAG	D-glcnac	Other		C, D, E, F, G, H	A:801, A:802, A:803, B:801, B:802, B:803
+8W88	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H	R:401, R:402, R:403
+8W8B	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, J	R:501, R:502, R:503, R:504, R:505
+8W8B	R	PLM	Palmitic acid	Lipid	Cofactor	K	R:506
+8W8W	R	CA	Calcium ion	Ion	Cofactor	G	R:501
+8W8Y	R	CA	Calcium ion	Ion	Cofactor	G	R:501
+8WKY	A	CA	Calcium ion	Ion	Cofactor	C	A:2101
+8WKY	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I	A:2102, A:2103, A:2104, A:2105, A:2106, A:2107
+8WKZ	A	CA	Calcium ion	Ion	Cofactor	C	A:2101
+8WKZ	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H	A:2102, A:2103, A:2104, A:2105, A:2106
+8X0B	A, B	NAG	D-glcnac	Other		C, F	A:901, B:901
+8X0C	A, B	NAG	D-glcnac	Other		C, F	A:901, B:901
+8X0D	A, B	NAG	D-glcnac	Other		C, F	A:901, B:901
+8X0E	A, B	NAG	D-glcnac	Other		C, E	A:901, B:901
+8X0G	A, B	NAG	D-glcnac	Other		C, E	A:901, B:901
+8X0H	A, B	NAG	D-glcnac	Other		C, E	A:901, B:901
+8XGM	A	CLR	Cholesterol	Lipid	Cofactor	G	A:401
+8XOS	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:601, R:602
+8XQI	A, B	CLR	Cholesterol	Lipid	Cofactor	C, D	A:401, B:401
+8XQJ	C, D	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H	C:401, C:402, C:403, D:401
+8Y72	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:401, R:402
+8Y73	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:401, R:402
+8YN3	R	CLR	Cholesterol	Lipid	Cofactor	G	R:702
+8YN5	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	R:702, R:703, R:704, R:705, R:706
+8YN6	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	R:702, R:703, R:704, R:705, R:706
+8YN7	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	R:702, R:703, R:704, R:705, R:706
+8YN8	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	R:702, R:703, R:704, R:705, R:706
+8YN9	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L, M	R:702, R:703, R:704, R:705, R:706, R:707, R:708
+8YNA	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L, M	R:702, R:703, R:704, R:705, R:706, R:707, R:708
+8YUT	R	CLR	Cholesterol	Lipid	Cofactor	G	R:402
+8YUV	R	CLR	Cholesterol	Lipid	Cofactor	G	R:502
+8YWF	R	A1D7Q	20-[[(2~{s})-1-oxidanyl-1,5-bis(oxidanylidene)-5-[2-[2-(2-oxidanylideneethoxy)ethoxy]ethylamino]pentan-2-yl]amino]-20-oxidanylidene-icosanoic acid	Other	Cofactor	G	R:501
+8Z74	D	CLR	Cholesterol	Lipid	Cofactor	E, F	D:401, D:402
+8ZJG	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J	A:401, A:402, A:403, A:404
+8ZPL	R	CLR	Cholesterol	Lipid	Cofactor	C, D	R:401, R:402
+8ZPM	R	CLR	Cholesterol	Lipid	Cofactor	D, E	R:402, R:403
+8ZPN	R	CLR	Cholesterol	Lipid	Cofactor	C	R:401
+8ZSJ	R	CLR	Cholesterol	Lipid	Cofactor	F	R:401
+8ZVZ	D	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	D:402, D:403, D:404, D:405, D:406
+8ZW0	D	CLR	Cholesterol	Lipid	Cofactor	F, G	D:401, D:402
+8ZYT	R	PIO	Dioctanoyl l-alpha-phosphatidyl-d-myo-inositol 4,5-diphosphate	Other	Cofactor	F	R:501
+8ZYY	B	PIO	Dioctanoyl l-alpha-phosphatidyl-d-myo-inositol 4,5-diphosphate	Other	Cofactor	F	B:501
+9AUC	P, R	PLM	Palmitic acid	Lipid	Cofactor	H, I, M, N, O	P:101, R:501, R:505, R:506, R:507
+9AUC	R	Y01	Cholesterol hemisuccinate	Lipid		P, Q	R:508, R:509
+9AUC	R	NAG	D-glcnac	Other		J, K, L	R:502, R:503, R:504
+9BHM	R	Y01	Cholesterol hemisuccinate	Lipid		E	R:1000
+9BLW	R	NAG	D-glcnac	Other		H	R:501
+9BTW	R	NAG	D-glcnac	Other		H, I	R:501, R:502
+9BUC	P	A1B90	Icosanedioic acid	Other	Cofactor	G	P:101
+9BUD	P	A1B90	Icosanedioic acid	Other	Cofactor	G	P:101
+9BUY	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H	R:501, R:502, R:503
+9C2F	A, B	NAG	D-glcnac	Other		D, K, L, N, O	A:1001, A:1008, A:1009, B:1002, B:1003
+9CHU	C	FK5	Tacro	Other	Cofactor	E	C:201
+9CHV	C	FK5	Tacro	Other	Cofactor	D	C:201
+9CHX	C	FK5	Tacro	Other	Cofactor	E	C:201
+9DYE	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:502, R:503
+9DYF	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H	R:502, R:503, R:504
+9E51	A	CLR	Cholesterol	Lipid	Cofactor	E, F	A:1201, A:1202
+9E82	A	CLR	Cholesterol	Lipid	Cofactor	F	A:501
+9E9S	D	Y01	Cholesterol hemisuccinate	Lipid		H	D:403
+9E9S	D	NAG	D-glcnac	Other		G	D:402
+9EKH	A	NAG	D-glcnac	Other		E	A:1301
+9FUP	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+9FUP	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O, P	A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215
+9FUP	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+9FUP	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		Q, R	A:1216, A:1217
+9FUP	A	OLC	1-oleoyl-r-glycerol	Lipid		S, T	A:1218, A:1219
+9GE3	R	NAG	D-glcnac	Other		G	R:402
+9H2X	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+9H2X	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+9H2X	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+9H37	A	NA	Sodium ion	Ion	Cofactor	B	A:1201
+9H37	A	CLR	Cholesterol	Lipid	Cofactor	C, D, E	A:1202, A:1203, A:1204
+9H37	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221, A:1222, A:1223, A:1224, A:1225
+9HC0	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E, F	A:1201, A:1202, A:1203, A:1204, A:1205
+9HC3	A	OLA	Oleic acid	Lipid	Cofactor	B, C, D, E	A:1201, A:1202, A:1203, A:1204
+9HYI	R	CLR	Cholesterol	Lipid	Cofactor	E, F	R:501, R:502
+9HYI	R	T7M	Phosphatidylinositol-4-phosphate	Other	Cofactor	G	R:503
+9II2	B, R	CLR	Cholesterol	Lipid	Cofactor	J, K, L, N, O, P	R:1002, R:1003, R:1004, B:1002, B:1003, B:1004
+9II3	B, R	CLR	Cholesterol	Lipid	Cofactor	H, J	R:902, B:902
+9IJ9	R	CLR	Cholesterol	Lipid	Cofactor	F	R:502
+9IJA	R	CLR	Cholesterol	Lipid	Cofactor	C	R:502
+9IMA	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J	B:401, B:402, B:403, A:401, A:402, A:403
+9IXJ	R	CLR	Cholesterol	Lipid	Cofactor	G	R:402
+9JCQ	D	CLR	Cholesterol	Lipid	Cofactor	H, I	D:1003, D:1004
+9KB6	A	NAG	D-glcnac	Other		B, C, D, E	A:1001, A:1002, A:1003, A:1004
+9KVG	R	CHO	Glycochenodeoxycholic acid	Other	Cofactor	G	R:502
+9KVG	R	Y01	Cholesterol hemisuccinate	Lipid		H	R:503
+9KVH	R	CHO	Glycochenodeoxycholic acid	Other	Cofactor	H	R:503
+9KVH	R	CLR	Cholesterol	Lipid	Cofactor	I	R:504
+9KVI	R	CHO	Glycochenodeoxycholic acid	Other	Cofactor	G	R:502
+9KVI	R	CLR	Cholesterol	Lipid	Cofactor	H	R:503
+9L60	D	CLR	Cholesterol	Lipid	Cofactor	F, G	D:401, D:402
+9LL7	R	CLR	Cholesterol	Lipid	Cofactor	F	R:501
+9LL8	R	CLR	Cholesterol	Lipid	Cofactor	F	R:502
+9LLG	R	CLR	Cholesterol	Lipid	Cofactor	C, E	R:601, R:603
+9LLG	M	PLM	Palmitic acid	Lipid	Cofactor	F	M:501
+9LQU	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J, K, L, O, P, Q, R, S, T, U, V	B:401, B:402, B:403, B:404, B:405, B:406, B:407, B:408, A:401, A:402, A:403, A:404, A:405, A:406, A:407, A:408
+9LQU	A, B	PCF	Colfoscerili palmitas	Other	Cofactor	M, N, W, X	B:409, B:410, A:409, A:410
+9LQW	A, B	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, J, K, L, M, O, P, Q, R, S, T, U, V	A:402, A:403, A:404, A:405, A:406, A:407, A:408, A:409, B:402, B:403, B:404, B:405, B:406, B:407, B:408, B:409
+9LQW	A, B	PCF	Colfoscerili palmitas	Other	Cofactor	E, N	A:401, B:401
+9LQX	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J, K, L, M, Q, R, S, T, U, V, W	A:401, A:402, A:403, A:404, A:405, A:406, A:407, A:408, A:409, B:404, B:405, B:406, B:407, B:408, B:409, B:410
+9LQX	B	PCF	Colfoscerili palmitas	Other	Cofactor	N, O, P	B:401, B:402, B:403
+9LQY	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J, K, L, N, O, P, Q, R, S, T, U	A:403, A:404, A:405, A:406, A:407, A:408, A:409, A:410, B:402, B:403, B:404, B:405, B:406, B:407, B:408, B:409
+9LQY	A, B	PCF	Colfoscerili palmitas	Other	Cofactor	C, M	A:401, B:401
+9LQZ	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J, K, L, O, P, Q, R, S, T, U, V	A:403, A:404, A:405, A:406, A:407, A:408, A:409, A:410, B:403, B:404, B:405, B:406, B:407, B:408, B:409, B:410
+9LQZ	A, B	PCF	Colfoscerili palmitas	Other	Cofactor	D, N	A:402, B:402
+9LR2	Q, R	CLR	Cholesterol	Lipid	Cofactor	J, K, L, M, N, O, P, R, S, T, U, V, W, X	R:402, R:403, R:404, R:405, R:406, R:407, R:408, Q:402, Q:403, Q:404, Q:405, Q:406, Q:407, Q:408
+9LR2	Q, R	PCF	Colfoscerili palmitas	Other	Cofactor	I, Q	R:401, Q:401
+9M8P	A, B	1DO	1-dodecanol	Other	Cofactor	D, I, L, M	A:402, B:402, B:405, B:406
+9M8P	A, B	A1AJD	(4z)-oct-4-en-1-ol	Other	Cofactor	E, G, J, N	A:403, A:405, B:403, B:407
+9M8V	A	1DO	1-dodecanol	Other	Cofactor	H	A:403
+9NOR	A, B	NAG	D-glcnac	Other		C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R	B:901, B:902, B:903, B:904, B:905, B:906, B:907, B:908, A:901, A:902, A:903, A:904, A:905, A:906, A:907, A:908
+9NOS	A, B	NAG	D-glcnac	Other		C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R	B:901, B:902, B:903, B:904, B:905, B:906, B:907, B:908, A:901, A:902, A:903, A:904, A:905, A:906, A:907, A:908
+9ODF	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	F	A:401
+9ODF	A	MG	Magnesium ion	Ion	Cofactor	G	A:402
+9ODK	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	F	A:402
+9ODK	A	MG	Magnesium ion	Ion	Cofactor	E	A:401
+9ODL	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	F	A:402
+9ODL	A	MG	Magnesium ion	Ion	Cofactor	E	A:401
+9ODN	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	F	A:401
+9ODN	A	MG	Magnesium ion	Ion	Cofactor	G	A:402
+9P1T	A	LMN	Lauryl maltose neopentyl glycol	Detergent		B	A:501
+9P81	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	G	A:402
+9P81	A	MG	Magnesium ion	Ion	Cofactor	F	A:401
+9P82	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	G	A:402
+9P82	A	MG	Magnesium ion	Ion	Cofactor	F	A:401
+9P83	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	F	A:401
+9P84	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	F	A:401
+9P84	A	MG	Magnesium ion	Ion	Cofactor	G	A:402
+9P89	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	F	A:401
+9PXV	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:501, R:502
+9PXW	A	VSN	5'-o-[(r)-hydroxy(thiophosphonooxy)phosphoryl]guanosine	Other	Cofactor	E	A:401
+9PXX	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:501, R:502
+9PXX	A	VSN	5'-o-[(r)-hydroxy(thiophosphonooxy)phosphoryl]guanosine	Other	Cofactor	E	A:401
+9PXY	R	CLR	Cholesterol	Lipid	Cofactor	E, F	R:501, R:502
+9PXY	A	VSN	5'-o-[(r)-hydroxy(thiophosphonooxy)phosphoryl]guanosine	Other	Cofactor	H	A:401
+9PY3	A	VSN	5'-o-[(r)-hydroxy(thiophosphonooxy)phosphoryl]guanosine	Other	Cofactor	H	A:401
+9PY3	R	CLR	Cholesterol	Lipid	Cofactor	E, F	R:501, R:502
+9PY4	A	VSN	5'-o-[(r)-hydroxy(thiophosphonooxy)phosphoryl]guanosine	Other	Cofactor	E	A:401
+9PY4	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:501, R:502
+9R41	R	CLR	Cholesterol	Lipid	Cofactor	F	R:502
+9R41	R	T7M	Phosphatidylinositol-4-phosphate	Other	Cofactor	G	R:503
+9RHG	A, B	Y01	Cholesterol hemisuccinate	Lipid		C, D, F, G	B:701, B:702, A:701, A:702
+9RKF	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I	A:506, A:507, A:508
+9RKF	A	PLM	Palmitic acid	Lipid	Cofactor	V	A:521
+9RKF	A	OLC	1-oleoyl-r-glycerol	Lipid		L, M, N, R, T	A:511, A:512, A:513, A:517, A:519
+9RKG	A	CLR	Cholesterol	Lipid	Cofactor	I, J, K	A:1208, A:1209, A:1210
+9RKG	A	PLM	Palmitic acid	Lipid	Cofactor	L	A:1211
+9RKG	A	ACM	Acetamide	Other	Cofactor	H	A:1207
+9RKG	A	OLC	1-oleoyl-r-glycerol	Lipid		O, P, Q, U, W	A:1214, A:1215, A:1216, A:1220, A:1222
+9RKH	A	CLR	Cholesterol	Lipid	Cofactor	F, G	A:505, A:506
+9RKH	A	PLM	Palmitic acid	Lipid	Cofactor	H	A:507
+9RKH	A	OLC	1-oleoyl-r-glycerol	Lipid		L, M, N, Q, S, U, V	A:511, A:512, A:513, A:516, A:518, A:520, A:521
+9UPU	R	CLR	Cholesterol	Lipid	Cofactor	G	R:701
+9UPV	R	CLR	Cholesterol	Lipid	Cofactor	G	R:701
+9UVZ	A	NA	Sodium ion	Ion	Cofactor	C	A:802
+9UWI	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H	A:501, A:502, B:501, B:502
+9UWJ	A, B	CLR	Cholesterol	Lipid	Cofactor	D, E, G, H	A:502, A:503, B:502, B:503
+9UWL	A, B	CLR	Cholesterol	Lipid	Cofactor	D, E, G, H	A:502, A:503, B:502, B:503
+9UXX	R, r	CLR	Cholesterol	Lipid	Cofactor	AA, J, K, L, N, O, S, T, U, V, W, Z	r:411, R:402, R:403, R:404, R:406, R:407, r:403, r:404, r:405, r:406, r:407, r:410
+9UXX	R, r	PLM	Palmitic acid	Lipid	Cofactor	M, R	R:405, r:402
+9UXX	R, r	Y01	Cholesterol hemisuccinate	Lipid		BA, P, X, Y	r:412, R:408, r:408, r:409
+9UYM	A	Y01	Cholesterol hemisuccinate	Lipid		F	A:401
+9VB2	A	GDP	Guanosine-5'-diphosphate	Other	Cofactor	G	A:401
+9VB3	A	GDP	Guanosine-5'-diphosphate	Other	Cofactor	G	A:401
+9VB4	A	GDP	Guanosine-5'-diphosphate	Other	Cofactor	G	A:401
+9VB5	A	GDP	Guanosine-5'-diphosphate	Other	Cofactor	G	A:401
+9VB7	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	G	A:401
+9VB7	A	MG	Magnesium ion	Ion	Cofactor	H	A:402
+9VBA	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	F	A:401
+9VJ5	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:502, R:503
+9VJ5	R	T7M	Phosphatidylinositol-4-phosphate	Other	Cofactor	I	R:504
+9VJE	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:502, R:503
+9VJE	R	T7M	Phosphatidylinositol-4-phosphate	Other	Cofactor	I	R:504
+9VJF	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:501, R:502
+9VJF	R	T7M	Phosphatidylinositol-4-phosphate	Other	Cofactor	H	R:503
+9VJG	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:501, R:502
+9VJG	R	T7M	Phosphatidylinositol-4-phosphate	Other	Cofactor	H	R:503
+9VMY	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:502, R:503
+9VMY	R	T7M	Phosphatidylinositol-4-phosphate	Other	Cofactor	I	R:504
+9VNF	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:502, R:503
+9VNF	R	T7M	Phosphatidylinositol-4-phosphate	Other	Cofactor	I	R:504
+9VOR	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J, K, L, M, N, O, Q, R, S, T, U, V, W, X, Y	A:801, A:802, A:803, A:804, A:805, A:806, A:807, A:808, A:809, A:810, A:811, B:801, B:802, B:803, B:804, B:805, B:806, B:807, B:808, B:809
+9VOR	A	PEE	Phosphatidylethanolamine	Other	Cofactor	P	A:812
+9VOR	B	PIE	1,2-diacyl-sn-glycero-3-phosphoinositol	Other	Cofactor	Z	B:810
+9WQK	X, Y	CLR	Cholesterol	Lipid	Cofactor	AA, N, O, P, Q, R, Y, Z	Y:4410, X:908, X:909, X:910, X:911, Y:4401, Y:4408, Y:4409
+9WQK	X, Y	CL	Chloride ion	Ion		M, X	X:907, Y:4407
+9WQK	X, Y	NAG	D-glcnac	Other		I, J, K, L, T, U, V, W	X:903, X:904, X:905, X:906, Y:4403, Y:4404, Y:4405, Y:4406
+9WQO	X, Y	NAG	D-glcnac	Other		D, E, F, G, J, K, L, M	X:2002, X:2003, X:2004, X:2005, Y:2002, Y:2003, Y:2004, Y:2005
+9WQO	X, Y	CL	Chloride ion	Ion		H, N	X:2006, Y:2006
+9XB1	A, B	CLR	Cholesterol	Lipid	Cofactor	C, D	A:501, B:501
+9ZZO	C	PIO	Dioctanoyl l-alpha-phosphatidyl-d-myo-inositol 4,5-diphosphate	Other	Cofactor	F	C:401
