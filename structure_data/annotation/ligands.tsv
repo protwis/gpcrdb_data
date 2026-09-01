@@ -92,7 +92,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 6AKY	A	A4X		Allosteric antagonist	Compound 34	small-molecule	2018-10-24		D	Cc1nnc(n1C2C[C@H]3CC[C@@H](C2)N3CC[C@@H](c4ccsc4)NC(=O)C5CCC(CC5)(F)F)C(C)C	KESMRFWRGXZDEF-KIHHCIJBSA-N		false	allosteric_7tm	A:2003
 6C1R	L	pep		Antagonist	PMX53	peptide	2018-05-30					XFAPAWR	unknown	orthosteric	
 6C1R	B	EFD	49841217	Allosteric antagonist	avacopan	small-molecule	2018-05-30		C	Cc1cccc(c1C(=O)N2CCC[C@@H]([C@@H]2c3ccc(cc3)NC4CCCC4)C(=O)Nc5ccc(c(c5)C(F)(F)F)C)F	PUKBOVABABRILL-YZNIXAGQSA-N		false	allosteric_7tm	B:501
-6CMO		all-trans-retinal		Agonist	all-trans-retinal	small-molecule	2018-06-20	f					unknown	orthosteric	
+6CMO		RET	638015	Agonist	all-trans-retinal	small-molecule	2018-06-20	f					unknown	orthosteric	
 6D26	A	FSY	23582412	Antagonist	fevipiprant	small-molecule	2018-10-03		B	Cc1c(c2cccnc2n1Cc3ccc(cc3C(F)(F)F)S(=O)(=O)C)CC(=O)O	GFPPXZDRVCSVNR-UHFFFAOYSA-N		false	orthosteric	A:2401
 6D27	A	FT4	25817650	Antagonist	CAY10471	small-molecule	2018-10-03		I	CN([C@@H]1CCc2c(c3ccccc3n2CC(=O)O)C1)S(=O)(=O)c4ccc(cc4)F	CANCTKXGRVNXFP-OAHLLOKOSA-N		false	orthosteric	A:2408
 6D32	A	CY8	442972	Agonist	Cyclopamine	small-molecule	2018-05-23		B	C[C@H]1C[C@@H]2[C@H]([C@H]([C@]3(O2)CC[C@H]4[C@@H]5CC=C6C[C@H](CC[C@@]6([C@H]5CC4=C3C)C)O)C)NC1	QASFUMOKHFSJGL-LAFRSMQTSA-N		false	extracellular_domain	A:1201
@@ -137,7 +137,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 6TQ7	A, B	NVK	6604926	Antagonist	SB-334867	small-molecule	2020-01-01		C, D, N, O	Cc1nc2ccc(cc2o1)NC(=O)Nc3ccnc4c3nccc4	AKMNUCBQGHFICM-UHFFFAOYSA-N		false	orthosteric	A:401, A:402, B:401, B:402
 6TQ9	A, B	NVN	4331799	Antagonist	SB-408124	small-molecule	2020-01-01		C, D, N	Cc1cc(c2cc(cc(c2n1)F)F)NC(=O)Nc3ccc(cc3)N(C)C	JTARFZSNUAGHRB-UHFFFAOYSA-N		false	orthosteric	A:401, A:402, B:401
 6U1N	R	2CU	57664406	PAM	LY2119620	small-molecule	2020-02-26		E	Cc1c2c(c(sc2nc(c1Cl)OCC(=O)N3CCN(CC3)C)C(=O)NC4CC4)N	TYTGOXSAAQWLPJ-UHFFFAOYSA-N		false	extracellular_vestibule	R:601
-6U1N		Iperoxo		Agonist	Iperoxo	small-molecule	2020-02-26	f					unknown	orthosteric	
+6U1N		IXO	10104167	Agonist	Iperoxo	small-molecule	2020-02-26	f					unknown	orthosteric	
 6UO9	A	QD7	5230	Agonist	SKF97541	small-molecule	2020-06-10		H	CP(=O)(CCCN)O	NHVRIDDXGZPJTJ-UHFFFAOYSA-N		false	extracellular_domain	A:1001
 6UP7	C	pep		Agonist	Neurotensin(8-13)	peptide	2020-02-26					RRPYIL	unknown	orthosteric	
 6UP7	R	PIO	9543520	PAM	PIO	small-molecule	2020-02-26		E	CCCCCCCC(=O)OC[C@H](COP(=O)(O)O[C@@H]1[C@@H]([C@@H]([C@H]([C@@H]([C@H]1O)OP(=O)(O)O)OP(=O)(O)O)O)O)OC(=O)CCCCCCC	XLNCEHRXXWQMPK-MJUMVPIBSA-N		false	membrane_facing	R:400
@@ -414,8 +414,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8IUK	R	UGU	5280363	Agonist	Prostaglandin F2-alpha	small-molecule	2023-07-12		G	CCCCC[C@@H](/C=C/[C@H]1[C@@H](C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)O)O)O	PXGPLTODNUVGFL-YNNPMVKQSA-N		true	orthosteric	R:401
 8IUL	R	7WT	6441636	Agonist	Latanoprost acid	small-molecule	2023-07-12		F	c1ccc(cc1)CC[C@@H](CC[C@H]2[C@@H](C[C@@H]([C@@H]2C/C=C\CCCC(=O)O)O)O)O	HNPFPERDNWXAGS-NFVOFSAMSA-N		false	orthosteric	R:401
 8IUM	R	S2F	9978917	Agonist	Tafluprost acid	small-molecule	2023-07-12		G	c1ccc(cc1)OCC(/C=C/[C@H]2[C@@H](C[C@@H]([C@@H]2C/C=C\CCCC(=O)O)O)O)(F)F	KIQXRQVVYTYYAZ-VKVYFNERSA-N		false	orthosteric	R:401
-8IW1		beta-phenylethylamine	1001	Agonist	beta-phenylethylamine	small-molecule	2023-05-31	f					unknown	orthosteric	
-8IW9		Cadaverine	273	Agonist	Cadaverine	small-molecule	2023-05-31	f					unknown	orthosteric	
+8IW1			1001	Agonist	beta-phenylethylamine	small-molecule	2023-05-31	f					unknown	orthosteric	
+8IW9		N2P	273	Agonist	Cadaverine	small-molecule	2023-05-31	f					unknown	orthosteric	
 8IZ4	R	TJR	9547179	Agonist	[(2R)-2-oxidanyl-3-phosphonooxy-propyl] octadecanoate	lipid	2024-04-10		F	CCCCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)O)O	LAYXSTYJRSVXIH-HXUWFJFHSA-N		false	orthosteric	R:601
 8IZ4	R	SER	5951	Agonist	Serine	small-molecule	2024-04-10		G	C([C@@H](C(=O)O)N)O	MTCFGRXMJLQNBG-REOHCLBHSA-N		true	orthosteric	R:602
 8IZB	R	UBL	5311263	Agonist	LysoPS (18:1)	lipid	2023-11-01		F	CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](COP(=O)(O)O)O	WRGQSWVCFNIUNZ-GDCKJWNLSA-N		false	orthosteric	R:501
@@ -426,7 +426,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8JCU	2, 3	Z99	9819927	Antagonist	LY341495	small-molecule	2023-06-21		C, F	c1ccc2c(c1)C(c3ccccc3O2)C[C@]([C@H]4C[C@@H]4C(=O)O)(C(=O)O)N	VLZBRVJVCCNPRJ-KPHUOKFYSA-N		false	orthosteric	2:1101, 3:2002
 8JCX	2, 3	Z99	9819927	Antagonist	LY341495	small-molecule	2023-06-21		D, F	c1ccc2c(c1)C(c3ccccc3O2)C[C@]([C@H]4C[C@@H]4C(=O)O)(C(=O)O)N	VLZBRVJVCCNPRJ-KPHUOKFYSA-N		false	extracellular_domain	2:1102, 3:1002
 8JCX		Z99	9819927	Antagonist	LY341495	small-molecule	2023-06-21			c1ccc2c(c1)C(c3ccccc3O2)C[C@]([C@H]4C[C@@H]4C(=O)O)(C(=O)O)N	VLZBRVJVCCNPRJ-KPHUOKFYSA-N		false	orthosteric	
-8JCX		NAM563		NAM	NAM563	small-molecule	2023-06-21	f					unknown	allosteric_7tm	
+8JCX				NAM	NAM563	small-molecule	2023-06-21	f					unknown	allosteric_7tm	
 8JD3	2, 3	GLU	33032	Agonist	GLUTAMIC ACID	small-molecule	2023-06-21		G, I	C(CC(=O)O)[C@@H](C(=O)O)N	WHUUTDBJXJRKMK-VKHMYHEASA-N		true	extracellular_domain	2:902, 3:901
 8JD3	2	HZR	25195461	PAM	JNJ-40411813	small-molecule	2023-06-21		F	CCCCN1C=CC(=C(C1=O)Cl)N2CCC(CC2)c3ccccc3	HYOGJHCDLQSAHX-UHFFFAOYSA-N		false	allosteric_7tm	2:901
 8JD5	2, 4	GLU	33032	Agonist	Glutamate	small-molecule	2023-06-21		H, O	C(CC(=O)O)[C@@H](C(=O)O)N	WHUUTDBJXJRKMK-VKHMYHEASA-N		true	extracellular_domain	2:902, 4:1002
@@ -813,7 +813,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9VMN	R	AKG	51	Agonist	2-OXOGLUTARIC ACID	small-molecule	2026-03-18		F	C(CC(=O)O)C(=O)C(=O)O	KPGXRSRHYNQIFN-UHFFFAOYSA-N		true	orthosteric	R:401
 9VMO	R	ITN	811	Agonist	Itaconic acid	small-molecule	2026-03-18		F	C=C(CC(=O)O)C(=O)O	LVHBHZANLOWSRM-UHFFFAOYSA-N		false	orthosteric	R:401
 9VMP	R	A1E2R	7178294	Agonist	A-1	small-molecule	2026-03-18		F	COC(=O)N[C@@H]1CS(=O)(=O)C=C1	OGNGKUHXSBUSPY-YFKPBYRVSA-N		false	orthosteric	R:401
-9VPM		AMG986		Agonist	AMG986	small-molecule	2026-07-08	f					unknown	orthosteric	
+9VPM				Agonist	AMG986	small-molecule	2026-07-08	f					unknown	orthosteric	
 9VUS	A	AKG	51	Agonist	2-OXOGLUTARIC ACID	small-molecule	2026-07-15		F	C(CC(=O)O)C(=O)C(=O)O	KPGXRSRHYNQIFN-UHFFFAOYSA-N		true	orthosteric	A:1301
 9VV6	A	ITN	811	Agonist	Itaconic acid	small-molecule	2026-07-15		F	C=C(CC(=O)O)C(=O)O	LVHBHZANLOWSRM-UHFFFAOYSA-N		false	orthosteric	A:1301
 9W1J	L	pep		Agonist	Neurokinin A	peptide	2026-06-17					HKTDSFVGLMA	unknown	orthosteric	
@@ -1168,7 +1168,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 6OIK	R	2CU	57664406	PAM	LY2119620	small-molecule	2019-05-08		G	Cc1c2c(c(sc2nc(c1Cl)OCC(=O)N3CCN(CC3)C)C(=O)NC4CC4)N	TYTGOXSAAQWLPJ-UHFFFAOYSA-N		false	extracellular_vestibule	R:502
 6OL9	A	0HK		Inverse agonist	Tiotropium	small-molecule	2019-12-11		D	C[N+]1([C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)C(c4cccs4)(c5cccs5)O)C	LERNTVKEWCAPOY-DZZGSBJMSA-N		false	orthosteric	A:1203
 6OMM	L	pep		Agonist	WKYMVm	peptide	2020-02-26					WKYMVX	unknown	orthosteric	
-6ORV	RP	N2V	58327143	Allosteric agonist	TT-OAD2	small-molecule	2020-01-08		F	CC[C@@H](c1ccccc1)N2Cc3cc4c(cc3C[C@H]2C(=O)N[C@@H](Cc5ccc(cc5)c6ccnc(c6C)C)C(=O)O)OC[C@@H](O4)c7ccc(cc7)OCc8ccc(c(c8)Cl)Cl	DEDPYBWOUXWMOX-ZTAAISNPSA-N		false	allosteric_7tm	RP:501
+6ORV	E	N2V	58327143	Allosteric agonist	TT-OAD2	small-molecule	2020-01-08		F	CC[C@@H](c1ccccc1)N2Cc3cc4c(cc3C[C@H]2C(=O)N[C@@H](Cc5ccc(cc5)c6ccnc(c6C)C)C(=O)O)OC[C@@H](O4)c7ccc(cc7)OCc8ccc(c(c8)Cl)Cl	DEDPYBWOUXWMOX-ZTAAISNPSA-N		false	allosteric_7tm	E:501
 6OS0	B	pep		Agonist	Angiotensin II	peptide	2020-02-19					DRVYIHPF	unknown	orthosteric	
 6OS1	B	pep		Agonist	TRV023 peptide	peptide	2020-02-19					GRVYKHPA	unknown	orthosteric	
 6OS2	B	pep		Agonist	TRV026 peptide	peptide	2020-02-19					GRVYYHPX	unknown	orthosteric	

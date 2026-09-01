@@ -576,7 +576,7 @@ PDB	Alpha_identity	Alpha_ChainID	Beta_UniProt	Beta_ChainID	Gamma_UniProt	Gamma_C
 6NIY	gnas2_human	A	gbb1_human	B	gbg2_human	G	Heterotrimeric Gs protein complex.	A	D	E	gnas2_human	gnas2_human
 6OIK	gnao_human	A	gbb1_human	B	gbg2_human	G	Engineered GoA subunit (GoAiN) with four mutations in the alphaN helix (homologous to Gi1) to facilitate scFv16 binding.	B	C	D	gnao_human	gnao_human
 6OMM	gnai1_human	A	gbb1_human	B	gbg2_human	C	Dominant-negative G protein with G203A and A326S mutations in Gαi1. While metadata specifies all human subunits, the paper mentions bovine Gαi1 and Gγ2 and rat Gβ1.	C	D	E	gnai1_human	gnai1_human
-6ORV	gnas2_human	A	gbb1_human	B	gbg2_human	G	Engineered dominant-negative Gs protein with mutations to alter nucleotide handling and stabilize the G protein complex.	A	B	C	gnas2_human	gnas2_human
+6ORV	gnas2_human	A	gbb1_human	B	gbg2_human	C	Engineered dominant-negative Gs protein with mutations to alter nucleotide handling and stabilize the G protein complex.	A	B	C	gnas2_human	gnas2_human
 6OS9	gnai1_human	A	gbb1_human	B	gbg2_human	C	The G protein is a nucleotide-free human Gi1 heterotrimer in the canonical active conformation (C state). No mutations or chimeras are reported for the G protein subunits.	C	D	E	gnai1_human	gnai1_human
 6OSA	gnai1_human	A	gbb1_human	B	gbg2_human	C	Wild-type human G protein heterotrimer.	C	D	E	gnai1_human	gnai1_human
 6OT0	gnai1_human	A	gbb1_human	B	gbg2_human	G	Engineered dominant-negative Gαi1 mutant with S47N, G204A, E246A, and A327S mutations.	B	C	D	gnai1_human	gnai1_human

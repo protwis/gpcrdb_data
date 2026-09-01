@@ -1063,7 +1063,7 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 6OIK	acm2_human	ELECTRON MICROSCOPY	3.6	Active	R		2019-05-08	A		
 6OL9	acm5_human	X-RAY DIFFRACTION	2.541	Inactive	A		2019-12-11	A		
 6OMM	fpr2_human	ELECTRON MICROSCOPY	3.17	Active	R		2020-02-26	A		
-6ORV	glp1r_human	ELECTRON MICROSCOPY	3.0	Active	R		2020-01-08	E		
+6ORV	glp1r_human	ELECTRON MICROSCOPY	3.0	Active	E		2020-01-08	E		
 6OS0	agtr1_human	X-RAY DIFFRACTION	2.9	Active	A		2020-02-19	A		
 6OS1	agtr1_human	X-RAY DIFFRACTION	2.794	Active	A		2020-02-19	A		
 6OS2	agtr1_human	X-RAY DIFFRACTION	2.7	Active	A		2020-02-19	A		
