@@ -588,7 +588,7 @@ PDB	Name
 5VRA	BRIL
 5W0P	T4-Lysozyme
 5WB1	Nanobody-7
-5WB2	Nanobody 7
+5WB2	Nanobody-7
 5WF5	T4-Lysozyme
 5WF6	T4-Lysozyme
 5WIV	BRIL
@@ -1330,6 +1330,7 @@ PDB	Name
 9LLF	LgBiT
 9LLG	BRIL
 9LLH	LgBiT
+9LLI	BRIL
 9LMO	BRIL
 9LMP	BRIL
 9LRC	EGFP fusion protein

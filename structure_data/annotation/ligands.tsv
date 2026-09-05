@@ -553,7 +553,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8XGS	F	pep		Agonist	Metastin (KP54)	peptide	2024-10-30					GTSLSPPPESSGSRQQPGLSAPHSRQIPAPQGAVLVQREKDLPNYNWNSFGLRFX	unknown	orthosteric	
 8XIO	A	A1D5D	171714579	Agonist	L-797591	small-molecule	2024-07-03		F	C[C@H](CCN)CC(C)(C)CNC(=O)[C@H](Cc1cccc2c1cccc2)NC(=O)N(CCc3ccccc3)CCc4ccccn4	MZKKCMXXGCRPGX-UYHPJTEGSA-N		false	orthosteric	A:401
 8XIP	E	pep		Agonist	Pasireotide	peptide	2024-07-03					XWKYFX	unknown	orthosteric	
-8XIQ	F	sm		Agonist	L-796778	small-molecule	2024-07-03						unknown	orthosteric	
+8XIQ	F	pep		Agonist	L-796778	peptide	2024-07-03						unknown	orthosteric	
 8XIR	F	pep		Agonist	Pasireotide	peptide	2024-07-03					XWKYFX	unknown	orthosteric	
 8XJK	R	A1D5A	5311053	Agonist	Cloprostenol	small-molecule	2024-02-28		F	c1cc(cc(c1)Cl)OC[C@@H](/C=C/[C@H]2[C@@H](C[C@@H]([C@@H]2C/C=C\CCCC(=O)O)O)O)O	VJGGHXVGBSZVMZ-QIZQQNKQSA-N		false	orthosteric	R:601
 8XJL	R	UGU	5280363	Agonist	Prostaglandin F2-alpha	small-molecule	2024-02-28		F	CCCCC[C@@H](/C=C/[C@H]1[C@@H](C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)O)O)O	PXGPLTODNUVGFL-YNNPMVKQSA-N		true	orthosteric	R:601
@@ -802,7 +802,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9UY3	R	A1ESD	9915434	Agonist	Anamorelin	small-molecule	2025-07-02		H	CC(C)(C(=O)N[C@H](Cc1c[nH]c2c1cccc2)C(=O)N3CCC[C@@](C3)(Cc4ccccc4)C(=O)N(C)N(C)C)N	VQPFSIRUEPQQPP-NEEKEDPPSA-N		false	orthosteric	R:603
 9UYN	R	PAM	445638	Allosteric agonist	PALMITOLEIC ACID	small-molecule	2025-11-19		E	CCCCCC\C=C/CCCCCCCC(=O)O	SECPZKHBENQXJG-FPLPWBNLSA-N		false	intracellular	R:1401
 9V0X	L	pep		Agonist	GUB08248	peptide	2026-02-04					SRGKRPVGRFA	unknown	orthosteric	
-9V0X	L	KUT	87327382	Agonist	KUT [2-(2-[2-(2-[2-(Octadecandioyl-gamma-Glu)amino]ethoxy)ethoxy]acetylamino)ethoxy]ethoxy)acetyl]	small-molecule	2026-02-04		G	C(CCCCCCCCC(=O)O)CCCCCCCC(=O)N[C@@H](CCC(=O)NCCOCCOCC(=O)NCCOCCOCC=O)C(=O)O	AJSAGMJPNUAXMY-PMERELPUSA-N		false	extracellular_vestibule	L:401
+9V0X	K	KUT	87327382	Agonist	KUT [2-(2-[2-(2-[2-(Octadecandioyl-gamma-Glu)amino]ethoxy)ethoxy]acetylamino)ethoxy]ethoxy)acetyl]	small-molecule	2026-02-04		G	C(CCCCCCCCC(=O)O)CCCCCCCC(=O)N[C@@H](CCC(=O)NCCOCCOCC(=O)NCCOCCOCC=O)C(=O)O	AJSAGMJPNUAXMY-PMERELPUSA-N		false	extracellular_vestibule	K:401
 9V1H	L	pep		Agonist	GUB08248	peptide	2026-02-04					SRGKRPVGRFA	unknown	orthosteric	
 9V2N	R	A1EQV	9804938	Agonist	Macimorelin	small-molecule	2025-07-02		G	CC(C)(C(=O)N[C@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@H](Cc3c[nH]c4c3cccc4)NC=O)N	UJVDJAPJQWZRFR-DHIUTWEWSA-N		false	orthosteric	R:601
 9V81	R	A1L9Y	172602985	Inverse agonist	HEP-50768	small-molecule	2026-05-06		F	c1cc(c(c(c1)[C@@H]2Cc3cc(ccc3O2)C(F)(F)F)F)c4[nH]nnn4	DNYWMBQGFDLRHS-UHFFFAOYSA-N		false	orthosteric	R:401
@@ -1158,7 +1158,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 6N48	A	KBY	138454256	PAM	compound-6FA	small-molecule	2019-06-26		E	CC(C)N(C)S(=O)(=O)c1ccc(c(c1)C(=O)N[C@H](Cc2ccc(cc2)C(C)(C)C)CC(=O)NCC(=O)O)Sc3ccc(cc3)OC	POBZRCRFILRWTQ-RUZDIDTESA-N		false	intracellular	A:1403
 6N48	B	pep		Allosteric agonist	Nanobody 6B9	protein	2019-06-26					QVQLQESGGGLVQAGGSLRLSCAASGSIFALNIMGWYRQAPGKQRELVAAIHSGGTTNYANSVKGRFTISRDNAANTVYLQMNSLKPEDTAVYYCNVKDFGAIIYDYDYWGQGTQVTVSS	unknown	intracellular	
 6N4B	R	KCA	119025665	Agonist	MDMB-Fubinaca	small-molecule	2019-01-30		F	CC(C)(C)[C@@H](C(=O)OC)NC(=O)c1c2ccccc2n(n1)Cc3ccc(cc3)F	RFCDVEHNYDVCMU-LJQANCHMSA-N		false	orthosteric	R:501
-6N51	A, B	QUS	40539	Agonist	L-quisqualate	small-molecule	2019-01-23		G, J	C([C@@H](C(=O)O)N)N1C(=O)NC(=O)O1	ASNFTDCKZKHJSW-REOHCLBHSA-N		false	extracellular_domain	B:903, A:903
+6N51	A, B	QUS	40539	Agonist	L-quisqualate	small-molecule	2019-01-23		G, J	C([C@@H](C(=O)O)N)N1C(=O)NC(=O)O1	ASNFTDCKZKHJSW-REOHCLBHSA-N		false	extracellular_domain	A:903, B:903
 6N51	C, D	pep		PAM	Nanobody 43	protein	2019-01-23					QVQLVESGGGLVQAGGSLRLSCAASGRTFTSYAMGWFRQAPGKERESVAAISSSGGSTHYADSVKGRFTISRDNSKNTVYLQMNSLKPEDTAVYYCAAAMYGSRWPDWEYDYWGQGTQVTVSS	unknown	extracellular_domain	
 6NI3	R	P0G	49837874	Agonist	BI-167107	small-molecule	2019-11-20		F	Cc1ccccc1CC(C)(C)NC[C@@H](c2ccc(c3c2OCC(=O)N3)O)O	NWQXBEWHTDRJIP-KRWDZBQOSA-N		false	orthosteric	R:1601
 6NIY	P	pep		Agonist	Salmon Calcitonin	peptide	2019-01-23					CSNLSTCVLGKLSQELHKLQTYPRTNTGSGTP	unknown	orthosteric	

@@ -416,6 +416,8 @@ grm1_human:
     2x57: P
     2x58: F
     2x59: T
+grm3_rat:
+    7x521: 7x521
 grm5_human:
     UniProt: grm5_human
     Cl: C
@@ -438,6 +440,15 @@ grm5_human:
     2x57: T
     2x58: F
     2x59: C
+gnrhr_pig:
+    2x551: 2x551
+    4x58: 4x58
+    5x461: 5x461
+    7x44: 7x44
+c3ar_mouse:
+    4x58: 4x58
+    5x461: 5x461
+    7x44: 7x44
 hrh1_human:
     UniProt: hrh1_human
     Cl: A

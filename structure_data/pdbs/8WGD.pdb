@@ -25,12 +25,17 @@ SOURCE  14 EXPRESSION_SYSTEM_TAXID: 9606
 KEYWDS    GPCR, MEMBRANE PROTEIN                                                
 EXPDTA    ELECTRON MICROSCOPY                                                   
 AUTHOR    Y.ZHANG,J.LIU                                                         
+REVDAT   2   28-MAY-25 8WGD    1       JRNL                                     
 REVDAT   1   27-NOV-24 8WGD    0                                                
-JRNL        AUTH   Y.ZHANG,J.LIU                                                
-JRNL        TITL   STRUCTURAL BASIS OF ALLOSTERIC ACTIVATION IN A METABOTROPIC  
-JRNL        TITL 2 GLUTAMATE HETERODIMER                                        
-JRNL        REF    TO BE PUBLISHED                                              
-JRNL        REFN                                                                
+JRNL        AUTH   W.HUANG,N.JIN,J.GUO,C.SHEN,C.XU,K.XI,L.BONHOMME,R.B.QUAST,   
+JRNL        AUTH 2 D.D.SHEN,J.QIN,Y.R.LIU,Y.SONG,Y.GAO,E.MARGEAT,P.RONDARD,     
+JRNL        AUTH 3 J.P.PIN,Y.ZHANG,J.LIU                                        
+JRNL        TITL   STRUCTURAL BASIS OF ORIENTATED ASYMMETRY IN A MGLU           
+JRNL        TITL 2 HETERODIMER.                                                 
+JRNL        REF    NAT COMMUN                    V.  15 10345 2024              
+JRNL        REFN                   ESSN 2041-1723                               
+JRNL        PMID   39609406                                                     
+JRNL        DOI    10.1038/S41467-024-54744-7                                   
 REMARK   2                                                                      
 REMARK   2 RESOLUTION.    4.45 ANGSTROMS.                                       
 REMARK   3                                                                      
