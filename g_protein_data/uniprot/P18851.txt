@@ -1,0 +1,285 @@
+ID   GBB_YEAST               Reviewed;         423 AA.
+AC   P18851; D6W2R8;
+DT   01-NOV-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1996, sequence version 2.
+DT   02-SEP-2026, entry version 216.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit beta;
+GN   Name=STE4; OrderedLocusNames=YOR212W; ORFNames=YOR50-2;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes;
+OC   Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2536595; DOI=10.1016/0092-8674(89)90249-3;
+RA   Whiteway M., Hougan L., Dignard D., Thomas D.Y., Bell L., Saari G.C.,
+RA   Grant F.J., O'Hara P., Mackay V.L.;
+RT   "The STE4 and STE18 genes of yeast encode potential beta and gamma subunits
+RT   of the mating factor receptor-coupled G protein.";
+RL   Cell 56:467-477(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   PubMed=8840505;
+RX   DOI=10.1002/(sici)1097-0061(199607)12:9<877::aid-yea969>3.0.co;2-s;
+RA   Galisson F., Dujon B.;
+RT   "Sequence and analysis of a 33 kb fragment from the right arm of chromosome
+RT   XV of the yeast Saccharomyces cerevisiae.";
+RL   Yeast 12:877-885(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169874; DOI=10.1038/387s098;
+RA   Dujon B., Albermann K., Aldea M., Alexandraki D., Ansorge W., Arino J.,
+RA   Benes V., Bohn C., Bolotin-Fukuhara M., Bordonne R., Boyer J., Camasses A.,
+RA   Casamayor A., Casas C., Cheret G., Cziepluch C., Daignan-Fornier B.,
+RA   Dang V.-D., de Haan M., Delius H., Durand P., Fairhead C., Feldmann H.,
+RA   Gaillon L., Galisson F., Gamo F.-J., Gancedo C., Goffeau A., Goulding S.E.,
+RA   Grivell L.A., Habbig B., Hand N.J., Hani J., Hattenhorst U., Hebling U.,
+RA   Hernando Y., Herrero E., Heumann K., Hiesel R., Hilger F., Hofmann B.,
+RA   Hollenberg C.P., Hughes B., Jauniaux J.-C., Kalogeropoulos A.,
+RA   Katsoulou C., Kordes E., Lafuente M.J., Landt O., Louis E.J., Maarse A.C.,
+RA   Madania A., Mannhaupt G., Marck C., Martin R.P., Mewes H.-W., Michaux G.,
+RA   Paces V., Parle-McDermott A.G., Pearson B.M., Perrin A., Pettersson B.,
+RA   Poch O., Pohl T.M., Poirey R., Portetelle D., Pujol A., Purnelle B.,
+RA   Ramezani Rad M., Rechmann S., Schwager C., Schweizer M., Sor F., Sterky F.,
+RA   Tarassov I.A., Teodoru C., Tettelin H., Thierry A., Tobiasch E.,
+RA   Tzermia M., Uhlen M., Unseld M., Valens M., Vandenbol M., Vetter I.,
+RA   Vlcek C., Voet M., Volckaert G., Voss H., Wambutt R., Wedler H.,
+RA   Wiemann S., Winsor B., Wolfe K.H., Zollner A., Zumstein E., Kleine K.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+RL   Nature 387:98-102(1997).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M., Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   INTERACTION WITH SYG1.
+RX   PubMed=7592711; DOI=10.1074/jbc.270.43.25435;
+RA   Spain B.H., Koo D., Ramakrishnan M., Dzudzor B., Colicelli J.;
+RT   "Truncated forms of a novel yeast protein suppress the lethality of a G
+RT   protein alpha subunit deficiency by interacting with the beta subunit.";
+RL   J. Biol. Chem. 270:25435-25444(1995).
+RN   [6]
+RP   INTERACTION WITH PLP1 AND PLP2.
+RX   PubMed=10749875; DOI=10.1074/jbc.m002163200;
+RA   Flanary P.L., DiBello P.R., Estrada P., Dohlman H.G.;
+RT   "Functional analysis of Plp1 and Plp2, two homologues of phosducin in
+RT   yeast.";
+RL   J. Biol. Chem. 275:18462-18469(2000).
+RN   [7]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A., Dephoure N.,
+RA   O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [8]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.m700468-mcp200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth phosphoproteome
+RT   analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [9]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19779198; DOI=10.1126/science.1172867;
+RA   Holt L.J., Tuch B.B., Villen J., Johnson A.D., Gygi S.P., Morgan D.O.;
+RT   "Global analysis of Cdk1 substrate phosphorylation sites provides insights
+RT   into evolution.";
+RL   Science 325:1682-1686(2009).
+CC   -!- FUNCTION: Implicated in the a- and alpha-factor response pathway. The
+CC       beta and gamma chains of the putative yeast mating response pathway G
+CC       protein play a positive role in initiation of the mating response. The
+CC       beta and gamma chains are required for the GTPase activity, for
+CC       replacement of GDP by GTP, and for G protein-effector interaction.
+CC   -!- SUBUNIT: G proteins are composed of 3 units, alpha, beta and gamma. The
+CC       beta-gamma subunit complex (STE4-STE18 complex) interacts with PLP1 and
+CC       PLP2. Interacts with SYG1. {ECO:0000269|PubMed:10749875,
+CC       ECO:0000269|PubMed:7592711}.
+CC   -!- INTERACTION:
+CC       P18851; P39010: AKR1; NbExp=4; IntAct=EBI-7390, EBI-2421;
+CC       P18851; P11433: CDC24; NbExp=6; IntAct=EBI-7390, EBI-4220;
+CC       P18851; P21268: FAR1; NbExp=2; IntAct=EBI-7390, EBI-6780;
+CC       P18851; P08539: GPA1; NbExp=9; IntAct=EBI-7390, EBI-7376;
+CC       P18851; P18852: STE18; NbExp=4; IntAct=EBI-7390, EBI-7397;
+CC       P18851; Q03497: STE20; NbExp=3; IntAct=EBI-7390, EBI-18285;
+CC       P18851; P32917: STE5; NbExp=3; IntAct=EBI-7390, EBI-18373;
+CC   -!- MISCELLANEOUS: Present with 2050 molecules/cell in log phase SD medium.
+CC       {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the WD repeat G protein beta family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M23982; AAA35114.1; -; Genomic_DNA.
+DR   EMBL; X92441; CAA63175.1; -; Genomic_DNA.
+DR   EMBL; Z75120; CAA99427.1; -; Genomic_DNA.
+DR   EMBL; BK006948; DAA10984.1; -; Genomic_DNA.
+DR   PIR; S60939; S60939.
+DR   RefSeq; NP_014855.3; NM_001183631.3.
+DR   PDB; 7AD3; EM; 3.50 A; F=1-423.
+DR   AlphaFoldDB; P18851; -.
+DR   SMR; P18851; -.
+DR   BioGRID; 34607; 93.
+DR   ComplexPortal; CPX-1645; Ste4-Ste18 heterodimer.
+DR   ComplexPortal; CPX-1646; G protein heterotrimer.
+DR   ComplexPortal; CPX-977; CDC24-FAR1-Gbetagamma complex.
+DR   DIP; DIP-954N; -.
+DR   FunCoup; P18851; 582.
+DR   IntAct; P18851; 65.
+DR   MINT; P18851; -.
+DR   STRING; 4932.YOR212W; -.
+DR   iPTMnet; P18851; -.
+DR   PaxDb; 4932-YOR212W; -.
+DR   PeptideAtlas; P18851; -.
+DR   DNASU; 854387; -.
+DR   EnsemblFungi; YOR212W_mRNA; YOR212W; YOR212W.
+DR   GeneID; 854387; -.
+DR   KEGG; sce:YOR212W; -.
+DR   AGR; SGD:S000005738; -.
+DR   SGD; S000005738; STE4.
+DR   VEuPathDB; FungiDB:YOR212W; -.
+DR   eggNOG; KOG0286; Eukaryota.
+DR   HOGENOM; CLU_000288_57_34_1; -.
+DR   InParanoid; P18851; -.
+DR   OMA; PLDSQWV; -.
+DR   OrthoDB; 10255630at2759; -.
+DR   BioCyc; YEAST:G3O-33714-MONOMER; -.
+DR   Reactome; R-SCE-6814122; Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding.
+DR   BioGRID-ORCS; 854387; 0 hits in 10 CRISPR screens.
+DR   PRO; PR:P18851; -.
+DR   Proteomes; UP000002311; Chromosome XV.
+DR   RNAct; P18851; protein.
+DR   GO; GO:0120171; C:Cdc24p-Far1p-Gbetagamma complex; IDA:SGD.
+DR   GO; GO:0005938; C:cell cortex; NAS:ComplexPortal.
+DR   GO; GO:0031680; C:G-protein beta/gamma-subunit complex; IDA:SGD.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IDA:SGD.
+DR   GO; GO:0005937; C:mating projection; IDA:SGD.
+DR   GO; GO:0005886; C:plasma membrane; IDA:ComplexPortal.
+DR   GO; GO:0001965; F:G-protein alpha-subunit binding; IPI:SGD.
+DR   GO; GO:0031682; F:G-protein gamma-subunit binding; IPI:SGD.
+DR   GO; GO:0019901; F:protein kinase binding; IDA:SGD.
+DR   GO; GO:0097110; F:scaffold protein binding; IPI:SGD.
+DR   GO; GO:0030159; F:signaling receptor complex adaptor activity; IBA:GO_Central.
+DR   GO; GO:0031267; F:small GTPase binding; IMP:SGD.
+DR   GO; GO:0043577; P:chemotropism; IMP:SGD.
+DR   GO; GO:0061951; P:establishment of protein localization to plasma membrane; IMP:SGD.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IBA:GO_Central.
+DR   GO; GO:0001403; P:invasive growth in response to glucose limitation; IMP:SGD.
+DR   GO; GO:1903260; P:protein localization to mating projection tip; IMP:SGD.
+DR   GO; GO:0000749; P:response to pheromone triggering conjugation with cellular fusion; IDA:SGD.
+DR   CDD; cd00200; WD40; 1.
+DR   FunFam; 2.130.10.10:FF:001091; G protein beta subunit; 1.
+DR   Gene3D; 2.130.10.10; YVTN repeat-like/Quinoprotein amine dehydrogenase; 1.
+DR   InterPro; IPR016346; G-protein_beta_1-5.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom_sf.
+DR   InterPro; IPR001632; WD40_G-protein_beta-like.
+DR   InterPro; IPR020472; WD40_PAC1.
+DR   InterPro; IPR019775; WD40_repeat_CS.
+DR   InterPro; IPR036322; WD40_repeat_dom_sf.
+DR   InterPro; IPR001680; WD40_rpt.
+DR   PANTHER; PTHR19850; GUANINE NUCLEOTIDE-BINDING PROTEIN BETA G PROTEIN BETA; 1.
+DR   Pfam; PF00400; WD40; 1.
+DR   Pfam; PF25391; WD40_Gbeta; 1.
+DR   PIRSF; PIRSF002394; GN-bd_beta; 1.
+DR   PRINTS; PR00319; GPROTEINB.
+DR   PRINTS; PR00320; GPROTEINBRPT.
+DR   SMART; SM00320; WD40; 7.
+DR   SUPFAM; SSF50978; WD40 repeat-like; 1.
+DR   PROSITE; PS00678; WD_REPEATS_1; 3.
+DR   PROSITE; PS50082; WD_REPEATS_2; 4.
+DR   PROSITE; PS50294; WD_REPEATS_REGION; 1.
+DR   PDBsum; 7AD3; -.
+PE   1: Evidence at protein level;
+KW   3D-structure; Pheromone response; Reference proteome; Repeat; Transducer;
+KW   WD repeat.
+FT   CHAIN           1..423
+FT                   /note="Guanine nucleotide-binding protein subunit beta"
+FT                   /id="PRO_0000127720"
+FT   REPEAT          90..120
+FT                   /note="WD 1"
+FT   REPEAT          132..162
+FT                   /note="WD 2"
+FT   REPEAT          179..208
+FT                   /note="WD 3"
+FT   REPEAT          220..256
+FT                   /note="WD 4"
+FT   REPEAT          268..298
+FT                   /note="WD 5"
+FT   REPEAT          348..377
+FT                   /note="WD 6"
+FT   REPEAT          389..419
+FT                   /note="WD 7"
+FT   CONFLICT        33
+FT                   /note="D -> E (in Ref. 1; AAA35114)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        236
+FT                   /note="S -> L (in Ref. 1; AAA35114)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           65..68
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   HELIX           69..71
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          97..100
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          106..110
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          112..131
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          139..142
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          146..156
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          158..162
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          173..177
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          184..202
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          204..208
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   TURN            209..211
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          243..245
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          257..261
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          273..278
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          282..289
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          294..300
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          352..357
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          359..371
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          373..377
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   TURN            378..381
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          396..399
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          401..404
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          406..409
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+FT   STRAND          415..418
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+SQ   SEQUENCE   423 AA;  46581 MW;  4B0E26040AAA83E5 CRC64;
+     MAAHQMDSIT YSNNVTQQYI QPQSLQDISA VEDEIQNKIE AARQESKQLH AQINKAKHKI
+     QDASLFQMAN KVTSLTKNKI NLKPNIVLKG HNNKISDFRW SRDSKRILSA SQDGFMLIWD
+     SASGLKQNAI PLDSQWVLSC AISPSSTLVA SAGLNNNCTI YRVSKENRVA QNVASIFKGH
+     TCYISDIEFT DNAHILTASG DMTCALWDIP KAKRVREYSD HLGDVLALAI PEEPNSENSS
+     NTFASCGSDG YTYIWDSRSP SAVQSFYVND SDINALRFFK DGMSIVAGSD NGAINMYDLR
+     SDCSIATFSL FRGYEERTPT PTYMAANMEY NTAQSPQTLK STSSSYLDNQ GVVSLDFSAS
+     GRLMYSCYTD IGCVVWDVLK GEIVGKLEGH GGRVTGVRSS PDGLAVCTGS WDSTMKIWSP
+     GYQ
+//

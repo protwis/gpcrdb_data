@@ -1,0 +1,223 @@
+ID   GBG_YEAST               Reviewed;         110 AA.
+AC   P18852; D6VWQ5;
+DT   01-NOV-1990, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1990, sequence version 1.
+DT   02-SEP-2026, entry version 192.
+DE   RecName: Full=Guanine nucleotide-binding protein subunit gamma;
+DE   Flags: Precursor;
+GN   Name=STE18; OrderedLocusNames=YJR086W; ORFNames=J1866;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes;
+OC   Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2536595; DOI=10.1016/0092-8674(89)90249-3;
+RA   Whiteway M., Hougan L., Dignard D., Thomas D.Y., Bell L., Saari G.C.,
+RA   Grant F.J., O'Hara P., Mackay V.L.;
+RT   "The STE4 and STE18 genes of yeast encode potential beta and gamma subunits
+RT   of the mating factor receptor-coupled G protein.";
+RL   Cell 56:467-477(1989).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=8840504;
+RX   DOI=10.1002/(sici)1097-0061(199607)12:9%3c869::aid-yea964%3e3.0.co;2-1;
+RA   Huang M.-E., Manus V., Chuat J.-C., Galibert F.;
+RT   "Analysis of a 62 kb DNA sequence of chromosome X reveals 36 open reading
+RT   frames and a gene cluster with a counterpart on chromosome XI.";
+RL   Yeast 12:869-875(1996).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=8641269; DOI=10.1002/j.1460-2075.1996.tb00557.x;
+RA   Galibert F., Alexandraki D., Baur A., Boles E., Chalwatzis N., Chuat J.-C.,
+RA   Coster F., Cziepluch C., de Haan M., Domdey H., Durand P., Entian K.-D.,
+RA   Gatius M., Goffeau A., Grivell L.A., Hennemann A., Herbert C.J.,
+RA   Heumann K., Hilger F., Hollenberg C.P., Huang M.-E., Jacq C.,
+RA   Jauniaux J.-C., Katsoulou C., Kirchrath L., Kleine K., Kordes E.,
+RA   Koetter P., Liebl S., Louis E.J., Manus V., Mewes H.-W., Miosga T.,
+RA   Obermaier B., Perea J., Pohl T.M., Portetelle D., Pujol A., Purnelle B.,
+RA   Ramezani Rad M., Rasmussen S.W., Rose M., Rossau R.,
+RA   Schaaff-Gerstenschlaeger I., Smits P.H.M., Scarcez T., Soriano N.,
+RA   To Van D., Tzermia M., Van Broekhoven A., Vandenbol M., Wedler H.,
+RA   von Wettstein D., Wambutt R., Zagulski M., Zollner A., Karpfinger-Hartl L.;
+RT   "Complete nucleotide sequence of Saccharomyces cerevisiae chromosome X.";
+RL   EMBO J. 15:2031-2049(1996).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M., Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=17322287; DOI=10.1101/gr.6037607;
+RA   Hu Y., Rolfs A., Bhullar B., Murthy T.V.S., Zhu C., Berger M.F.,
+RA   Camargo A.A., Kelley F., McCarron S., Jepson D., Richardson A., Raphael J.,
+RA   Moreira D., Taycher E., Zuo D., Mohr S., Kane M.F., Williamson J.,
+RA   Simpson A.J.G., Bulyk M.L., Harlow E., Marsischky G., Kolodner R.D.,
+RA   LaBaer J.;
+RT   "Approaching a complete repository of sequence-verified protein-encoding
+RT   clones for Saccharomyces cerevisiae.";
+RL   Genome Res. 17:536-543(2007).
+RN   [6]
+RP   MUTAGENESIS OF CYS-107.
+RX   PubMed=7982577; DOI=10.1093/genetics/137.4.967;
+RA   Whiteway M.S., Thomas D.Y.;
+RT   "Site-directed mutations altering the CAAX box of Ste18, the yeast
+RT   pheromone-response pathway G gamma subunit.";
+RL   Genetics 137:967-976(1994).
+RN   [7]
+RP   ISOPRENYLATION AT CYS-107, METHYLATION AT CYS-107, PALMITOYLATION AT
+RP   CYS-106, AND MUTAGENESIS OF CYS-106.
+RX   PubMed=10523659; DOI=10.1128/mcb.19.11.7705;
+RA   Hirschman J.E., Jenness D.D.;
+RT   "Dual lipid modification of the yeast gamma subunit Ste18p determines
+RT   membrane localization of Gbetagamma.";
+RL   Mol. Cell. Biol. 19:7705-7711(1999).
+RN   [8]
+RP   ISOPRENYLATION AT CYS-107, AND PALMITOYLATION AT CYS-106.
+RX   PubMed=10712512; DOI=10.1091/mbc.11.3.957;
+RA   Manahan C.L., Patnana M., Blumer K.J., Linder M.E.;
+RT   "Dual lipid modification motifs in G(alpha) and G(gamma) subunits are
+RT   required for full activity of the pheromone response pathway in
+RT   Saccharomyces cerevisiae.";
+RL   Mol. Biol. Cell 11:957-968(2000).
+RN   [9]
+RP   INTERACTION WITH PLP1 AND PLP2.
+RX   PubMed=10749875; DOI=10.1074/jbc.m002163200;
+RA   Flanary P.L., DiBello P.R., Estrada P., Dohlman H.G.;
+RT   "Functional analysis of Plp1 and Plp2, two homologues of phosducin in
+RT   yeast.";
+RL   J. Biol. Chem. 275:18462-18469(2000).
+RN   [10]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A., Dephoure N.,
+RA   O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [11]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22814378; DOI=10.1073/pnas.1210303109;
+RA   Van Damme P., Lasa M., Polevoda B., Gazquez C., Elosegui-Artola A.,
+RA   Kim D.S., De Juan-Pardo E., Demeyer K., Hole K., Larrea E., Timmerman E.,
+RA   Prieto J., Arnesen T., Sherman F., Gevaert K., Aldabe R.;
+RT   "N-terminal acetylome analyses and functional insights of the N-terminal
+RT   acetyltransferase NatB.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 109:12449-12454(2012).
+CC   -!- FUNCTION: Implicated in the pheromone A- and alpha-factor response
+CC       pathway. The beta and gamma chains of the putative yeast mating
+CC       response pathway G protein play a positive role in initiation of the
+CC       mating response.
+CC   -!- SUBUNIT: G proteins are composed of 3 units, alpha, beta and gamma. The
+CC       beta-gamma subunit complex (STE4-STE18 complex) interacts with PLP1 and
+CC       PLP2. {ECO:0000269|PubMed:10749875}.
+CC   -!- INTERACTION:
+CC       P18852; P18851: STE4; NbExp=4; IntAct=EBI-7397, EBI-7390;
+CC   -!- SUBCELLULAR LOCATION: Membrane; Lipid-anchor.
+CC   -!- MISCELLANEOUS: Present with 5550 molecules/cell in log phase SD medium.
+CC       {ECO:0000269|PubMed:14562106}.
+CC   -!- SIMILARITY: Belongs to the G protein gamma family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M23983; AAA35110.1; -; Genomic_DNA.
+DR   EMBL; L47993; AAB39309.1; -; Genomic_DNA.
+DR   EMBL; Z49586; CAA89613.1; -; Genomic_DNA.
+DR   EMBL; AY557888; AAS56214.1; -; Genomic_DNA.
+DR   EMBL; BK006943; DAA08871.1; -; Genomic_DNA.
+DR   PIR; B30102; B30102.
+DR   RefSeq; NP_012619.1; NM_001181743.1.
+DR   PDB; 7AD3; EM; 3.50 A; G=2-110.
+DR   AlphaFoldDB; P18852; -.
+DR   SMR; P18852; -.
+DR   BioGRID; 33841; 20.
+DR   ComplexPortal; CPX-1645; Ste4-Ste18 heterodimer.
+DR   ComplexPortal; CPX-1646; G protein heterotrimer.
+DR   ComplexPortal; CPX-977; CDC24-FAR1-Gbetagamma complex.
+DR   DIP; DIP-314N; -.
+DR   FunCoup; P18852; 157.
+DR   IntAct; P18852; 5.
+DR   MINT; P18852; -.
+DR   STRING; 4932.YJR086W; -.
+DR   iPTMnet; P18852; -.
+DR   SwissPalm; P18852; -.
+DR   PaxDb; 4932-YJR086W; -.
+DR   PeptideAtlas; P18852; -.
+DR   DNASU; 853548; -.
+DR   EnsemblFungi; YJR086W_mRNA; YJR086W; YJR086W.
+DR   GeneID; 853548; -.
+DR   KEGG; sce:YJR086W; -.
+DR   AGR; SGD:S000003846; -.
+DR   SGD; S000003846; STE18.
+DR   VEuPathDB; FungiDB:YJR086W; -.
+DR   eggNOG; ENOG502S5Z5; Eukaryota.
+DR   HOGENOM; CLU_163540_0_0_1; -.
+DR   InParanoid; P18852; -.
+DR   OMA; CLTIINY; -.
+DR   OrthoDB; 19232at2759; -.
+DR   BioCyc; YEAST:G3O-31714-MONOMER; -.
+DR   BioGRID-ORCS; 853548; 0 hits in 10 CRISPR screens.
+DR   PRO; PR:P18852; -.
+DR   Proteomes; UP000002311; Chromosome X.
+DR   RNAct; P18852; protein.
+DR   GO; GO:0120171; C:Cdc24p-Far1p-Gbetagamma complex; IDA:SGD.
+DR   GO; GO:0005938; C:cell cortex; NAS:ComplexPortal.
+DR   GO; GO:0071944; C:cell periphery; HDA:SGD.
+DR   GO; GO:0005737; C:cytoplasm; IDA:SGD.
+DR   GO; GO:0031680; C:G-protein beta/gamma-subunit complex; IDA:SGD.
+DR   GO; GO:0005834; C:heterotrimeric G-protein complex; IDA:SGD.
+DR   GO; GO:0005886; C:plasma membrane; IDA:ComplexPortal.
+DR   GO; GO:0031681; F:G-protein beta-subunit binding; IPI:SGD.
+DR   GO; GO:0007186; P:G protein-coupled receptor signaling pathway; IBA:GO_Central.
+DR   CDD; cd00068; GGL; 1.
+DR   FunFam; 4.10.260.10:FF:000008; G protein gamma subunit; 1.
+DR   Gene3D; 4.10.260.10; Transducin (heterotrimeric G protein), gamma chain; 1.
+DR   InterPro; IPR015898; G-protein_gamma-like_dom.
+DR   InterPro; IPR036284; GGL_sf.
+DR   InterPro; IPR041848; Ste18_fungal.
+DR   PANTHER; PTHR28189; GUANINE NUCLEOTIDE-BINDING PROTEIN SUBUNIT GAMMA; 1.
+DR   PANTHER; PTHR28189:SF1; GUANINE NUCLEOTIDE-BINDING PROTEIN SUBUNIT GAMMA; 1.
+DR   Pfam; PF00631; G-gamma; 1.
+DR   SMART; SM01224; G_gamma; 1.
+DR   SMART; SM00224; GGL; 1.
+DR   PDBsum; 7AD3; -.
+PE   1: Evidence at protein level;
+KW   3D-structure; Lipoprotein; Membrane; Methylation; Palmitate;
+KW   Pheromone response; Prenylation; Reference proteome; Transducer.
+FT   CHAIN           1..107
+FT                   /note="Guanine nucleotide-binding protein subunit gamma"
+FT                   /id="PRO_0000194812"
+FT   PROPEP          108..110
+FT                   /note="Removed in mature form"
+FT                   /id="PRO_0000396775"
+FT   MOD_RES         107
+FT                   /note="Cysteine methyl ester"
+FT                   /evidence="ECO:0000269|PubMed:10523659"
+FT   LIPID           106
+FT                   /note="S-palmitoyl cysteine"
+FT                   /evidence="ECO:0000269|PubMed:10523659,
+FT                   ECO:0000269|PubMed:10712512"
+FT   LIPID           107
+FT                   /note="S-farnesyl cysteine"
+FT                   /evidence="ECO:0000269|PubMed:10523659,
+FT                   ECO:0000269|PubMed:10712512"
+FT   MUTAGEN         106
+FT                   /note="C->S: Partial loss of function."
+FT                   /evidence="ECO:0000269|PubMed:10523659"
+FT   MUTAGEN         107
+FT                   /note="C->X: Loss of function."
+FT                   /evidence="ECO:0000269|PubMed:7982577"
+FT   HELIX           53..65
+FT                   /evidence="ECO:0007829|PDB:7AD3"
+SQ   SEQUENCE   110 AA;  12625 MW;  6A78E946DA5059FA CRC64;
+     MTSVQNSPRL QQPQEQQQQQ QQLSLKIKQL KLKRINELNN KLRKELSRER ITASNACLTI
+     INYTSNTKDY TLPELWGYPV AGSNHFIEGL KNAQKNSQMS NSNSVCCTLM
+//

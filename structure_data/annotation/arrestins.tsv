@@ -1,46 +1,46 @@
-PDB	UniProt	ChainID	Note	label_asym_id
-5DGY	arrs_mouse	A, B, C, D	Fused to the C-terminus of rhodopsin via a 15-amino acid linker. Contains L374A, V375A, and F376A mutations.	A, B, C, D
-6U1N	arrb1_rat	C	The M2R receptor was ligated with a V2R C-terminal phosphopeptide (V2Rpp) to facilitate recruitment and stabilization of beta-arrestin-1.	B
-6UP7	arrb1_human	B	Human beta-arrestin-1 truncated at residue 382 (beta-arrestin-1(delta-CT)).	B
-8JRV	arrb1_bovin	A	C-terminal fusion with scFv30. Engineered cysteine-free beta-arrestin 1 with mutations C59A, C125S, C140I, C150V, C242V, C251V, and C269S. Contains the preactivated mutation R169E.	C
-8WRZ	arrb1_human	A		A
-8ZYU	arrb1_human	B	Truncated at residue 382 to eliminate autoinhibition; constitutively active variant.	A
-9KUV	arrb1_human	A	Beta-arrestin 1 (cysteine-free variant) with R169E pre-activation mutation and a C-terminal fusion of scFv30.	A
-9KUW	arrb1_human	A, B	Cysteine-deficient variant with pre-activated mutation R169E, fused to scFv30.	A, B
-9KUX	arrb1_human	A	Beta-arrestin-1 (cysteine-free variant) fused to scFv30 at the C-terminus.	A
-9L8L	arrb1_human	C	Beta-arrestin-1 (1-393) fused to scFv30.	C
-9LXP	arrb1_human	B		A
-9LZ1	arrb1_bovin	A		E
-9UCO	arrb1_bovin	A, C	Two copies of beta-arrestin-1 are present, interacting with the receptor dimer.	A, D
-9UYN	arrb1_human	A		B
-4PXF	arrs_bovin	B	Peptide analogue (ArrFL-1, residues 67-77) derived from the finger loop of rod photoreceptor arrestin.	B
-4ZWJ	arrs_mouse	A, B, C, D		A, B, C, D
-5W0P	arrs_mouse	A, B, C, D	Visual arrestin fused to the receptor C-terminus.	A, B, C, D
-6PWC	arrb1_human	A		C
-6TKO	arrb1_human	B	Beta-arrestin-1 (arrestin 2) with L68C and R169E mutations.	B
-7R0C	arrb1_human	C	Truncated form of human beta-arrestin1 (residues 6-365, Delta-CT at residue 382).	C
-7SRS	arrb1_human	C	Isoform 1B, constitutively active (R169E), C-terminal truncation (residues 1-368).	D
-8JRU	arrb1_bovin	A	Cysteine-free bovine beta-arrestin 1 with preactivated mutation R169E; C-terminal residues (I377-R418) replaced by scFv30.	B
-8WU1	arrb1_bovin	C		A
-8ZYT	arrb1_human	B	Constitutively active variant truncated at residue 382 to eliminate autoinhibition.	A
-8ZYY	arrb1_human	B	Truncated at residue 382 to eliminate autoinhibition.	A
-9E82	arrb1_bovin	A		A
-9II2	arrb1_human	A, C	Constitutively active mutant (residues 1-376, R169E mutation, cysteine-free) fused at the C-terminus to scFv30.	B, E
-9II3	arrb1_human	A	Engineered constitutively active mutant of beta-arrestin-1 (1-376) with cysteine-free mutations and R169E mutation.	B
-9IJR	arrb1_human	C	Beta-arrestin-1 binds GPR52 in a unique 'side engagement' mode interacting with ICL1 and H8.	B
-9IJS	arrb1_human	C		B
-9LXR	arrb1_human	B		A
-9LY2	arrb1_human	B		A
-9LY3	arrb1_human	B	Full-length Beta-arrestin-1.	B
-9LZ0	arrb1_bovin	A		A
-9LZ2	arrb1_bovin	A	Beta-arrestin-1 stabilized by Fab30.	B
-9M0D	arrb1_human	B	Constitutively active variant truncated at residue 382.	B
-9MBA	arrb1_human	B, C	Truncated form at residue 377 with an R169E mutation to facilitate complex formation and remove autoinhibition.	A, B
-9UYH	arrb1_human	A		B
-9UYI	arrb1_human	A	Beta-arrestin-1 stabilized by Nb32 and scFv30.	B
-9UYJ	arrb1_human	A		A
-9UYL	arrb1_human	A		C
-9UYM	arrb2_human	A	Beta-arrestin 2 with an engineered tail swap: residues H350-F376 were substituted with the counterpart from β-arrestin 1 (K357-L376) to facilitate scFv30 binding.	D
-9WSV	arrb1_bovin	C	Constitutively active bovine beta-arrestin-1 with R169E mutation and 3 A mutations (I386A, V387A, F388A).	B
-9WSX	arrb1_bovin	C	Engineered bovine β-arrestin-1 (arrestin-2) truncated at residue 394 with R169E, I386A, V387A, and F388A mutations to stabilize the active complex.	B
-9ZZO	arrb1_human	C		B
+PDB	UniProt	ChainID	Note_verbose	Note	label_asym_id
+5DGY	arrs_mouse	A	Fused to the C-terminus of rhodopsin via a 15-amino acid linker. Contains L374A, V375A, and F376A mutations.	Rhodopsin C-term fusion, 15aa linker, 3A muts	A, B, C, D
+6U1N	arrb1_rat	C	The M2R receptor was ligated with a V2R C-terminal phosphopeptide (V2Rpp) to facilitate recruitment and stabilization of beta-arrestin-1.	M2R-V2Rpp fusion stabilizes β-arr1 binding	B
+6UP7	arrb1_human	B	Human beta-arrestin-1 truncated at residue 382 (beta-arrestin-1(delta-CT)).	Human β-arr1 ΔCT (truncated at res 382)	B
+8JRV	arrb1_bovin	A	C-terminal fusion with scFv30. Engineered cysteine-free beta-arrestin 1 with mutations C59A, C125S, C140I, C150V, C242V, C251V, and C269S. Contains the preactivated mutation R169E.	Cys-free β-arr1 (7 Cys muts), R169E, scFv30	C
+8WRZ	arrb1_human	A			A
+8ZYU	arrb1_human	B	Truncated at residue 382 to eliminate autoinhibition; constitutively active variant.	Active variant, Δ382 trunc, no autoinhibition	A
+9KUV	arrb1_human	A	Beta-arrestin 1 (cysteine-free variant) with R169E pre-activation mutation and a C-terminal fusion of scFv30.	Cys-free β-arr1, R169E mut, C-term scFv30 fusion	A
+9KUW	arrb1_human	A	Cysteine-deficient variant with pre-activated mutation R169E, fused to scFv30.	Cys-deficient β-arr, R169E, scFv30 fusion	A, B
+9KUX	arrb1_human	A	Beta-arrestin-1 (cysteine-free variant) fused to scFv30 at the C-terminus.	Cys-free β-arr1, C-term scFv30 fusion	A
+9L8L	arrb1_human	C	Beta-arrestin-1 (1-393) fused to scFv30.	β-arr1(1-393) fused to scFv30	C
+9LXP	arrb1_human	B			A
+9LZ1	arrb1_bovin	A			E
+9UCO	arrb1_bovin	A	Two copies of beta-arrestin-1 are present, interacting with the receptor dimer.	2 β-arr1 copies bind the receptor dimer	A, D
+9UYN	arrb1_human	A			B
+4PXF	arrs_bovin	B	Peptide analogue (ArrFL-1, residues 67-77) derived from the finger loop of rod photoreceptor arrestin.	ArrFL-1 peptide: rod arrestin finger loop 67-77	B
+4ZWJ	arrs_mouse	A			A, B, C, D
+5W0P	arrs_mouse	A	Visual arrestin fused to the receptor C-terminus.	Visual arrestin fused to receptor C-term	A, B, C, D
+6PWC	arrb1_human	A			C
+6TKO	arrb1_human	B	Beta-arrestin-1 (arrestin 2) with L68C and R169E mutations.	β-arr1 (arrestin2), L68C+R169E muts	B
+7R0C	arrb1_human	C	Truncated form of human beta-arrestin1 (residues 6-365, Delta-CT at residue 382).	Human β-arr1 (res 6-365), ΔCT at 382	C
+7SRS	arrb1_human	C	Isoform 1B, constitutively active (R169E), C-terminal truncation (residues 1-368).	Isoform 1B, R169E, truncated to res 1-368	D
+8JRU	arrb1_bovin	A	Cysteine-free bovine beta-arrestin 1 with preactivated mutation R169E; C-terminal residues (I377-R418) replaced by scFv30.	Cys-free bo β-arr1, R169E, scFv30 C-term swap	B
+8WU1	arrb1_bovin	C			A
+8ZYT	arrb1_human	B	Constitutively active variant truncated at residue 382 to eliminate autoinhibition.	Active β-arr, Δ382 trunc, no autoinhibition	A
+8ZYY	arrb1_human	B	Truncated at residue 382 to eliminate autoinhibition.	Truncated at res 382, autoinhibition removed	A
+9E82	arrb1_bovin	A			A
+9II2	arrb1_human	C	Constitutively active mutant (residues 1-376, R169E mutation, cysteine-free) fused at the C-terminus to scFv30.	Active Cys-free β-arr1(1-376) R169E+scFv30	B, E
+9II3	arrb1_human	A	Engineered constitutively active mutant of beta-arrestin-1 (1-376) with cysteine-free mutations and R169E mutation.	Active Cys-free β-arr1(1-376), R169E mut	B
+9IJR	arrb1_human	C	Beta-arrestin-1 binds GPR52 in a unique 'side engagement' mode interacting with ICL1 and H8.	β-arr1 binds GPR52 via ICL1/H8 side engagement	B
+9IJS	arrb1_human	C			B
+9LXR	arrb1_human	B			A
+9LY2	arrb1_human	B			A
+9LY3	arrb1_human	B	Full-length Beta-arrestin-1.	Full-length β-arrestin-1	B
+9LZ0	arrb1_bovin	A			A
+9LZ2	arrb1_bovin	A	Beta-arrestin-1 stabilized by Fab30.	β-arr1 stabilized by Fab30	B
+9M0D	arrb1_human	B	Constitutively active variant truncated at residue 382.	Active β-arr variant truncated at res 382	B
+9MBA	arrb1_human	C	Truncated form at residue 377 with an R169E mutation to facilitate complex formation and remove autoinhibition.	Truncated at 377, R169E, no autoinhibition	A, B
+9UYH	arrb1_human	A			B
+9UYI	arrb1_human	A	Beta-arrestin-1 stabilized by Nb32 and scFv30.	β-arr1 stabilized by Nb32 and scFv30	B
+9UYJ	arrb1_human	A			A
+9UYL	arrb1_human	A			C
+9UYM	arrb2_human	A	Beta-arrestin 2 with an engineered tail swap: residues H350-F376 were substituted with the counterpart from β-arrestin 1 (K357-L376) to facilitate scFv30 binding.	β-arr2 tail swap (H350-F376→β-arr1) for scFv30	D
+9WSV	arrb1_bovin	C	Constitutively active bovine beta-arrestin-1 with R169E mutation and 3 A mutations (I386A, V387A, F388A).	Active bo β-arr1: R169E+I386A/V387A/F388A	B
+9WSX	arrb1_bovin	C	Engineered bovine β-arrestin-1 (arrestin-2) truncated at residue 394 with R169E, I386A, V387A, and F388A mutations to stabilize the active complex.	Bo β-arr1 Δ394, R169E+I386A/V387A/F388A muts	B
+9ZZO	arrb1_human	C			B
