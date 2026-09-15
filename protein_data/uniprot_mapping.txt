@@ -259,8 +259,8 @@ Q9Y2T5 gpr52_human
 Q9BZJ8 gpr61_human
 Q9BZJ7 gpr62_human
 Q9BZJ6 gpr63_human
-Q8IYL9 psyr_human
-Q15743 ogr1_human
+Q8IYL9 gpr65_human
+Q15743 gpr68_human
 O95800 gpr75_human
 Q2Q8I8 q2q8i8_phyco
 Q96P69 gpr78_human
@@ -318,8 +318,8 @@ Q969N4 taar8_human
 Q96RI9 taar9_human
 P30988 calcr_human
 Q16602 calrl_human
-P34998 crfr1_human
-Q13324 crfr2_human
+P34998 crhr1_human
+Q13324 crhr2_human
 Q02643 ghrhr_human
 P48546 gipr_human
 P43220 glp1r_human
@@ -386,7 +386,7 @@ Q7RTX1 ts1r1_human
 Q8TE23 ts1r2_human
 Q7RTX0 ts1r3_human
 Q8NFN8 gp156_human
-Q5T848 gp158_human
+Q5T848 mglyr_human
 Q6PRD1 gp179_human
 Q8NFJ5 rai3_human
 Q8BHB8 q8bhb8_mouse
@@ -441,7 +441,7 @@ B8QCN4 b8qcn4_hetpl
 P30993 c5ar1_mouse
 B1WAT2 b1wat2_xentr
 G1NIZ2 g1niz2_melga
-Q60808 crfr2_mouse
+Q60808 crhr2_mouse
 Q19BK7 q19bk7_sheep
 D0V0N5 d0v0n5_eotme
 F8R8S6 f8r8s6_9neob
@@ -1970,7 +1970,7 @@ G3RD27 g3rd27_gorgo
 Q28044 adrb2_bovin
 Q9MZP5 q9mzp5_traph
 Q9MZV8 mc5r_pig
-B1AWY4 gp158_mouse
+B1AWY4 mglyr_mouse
 F2VRC6 f2vrc6_camba
 K7GFZ5 k7gfz5_pelsi
 F7CKP0 f7ckp0_xentr
@@ -3475,7 +3475,7 @@ A0A0A7H9D8 a0a0a7h9d8_blaci
 G3SAR8 g3sar8_gorgo
 H2SQF3 h2sqf3_takru
 D8KZS9 d8kzs9_pantr
-O42602 crfr1_xenla
+O42602 crhr1_xenla
 W5PG27 w5pg27_sheep
 R4GFZ1 r4gfz1_chick
 O70526 bkrb2_cavpo
@@ -3553,7 +3553,7 @@ Q95ND2 ccr5_manle
 B3SPX1 b3spx1_horse
 Q0VBI9 acm5_mouse
 F7I3K3 f7i3k3_calja
-O46685 ogr1_bovin
+O46685 gpr68_bovin
 F7C1X5 f7c1x5_calja
 F2Y508 f2y508_delca
 G9CHU6 g9chu6_9neob
@@ -5261,10 +5261,10 @@ Q3UN46 npy4r_mouse
 D9MN73 d9mn73_cynsp
 H0WU50 h0wu50_otoga
 F7C7N3 f7c7n3_xentr
-G3V948 crfr2_rat
+G3V948 crhr2_rat
 H0W8F9 h0w8f9_cavpo
 G3RLV7 g3rlv7_gorgo
-Q80T34 ogr1_mouse
+Q80T34 gpr68_mouse
 B1P8K5 b1p8k5_eulfu
 A8CUS2 a8cus2_9neob
 A0A023NLL7 a0a023nll7_cropr
@@ -5500,7 +5500,7 @@ F6QJ63 f6qj63_horse
 K7FH11 k7fh11_pelsi
 S5G3R5 s5g3r5_podmu
 A0A0D9SCB0 a0a0d9scb0_chlsb
-P35353 crfr1_rat
+P35353 crhr1_rat
 U3I3B5 u3i3b5_anapl
 F7I762 f7i762_calja
 Q09J40 q09j40_macmu
@@ -5632,7 +5632,7 @@ H6BFP8 h6bfp8_9hyst
 C3U0E5 c3u0e5_9prim
 F6PRZ2 f6prz2_xentr
 H2ULE0 h2ule0_takru
-P35347 crfr1_mouse
+P35347 crhr1_mouse
 Q8MJU6 ta2r1_chlae
 W5QDX4 w5qdx4_sheep
 G7NL04 g7nl04_macmu
@@ -6322,7 +6322,7 @@ E1BMN4 e1bmn4_bovin
 A0A096N900 a0a096n900_papan
 Q80SX1 q80sx1_chain
 F7E7U5 f7e7u5_ornan
-Q90812 crfr1_chick
+Q90812 crhr1_chick
 G3Q431 g3q431_gasac
 Q95LG5 ackr1_papha
 H0WMF1 h0wmf1_otoga
@@ -6808,7 +6808,7 @@ G1SA07 g1sa07_nomle
 A0A076MFH2 a0a076mfh2_9tele
 K7EZI0 k7ezi0_pelsi
 F7IHM0 f7ihm0_calja
-D4A6L0 gp158_rat
+D4A6L0 mglyr_rat
 F7A6I8 f7a6i8_horse
 B1AU41 b1au41_mouse
 G1MMT7 g1mmt7_ailme
@@ -7336,7 +7336,7 @@ A0A0D9RM31 a0a0d9rm31_chlsb
 G1SHK9 g1shk9_rabit
 I3NFT2 i3nft2_icttr
 F6PP77 f6pp77_horse
-Q61038 psyr_mouse
+Q61038 gpr65_mouse
 K7FEK9 k7fek9_pelsi
 A0A0D9SE54 a0a0d9se54_chlsb
 G3U9Z2 g3u9z2_loxaf
@@ -7374,7 +7374,7 @@ A3EX45 a3ex45_mictv
 H6BFN0 h6bfn0_9hyst
 A3KF73 a3kf73_macnr
 G1PPM2 g1ppm2_myolu
-E1BBQ2 gp158_bovin
+E1BBQ2 mglyr_bovin
 G3M6H2 g3m6h2_9hyst
 H0V671 h0v671_cavpo
 F6Z8M2 f6z8m2_horse
@@ -7466,7 +7466,7 @@ L7SY25 l7sy25_9saur
 F7CTX8 f7ctx8_calja
 A0A097A2P6 a0a097a2p6_equas
 H2USY9 h2usy9_takru
-O62772 crfr1_sheep
+O62772 crhr1_sheep
 G5CVK4 g5cvk4_ambho
 G1TCY0 g1tcy0_rabit
 Q9BFG8 q9bfg8_choho
@@ -11660,7 +11660,7 @@ F7A1S1 f7a1s1_calja
 G1NVM1 g1nvm1_myolu
 Q1EMB7 q1emb7_rabit
 P51047 mr1al_danre
-O42603 crfr2_xenla
+O42603 crhr2_xenla
 F6SVY7 f6svy7_xentr
 B9TS06 b9ts06_9tele
 A0A076MFG1 a0a076mfg1_epiml
@@ -16026,7 +16026,7 @@ Q8K418 brs3_rat
 Q63ZL5 q63zl5_xenla
 G5CVJ9 g5cvj9_abrbe
 Q80WU7 q80wu7_mouse
-Q76LL8 crfr1_macmu
+Q76LL8 crhr1_macmu
 A6XJZ4 a6xjz4_9neob
 F7IKQ6 f7ikq6_calja
 D2XUT0 d2xut0_chick
