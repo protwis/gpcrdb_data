@@ -232,8 +232,8 @@
 230,230,230,gpr61_human,Q9BZJ8,GPR61,BALGR,Class A (Rhodopsin),Orphan receptors,Class A orphans,110.0,,,,,19025769,,1.0
 231,231,231,gpr62_human,Q9BZJ7,GPR62,,Class A (Rhodopsin),Orphan receptors,Class A orphans,111.0,,,,,,,
 232,232,232,gpr63_human,Q9BZJ6,GPR63,PSP24B,Class A (Rhodopsin),Orphan receptors,Class A orphans,112.0,,,,,,,
-233,233,233,psyr_human,Q8IYL9,GPR65,TDAG8,Class A (Rhodopsin),Orphan receptors,Class A orphans,113.0,Gs family,,Adenylate cyclase stimulation,,15618224|19234222|15665078|15326175,,4.0
-234,234,234,ogr1_human,Q15743,GPR68,OGR1,Class A (Rhodopsin),Orphan receptors,Class A orphans,114.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation",,20622109|21907704|12069813|16787916,,4.0
+233,233,233,gpr65_human,Q8IYL9,GPR65,TDAG8,Class A (Rhodopsin),Orphan receptors,Class A orphans,113.0,Gs family,,Adenylate cyclase stimulation,,15618224|19234222|15665078|15326175,,4.0
+234,234,234,gpr68_human,Q15743,GPR68,OGR1,Class A (Rhodopsin),Orphan receptors,Class A orphans,114.0,"Gi/Go family, Gq/G11 family",,"Adenylate cyclase inhibition, Phospholipase C stimulation",,20622109|21907704|12069813|16787916,,4.0
 235,235,235,gpr75_human,O95800,GPR75,,Class A (Rhodopsin),Orphan receptors,Class A orphans,115.0,Gq/G11 family,,Phospholipase C stimulation,,17001303,,1.0
 236,236,236,gpr78_human,Q96P69,GPR78,UNQ5925/PRO19818,Class A (Rhodopsin),Orphan receptors,Class A orphans,116.0,Gs family,,Adenylate cyclase stimulation,,17363172,,1.0
 237,237,237,gpr82_human,Q96P67,GPR82,,Class A (Rhodopsin),Orphan receptors,Class A orphans,118.0,,,,,,,
@@ -287,8 +287,8 @@
 285,285,285,taar9_human,Q96RI9,TAAR9,TA3;TAR3;TRAR3,Class A (Rhodopsin),Orphan receptors,Class A orphans,173.0,,,,,,,
 286,286,286,calcr_human,P30988-2,CALCR,,Class B1 (Secretin),Peptide receptors,Calcitonin receptors,43.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,15692146|14623894|25815174,11459804|8732687|25815174|1646739,3.0
 287,287,287,calrl_human,Q16602,CALCRL,CGRPR,Class B1 (Secretin),Peptide receptors,Calcitonin receptors,47.0,,,,,,,
-288,288,288,crfr1_human,P34998-2,CRHR1,CRFR;CRFR1;CRHR,Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors,212.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,7692441|8274282|8243338|8243652|8536612|9326293|9863624|9851694|11145609|11711031|14761672,8536612|15450949,11.0
-289,289,289,crfr2_human,Q13324,CRHR2,CRF2R;CRH2R,Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors,213.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,9326293|7846062|7755719|11416224|7565810|8536644|9199241|9717834|10336722,15450949,9.0
+288,288,288,crhr1_human,P34998-2,CRHR1,CRFR;CRFR1;CRHR,Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors,212.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,7692441|8274282|8243338|8243652|8536612|9326293|9863624|9851694|11145609|11711031|14761672,8536612|15450949,11.0
+289,289,289,crhr2_human,Q13324,CRHR2,CRF2R;CRH2R,Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors,213.0,Gs family,Gq/G11 family,Adenylate cyclase stimulation,Phospholipase C stimulation,9326293|7846062|7755719|11416224|7565810|8536644|9199241|9717834|10336722,15450949,9.0
 290,290,290,ghrhr_human,Q02643,GHRHR,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family,247.0,Gs family,,"Adenylate cyclase stimulation, Calcium channel",,11867632,,1.0
 291,291,291,gipr_human,P48546,GIPR,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family,248.0,Gs family,,Adenylate cyclase stimulation,Phospholipase A2 stimulation,,11323439,
 292,292,292,glp1r_human,P43220,GLP1R,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family,249.0,Gs family,,Adenylate cyclase stimulation,,10909973,,1.0
@@ -348,7 +348,7 @@
 346,346,346,ts1r2_human,Q8TE23,TAS1R2,GPR71;T1R2;TR2,Class C (Glutamate),Sensory receptors,Taste 1 receptors,657.0,,,,,,,
 347,347,347,ts1r3_human,Q7RTX0,TAS1R3,T1R3;TR3,Class C (Glutamate),Sensory receptors,Taste 1 receptors,658.0,,,,,,,
 348,348,348,gp156_human,Q8NFN8,GPR156,GABABL;PGR28,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
-349,349,349,gp158_human,Q5T848,GPR158,KIAA1136,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
+349,349,349,mglyr_human,Q5T848,GPR158,KIAA1136,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
 350,350,350,gp179_human,Q6PRD1,GPR179,GPR158L;GPR158L1,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
 351,351,351,rai3_human,Q8NFJ5,GPRC5A,GPCR5A;RAI3;RAIG1,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
 352,352,352,gpc5b_human,Q9NZH0,GPRC5B,RAIG2,Class C (Glutamate),Orphan receptors,Class C Orphans,,,,,,,,
