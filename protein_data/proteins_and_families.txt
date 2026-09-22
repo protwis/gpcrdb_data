@@ -944,7 +944,7 @@ Class T2 (Taste 2) | gpcrdba
             "gpcr","117","Taste 2 receptors","679","TAS2R46","","","","T2R54|taste receptor, type 2, member 46","18877","TAS2R46","taste 2 receptor member 46","","NM_176887","","P59540","259292","","","","","","","","","","","","","","","",""
             "gpcr","117","Taste 2 receptors","677","TAS2R50","","","","T2R51|taste receptor, type 2, member 50","18882","TAS2R50","taste 2 receptor member 50","","NM_176890","","P59544","259296","","","","","","","","","","","","","","","",""
             "gpcr","117","Taste 2 receptors","681","TAS2R60","","","","T2R60|taste receptor, type 2, member 60","20639","TAS2R60","taste 2 receptor member 60","","NM_177437","","P59551","338398","","","","","","","","","","","","","","","",""
-Class V (Vomeronasal) | gpcrdba
+Class V1 (Vomeronasal) | gpcrdba
     Pheromone receptors
         Vomeronasal receptors
             "gpcr","","Vomeronasal receptors","","VN1R1","","","","","","","","","","","Q9GZP7","","","","","","","","","","","","","","","","",""
