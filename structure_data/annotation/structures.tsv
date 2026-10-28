@@ -2578,3 +2578,49 @@ PDB	Receptor_UniProt	Method	Resolution	State	ChainID	Note	Date	label_asym_id	Par
 9YDV	p2y14_human	ELECTRON MICROSCOPY	3.05	Active	A		2025-11-19	E		
 9YFU	gpr61_human	ELECTRON MICROSCOPY	3.08	Inactive	R		2026-03-25	A		
 9ZZO	oprk_human	ELECTRON MICROSCOPY	2.6	Active	A		2026-06-17	C		
+21LT	mc4r_human	ELECTRON MICROSCOPY	3.11	Active	R		2026-08-12	B		
+21TY	ffar2_human	ELECTRON MICROSCOPY	2.93	Inactive	A		2026-09-09	A		
+22CR	c5ar2_human	ELECTRON MICROSCOPY	2.9	Active	R	Active-state complex with beta-arrestin-1 and Fab30.	2026-07-22	B		
+22GK	c5ar2_human	ELECTRON MICROSCOPY	2.84	Active	R	C5a-C5aR2-beta-arrestin 1 complex	2026-07-22	B		
+22GL	c5ar1_human	ELECTRON MICROSCOPY	3.3	Active	R	Wild-type receptor complex	2026-07-22	B		
+22GM	c5ar1_human	ELECTRON MICROSCOPY	2.7	Active	R	Receptor is a C5aR1 construct with the C-terminal tail of V2R.	2026-07-22	B		
+22WP	5ht2a_human	ELECTRON MICROSCOPY	3.33	Active	A		2026-09-16	A		
+22WR	5ht2a_human	ELECTRON MICROSCOPY	3.2	Active	A	Local refinement	2026-09-16	A		
+22WT	5ht2b_human	ELECTRON MICROSCOPY	3.21	Inactive	R		2026-09-16	A		
+25GN	fzd6_human	ELECTRON MICROSCOPY	3.2	Active	R	Engineered receptor with V2R tail fusion	2026-08-26	D		
+27EM	pacr_human	ELECTRON MICROSCOPY	3.0	Active	R	Engineered receptor with BRIL fusion and V2RC tail.	2026-09-16	E		
+31BG	drd3_human	ELECTRON MICROSCOPY	3.47	Active	R		2026-08-19	D		
+32FD	drd3_human	ELECTRON MICROSCOPY	2.9	Active	R		2026-09-30	A		
+9AAB	agtr1_human	Electron microscopy	0	Intermediate	A	Integrative model (AlphaLink/AF2/MD) from DEER restraints.	2026-10-07	A		
+9N8Y	grm8_human	ELECTRON MICROSCOPY	2.76	Active	A	[HOMOMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain A)] [WARNING: Ligands are bound to truncated chains B!]	2026-09-09	A	grm8_human	B
+9N8Z	grm8_human	ELECTRON MICROSCOPY	2.97	Active	A	[HOMOMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain A)] [WARNING: Ligands are bound to truncated chains B!]	2026-09-09	A	grm8_human	B
+9Q3L	adrb2_human	ELECTRON MICROSCOPY	2.5	Inactive	A	[HOMOMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 4: Preserving AI's originally correct choice (Chain A)] [WARNING: Ligands are bound to truncated chains B!]	2026-08-19	A	adrb2_human	B
+9RX1	adrb1_melga	ELECTRON MICROSCOPY	4.2	Inactive	A		2026-07-22	A		
+9T7P	drd3_human	ELECTRON MICROSCOPY	2.85	Active	R		2026-09-09	A		
+9T7Q	drd3_human	ELECTRON MICROSCOPY	3.03	Active	R		2026-09-09	C		
+9T88	drd3_human	ELECTRON MICROSCOPY	2.74	Active	R		2026-09-09	C		
+9T8C	drd3_human	ELECTRON MICROSCOPY	2.9	Active	R		2026-09-16	A		
+9T8D	drd3_human	ELECTRON MICROSCOPY	3.6	Inactive	R		2026-09-09	A		
+9U7L	cnr2_human	ELECTRON MICROSCOPY	3.2	Active	R		2026-08-12	D		
+9UPY	gpr84_human	ELECTRON MICROSCOPY	3.1	Active	R		2026-09-23	A		
+9V6T	gpr84_human	ELECTRON MICROSCOPY	3.5	Inactive	R		2026-09-23	D		
+9VOS	mglyr_human	ELECTRON MICROSCOPY	4.3	Inactive	A	[HOMOMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 2: Ligand binds exclusively to GPCR Chain A] [WARNING: Ligands are bound to truncated chains B!]	2026-07-22	B	mglyr_human	B
+9WND	5ht2a_human	ELECTRON MICROSCOPY	3.2	Active	A		2026-09-09	A		
+9WNF	5ht2a_human	ELECTRON MICROSCOPY	3.13	Active	A		2026-09-09	A		
+9WNG	5ht2b_human	ELECTRON MICROSCOPY	2.98	Inactive	R		2026-09-09	C		
+9WPQ	5ht2a_human	ELECTRON MICROSCOPY	3.15	Active	A		2026-09-16	A		
+9WPX	5ht2a_human	ELECTRON MICROSCOPY	3.1	Active	A		2026-09-16	A		
+9WQ5	5ht2a_human	ELECTRON MICROSCOPY	3.2	Active	A		2026-09-16	A		
+9WQ6	5ht2a_human	ELECTRON MICROSCOPY	3.4	Active	A		2026-09-16	A		
+9WQA	5ht2b_human	ELECTRON MICROSCOPY	3.28	Inactive	A	Inactive state bound to designer antagonist IHCH-1906 and a stabilizing Fab fragment.	2026-09-16	A		
+9WQB	5ht2b_human	ELECTRON MICROSCOPY	3.18	Inactive	A	Inactive state bound to antagonist and stabilized by Fab fragment.	2026-09-16	A		
+9X74	gper1_human	ELECTRON MICROSCOPY	3.15	Active	R		2026-08-26	D		
+9XFI	ffar4_human	ELECTRON MICROSCOPY	2.99	Active	A		2026-09-16	A		
+9XFJ	ffar4_human	ELECTRON MICROSCOPY	3.25	Active	A		2026-09-16	A		
+9XN2	glp1r_human	ELECTRON MICROSCOPY	2.61	Active	R		2026-09-30	E		
+9XN3	gipr_human	ELECTRON MICROSCOPY	2.74	Active	R		2026-09-30	E		
+9XN4	glr_human	ELECTRON MICROSCOPY	2.53	Active	R		2026-09-30	E		
+9Y1M	grm8_human	ELECTRON MICROSCOPY	3.32	Active	B	[HOMOMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain B based on: Homomer (2 identical GPCR chains) — Rank 2: Ligand binds exclusively to GPCR Chain B] [WARNING: Ligands are bound to truncated chains A!]	2026-09-30	B	grm8_human	A
+9Y1N	grm8_human	ELECTRON MICROSCOPY	6.18	Active	A	[HOMOMER: chains A, B] [DB TRUNCATION: AI correctly identified chains A, B, but DB requires 1. Auto-selected primary chain A based on: Homomer (2 identical GPCR chains) — Rank 0: G protein-coupling protomer (structure geometry) on Chain A] [WARNING: Ligands are bound to truncated chains B!]	2026-09-30	A	grm8_human	B
+9ZXC	agtr1_human	ELECTRON MICROSCOPY	3.4	Inactive	A		2026-07-29	A		
+9ZXD	agtr1_human	ELECTRON MICROSCOPY	3.2	Inactive	A		2026-07-29	A		

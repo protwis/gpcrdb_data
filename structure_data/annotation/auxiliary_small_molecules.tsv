@@ -2137,3 +2137,13 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 9WQO	X, Y	CL	Chloride ion	Ion		H, N	X:2006, Y:2006
 9XB1	A, B	CLR	Cholesterol	Lipid	Cofactor	C, D	A:501, B:501
 9ZZO	C	PIO	Dioctanoyl l-alpha-phosphatidyl-d-myo-inositol 4,5-diphosphate	Other	Cofactor	F	C:401
+21LT	R	CA	Calcium ion	Ion	Cofactor	F	R:601
+22WT	R	NAG	2-acetamido-2-deoxy-beta-d-glucopyranose	Other		B	R:501
+9Q3L	A, B	LFA	Eicosane	Other	Cofactor	D, H	A:502, B:502
+9Q3L	A, B	C14	Tetradecane	Other	Cofactor	C, G	A:501, B:501
+9VOS	A, B	CLR	Cholesterol	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:809, A:810, B:801, B:802, B:803, B:804, B:805, B:806, B:807, B:808, B:809, B:810, B:811, B:812, A:801, A:802, A:803, A:804, A:805, A:806, A:807, A:808
+9VOS	A	PEE	1,2-dioleoyl-sn-glycero-3-phosphoethanolamine	Other	Cofactor	CA	A:811
+9VOS	A	PII	2-[(hydroxy{[(2r,3r,5s,6r)-2,3,4,5,6-pentahydroxycyclohexyl]oxy}phosphoryl)oxy]-1-[(palmitoyloxy)methyl]ethyl heptadecanoate	Other	Cofactor	DA	A:812
+9WNG	R	NAG	2-acetamido-2-deoxy-beta-d-glucopyranose	Other		D	R:501
+9ZXC	A	Y01	Cholesterol hemisuccinate	Lipid		D, E	A:1500, A:1501
+9ZXD	A	Y01	Cholesterol hemisuccinate	Lipid		D	A:1401

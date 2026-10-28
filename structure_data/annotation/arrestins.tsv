@@ -44,3 +44,9 @@ PDB	UniProt	ChainID	Note_verbose	Note	label_asym_id
 9WSV	arrb1_bovin	C	Constitutively active bovine beta-arrestin-1 with R169E mutation and 3 A mutations (I386A, V387A, F388A).	Active bo β-arr1: R169E+I386A/V387A/F388A	B
 9WSX	arrb1_bovin	C	Engineered bovine β-arrestin-1 (arrestin-2) truncated at residue 394 with R169E, I386A, V387A, and F388A mutations to stabilize the active complex.	Bo β-arr1 Δ394, R169E+I386A/V387A/F388A muts	B
 9ZZO	arrb1_human	C			B
+22CR	arrb1_bovin	A	Constitutively active bovine beta-arrestin-1 truncated at residue 394 with R169E mutation and 3A mutations (I386A, V387A, and F388A).	Truncated; muts: R169E, I386A, V387A, F388A	E
+22GK	arrb1_bovin	A	Constitutively active bovine beta-arrestin-1 mutant with R169E and 3A (I386A, V387A, F388A) mutations, truncated at residue 394.	R169E, 3A muts; truncated 1-394	E
+22GL	arrb1_bovin	A	Constitutively active bovine beta-arrestin-1, truncated at residue 394 and carrying an R169E mutation and 3A mutations (I386A, V387A, and F388A).	Truncated at 394; R169E, 3A mutations	E
+22GM	arrb1_bovin	A	Constitutively active bovine βarr1, truncated at residue 394 and carrying an R169E mutation and 3A mutations (I386A, V387A, and F388A).	muts: R169E, I386A, V387A, F388A; Bovine βarr1-394	E
+25GN	arrb1_human	C	Human cysteine-free (C59V, C125S, C140L, C150V, C242V, C251V and C269S) βarr1 containing residues 1–393.	Cys-free; residues 1-393	A
+27EM	arrb1_human	B	Truncated at residue R393 (residues 1–393) with an A279C mutation, a ΔG2–D3 deletion, and 3A mutations (I386A, V387A, and F388A) to remove autoinhibition.	Truncated 1-393, A279C, ΔG2-D3, 3A muts	A
