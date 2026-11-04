@@ -1,7 +1,7 @@
 PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 10TM	F, R	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H	R:401, R:402, F:401, F:402
 1F88	A, B	ZN	Zinc ion	Ion	Cofactor	J, K, P, Q	A:907, A:910, B:908, B:909
-1F88	A, B	HG	Mercury (ii) ion	Ion		G, H, I, M, N, O	A:901, A:903, A:905, B:902, B:904, B:906
+1F88	A, B	HG	Mercury (II) ion	Ion		G, H, I, M, N, O	A:901, A:903, A:905, B:902, B:904, B:906
 1GZM	A, B	PLM	Palmitic acid	Lipid	Cofactor	H, I, T, U	A:1333, A:1334, B:1333, B:1334
 1GZM	A, B	PEF	Di-palmitoyl-3-sn-phosphatidylethanolamine	Other	Cofactor	J, X	A:1341, B:1342
 1GZM	A, B	C8E	(hydroxyethyloxy)tri(ethyloxy)octane	Other	Cofactor	AA, BA, CA, L, M, N, O, P, Q, V, W, Z	B:1345, B:1346, B:1347, A:1343, A:1344, A:1345, A:1346, A:1347, A:1348, B:1340, B:1341, B:1344
@@ -10,29 +10,29 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 1HZX	A, B	PLM	Palmitic acid	Lipid	Cofactor	HA, S, T	B:1322, A:1322, A:1323
 1HZX	A, B	ZN	Zinc ion	Ion	Cofactor	EA, FA, GA, O, P, Q, R	B:956, B:958, B:963, A:957, A:959, A:962, A:964
 1HZX	A, B	BNG	Nonyl glucoside	Detergent		AA, G, H, I, J, K, Z	B:1506, A:1500, A:1501, A:1503, A:1504, A:1505, B:1502
-1HZX	A, B	HG	Mercury (ii) ion	Ion		BA, CA, DA, L, M, N	B:902, B:904, B:906, A:901, A:903, A:905
+1HZX	A, B	HG	Mercury (II) ion	Ion		BA, CA, DA, L, M, N	B:902, B:904, B:906, A:901, A:903, A:905
 1L9H	A, B	PLM	Palmitic acid	Lipid	Cofactor	IA, KA, W, Y, Z	B:1407, B:1322, A:1410, A:1322, A:1323
 1L9H	A, B	ZN	Zinc ion	Ion	Cofactor	FA, GA, HA, O, P, Q, R	B:956, B:958, B:963, A:957, A:959, A:962, A:2011
 1L9H	A, B	BNG	Nonyl glucoside	Detergent		AA, BA, G, H, I, J, K	B:1502, B:1506, A:1500, A:1501, A:1503, A:1504, A:1505
-1L9H	A, B	HG	Mercury (ii) ion	Ion		CA, DA, EA, L, M, N	B:902, B:904, B:906, A:901, A:903, A:905
+1L9H	A, B	HG	Mercury (II) ion	Ion		CA, DA, EA, L, M, N	B:902, B:904, B:906, A:901, A:903, A:905
 1U19	A, B	PLM	Palmitic acid	Lipid	Cofactor	AA, CA, O, P, Q, Z	B:1323, B:1407, A:1322, A:1323, A:1410, B:1322
 1U19	A, B	ZN	Zinc ion	Ion	Cofactor	J, K, L, M, V, W, X	A:957, A:959, A:962, A:2011, B:956, B:958, B:963
-1U19	A, B	HG	Mercury (ii) ion	Ion		G, H, I, S, T, U	A:901, A:903, A:905, B:902, B:904, B:906
+1U19	A, B	HG	Mercury (II) ion	Ion		G, H, I, S, T, U	A:901, A:903, A:905, B:902, B:904, B:906
 1U19	A, B	HTG	Heptyl 1-thio-glucoside	Detergent		DA, EA, FA, R	B:1506, B:1508, B:1509, A:1507
 23SO	M, R	CLR	Cholesterol	Lipid	Cofactor	H, I, J, K, L, N, O, P, Q, R	M:501, M:502, M:503, M:504, M:505, R:501, R:502, R:503, R:504, R:505
 2G87	A, B	PLM	Palmitic acid	Lipid	Cofactor	AA, CA, O, P, Q, Z	B:1323, B:1407, A:1322, A:1323, A:1410, B:1322
 2G87	A, B	ZN	Zinc ion	Ion	Cofactor	J, K, L, M, V, W, X	A:957, A:959, A:962, A:2011, B:956, B:958, B:963
 2G87	A, B	HTG	Heptyl 1-thio-glucoside	Detergent		DA, EA, FA, R	B:1506, B:1508, B:1509, A:1507
-2G87	A, B	HG	Mercury (ii) ion	Ion		G, H, I, S, T, U	A:901, A:903, A:905, B:902, B:904, B:906
+2G87	A, B	HG	Mercury (II) ion	Ion		G, H, I, S, T, U	A:901, A:903, A:905, B:902, B:904, B:906
 2HPY	A, B	PLM	Palmitic acid	Lipid	Cofactor	AA, BA, DA, O, P, Q	B:1322, B:1323, B:1407, A:1322, A:1323, A:1410
 2HPY	A, B	ZN	Zinc ion	Ion	Cofactor	J, K, L, M, W, X, Y	A:957, A:959, A:962, A:2011, B:956, B:958, B:963
-2HPY	A, B	HG	Mercury (ii) ion	Ion		G, H, I, T, U, V	A:901, A:903, A:905, B:902, B:904, B:906
+2HPY	A, B	HG	Mercury (II) ion	Ion		G, H, I, T, U, V	A:901, A:903, A:905, B:902, B:904, B:906
 2HPY	A, B	HTG	Heptyl 1-thio-glucoside	Detergent		EA, FA, R, S	B:1506, B:1509, A:1507, A:1508
 2I36	A	PLM	Palmitic acid	Lipid	Cofactor	J	A:401
 2J4Y	A, B	NAG	D-glcnac	Other		D, F	A:1327, B:1327
 2PED	A, B	PLM	Palmitic acid	Lipid	Cofactor	AA, BA, DA, O, P, Q	B:1322, B:1323, B:1407, A:1322, A:1323, A:1410
 2PED	A, B	ZN	Zinc ion	Ion	Cofactor	J, K, L, M, W, X, Y	A:957, A:959, A:962, A:2011, B:956, B:958, B:963
-2PED	A, B	HG	Mercury (ii) ion	Ion		G, H, I, T, U, V	A:901, A:903, A:905, B:902, B:904, B:906
+2PED	A, B	HG	Mercury (II) ion	Ion		G, H, I, T, U, V	A:901, A:903, A:905, B:902, B:904, B:906
 2PED	A, B	HTG	Heptyl 1-thio-glucoside	Detergent		EA, FA, R, S	B:1506, B:1509, A:1507, A:1508
 2RH1	A	CLR	Cholesterol	Lipid	Cofactor	M, N, O	A:412, A:413, A:414
 2RH1	A	PLM	Palmitic acid	Lipid	Cofactor	P	A:415
@@ -80,7 +80,7 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 3OAX	A, B	PLM	Palmitic acid	Lipid	Cofactor	H, I, V, W	A:1322, A:1323, B:1322, B:1323
 3OAX	A, B	ZN	Zinc ion	Ion	Cofactor	AA, BA, CA, M, N, O, P	B:956, B:958, B:963, A:957, A:959, A:962, A:2011
 3OAX	A, B	4E6	(4e,6e)-hexadeca-1,4,6-triene	Other	Cofactor	EA, Q	B:1407, A:1410
-3OAX	A, B	HG	Mercury (ii) ion	Ion		J, K, L, X, Y, Z	A:901, A:903, A:905, B:902, B:904, B:906
+3OAX	A, B	HG	Mercury (II) ion	Ion		J, K, L, X, Y, Z	A:901, A:903, A:905, B:902, B:904, B:906
 3OAX	A, B	HTG	Heptyl 1-thio-glucoside	Detergent		FA, GA, R, S	B:1506, B:1509, A:1507, A:1508
 3ODU	A, B	OLA	Oleic acid	Lipid	Cofactor	G, K, L, M, N, O	A:1610, B:1605, B:1606, B:1607, B:1608, B:1609
 3ODU	A, B	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F, I, J	A:1600, A:1603, A:1604, B:1601, B:1602
@@ -148,6 +148,7 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 5DSG	A, B	OLA	Oleic acid	Lipid	Cofactor	D, E, K, N, O	A:1202, A:1203, A:1209, B:1203, B:1204
 5DSG	A	EDT	Edetic acid	Other	Cofactor	F	A:1204
 5DSG	A, B	OLC	1-oleoyl-r-glycerol	Lipid		H, I, J, M, Q	A:1206, A:1207, A:1208, B:1202, B:1206
+5DSG	B	PG6	Pentaglyme	Other	Detergent/additive	R	B:1207
 5EE7	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, H, I, J, K, L, M, N, O, P	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215
 5EE7	A	PE5	Polyethylene glycol peg400	Other	Cofactor	Q	A:1216
 5EN0	A	ACT	Acetate ion	Other	Cofactor	E, F	A:402, A:403
@@ -241,6 +242,7 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 6O3C	A	OLB	(2s)-2,3-dihydroxypropyl (9z)-octadec-9-enoate	Lipid		E, F, G, H, I, J	A:603, A:604, A:605, A:606, A:607, A:608
 6OIJ	R	Y01	Cholesterol hemisuccinate	Lipid		G, H	R:502, R:503
 6PB0	R	PLM	Palmitic acid	Lipid	Cofactor	K, M, N, O, P, Q, R	R:405, R:407, R:408, R:409, R:410, R:411, R:412
+6PB0	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:401, R:402, R:403
 6PEL	A	PLM	Palmitic acid	Lipid	Cofactor	F	A:407
 6PEL	A	BOG	Octyl glucoside	Detergent		E	A:406
 6PGS	A	PLM	Palmitic acid	Lipid	Cofactor	E	A:402
@@ -277,7 +279,6 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 6WH4	A, C	CLR	Cholesterol	Lipid	Cofactor	G, M	A:1204, C:1202
 6WH4	A, B, C	OLA	Oleic acid	Lipid	Cofactor	E, F, K, Q	A:1202, A:1203, B:1203, C:1206
 6WH4	C	NDS	Ethyl dimethyl ammonio propane sulfonate	Other	Cofactor	P	C:1205
-6WIV	A	U3G	(2r)-3-{[(s)-(2-aminoethoxy)(hydroxy)phosphoryl]oxy}-2-{[(9z)-octadec-9-enoyl]oxy}propyl (5z,8z,11z,14z)-icosa-5,8,11,14-tetraenoate	Lipid	Cofactor	G	A:905
 6WIV	A, B	CLR	Cholesterol	Lipid	Cofactor	H, I, J, K, N, O, P, Q, R, S	A:906, A:907, A:908, A:909, B:903, B:904, B:905, B:906, B:907, B:908
 6WIV	A, B	NAG	D-glcnac	Other		C, D, E, L	A:901, A:902, A:903, B:901
 6YVR	AAA, BBB	BNG	Nonyl glucoside	Detergent		E, F, G, H, I, J, K, L	AAA:4001, AAA:4002, AAA:4003, BBB:4001, BBB:4002, BBB:4003, BBB:4004, BBB:4005
@@ -301,17 +302,22 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 7D77	R	Y01	Cholesterol hemisuccinate	Lipid		G	R:601
 7DD5	A, B	NAG	D-glcnac	Other		K, L, M, T, U, V	A:1105, A:1106, A:1107, B:1104, B:1105, B:1106
 7DD5	A, B	CL	Chloride ion	Ion		G, Q	A:1101, B:1101
+7DD5	A, B	CA	Calcium ion	Ion	Stabilizing	I, J, R, S	A:1103, A:1104, B:1102, B:1103
 7DD6	A, B	NAG	D-glcnac	Other		K, L, M, S, T, U	A:1105, A:1106, A:1107, B:1105, B:1106, B:1107
 7DD6	A, B	CL	Chloride ion	Ion		G, O	A:1101, B:1101
+7DD6	A, B	CA	Calcium ion	Ion	Stabilizing	I, J, Q, R	A:1103, A:1104, B:1103, B:1104
 7DD7	A, B	CL	Chloride ion	Ion		G, P	A:1101, B:1102
 7DD7	A, B	NAG	D-glcnac	Other		J, K, L, T, U, V	A:1104, A:1105, A:1106, B:1106, B:1107, B:1108
+7DD7	A, B	CA	Calcium ion	Ion	Stabilizing	H, I, R, S	A:1102, A:1103, B:1104, B:1105
 7DTT	A, B	NAG	D-glcnac	Other		I, J, K, L, O, P, Q, R	A:1103, A:1104, A:1105, A:1106, B:1103, B:1104, B:1105, B:1106
+7DTT	A, B	CA	Calcium ion	Ion	Stabilizing	G, M	A:1101, B:1101
 7DTY	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:601, R:602, R:603, R:604, R:605, R:606
 7E14	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K	R:502, R:503, R:504, R:505, R:506
 7E2X	R	PLM	Palmitic acid	Lipid	Cofactor	J, Q, R	R:606, R:613, R:614
 7E2Y	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J	R:503, R:504, R:505, R:506
 7E2Z	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H	R:502, R:503, R:504
 7E6T	A, B	NAG	D-glcnac	Other		G, H, N, O	B:905, B:906, A:905, A:906
+7E6T	A, B	CA	Calcium ion	Ion	Stabilizing	M, F	A:904, B:904
 7F16	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J	R:501, R:502, R:503, R:504
 7F16	R	PLM	Palmitic acid	Lipid		K, L, M, N, O, P	R:505, R:506, R:507, R:508, R:509, R:510
 7F1T	A	ZN	Zinc ion	Ion	Cofactor	B	A:1101
@@ -367,6 +373,8 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 7SHF	A	PEE	Phosphatidylethanolamine	Other	Cofactor	BA	A:814
 7SIM	A, B	CLR	Cholesterol	Lipid	Cofactor	AA, BA, N, O, P, Q, R, Z	B:909, B:910, A:908, A:909, A:910, A:911, A:912, B:908
 7SIM	A, B	NAG	D-glcnac	Other		G, S	A:901, B:901
+7SIM	A, B	CA	Calcium ion	Ion	Activation-linked	J, V	A:904, B:904
+7SIM	A, B	CA	Calcium ion	Ion	Stabilizing	K, L, W, X	A:905, A:906, B:905, B:906
 7SR8	R	OLA	Oleic acid	Lipid	Cofactor	G, H, I, J	R:502, R:503, R:504, R:505
 7T6T	R	PLM	Palmitic acid	Lipid	Cofactor	F, G	R:401, R:402
 7T6U	R	PLM	Palmitic acid	Lipid	Cofactor	G, H	R:401, R:402
@@ -457,15 +465,19 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 8RWI	A	OLA	Oleic acid	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V	A:1205, A:1206, A:1207, A:1208, A:1209, A:1210, A:1211, A:1212, A:1213, A:1214, A:1215, A:1216, A:1217, A:1218, A:1219, A:1220, A:1221
 8S4D	A	OLA	Oleic acid	Lipid	Cofactor	C, D, E, F, G, H	A:1202, A:1203, A:1204, A:1205, A:1206, A:1207
 8SZF	A, B	NAG	D-glcnac	Other		F, G, N, O, T	A:1201, A:1202, B:1001, B:1002, B:1007
+8SZF	A, B	CA	Calcium ion	Ion	Activation-linked	I, Q	A:1204, B:1004
 8SZG	B	CLR	Cholesterol	Lipid	Cofactor	T	B:1401
 8SZG	A	PCW	1,2-dioleoyl-sn-glycero-3-phosphocholine	Lipid	Cofactor	L	A:1204
 8SZG	A, B	NAG	D-glcnac	Other		J, K, U, V	A:1202, A:1203, B:1402, B:1403
+8SZG	A	CA	Calcium ion	Ion	Activation-linked	N	A:1206
 8SZH	A, B	PCW	1,2-dioleoyl-sn-glycero-3-phosphocholine	Lipid	Cofactor	J, T	A:902, B:1403
 8SZH	B	CLR	Cholesterol	Lipid	Cofactor	R	B:1401
 8SZH	A, B	NAG	D-glcnac	Other		K, U, V	A:903, B:1404, B:1405
+8SZH	A, B	CA	Calcium ion	Ion	Activation-linked	L, W	A:904, B:1406
 8SZI	B	CLR	Cholesterol	Lipid	Cofactor	P	B:1401
 8SZI	A, B	PCW	1,2-dioleoyl-sn-glycero-3-phosphocholine	Lipid	Cofactor	I, Q	A:1001, B:1402
 8SZI	A, B	NAG	D-glcnac	Other		J, R, S	A:1002, B:1403, B:1404
+8SZI	A, B	CA	Calcium ion	Ion	Activation-linked	K, T	A:1003, B:1405
 8T3O	R	PLM	Palmitic acid	Lipid	Cofactor	H	R:403
 8T3O	R	2Y5	Phosphatidylinositol-4-phosphate	Other	Cofactor	G	R:402
 8T3S	R	CLR	Cholesterol	Lipid	Cofactor	G	R:302
@@ -474,15 +486,19 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 8TF5	A	CLR	Cholesterol	Lipid	Cofactor	U	A:1220
 8TF5	A	P15	2,5,8,11,14,17-hexaoxanonadecan-19-ol	Other	Cofactor	D, F	A:1203, A:1205
 8TF5	A	OLC	1-oleoyl-r-glycerol	Lipid		B, C, L, M, O	A:1201, A:1202, A:1211, A:1212, A:1214
+8TF5	A	OLA	Oleic acid	Lipid	Cofactor	E, G, H, I, J, P, Q, R, S, T	A:1204, A:1206, A:1207, A:1208, A:1209, A:1215, A:1216, A:1217, A:1218, A:1219
 8TH3	A	Y01	Cholesterol hemisuccinate	Lipid		E, F	A:1401, A:1402
 8U4S	C, G, R	CLR	Cholesterol	Lipid	Cofactor	J, L, M, O, P, R	R:701, R:703, C:701, C:703, G:701, G:703
 8U4S	C, G, R	D21	(2r)-1-(hexadecanoyloxy)-3-(phosphonooxy)propan-2-yl (9z)-octadec-9-enoate	Other	Cofactor	K, N, Q	R:702, C:702, G:702
+8VTI	A	NAG	D-glcnac	Other		F	A:901
 8W1V	B	AV0	Lauryl maltose neopentyl glycol	Detergent		G	B:1202
 8WJX	R	CLR	Cholesterol	Lipid	Cofactor	G	R:602
 8WM9	A, B	Y01	Cholesterol hemisuccinate	Lipid		D, E, F, G, H, I, J, K, L, M	A:601, A:602, A:603, A:604, A:605, B:601, B:602, B:603, B:604, B:605
 8WPG	A, B	NAG	D-glcnac	Other		G, H, I, P, Q	B:901, B:902, B:903, A:901, A:902
+8WPG	A, B	CA	Calcium ion	Ion	Activation-linked	S, K	A:904, B:905
 8WPU	B	CLR	Cholesterol	Lipid	Cofactor	R	B:1110
 8WPU	A, B	NAG	D-glcnac	Other		I, J, K, L, T, U, V, W, X	B:1101, B:1102, B:1103, B:1104, A:1102, A:1103, A:1104, A:1105, A:1106
+8WPU	A, B	CA	Calcium ion	Ion	Activation-linked	Z, O	A:1108, B:1107
 8WRB	R	CLR	Cholesterol	Lipid	Cofactor	F	R:601
 8WW2	R	PLM	Palmitic acid	Lipid	Cofactor	H	R:603
 8WW2	R	Y01	Cholesterol hemisuccinate	Lipid		G	R:602
@@ -505,20 +521,27 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 9ASB	R	A1AF7	(19r,22s,25r)-22,25,26-trihydroxy-16,22-dioxo-17,21,23-trioxa-22lambda~5~-phosphahexacosan-19-yl (9z)-octadec-9-enoate	Other	Cofactor	CA	R:1009
 9ASB	Q, R	NAG	D-glcnac	Other		J, K, L, U, V, W	Q:1001, Q:1002, Q:1003, R:1001, R:1002, R:1003
 9ASB	Q	Y01	Cholesterol hemisuccinate	Lipid		T	Q:1011
+9ASB	Q, R	CA	Calcium ion	Ion	Stabilizing	O, P, Z, AA	Q:1006, Q:1007, R:1006, R:1007
 9AU0	R	NAG	D-glcnac	Other		G	R:402
 9AU0	R	Y01	Cholesterol hemisuccinate	Lipid		H	R:403
 9AVG	R	A1AF7	(19r,22s,25r)-22,25,26-trihydroxy-16,22-dioxo-17,21,23-trioxa-22lambda~5~-phosphahexacosan-19-yl (9z)-octadec-9-enoate	Other	Cofactor	BA	R:1009
 9AVG	Q, R	NAG	D-glcnac	Other		J, K, L, T, U	Q:1001, Q:1002, Q:1003, R:1001, R:1002
 9AVG	Q	Y01	Cholesterol hemisuccinate	Lipid		S	Q:1010
+9AVG	Q, R	CA	Calcium ion	Ion	Stabilizing	O, P, X, Y	Q:1006, Q:1007, R:1005, R:1006
 9AVL	R	A1AF7	(19r,22s,25r)-22,25,26-trihydroxy-16,22-dioxo-17,21,23-trioxa-22lambda~5~-phosphahexacosan-19-yl (9z)-octadec-9-enoate	Other	Cofactor	AA	R:1010
 9AVL	Q, R	NAG	D-glcnac	Other		J, R, S, T	Q:1001, R:1001, R:1002, R:1003
 9AVL	Q	Y01	Cholesterol hemisuccinate	Lipid		Q	Q:1008
+9AVL	Q, R	CA	Calcium ion	Ion	Stabilizing	M, N, W, X	Q:1004, Q:1005, R:1006, R:1007
 9AXF	Q, R	CLR	Cholesterol	Lipid	Cofactor	AA, BA, OA, PA, QA, RA, SA, Z	R:1016, R:1017, Q:1013, Q:1014, Q:1015, Q:1016, Q:1017, R:1015
 9AXF	Q, R	NAG	D-glcnac	Other		CA, DA, EA, FA, L, M, N, O	Q:1001, Q:1002, Q:1003, Q:1004, R:1001, R:1002, R:1003, R:1004
 9AXF	R	AV0	Lauryl maltose neopentyl glycol	Detergent		V	R:1011
 9AXF	Q, R	Y01	Cholesterol hemisuccinate	Lipid		NA, W, X, Y	Q:1012, R:1012, R:1013, R:1014
+9AXF	Q	CA	Calcium ion	Ion	Activation-linked	IA	Q:1007
+9AXF	Q, R	CA	Calcium ion	Ion	Stabilizing	JA, KA, R, S	Q:1008, Q:1009, R:1007, R:1008
 9AYF	Q, R	NAG	D-glcnac	Other		K, L, M, U, V, W	Q:1001, Q:1002, Q:1003, R:1001, R:1002, R:1003
 9AYF	R	AV0	Lauryl maltose neopentyl glycol	Detergent		DA	R:1010
+9AYF	Q, R	CA	Calcium ion	Ion	Activation-linked	P, Z	Q:1006, R:1006
+9AYF	Q, R	CA	Calcium ion	Ion	Stabilizing	Q, R, AA, BA	Q:1007, Q:1008, R:1007, R:1008
 9BI6	R	Y01	Cholesterol hemisuccinate	Lipid		F	R:1000
 9BP3	P	A1B90	Icosanedioic acid	Other	Cofactor	H	P:101
 9BP3	R	P42	1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine	Other	Cofactor	L	R:504
@@ -528,6 +551,8 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 9BUB	P	A1B90	Icosanedioic acid	Other	Cofactor	G	P:101
 9BUB	R	P42	1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine	Other	Cofactor	H	R:501
 9C1P	A, B	NAG	D-glcnac	Other		C, L, M, N, O, V	A:1001, A:1010, A:1011, B:1001, B:1002, B:1009
+9C1P	A, B	CA	Calcium ion	Ion	Activation-linked	D, Q	A:1002, B:1004
+9C1P	A, B	CA	Calcium ion	Ion	Stabilizing	F, G, R, S	A:1004, A:1005, B:1005, B:1006
 9CLW	R	PLM	Palmitic acid	Lipid	Cofactor	I	R:504
 9CLW	R	CLR	Cholesterol	Lipid	Cofactor	H	R:503
 9CM3	R	CLR	Cholesterol	Lipid	Cofactor	H	R:503
@@ -541,6 +566,7 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 9EPO	A, D	PLM	Palmitic acid	Lipid	Cofactor	D, H	A:702, D:703
 9EPO	A, D	Y01	Cholesterol hemisuccinate	Lipid		C, E, F, G	A:701, A:703, D:701, D:702
 9GE2	R	CLR	Cholesterol	Lipid	Cofactor	H	R:402
+9GG5	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I	R:402, R:403, R:404, R:405
 9GGG	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J	R:402, R:403, R:404, R:405
 9GL2	R	CLR	Cholesterol	Lipid	Cofactor	E	R:501
 9GYO	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:402, R:403, R:404
@@ -553,20 +579,22 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 9JCL	R	CLR	Cholesterol	Lipid	Cofactor	G	R:602
 9JCO	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:401, R:402
 9JCP	R	CLR	Cholesterol	Lipid	Cofactor	F	R:401
+9JCP	R	A1L35	Lysophosphatidylcholine (LPC)	Lipid	Cofactor	G	R:402
 9JFK	R	CHO	Glycochenodeoxycholic acid	Other	Cofactor	G, H	R:401, R:402
 9JH5	R	CLR	Cholesterol	Lipid	Cofactor	H, I	R:402, R:403
 9JMC	R	CLR	Cholesterol	Lipid	Cofactor	F	R:501
 9JMD	R	CLR	Cholesterol	Lipid	Cofactor	F, G	R:501, R:502
+9K1D	R	CLR	Cholesterol	Lipid	Cofactor	H, I, J	R:404, R:405, R:406
 9KB8	A	NAG	D-glcnac	Other		E, F, G, H	A:1001, A:1002, A:1003, A:1004
 9KB9	A, D	NAG	D-glcnac	Other		G, H, I, J	A:1001, A:1002, D:1001, D:1002
 9KDF	F	FK5	Tacro	Other	Cofactor	J	F:2001
 9KDF	R	CA	Calcium ion	Ion	Cofactor	D, E, F, G	R:1501, R:1502, R:1503, R:1504
 9KDF	R	ZN	Zinc ion	Ion	Cofactor	I	R:1506
-9KDF	R	FE	Fe (iii) ion	Ion		H	R:1505
+9KDF	R	FE	Fe (III) ion	Ion		H	R:1505
 9KDG	F	FK5	Tacro	Other	Cofactor	I	F:1201
 9KDG	A	CA	Calcium ion	Ion	Cofactor	C, D, E, F	A:1701, A:1702, A:1703, A:1704
 9KDG	A	ZN	Zinc ion	Ion	Cofactor	H	A:1706
-9KDG	A	FE	Fe (iii) ion	Ion		G	A:1705
+9KDG	A	FE	Fe (III) ion	Ion		G	A:1705
 9KUV	R	CLR	Cholesterol	Lipid	Cofactor	D	R:402
 9KUW	Q, R	CLR	Cholesterol	Lipid	Cofactor	F, G	Q:402, R:401
 9L42	A	CLR	Cholesterol	Lipid	Cofactor	F	A:401
@@ -894,7 +922,7 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 5XR8	A	CLR	Cholesterol	Lipid	Cofactor	D	A:1203
 5XR8	A	FMN	Flavin mononucleotide	Other		B	A:1201
 5XSZ	A	OLC	1-oleoyl-r-glycerol	Lipid		B, C, D	A:1201, A:1202, A:1203
-5YC8	A	HG	Mercury (ii) ion	Ion		C, D, E	A:502, A:503, A:504
+5YC8	A	HG	Mercury (II) ion	Ion		C, D, E	A:502, A:503, A:504
 5YQZ	R	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I, J	R:1205, R:1206, R:1207, R:1208, R:1209, R:1210
 5ZKP	A	FMN	Flavin mononucleotide	Other		C	A:1202
 5ZTY	A	OLA	Oleic acid	Lipid	Cofactor	C	A:1202
@@ -1038,7 +1066,7 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 6MXT	A	MG	Magnesium ion	Ion	Cofactor	D	A:1402
 6MXT	A	OLA	Oleic acid	Lipid	Cofactor	H	A:1406
 6MXT	A	P33	Peg330	Other	Cofactor	I	A:1407
-6MXT	A, N	NI	Nickel (ii) ion	Ion		E, J, K	A:1403, N:201, N:202
+6MXT	A, N	NI	Nickel (II) ion	Ion		E, J, K	A:1403, N:201, N:202
 6MXT	A	OLC	1-oleoyl-r-glycerol	Lipid		F	A:1404
 6N48	A	1WV	(2s)-2,3-dihydroxypropyl (7z)-tetradec-7-enoate	Other	Cofactor	D	A:1402
 6N4B	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:502, R:503
@@ -1058,6 +1086,7 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 6OS2	A	OLC	1-oleoyl-r-glycerol	Lipid		E, F, G, H, I, J	A:1402, A:1403, A:1404, A:1405, A:1406, A:1407
 6OS2	A	NAG	D-glcnac	Other		D	A:1401
 6PB1	P	PLM	Palmitic acid	Lipid	Cofactor	K, L, M, N, O	P:405, P:406, P:407, P:408, P:409
+6PB1	P	CLR	Cholesterol	Lipid	Cofactor	G, H	P:401, P:402
 6PRZ	A	CLR	Cholesterol	Lipid	Cofactor	C	A:1202
 6PRZ	A	OLA	Oleic acid	Lipid	Cofactor	G, H	A:1206, A:1207
 6PRZ	A	OLC	1-oleoyl-r-glycerol	Lipid		D, E, F	A:1203, A:1204, A:1205
@@ -1134,7 +1163,7 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 6VJM	A, B	NAG	D-glcnac	Other		G, H	A:1006, B:1002
 6VN7	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:601, R:602, R:603, R:604, R:605, R:606
 6VN7	R	PLM	Palmitic acid	Lipid	Cofactor	M, N, O, P	R:607, R:608, R:609, R:610
-6W25	A	CA	Calcium ion	Ion	Cofactor	C	A:2101
+6W25	A	CA	Calcium ion	Ion	Stabilizing	C	A:2101
 6W25	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I, J, K	A:2102, A:2103, A:2104, A:2105, A:2106, A:2107, A:2108, A:2109
 6W2X	A, B	L9Q	1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine	Lipid	Cofactor	G, J	A:905, B:1003
 6W2X	A	MG	Magnesium ion	Ion	Cofactor	I	A:907
@@ -1186,6 +1215,7 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 7DDZ	A	FMN	Flavin mononucleotide	Other		C	A:1202
 7DTU	A, B	NAG	D-glcnac	Other		H, I, J, L, M, N	A:1102, A:1103, A:1104, B:1102, B:1103, B:1104
 7DTV	A, B	NAG	D-glcnac	Other		J, K, L, M, Q, R, S, T	A:1104, A:1105, A:1106, A:1107, B:1103, B:1104, B:1105, B:1106
+7DTV	A, B	CA	Calcium ion	Ion	Stabilizing	H, P	A:1102, B:1102
 7DTW	A, B	NAG	D-glcnac	Other		G, H, I, J, K, L	A:1101, A:1102, A:1103, B:1101, B:1102, B:1103
 7DUQ	R	CLR	Cholesterol	Lipid	Cofactor	H, I, J, K, L, M, N	R:502, R:503, R:504, R:505, R:506, R:507, R:508
 7DUR	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L	R:702, R:703, R:704, R:705, R:706, R:707
@@ -1206,9 +1236,6 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 7F1Z	A	GDP	Guanosine-5'-diphosphate	Other	Cofactor	F	A:401
 7F23	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	G	A:401
 7F24	A	GTP	Guanosine-5'-triphosphate	Other	Cofactor	E	A:401
-7F54	R	CA	Calcium ion	Ion	Cofactor	G	R:601
-7F55	R	CA	Calcium ion	Ion	Cofactor	G	R:601
-7F58	R	CA	Calcium ion	Ion	Cofactor	G	R:602
 7F6I	A	CLR	Cholesterol	Lipid	Cofactor	F, G, H	A:501, A:502, A:503
 7FD8	A, B	Y01	Cholesterol hemisuccinate	Lipid		E, H	A:903, B:903
 7FD8	A, B	NAG	D-glcnac	Other		C, F	A:901, B:901
@@ -1556,8 +1583,11 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 7K15	A	FMN	Flavin mononucleotide	Other		D	A:2103
 7K15	A	OLC	1-oleoyl-r-glycerol	Lipid		F, G	A:2105, A:2106
 7M3E	A, B	NAG	D-glcnac	Other		E, F, G, H, O, P, Q, R, S	A:902, A:903, A:904, A:905, B:902, B:903, B:904, B:905, B:906
+7M3E	A, B	CA	Calcium ion	Ion	Activation-linked	J, U	A:907, B:908
 7M3F	A, B	NAG	D-glcnac	Other		F, G, H, I, P, Q, R, S, T	A:901, A:902, A:903, A:904, B:901, B:902, B:903, B:904, B:905
+7M3F	A, B	CA	Calcium ion	Ion	Activation-linked	L, W	A:907, B:908
 7M3G	A, B	NAG	D-glcnac	Other		K, L, M, T, U	A:902, A:903, A:904, B:902, B:903
+7M3G	A, B	CA	Calcium ion	Ion	Activation-linked	O, W	A:906, B:905
 7M3J	A, B	NAG	D-glcnac	Other		E, F, G, J, K	A:902, A:903, A:904, B:902, B:903
 7M8W	A	NA	Sodium ion	Ion	Cofactor	C	A:2402
 7M8W	A	FLC	Citrate anion	Other	Cofactor	D	A:2403
@@ -1571,8 +1601,6 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 7MTS	A, B	NAG	D-glcnac	Other		H, J	A:903, B:902
 7NA7	R	CLR	Cholesterol	Lipid	Cofactor	G, H	R:401, R:402
 7P02	R	CLR	Cholesterol	Lipid	Cofactor	G	R:401
-7PIU	R	CA	Calcium ion	Ion	Cofactor	G	R:401
-7PIV	R	CA	Calcium ion	Ion	Cofactor	G	R:401
 7PP1	AAA	CLR	Cholesterol	Lipid	Cofactor	C	AAA:1202
 7PX4	A	CLR	Cholesterol	Lipid	Cofactor	B, C, D	A:2401, A:2402, A:2403
 7PX4	A	OLA	Oleic acid	Lipid	Cofactor	AA, BA, CA, DA, EA, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:2426, A:2427, A:2428, A:2429, A:2430, A:2405, A:2406, A:2407, A:2408, A:2409, A:2410, A:2411, A:2412, A:2413, A:2414, A:2415, A:2416, A:2417, A:2418, A:2419, A:2420, A:2421, A:2422, A:2423, A:2424, A:2425
@@ -1584,6 +1612,8 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 7RM5	A	NA	Sodium ion	Ion	Cofactor	G	A:1206
 7SIL	A, B	CLR	Cholesterol	Lipid	Cofactor	EA, FA, GA, HA, Q, R, S, T	B:911, B:912, B:913, B:914, A:911, A:912, A:913, A:914
 7SIL	A, B	NAG	D-glcnac	Other		G, H, I, U, V, W	A:901, A:902, A:903, B:901, B:902, B:903
+7SIL	A, B	CA	Calcium ion	Ion	Activation-linked	L, Z	A:906, B:906
+7SIL	A, B	CA	Calcium ion	Ion	Stabilizing	M, N, AA, BA	A:907, A:908, B:907, B:908
 7SK3	A	CLR	Cholesterol	Lipid	Cofactor	G, H, I, J, K, L, M, N	A:601, A:602, A:603, A:604, A:605, A:606, A:607, A:608
 7SK4	A	CLR	Cholesterol	Lipid	Cofactor	G, H	A:401, A:402
 7SK5	A, F	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, J, K, L	A:401, A:402, A:403, A:404, A:405, A:406, F:301
@@ -1814,7 +1844,6 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 8IHH	R	NAG	D-glcnac	Other		F	R:601
 8IHI	R	NAG	D-glcnac	Other		F	R:601
 8IKJ	R	NAG	D-glcnac	Other		B, C, D	R:901, R:902, R:903
-8IOD	R	CA	Calcium ion	Ion	Cofactor	G	R:501
 8IRR	R	CLR	Cholesterol	Lipid	Cofactor	G, H, I	R:502, R:503, R:504
 8IRV	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, J, K, L, M, N, O	R:502, R:503, R:504, R:505, R:506, R:507, R:508, R:509, R:510, R:511
 8IRV	R	PLM	Palmitic acid	Lipid	Cofactor	P	R:512
@@ -1948,11 +1977,9 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 8W88	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H	R:401, R:402, R:403
 8W8B	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H, I, J	R:501, R:502, R:503, R:504, R:505
 8W8B	R	PLM	Palmitic acid	Lipid	Cofactor	K	R:506
-8W8W	R	CA	Calcium ion	Ion	Cofactor	G	R:501
-8W8Y	R	CA	Calcium ion	Ion	Cofactor	G	R:501
-8WKY	A	CA	Calcium ion	Ion	Cofactor	C	A:2101
+8WKY	A	CA	Calcium ion	Ion	Stabilizing	C	A:2101
 8WKY	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H, I	A:2102, A:2103, A:2104, A:2105, A:2106, A:2107
-8WKZ	A	CA	Calcium ion	Ion	Cofactor	C	A:2101
+8WKZ	A	CA	Calcium ion	Ion	Stabilizing	C	A:2101
 8WKZ	A	OLA	Oleic acid	Lipid	Cofactor	D, E, F, G, H	A:2102, A:2103, A:2104, A:2105, A:2106
 8X0B	A, B	NAG	D-glcnac	Other		C, F	A:901, B:901
 8X0C	A, B	NAG	D-glcnac	Other		C, F	A:901, B:901
@@ -1996,6 +2023,8 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 9BUD	P	A1B90	Icosanedioic acid	Other	Cofactor	G	P:101
 9BUY	R	CLR	Cholesterol	Lipid	Cofactor	F, G, H	R:501, R:502, R:503
 9C2F	A, B	NAG	D-glcnac	Other		D, K, L, N, O	A:1001, A:1008, A:1009, B:1002, B:1003
+9C2F	A, B	CA	Calcium ion	Ion	Activation-linked	E, Q	A:1002, B:1005
+9C2F	A, B	CA	Calcium ion	Ion	Stabilizing	F, G, S, T	A:1003, A:1004, B:1007, B:1008
 9CHU	C	FK5	Tacro	Other	Cofactor	E	C:201
 9CHV	C	FK5	Tacro	Other	Cofactor	D	C:201
 9CHX	C	FK5	Tacro	Other	Cofactor	E	C:201
@@ -2029,6 +2058,7 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 9IMA	A, B	CLR	Cholesterol	Lipid	Cofactor	E, F, G, H, I, J	B:401, B:402, B:403, A:401, A:402, A:403
 9IXJ	R	CLR	Cholesterol	Lipid	Cofactor	G	R:402
 9JCQ	D	CLR	Cholesterol	Lipid	Cofactor	H, I	D:1003, D:1004
+9JCQ	D	A1L35	Lysophosphatidylcholine (LPC)	Lipid	Cofactor	F	D:1001
 9KB6	A	NAG	D-glcnac	Other		B, C, D, E	A:1001, A:1002, A:1003, A:1004
 9KVG	R	CHO	Glycochenodeoxycholic acid	Other	Cofactor	G	R:502
 9KVG	R	Y01	Cholesterol hemisuccinate	Lipid		H	R:503
@@ -2137,3 +2167,13 @@ PDB	ChainID	Name	Title	Type	Function	label_asym_id	Residue_seq_id
 9WQO	X, Y	CL	Chloride ion	Ion		H, N	X:2006, Y:2006
 9XB1	A, B	CLR	Cholesterol	Lipid	Cofactor	C, D	A:501, B:501
 9ZZO	C	PIO	Dioctanoyl l-alpha-phosphatidyl-d-myo-inositol 4,5-diphosphate	Other	Cofactor	F	C:401
+22WT	R	NAG	2-acetamido-2-deoxy-beta-d-glucopyranose	Other		B	R:501
+9Q3L	A, B	LFA	Eicosane	Other	Cofactor	D, H	A:502, B:502
+9Q3L	A, B	C14	Tetradecane	Other	Cofactor	C, G	A:501, B:501
+9VOS	A, B	CLR	Cholesterol	Lipid	Cofactor	AA, BA, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z	A:809, A:810, B:801, B:802, B:803, B:804, B:805, B:806, B:807, B:808, B:809, B:810, B:811, B:812, A:801, A:802, A:803, A:804, A:805, A:806, A:807, A:808
+9VOS	A	PEE	1,2-dioleoyl-sn-glycero-3-phosphoethanolamine	Other	Cofactor	CA	A:811
+9VOS	A	PII	2-[(hydroxy{[(2r,3r,5s,6r)-2,3,4,5,6-pentahydroxycyclohexyl]oxy}phosphoryl)oxy]-1-[(palmitoyloxy)methyl]ethyl heptadecanoate	Other	Cofactor	DA	A:812
+9WNG	R	NAG	2-acetamido-2-deoxy-beta-d-glucopyranose	Other		D	R:501
+9ZXC	A	Y01	Cholesterol hemisuccinate	Lipid		D, E	A:1500, A:1501
+9ZXD	A	Y01	Cholesterol hemisuccinate	Lipid		D	A:1401
+8KIG	R	CA	Calcium ion	Ion	Stabilizing	C	R:401
