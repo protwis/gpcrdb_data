@@ -62,7 +62,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 5DHG	A, B	DGV	25001412	Antagonist	C-35	small-molecule	2015-10-21		C, G	c1ccc(cc1)CN2CCC[C@@H]2C(=O)NCCCN3CCC(CC3)c4c(cccc4Cl)Cl	UWHDLFOAIARROU-XMMPIXPASA-N		false	orthosteric	A:1201, B:1501	
 5DHH	A, B	DGW	10047612	Antagonist	SB-612111	small-molecule	2015-10-21		H, K	Cc1cccc2c1CC[C@@H](C[C@@H]2O)CN3CCC(CC3)c4c(cccc4Cl)Cl	OHRDCQFCAWLDBP-SBUREZEXSA-N		false	orthosteric	A:1206, B:1503	
 5DSG	A, B	0HK	5487429	Inverse agonist	Tiotropium	small-molecule	2016-03-16		C, L	C[N+]1([C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)C(c4cccs4)(c5cccs5)O)C	LERNTVKEWCAPOY-DZZGSBJMSA-N		false	orthosteric	A:1201, B:1201	
-5DSG	B	PG6	70931	NAM	PEG 300 (modelled as pentaglyme)	small-molecule	2016-03-16		R	COCCOCCOCCOCCOCCOC	DMDPGPKXQDIQQG-UHFFFAOYSA-N		false	extracellular_vestibule	B:1207	
+5DSG	A, B	P6G	17472	NAM	Hexaethylene glycol	small-molecule	2016-03-16		G, P	C(COCCOCCOCCOCCOCCO)O	IIRDTKBZINWQAW-UHFFFAOYSA-N		false	extracellular_vestibule	A:1205, B:1205	
 5EE7	A	5MV	11570626	Allosteric antagonist	MK-0893	small-molecule	2016-04-20		B	C[C@@H](c1ccc(cc1)C(=O)NCCC(=O)O)n2c(cc(n2)c3cc(cc(c3)Cl)Cl)c4ccc5cc(ccc5c4)OC	DNTVJEMGHBIUMW-IBGZPJMESA-N		false	allosteric_7tm	A:1201	
 5EN0	A	RET	638015	Agonist	all-trans Retinal	small-molecule	2016-08-10		D	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=O)/C)/C	NCYCYZXNIZJOKI-OVSJKPMPSA-N		false	orthosteric	A:401	
 5F8U	A, B	P32	46937143	Antagonist	Cyanopindolol	small-molecule	2015-12-23		C, D	CC(C)(C)NC[C@@H](COc1cccc2c1CC(=N2)C#N)O	CQEFAUFOQSCRMZ-LBPRGKRZSA-N		false	orthosteric	B:400, A:400	
@@ -120,7 +120,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 6OY9	R	RET	638015	Agonist	all-trans-Retinal	small-molecule	2019-07-24		E	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=O)/C)/C	NCYCYZXNIZJOKI-OVSJKPMPSA-N		false	orthosteric	R:401	
 6OYA	R	RET	638015	Agonist	Retinal	small-molecule	2019-07-24		F	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=O)/C)/C	NCYCYZXNIZJOKI-OVSJKPMPSA-N		false	orthosteric	R:401	
 6PB0	U	pep	44321641	Agonist	Urocortin 1	peptide	2020-02-12			CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](C(C)C)C(=O)N)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC2=CNC=N2)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H]4CCCN4C(=O)[C@H](CC(=O)N)NC(=O)[C@H](CC(=O)O)N	BIIOOWPFSOAZSO-PSXOHVDKSA-N	DNPSLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV	unknown	orthosteric		PEPTIDE1{D.N.[dP].S.L.S.I.D.L.T.F.H.L.L.R.T.L.L.E.L.A.R.T.Q.S.Q.R.E.R.A.E.Q.N.R.I.I.F.D.S.V.[am]}$$$$
-6PB0	R	CLR	5997	Cofactor	CHOLESTEROL	lipid	2020-02-12		G, H, I, J, L	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	membrane_facing	R:401, R:402, R:403, R:404, R:406	
+6PB0	R	CLR	5997	PAM	CHOLESTEROL	lipid	2020-02-12		J	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	membrane_facing	R:404	
+6PB0	R	CLR	5997	PAM	CHOLESTEROL	lipid	2020-02-12		L	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	membrane_facing	R:406	
 6PEL	A	ODM	101977	Agonist	Citronellol	small-molecule	2020-06-24		D	C[C@H](CCC=C(C)C)CCO	QMVPMAAFGQKVCJ-SNVBAGLBSA-N		false	orthosteric	A:401	
 6PGS	A	64Z	637566	Agonist	Geraniol	small-molecule	2020-07-01		F	CC(=CCC/C(=C/CO)/C)C	GLZPCOQZEFWAFX-JXMROGBWSA-N		false	orthosteric	A:403	
 6PH7	A	NZZ	643820	Agonist	nerol	small-molecule	2020-07-01		F	CC(=CCC/C(=C\CO)/C)C	GLZPCOQZEFWAFX-YFHOEESVSA-N		false	orthosteric	A:407	
@@ -134,8 +135,10 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 6TP6	A, B	NT5	25128145	Antagonist	Filorexant	small-molecule	2020-01-01		C, N	Cc1ccc(c(c1)C(=O)N2C[C@@H](CC[C@H]2C)COc3ccc(cn3)F)c4ncccn4	NPFDWHQSDBWQLH-QZTJIDSGSA-N		false	orthosteric	A:401, B:401	
 6TPJ	A, B	SUV	24965990	Antagonist	Suvorexant	small-molecule	2020-01-01		D, T	Cc1ccc(c(c1)C(=O)N2CCN(CC[C@H]2C)c3nc4cc(ccc4o3)Cl)n5nccn5	JYTNQNCOQXFQPK-MRXNPFEDSA-N		false	orthosteric	A:1202, B:2101	
 6TQ4	A, B	NV8	16046844	Antagonist	Compound 16	small-molecule	2020-01-01		C, P	c1ccc(cc1)S(=O)(=O)N2CCCC23CCN(CC3)c4nc5ccccc5o4	KIKWLYIDCILHAP-UHFFFAOYSA-N		false	orthosteric	A:401, B:401	
-6TQ7	A, B	NVK	6604926	Antagonist	SB-334867	small-molecule	2020-01-01		C, D, N, O	Cc1nc2ccc(cc2o1)NC(=O)Nc3ccnc4c3nccc4	AKMNUCBQGHFICM-UHFFFAOYSA-N		false	orthosteric	A:401, A:402, B:401, B:402	
-6TQ9	A, B	NVN	4331799	Antagonist	SB-408124	small-molecule	2020-01-01		C, D, N	Cc1cc(c2cc(cc(c2n1)F)F)NC(=O)Nc3ccc(cc3)N(C)C	JTARFZSNUAGHRB-UHFFFAOYSA-N		false	orthosteric	A:401, A:402, B:401	
+6TQ7	A, B	NVK	6604926	Antagonist	SB-334867	small-molecule	2020-01-01		C, N	Cc1nc2ccc(cc2o1)NC(=O)Nc3ccnc4c3nccc4	AKMNUCBQGHFICM-UHFFFAOYSA-N		false	orthosteric	A:401, B:401	
+6TQ7	A, B	NVK	6604926	Antagonist	SB-334867	small-molecule	2020-01-01		D, O	Cc1nc2ccc(cc2o1)NC(=O)Nc3ccnc4c3nccc4	AKMNUCBQGHFICM-UHFFFAOYSA-N		false	orthosteric	A:402, B:402	
+6TQ9	A, B	NVN	4331799	Antagonist	SB-408124	small-molecule	2020-01-01		C, N	Cc1cc(c2cc(cc(c2n1)F)F)NC(=O)Nc3ccc(cc3)N(C)C	JTARFZSNUAGHRB-UHFFFAOYSA-N		false	orthosteric	A:401, B:401	
+6TQ9	A	NVN	4331799	Antagonist	SB-408124	small-molecule	2020-01-01		D	Cc1cc(c2cc(cc(c2n1)F)F)NC(=O)Nc3ccc(cc3)N(C)C	JTARFZSNUAGHRB-UHFFFAOYSA-N		false	orthosteric	A:402	
 6U1N	R	2CU	57664406	PAM	LY2119620	small-molecule	2020-02-26		E	Cc1c2c(c(sc2nc(c1Cl)OCC(=O)N3CCN(CC3)C)C(=O)NC4CC4)N	TYTGOXSAAQWLPJ-UHFFFAOYSA-N		false	extracellular_vestibule	R:601	
 6U1N		IXO	10104167	Agonist	Iperoxo	small-molecule	2020-02-26	f					unknown	orthosteric		
 6UO9	A	QD7	5230	Agonist	SKF97541	small-molecule	2020-06-10		H	CP(=O)(CCCN)O	NHVRIDDXGZPJTJ-UHFFFAOYSA-N		false	extracellular_domain	A:1001	
@@ -149,6 +152,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 6WHA	A	U0G	90489020	Agonist	25CN-NBOH	small-molecule	2020-09-23		F	COc1cc(c(cc1C#N)OC)CCNCc2ccccc2O	VWEDZTZAXHMZIL-UHFFFAOYSA-N		false	orthosteric	A:501	
 6WIV	A	CA	271	PAM	CALCIUM ION	small-molecule	2020-07-01		F	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:904	
 6WIV	B	U3D	52923113	NAM	Phosphatidylcholine PC 38:2	lipid	2020-07-01		M	CCCCCCCC/C=C\CCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\CCCCCCCC	QLEJPADMSQQACL-WWUFLCHTSA-N		false	allosteric_7tm	B:902	
+6WIV	A	U3G	52924645	NAM	Phosphatidylethanolamine PE 38:5	lipid	2020-07-01		G	CCCCCCCC/C=C\CCCCCCCC(=O)O[C@H](COC(=O)CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC)COP(=O)(O)OCCN	VFUVYNGTMNUBMF-ZRVIQYDLSA-N		false	allosteric_7tm	A:905	
 6XBL	R	V0S		Agonist	SAG	small-molecule	2020-09-30		F	CNC1CCC(CC1)N(Cc2cccc(c2)c3ccncc3)C(=O)c4c(c5ccccc5s4)Cl	VFSUUTYAEQOIMW-YHBQERECSA-N		false	orthosteric	R:701	
 6XBL	R	CLR	5997	Agonist	CHOLESTEROL	lipid	2020-09-30		G	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	orthosteric	R:702	
 6XBM	R	CO1	3247059	Agonist	24(S),25-Epoxycholesterol	lipid	2020-09-30		G	C[C@H](CC[C@H]1C(O1)(C)C)[C@H]2CC[C@@H]3[C@@]2(CC[C@H]4[C@H]3CC=C5[C@@]4(CC[C@@H](C5)O)C)C	OSENKJZWYQXHBN-XVYZBDJZSA-N		true	extracellular_vestibule	R:702	
@@ -172,16 +176,19 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 7D76	R	GXR	20469	Agonist	beclomethasone	small-molecule	2021-02-03		I	C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)Cl)C	NBMKJKDGKREAPL-DVTGEIKXSA-N		false	orthosteric	R:604	
 7D77	R	HCY	5754	Agonist	Hydrocortisone	small-molecule	2021-02-03		J	C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O	JYGXADMDTFJGBT-VWUMJDOOSA-N		true	orthosteric	R:604	
 7DD5	A, B	YP1	6918446	NAM	NPS-2143	small-molecule	2021-06-16		O, X	CC(C)(Cc1ccc2ccccc2c1)NC[C@H](COc3cccc(c3C#N)Cl)O	PZUJQWHTIRWCID-HXUWFJFHSA-N		false	allosteric_7tm	A:1109, B:1108	
-7DD5	A, B	TRP	6305	Agonist	L-Tryptophan	small-molecule	2021-06-16		N, W	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1108, B:1107	
-7DD5	A, B	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-16		H, I, J, P, R, S	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1102, A:1103, A:1104, A:1110, B:1102, B:1103	
+7DD5	A, B	TRP	6305	Co-agonist	L-Tryptophan	small-molecule	2021-06-16		N, W	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1108, B:1107	
+7DD5	A	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-16		H	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1102	
+7DD5	A	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-16		P	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1110	
 7DD6	A, B	TRP	6305	Co-agonist	TRYPTOPHAN	small-molecule	2021-06-16		N, V	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1108, B:1108	
-7DD6	A, B	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-16		H, I, J, P, Q, R	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1102, A:1103, A:1104, B:1102, B:1103, B:1104	
-7DD7	A, B	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-16		H, I, O, Q, R, S	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1102, A:1103, B:1101, B:1103, B:1104, B:1105	
+7DD6	A	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-16		H	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1102	
+7DD6	B	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-16		P	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:1102	
+7DD7	B	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-16		Q	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:1103	
+7DD7	B	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-16		O	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:1101	
 7DD7	A, B	H43	71242808	PAM	Evocalcet	small-molecule	2021-06-16		N, X	C[C@H](c1cccc2c1cccc2)N[C@H]3CCN(C3)c4ccc(cc4)CC(=O)O	RZNUIYPHQFXBAN-XLIONFOSSA-N		false	allosteric_7tm	A:1108, B:1110	
 7DD7	A, B	TRP	6305	Co-agonist	TRYPTOPHAN	small-molecule	2021-06-16		M, W	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1107, B:1109	
 7DFL	R	HSM	774	Agonist	HISTAMINE	small-molecule	2021-03-31		F	c1c(nc[nH]1)CCN	NTYJJOPFIAHURM-UHFFFAOYSA-N		true	orthosteric	R:900	
-7DTT	A, B	CA	271	Agonist	Calcium ion	small-molecule	2021-03-10		G, H, M, N	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1101, A:1102, B:1101, B:1102	
-7DTT		CA	271	Agonist	Calcium ion	small-molecule	2021-03-10			[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric		
+7DTT	A	CA	271	Agonist	Calcium ion	small-molecule	2021-03-10		H	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1102	
+7DTT	B	CA	271	Agonist	Calcium ion	small-molecule	2021-03-10		N	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:1102	
 7DTY	P	pep	16140499	Agonist	Gastric inhibitory polypeptide	peptide	2021-08-04			CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCCN)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC7=CN=CN7)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCC(=O)N)C(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](C)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CO)NC(=O)[C@H](CC8=CC=C(C=C8)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC9=CC=CC=C9)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CC1=CC=C(C=C1)O)N	MGXWVYUBJRZYPE-YUGYIWNOSA-N	YAEGTFISDYSIAMDKIHQQDFVNWLLAQKGKKNDWKHNITQ	unknown	orthosteric		
 7E14	R	V6G	137319706	Agonist	Orforglipron	small-molecule	2021-07-07		F	Cc1cc(cc(c1F)C)n2c(c3c(n2)CCN([C@H]3C)C(=O)c4cc5cc(ccc5n4[C@]6(C[C@@H]6C)C7=NOC(=O)N7)[C@H]8CCOC(C8)(C)C)N9C=CN(C9=O)c1ccc2c(c1F)cnn2C	USUWIEBBBWHKNI-KHIFEHGGSA-N		false	orthosteric	R:501	
 7E14	R	HNO	156022738	Ago-PAM	Compound 2	small-molecule	2021-07-07		L	CC(C)(C)Nc1cnc2cc(c(cc2n1)Cl)Cl	QYEPFRWKAAVUOP-UHFFFAOYSA-N		false	intracellular	R:507	
@@ -191,7 +198,9 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 7E2Y	R	J40	114865	PAM	Phosphatidylinositol 4-phosphate	small-molecule	2021-04-14		F	CCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)OP(=O)(O)O)O)O)OC(=O)CCC/C=C/C/C=C/CC=CCC=CC	KFDYJTVTHSTWNE-UDQXHECVSA-N		false	allosteric_7tm	R:502	
 7E2Z	R	9SC	60795	Agonist (partial)	Aripiprazole	small-molecule	2021-04-14		E	c1cc(c(c(c1)Cl)Cl)N2CCN(CC2)CCCCOc3ccc4c(c3)NC(=O)CC4	CEUORZQYGODEFX-UHFFFAOYSA-N		false	orthosteric	R:501	
 7E2Z	R	J40		PAM	PtdIns4P	small-molecule	2021-04-14		I	CCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)OP(=O)(O)O)O)O)OC(=O)CCC/C=C/C/C=C/CC=CCC=CC	KFDYJTVTHSTWNE-UDQXHECVSA-N		false	allosteric_7tm	R:505	
-7E6T	A, B	CA	271	Co-agonist	CALCIUM ION	small-molecule	2021-09-22		D, E, F, K, L, M	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:902, B:903, B:904, A:902, A:903, A:904	
+7E6T	A	CA	271	Agonist	CALCIUM ION	small-molecule	2021-09-22		L	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:903	
+7E6T	B	CA	271	Agonist	CALCIUM ION	small-molecule	2021-09-22		E	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:903	
+7E6T	A, B	CA	271	Agonist	CALCIUM ION	small-molecule	2021-09-22		D, K	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:902, A:902	
 7E6T	A, B	TCR	449440	Co-agonist	CYCLOMETHYLTRYPTOPHAN	small-molecule	2021-09-22		I, P	c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O	FSNCEEGOMTYXKY-JTQLQIEISA-N		false	extracellular_domain	B:907, A:907	
 7EIB	D	pep	122227	Agonist	des-Arg10-kallidin	peptide	2021-10-13			C1C[C@H](N(C1)C(=O)[C@@H]2CCCN2C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCCN)N)C(=O)NCC(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N[C@@H](CO)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CC5=CC=CC=C5)C(=O)O	AILVBOHFGXNHCC-TZPCGENMSA-N	KRPPGFSPF	unknown	orthosteric		
 7EPB	A, B	40F	213056	Agonist	LY354740	small-molecule	2021-06-23		E, F	C1C[C@]([C@H]2[C@@H]1[C@@H]2C(=O)O)(C(=O)O)N	VTAARTQTOOYTES-RGDLXGNYSA-N		false	extracellular_domain	A:901, B:901	
@@ -258,13 +267,14 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 7RMG	S	pep	36511	Agonist	Substance P	peptide	2021-11-03			CC(C)C[C@@H](C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)CNC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCCCN)NC(=O)[C@@H]4CCCN4C(=O)[C@H](CCCN=C(N)N)N	ADNPLDHMAVUMIW-CUZNLEPHSA-N	RPKPQQFFGLMX	unknown	orthosteric		PEPTIDE1{R.P.K.P.Q.Q.F.F.G.L.M.[am]}$$$$
 7RMI	S	pep	122140	Agonist	Substance P 6-11	peptide	2021-11-03			CC(C)C[C@@H](C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)CNC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](CCC(=O)N)N	JRJICHIAKDIPMB-ZIUUJSQJSA-N	QFFGLMX	unknown	orthosteric		
 7RYC	L	pep	439302	Agonist	Oxytocin	peptide	2022-03-09			CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N	XNOPRXBHLZRZKH-DSZYJQQASA-N	CYIQNCPLGX	unknown	orthosteric		
-7RYC	O	MG	888	Cofactor	MAGNESIUM ION	small-molecule	2022-03-09		F	[Mg+2]	JLVVSXFLKOJNIY-UHFFFAOYSA-N		true	orthosteric	O:401	
+7RYC	O	MG	888	PAM	MAGNESIUM ION	small-molecule	2022-03-09		F	[Mg+2]	JLVVSXFLKOJNIY-UHFFFAOYSA-N		true	orthosteric	O:401	
 7S0F	R	5FW	443372	Agonist	Isoproterenol	small-molecule	2021-11-17		E	CC(C)NC[C@@H](c1ccc(c(c1)O)O)O	JWZZKOKVBUJMES-NSHDSACASA-N		false	orthosteric	R:401	
 7S0G	R	5FW	443372	Agonist	Isoproterenol	small-molecule	2021-11-17		E	CC(C)NC[C@@H](c1ccc(c(c1)O)O)O	JWZZKOKVBUJMES-NSHDSACASA-N		false	orthosteric	R:401	
 7S8L	A	pep	44565227	Agonist	Cortistatin 14	peptide	2021-11-17			C[C@H]([C@H]1C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=CC=C4)CC5=CC=CC=C5)CC(=O)N)CCCCN)NC(=O)[C@@H]6CCCN6)C(=O)N[C@@H](CCCCN)C(=O)O)CO)CO)CC7=CC=CC=C7)O	DDRPLNQJNRBRNY-PABCYERMSA-N	PCKNFFWKTFSSCK	unknown	orthosteric		
 7S8N	R	8IU	95882507	Agonist	(R)-ZINC-3573	small-molecule	2021-11-17		F	CN(C)[C@@H]1CCN(C1)c2cc(nc3n2ncc3)c4ccccc4	XKBSPAZCFAIBJL-OAHLLOKOSA-N		false	orthosteric	R:401	
 7S8P	R	8IX		Agonist	MS47134	small-molecule	2021-11-17		F	C[C@@]12CC3C[C@@](C1)(CC(C3)(C2)C(=O)N[C@H](Cc4ccccc4)C(=O)O)C	QSBRCNGPJBWGLQ-LQDXOGNASA-N		false	orthosteric	R:401	
-7SIM	A, B	CA	271	Co-agonist	CALCIUM ION	small-molecule	2022-01-19		J, K, L, M, V, W, X, Y	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:904, A:905, A:906, A:907, B:904, B:905, B:906, B:907	
+7SIM	A	CA	271	Agonist	CALCIUM ION	small-molecule	2022-01-19		M	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:907	
+7SIM	B	CA	271	Agonist	CALCIUM ION	small-molecule	2022-01-19		Y	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:907	
 7SIM	A, B	TCR	449440	Co-agonist	TNCA	small-molecule	2022-01-19		H, T	c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O	FSNCEEGOMTYXKY-JTQLQIEISA-N		false	extracellular_domain	A:902, B:902	
 7SR8	R	A6F		Agonist	TAK-925	small-molecule	2022-06-08		F	COC(=O)N1CCC[C@@H]([C@@H]1COC2CCC(CC2)c3ccccc3)NS(=O)(=O)C	UXZAJSZFFARTEI-YRPNKDGESA-N		false	orthosteric	R:501	
 7SRR	R	7LD	5761	Agonist (partial)	LSD	small-molecule	2022-09-21		F	CCN(CC)C(=O)[C@H]1CN([C@@H]2Cc3c[nH]c4c3c(ccc4)C2=C1)C	VAYOSLLFUXYJDT-RDTXWAMCSA-N		false	orthosteric	R:501	
@@ -322,7 +332,9 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 7X8R	R	BYI		Agonist	Boc5	small-molecule	2022-06-29		F	CC(C)(C)OC(=O)Nc1ccc(cc1)C(=O)NC2(C(C(C2c3ccc(c(c3)OC)OC(=O)c4cccs4)(C(=O)O)NC(=O)c5ccc(cc5)NC(=O)OC(C)(C)C)c6ccc(c(c6)OC)OC(=O)c7cccs7)C(=O)O	JSLFGFBQFKCNSQ-NHONBVHKSA-N		false	orthosteric	R:601	
 7X8S	R	WB2		Agonist	WB4-24	small-molecule	2022-06-29		F	CC(C)C(=O)Nc1ccc(cc1)C(=O)NC2(C(C(C2c3ccc(c(c3)OC)OC(=O)c4cccs4)(C(=O)O)NC(=O)c5ccc(cc5)NC(=O)C(C)C)c6ccc(c(c6)OC)OC(=O)c7cccs7)C(=O)O	YCBYMFFEJARIGU-OKSULDPSSA-N		false	orthosteric	R:501	
 7XBD	F	pep	74765466	Agonist	Galanin	peptide	2022-07-13			CC(C)CC(C(=O)NC(C(C)O)C(=O)NC(CO)C(=O)O)NC(=O)CNC(=O)C(CC(=O)N)NC(=O)C(CCCCN)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(CC1=CC=CC=C1)NC(=O)C(CO)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC2=CNC=N2)NC(=O)C(CC(=O)N)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(CC3=CNC=N3)NC(=O)C4CCCN4C(=O)CNC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC5=CC=C(C=C5)O)NC(=O)CNC(=O)C(C)NC(=O)C(CO)NC(=O)C(CC(=O)N)NC(=O)C(CC(C)C)NC(=O)C(C(C)O)NC(=O)C(CC6=CNC7=CC=CC=C76)NC(=O)CN	CBSXZYWGVAQSHI-UHFFFAOYSA-N	GWTLNSAGYLLGPHAVGNHRSFSDKNGLTS	unknown	orthosteric		
-7XBW	R	CLR	5997	PAM	CHOLESTEROL	lipid	2022-07-13		E, F, G	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	allosteric_7tm	R:401, R:402, R:403	
+7XBW	R	CLR	5997	PAM	CHOLESTEROL	lipid	2022-07-13		E	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	allosteric_7tm	R:401	
+7XBW	R	CLR	5997	PAM	CHOLESTEROL	lipid	2022-07-13		F	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	allosteric_7tm	R:402	
+7XBW	R	CLR	5997	PAM	CHOLESTEROL	lipid	2022-07-13		G	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	allosteric_7tm	R:403	
 7XBX	R	pep		Agonist	CX3CL1	protein	2022-07-13					QHHGVTKCNITCSKMTSKIPVALLIHYQQNQASCCKRAIILETRQHRLFCADPKEQWVKDAMQHLDRQAAALTRNGSGSGSGSGSGSGSGSGSGSGSGSGSGSDQFPESVTENFEYDDLAEACYIGDIVVFGTVFLSIFYSVIFAIGLVGNLLVVFALTNSKKPKSVTDIYLLNLALSDLLFVATLPFWTHYLINEKGLHNAMCKFTTAFFFIGFFGSIFFLTVISIDRYLAIVLAANSMNNRTVQHGVTISLGVWAAAILVAAPQFMFTKQKENECCGDYPEVLQEIWPVLRNVETNFLGFLLPLLIMSYCYFRIIQTLFSSKNHKKAKAIKLILLVVIVFFLFWTPYNVVIFLETLKLYDFFPSCDMRKDLRLALSVTETVAFSHCCLNPLIYAFAGEKFRRYLYHLYGKCLAVLEFLEVLFQGPWSHPQFEKGGGSGGGSGGSAWSHPQFEKDYKDDDDK	unknown	orthosteric		
 7XBX	R	CLR	5997	PAM	CHOLESTEROL	lipid	2022-07-13		E	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	allosteric_7tm	R:501	
 7XBX		CLR	5997	PAM	CHOLESTEROL	lipid	2022-07-13		F	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	membrane_facing	R:502	
@@ -385,7 +397,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8G94	F, G	pep		Allosteric agonist	Early activation antigen CD69	protein	2023-04-19					MASENCFVAENSSLHPESGQENDATSPHFSTRHEGSFQVPVLCAVMNVVFITILIIALIALSVGQYNCPGQYTFSMPSDSHVSSCSEDWVGYQRKCYFISTVKRSWTSAQNACSEHGATLAVIDSEKDMNFLKRYAGREEHWVGLKKEPGHPWKWSNGKEFNNWFNVTGSDKCVFLKNTEVSSMECEKNLYWICNKPYKGSASWSHPQFEK	unknown	allosteric_7tm		
 8GTM	A	0VI		Allosteric antagonist	BMK-C203	small-molecule	2023-09-13		C	Cc1c(c2nc(nc(n2n1)N(CCCC(F)(F)F)CCCC(F)(F)F)C)c3c(cc(cc3OC)Br)OC	HITMRJHMLLYUGE-UHFFFAOYSA-N		false	allosteric_7tm	A:401	
 8GY7	M	pep		Agonist	ACTH (Corticotropin)	peptide	2023-01-11					SYSMEHFRWGKPVGKKRR	unknown	orthosteric		
-8GY7	R	CA	271	Cofactor	CALCIUM ION	small-molecule	2023-01-11		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
+8GY7	R	CA	271	PAM	CALCIUM ION	small-molecule	2023-01-11		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
 8H0P	L	pep		Agonist	NMB30	peptide	2023-08-09					NLWATGHFMG	unknown	orthosteric		
 8H0Q	L	pep	16137975	Agonist	GRP(14-27)	peptide	2023-08-09			C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)[C@H](CC2=CNC3=CC=CC=C32)NC(=O)[C@H](CC4=CN=CN4)NC(=O)[C@H](CC(=O)N)NC(=O)CNC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H]5CCCN5C(=O)[C@H](CC6=CC=C(C=C6)O)NC(=O)[C@H](CCSC)N	IFIFCDMFVPNPSB-QEJDUTAOSA-N	NHWAVGHLM	unknown	orthosteric		
 8H4K	R	WPT	11595431	Agonist	GW9508	small-molecule	2023-06-21		F	c1ccc(cc1)Oc2cccc(c2)CNc3ccc(cc3)CCC(=O)O	DGENZVKCTGIDRZ-UHFFFAOYSA-N		false	orthosteric	R:401	
@@ -460,33 +472,38 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8K8J	R	J3O	3339	Agonist (partial)	Fenofibrate	small-molecule	2024-02-14		F	CC(C)OC(=O)C(C)(C)Oc1ccc(cc1)C(=O)c2ccc(cc2)Cl	YMTINGFKWWXKFG-UHFFFAOYSA-N		false	orthosteric	R:501	
 8K9K	S	pep	5462471	Agonist	DAMGO	peptide	2024-05-29			C[C@H](C(=O)NCC(=O)N(C)[C@@H](CC1=CC=CC=C1)C(=O)NCCO)NC(=O)[C@H](CC2=CC=C(C=C2)O)N	HPZJMUBDEAMBFI-WTNAPCKOSA-N	YAGFX	unknown	orthosteric		
 8KIG	L	pep	6440621	Antagonist	SHU9119	peptide	2025-02-26			CCCC[C@@H](C(=O)N[C@H]1CC(=O)NCCC/C=C(\C(=O)NC(=O)[C@@H](NC1=O)CC2C=NC=N2)/NC(=O)[C@H](CC3CNC4=CC=CC=C34)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H](CC5=CC6=CC=CC=C6C=C5)N)NC(=O)C	ORTUTLYEGOSCRP-ATNXLWBUSA-N	XLDHXRWKX	unknown	orthosteric		
-8KIG	R	CA	271	Co-agonist	CALCIUM ION	small-molecule	2025-02-26		C	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:401	
 8PJK	R	ZL9	171392444	Agonist (partial)	ST171	small-molecule	2024-05-29		G	COc1ccccc1OCCNCCCOc2ccc3c(c2)NC(=O)CO3	JIDGHQZPZOREIN-UHFFFAOYSA-N		false	orthosteric	R:503	
 8PJK	R	T7M		PAM	Phosphatidylinositol-4-phosphate	small-molecule	2024-05-29		H	CCCCCCCCCCCCCCCCC(=O)OC[C@H](CO[P@@](=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)OP(=O)(O)O)O)O)OC(=O)CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC	WSLBJQQQZZTFBA-NPJVAJNNSA-N		false	intracellular	R:504	
 8RQL	R	FLF	3371	Agonist	flufenamic acid	small-molecule	2024-11-27		G	c1ccc(c(c1)C(=O)O)Nc2cccc(c2)C(F)(F)F	LPEPZBJOKDYZAD-UHFFFAOYSA-N		false	intracellular	R:402	
 8RQL	R	FLF	3371	Agonist	flufenamic acid	small-molecule	2024-11-27		F	c1ccc(c(c1)C(=O)O)Nc2cccc(c2)C(F)(F)F	LPEPZBJOKDYZAD-UHFFFAOYSA-N		false	orthosteric	R:401	
 8RWI	A	A1H3I	135770338	Antagonist	StilSwitch2	small-molecule	2025-01-08		B	CCN1c2c(n(c(n2)/C=C/c3ccc(c(c3)O)O)C)C(=O)N(C1=O)CC	GFRYELUTTBEJFS-VQHVLOKHSA-N		false	orthosteric	A:1201	
 8S4D	A	A1D5N	73442763	Agonist	CMF-019	small-molecule	2024-12-04		B	CCC(CC)n1c2ccc(cc2nc1Cc3cccs3)C(=O)N[C@@H](CC(C)C)CC(=O)O	VCQKKZXFASLXAH-SFHVURJKSA-N		false	orthosteric	A:1201	
-8SZF	A, B	CA	271	Agonist	CALCIUM ION	small-molecule	2024-02-07		I, Q	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1204, B:1004	
 8SZF	B	SPM	1103	Agonist	SPERMINE	small-molecule	2024-02-07		U	C(CCNCCCN)CNCCCN	PFNFFQXMRSDOHW-UHFFFAOYSA-N		true	extracellular_domain	B:1008	
-8SZF	A, B	TRP	6305	Agonist	TRYPTOPHAN	small-molecule	2024-02-07		H, P	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1203, B:1003	
+8SZF	A, B	TRP	6305	Co-agonist	TRYPTOPHAN	small-molecule	2024-02-07		H, P	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1203, B:1003	
 8SZF	A, B	YP4	156419	PAM	Cinacalcet	small-molecule	2024-02-07		M, S	C[C@H](c1cccc2c1cccc2)NCCCc3cccc(c3)C(F)(F)F	VDHAWDNDOKGFTD-MRXNPFEDSA-N		false	allosteric_7tm	A:1208, B:1006	
+8SZF	A	CA	271	Agonist	CALCIUM ION	small-molecule	2024-02-07		J	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1205	
+8SZF	A	CA	271	Agonist	CALCIUM ION	small-molecule	2024-02-07		K	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1206	
 8SZG	A, B	YP4	156419	PAM	Cinacalcet	small-molecule	2024-02-07		I, Z	C[C@H](c1cccc2c1cccc2)NCCCc3cccc(c3)C(F)(F)F	VDHAWDNDOKGFTD-MRXNPFEDSA-N		false	allosteric_7tm	A:1201, B:1407	
-8SZG	A, B	TRP	6305	Agonist	L-Tryptophan	small-molecule	2024-02-07		P, X	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1208, B:1405	
-8SZG	A, B	SPM	1103	Ago-PAM	Spermine	small-molecule	2024-02-07		M, R, W	C(CCNCCCN)CNCCCN	PFNFFQXMRSDOHW-UHFFFAOYSA-N		true	extracellular_domain	A:1205, A:1210, B:1404	
-8SZG	A	CA	271	Agonist	CALCIUM ION	small-molecule	2024-02-07		N, O, S	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1206, A:1207, A:1211	
+8SZG	A, B	TRP	6305	Co-agonist	L-Tryptophan	small-molecule	2024-02-07		P, X	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1208, B:1405	
+8SZG	A, B	SPM	1103	Ago-PAM	Spermine	small-molecule	2024-02-07		M, W	C(CCNCCCN)CNCCCN	PFNFFQXMRSDOHW-UHFFFAOYSA-N		true	extracellular_domain	A:1205, B:1404	
+8SZG	A	SPM	1103	Ago-PAM	Spermine	small-molecule	2024-02-07		R	C(CCNCCCN)CNCCCN	PFNFFQXMRSDOHW-UHFFFAOYSA-N		true	extracellular_domain	A:1210	
+8SZG	A	CA	271	Agonist	CALCIUM ION	small-molecule	2024-02-07		O	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1207	
+8SZG	A	CA	271	Agonist	CALCIUM ION	small-molecule	2024-02-07		S	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1211	
 8SZH	A, B	YP4	156419	PAM	Cinacalcet	small-molecule	2024-02-07		I, S	C[C@H](c1cccc2c1cccc2)NCCCc3cccc(c3)C(F)(F)F	VDHAWDNDOKGFTD-MRXNPFEDSA-N		false	allosteric_7tm	A:901, B:1402	
-8SZH	A, B	TRP	6305	Agonist	Tryptophan	small-molecule	2024-02-07		N, Y	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:906, B:1408	
-8SZH	A, B	SPM	1103	Ago-PAM	Spermine	small-molecule	2024-02-07		AA, BA, P, Q	C(CCNCCCN)CNCCCN	PFNFFQXMRSDOHW-UHFFFAOYSA-N		true	extracellular_domain	B:1410, B:1411, A:908, A:909	
-8SZH	A, B	CA	271	Agonist	Calcium ion	small-molecule	2024-02-07		L, M, W, X	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:904, A:905, B:1406, B:1407	
-8SZI	A, B	CA	271	Co-agonist	CALCIUM ION	small-molecule	2024-02-07		K, T	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1003, B:1405	
+8SZH	A, B	TRP	6305	Co-agonist	Tryptophan	small-molecule	2024-02-07		N, Y	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:906, B:1408	
+8SZH	A, B	SPM	1103	Ago-PAM	Spermine	small-molecule	2024-02-07		AA, Q	C(CCNCCCN)CNCCCN	PFNFFQXMRSDOHW-UHFFFAOYSA-N		true	extracellular_domain	B:1410, A:909	
+8SZH	A, B	SPM	1103	Ago-PAM	Spermine	small-molecule	2024-02-07		BA, P	C(CCNCCCN)CNCCCN	PFNFFQXMRSDOHW-UHFFFAOYSA-N		true	extracellular_domain	B:1411, A:908	
+8SZH	A, B	CA	271	Agonist	Calcium ion	small-molecule	2024-02-07		M, X	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:905, B:1407	
 8SZI	A	TRP	6305	PAM	TRYPTOPHAN	small-molecule	2024-02-07		O	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	allosteric_7tm	A:1007	
 8SZI	A, B	TRP	6305	Co-agonist	TRYPTOPHAN	small-molecule	2024-02-07		M, V	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1005, B:1407	
+8SZI	A	CA	271	Agonist	CALCIUM ION	small-molecule	2024-02-07		L	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1004	
+8SZI	B	CA	271	Agonist	CALCIUM ION	small-molecule	2024-02-07		U	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:1406	
 8T3O	R	YN9	57522038	Agonist	TUG-891	small-molecule	2024-01-17		F	Cc1ccc(cc1)c2ccc(cc2COc3ccc(cc3)CCC(=O)O)F	LPGBXHWIQNZEJB-UHFFFAOYSA-N		false	orthosteric	R:401	
 8T3Q	R	HXA	445580	Agonist	Docosahexaenoic acid	lipid	2024-01-24		F	CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CCC(=O)O	MBMBGCFOFBJSGT-KUBAVDMBSA-N		true	orthosteric	R:401	
 8T3S	R	BUA	264	Agonist	butanoic acid	small-molecule	2024-01-24		F	CCCC(=O)O	FERIUCNNQQJTOY-UHFFFAOYSA-N		true	orthosteric	R:301	
 8T3V	R	HXA	445580	Agonist	Docosahexaenoic acid (DHA)	lipid	2024-01-24		G	CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CCC(=O)O	MBMBGCFOFBJSGT-KUBAVDMBSA-N		true	orthosteric	R:302	
-8TF5	A	OLA	445639	Agonist	Oleic acid	lipid	2024-12-04		K, N	CCCCCCCC\C=C/CCCCCCCC(=O)O	ZQPPMHVWECSIRJ-KTKRTIGZSA-N		true	orthosteric	A:1210, A:1213	
+8TF5	A	OLA	445639	Agonist	Oleic acid	lipid	2024-12-04		K	CCCCCCCC\C=C/CCCCCCCC(=O)O	ZQPPMHVWECSIRJ-KTKRTIGZSA-N		true	orthosteric	A:1210	
+8TF5	A	OLA	445639	Agonist	Oleic acid	lipid	2024-12-04		N	CCCCCCCC\C=C/CCCCCCCC(=O)O	ZQPPMHVWECSIRJ-KTKRTIGZSA-N		true	orthosteric	A:1213	
 8TH3	A	pep		Antagonist	AT118-H	protein	2024-05-22					EVQLVESGGGLVQPGGSLRLSCAASGYIYRRYRMGWYRQAPGKGREFVAAISGGSSTNYADSVKGRFTISRDNSKNTVYLQMNSLRAEDTAVYYCAAYRIVSDPRVYWGQGTQVTVSSLEGGSGEDQVDPRLIDGKILNSSTEDGIKRIQDDCPKAGRHNYIFVMIPTLYSIIFVVGIFGNSLVVIVIYFYMKLKTVASVFLLNLALADLCFLLTLPLWAVYTAMEYRWPFGNYLCKIASASVSFNLYASVFLLTCLSIDRYLAIVHPMKSRLRRTMLVAKVTCIIIWLLAGLASLPAIIHRNVFFIENTNITVCAFHYESQNSTLPIGLGLTKNILGFLFPFLIILTSYTLIWKALKKAYDLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLDKLNDDIFKIIMAIVLFFFFSWIPHQIFTFLDVLIQLGIIRDCRIADIVDTAMPITICIAYFNNCLNPLFYGFLGKKFKRYFLQLLKYGGSSLEVLFQGPTETSQVAPA	unknown	orthosteric		
 8THK	R	CGZ	10804826	Agonist	A61603	small-molecule	2023-08-16		F	CS(=O)(=O)Nc1c(ccc2c1CCC[C@@H]2C3=NCCN3)O	OQFCXJDXHCDLHX-NSHDSACASA-N		false	orthosteric	R:401	
 8THL	R	ALE	5816	Agonist	L-EPINEPHRINE	small-molecule	2023-08-16		F	CNC[C@@H](c1ccc(c(c1)O)O)O	UCTWMZQNUQWSLP-VIFPVBQESA-N		true	orthosteric	R:401	
@@ -502,7 +519,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8VY9	R	CLR	5997	Agonist	Cholesterol	lipid	2024-04-03		G	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	orthosteric	R:602	
 8VY9	R	A1AEI	167312460	Ago-PAM	cmpd28.1	small-molecule	2024-04-03		F	Cc1cc(nc(n1)Nc2ccccc2c3[nH]nnn3)C(F)(F)F	XXKGCSWBGJTTJM-UHFFFAOYSA-N		false	intracellular	R:601	
 8W1V	A, B	A1AE2		Antagonist	Ligand 4	small-molecule	2024-07-17		E, F	CCCc1ccccc1OC[C@H](CNCCCc2cn(nn2)CCCCc3ccc(cc3)OC[C@H](CNC(C)C)O)O	YQSRDTSIHACZCZ-UHFFFAOYSA-N		false	orthosteric	A:1201, B:1201	
-8W8R	R	U7D	848971	Allosteric agonist	AA-14	small-molecule	2024-01-03		F, G	Cc1ccnc(c1)NC(=S)Nc2cccc(c2)C(F)(F)F	FSUJUFLZGYFLEM-UHFFFAOYSA-N		false	allosteric_7tm	R:601, R:602	
+8W8R	R	U7D	848971	Allosteric agonist	AA-14	small-molecule	2024-01-03		F	Cc1ccnc(c1)NC(=S)Nc2cccc(c2)C(F)(F)F	FSUJUFLZGYFLEM-UHFFFAOYSA-N		false	allosteric_7tm	R:601	
+8W8R	R	U7D	848971	Allosteric agonist	AA-14	small-molecule	2024-01-03		G	Cc1ccnc(c1)NC(=S)Nc2cccc(c2)C(F)(F)F	FSUJUFLZGYFLEM-UHFFFAOYSA-N		false	allosteric_7tm	R:602	
 8W8X	L	pep	16135998	Agonist	Beta-MSH	peptide	2025-03-19			C[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)N1CCC[C@H]1C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC3=CN=CN3)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)NCC(=O)N[C@@H](CO)C(=O)N7CCC[C@H]7C(=O)N8CCC[C@H]8C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)O)C(=O)O)N	XLLJFSCSXTYVTN-UPWOUFKKSA-N	DEGPYRMEHFRWGSPPKD	unknown	orthosteric		
 8W8X	R	CA	271	PAM	CALCIUM ION	small-molecule	2025-03-19		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
 8WC9	R	VMT	533915	Agonist	ZH8651	small-molecule	2023-12-27		F	c1cc(ccc1CCN)Br	ZSZCXAOQVBEPME-UHFFFAOYSA-N		false	orthosteric	R:401	
@@ -520,10 +538,12 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8WMA	C	pep		Allosteric agonist	DEP domain of DVL2	protein	2024-09-11					MAGSSTGGGGVGETKVIYHLDEEETPYLVKIPVPAERITLGDFKSVLQRPAGAKYFFKSMDQDFGVVKEEISDDNARLPCFNGRVVSWLVSSDNPQPEMAPPVHEPRAELAPPAPPLPPLPPERTSGIGDSRPPSFHPNVSSSHENLEPETETESVVSLRRERPRRRDSSEHGAGGHRTGGPSRLERHLAGYESSSTLMTSELESTSLGDSDEEDTMSRFSSSTEQSSASRLLKRHRRRRKQRPPRLERTSSFSSVTDSTMSLNIITVTLNMEKYNFLGISIVGQSNERGDGGIYIGSIMKGGAVAADGRIEPGDMLLQVNDMNFENMSNDDAVRVLRDIVHKPGPIVLTVAKCWDPSPQAYFTLPRNEPIQPIDPAAWVSHSAALTGTFPAYPGSSSMSTITSGSSLPDGCEGRGLSVHTDMASVTKAMAAPESGLEVRDRMWLKITIPNAFLGSDVVDWLYHHVEGFPERREARKYASGLLKAGLIRHTVNKITFSEQCYYVFGDLSGGCESYLVNLSLNDNDGSSGASDQDTLAPLPGATPWPLLPTFSYQYPAPHPYSPQPPPYHELSSYTYGGGSASSQHSEGSRSSGSTRSDGGAGRTGRPEERAPESKSGSGSESEPSSRGGSLRRGGEASGTSDGGPPPSRGSTGGAPNLRAHPGLHPYGPPPGMALPYNPMMVVMMPPPPPPVPPAVQPPGAPPVRDLGSVPPELTASRQSFHMAMGNPSEFFVDVM	unknown	intracellular		
 8WPG	A, B	YP4	156419	PAM	Cinacalcet	small-molecule	2023-11-22		O, U	C[C@H](c1cccc2c1cccc2)NCCCc3cccc(c3)C(F)(F)F	VDHAWDNDOKGFTD-MRXNPFEDSA-N		false	allosteric_7tm	B:909, A:906	
 8WPG	A, B	TRP	6305	Co-agonist	Tryptophan	small-molecule	2023-11-22		J, R	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	B:904, A:903	
-8WPG	A, B	CA	271	Co-agonist	CALCIUM ION	small-molecule	2023-11-22		K, S	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:905, A:904	
-8WPU	A, B	CA	271	Agonist	CALCIUM ION	small-molecule	2023-11-22		O, P, S, Z	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:1107, B:1108, A:1101, A:1108	
-8WPU	A, B	TRP	6305	Agonist	TRYPTOPHAN	small-molecule	2023-11-22		N, Y	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	B:1106, A:1107	
+8WPG	B	CA	271	Agonist	CALCIUM ION	small-molecule	2023-11-22		L	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:906	
+8WPG	B	CA	271	Agonist	CALCIUM ION	small-molecule	2023-11-22		M	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:907	
+8WPU	A, B	TRP	6305	Co-agonist	TRYPTOPHAN	small-molecule	2023-11-22		N, Y	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	B:1106, A:1107	
 8WPU	A, B	YP4	156419	PAM	Cinacalcet	small-molecule	2023-11-22		BA, M	C[C@H](c1cccc2c1cccc2)NCCCc3cccc(c3)C(F)(F)F	VDHAWDNDOKGFTD-MRXNPFEDSA-N		false	allosteric_7tm	A:1110, B:1105	
+8WPU	A	CA	271	Agonist	CALCIUM ION	small-molecule	2023-11-22		S	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1101	
+8WPU	B	CA	271	Agonist	CALCIUM ION	small-molecule	2023-11-22		P	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:1108	
 8WRB	R	UBL	5311263	Agonist	LysoPS (18:1) (LPA moiety)	lipid	2023-11-08		H	CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](COP(=O)(O)O)O	WRGQSWVCFNIUNZ-GDCKJWNLSA-N		false	orthosteric	R:603	
 8WRB	R	SER	5951	Agonist	LysoPS (18:1) (Serine moiety)	small-molecule	2023-11-08		G	C([C@@H](C(=O)O)N)O	MTCFGRXMJLQNBG-REOHCLBHSA-N		true	orthosteric	R:602	
 8WRZ	R	8D0	102336704	Agonist	AM841	small-molecule	2024-02-28		E	CC1([C@@H]2CC[C@H](C[C@H]2c3c(cc(cc3O1)C(C)(C)CCCCCCN=C=S)O)CO)C	JCIYJYHFBBXSBF-HMXCVIKNSA-N		false	orthosteric	R:501	
@@ -562,7 +582,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8XJO	R	PUC	5311493	Agonist	U46619	small-molecule	2024-02-28		F	CCCCC[C@@H](/C=C/[C@H]1[C@H]2C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)CO2)O	LQANGKSBLPMBTJ-BRSNVKEHSA-N		false	orthosteric	R:601	
 8XOF	R	A1LVW	70673567	Agonist	Lys05	small-molecule	2024-04-10		F	CN(CCNc1ccnc2c1ccc(c2)Cl)CCNc3ccnc4c3ccc(c4)Cl	WDGQVCRQXSYPCW-UHFFFAOYSA-N		false	orthosteric	R:401	
 8XOR	R	pep		Agonist	Tethered agonist (SFLLRN)	peptide	2024-09-18					SFLLRNPNDKYEPFWEDEEKNESGLTEYRLVSINKSSPLQKQLPAFISEDASGYLTSSWLTLFVPSVYTGVFVVSLPLNIMAIVVFILKMKVKKPAVVYMLHLATADVLFVSVLPFKISYYFSGSDWQFGSELCRFVTAAFYCNMYASILLMTVISIDRFLAVVYPMQSLSWRTLGRASFTCLAIWALAIAGVVPLLLKEQTIQVPGLNITTCHDVLNETLLEGYYAYYFSAFSAVFFFVPLIISTVCYVSIIRCLSSSAVANRSKKSRALFLSAAVFCIFIICFGPTNVLLIAHYSFLSHTSTTEAAYFAYLLCVCVSSISCCIDPLIYYYASSECQRYVYSILCCKESSDPSSYGSSGGGGSGGGGSSGVFTLEDFVGDWEQTAAYNLDQVLEQGGVSSLLQNLAVSVTPIQRIVRSGENALKIDIHVIIPYEGLSADQMAQIEEVFKVVYPVDDHHFKVILPYGTLVIDGVTPNMLNYFGRPYEGIAVFDGKKITVTGTLWNGNKIIDERLITPDGSMLFRVTINSGGS	unknown	orthosteric		
-8XQL	R	GOQ	2236	Allosteric agonist	Aristolochic acid A	small-molecule	2024-07-10		F, G	COc1cccc2c1cc(c3c2c4c(cc3C(=O)O)OCO4)[N+](=O)[O-]	BBFQZRXNYIEMAW-UHFFFAOYSA-N		false	intracellular	R:501, R:502	
+8XQL	R	GOQ	2236	Allosteric agonist	Aristolochic acid A	small-molecule	2024-07-10		F	COc1cccc2c1cc(c3c2c4c(cc3C(=O)O)OCO4)[N+](=O)[O-]	BBFQZRXNYIEMAW-UHFFFAOYSA-N		false	intracellular	R:501	
+8XQL	R	GOQ	2236	Allosteric agonist	Aristolochic acid A	small-molecule	2024-07-10		G	COc1cccc2c1cc(c3c2c4c(cc3C(=O)O)OCO4)[N+](=O)[O-]	BBFQZRXNYIEMAW-UHFFFAOYSA-N		false	intracellular	R:502	
 8XQL	R	CLR	5997	Agonist	Cholesterol	lipid	2024-07-10		H	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	orthosteric	R:503	
 8XQN	R	GOQ	2236	Allosteric agonist	Aristolochic acid A	small-molecule	2024-07-10		F	COc1cccc2c1cc(c3c2c4c(cc3C(=O)O)OCO4)[N+](=O)[O-]	BBFQZRXNYIEMAW-UHFFFAOYSA-N		false	intracellular	R:501	
 8XQN	R	CLR	5997	Agonist	CHOLESTEROL	lipid	2024-07-10		G	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	orthosteric	R:502	
@@ -615,21 +636,26 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9AS8	A	91Q	4980	Agonist	Psilocin	small-molecule	2025-04-02		F	CN(C)CCc1c[nH]c2c1c(ccc2)O	SPCIYGNTAMCTRO-UHFFFAOYSA-N		false	orthosteric	A:501	
 9ASA	A	A1AFX	172908698	Agonist	RS130-180	small-molecule	2025-04-02		F	CN(C)c1cc(c(cc1OC)CCNCc2ccccc2OCC#C)OC	NDHJMNFRHQYXKX-UHFFFAOYSA-N		false	orthosteric	A:501	
 9ASB	Q, R	TCR	449440	Co-agonist	CYCLOMETHYLTRYPTOPHAN	small-molecule	2024-04-17		M, X	c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O	FSNCEEGOMTYXKY-JTQLQIEISA-N		false	extracellular_domain	Q:1004, R:1004	
-9ASB	Q, R	CA	271	Agonist	CALCIUM ION	small-molecule	2024-04-17		O, P, Z	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	Q:1006, Q:1007, R:1006	
+9ASB	Q	CA	271	Agonist	CALCIUM ION	small-molecule	2024-04-17		Q	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	Q:1008	
+9ASB	Q	CA	271	Agonist	CALCIUM ION	small-molecule	2024-04-17		R	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	Q:1009	
 9ASB	Q, R	9IG	158797	PAM	3-(2-chlorophenyl)-N-[(1R)-1-(3-methoxyphenyl)ethyl]propan-1-amine	small-molecule	2024-04-17		BA, S	C[C@H](c1cccc(c1)OC)NCCCc2ccccc2Cl	ZVQUCWXZCKWZBP-CQSZACIVSA-N		false	allosteric_7tm	R:1008, Q:1010	
 9AST	L	pep		Agonist	XCL1 CC3	protein	2024-12-11					VGSEVSDKRTCVSLTTQRLPCSRIKTYTITEGSLRAVIFITKRGLKVCADPQATWVRDCVRSMDRKSNTRNNMIQTKPTGTQQSTNTAVTLTGGSGSGSGSGSGSGSGSGSGSGSLEVLFQGPDYKDDDDKGS	unknown	orthosteric		
 9AU0	R	A1AF8	3080928	Agonist	BW245C	small-molecule	2025-08-27		F	C1CCC(CC1)[C@@H](CCN2[C@H](C(=O)NC2=O)CCCCCCC(=O)O)O	ZIDQIOZJEJFMOH-JKSUJKDBSA-N		false	orthosteric	R:401	
-9AVG	Q, R	CA	271	Agonist	CALCIUM ION	small-molecule	2024-04-17		O, P, Q, X, Y, Z	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	Q:1006, Q:1007, Q:1008, R:1005, R:1006, R:1007	
+9AVG	R	CA	271	Agonist	CALCIUM ION	small-molecule	2024-04-17		Z	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	R:1007	
+9AVG	Q	CA	271	Agonist	CALCIUM ION	small-molecule	2024-04-17		Q	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	Q:1008	
 9AVG	Q, R	TCR	449440	Co-agonist	CYCLOMETHYLTRYPTOPHAN	small-molecule	2024-04-17		M, V	c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O	FSNCEEGOMTYXKY-JTQLQIEISA-N		false	extracellular_domain	Q:1004, R:1003	
 9AVG	Q, R	9IG	158797	PAM	3-(2-chlorophenyl)-N-[(1R)-1-(3-methoxyphenyl)ethyl]propan-1-amine	small-molecule	2024-04-17		AA, R	C[C@H](c1cccc(c1)OC)NCCCc2ccccc2Cl	ZVQUCWXZCKWZBP-CQSZACIVSA-N		false	allosteric_7tm	R:1008, Q:1009	
 9AVL	Q, R	9IG	158797	PAM	NPS R-568	small-molecule	2024-04-17		P, Z	C[C@H](c1cccc(c1)OC)NCCCc2ccccc2Cl	ZVQUCWXZCKWZBP-CQSZACIVSA-N		false	allosteric_7tm	Q:1007, R:1009	
 9AVL	Q, R	TCR	449440	Co-agonist	TNCA	small-molecule	2024-04-17		K, U	c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O	FSNCEEGOMTYXKY-JTQLQIEISA-N		false	extracellular_domain	Q:1002, R:1004	
-9AVL	Q, R	CA	271	Co-agonist	Calcium	small-molecule	2024-04-17		M, W	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	Q:1004, R:1006	
-9AXF	Q, R	TCR	449440	Agonist	TNCA	small-molecule	2024-04-17		GA, P	c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O	FSNCEEGOMTYXKY-JTQLQIEISA-N		false	extracellular_domain	Q:1005, R:1005	
-9AXF	Q, R	CA	271	Agonist	Calcium Ion	small-molecule	2024-04-17		IA, JA, KA, R	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	Q:1007, Q:1008, Q:1009, R:1007	
+9AVL	R	CA	271	Agonist	Calcium	small-molecule	2024-04-17		Y	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	R:1008	
+9AVL	Q	CA	271	Agonist	Calcium	small-molecule	2024-04-17		O	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	Q:1006	
+9AXF	Q, R	TCR	449440	Co-agonist	TNCA	small-molecule	2024-04-17		GA, P	c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O	FSNCEEGOMTYXKY-JTQLQIEISA-N		false	extracellular_domain	Q:1005, R:1005	
+9AXF	R	CA	271	Agonist	Calcium Ion	small-molecule	2024-04-17		T	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	R:1009	
+9AXF	Q	CA	271	Agonist	Calcium Ion	small-molecule	2024-04-17		LA	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	Q:1010	
 9AXF	Q, R	9IG	158797	PAM	NPS R-568	small-molecule	2024-04-17		MA, U	C[C@H](c1cccc(c1)OC)NCCCc2ccccc2Cl	ZVQUCWXZCKWZBP-CQSZACIVSA-N		false	allosteric_7tm	Q:1011, R:1010	
-9AYF	Q, R	TCR	449440	Agonist	TNCA	small-molecule	2024-04-17		N, X	c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O	FSNCEEGOMTYXKY-JTQLQIEISA-N		false	extracellular_domain	Q:1004, R:1004	
-9AYF	Q, R	CA	271	Agonist	Calcium ion	small-molecule	2024-04-17		AA, P, Q, Z	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	R:1007, Q:1006, Q:1007, R:1006	
+9AYF	Q, R	TCR	449440	Co-agonist	TNCA	small-molecule	2024-04-17		N, X	c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O	FSNCEEGOMTYXKY-JTQLQIEISA-N		false	extracellular_domain	Q:1004, R:1004	
+9AYF	R	CA	271	Agonist	Calcium ion	small-molecule	2024-04-17		CA	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	R:1009	
+9AYF	Q	CA	271	Agonist	Calcium ion	small-molecule	2024-04-17		S	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	Q:1009	
 9AYF	Q, R	9IG	158797	PAM	NPS R-568	small-molecule	2024-04-17		EA, T	C[C@H](c1cccc(c1)OC)NCCCc2ccccc2Cl	ZVQUCWXZCKWZBP-CQSZACIVSA-N		false	allosteric_7tm	R:1011, Q:1010	
 9B5Y	L	pep	172915634	Agonist	Long-acting parathyroid hormone analog	peptide	2025-03-19			CC[C@H](C)[C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC5=CNC=N5)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CC6=CNC=N6)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)N	CJNIIWBAKDKTCF-NBCFYLKLSA-N	AVAEIQLMHQRAKWIQDARRRAFLHKLIAEIHTAEI	unknown	orthosteric		
 9BKJ	P	pep	9833444	Agonist	Cholecystokinin-8	peptide	2024-05-22			CSCC[C@@H](C(=O)NCC(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N)NC(=O)[C@H](CC4=CC=C(C=C4)OS(=O)(=O)O)NC(=O)[C@H](CC(=O)O)N	IZTQOLKUZKXIRV-YRVFCXMDSA-N	DYMGWMDF	unknown	orthosteric		PEPTIDE1{D.[Tys].M.G.W.M.D.F.[am]}$$$$
@@ -640,7 +666,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9BUB	P	pep	171397054	Agonist	Cagrilintide	peptide	2025-04-23			CC[C@H](C)[C@@H](C(=O)N[C@H](CC(C)C)C(=O)N1CCC[C@@H]1C(=O)N2CCC[C@@H]2C(=O)N[C@H]([C@H](C)O)C(=O)N[C@H](CC(=O)N)C(=O)N[C@H](C(C)C)C(=O)NCC(=O)N[C@H](CO)C(=O)N[C@H](CC(=O)N)C(=O)N[C@H]([C@H](C)O)C(=O)N3CCC[C@@H]3C(=O)N)NC(=O)[C@@H]4CCCN4C(=O)CNC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CNC=N6)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC7=CC=CC=C7)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H](C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](C)NC(=O)[C@@H]8CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N8)[C@@H](C)O)C)[C@@H](C)O)CC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCCCC(=O)O	LDERDVMBIYGIOI-IZVMHKDJSA-N	EKCNTATCATQRLAEFLRHSSNNFGPILPPTNVGSNTPX	unknown	orthosteric		
 9C1P	A, B	A1ATP	172011841	PAM	'6218	small-molecule	2024-10-02		J, U	CN1CCC[C@H](c2c1cccc2)NCCc3c4ccccc4sn3	NTSRRQYIQQABFA-QGZVFWFLSA-N		false	allosteric_7tm	A:1008, B:1008	
 9C1P	A, B	TRP	6305	Co-agonist	L-tryptophan	small-molecule	2024-10-02		H, P	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1006, B:1003	
-9C1P	A, B	CA	271	Agonist	Calcium ion	small-molecule	2024-10-02		D, E, F, G, K, Q, R, S	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1002, A:1003, A:1004, A:1005, A:1009, B:1004, B:1005, B:1006	
+9C1P	A	CA	271	Agonist	Calcium ion	small-molecule	2024-10-02		E	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1003	
+9C1P	A	CA	271	Agonist	Calcium ion	small-molecule	2024-10-02		K	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1009	
 9CBL	R	ALE	5816	Agonist	L-EPINEPHRINE	small-molecule	2024-09-11		E	CNC[C@@H](c1ccc(c(c1)O)O)O	UCTWMZQNUQWSLP-VIFPVBQESA-N		true	orthosteric	R:501	
 9CBM	R	CZX	5311068	Agonist	Dexmedetomidine	small-molecule	2024-09-11		E	Cc1cccc(c1C)[C@H](C)c2c[nH]cn2	CUHVIMMYOGQXCV-NSHDSACASA-N		false	orthosteric	R:501	
 9CLW	R	9UJ	138319694	Agonist	TUG-1375	small-molecule	2025-06-25		F	Cc1c(c(on1)C)c2ccc(cc2)C(=O)N3[C@@H](CS[C@@H]3c4ccccc4Cl)C(=O)O	RZAMDGBOOPJHJQ-GHTZIAJQSA-N		false	orthosteric	R:501	
@@ -672,7 +699,6 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9EPQ	R	A1H6M	11659594	Agonist	11,20-Ethanoretinal	small-molecule	2024-10-23		E	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C2=C/C(=C/C=O)/CCC2)/C	FOYUFPJPFUUNOX-ZRTTZBFNSA-N		false	orthosteric	R:401	
 9GE2	R	A1IKH	2440433	Agonist	ML184	small-molecule	2025-03-05		G	Cc1cccc(c1C)N2CCN(CC2)C(=O)c3cc(ccc3N4CCCC4)S(=O)(=O)N(C)C	VRSJAHQGJHDACS-UHFFFAOYSA-N		false	orthosteric	R:401	
 9GG5	R	PUC	5311493	Agonist	U46619	small-molecule	2025-08-27		E	CCCCC[C@@H](/C=C/[C@H]1[C@H]2C[C@@H]([C@@H]1C/C=C\CCCC(=O)O)CO2)O	LQANGKSBLPMBTJ-BRSNVKEHSA-N		false	orthosteric	R:401	
-9GG5	R	CLR	5997	PAM	CHOLESTEROL	lipid	2025-08-27		F, G	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	allosteric_7tm	R:402, R:403	
 9GGG	R	A1IK0	5311175	Agonist	I-BOP	small-molecule	2025-08-27		F	c1cc(ccc1OC[C@@H](/C=C/[C@H]2[C@H]3CC[C@@H]([C@@H]2C/C=C\CCCC(=O)O)O3)O)I	UYFMSCHBODMWON-HBHIRWTLSA-N		false	orthosteric	R:401	
 9GL2	R	ZKV	9865384	Agonist	Befiradol	small-molecule	2025-07-02		G	Cc1ccc(nc1)CNCC2(CCN(CC2)C(=O)c3ccc(c(c3)Cl)F)F	PKZXLMVXBZICTF-UHFFFAOYSA-N		false	orthosteric	R:503	
 9GL2	R	T7M		PAM	PI4P	small-molecule	2025-07-02		F	CCCCCCCCCCCCCCCCC(=O)OC[C@H](CO[P@@](=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)OP(=O)(O)O)O)O)OC(=O)CCC/C=C\C/C=C\C/C=C\C/C=C\CCCCC	WSLBJQQQZZTFBA-NPJVAJNNSA-N		false	intracellular	R:502	
@@ -694,7 +720,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9J87	A	F5U	1833	Agonist	5-Methoxytryptamine	small-molecule	2026-02-25		F	COc1ccc2c(c1)c(c[nH]2)CCN	JTEJPPKMYBDEMY-UHFFFAOYSA-N		false	orthosteric	A:501	
 9JCL	R	ADP	6022	Agonist	ADENOSINE-5'-DIPHOSPHATE	small-molecule	2025-09-10		F	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@](=O)(O)OP(=O)(O)O)O)O)N	XTWYTFMLZFPYCI-KQYNXXCUSA-N		true	orthosteric	R:601	
 9JCO	R	A1L35	5311265	PAM	Lysophosphatidylcholine (LPC)	small-molecule	2025-07-09		H	CC(=O)OC[C@H](COP(=O)(O)OCC[N+](C)(C)C)O	RYCNUMLMNKHWPZ-SNVBAGLBSA-O		false	allosteric_7tm	R:403	
-9JCP	R	A1L35	5311265	PAM	Lysophosphatidylcholine (LPC)	small-molecule	2025-07-09		G, H	CC(=O)OC[C@H](COP(=O)(O)OCC[N+](C)(C)C)O	RYCNUMLMNKHWPZ-SNVBAGLBSA-O		false	allosteric_7tm	R:402, R:403	
+9JCP	R	A1L35	5311265	PAM	Lysophosphatidylcholine (LPC)	small-molecule	2025-07-09		H	CC(=O)OC[C@H](COP(=O)(O)OCC[N+](C)(C)C)O	RYCNUMLMNKHWPZ-SNVBAGLBSA-O		false	allosteric_7tm	R:403	
 9JFK	C	pep		Agonist	P5U	peptide	2025-12-03					DXFWKYCV	unknown	orthosteric		
 9JH5	R	16C	5283564	Agonist	C16:0 ceramide	small-molecule	2025-04-23		G	CCCCCCCCCCCCCCCC(=O)N[C@@H](CO)[C@@H](\C=C\CCCCCCCCCCCCC)O	YDNKGFDKKRUKPY-TURZORIXSA-N		false	orthosteric	R:401	
 9JH6	R	A1LXR	5283574	Agonist	Cer(d18:0/20:0)	small-molecule	2025-04-30		G	CCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO)[C@@H](CCCCCCCCCCCCCCC)O	ZWAUSWHRQBSECP-PQQNNWGCSA-N		false	orthosteric	R:401	
@@ -706,7 +732,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9K0K	I	UTP	6133	Agonist	URIDINE 5'-TRIPHOSPHATE	small-molecule	2025-06-11		F	C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@@](=O)(O)O[P@@](=O)(O)OP(=O)(O)O)O)O	PGAVKCOVUIYSFO-XVFCMESISA-N		true	orthosteric	I:401	
 9K0X	I	ATP	5957	Agonist	ADENOSINE-5'-TRIPHOSPHATE	small-molecule	2025-06-11		F	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)O)O)N	ZKHQWZAMYRWXGA-KQYNXXCUSA-N		true	orthosteric	I:401	
 9K1D	R	BUA	264	Agonist	butanoic acid	small-molecule	2024-12-11		E	CCCC(=O)O	FERIUCNNQQJTOY-UHFFFAOYSA-N		true	orthosteric	R:401	
-9K1D	R	CLR	5997	PAM	CHOLESTEROL	lipid	2024-12-11		F, G	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	allosteric_7tm	R:402, R:403	
+9K1D	R	CLR	5997	PAM	CHOLESTEROL	lipid	2024-12-11		F	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	allosteric_7tm	R:402	
+9K1D	R	CLR	5997	PAM	CHOLESTEROL	lipid	2024-12-11		G	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	allosteric_7tm	R:403	
 9KB8	C	pep		Agonist	R-spondin-2	protein	2025-10-15					MQFRLFSFALIILNCMDYSHCQGNRWRRSKRASYVSNPICKGCLSCSKDNGCSRCQQKLFFFLRREGMRQYGECLHSCPSGYYGHRAPDMNRCARCRIENCDSCFSKDFCTKCKVGFYLHRGRCFDECPDGFAPLEETMECVEENLYFQGHHHHHHHHHH	unknown	extracellular_domain		
 9KB8	B, D	pep		unknown	ZNRF3	protein	2025-10-15					METGLRWLLLVAVLKGVQCKETAFVEVVLFESSPSGDYTTYTTGLTGRFSRAGATLSAEGEIVQMHPLGLCNNNDEEDLYEYGWVGVVKLEQPELDPKPCLTVLGKAKRAVQRGATAVIFDVSENPEAIDQLNQGSEDPLKRPVVYVKGADAIKLMNIVNKQKVARARIQHRPPRQPTEYFDMGIFLAFFVVVSLVCLILLVKIKLKQRRSQNSMNRLAVQALEKMETRKF	unknown	extracellular_domain		
 9KB9	B, F	pep		Agonist	R-spondin-2	protein	2025-10-15					MQFRLFSFALIILNCMDYSHCQGNRWRRSKRASYVSNPICKGCLSCSKDNGCSRCQQKLFFFLRREGMRQYGECLHSCPSGYYGHRAPDMNRCARCRIENCDSCFSKDFCTKCKVGFYLHRGRCFDECPDGFAPLEETMECVEENLYFQGHHHHHHHHHH	unknown	extracellular_domain		
@@ -758,7 +785,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9M54	L	pep	71451611	Agonist	Neuropeptide VF	peptide	2025-07-23			CC(C)C[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](C(C)C)N	JFZCLMZUABKABL-GVCDGELBSA-N	VPNLPQRFX	unknown	orthosteric		
 9M55	R	A1L8N	36326	Agonist	DPMF	small-molecule	2025-12-17		F	Cc1ccc(c(c1)C)/N=C/NC	JIIOLEGNERQDIP-UHFFFAOYSA-N		false	orthosteric	R:901	
 9M57	R	OTR	440266	Agonist	(R)-octopamine	small-molecule	2025-12-17		F	c1cc(ccc1[C@H](CN)O)O	QHGUCRYDKWKLMG-QMMMGPOBSA-N		false	orthosteric	R:401	
-9M88	A, B	A1EM2	125286314	NAM	AF64394	small-molecule	2025-09-24		N, O	CC(C)Oc1cc(ccc1CNc2cc(nc3n2ncn3)c4ccccc4)Cl	WBYNZQXAAWPAGR-UHFFFAOYSA-N		false	allosteric_7tm	A:410, B:401	
+9M88	B	A1EM2	125286314	NAM	AF64394	small-molecule	2025-09-24		O	CC(C)Oc1cc(ccc1CNc2cc(nc3n2ncn3)c4ccccc4)Cl	WBYNZQXAAWPAGR-UHFFFAOYSA-N		false	allosteric_7tm	B:401	
+9M88	A	A1EM2	125286314	NAM	AF64394	small-molecule	2025-09-24		N	CC(C)Oc1cc(ccc1CNc2cc(nc3n2ncn3)c4ccccc4)Cl	WBYNZQXAAWPAGR-UHFFFAOYSA-N		false	allosteric_7tm	A:410	
 9M88	A, B	5YM	5283454	Agonist	Oleoylethanolamide (OEA)	lipid	2025-09-24		E, Q	CCCCCCCC/C=C\CCCCCCCC(=O)NCCO	BOWVQLFMWHZBEF-KTKRTIGZSA-N		true	orthosteric	A:401, B:403	
 9MD1	C, R	YLX	2477	Agonist	Buspirone	small-molecule	2025-08-13		F, L	c1cnc(nc1)N2CCN(CC2)CCCCN3C(=O)CC4(CCCC4)CC3=O	QWCRAEMEVRGPNT-UHFFFAOYSA-N		false	orthosteric	C:501, R:501	
 9MD1	C, R	J40		PAM	PtdIns4P	lipid	2025-08-13		K, Q	CCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC1[C@@H]([C@H](C([C@H]([C@H]1O)O)OP(=O)(O)O)O)O)OC(=O)CCC/C=C/C/C=C/CC=CCC=CC	KFDYJTVTHSTWNE-UDQXHECVSA-N		false	intracellular	C:506, R:506	
@@ -790,7 +818,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9U4Y	C	pep	638793	Agonist	GnRH	peptide	2025-06-11			CC(C)C[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N)NC(=O)CNC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6	XLXSAKCOAKORKW-AQJXLSMYSA-N	QHWSYGLRPGX	unknown	orthosteric		
 9UAM	A	LTX	5280493	Agonist	Leukotriene C4	small-molecule	2026-03-18		G	CCCCC/C=C\C/C=C\C=C\C=C\[C@H]([C@H](CCCC(=O)O)O)SC[C@@H](C(=O)NCC(=O)O)NC(=O)CC[C@@H](C(=O)O)N	GWNVDXQDILPJIG-NXOLIXFESA-N		true	orthosteric	A:602	
 9UAN	A	LTD	5280878	Agonist	Leukotriene D4	small-molecule	2026-03-18		G	CCCCC/C=C\C/C=C\C=C\C=C\[C@H]([C@H](CCCC(=O)O)O)SC[C@@H](C(=O)NCC(=O)O)N	YEESKJGWJFYOOK-IJHYULJSSA-N		false	orthosteric	A:602	
-9UAZ	B	A1EBT	154417	Antagonist	Atropine	small-molecule	2025-10-29		B	CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)[C@H](CO)c3ccccc3	RKUNBYITZUJHSG-QKPAOTATSA-N		false	orthosteric	B:501	
+9UAZ	B	A1EBT	154417	Antagonist	Atropine	small-molecule	2025-10-29		B	CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)[C@H](CO)c3ccccc3	RKUNBYITZUJHSG-VFSICIBPSA-N		false	orthosteric	B:501	
 9UCO	G, L	pep		Agonist	Stalk peptide	peptide	2026-04-08					ANLAIIMASGELTME	unknown	orthosteric		
 9UCP	A	IXO	10104167	Agonist	Iperoxo	small-molecule	2025-10-29		D	C[N+](C)(C)CC#CCOC1=NOCC1	WXXOCGISBCTWPW-UHFFFAOYSA-N		false	orthosteric	A:500	
 9UCP	C	pep		Allosteric agonist	Nanobody Nb1B4	protein	2025-10-29					QVQLQESGGGLVQAGGSLRLSCAASGSIFYGYYMGWYRQAPGKEREFVATINYGASTNYADSVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCAVRRVYVYVQRYYHYYWGQGTQVTVSS	unknown	extracellular_vestibule		
@@ -1178,7 +1206,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 6P9X	P	pep	16186200	Agonist	CRF	peptide	2020-02-05			CC[C@H](C)[C@@H](C(=O)N)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC2=CNC=N2)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@@H]4CCCN4C(=O)[C@@H]5CCCN5C(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)N	GBONBLHJMVUBSJ-FAUHKOHMSA-N	SEEPPISLDLTFHLLREVLEMARAEQLAQQAHSNRKLMEII	unknown	orthosteric		PEPTIDE1{S.E.E.P.P.I.S.L.D.L.T.F.H.L.L.R.E.V.L.E.M.A.R.A.E.Q.L.A.Q.Q.A.H.S.N.R.K.L.M.E.I.I.[am]}$$$$
 6P9Y	P	pep	91935803	Agonist	PACAP38	peptide	2020-02-05			CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC4=CC=C(C=C4)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](CC5=CC=C(C=C5)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)CNC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CN=CN6)N	UFTCZKMBJOPXDM-XXFCQBPRSA-N	HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNKX	unknown	orthosteric		PEPTIDE1{H.S.D.G.I.F.T.D.S.Y.S.R.Y.R.K.Q.M.A.V.K.K.Y.L.A.A.V.L.G.K.R.Y.K.Q.R.V.K.N.K.[am]}$$$$
 6PB1	U	pep	44321641	Agonist	Urocortin	peptide	2020-02-12			CC[C@H](C)[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](C(C)C)C(=O)N)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC2=CNC=N2)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H]4CCCN4C(=O)[C@H](CC(=O)N)NC(=O)[C@H](CC(=O)O)N	BIIOOWPFSOAZSO-PSXOHVDKSA-N	DNPSLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV	unknown	orthosteric		PEPTIDE1{D.N.[dP].S.L.S.I.D.L.T.F.H.L.L.R.T.L.L.E.L.A.R.T.Q.S.Q.R.E.R.A.E.Q.N.R.I.I.F.D.S.V.[am]}$$$$
-6PB1	P	CLR	5997	PAM	CHOLESTEROL	lipid	2020-02-12		G, H, I, J	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	membrane_facing	P:401, P:402, P:403, P:404	
+6PB1	P	CLR	5997	PAM	CHOLESTEROL	lipid	2020-02-12		I	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	membrane_facing	P:403	
+6PB1	P	CLR	5997	PAM	CHOLESTEROL	lipid	2020-02-12		J	CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	HVYWMOMLDIMFJA-DPAQBDIFSA-N		true	membrane_facing	P:404	
 6PRZ	A	JTZ	204665	Antagonist	(S)-Alprenolol	small-molecule	2019-11-13		B	CC(C)NC[C@@H](COc1ccccc1CC=C)O	PAZJSJFMUHDSTF-AWEZNQCLSA-N		false	orthosteric	A:1201	
 6PS0	A	CAU	13023332	Inverse agonist	Carazolol	small-molecule	2019-11-13		B	CC(C)NC[C@@H](COc1cccc2c1c3ccccc3[nH]2)O	BQXQGZPYHWWCEB-ZDUSSCGKSA-N		false	orthosteric	A:1201	
 6PS1	A	TIM	33624	Inverse agonist	Timolol	small-molecule	2019-11-13		B	CC(C)(C)NC[C@@H](COc1c(nsn1)N2CCOCC2)O	BLJRIMJGRPQVNF-JTQLQIEISA-N		false	orthosteric	A:1201	
@@ -1226,7 +1255,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 6WHC	E	pep		Agonist	Peptide 15 (P15)	peptide	2020-05-27					HSQGTFTSDYSKYLDEQAAKEFIAWLMNT	unknown	orthosteric		
 6WI9	P	pep	71306891	Agonist	Secretin	peptide	2020-08-12			C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N)NC(=O)CNC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC2=CNC=N2)N)O	OWMZNFCDEHGFEP-NFBCVYDUSA-N	HSDGTFTSELSRLREGARLQRLLQGLV	unknown	orthosteric		
 6WJC	C	pep		NAM	Muscarinic toxin 7	protein	2020-07-08					GPGSLTCVKSNSIWFPTSEDCPDGQNLCFKRWQYISPRMYDFTRGCAATCPKAEYRDVINCCGTDKCNK	unknown	extracellular_vestibule		
-6WJC	A	OIN		Antagonist	Atropine	small-molecule	2020-07-08		H	CN1[C@H]2CC[C@@H]1CC(C2)OC(=O)[C@H](CO)c3ccccc3	RKUNBYITZUJHSG-QKPAOTATSA-N		false	orthosteric	A:506	
+6WJC	A	OIN	154417	Antagonist	Atropine	small-molecule	2020-07-08		H	CN1[C@H]2CC[C@@H]1CC(C2)OC(=O)[C@H](CO)c3ccccc3	RKUNBYITZUJHSG-VFSICIBPSA-N		false	orthosteric	A:506	
 6WPW	P	pep		Agonist	Glucagon derivative ZP3780	peptide	2020-08-12					HSQGTFTSDYSKYLDSRRAEDFVKWLEST	unknown	orthosteric		
 6WQA	A	ZMA	176407	Antagonist	ZM241385	small-molecule	2020-11-18		C	c1cc(oc1)c2nc3nc(nc(n3n2)N)NCCc4ccc(cc4)O	PWTBZOIUWZOPFT-UHFFFAOYSA-N		false	orthosteric	A:1202	
 6WWZ	C	pep		Agonist	CCL20	protein	2020-06-24					ASNFDCCLGYTDRILHPKFIVGFTRQLANEGCDINAIIFHTKKKLSVCANPKQTWVKYIVRLLSKKVKNM	unknown	orthosteric		
@@ -1249,7 +1278,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 6ZIN	A	Q6Q		Inverse agonist	SR48692	small-molecule	2021-02-10		B	COc1cccc(c1c2cc(nn2c3ccnc4c3ccc(c4)Cl)C(=O)NC5(C6CC7CC(C6)CC5C7)C(=O)O)OC	DYLJVOXRWLXDIG-LWXMPVTCSA-N		false	orthosteric	A:1000	
 7ARO	A	RVZ	11174953	Agonist (partial)	LUF5833	small-molecule	2021-04-07		B	c1ccc(cc1)c2c(c(nc(c2C#N)SCc3[nH]ccn3)N)C#N	MUJWBVGOOQHTTJ-UHFFFAOYSA-N		false	orthosteric	A:1201	
 7AUE	C	pep	11993702	Agonist	Setmelanotide	peptide	2021-04-28			C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N1)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C)C(=O)N)CC2=CNC3=CC=CC=C32)CCCN=C(N)N)CC4=CC=CC=C4)CC5=CN=CN5	HDHDTKMUACZDAA-PHNIDTBTSA-N	XRCAHFRWC	unknown	orthosteric		
-7AUE	R	CA	271	Cofactor	CALCIUM ION	small-molecule	2021-04-28		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
+7AUE	R	CA	271	PAM	CALCIUM ION	small-molecule	2021-04-28		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
 7BB6	H	pep	644077	Agonist	arginine-vasopressin	peptide	2021-06-02			C1C[C@H](N(C1)C(=O)[C@@H]2CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N	KBZOIRJILGZLEJ-LGYYRGKSSA-N	CYFQNCPRGX	unknown	orthosteric		
 7BB7	H	pep	644077	Agonist	Vasopressin	peptide	2021-06-02			C1C[C@H](N(C1)C(=O)[C@@H]2CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)N	KBZOIRJILGZLEJ-LGYYRGKSSA-N	CYFQNCPRGX	unknown	orthosteric		
 7BR3	A	F5O	11250647	Antagonist	Elagolix	small-molecule	2020-10-07		L	CC1=C(C(=O)N(C(=O)N1Cc2c(cccc2F)C(F)(F)F)C[C@@H](c3ccccc3)NCCCC(=O)O)c4cccc(c4F)OC	HEAUOKZIVMZVQL-VWLOTQADSA-N		false	orthosteric	A:1211	
@@ -1283,9 +1312,10 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 7DH5	R	H6U	9865528	Agonist	Mirabegron	small-molecule	2021-08-04		F	c1ccc(cc1)[C@H](CNCCc2ccc(cc2)NC(=O)Cc3csc(n3)N)O	PBAPPPCECJKMCM-IBGZPJMESA-N		false	orthosteric	R:401	
 7DHI	R	68H	123600	Agonist (partial)	SALBUTAMOL	small-molecule	2020-12-16		F	CC(C)(C)NC[C@@H](c1ccc(c(c1)CO)O)O	NDAUXUAQIAJITI-LBPRGKRZSA-N		false	orthosteric	R:401	
 7DHR	R	5FW	443372	Agonist	ISOPRENALINE	small-molecule	2020-12-16		F	CC(C)NC[C@@H](c1ccc(c(c1)O)O)O	JWZZKOKVBUJMES-NSHDSACASA-N		false	orthosteric	R:601	
-7DTU	A, B	TRP	6305	PAM	L-Tryptophan	small-molecule	2021-03-10		G, K	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1101, B:1101	
+7DTU	A, B	TRP	6305	Co-agonist	L-Tryptophan	small-molecule	2021-03-10		G, K	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1101, B:1101	
 7DTV	A, B	TRP	6305	Co-agonist	L-tryptophan	small-molecule	2021-03-10		G, O	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1101, B:1101	
-7DTV	A, B	CA	271	Agonist	CALCIUM ION	small-molecule	2021-03-10		H, I, N, P	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1102, A:1103, A:1108, B:1102	
+7DTV	A	CA	271	Agonist	CALCIUM ION	small-molecule	2021-03-10		I	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1103	
+7DTV	A	CA	271	Agonist	CALCIUM ION	small-molecule	2021-03-10		N	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1108	
 7DUQ	P	pep	44290899	Agonist	Glucagon-like peptide 1	peptide	2021-07-14			CC[C@H](C)[C@@H](C(=O)N[C@@H](C)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)NCC(=O)N[C@@H](CCCN=C(N)N)C(=O)NCC(=O)O)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)N)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC5=CC=CC=C5)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CC6=CNC=N6)N	GCYXWQUSHADNBF-AAEALURTSA-N	HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR	unknown	orthosteric		
 7DUQ	R	HNO	156022738	Ago-PAM	Compound 2	small-molecule	2021-07-14		G	CC(C)(C)Nc1cnc2cc(c(cc2n1)Cl)Cl	QYEPFRWKAAVUOP-UHFFFAOYSA-N		false	intracellular	R:501	
 7DUR	R	HNO	156022738	Ago-PAM	Compound 2	small-molecule	2021-08-11		F	CC(C)(C)Nc1cnc2cc(c(cc2n1)Cl)Cl	QYEPFRWKAAVUOP-UHFFFAOYSA-N		false	intracellular	R:701	
@@ -1329,10 +1359,13 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 7F23	F	LDP	681	Agonist	L-DOPAMINE	small-molecule	2022-06-15		F	c1cc(c(cc1CCN)O)O	VYFYYTLLBUKUHU-UHFFFAOYSA-N		true	orthosteric	F:501	
 7F24	F	LDP	681	Agonist	Dopamine	small-molecule	2022-06-15		F	c1cc(c(cc1CCN)O)O	VYFYYTLLBUKUHU-UHFFFAOYSA-N		true	orthosteric	F:501	
 7F53	L	pep	16133793	Agonist	alpha-melanocyte-stimulating hormone	peptide	2021-11-03			CC(C)[C@@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CC2=CNC3=CC=CC=C32)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](CC5=CNC=N5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CC=C(C=C6)O)NC(=O)[C@H](CO)NC(=O)C	WHNFPRLDDSXQCL-UAZQEYIDSA-N	XSYSMEHFRWGKPVX	unknown	orthosteric		
-7F53	R	CA	271	Cofactor	CALCIUM ION	small-molecule	2021-11-03		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:601	
+7F53	R	CA	271	PAM	CALCIUM ION	small-molecule	2021-11-03		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:601	
 7F54	L	pep	16197727	Agonist	afamelanotide	peptide	2021-11-03			CCCC[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@H](CC2=CC=CC=C2)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N5CCC[C@H]5C(=O)N[C@@H](C(C)C)C(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CC=C(C=C6)O)NC(=O)[C@H](CO)NC(=O)C	UAHFGYDRQSXQEB-LEBBXHLNSA-N	XSYSLEHFRWGKPV	unknown	orthosteric		
+7F54	R	CA	271	PAM	CALCIUM ION	small-molecule	2021-11-03		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:601	
 7F55	L	pep	9941379	Agonist	bremelanotide	peptide	2021-11-03			CCCC[C@@H](C(=O)N[C@H]1CC(=O)NCCCC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](NC1=O)CC2=CN=CN2)CC3=CC=CC=C3)CCCN=C(N)N)CC4=CNC5=CC=CC=C54)C(=O)O)NC(=O)C	FFHBJDQSGDNCIV-MFVUMRCOSA-N	LDHFRWK	unknown	orthosteric		
+7F55	R	CA	271	PAM	CALCIUM ION	small-molecule	2021-11-03		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:601	
 7F58	R	1I8	9938402	Agonist	THIQ	small-molecule	2021-11-03		F	c1ccc2c(c1)C[C@@H](NC2)C(=O)N[C@H](Cc3ccc(cc3)Cl)C(=O)N4CCC(CC4)(Cn5cncn5)C6CCCCC6	HLCHESOMJVGDSJ-LOYHVIPDSA-N		false	orthosteric	R:601	
+7F58	R	CA	271	PAM	CALCIUM ION	small-molecule	2021-11-03		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:602	
 7F6I	L	pep	5311111	Agonist	Kallidin	peptide	2022-01-05			C1C[C@H](N(C1)C(=O)[C@@H]2CCCN2C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCCCN)N)C(=O)NCC(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N[C@@H](CO)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CC5=CC=CC=C5)C(=O)N[C@@H](CCCN=C(N)N)C(=O)O	FYSKZKQBTVLYEQ-FSLKYBNLSA-N	KRPPGFSPFR	unknown	orthosteric		
 7F8U	A	1OE	122077	Antagonist	Lintitript	small-molecule	2021-10-13		B	c1ccc2c(c1)cc(n2CC(=O)O)C(=O)Nc3nc(cs3)c4ccccc4Cl	ILNRQFBVVQUOLP-UHFFFAOYSA-N		false	orthosteric	A:1501	
 7F8V	E	pep	16162108	Agonist	Gastrin-17	peptide	2021-10-13			C[C@@H](C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)NCC(=O)N[C@@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@@H]7CCCN7C(=O)CNC(=O)[C@@H]8CCC(=O)N8	GKDWRERMBNGKCZ-RNXBIMIWSA-N	QGPWLEEEEEAYGWMDF	unknown	orthosteric		
@@ -1511,14 +1544,17 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 7LLY	P	pep	16144019	Agonist	Oxyntomodulin	peptide	2022-01-12			CC[C@H](C)[C@@H](C(=O)N[C@@H](C)C(=O)O)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCSC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC1=CNC2=CC=CC=C21)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC5=CC=C(C=C5)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC6=CC=CC=C6)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC7=CN=CN7)N	PXZWGQLGAKCNKD-DPNMSELWSA-N	HSQGTFTSDYSKYLDSRRAQDFVQWLMNTKRNKNNIA	unknown	orthosteric		
 7M3E	A, B	YP1	6918446	NAM	NPS-2143	small-molecule	2021-06-30		D, N	CC(C)(Cc1ccc2ccccc2c1)NC[C@H](COc3cccc(c3C#N)Cl)O	PZUJQWHTIRWCID-HXUWFJFHSA-N		false	allosteric_7tm	A:901, B:901	
 7M3E	A, B	TRP	6305	Co-agonist	TRYPTOPHAN	small-molecule	2021-06-30		I, T	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:906, B:907	
-7M3E	A, B	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-30		J, K, L, U	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:907, A:908, A:909, B:908	
+7M3E	A	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-30		K	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:908	
+7M3E	A	CA	271	Agonist	CALCIUM ION	small-molecule	2021-06-30		L	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:909	
 7M3F	A, B	YP4	156419	PAM	Cinacalcet	small-molecule	2021-06-30		J, U	C[C@H](c1cccc2c1cccc2)NCCCc3cccc(c3)C(F)(F)F	VDHAWDNDOKGFTD-MRXNPFEDSA-N		false	allosteric_7tm	A:905, B:906	
-7M3F	A, B	TRP	6305	PAM	L-Tryptophan	small-molecule	2021-06-30		K, V	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:906, B:907	
-7M3F	A, B	CA	271	Agonist	Calcium Ion	small-molecule	2021-06-30		L, M, N, W	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:907, A:908, A:909, B:908	
+7M3F	A, B	TRP	6305	Co-agonist	L-Tryptophan	small-molecule	2021-06-30		K, V	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:906, B:907	
+7M3F	A	CA	271	Agonist	Calcium Ion	small-molecule	2021-06-30		M	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:908	
+7M3F	A	CA	271	Agonist	Calcium Ion	small-molecule	2021-06-30		N	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:909	
 7M3G	C, D	pep	71511839	PAM	Etelcalcetide	peptide	2021-06-30			C[C@H](C(=O)N[C@H](CCCN=C(N)N)C(=O)N)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)[C@@H](C)NC(=O)[C@@H](CSSC[C@@H](C(=O)O)N)NC(=O)C	ANIAZGVDEUQPRI-ZJQCGQFWSA-N	XCARRRARX	unknown	extracellular_domain		
 7M3G	A, B	H43	71242808	PAM	Evocalcet	small-molecule	2021-06-30		J, S	C[C@H](c1cccc2c1cccc2)N[C@H]3CCN(C3)c4ccc(cc4)CC(=O)O	RZNUIYPHQFXBAN-XLIONFOSSA-N		false	allosteric_7tm	A:901, B:901	
-7M3G	A, B	CA	271	Agonist	Calcium ion	small-molecule	2021-06-30		O, P, R, W	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:906, A:907, A:909, B:905	
-7M3G	A, B	TRP	6305	PAM	Tryptophan	small-molecule	2021-06-30		N, V	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:905, B:904	
+7M3G	A, B	TRP	6305	Co-agonist	Tryptophan	small-molecule	2021-06-30		N, V	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:905, B:904	
+7M3G	A	CA	271	Agonist	Calcium ion	small-molecule	2021-06-30		P	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:907	
+7M3G	A	CA	271	Agonist	Calcium ion	small-molecule	2021-06-30		R	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:909	
 7M3J	A, B	YP1	6918446	NAM	NPS-2143	small-molecule	2021-06-30		D, I	CC(C)(Cc1ccc2ccccc2c1)NC[C@H](COc3cccc(c3C#N)Cl)O	PZUJQWHTIRWCID-HXUWFJFHSA-N		false	allosteric_7tm	A:901, B:901	
 7M8W	A	YSS	5283097	Agonist	15R-methyl-prostaglandin D2	small-molecule	2021-08-25		B	CCCCC[C@](C)(/C=C/[C@@H]1[C@H]([C@H](CC1=O)O)C/C=C\CCCC(=O)O)O	CTXLUMAOXBULOZ-BKVRKCTKSA-N		false	orthosteric	A:2401	
 7MBX	P	pep	9833444	Agonist	Cholecystokinin-8	peptide	2021-05-26			CSCC[C@@H](C(=O)NCC(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N)NC(=O)[C@H](CC4=CC=C(C=C4)OS(=O)(=O)O)NC(=O)[C@H](CC(=O)O)N	IZTQOLKUZKXIRV-YRVFCXMDSA-N	DYMGWMDFX	unknown	orthosteric		PEPTIDE1{D.[Tys].M.G.W.M.D.F.[am]}$$$$
@@ -1538,7 +1574,9 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 7P02	P	pep	36511	Agonist	Substance P	peptide	2021-12-15			CC(C)C[C@@H](C(=O)N[C@@H](CCSC)C(=O)N)NC(=O)CNC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCCCN)NC(=O)[C@@H]4CCCN4C(=O)[C@H](CCCN=C(N)N)N	ADNPLDHMAVUMIW-CUZNLEPHSA-N	RPKPQQFFGLMX	unknown	orthosteric		PEPTIDE1{R.P.K.P.Q.Q.F.F.G.L.M.[am]}$$$$
 7P2L	A	4YI		NAM	alloswitch-1	small-molecule	2021-09-08		B	COc1cc(ccc1NC(=O)c2ccccc2Cl)/N=N/c3ccccn3	JJRNGNCTPCWXGM-WCWDXBQESA-N		false	allosteric_7tm	A:1201	
 7PIU	P	pep	11993702	Agonist	Setmelanotide	peptide	2021-11-17			C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N1)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C)C(=O)N)CC2=CNC3=CC=CC=C32)CCCN=C(N)N)CC4=CC=CC=C4)CC5=CN=CN5	HDHDTKMUACZDAA-PHNIDTBTSA-N	RCAHFRWC	unknown	orthosteric		
+7PIU	R	CA	271	PAM	CALCIUM ION	small-molecule	2021-11-17		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:401	
 7PIV	P	pep	16197727	Agonist	NDP-alpha-MSH	peptide	2021-11-17			CCCC[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@H](CC2=CC=CC=C2)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N5CCC[C@H]5C(=O)N[C@@H](C(C)C)C(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CC=C(C=C6)O)NC(=O)[C@H](CO)NC(=O)C	UAHFGYDRQSXQEB-LEBBXHLNSA-N	XSYSLEHFRWGKPVX	unknown	orthosteric		
+7PIV	R	CA	271	PAM	CALCIUM ION	small-molecule	2021-11-17		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:401	
 7PP1	A	7Y5	59534142	Inverse agonist	Selatogrel	small-molecule	2022-11-02		B	CCCCOC(=O)N1CCN(CC1)C(=O)[C@H](CP(=O)(O)O)NC(=O)c2cc(nc(n2)c3ccccc3)N4CC[C@@H](C4)OC	FYXHWMQPCJOJCH-GMAHTHKFSA-N		false	orthosteric	A:1201	
 7PX4	A	8E2	162677683	Antagonist	Preladenant conjugate PSB-2113	small-molecule	2022-03-02		E	CC(C)(C)OC(=O)COCCOCCOCCOCCNC(=O)COc1ccc(cc1)N2CCN(CC2)CCn3c4c(cn3)c5nc(nn5c(n4)N)c6ccco6	BIWDHFUPTSCUTC-UHFFFAOYSA-N		false	orthosteric	A:2404	
 7PYR	A	8IM	162677684	Antagonist	PSB-2115	small-molecule	2022-03-02		E	[B-]1(n2c(cc(c2C(=C3[N+]1=C(C=C3C)C)CCCCCNC(=O)COCCOCCOCCOCCNC(=O)COc4ccc(cc4)N5CCN(CC5)CCn6c7c(cn6)c8nc(nn8c(n7)N)c9ccco9)C)C)(F)F	QJNAIOWKPALGIV-UHFFFAOYSA-N		false	orthosteric	A:2404	
@@ -1561,7 +1599,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 7SF8	A	pep		Agonist	Tethered agonist (TA) peptide	peptide	2022-04-27					TYFAVLMVSSVEVDAVHKHYLSLLSYVGCVVSALACLVTIAAYLCSRRKPRDYTIKVHMNLLLAVFLLDTSFLLSEPVALTGSEAGCRASAIFLHFSLLTCLSWMGLEGYNLYRLVVEVFGTYVPGYLLKLSAMGWGFPIFLVTLVALVDVDNYGPIILAVHRTPEGVIYPSMCWIRDSLVSYITNLGLFSLVFLFNMAMLATMVVQILRLRPHTQKWSHVLTLLGLSLVLGLPWALIFFSFASGTFQLVVLYLFSIITSFQGFLIFIWYWSMRLQARGGPSPLKSNSDSARLPISSGSTSSSRIGSLEVLFQ	unknown	orthosteric		
 7SIL	A, B	9IG	158797	PAM	R-568	small-molecule	2022-01-19		DA, P	C[C@H](c1cccc(c1)OC)NCCCc2ccccc2Cl	ZVQUCWXZCKWZBP-CQSZACIVSA-N		false	allosteric_7tm	B:910, A:910	
 7SIL	A, B	TCR	449440	Co-agonist	TNCA	small-molecule	2022-01-19		J, X	c1ccc2c(c1)c3c([nH]2)CN[C@@H](C3)C(=O)O	FSNCEEGOMTYXKY-JTQLQIEISA-N		false	extracellular_domain	A:904, B:904	
-7SIL	A, B	CA	271	Agonist	CALCIUM ION	small-molecule	2022-01-19		AA, BA, CA, L, M, N, O, Z	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:907, B:908, B:909, A:906, A:907, A:908, A:909, B:906	
+7SIL	A	CA	271	Agonist	CALCIUM ION	small-molecule	2022-01-19		O	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:909	
+7SIL	B	CA	271	Agonist	CALCIUM ION	small-molecule	2022-01-19		CA	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:909	
 7SIN	A, B	YP1	6918446	NAM	NPS-2143	small-molecule	2022-01-19		C, D	CC(C)(Cc1ccc2ccccc2c1)NC[C@H](COc3cccc(c3C#N)Cl)O	PZUJQWHTIRWCID-HXUWFJFHSA-N		false	allosteric_7tm	A:901, B:901	
 7SK3	B	pep		Agonist	Stromal cell-derived factor 1	protein	2022-07-27					KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK	unknown	orthosteric		
 7SK4	B	pep		Agonist	CXCL12_LRHQ	protein	2022-07-27					LRHQSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK	unknown	orthosteric		
@@ -1936,10 +1975,11 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8IKH	R	Q2L	171393541	Allosteric agonist	CB-05	small-molecule	2024-06-05		F	COc1ccccc1[C@H](C[N+](=O)[O-])c2c3ccccc3[nH]c2c4ccccc4	RHDQEIKBUOYTCY-IBGZPJMESA-N		false	allosteric_7tm	R:501	
 8IKL	R	pep		Agonist	Stachel sequence	peptide	2024-01-24					SSFAILMAHYDVEDWKLTLITRVGLALSLFCLLLCILTFLLVRPIQGSRTTIHLHLCICLFVGSTIFLAGIENEGGQVGLRCRLVAGLLHYCFLAAFCWMSLEGLELYFLVVRVFQGQGLSTRWLCLIGYGVPLLIVGVSAAIYSKGYGRPRYCWLDFEQGFLWSFLGPVTFIILCNAVIFVTTVWKLTQKFSEINPDMKKLKKARALTITAIAQLFLLGCTWVFGLFIFDDRSLVLTYVFTILNCLQGAFLYLLHCLLNKKVREEYRKWACLVAGGS	unknown	orthosteric		
 8INR	L	pep	16133793	Agonist	alpha-melanocyte-stimulating hormone	peptide	2023-09-20			CC(C)[C@@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CC2=CNC3=CC=CC=C32)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](CC5=CNC=N5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CC=C(C=C6)O)NC(=O)[C@H](CO)NC(=O)C	WHNFPRLDDSXQCL-UAZQEYIDSA-N	SYSMEHFRWGKPV	unknown	orthosteric		
-8INR	R	CA	271	Co-agonist	CALCIUM ION	small-molecule	2023-09-20		F	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
+8INR	R	CA	271	PAM	CALCIUM ION	small-molecule	2023-09-20		F	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
 8IOC	L	pep	57339641	Agonist	gamma-melanocyte-stimulating hormone	peptide	2023-09-20			CC(C)[C@@H](C(=O)N[C@@H](CCSC)C(=O)NCC(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC5=CC=CC=C5)C(=O)N)NC(=O)[C@H](CC6=CC=C(C=C6)O)N	SLEIICTWQFRIFM-SLNSXFHGSA-N	YVMGHFRWDRF	unknown	orthosteric		
-8IOC	R	CA	271	Cofactor	CALCIUM ION	small-molecule	2023-09-20		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
+8IOC	R	CA	271	PAM	CALCIUM ION	small-molecule	2023-09-20		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
 8IOD	L	pep		Agonist	PG-901	peptide	2023-09-20					XLDPXRWKX	unknown	orthosteric		
+8IOD	R	CA	271	PAM	CALCIUM ION	small-molecule	2023-09-20		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
 8IRR	R	R5F	59227	Agonist	Rotigotine	small-molecule	2023-06-21		F	CCCN(CCc1cccs1)[C@H]2CCc3c(cccc3O)C2	KFQYTPMOWPVWEJ-INIZCTEOSA-N		false	orthosteric	R:501	
 8IRS	R	R5F	59227	Agonist	Rotigotine	small-molecule	2023-06-07		F	CCCN(CCc1cccs1)[C@H]2CCc3c(cccc3O)C2	KFQYTPMOWPVWEJ-INIZCTEOSA-N		false	orthosteric	R:501	
 8IRT	R	R5F	59227	Agonist	Rotigotine	small-molecule	2023-06-07		F	CCCN(CCc1cccs1)[C@H]2CCc3c(cccc3O)C2	KFQYTPMOWPVWEJ-INIZCTEOSA-N		false	orthosteric	R:501	
@@ -2129,9 +2169,12 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 8W89	R	PEA	448751	Agonist	2-PHENYLETHYLAMINE	small-molecule	2023-11-22		F	c1ccc(cc1)CC[NH3+]	BHHGXPLMPWCGHP-UHFFFAOYSA-O		false	orthosteric	R:401	
 8W8A	R	T5U	24963286	Agonist	RO5256390	small-molecule	2023-11-22		F	[H]/N=C\1/N[C@H](CO1)C[C@H](CC)c2ccccc2	IXDKFUBXESWHSL-JQWIXIFHSA-N		false	orthosteric	R:401	
 8W8B	R	UJL	89532783	Agonist	SEP-363856	small-molecule	2023-11-22		L	CNC[C@H]1c2c(ccs2)CCO1	ABDDQTDRAHXHOC-QMMMGPOBSA-N		false	orthosteric	R:507	
-8W8S	R	U7D	848971	Allosteric agonist	AA-14	small-molecule	2024-01-03		B, C	Cc1ccnc(c1)NC(=S)Nc2cccc(c2)C(F)(F)F	FSUJUFLZGYFLEM-UHFFFAOYSA-N		false	allosteric_7tm	R:601, R:602	
+8W8S	R	U7D	848971	Allosteric agonist	AA-14	small-molecule	2024-01-03		B	Cc1ccnc(c1)NC(=S)Nc2cccc(c2)C(F)(F)F	FSUJUFLZGYFLEM-UHFFFAOYSA-N		false	allosteric_7tm	R:601	
+8W8S	R	U7D	848971	Allosteric agonist	AA-14	small-molecule	2024-01-03		C	Cc1ccnc(c1)NC(=S)Nc2cccc(c2)C(F)(F)F	FSUJUFLZGYFLEM-UHFFFAOYSA-N		false	allosteric_7tm	R:602	
 8W8W	L	pep	16133793	Agonist	alpha-MSH	peptide	2025-03-19			CC(C)[C@@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CC2=CNC3=CC=CC=C32)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC4=CC=CC=C4)NC(=O)[C@H](CC5=CNC=N5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CO)NC(=O)[C@H](CC6=CC=C(C=C6)O)NC(=O)[C@H](CO)NC(=O)C	WHNFPRLDDSXQCL-UAZQEYIDSA-N	SYSMEHFRWGKPV	unknown	orthosteric		
+8W8W	R	CA	271	PAM	CALCIUM ION	small-molecule	2025-03-19		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
 8W8Y	L	pep	57339641	Agonist	Gama-MSH	peptide	2025-03-19			CC(C)[C@@H](C(=O)N[C@@H](CCSC)C(=O)NCC(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC5=CC=CC=C5)C(=O)N)NC(=O)[C@H](CC6=CC=C(C=C6)O)N	SLEIICTWQFRIFM-SLNSXFHGSA-N	YVMGHFRWDRF	unknown	orthosteric		
+8W8Y	R	CA	271	PAM	CALCIUM ION	small-molecule	2025-03-19		G	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:501	
 8WC3	R	UJL	89532783	Agonist	SEP-363856	small-molecule	2023-12-27		F	CNC[C@H]1c2c(ccs2)CCO1	ABDDQTDRAHXHOC-QMMMGPOBSA-N		false	orthosteric	R:401	
 8WC4	R	VMT	533915	Agonist	ZH8651	small-molecule	2023-12-27		F	c1cc(ccc1CCN)Br	ZSZCXAOQVBEPME-UHFFFAOYSA-N		false	orthosteric	R:401	
 8WC5	R	TMA	6380	Agonist	TETRAMETHYLAMMONIUM ION	small-molecule	2023-12-27		F	C[N+](C)(C)C	QEMXHQIAXOOASZ-UHFFFAOYSA-N		false	orthosteric	R:401	
@@ -2306,7 +2349,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9C0K	P	pep		Agonist	Exendin-phe1	peptide	2025-06-11					FGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS	unknown	orthosteric		
 9C2F	A, B	A1ATX	165950140	PAM	'54149	small-molecule	2024-10-02		J, V	C[C@H](c1cccc2c1OCO2)NCCc3c4ccccc4sn3	NSLXTKXZHISXFJ-GFCCVEGCSA-N		false	allosteric_7tm	A:1007, B:1010	
 9C2F	A, B	TRP	6305	Co-agonist	TRYPTOPHAN	small-molecule	2024-10-02		H, P	c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)O)N	QIVBCDIJIAJPQS-VIFPVBQESA-N		true	extracellular_domain	A:1005, B:1004	
-9C2F	A, B	CA	271	Agonist	CALCIUM ION	small-molecule	2024-10-02		E, F, G, M, Q, R, S, T	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	A:1002, A:1003, A:1004, B:1001, B:1005, B:1006, B:1007, B:1008	
+9C2F	B	CA	271	Agonist	CALCIUM ION	small-molecule	2024-10-02		M	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:1001	
+9C2F	B	CA	271	Agonist	CALCIUM ION	small-molecule	2024-10-02		R	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	extracellular_domain	B:1006	
 9CGJ	A	A1AWC	172908706	Agonist (partial)	C6-Quino	small-molecule	2025-04-02		F	[H]/N=C(/N)\NCCCCCCN1CC[C@]23c4c5ccc(c4O[C@H]2c6c(cc7ccccc7n6)C[C@]3([C@H]1C5)O)O	OXALQPRDLLCJNB-ANYDQABYSA-N		false	orthosteric	A:401	
 9CGK	A	A1AWD	172908707	Agonist	C5-Quino	small-molecule	2025-04-02		F	[H]/N=C(/N)\NCCCCCN1CC[C@]23c4c5ccc(c4O[C@H]2c6c(cc7ccccc7n6)C[C@]3([C@H]1C5)O)O	WEQLQEBFUICRPW-KFDULEKRSA-N		false	orthosteric	A:501	
 9CHU	A	E5E	6921840	Agonist	Noradrenaline	small-molecule	2024-11-13		D	c1cc(c(cc1[C@H](C[NH3+])O)O)O	SFLSHLFXELFNJZ-QMMMGPOBSA-O		false	orthosteric	A:501	
@@ -2377,8 +2421,8 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9J0F	R	NAI	439153	Agonist	NADH	small-molecule	2025-06-04		E	c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO[P@](=O)(O)O[P@@](=O)(O)OC[C@@H]4[C@H]([C@H]([C@@H](O4)N5C=CCC(=C5)C(=O)N)O)O)O)O)N	BOPGDPNILDQYTO-NNYOXOHSSA-N		false	orthosteric	R:401	
 9J0I	R	UGA	17473	Agonist	UDP-glucuronic acid	small-molecule	2025-06-04		F	C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO[P@@](=O)(O)O[P@@](=O)(O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)C(=O)O)O)O)O)O)O	HDYANYHVCAPMJV-LXQIFKJMSA-N		true	orthosteric	R:401	
 9J1P	P	pep		Agonist	g1:Ox	peptide	2025-02-26					HAEGTFTSDVSSYLEGQAAKCFIAWLINCPGECVPGSACPDVCTNTCPL	unknown	orthosteric		
-9JCQ	D	A1L35	5311265	PAM	Lysophosphatidylcholine (LPC)	small-molecule	2025-07-09		F, G	CC(=O)OC[C@H](COP(=O)(O)OCC[N+](C)(C)C)O	RYCNUMLMNKHWPZ-SNVBAGLBSA-O		false	allosteric_7tm	D:1001, D:1002	
-9JEA	A	A1EBT		Antagonist	Atropine	small-molecule	2025-07-09		B	CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)[C@H](CO)c3ccccc3	RKUNBYITZUJHSG-QKPAOTATSA-N		false	orthosteric	A:501	
+9JCQ	D	A1L35	5311265	PAM	Lysophosphatidylcholine (LPC)	small-molecule	2025-07-09		G	CC(=O)OC[C@H](COP(=O)(O)OCC[N+](C)(C)C)O	RYCNUMLMNKHWPZ-SNVBAGLBSA-O		false	allosteric_7tm	D:1002	
+9JEA	A	A1EBT	154417	Antagonist	Atropine	small-molecule	2025-07-09		B	CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)[C@H](CO)c3ccccc3	RKUNBYITZUJHSG-VFSICIBPSA-N		false	orthosteric	A:501	
 9JED	R	HSM	774	Agonist	HISTAMINE	small-molecule	2025-09-10		F	c1c(nc[nH]1)CCN	NTYJJOPFIAHURM-UHFFFAOYSA-N		true	orthosteric	R:401	
 9JEQ	R	HSM	774	Agonist	Histamine	small-molecule	2025-09-24		F	c1c(nc[nH]1)CCN	NTYJJOPFIAHURM-UHFFFAOYSA-N		true	orthosteric	R:501	
 9JF4	A	A1D63	9937534	Antagonist	PD168368	small-molecule	2025-07-09		B	C[C@](Cc1c[nH]c2c1cccc2)(C(=O)NCC3(CCCCC3)c4ccccn4)NC(=O)Nc5ccc(cc5)[N+](=O)[O-]	AFDXUTWMFMAQJO-PMERELPUSA-N		false	orthosteric	A:601	
@@ -2497,9 +2541,11 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9M40	R	AG2	199	Agonist	AGMATINE	small-molecule	2026-03-11		F	C(CCNC(=N)N)CN	QYPPJABKJHAVHS-UHFFFAOYSA-N		false	orthosteric	R:401	
 9M4Q	A	A1EM4	6604576	Antagonist	Doxazosin, (S)-	small-molecule	2025-07-02		B	COc1cc2c(cc1OC)nc(nc2N)N3CCN(CC3)C(=O)[C@@H]4COc5ccccc5O4	RUZYUOTYCVRMRZ-FQEVSTJZSA-N		false	orthosteric	A:401	
 9M4T	A	A1EMV	5312125	Antagonist	Silodosin	small-molecule	2025-07-02		B	C[C@H](Cc1cc2c(c(c1)C(=O)N)N(CC2)CCCO)NCCOc3ccccc3OCC(F)(F)F	PNCPYILNMDWPEY-QGZVFWFLSA-N		false	orthosteric	A:401	
-9M8P	A, B	A1EM2	125286314	NAM	AF64394	small-molecule	2025-09-24		F, H	CC(C)Oc1cc(ccc1CNc2cc(nc3n2ncn3)c4ccccc4)Cl	WBYNZQXAAWPAGR-UHFFFAOYSA-N		false	allosteric_7tm	A:404, B:401	
+9M8P	B	A1EM2	125286314	NAM	AF64394	small-molecule	2025-09-24		H	CC(C)Oc1cc(ccc1CNc2cc(nc3n2ncn3)c4ccccc4)Cl	WBYNZQXAAWPAGR-UHFFFAOYSA-N		false	allosteric_7tm	B:401	
+9M8P	A	A1EM2	125286314	NAM	AF64394	small-molecule	2025-09-24		F	CC(C)Oc1cc(ccc1CNc2cc(nc3n2ncn3)c4ccccc4)Cl	WBYNZQXAAWPAGR-UHFFFAOYSA-N		false	allosteric_7tm	A:404	
 9M8P	A, B	5YM	5283454	Agonist	Oleoylethanolamide	lipid	2025-09-24		C, K	CCCCCCCC/C=C\CCCCCCCC(=O)NCCO	BOWVQLFMWHZBEF-KTKRTIGZSA-N		true	orthosteric	A:401, B:404	
-9M8V	A	A1EM2	125286314	NAM	AF64394	small-molecule	2025-09-24		F, G	CC(C)Oc1cc(ccc1CNc2cc(nc3n2ncn3)c4ccccc4)Cl	WBYNZQXAAWPAGR-UHFFFAOYSA-N		false	allosteric_7tm	A:401, A:402	
+9M8V	A	A1EM2	125286314	NAM	AF64394	small-molecule	2025-09-24		F	CC(C)Oc1cc(ccc1CNc2cc(nc3n2ncn3)c4ccccc4)Cl	WBYNZQXAAWPAGR-UHFFFAOYSA-N		false	allosteric_7tm	A:401	
+9M8V	A	A1EM2	125286314	NAM	AF64394	small-molecule	2025-09-24		G	CC(C)Oc1cc(ccc1CNc2cc(nc3n2ncn3)c4ccccc4)Cl	WBYNZQXAAWPAGR-UHFFFAOYSA-N		false	allosteric_7tm	A:402	
 9MB9	D, R	HVG	16062593	Agonist	(S)-3,4-DCPG	small-molecule	2025-10-01		F, H	c1cc(c(cc1[C@@H](C(=O)O)N)C(=O)O)C(=O)O	IJVMOGKBEVRBPP-ZETCQYMHSA-N		false	extracellular_domain	D:1001, R:1002	
 9MB9	R	A1ENS	73058507	Ago-PAM	VU0422288	small-molecule	2025-10-01		G	c1ccnc(c1)C(=O)Nc2ccc(c(c2)Cl)Oc3ccc(cn3)Cl	MZRLPXFGQKQHST-UHFFFAOYSA-N		false	allosteric_7tm	R:1001	
 9MBA	D, R	GLU	33032	Agonist	L-glutamate	small-molecule	2025-10-01		G, H	C(CC(=O)O)[C@@H](C(=O)O)N	WHUUTDBJXJRKMK-VKHMYHEASA-N		true	extracellular_domain	D:1001, R:1001	
@@ -2567,7 +2613,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9PXY	R	A1APV	5284596	Agonist (partial)	Naloxone	small-molecule	2025-11-12		G	C=CCN1CC[C@]23c4c5ccc(c4O[C@H]2C(=O)CC[C@]3([C@H]1C5)O)O	UZHSEJADLWPNLE-GRGSLBFTSA-N		false	orthosteric	R:503	
 9PY3	R	A1CMV	3955	Agonist	Loperamide	small-molecule	2025-11-12		G	CN(C)C(=O)C(CCN1CCC(CC1)(c2ccc(cc2)Cl)O)(c3ccccc3)c4ccccc4	RDOIQAHITMMDAJ-UHFFFAOYSA-N		false	orthosteric	R:503	
 9PY4	R	A1CMV	3955	Agonist	Loperamide	small-molecule	2025-11-12		H	CN(C)C(=O)C(CCN1CCC(CC1)(c2ccc(cc2)Cl)O)(c3ccccc3)c4ccccc4	RDOIQAHITMMDAJ-UHFFFAOYSA-N		false	orthosteric	R:503	
-9QC1	A	A1I5G	177865463	Agonist	cp28a	small-molecule	2026-02-11		B, C	Cc1ccc(s1)c2cc(cc(c2)n3c(nnn3)c4ccsc4)C(=O)N[C@@H](CC(C)C)C(=O)O	IXKSDMHVMIKEIX-IBGZPJMESA-N		false	orthosteric	A:601, A:602	
+9QC1	A	A1I5G	177865463	Agonist	cp28a	small-molecule	2026-02-11		B	Cc1ccc(s1)c2cc(cc(c2)n3c(nnn3)c4ccsc4)C(=O)N[C@@H](CC(C)C)C(=O)O	IXKSDMHVMIKEIX-IBGZPJMESA-N		false	orthosteric	A:601	
 9QD4	A	A1I5W	177865464	Agonist	cp30a	small-molecule	2026-02-11		B	Cc1ccccc1c2nnnn2c3cc(cc(c3)C(=O)N[C@@H](CC(C)C)C(=O)O)c4ccc(s4)C	RNQSSRPQSXPXQB-QFIPXVFZSA-N		false	allosteric_7tm	A:1000	
 9QP4	A	RET	638015	Inverse agonist	11-cis-retinal	small-molecule	2026-06-24		D	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=O)/C)/C	NCYCYZXNIZJOKI-OVSJKPMPSA-N		false	orthosteric	A:1101	
 9R41	R	YLX	2477	Agonist (partial)	Buspirone	small-molecule	2026-05-20		E	c1cnc(nc1)N2CCN(CC2)CCCCN3C(=O)CC4(CCCC4)CC3=O	QWCRAEMEVRGPNT-UHFFFAOYSA-N		false	orthosteric	R:501	
@@ -2965,6 +3011,7 @@ PDB	ChainID	Name	PubChemID	Role	Title	Type	Date	In structure	label_asym_id	SMILE
 9XQC		apo	None	Apo (no ligand)	Apo (no ligand)	None	2026-02-04									
 9XQN		apo	None	Apo (no ligand)	Apo (no ligand)	None	2026-02-04									
 21LT	P	pep		Agonist	Setmelanotide	peptide	2026-08-12					RCAHFRWC	unknown	orthosteric		
+21LT	R	CA	271	PAM	CALCIUM ION	small-molecule	2026-08-12		F	[Ca+2]	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		false	orthosteric	R:601	
 21TY	A	A1LYD	57520598	Antagonist	GLPG-0974	small-molecule	2026-09-09		B	C[C@@]1(CCN1C(=O)c2csc3c2cccc3)C(=O)N(CCCC(=O)O)Cc4cccc(c4)Cl	MPMKMQHJHDHPBE-RUZDIDTESA-N		false	orthosteric	A:801	
 22CR	C	pep		Agonist	C5a-desArg	protein	2026-07-22					TLQKKIEEIAAKYKHSVVKKCCYDGARVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDMQLGR	unknown	orthosteric		
 22GK	C	pep		Agonist	C5a anaphylatoxin	protein	2026-07-22					TLQKKIEEIAAKYKHSVVKKCCYDGARVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDMQLGR	unknown	orthosteric		
